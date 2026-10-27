@@ -1,0 +1,648 @@
+{
+  "seccion": "03-espiritus-naturaleza",
+  "titulo": "Espíritus de la naturaleza",
+  "escenas": [
+    {
+      "slug": "la-propuesta-de-dannika",
+      "nombre": "La propuesta de Dannika",
+      "ciudad": "otro",
+      "interior": false,
+      "imagen_en": "Wide establishing view of a narrow snowy street in a remote northern settlement at dusk. Low roofs, stone chimneys trailing grey smoke, oil lanterns, fishing nets and parked sledges frame a weathered tavern door. Ice crystals blow between the buildings. Cold blue shadows contrast with muted amber windows. No people or creatures. Leave the lower third open for overlays.",
+      "lectura": "Una figura embozada se separa de la pared y camina hacia vosotros con paso rápido. La nieve le cruje bajo las botas. «Bien hallados. Buscáis trabajo, o problemas; si no, no estaríais quietos en este frío.» Al echar atrás la capucha, descubrís a una semielfa joven, de dedos manchados de tinta y mirada despierta. Se presenta como Dannika Acerogris y os estudia como quien calcula el peso de una carga. «He oído que os movéis por el valle. Necesito algo vivo, pequeño y esquivo. Algo que, si me equivoco, podría cambiar el invierno de estas tierras.»",
+      "notas": "Dannika ofrece la recompensa acordada y la linterna para estudiar un chwinga vivo y sin daño; acepta que venga por voluntad propia, ya ha buscado sin éxito en la ciudad de partida y espera cada noche en la taberna local. El frío extremo le asusta y tiene otras tareas de investigación, de modo que propone visitar otro asentamiento. Negociar con erudita, persuasión o empatía concede [trato de Dannika] y la linterna; fallar crea [desconfianza de Dannika] o reduce el pago a un favor. Las amenazas provocan [asustada-2] y pueden hacer que retire la oferta.",
+      "musica": "pueblo",
+      "motivos": [
+        "misterio"
+      ],
+      "efectos": [
+        "viento",
+        "pasos"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "frío mordiente",
+        "calle nevada",
+        "trato pendiente",
+        "linterna de rastreo",
+        "helado-1"
+      ],
+      "figuras": [
+        "dannika-acerogris"
+      ]
+    },
+    {
+      "slug": "de-ciudad-en-ciudad",
+      "nombre": "De ciudad en ciudad",
+      "ciudad": "otro",
+      "interior": false,
+      "imagen_en": "Wide establishing view of a compact northern fishing settlement beneath relentless snow. Frozen docks, turf and stone cottages, hanging nets, empty sledges and wind bent pines line a deserted lane. Yellow windows glow beneath a grey twilight sky; a hooded lantern casts faint green light across the snow. No people or creatures. Keep the lower third spacious and clear.",
+      "lectura": "Cada pueblo es un puñado de casas apretadas contra el viento. La nieve borra los caminos y el cielo no termina de aclarar. Encendéis la linterna y su llama tiembla, anaranjada, indiferente. Preguntáis por los espíritus y la gente encoge los hombros: aquí nadie cree en cuentos de muñecos que roban cucharas. Pero un pescador que huele a cerveza agria levanta la vista y sonríe con nostalgia. «Una vez vi una figurita montando un zorro —dice—. Cruzó la calle como si tal cosa. No recuerdo dónde ni cuándo.» La llama sigue naranja. Quizá en el próximo pueblo.",
+      "notas": "No hay chwingas en la ciudad de partida: cada nueva ciudad añade una posibilidad acumulada de una de cada cuatro, hasta presencia segura en la cuarta; el Narrador puede elegir directamente el asentamiento. Buscar lleva poco tiempo: la linterna encendida se vuelve verde a menos de 300 pies de un elemental, sin señalar su posición, y gasta una carga de aceite por escena. Persuasión, callejeo o empatía permiten obtener [rumor del pescador] o [avistamiento reciente], mientras fallar crea [desprecio vecinal]; insistir o ayudar también puede proporcionar el mapa. Linterna de rastreo y rastreador conceden [llama verde] y [rastro de elemental]; fallar crea [búsqueda infructuosa] y avanza el reloj o gasta aceite, y el posible [veto de Torrga] dificulta provisiones y alojamiento si se cumple la continuidad de la misión anterior.",
+      "musica": "camino",
+      "motivos": [
+        "misterio",
+        "ventisca-m"
+      ],
+      "efectos": [
+        "viento",
+        "perros",
+        "pasos"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "nieve profunda",
+        "llama verde",
+        "rumor de un zorro",
+        "desconfianza",
+        "perdido-1"
+      ],
+      "figuras": [
+        "pescador-de-la-cerveza-enana",
+        "invierno-de-auril"
+      ]
+    },
+    {
+      "slug": "la-cabana-de-elva",
+      "nombre": "La cabaña de Elva",
+      "ciudad": "otro",
+      "interior": false,
+      "imagen_en": "Wide establishing view of a low cottage half buried in snow on the outskirts of a northern village. A steep roof carries heavy drifts above shuttered windows, icicles and a small porch. Frozen laundry hangs beside an icy puddle; tiny tracks lead towards shrubs and dark conifers. Grey afternoon light, muted brown and blue palette. No people. Leave the lower third open.",
+      "lectura": "Las casas se separan y la nieve se vuelve más profunda. Al final del camino hay una cabaña con el techo cargado de blanco y los postigos golpeando. Una mujer menuda patalea en el porche, envuelta en un chal grueso, y grita al viento como si pudiera ahuyentarlo. Al veros, señala las ventanas con un gesto acusador. «¿Vosotros también venís a reíros? —dice—. Abren las ventanas, me dejan entrar el frío, golpean las tazas y se llevan mis cubiertos. ¡Mis cubiertos! No son maldiciones de verdad, pero os juro que parecen duendes.»",
+      "notas": "Elva denuncia ventanas abiertas, vajilla movida y cubiertos desaparecidos; no ha visto a los culpables y sospecha de los matorrales. Empatía, paciencia o voz amable dan [confianza de Elva] y acceso al alféizar; burlarse o fallar provoca [sospecha de Elva] y [puerta cerrada]. Observador, rastreador o curiosidad revelan [rastro de chwinga] y [rastros diminutos], frente a [ventana revuelta] y [rastro confuso] al fallar. Rastrear con supervivencia o conocimiento del bosque distingue [tres rastros] y [surcos de arrastre] hacia las coníferas; fallar causa [perdido-2] o [rastro borrado por el viento], pero oído fino o percepción aguda detectan directamente el movimiento entre los árboles.",
+      "musica": "pueblo",
+      "motivos": [
+        "misterio"
+      ],
+      "efectos": [
+        "viento",
+        "puerta",
+        "perros"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "cabaña nevada",
+        "ventanas abiertas",
+        "rastros diminutos",
+        "confianza de Elva",
+        "sospecha de Elva",
+        "helado-1"
+      ],
+      "figuras": [
+        "elva"
+      ]
+    },
+    {
+      "slug": "jugar-a-las-casitas",
+      "nombre": "Jugar a las casitas",
+      "ciudad": "otro",
+      "interior": false,
+      "imagen_en": "Wide establishing view of a small clearing among snow laden conifers. A battered tin plate filled with twigs and pinecones rests in the centre, surrounded by three sets of tiny footprints and narrow drag marks. A fork and knife lie nearby. Soft falling snow, pale blue twilight and subdued evergreen tones. No people or creatures. Leave open snow in the lower third.",
+      "lectura": "Las huellas os llevan a un claro entre los pinos. La nieve está intacta, salvo por un círculo de pisadas menudas y un plato de hojalata lleno de ramas y piñas. Tres figuritas se mueven alrededor. Son diminutas, con caras de máscara y abrigos cosidos a su medida. Una está sentada en el borde del plato; las otras dos sostienen un tenedor y un cuchillo y cortan el aire con mucha ceremonia. Al veros, levantan la vista. La que no tiene cubierto mueve las manos como si comiera y os hace un gesto de invitación. El viento huele a flores.",
+      "notas": "Las chwingas invitan a jugar: juego, creatividad, humor o niño interior conceden [confianza de los chwingas] y [chwinga acompañante], mientras fallar causa [asustadas-2] y las hace esconderse. El espíritu sin cubierto sigue al Héroe hasta diez días y le concede un don al marcharse si lo trata bien; no combate, pero distrae, explora y crea etiquetas de historia. Capturar con astucia, cuidado o red puede lograr [chwinga capturado], pero fallar causa [asustado-3] y [herido-1] al espíritu; perseguir con velocidad o rastreador contra escurridizas puede acabar en [ocultas-3]. La agresividad las lleva a refugiarse en rocas, plantas o nieve, de donde solo salen con ingenio y seguridad; herirlas puede sustituir el don por [miedo a los humanoides] y manchar la reputación del grupo.",
+      "musica": "bosque",
+      "motivos": [
+        "esperanza"
+      ],
+      "efectos": [
+        "viento",
+        "campana"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "claro nevado",
+        "juego de las casitas",
+        "curiosidad",
+        "confianza de los chwingas",
+        "asustadas-2",
+        "ocultas-3"
+      ],
+      "figuras": [
+        "tres-chwingas"
+      ]
+    },
+    {
+      "slug": "el-regreso-a-la-taberna",
+      "nombre": "El regreso a la taberna",
+      "ciudad": "otro",
+      "interior": true,
+      "imagen_en": "Wide establishing view inside a rustic northern tavern with dark timber walls, low beams and a stone hearth. Worn tables, misted glasses and frost rimmed windows surround a corner desk with an open notebook, oil lamp and cold cup. Snow brushes the glass outside. Warm amber firelight and deep brown shadows. No people or creatures. Keep the lower third clear.",
+      "lectura": "La puerta de la taberna se cierra a vuestras espaldas y el calor os golpea la cara. El humo de la chimenea huele a turba y a grasa de pescado. Dannika levanta la vista de su cuaderno; tiene los ojos cansados y una pluma detenida en el aire. Al ver lo que traéis, se queda muy quieta. «¿Está vivo?», pregunta, y su voz suena más joven de lo que esperabais. La taberna sigue hablando a vuestro alrededor, pero ella ya no mira a nadie más.",
+      "notas": "Un chwinga vivo permite cobrar y conservar la linterna; si viene libre y sin daño, Dannika añade un favor extra y ofrece sus notas o laboratorio, respetando la compañía elegida por el espíritu. Si viene capturado o herido, paga pero pierde confianza, el espíritu queda [asustado-3] y, si está herido, exige liberarlo o curarlo; sin chwinga no paga y puede prolongar el préstamo, mientras su muerte provoca horror, ninguna recompensa y posibles [deuda pendiente] o [reputación manchada]. Honestidad, persuasión o empatía conceden [trato cumplido] y [favor de Dannika]; fallar deja [deuda pendiente] o [reputación manchada], y con confianza o chwinga acompañante acepta observar sin llevárselo. Devolver los cubiertos con respeto gana la confianza de Elva, cobijo, sopa y rumores; Dannika puede volver a pedir huesos de dragón blanco para un estofado mágico, con un recibimiento condicionado por este trato.",
+      "musica": "taberna",
+      "motivos": [
+        "esperanza"
+      ],
+      "efectos": [
+        "hogar",
+        "taberna-sfx",
+        "viento"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "taberna cálida",
+        "trato cumplido",
+        "chwinga curioso",
+        "confianza de Dannika",
+        "deuda pendiente",
+        "helado-1"
+      ],
+      "figuras": [
+        "dannika-acerogris",
+        "tres-chwingas"
+      ]
+    }
+  ],
+  "pnj": [
+    {
+      "slug": "dannika-acerogris",
+      "nombre": "Dannika Acerogris",
+      "papel": "patrona de la misión, erudita, acólita y hechicera recién llegada a Diez Ciudades (Dannika Graysteel en el original)",
+      "ciudad": "otro",
+      "aspecto_en": "Full body portrait of a young slender half elf scholar with olive skin, alert eyes and dark hair tucked beneath a hood. She wears a heavy wool coat with notebook filled pockets, winter boots and fingerless gloves revealing ink stained fingertips. A worn notebook and quill identify her work. Her expression combines academic concentration, nervous curiosity and restrained hope.",
+      "presentacion": "Veis acercarse a una semielfa joven con el abrigo abultado de cuadernos. Al apartarse la capucha, el viento le sacude unos mechones oscuros y deja al descubierto una mirada que no se detiene. Sus dedos manchados de tinta sujetan una libreta. Os habla deprisa, midiendo cada palabra; bajo la precisión de sus preguntas percibís una esperanza que todavía no se atreve a dar por cierta.",
+      "caracter": "metódica, curiosa, idealista y un poco nerviosa; habla deprisa cuando se entusiasma, con frases precisas y un deje académico; no es cruel, pero puede ser fría si se siente utilizada",
+      "quiere": "estudiar un chwinga vivo, comprender cómo altera su entorno y encontrar una forma de suavizar el clima del valle; demostrar que su teoría sirve para ayudar a las comunidades",
+      "sabe": "los chwingas viven en Diez Ciudades y sus alrededores; son tímidos, curiosos y capaces de cambiar pequeños detalles de su entorno; la linterna detecta elementales; no hay chwingas en la ciudad de partida; los rumores sobre una figura montada en un zorro; los nombres de otros asentamientos",
+      "desafio": "dannika-social"
+    },
+    {
+      "slug": "elva",
+      "nombre": "Elva",
+      "papel": "vecina humana de las afueras, víctima de las travesuras y testigo",
+      "ciudad": "otro",
+      "aspecto_en": "Full body portrait of a small human woman around fifty, with a cold reddened face and grey hair beneath a knitted wool cap. She wears a thick shawl over layered winter clothing, a patched apron and snow covered boots. She brandishes a battered spoon while speaking. Her indignant expression and tightly hunched shoulders suggest exhaustion, suspicion and a need to be heard.",
+      "presentacion": "Oís los postigos antes de llegar al porche. Una mujer menuda se vuelve hacia vosotros, con la cara encendida por el frío y un chal apretado sobre los hombros. La cuchara que agita marca cada agravio como una campana. Sus botas remueven la nieve mientras os explica lo de las ventanas y los cubiertos. Entre tanto reproche, advertís el cansancio de quien lleva demasiado tiempo hablando sin que nadie la escuche.",
+      "caracter": "exasperada, supersticiosa y teatral; grita al viento y exagera las desgracias, pero se ablanda si alguien la escucha sin burlarse; habla con refranes y nombres locales",
+      "quiere": "recuperar sus cubiertos, cerrar las ventanas, dormir sin corrientes y que alguien tome en serio lo que le pasa",
+      "sabe": "las ventanas aparecen abiertas, el frío entra de golpe, las tazas y los platos amanecen movidos y faltan cubiertos; sospecha que \"los duendes\" se esconden en los matorrales, pero no sabe dónde",
+      "desafio": "elva-social"
+    },
+    {
+      "slug": "tres-chwingas",
+      "nombre": "Las tres chwingas",
+      "papel": "espíritus elementales que juegan a las casitas; objetivo de la misión y posible compañía",
+      "ciudad": "otro",
+      "aspecto_en": "Full body group portrait of three six inch elemental spirits resembling animated dolls, with masklike faces, slender limbs and wild hair. Each wears a miniature winter coat sewn from scraps. One holds a tin fork, another a knife, while the third gestures an invitation to eat. Their poses are playful and curious, with tiny snowy footprints beneath their feet.",
+      "presentacion": "Entre los pinos distinguís tres figuritas de cara enmascarada y pelo alborotado. Sus abrigos parecen hechos con retales, y los cubiertos resultan enormes en sus manos finísimas. Os llega un olor a flores que desentona con la nieve. Una de ellas finge llevarse comida a la boca y os invita a participar. Sus pequeños sonidos recuerdan campanillas; ninguna palabra responde a las vuestras.",
+      "caracter": "silenciosas, curiosas y juguetonas; se comunican con gestos, imitaciones y ruiditos como campanillas; se asustan con los gestos bruscos y se fascinan por las herramientas, la ropa, la comida y la música de los humanoides",
+      "quiere": "jugar, imitar una cena, examinar a los Héroes y, si alguien les cae bien, seguirlo y observarlo",
+      "sabe": "esconderse en rocas, plantas y nieve; moverse sin dejar rastro; reconocer los sitios donde la nieve es blanda y los matorrales huecos; no habla ni entiende lenguas",
+      "desafio": "chwingas-juguetonas"
+    },
+    {
+      "slug": "pescador-de-la-cerveza-enana",
+      "nombre": "El pescador de la cerveza enana",
+      "papel": "rumor andante; puede confirmar que los chwingas existen",
+      "ciudad": "otro",
+      "aspecto_en": "Full body portrait of an elderly human fisherman with a sparse beard, reddened nose and a weathered face. He wears a patched heavy winter coat, layered wool clothing and sturdy boots, leaning on a fishing rod beside a bundled net. His loose posture, distant smile and slightly unfocused eyes suggest a nostalgic storyteller warmed by memories and dwarven beer.",
+      "presentacion": "Os llega primero el olor agrio de la cerveza, mezclado con el frío de las redes. Un hombre mayor levanta hacia vosotros una cara de nariz colorada y barba rala. Se apoya en su caña mientras busca el principio de una historia. Sonríe al recordar una figurita sobre un zorro y luego frunce el ceño: el lugar y la fecha se le escapan, pero la imagen todavía le hace reír.",
+      "caracter": "nostálgico, confuso y hablador; empieza historias que no termina y se ríe de sus propios olvidos",
+      "quiere": "una copa, un poco de calor y alguien que escuche sus historias",
+      "sabe": "vio \"una figurita montando un zorro\" cruzar la ciudad, pero no recuerda dónde ni cuándo; ha oído que los espíritus roban cubiertos y abren ventanas",
+      "desafio": null
+    }
+  ],
+  "desafios": [
+    {
+      "slug": "chwingas-juguetonas",
+      "nombre": "Chwingas juguetonas",
+      "nivel": 1,
+      "poderio": [],
+      "roles": [
+        "Merodeador"
+      ],
+      "aspecto_en": "Full body group portrait of three six inch elemental spirits resembling animated dolls, with masklike faces, slender limbs and wild hair. Each wears a miniature winter coat sewn from scraps. One holds a tin fork, another a knife, while the third gestures an invitation to eat. Their poses are playful and curious, with tiny snowy footprints beneath their feet.",
+      "descripcion": "Tres espíritus elementales diminutos juegan a imitar una cena. No buscan matar: cuando se sienten amenazados, huyen o se esconden.",
+      "limites": [
+        {
+          "nombre": "confianza",
+          "valor": 3,
+          "consecuencia": "se acercan y aceptan el juego"
+        },
+        {
+          "nombre": "asustadas",
+          "valor": 3,
+          "consecuencia": "huyen y se esconden"
+        },
+        {
+          "nombre": "dispersas",
+          "valor": 2,
+          "consecuencia": "se separan y cuesta reunirlas"
+        }
+      ],
+      "etiquetas": [
+        "diminutas",
+        "escurridizas",
+        "curiosas",
+        "juguetonas",
+        "sin lenguaje",
+        "refugio natural",
+        "ocultas-2",
+        "asustadas-3",
+        "fascinadas-2"
+      ],
+      "rasgos": [
+        {
+          "nombre": "Refugio natural",
+          "descripcion": "Se esconden en rocas, plantas o nieve; no hablan ni entienden lenguas."
+        }
+      ],
+      "amenazas": [
+        {
+          "nombre": "Robar un objeto brillante",
+          "descripcion": "se llevan una etiqueta de mochila o un cubierto; crean [objeto robado]; si era importante, [pérdida] hasta recuperarlo.",
+          "consecuencias": [
+            "Aplica [objeto robado]",
+            "Aplica [pérdida]"
+          ]
+        },
+        {
+          "nombre": "Esconderse entre rocas, plantas o nieve",
+          "descripcion": "[ocultas-3]; la búsqueda se alarga y Elva pierde la paciencia ([sospecha de Elva]); si nadie las saca, el rastro se enfría.",
+          "consecuencias": [
+            "Aplica [ocultas-3]",
+            "Aplica [sospecha de Elva]"
+          ]
+        },
+        {
+          "nombre": "Asustarse por un gesto brusco",
+          "descripcion": "[asustadas-3]; se pierde la oportunidad de ganar su confianza; si se las persigue, usan [refugio natural] y desaparecen.",
+          "consecuencias": [
+            "Aplica [asustadas-3]",
+            "Aplica [refugio natural]"
+          ]
+        },
+        {
+          "nombre": "Encariñarse con un Héroe",
+          "descripcion": "[chwinga acompañante] durante diez días; si se le trata bien, otorga un don al marcharse; si se le trata mal, se va sin don y deja [miedo a los humanoides].",
+          "consecuencias": [
+            "Aplica [chwinga acompañante]",
+            "Aplica [miedo a los humanoides]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y secretos",
+          "descripcion": "la curiosidad puede más que el miedo; un banquete fingido, una pelea de bolas de nieve, un baile o una canción las saca de su escondite. No son malignas: si se las hiere, huyen y no otorgan dones. No necesitan aire, comida ni bebida; la cena es un juego, no una necesidad. Si mueren, se convierten en pétalos, polen, una estatuilla de piedra, una esfera lisa o un charco de agua dulce. La aurora de Auril y las ventiscas antinaturales pueden volverlas impredecibles o enloquecerlas."
+        }
+      ]
+    },
+    {
+      "slug": "invierno-de-auril",
+      "nombre": "El invierno de Auril",
+      "nivel": 2,
+      "poderio": [
+        {
+          "nivel": "greatness",
+          "aspecto": "frío extremo y ventiscas antinaturales"
+        }
+      ],
+      "roles": [
+        "Peligro",
+        "Obstáculo"
+      ],
+      "aspecto_en": "Environmental hazard panorama of an empty northern trail swallowed by a sudden blizzard. Cutting wind drives deep snow over thin lake ice, erasing tracks beneath an endless dark sky. A fallen hooded lantern lies near a drift, its fragile glow barely visible. Desaturated blue, white and charcoal tones convey disorientation, exhaustion and overwhelming supernatural cold.",
+      "descripcion": "Peligro ambiental opcional de nivel 2 y Poderío Grandeza. El frío, el hielo fino y la falta de refugio amenazan la marcha y borran los rastros.",
+      "limites": [
+        {
+          "nombre": "helado",
+          "valor": 4,
+          "consecuencia": "el frío acumulado en un Héroe"
+        },
+        {
+          "nombre": "perdido",
+          "valor": 3,
+          "consecuencia": "el grupo se extravía"
+        },
+        {
+          "nombre": "agotado",
+          "valor": 3,
+          "consecuencia": "la marcha sin descanso"
+        }
+      ],
+      "etiquetas": [
+        "viento cortante",
+        "nieve profunda",
+        "hielo fino",
+        "visibilidad nula",
+        "noche interminable",
+        "helado-1",
+        "helado-2",
+        "helado-3",
+        "perdido-2",
+        "empapado-2",
+        "agotado-2"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Ventisca repentina",
+          "descripcion": "[perdido-2]; [helado-2] para quien no se cubra; el grupo se separa y pierde una etiqueta de historia ([rumbo]).",
+          "consecuencias": [
+            "Aplica [perdido-2]",
+            "Aplica [helado-2]",
+            "Aplica [rumbo]"
+          ]
+        },
+        {
+          "nombre": "Hielo fino",
+          "descripcion": "[empapado-2]; [helado-3] si se cae al agua; se pierde una etiqueta de mochila o se daña la linterna.",
+          "consecuencias": [
+            "Aplica [empapado-2]",
+            "Aplica [helado-3]"
+          ]
+        },
+        {
+          "nombre": "Noche sin refugio",
+          "descripcion": "[helado-1] a cada Héroe; [agotado-2]; la Compañía no recupera el aliento y las huellas desaparecen ([rastro perdido]).",
+          "consecuencias": [
+            "Aplica [helado-1]",
+            "Aplica [agotado-2]",
+            "Aplica [rastro perdido]"
+          ]
+        },
+        {
+          "nombre": "Viento que borra las huellas",
+          "descripcion": "[perdido-3]; [rastro borrado]; obliga a buscar refugio o a confiar en la linterna.",
+          "consecuencias": [
+            "Aplica [perdido-3]",
+            "Aplica [rastro borrado]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y secretos",
+          "descripcion": "fuego, refugio, ropa seca, una buena Compañía y los dones de los chwingas. Un descanso en el campamento junto al fuego permite reducir [helado-X] y [agotado-X]. La linterna de rastreo no protege del frío, pero su llama verde puede guiar en la ventisca."
+        }
+      ]
+    },
+    {
+      "slug": "dannika-social",
+      "nombre": "Dannika Acerogris: negociación",
+      "nivel": 2,
+      "poderio": [],
+      "roles": [
+        "Obstáculo"
+      ],
+      "aspecto_en": "Full body portrait of a young slender half elf scholar with olive skin, alert eyes and dark hair tucked beneath a hood. She wears a heavy wool coat with notebook filled pockets, winter boots and fingerless gloves revealing ink stained fingertips. A worn notebook and quill identify her work. Her expression combines academic concentration, nervous curiosity and restrained hope.",
+      "descripcion": "Desafío social que solo aparece si se la presiona o acusa.",
+      "limites": [
+        {
+          "nombre": "convencida",
+          "valor": 3,
+          "consecuencia": "Acepta las explicaciones o la propuesta."
+        },
+        {
+          "nombre": "asustada",
+          "valor": 3,
+          "consecuencia": "Se cierra y puede retirar la oferta."
+        }
+      ],
+      "etiquetas": [
+        "erudita",
+        "nerviosa",
+        "idealista",
+        "bolsillos llenos de notas"
+      ],
+      "rasgos": [
+        {
+          "nombre": "No combate",
+          "descripcion": "Responde mediante el trato social y la retirada de su ayuda."
+        }
+      ],
+      "amenazas": [
+        {
+          "nombre": "Retirar la linterna",
+          "descripcion": "Retira la linterna y cierra la puerta.",
+          "consecuencias": [
+            "Crea [trato roto]"
+          ]
+        },
+        {
+          "nombre": "Recurrir a sus contactos",
+          "descripcion": "Pide a sus contactos que no ayuden al grupo.",
+          "consecuencias": [
+            "Crea [reputación manchada]"
+          ]
+        },
+        {
+          "nombre": "Encerrarse en su investigación",
+          "descripcion": "Deja de responder.",
+          "consecuencias": [
+            "Crea [deuda pendiente]"
+          ]
+        }
+      ],
+      "secretos": []
+    },
+    {
+      "slug": "elva-social",
+      "nombre": "Elva: ganar su confianza",
+      "nivel": 1,
+      "poderio": [],
+      "roles": [
+        "Obstáculo"
+      ],
+      "aspecto_en": "Full body portrait of a small human woman around fifty, with a cold reddened face and grey hair beneath a knitted wool cap. She wears a thick shawl over layered winter clothing, a patched apron and snow covered boots. She brandishes a battered spoon while speaking. Her indignant expression and tightly hunched shoulders suggest exhaustion, suspicion and a need to be heard.",
+      "descripcion": "Desafío social que solo aparece si se la hostiga. La paciencia y una voz amable permiten ganarse su colaboración.",
+      "limites": [
+        {
+          "nombre": "calmada",
+          "valor": 2,
+          "consecuencia": "Escucha al grupo y permite inspeccionar el alféizar."
+        },
+        {
+          "nombre": "asustada",
+          "valor": 2,
+          "consecuencia": "Se encierra y retira su ayuda."
+        }
+      ],
+      "etiquetas": [
+        "exasperada",
+        "supersticiosa",
+        "buena vecina"
+      ],
+      "rasgos": [
+        {
+          "nombre": "No combate",
+          "descripcion": "Responde mediante el trato social y la retirada de su ayuda."
+        }
+      ],
+      "amenazas": [
+        {
+          "nombre": "Echar del porche",
+          "descripcion": "Expulsa al grupo del porche.",
+          "consecuencias": [
+            "Crea [puerta cerrada]"
+          ]
+        },
+        {
+          "nombre": "Avisar a los vecinos",
+          "descripcion": "Describe al grupo como gente problemática.",
+          "consecuencias": [
+            "Crea [sospecha de Elva]"
+          ]
+        },
+        {
+          "nombre": "Ocultar los rastros",
+          "descripcion": "Se niega a señalar los rastros.",
+          "consecuencias": [
+            "Crea [pista perdida]"
+          ]
+        }
+      ],
+      "secretos": []
+    }
+  ],
+  "objetos": [
+    {
+      "slug": "linterna-de-rastreo",
+      "nombre": "Linterna de rastreo: elementales",
+      "etiqueta": "linterna de rastreo: elementales",
+      "descripcion": "linterna encapuchada de metal, con asa y cristal verdoso; arde con aceite y da luz brillante. Etiqueta de mochila. Mientras esté encendida y tenga aceite, su llama se vuelve verde si hay un elemental a menos de 300 pies, pero no indica dónde. Gasta una carga de aceite por escena de búsqueda; si se moja o se queda sin combustible, se apaga hasta el próximo descanso. Es el objeto que Dannika presta y luego regala.",
+      "imagen_en": "A hooded metal lantern with a sturdy carrying handle and greenish glass, isolated on a neutral background. An oil flame shines inside, casting a soft emerald reflection on the worn casing. No lettering."
+    },
+    {
+      "slug": "cubiertos-robados",
+      "nombre": "Cubiertos robados",
+      "etiqueta": "cubiertos robados",
+      "descripcion": "tenedor, cuchillo y cuchara de hojalata, con marcas de uso; etiqueta de historia o de mochila. Son la prueba de las travesuras y el juguete favorito de las chwingas. Devolverlos a Elva crea [confianza de Elva]; si se pierden, [sospecha de Elva].",
+      "imagen_en": "A worn tin fork, knife and spoon arranged together on a neutral background. Scratches and dents show years of household use, with a few grains of snow caught along the dull metal edges."
+    },
+    {
+      "slug": "banquete-imaginario",
+      "nombre": "Banquete imaginario",
+      "etiqueta": "banquete imaginario",
+      "descripcion": "plato de hojalata con ramas y piñas; etiqueta de historia. Sirve para atraer a las chwingas y para que un Héroe se una al juego; si se retira o se pisotea, las chwingas se asustan ([asustadas-2]).",
+      "imagen_en": "A battered tin plate filled with small twigs and pinecones, arranged like an imaginary feast. Isolated on a neutral background, softly lit to reveal weathered metal, rough bark and delicate pine scales."
+    },
+    {
+      "slug": "notas-de-dannika",
+      "nombre": "Notas de Dannika",
+      "etiqueta": "notas de Dannika",
+      "descripcion": "cuaderno de tapas gastadas con hipótesis sobre el clima, un dibujo torpe de un chwinga y una lista de rumores; etiqueta de historia o documento para los jugadores. Contiene tres pistas: los chwingas son tímidos y curiosos; imitan a los humanoides; un don suyo puede cambiar el aliento del invierno. No revela la ubicación exacta.",
+      "imagen_en": "A small notebook with worn covers, open to faint abstract sketches and indistinct ink marks. A quill rests nearby. Isolated on a neutral background, warm light revealing stained paper and frayed binding."
+    },
+    {
+      "slug": "mapa-de-diez-ciudades",
+      "nombre": "Mapa de Diez Ciudades",
+      "etiqueta": "mapa de Diez Ciudades",
+      "descripcion": "mapa dibujado a mano con los asentamientos y las rutas de trineo; etiqueta de historia o documento para los jugadores. Ayuda a planificar el viaje y a elegir la próxima ciudad.",
+      "imagen_en": "A hand drawn regional map on worn paper, with small settlement symbols and connecting sledge routes rendered as indistinct lines. Isolated on a neutral background, softly lit, without readable words or invented geographical detail."
+    },
+    {
+      "slug": "don-de-las-bestias",
+      "nombre": "Don de las bestias",
+      "etiqueta": "don de las bestias",
+      "descripcion": "etiqueta de mochila, un uso. Una vez por escena, el Héroe puede llamar a un animal pequeño para que cree [aliado animal] o [distracción]; el animal no lucha, pero ayuda a rastrear, distraer o explorar.",
+      "imagen_en": "A small symbolic elemental blessing represented by a delicate animal silhouette, isolated against a neutral background. Soft winter lighting, delicate textures, no lettering, no people; an evocative illustration rather than a manufactured magical item."
+    },
+    {
+      "slug": "don-del-heroe",
+      "nombre": "Don del héroe",
+      "etiqueta": "don del héroe",
+      "descripcion": "etiqueta de mochila, un uso. El Héroe obtiene [valiente-3] o ignora [asustado-X] durante una escena; después, la etiqueta se agota.",
+      "imagen_en": "A small symbolic elemental blessing represented by a warm courageous glow, isolated against a neutral background. Soft winter lighting, delicate textures, no lettering, no people; an evocative illustration rather than a manufactured magical item."
+    },
+    {
+      "slug": "don-de-vitalidad",
+      "nombre": "Don de vitalidad",
+      "etiqueta": "don de vitalidad",
+      "descripcion": "etiqueta de mochila, un uso. El Héroe reduce [herido-X] en un nivel o gana [vigor-2] hasta el final de la escena.",
+      "imagen_en": "A small symbolic elemental blessing represented by a vibrant pulse of light, isolated against a neutral background. Soft winter lighting, delicate textures, no lettering, no people; an evocative illustration rather than a manufactured magical item."
+    },
+    {
+      "slug": "bola-de-nieve",
+      "nombre": "Bola de nieve",
+      "etiqueta": "bola de nieve",
+      "descripcion": "etiqueta de mochila, cinco usos. Ataque a distancia con [frío]; con un éxito claro, el objetivo queda [cegado-2] hasta su siguiente acción. La bola desaparece tras el impacto.",
+      "imagen_en": "A small symbolic elemental blessing represented by a compact snowball, isolated against a neutral background. Soft winter lighting, delicate textures, no lettering, no people; an evocative illustration rather than a manufactured magical item."
+    },
+    {
+      "slug": "bonanza",
+      "nombre": "Bonanza",
+      "etiqueta": "bonanza",
+      "descripcion": "etiqueta de mochila, tres usos. Crea comida y agua suficientes para el grupo; elimina [hambriento-X] o crea [banquete] en la escena.",
+      "imagen_en": "A small symbolic elemental blessing represented by simple food and clear water, isolated against a neutral background. Soft winter lighting, delicate textures, no lettering, no people; an evocative illustration rather than a manufactured magical item."
+    },
+    {
+      "slug": "resistencia-al-frio",
+      "nombre": "Resistencia al frío",
+      "etiqueta": "resistencia al frío",
+      "descripcion": "etiqueta de mochila, un día. El Héroe ignora [helado-1] o reduce en un nivel los estados de frío; no protege de las consecuencias directas del hielo.",
+      "imagen_en": "A small symbolic elemental blessing represented by a protective shimmer around ice crystals, isolated against a neutral background. Soft winter lighting, delicate textures, no lettering, no people; an evocative illustration rather than a manufactured magical item."
+    },
+    {
+      "slug": "caminante-de-las-nieves",
+      "nombre": "Caminante de las nieves",
+      "etiqueta": "caminante de las nieves",
+      "descripcion": "etiqueta de mochila, tres usos. Durante un día, el Héroe y sus aliados cercanos ignoran el terreno difícil de nieve o hielo, ven a través de la nieve y no sufren los efectos del frío extremo.",
+      "imagen_en": "A small symbolic elemental blessing represented by footprints crossing untouched snow, isolated against a neutral background. Soft winter lighting, delicate textures, no lettering, no people; an evocative illustration rather than a manufactured magical item."
+    },
+    {
+      "slug": "filo-gelido",
+      "nombre": "Filo gélido",
+      "etiqueta": "filo gélido",
+      "descripcion": "etiqueta de mochila, tres usos. Durante una escena, los ataques del Héroe infligen [frío-1] adicional.",
+      "imagen_en": "A small symbolic elemental blessing represented by a blade edge covered in frost, isolated against a neutral background. Soft winter lighting, delicate textures, no lettering, no people; an evocative illustration rather than a manufactured magical item."
+    },
+    {
+      "slug": "refugio-del-viajero",
+      "nombre": "Refugio del viajero",
+      "etiqueta": "refugio del viajero",
+      "descripcion": "etiqueta de mochila, tres usos. Crea un refugio cálido y seco para el grupo; permite un descanso en el campamento seguro y elimina [helado-X] o [empapado-X] al entrar.",
+      "imagen_en": "A small symbolic elemental blessing represented by a miniature warm shelter, isolated against a neutral background. Soft winter lighting, delicate textures, no lettering, no people; an evocative illustration rather than a manufactured magical item."
+    },
+    {
+      "slug": "corazon-de-troll-de-hielo",
+      "nombre": "Corazón de troll de hielo",
+      "etiqueta": "corazón de troll de hielo",
+      "descripcion": "etiqueta de mochila, un uso. Cuando el Héroe sufra una consecuencia de frío, puede anularla y recuperar el aliento ([vigor-2] o elimina [helado-X]).",
+      "imagen_en": "A small symbolic elemental blessing represented by a heart shaped icy glow, isolated against a neutral background. Soft winter lighting, delicate textures, no lettering, no people; an evocative illustration rather than a manufactured magical item."
+    },
+    {
+      "slug": "recuerdo-de-chwinga",
+      "nombre": "Recuerdo de chwinga",
+      "etiqueta": "recuerdo de chwinga",
+      "descripcion": "si un chwinga muere, deja pétalos de flores, polen, una estatuilla de piedra, una esfera lisa o un charco de agua dulce; etiqueta de historia. Dannika la guarda como prueba y los Héroes pueden usarla para recordar lo que perdieron.",
+      "imagen_en": "A small symbolic elemental blessing represented by scattered flower petals and pollen, isolated against a neutral background. Soft winter lighting, delicate textures, no lettering, no people; an evocative illustration rather than a manufactured magical item."
+    }
+  ],
+  "ayudas": [
+    {
+      "slug": "notas-de-dannika",
+      "titulo": "Notas de Dannika",
+      "tipo": "libro",
+      "texto": "Hipótesis de trabajo: los chwingas alteran pequeños detalles de su entorno. Estudiarlos podría ayudarnos a suavizar el clima del valle.\n\nSon tímidos y curiosos.\nImitan a los humanoides.\nUn don suyo puede cambiar el aliento del invierno.\n\nYa he buscado sin éxito en la ciudad de partida. Conviene probar en otro asentamiento. La linterna encendida se vuelve verde cuando un elemental está a menos de 300 pies, pero no indica su posición exacta.\n\n[Boceto torpe de un chwinga.]",
+      "fondo_en": "An open small research notebook with weathered cream pages, a worn binding and lightly stained edges. Empty writing surfaces under warm oil lamp lighting, no text, no symbols or drawings."
+    },
+    {
+      "slug": "mapa-de-diez-ciudades",
+      "titulo": "Mapa de Diez Ciudades",
+      "tipo": "mapa",
+      "texto": "Diez Ciudades\n\nBryn Shander · Targos · Bremen · Termalaine · Lonelywood · Caer Konig · Caer Dineval · Easthaven · Buenaguamiel · Refugio Dougan\n\nAsentamientos y rutas de trineo para planificar el viaje y elegir la próxima ciudad.",
+      "fondo_en": "A blank sheet of weathered map paper with creases, gently frayed edges and faint water stains, spread flat under cool daylight. No text, no symbols, no route lines, no geographical markings."
+    },
+    {
+      "slug": "rumores-de-los-espiritus",
+      "titulo": "Rumores de los espíritus",
+      "tipo": "nota",
+      "texto": "«Una vez vi una figurita montando un zorro. Cruzó la calle como si tal cosa. No recuerdo dónde ni cuándo.» —Un pescador aficionado a la cerveza enana.\n\nSe cuenta que los espíritus roban cubiertos y abren ventanas. Muchos vecinos no dan importancia a estas historias.",
+      "fondo_en": "A small blank scrap of rough paper with irregular edges and a slight fold, resting flat on dark timber. Muted warm light reveals coarse fibres. No writing, no lettering, no illustrations."
+    }
+  ],
+  "hitos": [
+    "Primer contacto con los espíritus: comprender que los chwingas no son monstruos.",
+    "Un amigo en el valle: ganar la confianza de Dannika o de Elva.",
+    "La linterna verde: usar la linterna para encontrar un elemental.",
+    "Tratar al chwinga como a un igual y ganar amigo del valle como etiqueta de Compañía."
+  ],
+  "relojes": [
+    {
+      "nombre": "Búsqueda de chwingas: cada nueva ciudad añade una posibilidad de cada cuatro; en la cuarta la presencia es segura",
+      "segmentos": 4
+    }
+  ]
+}

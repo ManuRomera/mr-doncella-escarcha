@@ -1,0 +1,270 @@
+# Bryn Shander
+
+## Resumen para el Narrador
+
+Bryn Shander es la puerta de entrada al Valle del Viento Helado: una villa amurallada sobre una colina barrida por el viento, la más segura y también la más fría de las Diez Ciudades. El invierno sin fin de Auril ha vaciado sus calles y agriado el humor de sus gentes, pero sus tabernas siguen siendo el mejor lugar para encontrar trabajo, rumores y problemas. La misión principal es sencilla en apariencia: tres enanos escudo han perdido un trineo de lingotes de hierro del clan Battlehammer y ofrecen una piedra preciosa a cada Héroe que lo recupere. El trineo, sin embargo, ya ha caído en manos de una banda de goblins de Karkolohk que lo arrastra con un carro tirado por dos osos polares hambrientos. La escena admite combate, engaño, negociación o una jugada brillante con los osos. Además, la villa es una base de operaciones: el Santuario de la Mañana esconde el gancho de la Cabaña Negra, el Mirador al Norte rebosa rumores y la Vieja Mordisquitos guarda un secreto para los Cazadores del Anillo.
+
+## Ganchos y cómo empieza
+
+- **Los enanos desesperados**: Hruna, Korux y Storn abordan al grupo en el Mirador al Norte o en una calle nevada. Han perdido un trineo de lingotes de hierro y no pueden permitirse volver a la mina con las manos vacías.
+- **La piedra de sangre**: cada Héroe que recupere la carga recibe una gema de valor notable. Es un pago directo, tangible y fácil de convertir en una etiqueta de mochila o en un favor.
+- **La amistad de los enanos**: Hruna ofrece algo más duradero que el metal: la gratitud del clan Battlehammer y de los enanos del valle. En una tierra donde la comida y el refugio escasean, un aliado con una mina vale mucho.
+- **El Santuario de la Mañana**: Cobre Perilla, un gnomo pesimista, está preocupado por su amigo Macreadus, que investiga en una cabaña apartada un dispositivo capaz de acabar con el invierno. Es un gancho hacia la Cabaña Negra.
+- **Los rumores del Mirador**: la taberna es el mejor lugar de las Diez Ciudades para encontrar clientes, noticias y problemas. El Narrador puede usar la tabla de rumores de la página 18 para sembrar otras misiones.
+- **La copla del pez**: la Vieja Mordisquitos, una trucha disecada sobre la chimenea, canta de vez en cuando una copla sobre un lugar río arriba, oculto bajo la nieve. Si un Héroe tiene el secreto de Cazador del Anillo, el anillo que busca puede estar en su garganta.
+- **Bryn Shander como base**: la villa es el punto de partida natural para recorrer las Diez Ciudades. Sus puertas, su milicia y su mercado permiten reagruparse, comprar equipo y escuchar lo que ocurre en el valle.
+- **Cómo empieza**: si los Héroes comienzan en Bryn Shander, Hruna los aborda en la calle o en la taberna. Si llegan más tarde, la noticia del trineo perdido puede alcanzarles en cualquier asentamiento y los enanos pueden haber estado buscando ayuda durante días.
+- **Si rechazan la misión**: los enanos se marchan sin insistir. Pasarán un par de días buscando a otros antes de volver a casa; la carga quedará en manos de los goblins y el Narrador puede usar ese fracaso más adelante.
+
+## Escenas
+
+### Bryn Shander, la villa amurallada
+
+- **Lugar e imagen**: una colina pelada y ventosa se alza sobre la tundra; en su cima, una muralla de unos treinta pies formada por dos anillos de postes de madera rellenos de tierra y cascotes, con el anillo exterior sobresaliendo como almenas. Las puertas, de quince pies, están reforzadas con vigas de hierro. Dentro, calles estrechas y empinadas, faroles colgados que se balancean, tejados bajos, chimeneas de piedra, montones de nieve sucia y jirones de humo gris. La luz es azulada y escasa; el viento no deja de silbar entre las casas.
+- **Lectura**: «La colina aparece de pronto entre la niebla de nieve. Sobre ella se recorta una muralla oscura de postes y tierra, coronada por almenas irregulares, y una puerta de madera cerrada con vigas de hierro. Los faroles que cuelgan sobre la calle se mecen y dibujan charcos de luz amarilla en la nieve. Al otro lado se oyen voces, un martillo, el ladrido de un perro. Un guardia embozado os observa desde lo alto y golpea el asta contra la pasarela. Nadie sonríe. En Bryn Shander, la calidez se ha vuelto un lujo y la desconfianza, una costumbre.»
+- **Qué ocurre**: la villa tiene unos 1.200 habitantes y es el asentamiento más seguro del valle, aunque no el más acogedor. La portavoz Duvessa Shane habla en nombre del Consejo de Oradores y el sheriff Markham Pozosur manda la milicia: hasta 250 soldados y 20 veteranos. Las puertas se cierran al oscurecer y pasan más tiempo cerradas que abiertas. Las valoraciones locales son moderadas en amabilidad, servicios y comodidad: hay de todo, pero nada sobra. Desde aquí se viaja a Puerto Este por el Eastway (unas siete horas y media), a Caer-Dineval (diez y media), a Buenaguamiel (seis), a Targos (dos) y a Termalaine (seis); las monturas y los trineos de perros reducen esos tiempos a la mitad. No hay rivalidades declaradas con otras ciudades, pero sí rumores de sacrificios a Auril en el valle. Si los Héroes causan problemas, la milicia responde con rapidez.
+- **Etiquetas de escena**: [villa amurallada], [puertas cerradas], [faroles al viento], [nieve pisoteada], [milicia alerta], [frío mordiente], [helado-1] para quien no vaya bien abrigado.
+- **Ambiente sonoro**: viento constante, faroles que golpean, crujido de nieve, martillo lejano, voces apagadas, portones que se atrancan.
+
+### Filos de Hierro Negro
+
+- **Lugar e imagen**: una herrería y tienda pegada a la plaza principal, con la fachada ennegrecida por el hollín y un cartel de hierro que representa unas hojas negras. Dentro, el resplandor naranja de la forja corta la penumbra; hay estantes con cuchillas baratas, raquetas de nieve, picos, raciones, pieles y guantes colgados del techo. El vapor del metal caliente se mezcla con el viento que entra por la puerta.
+- **Lectura**: «El calor os golpea al cruzar la puerta. El martillo repica sobre el yunque y una lluvia de chispas ilumina la cara sudorosa del herrero. Detrás del mostrador, una enana de trenza pelirroja ordena raciones y raquetas con las manos rápidas. Las paredes están llenas de hojas de acero mate, baratas y honestas, y de herramientas de invierno. El herrero levanta la vista, evalúa vuestras armas y sonríe sin demasiada simpatía. “Si buscáis algo que corte —dice—, habéis venido al sitio. Si buscáis algo que dure, tendréis que pagar más.”»
+- **Qué ocurre**: Garn el Martillo fabrica las hojas más baratas de las Diez Ciudades; los mercenarios veteranos las desprecian por su calidad poco inspiradora, y hay una broma local sobre el infeliz recién llegado que acaba armado con una hoja de Hierro Negro. Su hermana Elza vende suministros de aventura: raciones, ropa de clima frío, picos de hielo y raquetas de nieve. Si los Héroes completan la misión de Hruna, obtienen un descuento del diez por ciento en la tienda. Aquí pueden comprar el equipo necesario para el viaje o descubrir que no llevan lo suficiente.
+- **Etiquetas de escena**: [forja caliente], [acero barato], [suministros de invierno], [descuento pendiente], [olor a carbón].
+- **Ambiente sonoro**: martillo sobre yunque, fuelle, chisporroteo, metal que se enfría, viento en la puerta.
+
+### Santuario de la Mañana
+
+- **Lugar e imagen**: una casa modesta cerca de la plaza del mercado noreste, convertida en santuario. En la fachada, un disco solar de metal dorado; dentro, bancos de madera, velas, un altar sencillo y ventanas con escarcha. En el ático hay una ventana pequeña, cortinas remendadas y un olor a lana húmeda y a aceite. La luz es cálida pero escasa; el frío se cuela por las rendijas.
+- **Lectura**: «El santuario huele a cera y a lana mojada. Una mujer mayor de pelo blanco, envuelta en una túnica amarilla, discute con una figura menuda que lleva un traje de piel con capucha y gafas remendadas. La figura parece un osito de peluche irritado. Al veros, la mujer se calla y os estudia; el gnomo aprovecha para refugiarse detrás de un banco. “Bienvenidos al Santuario de la Mañana —dice ella—. Aquí servimos a Amaunator, el Señor de la Mañana. Ignorad al gnomo: lleva toda la tarde quejándose del frío.” El gnomo resopla. “El frío no es el problema —murmura—. El problema es que nadie me escucha.”»
+- **Qué ocurre**: Mishann, una aventurera humana retirada, dirige el santuario y espera ver el sol recuperar su lugar sobre el valle. Llama a Amaunator «el Señor de la Mañana» y se enfada cuando la gente lo confunde con Lathander, al que considera un usurpador. Cobre Perilla, un gnomo de las rocas pesimista, alquila el ático y ayuda a regañadientes con las tareas; los dos discuten sin parar. Cobre lleva un traje peludo con capucha hecho por él mismo: da calor, pero lo hace parecer un osito. Si los Héroes hablan con él, les cuenta que está preocupado por Macreadus, un amigo que investiga en una cabaña vieja del valle y trata de construir un dispositivo capaz de terminar con el invierno eterno de la Doncella de Escarcha. Les pide que, si pasan cerca, se asomen a ver cómo está. Es el gancho hacia la Cabaña Negra.
+- **Etiquetas de escena**: [santuario modesto], [discusión constante], [olor a cera], [frío en las ventanas], [preocupación de Cobre].
+- **Ambiente sonoro**: murmullo de discusión, cera que gotea, viento en las rendijas, pasos en el ático.
+
+### El Mirador al Norte
+
+- **Lugar e imagen**: una posada de madera oscura, grande para el tamaño de la villa, con la sala común siempre llena. Vigas bajas, chimenea de piedra, mesas gastadas, jarras empañadas, mapas clavados en las paredes, raquetas y abrigos colgados junto a la puerta. El humo de la turba y la grasa de pescado forma una niebla azulada; fuera, la nieve golpea las ventanas. Sobre la chimenea, una trucha disecada montada en una placa.
+- **Lectura**: «La puerta se cierra y el ruido os envuelve: risas, dados, el golpe de una jarra, una discusión que amenaza con convertirse en pelea. El calor huele a turba, a cerveza agria y a pescado. Media docena de mercenarios os miran de reojo desde las mesas; algunos llevan cicatrices, otros llevan demasiadas armas. Detrás del mostrador, un hombre corpulento con delantal sobre una cota gastada seca un vaso con un trapo y sonríe como quien ya os ha puesto precio. “Buscáis trabajo, rumores o una cama —dice—. Todo se paga aquí, de una forma u otra.”»
+- **Qué ocurre**: el Mirador al Norte es el establecimiento más frecuentado por mercenarios y aventureros, y por tanto el más animado y peligroso de Bryn Shander. Su sala es el mejor lugar de las Diez Ciudades para conseguir clientes, noticias y rumores; quien pase un rato aquí escuchará al menos un rumor, que puede determinarse con la tabla de la página 18. El propietario es Scramsax, un mercenario retirado que conoce bien el ciclo de vida del aventurero. A menudo permite quedarse a crédito a quienes están entre trabajos y luego presenta una factura inflada por intereses cuando llega el siguiente pago. Quien no paga descubre que el viejo mercenario todavía sabe manejar una espada y que no acepta «más tarde» como respuesta. Aquí pueden encontrar a Hruna y sus compañeros, contratar guías o contratar problemas.
+- **Etiquetas de escena**: [taberna abarrotada], [humo y grasa], [rumores], [crédito de Scramsax], [camaradería tensa], [calor del hogar].
+- **Ambiente sonoro**: fuego crepitando, vasos que chocan, risas, dados, cuchillos contra platos, viento en la puerta.
+
+### La Vieja Mordisquitos
+
+- **Lugar e imagen**: el rincón de la chimenea del Mirador al Norte. Sobre la repisa, una trucha enorme, disecada y montada en una placa de madera; la piel está llena de cicatrices y el ojo de cristal refleja el fuego. El polvo se acumula en las aletas; el humo la tiñe de ámbar. Cuando la sala se queda en silencio, parece que el pez respira.
+- **Lectura**: «Sobre la chimenea hay una trucha disecada, más grande de lo que debería ser una trucha, con la boca abierta y un ojo de cristal que os sigue. Scramsax la llama la Vieja Mordisquitos. “La pescó un pícaro y un druida raro —dice—. Me la trajeron para que alguien la cocinara. Yo la compré y la mandé disecar. Ahora es mi trofeo.” Alguien ríe. El pez sigue mirando. De pronto, muy bajito, como si la madera cantara, empieza a tararear una copla sobre un lugar río arriba, oculto bajo la nieve.»
+- **Qué ocurre**: la Vieja Mordisquitos fue capturada por el pícaro humano Kintyre y su compañero, un druida que se hacía llamar el Inconformista, en las profundidades heladas de Maer Dualdon. Scramsax la compró y la hizo disecar. Años después, un mago bromista lanzó un hechizo sobre el pez: ahora intenta morder a cualquier criatura que se acerque a menos de cinco pies. De vez en cuando, y al parecer al azar, canta una copla sobre un lugar al que le gusta ir, más arriba del río, cuya ubicación es imposible de saber y que debe yacer bajo la nieve. Si un Héroe tiene el secreto de Cazador del Anillo (apéndice B), el anillo de sello que busca puede estar atascado en la garganta del pez. Scramsax no permitirá que nadie lo manipule sin una compensación generosa y sin garantías de que el trofeo no quedará arruinado; el anillo puede recuperarse sin cirugía. La copla puede entregarse como documento a los jugadores.
+- **Etiquetas de escena**: [trofeo disecado], [hechizo bromista], [copla del río], [secreto del anillo], [chimenea].
+- **Ambiente sonoro**: fuego, madera que cruje, un tarareo casi inaudible, el golpe de una jarra.
+
+### La misión de Hruna
+
+- **Lugar e imagen**: una calle nevada junto al Mirador al Norte, o el interior de la taberna si los Héroes están sentados. Tres enanos escudo embozados hasta los ojos, con raquetas de nieve a la espalda y picos de hielo en el cinturón; dos tienen barbas espesas y la tercera es una mujer de voz rasposa. La nieve les cubre las botas; el aliento les sale en nubes blancas. La luz de un farol les dibuja las arrugas y las marcas de congelación.
+- **Lectura**: «Tres figuras encapuchadas se acercan dando trompicones. Llevan raquetas colgadas a la espalda y picos de hielo en el cinturón; solo se les ven los ojos. La que va delante señala con una mano enguantada. “Bien hallados. Soy Hruna; ellos son Korux y Storn. Necesitamos ayuda y vosotros parecéis capaces.” Su voz suena rasposa, como si le costara hablar. “Llevábamos un trineo de lingotes a Bryn Shander. Un yeti nos sorprendió, mató a Oobok y nos hizo huir. El trineo sigue en la tundra. Os pagaremos una piedra preciosa a cada uno si lo recuperáis.”»
+- **Qué ocurre**: Hruna, Korux y Storn son mineros del clan Battlehammer; trabajan en una mina al pie de la Cumbre de Kelvin, de la que sale la mayor parte del hierro de las herrerías de las Diez Ciudades. Hruna lleva la voz cantante; perdió la oreja derecha y dos dedos por congelación. Korux casi no habla y ha perdido varios dedos y la nariz. Storn tiene un miedo terrible a los dragones blancos y no deja de mirar al cielo. Ofrecen una piedra de sangre de cincuenta piezas de oro a cada Héroe, además de la amistad de los enanos del valle. Hruna lleva una bolsa de piel de foca con seis piedras; Korux, quince piezas de oro en una bolsa forrada de piel de yeti; Storn, una cerradura de hierro oxidada que usa como amuleto y cuya llave perdió. Si los Héroes matan a los enanos y les roban, los testigos avisan a la milicia y serán arrestados a menos que huyan de la villa de inmediato. Korux puede pagar las raquetas de nieve si el grupo anda escaso. Si rechazan la misión, los enanos se marchan y buscan ayuda en otro sitio durante un par de días antes de volver a casa. Acepten o no, Hruna señala la ruta hacia la Cumbre de Kelvin: el trineo está a medio camino, en plena tundra.
+- **Etiquetas de escena**: [tres enanos helados], [trato pendiente], [raquetas de nieve], [rumbo a la Cumbre de Kelvin], [amistad enana].
+- **Ambiente sonoro**: viento, dientes que castañetean, raquetas contra la nieve, una voz rasposa.
+
+### La ventisca
+
+- **Lugar e imagen**: la tundra abierta, sin árboles ni referencias, bajo un cielo de plomo. Una pared de nieve blanca avanza desde el norte; la visibilidad cae a veinte pies, la Cumbre de Kelvin desaparece y el mundo se reduce a copos, viento y sombras. La nieve vuela en remolinos; el suelo y el cielo se confunden. No hay horizonte, solo una blancura que borra las huellas.
+- **Lectura**: «La ventisca baja del norte como una cortina. En unos segundos, la Cumbre de Kelvin deja de existir. La nieve os golpea la cara y el viento aúlla con una fuerza que no parece natural. A veinte pies, vuestros compañeros son solo manchas oscuras. Las huellas desaparecen casi antes de que las dejéis. El frío muerde la piel expuesta y se cuela por las costuras. Podéis deteneros, cavar un refugio y esperar a que pase, o seguir adelante y confiar en no perder el rumbo. El viento no da consejos. Solo empuja.»
+- **Qué ocurre**: a un par de millas del trineo, la ventisca envuelve al grupo y dura 2d4 horas. Los Héroes pueden esperar o continuar. Si continúan, pueden desviarse, perder el rumbo o separarse (véanse las reglas de ventiscas, página 10). Si esperan, deben encontrar o improvisar refugio y soportar el frío. La ventisca borra las huellas de Oobok y del yeti, pero no las de los goblins, que son más recientes. El Narrador puede usar esta escena para gastar recursos, crear tensión y obligar a elegir entre la prisa y la seguridad.
+- **Etiquetas de escena**: [ventisca], [visibilidad veinte pies], [viento aullante], [frío de Auril], [tundra sin referencias], [helado-1/2] según la exposición.
+- **Ambiente sonoro**: viento aullante, nieve que azota la ropa, crujido de hielo, silencio blanco entre ráfagas.
+
+### El cadáver de Oobok
+
+- **Lugar e imagen**: una cresta cubierta de nieve, sobre un barranco poco profundo. En el fondo, un cadáver congelado y desmembrado: un torso sin cabeza, extremidades cortadas, jirones de ropa de invierno y manchas oscuras bajo la nieve. Alrededor, huellas y los surcos profundos que deja un trineo arrastrado. La luz es gris y plana; el viento levanta polvo de nieve.
+- **Lectura**: «Alcanzáis una cresta y el viento amaina un instante. Abajo, en el barranco, hay un cuerpo. Está congelado y desmembrado: el torso no tiene cabeza y las extremidades están separadas, medio cubiertas por la nieve. La sangre es negra sobre el hielo. Alrededor del cadáver hay huellas, y en la nieve se ven dos surcos paralelos, como los de un trineo que alguien ha arrastrado. No hay animales cerca. Solo el viento. Y, por un momento, juráis que las huellas se mueven.»
+- **Qué ocurre**: el cadáver es Oobok, el enano que murió cuando el yeti atacó al grupo. El yeti se comió los brazos y la mayor parte de los órganos internos, y se llevó la cabeza. Las huellas de Oobok y del yeti han sido borradas por el viento; las que quedan son de goblins. Con una tirada de Sabiduría (Supervivencia) CD 10, los Héroes determinan que son frescas, de la última hora, y que pertenecen a media docena de pequeños humanoides con raquetas de nieve. Las pistas conducen al sur. Si las siguen durante media hora, alcanzan a los goblins, que avanzan lentamente por el peso del trineo. Si fallan la tirada, el rastro es confuso y la ventisca puede borrarlo; el Narrador puede cobrar tiempo, sumar [perdido-1] o permitir otra tirada tras un esfuerzo.
+- **Etiquetas de escena**: [cadáver mutilado], [huellas frescas], [surcos de trineo], [rastro goblin], [horror].
+- **Ambiente sonoro**: viento, nieve que cruje, hielo que se rompe, un silencio demasiado grande.
+
+### La caravana de Izobai
+
+- **Lugar e imagen**: la tundra abierta, con el trineo de los enanos a medio camino entre los Héroes y un carro goblin de unos veinte pies de altura, plantado en la nieve. Seis goblins tiran del trineo; dos osos polares, con arneses y cadenas, respiran agitados junto al carro. En el techo del carro, una goblin de una sola oreja sostiene una antorcha encendida y un halcón encapuchado. La nieve está removida, llena de huellas y surcos. La luz es baja y el viento arrastra cristales de hielo.
+- **Lectura**: «Las figuras que seguíais son goblins. Seis de ellos arrastran el trineo de los enanos, jadeando y maldiciendo, hacia un carro enorme plantado en la nieve. Del carro tiran dos osos polares, enormes y furiosos, con los arneses tensos. En el techo, una goblin de una sola oreja levanta una antorcha; un halcón encapuchado se agarra a su brazo. Los goblins no os han visto todavía. El trineo está a unos ciento veinte pies; el carro, otros ciento veinte más allá. El viento os trae el olor de los osos y el ruido de las cadenas.»
+- **Qué ocurre**: los goblins vienen de la fortaleza de Karkolohk. Su halcón explorador vio el trineo abandonado y la jefa, Izobai, envió a seis goblins a apoderarse de la carga mientras ella y dos más se quedaban a proteger el carro y a los osos. Al empezar el encuentro, los Héroes están a 120 pies del trineo y el carro a otros 120 pies; los goblins que tiran del trineo están demasiado distraídos y el grupo tiene sorpresa. El trineo pesa 300 libras y los lingotes añaden 600 más; un solo goblin puede arrastrar unas 240 libras, así que hacen falta al menos cuatro para moverlo. Si son atacados, los goblins se cubren tras el trineo y responden a distancia. En su primer turno, uno sopla un cuerno para alertar a Izobai, que sube al techo del carro con la antorcha y el halcón y observa la batalla. Si ve enemigos a 60 pies del carro, ordena a los dos goblins que están dentro que disparen flechas por los huecos de las paredes; tienen cobertura de tres cuartos. Si caen cinco o más goblins, o si Izobai muere o es capturada, el resto está dispuesto a negociar una tregua, pero los Héroes deben iniciar la conversación. Los goblins renuncian a los lingotes a cambio de sus vidas y su libertad; el invierno los ha dejado miserables y solo quieren volver a casa. Si los Héroes les ofrecen una manta, comida u otro regalo, abandonan el trineo y los dejan pasar. Izobai solo lucha en defensa propia; si la derrota parece inevitable, prende fuego al carro con la antorcha y huye a la tundra con su halcón, su tesoro y los goblins que pueda llevarse. El carro está lleno de camas de paja y arde con rapidez: al inicio del siguiente turno de Izobai, el vehículo es un infierno. Los osos pueden liberarse: una tirada de Sabiduría (Manejar Animales) CD 12 permite acercarse sin enfurecerlos y usar una acción para soltar a uno del arnés. Si falla, ambos osos se vuelven hostiles contra ese Héroe durante el resto del encuentro. Un oso liberado no ataca a quien lo soltó, pero sí a todas las demás criaturas; prefiere comerse a un goblin y los goblins huyen de él. Izobai lleva dos pociones de amistad animal y una bolsa de piel de foca con 13 piezas de platino, 25 de cobre y un silbato de hueso; los demás goblins llevan 1d6 piezas de cobre cada uno en bolsas de piel de foca.
+- **Etiquetas de escena**: [trineo varado], [carro de veinte pies], [osos polares], [halcón explorador], [antorcha], [goblins fríos], [sorpresa].
+- **Ambiente sonoro**: gruñidos de goblins, cadenas, resoplidos de osos, el cuerno de alarma, chispas de la antorcha, aleteo del halcón.
+
+### El regreso a Bryn Shander
+
+- **Lugar e imagen**: la puerta de Bryn Shander al anochecer, con los faroles encendidos y la nieve cayendo. El trineo, cargado de lingotes envueltos en sacos de arpillera y atados con correas de cuero, espera junto a la muralla. Hruna y sus compañeros salen al encuentro; detrás, la forja de Filos de Hierro Negro brilla en la penumbra. El aliento de todos forma nubes blancas.
+- **Lectura**: «La puerta se abre con un golpe de vigas y el viento os empuja hacia dentro. Hruna os espera junto al fuego de la guardia, con la capucha echada atrás y la oreja perdida al descubierto. Al ver el trineo, se queda quieta. Korux suelta una risa rota; Storn mira al cielo una última vez, como si esperara que un dragón blanco se lo llevara. “Lo habéis conseguido —dice Hruna—. No lo olvidaremos.” Detrás de ella, el herrero asoma la cabeza por la puerta de la forja y evalúa los lingotes con ojo de experto.»
+- **Qué ocurre**: los trescientos lingotes van envueltos en sacos de arpillera y sujetos al trineo con correas de cuero. Cada uno pesa dos libras y lleva estampado el símbolo de la taza espumeante del clan Battlehammer; para un herrero, cada lingote vale unas cinco piezas de plata. Los Héroes deben devolverlos a Hruna y luego entregarlos en Filos de Hierro Negro. Si lo hacen, reciben las piedras prometidas y el descuento del diez por ciento en la tienda. Si la carga se ha perdido, se ha quemado o ha quedado en manos de los goblins, Hruna negocia un pago parcial o se marcha decepcionada; el Narrador puede convertir la deuda en una etiqueta de historia. Si los Héroes negociaron con los goblins, pueden conservar la tregua como contacto para el futuro.
+- **Etiquetas de escena**: [trineo recuperado], [lingotes de Battlehammer], [recompensa], [amistad enana], [descuento de Hierro Negro].
+- **Ambiente sonoro**: portón, martillo, risas cansadas, viento que se queda fuera.
+
+## Personajes no jugadores
+
+### Duvessa Shane
+
+- **Papel**: portavoz de Bryn Shander y jefa del Consejo de Oradores; líder civil de la villa. · **Aspecto**: humana joven, pelo castaño recogido, ropa de lana práctica con un broche de cargo, guantes gastados y ojeras; mirada directa, espalda recta, siempre con papeles o una taza de algo caliente en la mano. · **Carácter y voz**: firme, pragmática, honesta y cansada; habla claro, sin adornos, y escucha antes de decidir. No tolera bravuconería ni promesas que no se puedan cumplir. · **Quiere**: mantener viva la villa, evitar que el hambre y el miedo la rompan y conservar la paz entre las Diez Ciudades. · **Sabe**: cifras de población y reservas, rutas, rumores políticos, el estado de la milicia y lo que ocurre en el consejo; no conoce los detalles de la Cabaña Negra. · **Si se convierte en desafío**: no combate. Desafío social de nivel 3: límites [convencida 4], [dispuesta a ayudar 3]; etiquetas [portavoz], [prudente], [autoridad], [cansada]; amenazas: niega permisos o acceso a la milicia ([sin permiso]); manda arrestar a los problemáticos ([milicia alerta]); expulsa al grupo de la villa ([reputación manchada]).
+
+### Markham Pozosur
+
+- **Papel**: sheriff de Bryn Shander y comandante de la milicia. · **Aspecto**: humano veterano, ancho de hombros, barba gris recortada, abrigo de cuero forrado de piel, placa de estaño y un hacha al cinto; manos grandes, cara marcada por el viento, mirada de pocos amigos. · **Carácter y voz**: seco, disciplinado, suspicaz y justo a su manera; habla poco, con voz grave y cortante, y prefiere actuar antes que discutir. · **Quiere**: orden, que no corra la sangre y que los forasteros no traigan problemas a su villa. · **Sabe**: la composición de la milicia (250 soldados y 20 veteranos), el estado de las puertas, los arrestos recientes, el contrabando y los rumores de goblins y yetis; puede proporcionar escolta o cerrar la ciudad. · **Si se convierte en desafío**: nivel 4. Límites [herido 5], [milicia rota 4], [autoridad 3]; etiquetas [veterano], [milicia], [disciplinado], [terco]; amenazas: arresto inmediato ([detenido]); carga de escudos y ballestas desde la muralla ([herido-3] y [rodeado-2]); cierre de puertas ([sin salida]). Debilidad: quiere evitar bajas civiles y respeta a quien protege a los habitantes.
+
+### Garn el Martillo
+
+- **Papel**: herrero y propietario de Filos de Hierro Negro. · **Aspecto**: enano escudo fornido, barba negra salpicada de ceniza, delantal de cuero, brazos quemados y un martillo que parece parte de su cuerpo; voz atronadora, risa breve. · **Carácter y voz**: orgulloso, brusco y trabajador; se ofende si critican su acero y se enorgullece de vender barato, aunque no de vender bien. · **Quiere**: que su herrería prospere, vender equipo y que los veteranos dejen de reírse de sus hojas. · **Sabe**: el hierro que llega de la mina de Battlehammer, la calidad de las armas, los precios y las rutas del mineral; no sabe nada del trineo hasta que se lo cuentan. · **Si se convierte en desafío**: nivel 2. Límites [herido 4], [orgullo herido 3]; etiquetas [herrero], [fuerte], [orgulloso]; amenazas: martillazo ([herido-3]); llama a la milicia ([milicia alerta]); cierra la tienda y niega el descuento ([sin descuento]).
+
+### Elza
+
+- **Papel**: vendedora de suministros de aventura y hermana de Garn. · **Aspecto**: enana escudo de trenza pelirroja, delantal de piel, guantes remendados y manos rápidas; sonrisa cansada, ojos atentos. · **Carácter y voz**: práctica, simpática y negociadora; voz alegre, regatea con humor y no deja que su hermano espante a los clientes. · **Quiere**: vender equipo, cuidar el negocio familiar y que los aventureros vuelvan vivos para gastar otra vez. · **Sabe**: qué equipo hace falta para el frío, precios de raquetas, picos y raciones, rumores de clientes y la existencia de Hruna y su grupo. · **Si se convierte en desafío**: no combate. Desafío social de nivel 1: [convencida 2], [ofendida 2]; amenazas: sube los precios ([precio abusivo]); cierra el trato ([sin suministros]); llama a Garn ([herrero alerta]).
+
+### Mishann
+
+- **Papel**: sacerdotisa de Amaunator y directora del Santuario de la Mañana. · **Aspecto**: humana mayor, pelo blanco corto, túnica amarilla bajo un chal grueso, símbolo solar de metal, manos nudosas y mirada intensa; huele a cera y a incienso barato. · **Carácter y voz**: devota, obstinada y cálida con quienes respetan su fe; intolerante con la confusión teológica, especialmente si alguien llama Lathander a su dios. · **Quiere**: que el sol vuelva a brillar sobre el valle, que Amaunator recupere su lugar y que el santuario siga en pie. · **Sabe**: doctrina de Amaunator y Lathander, rumores de la villa, la situación de Cobre y la existencia de Macreadus; no conoce el paradero exacto de la cabaña. · **Si se convierte en desafío**: no combate. Desafío social de nivel 2: [convencida 3], [ofendida 3]; etiquetas [sacerdotisa], [devota], [terca]; amenazas: expulsa del santuario ([puerta cerrada]); niega cobijo o bendición ([sin refugio]); alerta a Duvessa ([reputación manchada]).
+
+### Cobre Perilla
+
+- **Papel**: acólito de Lathander, inventor aficionado, inquilino del ático y gancho hacia la Cabaña Negra. · **Aspecto**: gnomo de las rocas pequeño, nariz grande, pelo blanco alborotado, gafas remendadas y un traje de piel con capucha cosido por él mismo que lo hace parecer un osito de peluche; dedos manchados de hollín y aceite. · **Carácter y voz**: pesimista, quejumbroso, curioso e ingenioso; voz aguda y rápida, interrumpe y se queja, pero se emociona cuando habla de sus inventos. · **Quiere**: que Macreadus esté bien, terminar su propio artilugio y que Mishann deje de discutir con él. · **Sabe**: que Macreadus investiga en una cabaña vieja del valle, que intenta construir un dispositivo para acabar con el invierno eterno y las rutas aproximadas; no ha ido él mismo por miedo al frío y a los caminos. · **Si se convierte en desafío**: no combate. Desafío social de nivel 1: [convencido 2], [asustado 2]; amenazas: se encierra en el ático ([sin información]); retira su petición ([gancho perdido]); pide ayuda a Mishann ([discusión pública]).
+
+### Scramsax
+
+- **Papel**: posadero del Mirador al Norte, mercenario retirado, fuente de rumores y de crédito. · **Aspecto**: humano veterano y corpulento, pelo gris, barba descuidada, delantal sobre una cota gastada, cicatriz en el brazo y un trapo al hombro; sonríe como quien ya ha calculado cuánto puede sacaros. · **Carácter y voz**: cínico, cordial y calculador; voz ronca y burlona, pocas palabras y una memoria excelente para las deudas. · **Quiere**: cobrar, mantener el orden en su taberna y que el Mirador siga siendo el centro de la villa. · **Sabe**: los rumores de la tabla de la página 18, quién debe dinero, quién busca trabajo, la historia de Hruna y la Vieja Mordisquitos, y cómo tratar a los mercenarios. · **Si se convierte en desafío**: nivel 3. Límites [herido 4], [dispuesto a negociar 3]; etiquetas [veterano], [posadero], [deudas], [espada]; amenazas: echa a los problemáticos ([sin alojamiento]); llama a la milicia ([milicia alerta]); cobra con intereses ([deuda]); pelea con la espada ([herido-3]). Debilidad: su negocio, su reputación y el trofeo del pez.
+
+### Hruna
+
+- **Papel**: líder de los tres enanos escudo y contratante de la misión. · **Aspecto**: enana escudo robusta, barba trenzada, oreja derecha perdida y varios dedos amputados por congelación; bufanda gruesa, raquetas de nieve, pico al cinturón y mirada cansada pero terca. · **Carácter y voz**: directa, ruda, orgullosa y agradecida; voz rasposa por años de fumar, negocia sin rodeos y no soporta la lástima. · **Quiere**: recuperar el trineo, pagar a los Héroes, volver a la mina y que su clan no pierda el hierro. · **Sabe**: la ruta, el ataque del yeti, la muerte de Oobok, la posición aproximada del trineo, el valor de los lingotes y las costumbres de los enanos del valle. · **Si se convierte en desafío**: nivel 2. Límites [herido 4], [orgullo 3]; etiquetas [minera], [enana escudo], [terca], [raquetas]; amenazas: pico de hielo ([herido-2]); llama a Korux y Storn ([tres contra uno]); niega la recompensa ([trato roto]). No quiere pelear y prefiere huir.
+
+### Korux
+
+- **Papel**: enano escudo, compañero silencioso de Hruna y fuerza del grupo. · **Aspecto**: enano ancho y encapuchado, nariz y varios dedos mutilados por la congelación, barba rala, pico al cinturón y mirada fija; apenas se le ve la cara. · **Carácter y voz**: silencioso, leal y observador; gruñe más que habla y se coloca siempre del lado de Hruna. · **Quiere**: volver a casa, que Hruna no se quede sola y recuperar el hierro. · **Sabe**: rutas, minería, señales de yeti y cómo cargar peso; puede pagar las raquetas de nieve del grupo. · **Si se convierte en desafío**: nivel 2. Límites [herido 5], [lealtad 3]; etiquetas [fuerte], [silencioso], [enano escudo]; amenazas: golpe con el pico ([herido-3]); bloquea el paso ([sin salida]); protege a Hruna ([herido-2] a quien la ataque).
+
+### Storn
+
+- **Papel**: enano escudo, minero asustadizo y portador del amuleto de la cerradura. · **Aspecto**: enano delgado, barba castaña, ojos nerviosos que no dejan de mirar al cielo, cerradura de hierro oxidada colgada al cuello y raquetas de nieve; se encoge dentro del abrigo. · **Carácter y voz**: miedoso, supersticioso y hablador cuando se tranquiliza; voz temblorosa, ríe con nervios y cambia de tema si se habla de dragones. · **Quiere**: no ver nunca un dragón blanco, volver a la mina y conservar su amuleto de la suerte. · **Sabe**: rumores de dragones, rutas, el miedo al yeti y la historia de su cerradura sin llave; poca cosa más. · **Si se convierte en desafío**: nivel 1. Límites [herido 3], [asustado 3]; etiquetas [medroso], [minero], [amuleto]; amenazas: huye ([separado-2]); grita y alerta a los enemigos ([alerta]); se esconde ([fuera de combate]). Debilidad: se calma con comida caliente y una voz amable.
+
+### Izobai
+
+- **Papel**: jefa goblin de Karkolohk, líder de la banda y exploradora con halcón. · **Aspecto**: goblin de una sola oreja, piel verdosa, armadura de cuero remendada, dientes afilados y mirada calculadora; lleva una antorcha encendida y un halcón encapuchado en el brazo. · **Carácter y voz**: pragmática, cobarde cuando le conviene y cruel solo si le da ventaja; voz chillona y rápida, negocia para sobrevivir y no desperdicia goblins. · **Quiere**: volver a Karkolohk con comida y tesoro, conservar a su banda y no morir en la tundra. · **Sabe**: la posición del trineo, la ruta, el estado de los osos, las tácticas de su banda y cuánto puede exigir en una tregua; no sabe quiénes son los Héroes. · **Si se convierte en desafío**: nivel 2 como parte de la banda, o nivel 3 si se la separa. Límites [herido 4], [dispuesta a huir 3]; etiquetas [jefa], [halcón], [antorcha], [una oreja]; amenazas: prende el carro ([en llamas-3]); ordena la lluvia de flechas ([herido-2]); huye con el tesoro ([rastro de Izobai]); suelta a los osos como distracción ([osos furiosos-2]). Debilidad: solo lucha en defensa propia y huye si la derrota es inevitable.
+
+## Desafíos
+
+### Banda de goblins de Karkolohk (nivel 3)
+
+- **Origen 5e**: ocho goblins y una jefa goblin (Izobai), más un halcón entrenado; dos osos polares aparte.
+- **Límites**: [diezmados 4] (caen cinco o más goblins y la banda pierde cohesión), [jefa derrotada 3] (Izobai cae, huye o se rinde), [ánimo 3] (el miedo y el frío les ganan y aceptan negociar).
+- **Etiquetas y estados**: [numerosos], [cobardes], [raquíticos], [trineo como cobertura], [carro de veinte pies], [halcón explorador], [antorcha]; estados [ocultos-2], [en llamas-3], [huyendo-2], [rodeados-2], [asustados-2].
+- **Amenazas y consecuencias**:
+  - **Cuerno de alarma**: Izobai sube al techo con la antorcha y el halcón; crea [atalaya goblin]; los dos goblins del carro disparan por los huecos con cobertura de tres cuartos.
+  - **Lluvia de flechas**: inflige [herido-2] a quien esté al descubierto; crea [fuego cruzado]; si el objetivo busca cobertura, pierde su siguiente acción.
+  - **Prender el carro**: [en llamas-3] en el vehículo; el humo crea [humo-2]; si el trineo está cerca, los lingotes quedan [chamuscados] y hay que rescatarlos antes de que el calor deforme la carga.
+  - **Huida de Izobai**: escapa con el halcón, su tesoro y los goblins que pueda; crea [rastro de Izobai] hacia Karkolohk; los Héroes pierden [tesoro de Izobai] y la oportunidad de negociar.
+  - **Negociar una tregua**: si caen cinco goblins o Izobai es derrotada, ofrecen los lingotes por sus vidas y su libertad; éxito: [tregua goblin]; fallo: [desconfianza goblin] y se dispersan.
+- **Debilidades / secretos**: el frío, el hambre y la cobardía los dominan. Un regalo —una manta, comida, una promesa de paso seguro— les basta para abandonar el trineo y volver a casa. El fuego les aterra; los osos pueden volverse contra ellos. Izobai no lucha si puede huir y no sacrificará a su banda por el hierro.
+
+### Osos polares hambrientos (nivel 2)
+
+- **Origen 5e**: dos osos polares que tiran del carro goblin.
+- **Límites**: [heridos 4] (los dos osos acumulan daño y se retiran), [enfurecidos 3] (el hambre y el maltrato los vuelven incontrolables), [liberados 2] (uno o ambos se sueltan del arnés).
+- **Etiquetas y estados**: [enormes], [hambrientos], [arneses], [maltratados], [olfato fino]; estados [furiosos-2], [herido-2], [libres-2].
+- **Amenazas y consecuencias**:
+  - **Embestida**: [herido-3] y [derribado-2]; destroza una cobertura o vuelca el trineo.
+  - **Zarpazo**: [herido-2] y [sangrando-2]; rompe una etiqueta de mochila.
+  - **Liberarse del arnés**: [libres-2]; atacan a todas las criaturas menos a quien los liberó; prefieren a los goblins y los goblins huyen ([huyendo-2]).
+  - **Devorar a un goblin**: crea [distracción sangrienta]; los goblins pierden su acción; los Héroes ganan [oportunidad].
+- **Debilidades / secretos**: una tirada de Sabiduría (Manejar Animales) CD 12 permite acercarse sin enfurecerlos y soltar a uno. El oso liberado no ataca a quien lo soltó y prefiere comerse a los goblins. Si la tirada falla, ambos osos se vuelven hostiles contra ese Héroe durante el resto del encuentro. La comida y el maltrato que han sufrido son la clave: no son monstruos, son animales hambrientos y furiosos.
+
+### Ventisca del norte (nivel 2, Poderío Grandeza)
+
+- **Origen 5e**: ventisca del Valle del Viento Helado y frío extremo (página 10).
+- **Límites**: [helado 4] (el frío acumulado en un Héroe), [perdido 3] (el grupo se extravía), [separados 2] (el grupo se divide en la nieve).
+- **Etiquetas y estados**: [viento aullante], [nieve cegadora], [visibilidad veinte pies], [frío de Auril], [tundra sin referencias]; estados [helado-1/2/3], [perdido-2], [empapado-2], [agotado-2].
+- **Amenazas y consecuencias**:
+  - **La nieve borra el rumbo**: [perdido-2]; el grupo se desvía; las huellas desaparecen.
+  - **Separación**: [separados-2]; un Héroe queda aislado; [helado-2] si no encuentra refugio.
+  - **Frío que muerde**: [helado-1] a cada Héroe sin abrigo; [agotado-2]; si nadie enciende fuego, [helado-3].
+  - **Duración implacable**: la ventisca dura 2d4 horas; cada hora sin refugio añade [helado-1] o [agotado-1].
+- **Debilidades / secretos**: esperar, cavar un refugio, atar al grupo con una cuerda, encender fuego y hacer un descanso en el campamento. Las raquetas de nieve y la ropa de clima frío reducen el riesgo. La ventisca borra las huellas de Oobok y del yeti, pero no las recientes de los goblins.
+
+### Yeti de la tundra (nivel 2) — opcional
+
+- **Origen 5e**: un yeti (VD 3) que mató a Oobok y ya se ha marchado; puede volver si el Narrador lo necesita.
+- **Límites**: [herido 4], [saciado 3] (harto, se retira), [oculto 2] (se pierde en la nieve).
+- **Etiquetas y estados**: [pelaje blanco], [camuflado en la nieve], [fuerte], [golpe helado], [guarida]; estados [oculto-2], [enfurecido-2], [herido-2].
+- **Amenazas y consecuencias**:
+  - **Emboscada desde la nieve**: [herido-3] y [asustado-2]; el yeti ataca desde una posición oculta.
+  - **Desmembrar**: [herido-4]; arranca una extremidad o destruye una etiqueta de mochila.
+  - **Arrastrar a su guarida**: [perdido-2] y [herido-2]; el Héroe desaparece en la ventisca.
+  - **Aullido**: [asustado-2]; atrae a otros depredadores o alerta a los goblins.
+- **Debilidades / secretos**: el fuego y el ruido lo ahuyentan; ya está harto y se ha marchado con la cabeza de Oobok. Sus huellas han sido borradas por el viento. Si los Héroes no lo buscan, no tiene por qué volver.
+
+### La milicia de Bryn Shander (nivel 3) — opcional
+
+- **Origen 5e**: hasta 250 soldados (guerreros tribales) y 20 veteranos, más las murallas y las puertas de la villa.
+- **Límites**: [milicia 5] (la guarnición se agota o pierde cohesión), [puertas 4] (los defensores pierden el control de los accesos), [autoridad 3] (Duvessa o Markham pierden la voluntad de resistir).
+- **Etiquetas y estados**: [muros de treinta pies], [almenas], [ballestas], [veteranos], [disciplina], [puertas atrancadas]; estados [alerta-2], [rodeados-2], [herido-2].
+- **Amenazas y consecuencias**:
+  - **Arresto**: [detenido]; los Héroes son desarmados y llevados ante Duvessa.
+  - **Lluvia de flechas desde la muralla**: [herido-3] y [rodeado-2]; obliga a buscar cobertura.
+  - **Cierre de puertas**: [sin salida]; nadie entra ni sale hasta que se aclare la situación.
+  - **Expulsión**: [perseguido por la milicia]; los Héroes deben abandonar la villa de inmediato.
+- **Debilidades / secretos**: la milicia no quiere bajas civiles y Duvessa puede intervenir para frenar a Markham. Si los Héroes no han matado a nadie, una rendición honorable o una explicación convincente puede evitar el derramamiento de sangre.
+
+## Objetos, pistas y documentos
+
+- **[raquetas de nieve]**: etiqueta de mochila. Permiten viajar por nieve profunda sin hundirse y reducen el agotamiento de la marcha. Hruna insiste en que son imprescindibles; Korux puede pagarlas si el grupo anda escaso.
+- **[pico de hielo]**: etiqueta de mochila. Arma improvisada de [perforante] y herramienta para escalar hielo o cavar un refugio. Los enanos los llevan al cinturón.
+- **[ropa de clima frío]**: etiqueta de mochila. Reduce los estados de frío en un nivel mientras esté seca; si se moja, deja de proteger hasta el próximo descanso.
+- **[piedra de sangre]**: etiqueta de mochila o de historia. Gema roja oscura valorada en unas cincuenta piezas de oro. Hruna lleva seis en una bolsa de piel de foca y entrega una a cada Héroe que cumpla la misión.
+- **[bolsa de piel de foca de Hruna]**: contiene las seis piedras de sangre; es la prueba del pago y el objeto que los codiciosos pueden intentar robar.
+- **[bolsa de Korux]**: quince piezas de oro en una bolsa de cuero forrada de piel de yeti; un detalle de la vida de los mineros.
+- **[cerradura oxidada de Storn]**: etiqueta de mochila o de historia. Una cerradura de hierro sin llave que Storn lleva como amuleto de la suerte; no abre nada, pero él cree que lo protege.
+- **[lingote de Battlehammer]**: etiqueta de mochila o de carga. Cada lingote pesa dos libras y lleva estampada la taza espumeante del clan Battlehammer; vale unas cinco piezas de plata para un herrero. Hay trescientos, envueltos en sacos de arpillera y atados al trineo. En conjunto son una carga enorme: seiscientos libras de hierro.
+- **[trineo de los enanos]**: etiqueta de escena o de carga. Pesado, de madera, con correas de cuero; vacío pesa unas trescientas libras y necesita al menos cuatro personas o goblins para moverse por la nieve.
+- **[carro goblin]**: etiqueta de escena. Vehículo de unos veinte pies de altura, con paredes con huecos para disparar y camas de paja en el interior. Es inflamable: si Izobai lo prende, arde con rapidez y se convierte en un infierno.
+- **[poción de amistad animal]**: etiqueta de mochila, dos usos. Izobai lleva dos; pueden calmar a un animal hostil o ganar su confianza durante una escena.
+- **[silbato de hueso]**: etiqueta de mochila. Un silbato tallado en hueso, valorado en una pieza de platino; puede servir para llamar a un animal o como simple curiosidad.
+- **[halcón de Izobai]**: etiqueta de escena o de Compañía. Un halcón encapuchado y entrenado que explora para los goblins. Si Izobai huye, se lo lleva; si lo capturan, puede convertirse en [halcón amaestrado] con paciencia.
+- **[antorcha de Izobai]**: etiqueta de escena. La llama que puede prender el carro y convertir la victoria en una huida.
+- **[Vieja Mordisquitos]**: etiqueta de escena. Trucha disecada y montada sobre la chimenea del Mirador al Norte. Muerde a quien se acerque a menos de cinco pies y, de vez en cuando, canta una copla sobre un lugar río arriba, oculto bajo la nieve.
+- **[anillo del Cazador del Anillo]**: etiqueta de mochila o de historia, opcional. Si un Héroe tiene el secreto de Cazador del Anillo (apéndice B), el anillo puede estar atascado en la garganta de la Vieja Mordisquitos. Scramsax exige una compensación generosa y garantías de que el trofeo no quedará arruinado.
+- **[traje de piel de Cobre]**: etiqueta de mochila o de historia. Un traje peludo con capucha, hecho a mano, que da calor y hace que su dueño parezca un osito de peluche. Cobre lo lleva siempre.
+- **[mapa de Bryn Shander (mapa 1.2)]**: documento para los jugadores. Muestra la villa, la muralla, la plaza, la forja, el santuario y el Mirador al Norte; ayuda a orientarse y a planificar el equipo.
+- **[tabla de rumores de las Diez Ciudades]**: documento para los jugadores. Una lista de rumores que pueden oírse en el Mirador al Norte; el Narrador puede entregarla o leerla en voz alta.
+- **[copla de la Vieja Mordisquitos]**: documento para los jugadores. Una cuarteta sobre un lugar río arriba, imposible de localizar salvo por la nieve que lo cubre. Puede ser la primera pista del anillo o de otro secreto del valle.
+- **Documentos para jugadores**: sí. Se pueden entregar el mapa 1.2, la tabla de rumores y la copla del pez. El resto de la información —la misión de Hruna, el valor de los lingotes y el secreto del anillo— puede descubrirse hablando con los PNJ.
+
+## Desenlaces y recompensas
+
+- **Trineo recuperado y entregado**: cada Héroe recibe una [piedra de sangre] (unas cincuenta piezas de oro), el grupo gana [amistad de los enanos de Icewind Dale] y un descuento del diez por ciento en Filos de Hierro Negro. Hruna queda en deuda con ellos y puede convertirse en contacto para futuras expediciones a la Cumbre de Kelvin.
+- **Trineo recuperado con pérdidas**: si faltan lingotes o el trineo está dañado, Hruna paga menos o negocia un favor en lugar de la gema completa. El descuento puede mantenerse, pero la amistad queda empañada ([deuda con Hruna]).
+- **Negociación con los goblins**: si los Héroes logran una tregua, recuperan el trineo y pueden ganar [tregua goblin] o [contacto en Karkolohk]. Izobai recuerda a quien le perdonó la vida, aunque no es una aliada fiable.
+- **Osos liberados**: si sueltan a los osos y estos atacan a los goblins, la lucha puede resolverse sin que los Héroes maten a nadie. Pueden ganar [oso agradecido] o [distracción salvaje], pero los osos siguen siendo peligrosos para cualquiera que se cruce.
+- **Carro incendiado**: si Izobai prende el carro, los Héroes pueden salvar los lingotes, pero pierden el trineo, las camas y el tesoro goblin. La carga de hierro sigue siendo valiosa, aunque transportarla sin trineo es una tarea titánica.
+- **Enanos muertos**: los testigos avisan a la milicia. A menos que los Héroes huyan de Bryn Shander de inmediato, son arrestados; ganan [perseguido por la milicia] y [enemigo del clan Battlehammer].
+- **Misión rechazada**: los enanos se marchan y buscan ayuda en otro sitio durante un par de días antes de volver a casa. No hay recompensa, pero tampoco represalias.
+- **Trineo perdido**: si los goblins se llevan el hierro, Hruna no puede pagar. Los Héroes ganan [deuda con Hruna] y la banda de Karkolohk se refuerza con el metal.
+- **El gancho de Cobre**: si los Héroes hablan con Cobre y aceptan buscar a Macreadus, ganan [preocupación de Cobre] y una pista hacia la Cabaña Negra. Es un hito de Gesta y una conexión directa con la siguiente parte de la campaña.
+- **El anillo de la Vieja Mordisquitos**: si un Héroe recupera el anillo, gana [anillo del Cazador del Anillo] y avanza en su Gesta personal; Scramsax exige una compensación y puede convertirse en aliado o en obstáculo.
+- **Hitos de Gesta**: «El trineo de Battlehammer» (recuperar la carga y devolverla al clan); «Piedad en la tundra» (resolver el encuentro con los goblins sin masacre); «Los osos liberados» (soltar a los animales y volverlos contra sus captores); «La amistad de los enanos» (ganar la confianza de Hruna y su clan); «La copla del pez» (descubrir el secreto de la Vieja Mordisquitos).
+- **Compañía**: la amistad de los enanos puede convertirse en una etiqueta de Compañía ([contacto en la Cumbre de Kelvin]); la tregua goblin, en un contacto incómodo pero útil; el descuento de Filos de Hierro Negro, en una ventaja permanente para comprar equipo.
+
+## Conexiones con la campaña
+
+- **La Cabaña Negra y Macreadus**: Cobre Perilla es el gancho directo. Macreadus investiga en una cabaña apartada un dispositivo para terminar con el invierno eterno; esa investigación puede llevar a los Héroes a la Cabaña Negra y a los secretos de Auril.
+- **Karkolohk**: los goblins vienen de la fortaleza de Karkolohk. Si Izobai sobrevive o si los Héroes hacen una tregua, la fortaleza puede convertirse en un lugar al que volver, un enemigo o una fuente de información sobre la tundra.
+- **La Cumbre de Kelvin y el clan Battlehammer**: la mina al pie de la Cumbre de Kelvin proporciona la mayor parte del hierro de las Diez Ciudades. La amistad de Hruna abre una puerta a los enanos, a sus túneles y a sus problemas.
+- **Duvessa Shane y Markham Pozosur**: la villa es una base política. Si los Héroes se ganan su confianza, pueden obtener permisos, escoltas y refugio; si la pierden, las puertas se cierran.
+- **Scramsax y los rumores**: el Mirador al Norte es el centro de información de la campaña. La tabla de rumores de la página 18 puede sembrar otras misiones y conectar con los demás asentamientos.
+- **La Vieja Mordisquitos y el Cazador del Anillo**: la copla del pez y el anillo en su garganta conectan con el secreto de Cazador del Anillo del apéndice B y con la historia personal de un Héroe.
+- **El invierno de Auril**: la ventisca, la escasez y la desesperación de los goblins son síntomas del invierno eterno. La misión puede usarse para mostrar la crueldad del clima sin explicar todavía su causa.
+- **Las Diez Ciudades**: Bryn Shander es el nudo de caminos del valle. Desde aquí se puede viajar a Puerto Este, Caer-Dineval, Buenaguamiel, Targos y Termalaine, y las monturas o los trineos de perros reducen a la mitad los tiempos de viaje.
+
+## Páginas de la fuente
+
+- Bryn Shander, descripción de la villa, murallas, población, gobierno, milicia, heráldica y tiempos de viaje: páginas 33–34.
+- Localizaciones: Filos de Hierro Negro, Santuario de la Mañana, Cobre Perilla, Mirador al Norte, Scramsax y la Vieja Mordisquitos: páginas 33–34.
+- Misión «Bryn Shander»: los enanos, Hruna, Korux, Storn, Oobok, el trineo, la ventisca, los goblins, Izobai y los osos polares: páginas 35–37.
+- Reglas de ventiscas y frío extremo: página 10.
+- Tabla de rumores de las Diez Ciudades: página 18.
+- Sacrificios a Auril: página 21.
+- Cabaña Negra y Macreadus: remisión desde la página 34.
+- Karkolohk: remisión desde la página 37.
+- Secreto de Cazador del Anillo y anillo de sello: apéndice B.

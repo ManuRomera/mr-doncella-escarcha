@@ -1,0 +1,1659 @@
+{
+  "seccion": "05-bryn-shander",
+  "titulo": "Bryn Shander",
+  "escenas": [
+    {
+      "slug": "bryn-shander-la-villa-amurallada",
+      "nombre": "Bryn Shander, la villa amurallada",
+      "ciudad": "bryn-shander",
+      "interior": false,
+      "imagen_en": "A wide establishing view of a bare tundra hill crowned by a timber palisade filled with earth and rubble. Iron braced gates, steep narrow streets, low roofs and stone chimneys emerge through blowing snow. Swinging lanterns cast amber pools against blue twilight and dirty snowbanks. No people or creatures. Leave the lower third clear.",
+      "lectura": "La colina aparece de pronto entre la niebla de nieve. Sobre ella se recorta una muralla oscura de postes y tierra, coronada por almenas irregulares, y una puerta de madera cerrada con vigas de hierro. Los faroles que cuelgan sobre la calle se mecen y dibujan charcos de luz amarilla en la nieve. Al otro lado se oyen voces, un martillo, el ladrido de un perro. Un guardia embozado os observa desde lo alto y golpea el asta contra la pasarela. Nadie sonríe. En Bryn Shander, la calidez se ha vuelto un lujo y la desconfianza, una costumbre.",
+      "notas": "la villa tiene unos 1.200 habitantes y es el asentamiento más seguro del valle, aunque no el más acogedor. La portavoz Duvessa Shane habla en nombre del Consejo de Oradores y el sheriff Markham Pozosur manda la milicia: hasta 250 soldados y 20 veteranos; Las puertas se cierran al oscurecer y pasan más tiempo cerradas que abiertas. Las valoraciones locales son moderadas en amabilidad, servicios y comodidad: hay de todo, pero nada sobra; Desde aquí se viaja a Puerto Este por el Eastway (unas siete horas y media), a Caer-Dineval (diez y media), a Buenaguamiel (seis), a Targos (dos) y a Termalaine (seis); las monturas y los trineos de perros reducen esos tiempos a la mitad. No hay rivalidades declaradas con otras ciudades, pero sí rumores de sacrificios a Auril en el valle; Si los Héroes causan problemas, la milicia responde con rapidez.",
+      "musica": "pueblo",
+      "motivos": [
+        "tension"
+      ],
+      "efectos": [
+        "viento",
+        "puerta",
+        "perros"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "villa amurallada",
+        "puertas cerradas",
+        "faroles al viento",
+        "nieve pisoteada",
+        "milicia alerta",
+        "frío mordiente",
+        "helado-1"
+      ],
+      "figuras": [
+        "duvessa-shane",
+        "markham-pozosur",
+        "milicia-de-bryn-shander"
+      ]
+    },
+    {
+      "slug": "filos-de-hierro-negro",
+      "nombre": "Filos de Hierro Negro",
+      "ciudad": "bryn-shander",
+      "interior": true,
+      "imagen_en": "A wide interior view of a soot darkened smithy beside the market square. An orange forge lights an anvil, matte steel blades, bellows and racks of winter supplies. Snowshoes, ice picks, gloves and furs hang overhead; cold mist gathers at the doorway. Coal black, iron grey and warm orange palette. No people. Keep the lower third open.",
+      "lectura": "El calor os golpea al cruzar la puerta. El martillo repica sobre el yunque y una lluvia de chispas ilumina la cara sudorosa del herrero. Detrás del mostrador, una enana de trenza pelirroja ordena raciones y raquetas con las manos rápidas. Las paredes están llenas de hojas de acero mate, baratas y honestas, y de herramientas de invierno. El herrero levanta la vista, evalúa vuestras armas y sonríe sin demasiada simpatía. “Si buscáis algo que corte —dice—, habéis venido al sitio. Si buscáis algo que dure, tendréis que pagar más.”",
+      "notas": "Garn el Martillo fabrica las hojas más baratas de las Diez Ciudades; los mercenarios veteranos las desprecian por su calidad poco inspiradora, y hay una broma local sobre el infeliz recién llegado que acaba armado con una hoja de Hierro Negro. Su hermana Elza vende suministros de aventura: raciones, ropa de clima frío, picos de hielo y raquetas de nieve. Si los Héroes completan la misión de Hruna, obtienen un descuento del diez por ciento en la tienda. Aquí pueden comprar el equipo necesario para el viaje o descubrir que no llevan lo suficiente.",
+      "musica": "pueblo",
+      "motivos": [],
+      "efectos": [
+        "hogar",
+        "puerta"
+      ],
+      "ambiente": "light",
+      "etiquetas": [
+        "forja caliente",
+        "acero barato",
+        "suministros de invierno",
+        "descuento pendiente",
+        "olor a carbón"
+      ],
+      "figuras": [
+        "garn-el-martillo",
+        "elza"
+      ]
+    },
+    {
+      "slug": "santuario-de-la-manana",
+      "nombre": "Santuario de la Mañana",
+      "ciudad": "bryn-shander",
+      "interior": true,
+      "imagen_en": "A wide interior view of a modest house converted into a sun shrine. Wooden benches face a simple altar with a golden metal sun disk, candles and frost covered windows. A small attic window and patched curtains suggest cramped quarters above. Dim amber candlelight meets cold blue daylight. No people. Leave the lower third clear.",
+      "lectura": "El santuario huele a cera y a lana mojada. Una mujer mayor de pelo blanco, envuelta en una túnica amarilla, discute con una figura menuda que lleva un traje de piel con capucha y gafas remendadas. La figura parece un osito de peluche irritado. Al veros, la mujer se calla y os estudia; el gnomo aprovecha para refugiarse detrás de un banco. “Bienvenidos al Santuario de la Mañana —dice ella—. Aquí servimos a Amaunator, el Señor de la Mañana. Ignorad al gnomo: lleva toda la tarde quejándose del frío.” El gnomo resopla. “El frío no es el problema —murmura—. El problema es que nadie me escucha.”",
+      "notas": "Mishann, una aventurera humana retirada, dirige el santuario y espera ver el sol recuperar su lugar sobre el valle. Llama a Amaunator «el Señor de la Mañana» y se enfada cuando la gente lo confunde con Lathander, al que considera un usurpador; Cobre Perilla, un gnomo de las rocas pesimista, alquila el ático y ayuda a regañadientes con las tareas; los dos discuten sin parar. Cobre lleva un traje peludo con capucha hecho por él mismo: da calor, pero lo hace parecer un osito; Si los Héroes hablan con él, les cuenta que está preocupado por Macreadus, un amigo que investiga en una cabaña vieja del valle y trata de construir un dispositivo capaz de terminar con el invierno eterno de la Doncella de Escarcha. Les pide que, si pasan cerca, se asomen a ver cómo está; Es el gancho hacia la Cabaña Negra.",
+      "musica": "pueblo",
+      "motivos": [
+        "misterio"
+      ],
+      "efectos": [
+        "hogar",
+        "viento",
+        "pasos"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "santuario modesto",
+        "discusión constante",
+        "olor a cera",
+        "frío en las ventanas",
+        "preocupación de Cobre"
+      ],
+      "figuras": [
+        "mishann",
+        "cobre-perilla"
+      ]
+    },
+    {
+      "slug": "el-mirador-al-norte",
+      "nombre": "El Mirador al Norte",
+      "ciudad": "bryn-shander",
+      "interior": true,
+      "imagen_en": "A wide interior view of a dark timber inn common room, with low beams, worn tables, misted tankards and a stone peat fireplace. Maps hang beside snowshoes and heavy coats near the door. A mounted trout rests above the mantel. Snow strikes the windows through bluish smoke. No people. Leave open space across the lower third.",
+      "lectura": "La puerta se cierra y el ruido os envuelve: risas, dados, el golpe de una jarra, una discusión que amenaza con convertirse en pelea. El calor huele a turba, a cerveza agria y a pescado. Media docena de mercenarios os miran de reojo desde las mesas; algunos llevan cicatrices, otros llevan demasiadas armas. Detrás del mostrador, un hombre corpulento con delantal sobre una cota gastada seca un vaso con un trapo y sonríe como quien ya os ha puesto precio. “Buscáis trabajo, rumores o una cama —dice—. Todo se paga aquí, de una forma u otra.”",
+      "notas": "el Mirador al Norte es el establecimiento más frecuentado por mercenarios y aventureros, y por tanto el más animado y peligroso de Bryn Shander. Su sala es el mejor lugar de las Diez Ciudades para conseguir clientes, noticias y rumores; quien pase un rato aquí escuchará al menos un rumor, que puede determinarse con la tabla de la página 18; El propietario es Scramsax, un mercenario retirado que conoce bien el ciclo de vida del aventurero. A menudo permite quedarse a crédito a quienes están entre trabajos y luego presenta una factura inflada por intereses cuando llega el siguiente pago. Quien no paga descubre que el viejo mercenario todavía sabe manejar una espada y que no acepta «más tarde» como respuesta; Aquí pueden encontrar a Hruna y sus compañeros, contratar guías o contratar problemas.",
+      "musica": "taberna",
+      "motivos": [
+        "tension"
+      ],
+      "efectos": [
+        "taberna-sfx",
+        "hogar"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "taberna abarrotada",
+        "humo y grasa",
+        "rumores",
+        "crédito de Scramsax",
+        "camaradería tensa",
+        "calor del hogar"
+      ],
+      "figuras": [
+        "scramsax",
+        "hruna",
+        "korux",
+        "storn"
+      ]
+    },
+    {
+      "slug": "la-vieja-mordisquitos",
+      "nombre": "La Vieja Mordisquitos",
+      "ciudad": "bryn-shander",
+      "interior": true,
+      "imagen_en": "A wide view of a quiet fireplace corner in a timber inn. An oversized stuffed trout with scarred skin, dusty fins and a glass eye is mounted on a wooden plaque above the stone mantel. Amber firelight catches smoke stained scales and worn wood. No people or living creatures. Leave the lower third clear.",
+      "lectura": "Sobre la chimenea hay una trucha disecada, más grande de lo que debería ser una trucha, con la boca abierta y un ojo de cristal que os sigue. Scramsax la llama la Vieja Mordisquitos. “La pescó un pícaro y un druida raro —dice—. Me la trajeron para que alguien la cocinara. Yo la compré y la mandé disecar. Ahora es mi trofeo.” Alguien ríe. El pez sigue mirando. De pronto, muy bajito, como si la madera cantara, empieza a tararear una copla sobre un lugar río arriba, oculto bajo la nieve.",
+      "notas": "la Vieja Mordisquitos fue capturada por el pícaro humano Kintyre y su compañero, un druida que se hacía llamar el Inconformista, en las profundidades heladas de Maer Dualdon. Scramsax la compró y la hizo disecar; Años después, un mago bromista lanzó un hechizo sobre el pez: ahora intenta morder a cualquier criatura que se acerque a menos de cinco pies. De vez en cuando, y al parecer al azar, canta una copla sobre un lugar al que le gusta ir, más arriba del río, cuya ubicación es imposible de saber y que debe yacer bajo la nieve; Si un Héroe tiene el secreto de Cazador del Anillo (apéndice B), el anillo de sello que busca puede estar atascado en la garganta del pez. Scramsax no permitirá que nadie lo manipule sin una compensación generosa y sin garantías de que el trofeo no quedará arruinado; el anillo puede recuperarse sin cirugía; La copla puede entregarse como documento a los jugadores.",
+      "musica": "taberna",
+      "motivos": [
+        "misterio"
+      ],
+      "efectos": [
+        "hogar"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "trofeo disecado",
+        "hechizo bromista",
+        "copla del río",
+        "secreto del anillo",
+        "chimenea"
+      ],
+      "figuras": [
+        "scramsax"
+      ]
+    },
+    {
+      "slug": "la-mision-de-hruna",
+      "nombre": "La misión de Hruna",
+      "ciudad": "bryn-shander",
+      "interior": false,
+      "imagen_en": "A wide view of a snow covered street beside a dark wooden inn. A hanging lantern illuminates deep boot marks, compacted snow and the frost crusted doorway. Low roofs and stone chimneys fade into blowing snow, with warm window light against the blue winter dusk. No people or animals. Keep the lower third uncluttered.",
+      "lectura": "Tres figuras encapuchadas se acercan dando trompicones. Llevan raquetas colgadas a la espalda y picos de hielo en el cinturón; solo se les ven los ojos. La que va delante señala con una mano enguantada. “Bien hallados. Soy Hruna; ellos son Korux y Storn. Necesitamos ayuda y vosotros parecéis capaces.” Su voz suena rasposa, como si le costara hablar. “Llevábamos un trineo de lingotes a Bryn Shander. Un yeti nos sorprendió, mató a Oobok y nos hizo huir. El trineo sigue en la tundra. Os pagaremos una piedra preciosa a cada uno si lo recuperáis.”",
+      "notas": "Hruna, Korux y Storn son mineros del clan Battlehammer; trabajan en una mina al pie de la Cumbre de Kelvin, de la que sale la mayor parte del hierro de las herrerías de las Diez Ciudades; Hruna lleva la voz cantante; perdió la oreja derecha y dos dedos por congelación. Korux casi no habla y ha perdido varios dedos y la nariz; Storn tiene un miedo terrible a los dragones blancos y no deja de mirar al cielo; Ofrecen una piedra de sangre de cincuenta piezas de oro a cada Héroe, además de la amistad de los enanos del valle. Hruna lleva una bolsa de piel de foca con seis piedras; Korux, quince piezas de oro en una bolsa forrada de piel de yeti; Storn, una cerradura de hierro oxidada que usa como amuleto y cuya llave perdió; Si los Héroes matan a los enanos y les roban, los testigos avisan a la milicia y serán arrestados a menos que huyan de la villa de inmediato. Korux puede pagar las raquetas de nieve si el grupo anda escaso; Si rechazan la misión, los enanos se marchan y buscan ayuda en otro sitio durante un par de días antes de volver a casa; Acepten o no, Hruna señala la ruta hacia la Cumbre de Kelvin: el trineo está a medio camino, en plena tundra.",
+      "musica": "pueblo",
+      "motivos": [
+        "esperanza"
+      ],
+      "efectos": [
+        "viento",
+        "pasos"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "tres enanos helados",
+        "trato pendiente",
+        "raquetas de nieve",
+        "rumbo a la Cumbre de Kelvin",
+        "amistad enana"
+      ],
+      "figuras": [
+        "hruna",
+        "korux",
+        "storn"
+      ]
+    },
+    {
+      "slug": "la-ventisca",
+      "nombre": "La ventisca",
+      "ciudad": "tundra",
+      "interior": false,
+      "imagen_en": "A wide view of treeless tundra swallowed by a northern blizzard. A wall of white snow obscures the distant mountain and erases the horizon. Wind driven crystals sweep across low drifts; faint tracks vanish beneath fresh powder. Lead grey sky and icy white ground merge in dim light. No people or creatures. Leave the lower third clear.",
+      "lectura": "La ventisca baja del norte como una cortina. En unos segundos, la Cumbre de Kelvin deja de existir. La nieve os golpea la cara y el viento aúlla con una fuerza que no parece natural. A veinte pies, vuestros compañeros son solo manchas oscuras. Las huellas desaparecen casi antes de que las dejéis. El frío muerde la piel expuesta y se cuela por las costuras. Podéis deteneros, cavar un refugio y esperar a que pase, o seguir adelante y confiar en no perder el rumbo. El viento no da consejos. Solo empuja.",
+      "notas": "a un par de millas del trineo, la ventisca envuelve al grupo y dura 2d4 horas. Los Héroes pueden esperar o continuar; Si continúan, pueden desviarse, perder el rumbo o separarse (véanse las reglas de ventiscas, página 10). Si esperan, deben encontrar o improvisar refugio y soportar el frío. La ventisca borra las huellas de Oobok y del yeti, pero no las de los goblins, que son más recientes; El Narrador puede usar esta escena para gastar recursos, crear tensión y obligar a elegir entre la prisa y la seguridad.",
+      "musica": "auril",
+      "motivos": [
+        "ventisca-m",
+        "amenaza"
+      ],
+      "efectos": [
+        "ventisca",
+        "viento",
+        "hielo-cruje"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "ventisca",
+        "visibilidad veinte pies",
+        "viento aullante",
+        "frío de Auril",
+        "tundra sin referencias",
+        "helado-1",
+        "helado-2"
+      ],
+      "figuras": [
+        "ventisca-del-norte"
+      ]
+    },
+    {
+      "slug": "el-cadaver-de-oobok",
+      "nombre": "El cadáver de Oobok",
+      "ciudad": "tundra",
+      "interior": false,
+      "imagen_en": "A wide view from a snowy ridge into a shallow tundra ravine. Torn winter cloth and dark stains mark a half buried patch below; small snowshoe prints and parallel sled grooves lead south. Flat grey light reveals wind swept ice and powder without any visible bodies or creatures. Cold desaturated palette. Keep the lower third clear.",
+      "lectura": "Alcanzáis una cresta y el viento amaina un instante. Abajo, en el barranco, hay un cuerpo. Está congelado y desmembrado: el torso no tiene cabeza y las extremidades están separadas, medio cubiertas por la nieve. La sangre es negra sobre el hielo. Alrededor del cadáver hay huellas, y en la nieve se ven dos surcos paralelos, como los de un trineo que alguien ha arrastrado. No hay animales cerca. Solo el viento. Y, por un momento, juráis que las huellas se mueven.",
+      "notas": "el cadáver es Oobok, el enano que murió cuando el yeti atacó al grupo. El yeti se comió los brazos y la mayor parte de los órganos internos, y se llevó la cabeza; Las huellas de Oobok y del yeti han sido borradas por el viento; las que quedan son de goblins. Con una tirada de Sabiduría (Supervivencia) CD 10, los Héroes determinan que son frescas, de la última hora, y que pertenecen a media docena de pequeños humanoides con raquetas de nieve; Las pistas conducen al sur. Si las siguen durante media hora, alcanzan a los goblins, que avanzan lentamente por el peso del trineo; Si fallan la tirada, el rastro es confuso y la ventisca puede borrarlo; el Narrador puede cobrar tiempo, sumar [perdido-1] o permitir otra tirada tras un esfuerzo; el yeti ya se ha marchado y solo reaparece si el Narrador decide usar el desafío opcional.",
+      "musica": "camino",
+      "motivos": [
+        "horror",
+        "misterio"
+      ],
+      "efectos": [
+        "viento",
+        "hielo-cruje"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "cadáver mutilado",
+        "huellas frescas",
+        "surcos de trineo",
+        "rastro goblin",
+        "horror"
+      ],
+      "figuras": [
+        "yeti-de-la-tundra"
+      ]
+    },
+    {
+      "slug": "la-caravana-de-izobai",
+      "nombre": "La caravana de Izobai",
+      "ciudad": "tundra",
+      "interior": false,
+      "imagen_en": "A wide establishing view of a goblin wagon twenty feet tall on open tundra. Firing gaps puncture its rough timber walls; straw bedding shows through an opening. Harnesses and chains lie beside deep wheel marks, and a loaded wooden sled sits well ahead. Snow blows under low blue light. No people or creatures. Leave the lower third clear.",
+      "lectura": "Las figuras que seguíais son goblins. Seis de ellos arrastran el trineo de los enanos, jadeando y maldiciendo, hacia un carro enorme plantado en la nieve. Del carro tiran dos osos polares, enormes y furiosos, con los arneses tensos. En el techo, una goblin de una sola oreja levanta una antorcha; un halcón encapuchado se agarra a su brazo. Los goblins no os han visto todavía. El trineo está a unos ciento veinte pies; el carro, otros ciento veinte más allá. El viento os trae el olor de los osos y el ruido de las cadenas.",
+      "notas": "los goblins vienen de la fortaleza de Karkolohk; Su halcón explorador vio el trineo abandonado y la jefa, Izobai, envió a seis goblins a apoderarse de la carga mientras ella y dos más se quedaban a proteger el carro y a los osos; Al empezar el encuentro, los Héroes están a 120 pies del trineo y el carro a otros 120 pies; los goblins que tiran del trineo están demasiado distraídos y el grupo tiene sorpresa; El trineo pesa 300 libras y los lingotes añaden 600 más; un solo goblin puede arrastrar unas 240 libras, así que hacen falta al menos cuatro para moverlo. Si son atacados, los goblins se cubren tras el trineo y responden a distancia; En su primer turno, uno sopla un cuerno para alertar a Izobai, que sube al techo del carro con la antorcha y el halcón y observa la batalla; Si ve enemigos a 60 pies del carro, ordena a los dos goblins que están dentro que disparen flechas por los huecos de las paredes; tienen cobertura de tres cuartos; Si caen cinco o más goblins, o si Izobai muere o es capturada, el resto está dispuesto a negociar una tregua, pero los Héroes deben iniciar la conversación. Los goblins renuncian a los lingotes a cambio de sus vidas y su libertad; el invierno los ha dejado miserables y solo quieren volver a casa; Si los Héroes les ofrecen una manta, comida u otro regalo, abandonan el trineo y los dejan pasar; Izobai solo lucha en defensa propia; si la derrota parece inevitable, prende fuego al carro con la antorcha y huye a la tundra con su halcón, su tesoro y los goblins que pueda llevarse; El carro está lleno de camas de paja y arde con rapidez: al inicio del siguiente turno de Izobai, el vehículo es un infierno. Los osos pueden liberarse: una tirada de Sabiduría (Manejar Animales) CD 12 permite acercarse sin enfurecerlos y usar una acción para soltar a uno del arnés; Si falla, ambos osos se vuelven hostiles contra ese Héroe durante el resto del encuentro; Un oso liberado no ataca a quien lo soltó, pero sí a todas las demás criaturas; prefiere comerse a un goblin y los goblins huyen de él; Izobai lleva dos pociones de amistad animal y una bolsa de piel de foca con 13 piezas de platino, 25 de cobre y un silbato de hueso; los demás goblins llevan 1d6 piezas de cobre cada uno en bolsas de piel de foca.",
+      "musica": "camino",
+      "motivos": [
+        "batalla",
+        "tension",
+        "bestia"
+      ],
+      "efectos": [
+        "viento",
+        "cuerno",
+        "rugido",
+        "alas"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "trineo varado",
+        "carro de veinte pies",
+        "osos polares",
+        "halcón explorador",
+        "antorcha",
+        "goblins fríos",
+        "sorpresa"
+      ],
+      "figuras": [
+        "izobai",
+        "banda-de-goblins-de-karkolohk",
+        "osos-polares-hambrientos"
+      ]
+    },
+    {
+      "slug": "el-regreso-a-bryn-shander",
+      "nombre": "El regreso a Bryn Shander",
+      "ciudad": "bryn-shander",
+      "interior": false,
+      "imagen_en": "A wide view of the iron braced gates of a timber walled hill town at dusk. A heavy sled loaded with burlap wrapped iron ingots and leather straps stands beside the palisade. Lanterns glow through falling snow; a nearby smithy spills orange forge light across the street. No people or creatures. Leave the lower third open.",
+      "lectura": "La puerta se abre con un golpe de vigas y el viento os empuja hacia dentro. Hruna os espera junto al fuego de la guardia, con la capucha echada atrás y la oreja perdida al descubierto. Al ver el trineo, se queda quieta. Korux suelta una risa rota; Storn mira al cielo una última vez, como si esperara que un dragón blanco se lo llevara. “Lo habéis conseguido —dice Hruna—. No lo olvidaremos.” Detrás de ella, el herrero asoma la cabeza por la puerta de la forja y evalúa los lingotes con ojo de experto.",
+      "notas": "los trescientos lingotes van envueltos en sacos de arpillera y sujetos al trineo con correas de cuero. Cada uno pesa dos libras y lleva estampado el símbolo de la taza espumeante del clan Battlehammer; para un herrero, cada lingote vale unas cinco piezas de plata; Los Héroes deben devolverlos a Hruna y luego entregarlos en Filos de Hierro Negro. Si lo hacen, reciben las piedras prometidas y el descuento del diez por ciento en la tienda. Si la carga se ha perdido, se ha quemado o ha quedado en manos de los goblins, Hruna negocia un pago parcial o se marcha decepcionada; el Narrador puede convertir la deuda en una etiqueta de historia; Si los Héroes negociaron con los goblins, pueden conservar la tregua como contacto para el futuro.",
+      "musica": "pueblo",
+      "motivos": [
+        "esperanza"
+      ],
+      "efectos": [
+        "puerta",
+        "viento"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "trineo recuperado",
+        "lingotes de Battlehammer",
+        "recompensa",
+        "amistad enana",
+        "descuento de Hierro Negro"
+      ],
+      "figuras": [
+        "hruna",
+        "korux",
+        "storn",
+        "garn-el-martillo",
+        "elza"
+      ]
+    }
+  ],
+  "pnj": [
+    {
+      "slug": "duvessa-shane",
+      "nombre": "Duvessa Shane",
+      "papel": "portavoz de Bryn Shander y jefa del Consejo de Oradores; líder civil de la villa.",
+      "ciudad": "bryn-shander",
+      "aspecto_en": "A young human woman with tied back brown hair, tired eyes and an upright posture. She wears practical thick wool clothing, worn gloves and an official brooch, holding papers in one hand. Her direct expression suggests firm resolve despite exhaustion. Full body character illustration, layered winter garments, muted northern colours and a neutral background.",
+      "presentacion": "Ante vosotros aparece humana joven, pelo castaño recogido, ropa de lana práctica con un broche de cargo, guantes gastados y ojeras; mirada directa, espalda recta, siempre con papeles o una taza de algo caliente en la mano. Al acercaros, podéis distinguir el desgaste de su ropa y los pequeños gestos de su expresión. Su presencia os invita a medir vuestras primeras palabras mientras el frío del valle sigue pesando sobre el encuentro.",
+      "caracter": "firme, pragmática, honesta y cansada; habla claro, sin adornos, y escucha antes de decidir. No tolera bravuconería ni promesas que no se puedan cumplir.",
+      "quiere": "mantener viva la villa, evitar que el hambre y el miedo la rompan y conservar la paz entre las Diez Ciudades.",
+      "sabe": "cifras de población y reservas, rutas, rumores políticos, el estado de la milicia y lo que ocurre en el consejo; no conoce los detalles de la Cabaña Negra.",
+      "desafio": "duvessa-shane-desafio"
+    },
+    {
+      "slug": "markham-pozosur",
+      "nombre": "Markham Pozosur",
+      "papel": "sheriff de Bryn Shander y comandante de la milicia.",
+      "ciudad": "bryn-shander",
+      "aspecto_en": "A broad shouldered veteran human man with a trimmed grey beard, wind scarred face and stern eyes. A fur lined leather coat covers his sturdy frame; a pewter badge marks his office and an axe hangs at his belt. His large hands rest ready at his sides. Full body portrait, practical winter clothing, subdued colours, neutral background.",
+      "presentacion": "Ante vosotros aparece humano veterano, ancho de hombros, barba gris recortada, abrigo de cuero forrado de piel, placa de estaño y un hacha al cinto; manos grandes, cara marcada por el viento, mirada de pocos amigos. Al acercaros, podéis distinguir el desgaste de su ropa y los pequeños gestos de su expresión. Su presencia os invita a medir vuestras primeras palabras mientras el frío del valle sigue pesando sobre el encuentro.",
+      "caracter": "seco, disciplinado, suspicaz y justo a su manera; habla poco, con voz grave y cortante, y prefiere actuar antes que discutir.",
+      "quiere": "orden, que no corra la sangre y que los forasteros no traigan problemas a su villa.",
+      "sabe": "la composición de la milicia (250 soldados y 20 veteranos), el estado de las puertas, los arrestos recientes, el contrabando y los rumores de goblins y yetis; puede proporcionar escolta o cerrar la ciudad.",
+      "desafio": "markham-pozosur-desafio"
+    },
+    {
+      "slug": "garn-el-martillo",
+      "nombre": "Garn el Martillo",
+      "papel": "herrero y propietario de Filos de Hierro Negro.",
+      "ciudad": "bryn-shander",
+      "aspecto_en": "A stocky shield dwarf smith with a black beard flecked with ash, powerful burned forearms and a thick leather apron over work clothes. He grips a heavy smithing hammer as naturally as another limb. His proud, brusque face glows with reflected forge light. Full body illustration, winter workshop layers, soot black and warm iron tones.",
+      "presentacion": "Ante vosotros aparece enano escudo fornido, barba negra salpicada de ceniza, delantal de cuero, brazos quemados y un martillo que parece parte de su cuerpo; voz atronadora, risa breve. Al acercaros, podéis distinguir el desgaste de su ropa y los pequeños gestos de su expresión. Su presencia os invita a medir vuestras primeras palabras mientras el frío del valle sigue pesando sobre el encuentro.",
+      "caracter": "orgulloso, brusco y trabajador; se ofende si critican su acero y se enorgullece de vender barato, aunque no de vender bien.",
+      "quiere": "que su herrería prospere, vender equipo y que los veteranos dejen de reírse de sus hojas.",
+      "sabe": "el hierro que llega de la mina de Battlehammer, la calidad de las armas, los precios y las rutas del mineral; no sabe nada del trineo hasta que se lo cuentan.",
+      "desafio": "garn-el-martillo-desafio"
+    },
+    {
+      "slug": "elza",
+      "nombre": "Elza",
+      "papel": "vendedora de suministros de aventura y hermana de Garn.",
+      "ciudad": "bryn-shander",
+      "aspecto_en": "A shield dwarf woman with a red braid, attentive eyes and a tired but friendly smile. She wears a hide apron over warm practical winter layers and patched gloves on quick hands. Snowshoes and a parcel of provisions suggest her trade in expedition supplies. Full body character illustration, sturdy proportions, warm muted colours and neutral background.",
+      "presentacion": "Ante vosotros aparece enana escudo de trenza pelirroja, delantal de piel, guantes remendados y manos rápidas; sonrisa cansada, ojos atentos. Al acercaros, podéis distinguir el desgaste de su ropa y los pequeños gestos de su expresión. Su presencia os invita a medir vuestras primeras palabras mientras el frío del valle sigue pesando sobre el encuentro.",
+      "caracter": "práctica, simpática y negociadora; voz alegre, regatea con humor y no deja que su hermano espante a los clientes.",
+      "quiere": "vender equipo, cuidar el negocio familiar y que los aventureros vuelvan vivos para gastar otra vez.",
+      "sabe": "qué equipo hace falta para el frío, precios de raquetas, picos y raciones, rumores de clientes y la existencia de Hruna y su grupo.",
+      "desafio": "elza-desafio"
+    },
+    {
+      "slug": "mishann",
+      "nombre": "Mishann",
+      "papel": "sacerdotisa de Amaunator y directora del Santuario de la Mañana.",
+      "ciudad": "bryn-shander",
+      "aspecto_en": "An elderly human woman with short white hair, knotted hands and an intense gaze. A thick shawl covers her yellow robe, and a metal sun symbol rests at her chest. Her expression combines welcome with stubborn religious certainty. Full body character portrait, practical warm layers, pale gold and weathered wool textures, plain neutral background.",
+      "presentacion": "Ante vosotros aparece humana mayor, pelo blanco corto, túnica amarilla bajo un chal grueso, símbolo solar de metal, manos nudosas y mirada intensa; huele a cera y a incienso barato. Al acercaros, podéis distinguir el desgaste de su ropa y los pequeños gestos de su expresión. Su presencia os invita a medir vuestras primeras palabras mientras el frío del valle sigue pesando sobre el encuentro.",
+      "caracter": "devota, obstinada y cálida con quienes respetan su fe; intolerante con la confusión teológica, especialmente si alguien llama Lathander a su dios.",
+      "quiere": "que el sol vuelva a brillar sobre el valle, que Amaunator recupere su lugar y que el santuario siga en pie.",
+      "sabe": "doctrina de Amaunator y Lathander, rumores de la villa, la situación de Cobre y la existencia de Macreadus; no conoce el paradero exacto de la cabaña.",
+      "desafio": "mishann-desafio"
+    },
+    {
+      "slug": "cobre-perilla",
+      "nombre": "Cobre Perilla",
+      "papel": "acólito de Lathander, inventor aficionado, inquilino del ático y gancho hacia la Cabaña Negra.",
+      "ciudad": "bryn-shander",
+      "aspecto_en": "A small rock gnome with a large nose, unruly white hair and patched spectacles. His handmade hooded fur suit gives him the rounded silhouette of a teddy bear. Soot and oil stain his fingers; his pinched expression suggests irritation and restless curiosity. Full body portrait, thick winter clothing, detailed seams, subdued brown fur and neutral background.",
+      "presentacion": "Ante vosotros aparece gnomo de las rocas pequeño, nariz grande, pelo blanco alborotado, gafas remendadas y un traje de piel con capucha cosido por él mismo que lo hace parecer un osito de peluche; dedos manchados de hollín y aceite. Al acercaros, podéis distinguir el desgaste de su ropa y los pequeños gestos de su expresión. Su presencia os invita a medir vuestras primeras palabras mientras el frío del valle sigue pesando sobre el encuentro.",
+      "caracter": "pesimista, quejumbroso, curioso e ingenioso; voz aguda y rápida, interrumpe y se queja, pero se emociona cuando habla de sus inventos.",
+      "quiere": "que Macreadus esté bien, terminar su propio artilugio y que Mishann deje de discutir con él.",
+      "sabe": "que Macreadus investiga en una cabaña vieja del valle, que intenta construir un dispositivo para acabar con el invierno eterno y las rutas aproximadas; no ha ido él mismo por miedo al frío y a los caminos.",
+      "desafio": "cobre-perilla-desafio"
+    },
+    {
+      "slug": "scramsax",
+      "nombre": "Scramsax",
+      "papel": "posadero del Mirador al Norte, mercenario retirado, fuente de rumores y de crédito.",
+      "ciudad": "bryn-shander",
+      "aspecto_en": "A bulky veteran human innkeeper with grey hair, an untidy beard and a scar on one arm. An apron lies over worn mail, with a cleaning cloth slung over his shoulder. His knowing smile seems to calculate a debt. Full body portrait, warm practical layers for a northern inn, weathered textures and a plain background.",
+      "presentacion": "Ante vosotros aparece humano veterano y corpulento, pelo gris, barba descuidada, delantal sobre una cota gastada, cicatriz en el brazo y un trapo al hombro; sonríe como quien ya ha calculado cuánto puede sacaros. Al acercaros, podéis distinguir el desgaste de su ropa y los pequeños gestos de su expresión. Su presencia os invita a medir vuestras primeras palabras mientras el frío del valle sigue pesando sobre el encuentro.",
+      "caracter": "cínico, cordial y calculador; voz ronca y burlona, pocas palabras y una memoria excelente para las deudas.",
+      "quiere": "cobrar, mantener el orden en su taberna y que el Mirador siga siendo el centro de la villa.",
+      "sabe": "los rumores de la tabla de la página 18, quién debe dinero, quién busca trabajo, la historia de Hruna y la Vieja Mordisquitos, y cómo tratar a los mercenarios.",
+      "desafio": "scramsax-desafio"
+    },
+    {
+      "slug": "hruna",
+      "nombre": "Hruna",
+      "papel": "líder de los tres enanos escudo y contratante de la misión.",
+      "ciudad": "bryn-shander",
+      "aspecto_en": "A sturdy shield dwarf woman with a braided beard, missing right ear and frostbite amputations on her fingers. A thick scarf and winter coat protect her compact frame; snowshoes are strapped behind her and an ice pick hangs at her belt. Her exhausted eyes remain stubborn. Full body portrait, weathered northern gear, neutral background.",
+      "presentacion": "Ante vosotros aparece enana escudo robusta, barba trenzada, oreja derecha perdida y varios dedos amputados por congelación; bufanda gruesa, raquetas de nieve, pico al cinturón y mirada cansada pero terca. Al acercaros, podéis distinguir el desgaste de su ropa y los pequeños gestos de su expresión. Su presencia os invita a medir vuestras primeras palabras mientras el frío del valle sigue pesando sobre el encuentro.",
+      "caracter": "directa, ruda, orgullosa y agradecida; voz rasposa por años de fumar, negocia sin rodeos y no soporta la lástima.",
+      "quiere": "recuperar el trineo, pagar a los Héroes, volver a la mina y que su clan no pierda el hierro.",
+      "sabe": "la ruta, el ataque del yeti, la muerte de Oobok, la posición aproximada del trineo, el valor de los lingotes y las costumbres de los enanos del valle.",
+      "desafio": "hruna-desafio"
+    },
+    {
+      "slug": "korux",
+      "nombre": "Korux",
+      "papel": "enano escudo, compañero silencioso de Hruna y fuerza del grupo.",
+      "ciudad": "bryn-shander",
+      "aspecto_en": "A wide built shield dwarf miner almost hidden inside a heavy hooded winter coat. Frostbite has taken his nose and several fingers; a sparse beard frames his mutilated face. An ice pick hangs at his belt, and his fixed gaze conveys quiet loyalty. Full body illustration, layered practical clothes, snow crusted boots and neutral background.",
+      "presentacion": "Ante vosotros aparece enano ancho y encapuchado, nariz y varios dedos mutilados por la congelación, barba rala, pico al cinturón y mirada fija; apenas se le ve la cara. Al acercaros, podéis distinguir el desgaste de su ropa y los pequeños gestos de su expresión. Su presencia os invita a medir vuestras primeras palabras mientras el frío del valle sigue pesando sobre el encuentro.",
+      "caracter": "silencioso, leal y observador; gruñe más que habla y se coloca siempre del lado de Hruna.",
+      "quiere": "volver a casa, que Hruna no se quede sola y recuperar el hierro.",
+      "sabe": "rutas, minería, señales de yeti y cómo cargar peso; puede pagar las raquetas de nieve del grupo.",
+      "desafio": "korux-desafio"
+    },
+    {
+      "slug": "storn",
+      "nombre": "Storn",
+      "papel": "enano escudo, minero asustadizo y portador del amuleto de la cerradura.",
+      "ciudad": "bryn-shander",
+      "aspecto_en": "A slim shield dwarf miner with a brown beard and nervous eyes turned towards the sky. He huddles inside a thick winter coat, carrying snowshoes and wearing a rusty iron padlock on a cord around his neck. His posture is anxious and guarded. Full body portrait, worn wool and leather, subdued colours and neutral background.",
+      "presentacion": "Ante vosotros aparece enano delgado, barba castaña, ojos nerviosos que no dejan de mirar al cielo, cerradura de hierro oxidada colgada al cuello y raquetas de nieve; se encoge dentro del abrigo. Al acercaros, podéis distinguir el desgaste de su ropa y los pequeños gestos de su expresión. Su presencia os invita a medir vuestras primeras palabras mientras el frío del valle sigue pesando sobre el encuentro.",
+      "caracter": "miedoso, supersticioso y hablador cuando se tranquiliza; voz temblorosa, ríe con nervios y cambia de tema si se habla de dragones.",
+      "quiere": "no ver nunca un dragón blanco, volver a la mina y conservar su amuleto de la suerte.",
+      "sabe": "rumores de dragones, rutas, el miedo al yeti y la historia de su cerradura sin llave; poca cosa más.",
+      "desafio": "storn-desafio"
+    },
+    {
+      "slug": "izobai",
+      "nombre": "Izobai",
+      "papel": "jefa goblin de Karkolohk, líder de la banda y exploradora con halcón.",
+      "ciudad": "tundra",
+      "aspecto_en": "A one eared goblin woman with greenish skin, sharp teeth and calculating eyes. Patched leather armour sits over rough winter layers. She holds a burning torch and carries a hooded hawk on her arm, ready to flee or bargain. Full body character illustration, wiry build, worn equipment, orange firelight against cold blue shadows.",
+      "presentacion": "Ante vosotros aparece goblin de una sola oreja, piel verdosa, armadura de cuero remendada, dientes afilados y mirada calculadora; lleva una antorcha encendida y un halcón encapuchado en el brazo. Al acercaros, podéis distinguir el desgaste de su ropa y los pequeños gestos de su expresión. Su presencia os invita a medir vuestras primeras palabras mientras el frío del valle sigue pesando sobre el encuentro.",
+      "caracter": "pragmática, cobarde cuando le conviene y cruel solo si le da ventaja; voz chillona y rápida, negocia para sobrevivir y no desperdicia goblins.",
+      "quiere": "volver a Karkolohk con comida y tesoro, conservar a su banda y no morir en la tundra.",
+      "sabe": "la posición del trineo, la ruta, el estado de los osos, las tácticas de su banda y cuánto puede exigir en una tregua; no sabe quiénes son los Héroes.",
+      "desafio": "izobai-desafio"
+    }
+  ],
+  "desafios": [
+    {
+      "slug": "duvessa-shane-desafio",
+      "nombre": "Duvessa Shane",
+      "nivel": 3,
+      "poderio": [],
+      "roles": [
+        "Obstáculo"
+      ],
+      "aspecto_en": "A young human woman with tied back brown hair, tired eyes and an upright posture. She wears practical thick wool clothing, worn gloves and an official brooch, holding papers in one hand. Her direct expression suggests firm resolve despite exhaustion. Full body character illustration, layered winter garments, muted northern colours and a neutral background.",
+      "descripcion": "portavoz de Bryn Shander y jefa del Consejo de Oradores; líder civil de la villa.. firme, pragmática, honesta y cansada; habla claro, sin adornos, y escucha antes de decidir. No tolera bravuconería ni promesas que no se puedan cumplir.",
+      "limites": [
+        {
+          "nombre": "convencida",
+          "valor": 4,
+          "consecuencia": "Acepta los argumentos del grupo."
+        },
+        {
+          "nombre": "dispuesta a ayudar",
+          "valor": 3,
+          "consecuencia": "Se muestra dispuesta a prestar ayuda."
+        }
+      ],
+      "etiquetas": [
+        "portavoz",
+        "prudente",
+        "autoridad",
+        "cansada"
+      ],
+      "rasgos": [
+        {
+          "nombre": "Desafío social",
+          "descripcion": "No combate; plantea una oposición social."
+        }
+      ],
+      "amenazas": [
+        {
+          "nombre": "Niega permisos o acceso a la milicia",
+          "descripcion": "niega permisos o acceso a la milicia ([sin permiso])",
+          "consecuencias": [
+            "Crea [sin permiso]"
+          ]
+        },
+        {
+          "nombre": "Manda arrestar a los problemáticos",
+          "descripcion": "manda arrestar a los problemáticos ([milicia alerta])",
+          "consecuencias": [
+            "Crea [milicia alerta]"
+          ]
+        },
+        {
+          "nombre": "Expulsa al grupo de la villa",
+          "descripcion": "expulsa al grupo de la villa ([reputación manchada])",
+          "consecuencias": [
+            "Crea [reputación manchada]"
+          ]
+        }
+      ],
+      "secretos": []
+    },
+    {
+      "slug": "markham-pozosur-desafio",
+      "nombre": "Markham Pozosur",
+      "nivel": 4,
+      "poderio": [],
+      "roles": [
+        "Adversario"
+      ],
+      "aspecto_en": "A broad shouldered veteran human man with a trimmed grey beard, wind scarred face and stern eyes. A fur lined leather coat covers his sturdy frame; a pewter badge marks his office and an axe hangs at his belt. His large hands rest ready at his sides. Full body portrait, practical winter clothing, subdued colours, neutral background.",
+      "descripcion": "sheriff de Bryn Shander y comandante de la milicia.. seco, disciplinado, suspicaz y justo a su manera; habla poco, con voz grave y cortante, y prefiere actuar antes que discutir.",
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 5,
+          "consecuencia": "Queda fuera de combate o deja de luchar."
+        },
+        {
+          "nombre": "milicia rota",
+          "valor": 4,
+          "consecuencia": "Sus fuerzas pierden cohesión y dejan de sostener su posición."
+        },
+        {
+          "nombre": "autoridad",
+          "valor": 3,
+          "consecuencia": "Pierde la voluntad de mantener su oposición."
+        }
+      ],
+      "etiquetas": [
+        "veterano",
+        "milicia",
+        "disciplinado",
+        "terco"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Arresto inmediato",
+          "descripcion": "arresto inmediato ([detenido])",
+          "consecuencias": [
+            "Crea [detenido]"
+          ]
+        },
+        {
+          "nombre": "Carga de escudos y ballestas desde la muralla",
+          "descripcion": "carga de escudos y ballestas desde la muralla ([herido-3] y [rodeado-2])",
+          "consecuencias": [
+            "Inflige [herido-3]",
+            "Inflige [rodeado-2]"
+          ]
+        },
+        {
+          "nombre": "Cierre de puertas",
+          "descripcion": "cierre de puertas ([sin salida])",
+          "consecuencias": [
+            "Crea [sin salida]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidad",
+          "descripcion": "quiere evitar bajas civiles y respeta a quien protege a los habitantes."
+        }
+      ]
+    },
+    {
+      "slug": "garn-el-martillo-desafio",
+      "nombre": "Garn el Martillo",
+      "nivel": 2,
+      "poderio": [],
+      "roles": [
+        "Adversario"
+      ],
+      "aspecto_en": "A stocky shield dwarf smith with a black beard flecked with ash, powerful burned forearms and a thick leather apron over work clothes. He grips a heavy smithing hammer as naturally as another limb. His proud, brusque face glows with reflected forge light. Full body illustration, winter workshop layers, soot black and warm iron tones.",
+      "descripcion": "herrero y propietario de Filos de Hierro Negro.. orgulloso, brusco y trabajador; se ofende si critican su acero y se enorgullece de vender barato, aunque no de vender bien.",
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 4,
+          "consecuencia": "Queda fuera de combate o deja de luchar."
+        },
+        {
+          "nombre": "orgullo herido",
+          "valor": 3,
+          "consecuencia": "Su orgullo queda quebrado y deja de sostener el enfrentamiento."
+        }
+      ],
+      "etiquetas": [
+        "herrero",
+        "fuerte",
+        "orgulloso"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Martillazo",
+          "descripcion": "martillazo ([herido-3])",
+          "consecuencias": [
+            "Inflige [herido-3]"
+          ]
+        },
+        {
+          "nombre": "Llama a la milicia",
+          "descripcion": "llama a la milicia ([milicia alerta])",
+          "consecuencias": [
+            "Crea [milicia alerta]"
+          ]
+        },
+        {
+          "nombre": "Cierra la tienda y niega el descuento",
+          "descripcion": "cierra la tienda y niega el descuento ([sin descuento])",
+          "consecuencias": [
+            "Crea [sin descuento]"
+          ]
+        }
+      ],
+      "secretos": []
+    },
+    {
+      "slug": "elza-desafio",
+      "nombre": "Elza",
+      "nivel": 1,
+      "poderio": [],
+      "roles": [
+        "Obstáculo"
+      ],
+      "aspecto_en": "A shield dwarf woman with a red braid, attentive eyes and a tired but friendly smile. She wears a hide apron over warm practical winter layers and patched gloves on quick hands. Snowshoes and a parcel of provisions suggest her trade in expedition supplies. Full body character illustration, sturdy proportions, warm muted colours and neutral background.",
+      "descripcion": "vendedora de suministros de aventura y hermana de Garn.. práctica, simpática y negociadora; voz alegre, regatea con humor y no deja que su hermano espante a los clientes.",
+      "limites": [
+        {
+          "nombre": "convencida",
+          "valor": 2,
+          "consecuencia": "Acepta los argumentos del grupo."
+        },
+        {
+          "nombre": "ofendida",
+          "valor": 2,
+          "consecuencia": "Se ofende y cierra la conversación."
+        }
+      ],
+      "etiquetas": [],
+      "rasgos": [
+        {
+          "nombre": "Desafío social",
+          "descripcion": "No combate; plantea una oposición social."
+        }
+      ],
+      "amenazas": [
+        {
+          "nombre": "Sube los precios",
+          "descripcion": "sube los precios ([precio abusivo])",
+          "consecuencias": [
+            "Crea [precio abusivo]"
+          ]
+        },
+        {
+          "nombre": "Cierra el trato",
+          "descripcion": "cierra el trato ([sin suministros])",
+          "consecuencias": [
+            "Crea [sin suministros]"
+          ]
+        },
+        {
+          "nombre": "Llama a Garn",
+          "descripcion": "llama a Garn ([herrero alerta])",
+          "consecuencias": [
+            "Crea [herrero alerta]"
+          ]
+        }
+      ],
+      "secretos": []
+    },
+    {
+      "slug": "mishann-desafio",
+      "nombre": "Mishann",
+      "nivel": 2,
+      "poderio": [],
+      "roles": [
+        "Obstáculo"
+      ],
+      "aspecto_en": "An elderly human woman with short white hair, knotted hands and an intense gaze. A thick shawl covers her yellow robe, and a metal sun symbol rests at her chest. Her expression combines welcome with stubborn religious certainty. Full body character portrait, practical warm layers, pale gold and weathered wool textures, plain neutral background.",
+      "descripcion": "sacerdotisa de Amaunator y directora del Santuario de la Mañana.. devota, obstinada y cálida con quienes respetan su fe; intolerante con la confusión teológica, especialmente si alguien llama Lathander a su dios.",
+      "limites": [
+        {
+          "nombre": "convencida",
+          "valor": 3,
+          "consecuencia": "Acepta los argumentos del grupo."
+        },
+        {
+          "nombre": "ofendida",
+          "valor": 3,
+          "consecuencia": "Se ofende y cierra la conversación."
+        }
+      ],
+      "etiquetas": [
+        "sacerdotisa",
+        "devota",
+        "terca"
+      ],
+      "rasgos": [
+        {
+          "nombre": "Desafío social",
+          "descripcion": "No combate; plantea una oposición social."
+        }
+      ],
+      "amenazas": [
+        {
+          "nombre": "Expulsa del santuario",
+          "descripcion": "expulsa del santuario ([puerta cerrada])",
+          "consecuencias": [
+            "Crea [puerta cerrada]"
+          ]
+        },
+        {
+          "nombre": "Niega cobijo o bendición",
+          "descripcion": "niega cobijo o bendición ([sin refugio])",
+          "consecuencias": [
+            "Crea [sin refugio]"
+          ]
+        },
+        {
+          "nombre": "Alerta a Duvessa",
+          "descripcion": "alerta a Duvessa ([reputación manchada])",
+          "consecuencias": [
+            "Crea [reputación manchada]"
+          ]
+        }
+      ],
+      "secretos": []
+    },
+    {
+      "slug": "cobre-perilla-desafio",
+      "nombre": "Cobre Perilla",
+      "nivel": 1,
+      "poderio": [],
+      "roles": [
+        "Obstáculo"
+      ],
+      "aspecto_en": "A small rock gnome with a large nose, unruly white hair and patched spectacles. His handmade hooded fur suit gives him the rounded silhouette of a teddy bear. Soot and oil stain his fingers; his pinched expression suggests irritation and restless curiosity. Full body portrait, thick winter clothing, detailed seams, subdued brown fur and neutral background.",
+      "descripcion": "acólito de Lathander, inventor aficionado, inquilino del ático y gancho hacia la Cabaña Negra.. pesimista, quejumbroso, curioso e ingenioso; voz aguda y rápida, interrumpe y se queja, pero se emociona cuando habla de sus inventos.",
+      "limites": [
+        {
+          "nombre": "convencido",
+          "valor": 2,
+          "consecuencia": "Acepta los argumentos del grupo."
+        },
+        {
+          "nombre": "asustado",
+          "valor": 2,
+          "consecuencia": "El miedo lo domina y se retira o se esconde."
+        }
+      ],
+      "etiquetas": [],
+      "rasgos": [
+        {
+          "nombre": "Desafío social",
+          "descripcion": "No combate; plantea una oposición social."
+        }
+      ],
+      "amenazas": [
+        {
+          "nombre": "Se encierra en el ático",
+          "descripcion": "se encierra en el ático ([sin información])",
+          "consecuencias": [
+            "Crea [sin información]"
+          ]
+        },
+        {
+          "nombre": "Retira su petición",
+          "descripcion": "retira su petición ([gancho perdido])",
+          "consecuencias": [
+            "Crea [gancho perdido]"
+          ]
+        },
+        {
+          "nombre": "Pide ayuda a Mishann",
+          "descripcion": "pide ayuda a Mishann ([discusión pública])",
+          "consecuencias": [
+            "Crea [discusión pública]"
+          ]
+        }
+      ],
+      "secretos": []
+    },
+    {
+      "slug": "scramsax-desafio",
+      "nombre": "Scramsax",
+      "nivel": 3,
+      "poderio": [],
+      "roles": [
+        "Adversario"
+      ],
+      "aspecto_en": "A bulky veteran human innkeeper with grey hair, an untidy beard and a scar on one arm. An apron lies over worn mail, with a cleaning cloth slung over his shoulder. His knowing smile seems to calculate a debt. Full body portrait, warm practical layers for a northern inn, weathered textures and a plain background.",
+      "descripcion": "posadero del Mirador al Norte, mercenario retirado, fuente de rumores y de crédito.. cínico, cordial y calculador; voz ronca y burlona, pocas palabras y una memoria excelente para las deudas.",
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 4,
+          "consecuencia": "Queda fuera de combate o deja de luchar."
+        },
+        {
+          "nombre": "dispuesto a negociar",
+          "valor": 3,
+          "consecuencia": "Acepta negociar una solución."
+        }
+      ],
+      "etiquetas": [
+        "veterano",
+        "posadero",
+        "deudas",
+        "espada"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Echa a los problemáticos",
+          "descripcion": "echa a los problemáticos ([sin alojamiento])",
+          "consecuencias": [
+            "Crea [sin alojamiento]"
+          ]
+        },
+        {
+          "nombre": "Llama a la milicia",
+          "descripcion": "llama a la milicia ([milicia alerta])",
+          "consecuencias": [
+            "Crea [milicia alerta]"
+          ]
+        },
+        {
+          "nombre": "Cobra con intereses",
+          "descripcion": "cobra con intereses ([deuda])",
+          "consecuencias": [
+            "Crea [deuda]"
+          ]
+        },
+        {
+          "nombre": "Pelea con la espada",
+          "descripcion": "pelea con la espada ([herido-3])",
+          "consecuencias": [
+            "Inflige [herido-3]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidad",
+          "descripcion": "su negocio, su reputación y el trofeo del pez."
+        }
+      ]
+    },
+    {
+      "slug": "hruna-desafio",
+      "nombre": "Hruna",
+      "nivel": 2,
+      "poderio": [],
+      "roles": [
+        "Adversario"
+      ],
+      "aspecto_en": "A sturdy shield dwarf woman with a braided beard, missing right ear and frostbite amputations on her fingers. A thick scarf and winter coat protect her compact frame; snowshoes are strapped behind her and an ice pick hangs at her belt. Her exhausted eyes remain stubborn. Full body portrait, weathered northern gear, neutral background.",
+      "descripcion": "líder de los tres enanos escudo y contratante de la misión.. directa, ruda, orgullosa y agradecida; voz rasposa por años de fumar, negocia sin rodeos y no soporta la lástima.",
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 4,
+          "consecuencia": "Queda fuera de combate o deja de luchar."
+        },
+        {
+          "nombre": "orgullo",
+          "valor": 3,
+          "consecuencia": "Cede al quedar superada su resistencia orgullosa."
+        }
+      ],
+      "etiquetas": [
+        "minera",
+        "enana escudo",
+        "terca",
+        "raquetas"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Pico de hielo",
+          "descripcion": "pico de hielo ([herido-2])",
+          "consecuencias": [
+            "Inflige [herido-2]"
+          ]
+        },
+        {
+          "nombre": "Llama a Korux y Storn",
+          "descripcion": "llama a Korux y Storn ([tres contra uno])",
+          "consecuencias": [
+            "Crea [tres contra uno]"
+          ]
+        },
+        {
+          "nombre": "Niega la recompensa",
+          "descripcion": "niega la recompensa ([trato roto])",
+          "consecuencias": [
+            "Crea [trato roto]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Evita la lucha",
+          "descripcion": "No quiere pelear y prefiere huir."
+        }
+      ]
+    },
+    {
+      "slug": "korux-desafio",
+      "nombre": "Korux",
+      "nivel": 2,
+      "poderio": [],
+      "roles": [
+        "Adversario"
+      ],
+      "aspecto_en": "A wide built shield dwarf miner almost hidden inside a heavy hooded winter coat. Frostbite has taken his nose and several fingers; a sparse beard frames his mutilated face. An ice pick hangs at his belt, and his fixed gaze conveys quiet loyalty. Full body illustration, layered practical clothes, snow crusted boots and neutral background.",
+      "descripcion": "enano escudo, compañero silencioso de Hruna y fuerza del grupo.. silencioso, leal y observador; gruñe más que habla y se coloca siempre del lado de Hruna.",
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 5,
+          "consecuencia": "Queda fuera de combate o deja de luchar."
+        },
+        {
+          "nombre": "lealtad",
+          "valor": 3,
+          "consecuencia": "Su lealtad queda superada y ya no sostiene esta oposición."
+        }
+      ],
+      "etiquetas": [
+        "fuerte",
+        "silencioso",
+        "enano escudo"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Golpe con el pico",
+          "descripcion": "golpe con el pico ([herido-3])",
+          "consecuencias": [
+            "Inflige [herido-3]"
+          ]
+        },
+        {
+          "nombre": "Bloquea el paso",
+          "descripcion": "bloquea el paso ([sin salida])",
+          "consecuencias": [
+            "Crea [sin salida]"
+          ]
+        },
+        {
+          "nombre": "Protege a Hruna",
+          "descripcion": "protege a Hruna ([herido-2] a quien la ataque)",
+          "consecuencias": [
+            "Inflige [herido-2]"
+          ]
+        }
+      ],
+      "secretos": []
+    },
+    {
+      "slug": "storn-desafio",
+      "nombre": "Storn",
+      "nivel": 1,
+      "poderio": [],
+      "roles": [
+        "Adversario"
+      ],
+      "aspecto_en": "A slim shield dwarf miner with a brown beard and nervous eyes turned towards the sky. He huddles inside a thick winter coat, carrying snowshoes and wearing a rusty iron padlock on a cord around his neck. His posture is anxious and guarded. Full body portrait, worn wool and leather, subdued colours and neutral background.",
+      "descripcion": "enano escudo, minero asustadizo y portador del amuleto de la cerradura.. miedoso, supersticioso y hablador cuando se tranquiliza; voz temblorosa, ríe con nervios y cambia de tema si se habla de dragones.",
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 3,
+          "consecuencia": "Queda fuera de combate o deja de luchar."
+        },
+        {
+          "nombre": "asustado",
+          "valor": 3,
+          "consecuencia": "El miedo lo domina y se retira o se esconde."
+        }
+      ],
+      "etiquetas": [
+        "medroso",
+        "minero",
+        "amuleto"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Huye",
+          "descripcion": "huye ([separado-2])",
+          "consecuencias": [
+            "Inflige [separado-2]"
+          ]
+        },
+        {
+          "nombre": "Grita y alerta a los enemigos",
+          "descripcion": "grita y alerta a los enemigos ([alerta])",
+          "consecuencias": [
+            "Crea [alerta]"
+          ]
+        },
+        {
+          "nombre": "Se esconde",
+          "descripcion": "se esconde ([fuera de combate])",
+          "consecuencias": [
+            "Crea [fuera de combate]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidad",
+          "descripcion": "se calma con comida caliente y una voz amable."
+        }
+      ]
+    },
+    {
+      "slug": "izobai-desafio",
+      "nombre": "Izobai",
+      "nivel": 3,
+      "poderio": [],
+      "roles": [
+        "Adversario"
+      ],
+      "aspecto_en": "A one eared goblin woman with greenish skin, sharp teeth and calculating eyes. Patched leather armour sits over rough winter layers. She holds a burning torch and carries a hooded hawk on her arm, ready to flee or bargain. Full body character illustration, wiry build, worn equipment, orange firelight against cold blue shadows.",
+      "descripcion": "jefa goblin de Karkolohk, líder de la banda y exploradora con halcón.. pragmática, cobarde cuando le conviene y cruel solo si le da ventaja; voz chillona y rápida, negocia para sobrevivir y no desperdicia goblins.",
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 4,
+          "consecuencia": "Queda fuera de combate o deja de luchar."
+        },
+        {
+          "nombre": "dispuesta a huir",
+          "valor": 3,
+          "consecuencia": "Abandona la lucha y huye con lo que pueda llevarse."
+        }
+      ],
+      "etiquetas": [
+        "jefa",
+        "halcón",
+        "antorcha",
+        "una oreja"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Prende el carro",
+          "descripcion": "prende el carro ([en llamas-3])",
+          "consecuencias": [
+            "Crea [en llamas-3]"
+          ]
+        },
+        {
+          "nombre": "Ordena la lluvia de flechas",
+          "descripcion": "ordena la lluvia de flechas ([herido-2])",
+          "consecuencias": [
+            "Inflige [herido-2]"
+          ]
+        },
+        {
+          "nombre": "Huye con el tesoro",
+          "descripcion": "huye con el tesoro ([rastro de Izobai])",
+          "consecuencias": [
+            "Crea [rastro de Izobai]"
+          ]
+        },
+        {
+          "nombre": "Suelta a los osos como distracción",
+          "descripcion": "suelta a los osos como distracción ([osos furiosos-2])",
+          "consecuencias": [
+            "Crea [osos furiosos-2]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidad",
+          "descripcion": "solo lucha en defensa propia y huye si la derrota es inevitable."
+        }
+      ]
+    },
+    {
+      "slug": "banda-de-goblins-de-karkolohk",
+      "nombre": "Banda de goblins de Karkolohk",
+      "nivel": 3,
+      "poderio": [],
+      "roles": [
+        "Adversario",
+        "Merodeador"
+      ],
+      "aspecto_en": "A group of eight thin goblins and their one eared female leader, in patched winter layers and rough leather armour. Bows, a horn and a burning torch mark their equipment, with a hooded hawk beside the leader. Full body creature group illustration, hungry faces and wary postures, icy blue shadows and muted dirty browns.",
+      "descripcion": "ocho goblins y una jefa goblin (Izobai), más un halcón entrenado; dos osos polares aparte.. Sus límites y amenazas permiten resolver la oposición por distintas vías.",
+      "limites": [
+        {
+          "nombre": "diezmados",
+          "valor": 4,
+          "consecuencia": "caen cinco o más goblins y la banda pierde cohesión"
+        },
+        {
+          "nombre": "jefa derrotada",
+          "valor": 3,
+          "consecuencia": "Izobai cae, huye o se rinde"
+        },
+        {
+          "nombre": "ánimo",
+          "valor": 3,
+          "consecuencia": "el miedo y el frío les ganan y aceptan negociar"
+        }
+      ],
+      "etiquetas": [
+        "numerosos",
+        "cobardes",
+        "raquíticos",
+        "trineo como cobertura",
+        "carro de veinte pies",
+        "halcón explorador",
+        "antorcha",
+        "ocultos-2",
+        "en llamas-3",
+        "huyendo-2",
+        "rodeados-2",
+        "asustados-2"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Cuerno de alarma",
+          "descripcion": "Izobai sube al techo con la antorcha y el halcón; crea [atalaya goblin]; los dos goblins del carro disparan por los huecos con cobertura de tres cuartos.",
+          "consecuencias": [
+            "Aplica [atalaya goblin]"
+          ]
+        },
+        {
+          "nombre": "Lluvia de flechas",
+          "descripcion": "inflige [herido-2] a quien esté al descubierto; crea [fuego cruzado]; si el objetivo busca cobertura, pierde su siguiente acción.",
+          "consecuencias": [
+            "Inflige [herido-2]",
+            "Aplica [fuego cruzado]"
+          ]
+        },
+        {
+          "nombre": "Prender el carro",
+          "descripcion": "[en llamas-3] en el vehículo; el humo crea [humo-2]; si el trineo está cerca, los lingotes quedan [chamuscados] y hay que rescatarlos antes de que el calor deforme la carga.",
+          "consecuencias": [
+            "Aplica [en llamas-3]",
+            "Aplica [humo-2]",
+            "Aplica [chamuscados]"
+          ]
+        },
+        {
+          "nombre": "Huida de Izobai",
+          "descripcion": "escapa con el halcón, su tesoro y los goblins que pueda; crea [rastro de Izobai] hacia Karkolohk; los Héroes pierden [tesoro de Izobai] y la oportunidad de negociar.",
+          "consecuencias": [
+            "Aplica [rastro de Izobai]",
+            "Aplica [tesoro de Izobai]"
+          ]
+        },
+        {
+          "nombre": "Negociar una tregua",
+          "descripcion": "si caen cinco goblins o Izobai es derrotada, ofrecen los lingotes por sus vidas y su libertad; éxito: [tregua goblin]; fallo: [desconfianza goblin] y se dispersan.",
+          "consecuencias": [
+            "Aplica [tregua goblin]",
+            "Aplica [desconfianza goblin]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y alternativas",
+          "descripcion": "el frío, el hambre y la cobardía los dominan. Un regalo —una manta, comida, una promesa de paso seguro— les basta para abandonar el trineo y volver a casa. El fuego les aterra; los osos pueden volverse contra ellos. Izobai no lucha si puede huir y no sacrificará a su banda por el hierro."
+        }
+      ]
+    },
+    {
+      "slug": "osos-polares-hambrientos",
+      "nombre": "Osos polares hambrientos",
+      "nivel": 2,
+      "poderio": [],
+      "roles": [
+        "Bruto"
+      ],
+      "aspecto_en": "Two enormous polar bears with heavy white fur, hungry faces and tense muscular bodies. Worn harnesses and chains cross their shoulders, showing the strain of hauling a heavy wagon. Their breath steams in the frozen air and their paws dig into churned snow. Full body animal illustration, cold blue light and natural ivory tones.",
+      "descripcion": "dos osos polares que tiran del carro goblin.. Sus límites y amenazas permiten resolver la oposición por distintas vías.",
+      "limites": [
+        {
+          "nombre": "heridos",
+          "valor": 4,
+          "consecuencia": "los dos osos acumulan daño y se retiran"
+        },
+        {
+          "nombre": "enfurecidos",
+          "valor": 3,
+          "consecuencia": "el hambre y el maltrato los vuelven incontrolables"
+        },
+        {
+          "nombre": "liberados",
+          "valor": 2,
+          "consecuencia": "uno o ambos se sueltan del arnés"
+        }
+      ],
+      "etiquetas": [
+        "enormes",
+        "hambrientos",
+        "arneses",
+        "maltratados",
+        "olfato fino",
+        "furiosos-2",
+        "herido-2",
+        "libres-2"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Embestida",
+          "descripcion": "[herido-3] y [derribado-2]; destroza una cobertura o vuelca el trineo.",
+          "consecuencias": [
+            "Inflige [herido-3]",
+            "Inflige [derribado-2]"
+          ]
+        },
+        {
+          "nombre": "Zarpazo",
+          "descripcion": "[herido-2] y [sangrando-2]; rompe una etiqueta de mochila.",
+          "consecuencias": [
+            "Inflige [herido-2]",
+            "Inflige [sangrando-2]"
+          ]
+        },
+        {
+          "nombre": "Liberarse del arnés",
+          "descripcion": "[libres-2]; atacan a todas las criaturas menos a quien los liberó; prefieren a los goblins y los goblins huyen ([huyendo-2]).",
+          "consecuencias": [
+            "Aplica [libres-2]",
+            "Aplica [huyendo-2]"
+          ]
+        },
+        {
+          "nombre": "Devorar a un goblin",
+          "descripcion": "crea [distracción sangrienta]; los goblins pierden su acción; los Héroes ganan [oportunidad].",
+          "consecuencias": [
+            "Aplica [distracción sangrienta]",
+            "Aplica [oportunidad]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y alternativas",
+          "descripcion": "una tirada de Sabiduría (Manejar Animales) CD 12 permite acercarse sin enfurecerlos y soltar a uno. El oso liberado no ataca a quien lo soltó y prefiere comerse a los goblins. Si la tirada falla, ambos osos se vuelven hostiles contra ese Héroe durante el resto del encuentro. La comida y el maltrato que han sufrido son la clave: no son monstruos, son animales hambrientos y furiosos."
+        }
+      ]
+    },
+    {
+      "slug": "ventisca-del-norte",
+      "nombre": "Ventisca del norte",
+      "nivel": 2,
+      "poderio": [
+        {
+          "nivel": "greatness",
+          "aspecto": "ventisca del norte y frío de Auril"
+        }
+      ],
+      "roles": [
+        "Peligro"
+      ],
+      "aspecto_en": "A vast northern blizzard sweeping across empty treeless tundra, with no distinct horizon. Dense white snow and wind driven ice crystals obscure everything beyond a few paces. Half buried tracks dissolve into drifts under a lead grey sky. Environmental danger illustration, icy blue shadows, desaturated whites and overwhelming movement, without people or animals.",
+      "descripcion": "ventisca del Valle del Viento Helado y frío extremo (página 10).. La ventisca puede separar al grupo y borrar su rumbo.",
+      "limites": [
+        {
+          "nombre": "helado",
+          "valor": 4,
+          "consecuencia": "el frío acumulado en un Héroe"
+        },
+        {
+          "nombre": "perdido",
+          "valor": 3,
+          "consecuencia": "el grupo se extravía"
+        },
+        {
+          "nombre": "separados",
+          "valor": 2,
+          "consecuencia": "el grupo se divide en la nieve"
+        }
+      ],
+      "etiquetas": [
+        "viento aullante",
+        "nieve cegadora",
+        "visibilidad veinte pies",
+        "frío de Auril",
+        "tundra sin referencias",
+        "helado-1",
+        "helado-2",
+        "helado-3",
+        "perdido-2",
+        "empapado-2",
+        "agotado-2"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "La nieve borra el rumbo",
+          "descripcion": "[perdido-2]; el grupo se desvía; las huellas desaparecen.",
+          "consecuencias": [
+            "Inflige [perdido-2]"
+          ]
+        },
+        {
+          "nombre": "Separación",
+          "descripcion": "[separados-2]; un Héroe queda aislado; [helado-2] si no encuentra refugio.",
+          "consecuencias": [
+            "Inflige [separados-2]",
+            "Inflige [helado-2]"
+          ]
+        },
+        {
+          "nombre": "Frío que muerde",
+          "descripcion": "[helado-1] a cada Héroe sin abrigo; [agotado-2]; si nadie enciende fuego, [helado-3].",
+          "consecuencias": [
+            "Inflige [helado-1]",
+            "Inflige [agotado-2]",
+            "Inflige [helado-3]"
+          ]
+        },
+        {
+          "nombre": "Duración implacable",
+          "descripcion": "la ventisca dura 2d4 horas; cada hora sin refugio añade [helado-1] o [agotado-1].",
+          "consecuencias": [
+            "Inflige [helado-1]",
+            "Inflige [agotado-1]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y alternativas",
+          "descripcion": "esperar, cavar un refugio, atar al grupo con una cuerda, encender fuego y hacer un descanso en el campamento. Las raquetas de nieve y la ropa de clima frío reducen el riesgo. La ventisca borra las huellas de Oobok y del yeti, pero no las recientes de los goblins."
+        }
+      ]
+    },
+    {
+      "slug": "yeti-de-la-tundra",
+      "nombre": "Yeti de la tundra",
+      "nivel": 2,
+      "poderio": [],
+      "roles": [
+        "Adversario",
+        "Bruto"
+      ],
+      "aspecto_en": "A powerful yeti with thick white fur that blends into blowing snow, heavy shoulders and massive limbs built for ambush and dragging prey. Its hunched posture and fierce expression suggest a dangerous tundra predator. Full body creature illustration, frost caught in pale fur, dim northern light, icy blue shadows and a spare snowy background.",
+      "descripcion": "un yeti (VD 3) que mató a Oobok y ya se ha marchado; puede volver si el Narrador lo necesita.. Su aparición es opcional. Sus límites y amenazas permiten resolver la oposición por distintas vías.",
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 4,
+          "consecuencia": "Queda fuera de combate."
+        },
+        {
+          "nombre": "saciado",
+          "valor": 3,
+          "consecuencia": "harto, se retira"
+        },
+        {
+          "nombre": "oculto",
+          "valor": 2,
+          "consecuencia": "se pierde en la nieve"
+        }
+      ],
+      "etiquetas": [
+        "pelaje blanco",
+        "camuflado en la nieve",
+        "fuerte",
+        "golpe helado",
+        "guarida",
+        "oculto-2",
+        "enfurecido-2",
+        "herido-2"
+      ],
+      "rasgos": [
+        {
+          "nombre": "Opcional",
+          "descripcion": "Solo interviene si el Narrador lo considera oportuno."
+        }
+      ],
+      "amenazas": [
+        {
+          "nombre": "Emboscada desde la nieve",
+          "descripcion": "[herido-3] y [asustado-2]; el yeti ataca desde una posición oculta.",
+          "consecuencias": [
+            "Inflige [herido-3]",
+            "Inflige [asustado-2]"
+          ]
+        },
+        {
+          "nombre": "Desmembrar",
+          "descripcion": "[herido-4]; arranca una extremidad o destruye una etiqueta de mochila.",
+          "consecuencias": [
+            "Inflige [herido-4]"
+          ]
+        },
+        {
+          "nombre": "Arrastrar a su guarida",
+          "descripcion": "[perdido-2] y [herido-2]; el Héroe desaparece en la ventisca.",
+          "consecuencias": [
+            "Inflige [perdido-2]",
+            "Inflige [herido-2]"
+          ]
+        },
+        {
+          "nombre": "Aullido",
+          "descripcion": "[asustado-2]; atrae a otros depredadores o alerta a los goblins.",
+          "consecuencias": [
+            "Inflige [asustado-2]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y alternativas",
+          "descripcion": "el fuego y el ruido lo ahuyentan; ya está harto y se ha marchado con la cabeza de Oobok. Sus huellas han sido borradas por el viento. Si los Héroes no lo buscan, no tiene por qué volver."
+        }
+      ]
+    },
+    {
+      "slug": "milicia-de-bryn-shander",
+      "nombre": "milicia de Bryn Shander",
+      "nivel": 3,
+      "poderio": [],
+      "roles": [
+        "Obstáculo",
+        "Controlador"
+      ],
+      "aspecto_en": "A disciplined northern town militia represented by fur clad soldiers and weathered veterans carrying crossbows and shields. Heavy winter layers cover practical fighting gear; their guarded expressions and tight formation convey resolve. Full body group illustration beside timber gate defences, cold blue daylight and subdued leather, wool and iron colours.",
+      "descripcion": "hasta 250 soldados (guerreros tribales) y 20 veteranos, más las murallas y las puertas de la villa.. Su aparición es opcional. Sus límites y amenazas permiten resolver la oposición por distintas vías.",
+      "limites": [
+        {
+          "nombre": "milicia",
+          "valor": 5,
+          "consecuencia": "la guarnición se agota o pierde cohesión"
+        },
+        {
+          "nombre": "puertas",
+          "valor": 4,
+          "consecuencia": "los defensores pierden el control de los accesos"
+        },
+        {
+          "nombre": "autoridad",
+          "valor": 3,
+          "consecuencia": "Duvessa o Markham pierden la voluntad de resistir"
+        }
+      ],
+      "etiquetas": [
+        "muros de treinta pies",
+        "almenas",
+        "ballestas",
+        "veteranos",
+        "disciplina",
+        "puertas atrancadas",
+        "alerta-2",
+        "rodeados-2",
+        "herido-2"
+      ],
+      "rasgos": [
+        {
+          "nombre": "Opcional",
+          "descripcion": "Solo interviene si el Narrador lo considera oportuno."
+        }
+      ],
+      "amenazas": [
+        {
+          "nombre": "Arresto",
+          "descripcion": "[detenido]; los Héroes son desarmados y llevados ante Duvessa.",
+          "consecuencias": [
+            "Aplica [detenido]"
+          ]
+        },
+        {
+          "nombre": "Lluvia de flechas desde la muralla",
+          "descripcion": "[herido-3] y [rodeado-2]; obliga a buscar cobertura.",
+          "consecuencias": [
+            "Inflige [herido-3]",
+            "Inflige [rodeado-2]"
+          ]
+        },
+        {
+          "nombre": "Cierre de puertas",
+          "descripcion": "[sin salida]; nadie entra ni sale hasta que se aclare la situación.",
+          "consecuencias": [
+            "Aplica [sin salida]"
+          ]
+        },
+        {
+          "nombre": "Expulsión",
+          "descripcion": "[perseguido por la milicia]; los Héroes deben abandonar la villa de inmediato.",
+          "consecuencias": [
+            "Aplica [perseguido por la milicia]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y alternativas",
+          "descripcion": "la milicia no quiere bajas civiles y Duvessa puede intervenir para frenar a Markham. Si los Héroes no han matado a nadie, una rendición honorable o una explicación convincente puede evitar el derramamiento de sangre."
+        }
+      ]
+    }
+  ],
+  "objetos": [
+    {
+      "slug": "raquetas-de-nieve",
+      "nombre": "raquetas de nieve",
+      "etiqueta": "raquetas de nieve",
+      "descripcion": "etiqueta de mochila. Permiten viajar por nieve profunda sin hundirse y reducen el agotamiento de la marcha. Hruna insiste en que son imprescindibles; Korux puede pagarlas si el grupo anda escaso.",
+      "imagen_en": "A pair of sturdy wooden snowshoes with woven bindings and leather straps, worn by deep snow travel. Isolated equipment illustration on a plain background, cold natural light, realistic wood and hide textures."
+    },
+    {
+      "slug": "pico-de-hielo",
+      "nombre": "pico de hielo",
+      "etiqueta": "pico de hielo",
+      "descripcion": "etiqueta de mochila. Arma improvisada de [perforante] y herramienta para escalar hielo o cavar un refugio. Los enanos los llevan al cinturón.",
+      "imagen_en": "A practical iron ice pick with a sturdy worn handle and a pointed climbing head. Isolated winter expedition tool on a plain background, subdued steel and dark wood, clear readable silhouette."
+    },
+    {
+      "slug": "ropa-de-clima-frio",
+      "nombre": "ropa de clima frío",
+      "etiqueta": "ropa de clima frío",
+      "descripcion": "etiqueta de mochila. Reduce los estados de frío en un nivel mientras esté seca; si se moja, deja de proteger hasta el próximo descanso.",
+      "imagen_en": "A set of heavy winter clothes with thick wool layers, fur lined hood, mittens and insulated boots. Isolated equipment arrangement on a plain background, worn leather and muted northern colours."
+    },
+    {
+      "slug": "piedra-de-sangre",
+      "nombre": "piedra de sangre",
+      "etiqueta": "piedra de sangre",
+      "descripcion": "etiqueta de mochila o de historia. Gema roja oscura valorada en unas cincuenta piezas de oro. Hruna lleva seis en una bolsa de piel de foca y entrega una a cada Héroe que cumpla la misión.",
+      "imagen_en": "A dark red bloodstone gemstone with a polished surface, sized to fit in a gloved palm. Isolated treasure illustration on a plain background, soft light revealing rich crimson and deep mineral shadows."
+    },
+    {
+      "slug": "bolsa-de-piel-de-foca-de-hruna",
+      "nombre": "bolsa de piel de foca de Hruna",
+      "etiqueta": "bolsa de piel de foca de Hruna",
+      "descripcion": "contiene las seis piedras de sangre; es la prueba del pago y el objeto que los codiciosos pueden intentar robar.",
+      "imagen_en": "A small worn sealskin pouch holding six dark red bloodstones, its opening secured by a leather thong. Isolated object illustration on a plain background, realistic fur texture and subtle reflected light."
+    },
+    {
+      "slug": "bolsa-de-korux",
+      "nombre": "bolsa de Korux",
+      "etiqueta": "bolsa de Korux",
+      "descripcion": "quince piezas de oro en una bolsa de cuero forrada de piel de yeti; un detalle de la vida de los mineros.",
+      "imagen_en": "A leather coin pouch lined with pale yeti fur, containing fifteen gold coins. Isolated treasure illustration on a plain background, weathered stitching, soft neutral light and clearly visible materials."
+    },
+    {
+      "slug": "cerradura-oxidada-de-storn",
+      "nombre": "cerradura oxidada de Storn",
+      "etiqueta": "cerradura oxidada de Storn",
+      "descripcion": "etiqueta de mochila o de historia. Una cerradura de hierro sin llave que Storn lleva como amuleto de la suerte; no abre nada, pero él cree que lo protege.",
+      "imagen_en": "A rusty iron padlock with no key, hanging from a simple neck cord as a miner’s lucky charm. Isolated object portrait on a plain background, corroded metal texture and soft light."
+    },
+    {
+      "slug": "lingote-de-battlehammer",
+      "nombre": "lingote de Battlehammer",
+      "etiqueta": "lingote de Battlehammer",
+      "descripcion": "etiqueta de mochila o de carga. Cada lingote pesa dos libras y lleva estampada la taza espumeante del clan Battlehammer; vale unas cinco piezas de plata para un herrero. Hay trescientos, envueltos en sacos de arpillera y atados al trineo. En conjunto son una carga enorme: seiscientos libras de hierro.",
+      "imagen_en": "A single iron ingot stamped with the emblem of a foaming mug, beside a fold of coarse burlap. Isolated cargo illustration on a plain background, cold metallic highlights and rough woven texture."
+    },
+    {
+      "slug": "trineo-de-los-enanos",
+      "nombre": "trineo de los enanos",
+      "etiqueta": "trineo de los enanos",
+      "descripcion": "etiqueta de escena o de carga. Pesado, de madera, con correas de cuero; vacío pesa unas trescientas libras y necesita al menos cuatro personas o goblins para moverse por la nieve.",
+      "imagen_en": "A heavy wooden freight sled with leather retaining straps and sturdy runners, built to haul iron through snow. Isolated vehicle illustration on a plain background, worn timber and frost along the runners."
+    },
+    {
+      "slug": "carro-goblin",
+      "nombre": "carro goblin",
+      "etiqueta": "carro goblin",
+      "descripcion": "etiqueta de escena. Vehículo de unos veinte pies de altura, con paredes con huecos para disparar y camas de paja en el interior. Es inflamable: si Izobai lo prende, arde con rapidez y se convierte en un infierno.",
+      "imagen_en": "A towering rough wooden goblin wagon with firing gaps in its walls and straw beds inside, fitted for two draft bears. Isolated vehicle illustration, no creatures, weathered timber, cold light, plain background."
+    },
+    {
+      "slug": "pocion-de-amistad-animal",
+      "nombre": "poción de amistad animal",
+      "etiqueta": "poción de amistad animal",
+      "descripcion": "etiqueta de mochila, dos usos. Izobai lleva dos; pueden calmar a un animal hostil o ganar su confianza durante una escena.",
+      "imagen_en": "Two small bottles of animal friendship potion with simple stoppers, arranged as portable wilderness treasures. Isolated object illustration on a plain background, weathered glass, subtle highlights and practical compact shapes."
+    },
+    {
+      "slug": "silbato-de-hueso",
+      "nombre": "silbato de hueso",
+      "etiqueta": "silbato de hueso",
+      "descripcion": "etiqueta de mochila. Un silbato tallado en hueso, valorado en una pieza de platino; puede servir para llamar a un animal o como simple curiosidad.",
+      "imagen_en": "A small whistle carved from bone, polished by handling and fitted with a simple blowing hole. Isolated object illustration on a plain background, ivory tones, fine tool marks and soft neutral light."
+    },
+    {
+      "slug": "halcon-de-izobai",
+      "nombre": "halcón de Izobai",
+      "etiqueta": "halcón de Izobai",
+      "descripcion": "etiqueta de escena o de Compañía. Un halcón encapuchado y entrenado que explora para los goblins. Si Izobai huye, se lo lleva; si lo capturan, puede convertirse en [halcón amaestrado] con paciencia.",
+      "imagen_en": "A trained hawk wearing a small falconry hood, standing in a calm watchful posture with folded wings. Isolated companion illustration on a plain background, natural feather detail, leather hood and cold daylight."
+    },
+    {
+      "slug": "antorcha-de-izobai",
+      "nombre": "antorcha de Izobai",
+      "etiqueta": "antorcha de Izobai",
+      "descripcion": "etiqueta de escena. La llama que puede prender el carro y convertir la victoria en una huida.",
+      "imagen_en": "A burning wooden torch wrapped with dark fuel stained material, its orange flame scattering a few sparks. Isolated object illustration on a plain background, charred wood texture and clear readable silhouette."
+    },
+    {
+      "slug": "vieja-mordisquitos",
+      "nombre": "Vieja Mordisquitos",
+      "etiqueta": "Vieja Mordisquitos",
+      "descripcion": "etiqueta de escena. Trucha disecada y montada sobre la chimenea del Mirador al Norte. Muerde a quien se acerque a menos de cinco pies y, de vez en cuando, canta una copla sobre un lugar río arriba, oculto bajo la nieve.",
+      "imagen_en": "An enormous stuffed trout with scars, dusty fins and a glass eye, mounted on a wooden plaque. Isolated trophy illustration on a plain background, smoke stained amber scales and weathered timber."
+    },
+    {
+      "slug": "anillo-del-cazador-del-anillo",
+      "nombre": "anillo del Cazador del Anillo",
+      "etiqueta": "anillo del Cazador del Anillo",
+      "descripcion": "etiqueta de mochila o de historia, opcional. Si un Héroe tiene el secreto de Cazador del Anillo (apéndice B), el anillo puede estar atascado en la garganta de la Vieja Mordisquitos. Scramsax exige una compensación generosa y garantías de que el trofeo no quedará arruinado.",
+      "imagen_en": "A signet ring small enough to lodge in a mounted trout’s throat, shown as a recovered personal keepsake. Isolated object illustration on a plain background, restrained metal highlights, no invented heraldic design."
+    },
+    {
+      "slug": "traje-de-piel-de-cobre",
+      "nombre": "traje de piel de Cobre",
+      "etiqueta": "traje de piel de Cobre",
+      "descripcion": "etiqueta de mochila o de historia. Un traje peludo con capucha, hecho a mano, que da calor y hace que su dueño parezca un osito de peluche. Cobre lo lleva siempre.",
+      "imagen_en": "A handmade hooded fur suit sized for a small gnome, with a rounded teddy bear silhouette and carefully patched seams. Isolated garment illustration on a plain background, warm brown fur and practical winter construction."
+    }
+  ],
+  "ayudas": [
+    {
+      "slug": "mapa-de-bryn-shander",
+      "titulo": "Bryn Shander: lugares de referencia",
+      "tipo": "mapa",
+      "texto": "Bryn Shander: villa amurallada sobre una colina.\nPlaza principal: Filos de Hierro Negro, herrería y tienda de suministros de aventura.\nCerca de la plaza del mercado noreste: Santuario de la Mañana.\nEl Mirador al Norte: posada y lugar de encuentro para aventureros.\nLas puertas se cierran al oscurecer.",
+      "fondo_en": "A blank sheet of weathered parchment for a northern town map, with worn corners, faint creases and a clean central surface. No text, symbols, buildings or lettering, soft neutral illumination."
+    }
+  ],
+  "hitos": [
+    "El trineo de Battlehammer: recuperar la carga y devolverla al clan.",
+    "Piedad en la tundra: resolver el encuentro con los goblins sin masacre.",
+    "Los osos liberados: soltar a los animales y volverlos contra sus captores.",
+    "La amistad de los enanos: ganar la confianza de Hruna y su clan.",
+    "La copla del pez: descubrir el secreto de la Vieja Mordisquitos.",
+    "Aceptar buscar a Macreadus y seguir la pista de Cobre hacia la Cabaña Negra.",
+    "Recuperar el anillo del Cazador del Anillo, si corresponde al secreto de un Héroe."
+  ],
+  "relojes": []
+}

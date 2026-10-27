@@ -1,0 +1,141 @@
+{
+ "compania": {
+  "name": "La Lumbre de Diez Ciudades",
+  "quest": "Que ningún vecino de Diez Ciudades vuelva a acabar en la lotería de Auril.",
+  "powertags": ["Espalda contra espalda en la ventisca", "Una hoguera compartida", "Conocidos de taberna en cada pueblo"],
+  "weaknesstags": ["Forasteros para los Portavoces"],
+  "bio": "<p>Os conocisteis la noche en que la campana de la lotería sonó en Bryn Shander y nadie más se atrevió a mirar. Desde entonces compartís lumbre, caminos y secretos a medias. No pensáis igual, pero ninguno quiere ver otro nombre sacado del bote.</p>"
+ },
+ "heroes": [
+  {
+   "slug": "kiti", "name": "Kiti Akannathi", "epiteto": "Pintora de Palabras",
+   "short": "La goliat que lleva la cuenta",
+   "tokenScale": 1.15,
+   "intro": "Una goliat casi tan alta como una puerta de establo entra sacudiéndose la nieve de los hombros. Lleva un manto de oso polar y, pintadas en azul sobre el cráneo afeitado, decenas de rayitas en hileras: cada una es una hazaña, y se nota que las ha contado todas. Apoya el hacha de piedra contra la pared con cuidado, como quien deja a dormir a un amigo, y pregunta en voz demasiado alta quién es el más fuerte del lugar.",
+   "historia": "Kiti bajó del Refugio de la Torre del Cielo, el bastión goliat de la Columna del Mundo, porque en las cumbres ya no le quedaban retos que pintar sobre la piel. Para su clan, la derrota es solo el precio de mejorar; para ella, Diez Ciudades es una montaña nueva. Habla en gigante cuando se enfada y cuenta en voz alta todo lo que hace. Le fascinan los osos lechuza, que por alguna razón no la atacan.",
+   "conflicto": "¿Lucho por superar mis marcas o por la gente que no puede defenderse?",
+   "pregunta": "¿Qué hazaña pintada en tu cuerpo es mentira, y quién lo sabe?",
+   "secreto": "Susurradora de osos lechuza. Los osos lechuza te aprecian sin motivo aparente. Cuando estés cerca de uno, puedes intentar calmarlo con [Gran fuerza] o [instinto salvaje] como si fuera una acción social; con éxito, pasa de hostil a indiferente y, con otro éxito, a amistoso. Un oso lechuza amistoso puede convertirse en tu compañero (tema de historia o etiqueta de mochila).",
+   "temas": [
+    {"nombre": "Bárbara", "tipo": "Habilidad u oficio", "poderio": "origen", "titulo": "Bárbara", "poder": ["Furia", "instinto salvaje"], "debilidad": "ciudades bulliciosas", "gesta": "Rebelarme contra quienes pretendan domesticarme."},
+    {"nombre": "Goliat de la Torre del Cielo", "tipo": "Pueblo", "poderio": "origen", "titulo": "Goliat Akannathi", "poder": ["Resistencia pétrea", "nacida en las cumbres heladas"], "debilidad": "llevar la cuenta de todo", "gesta": "Superar cada día mi mejor hazaña."},
+    {"nombre": "Gran fuerza", "tipo": "Rasgo", "poderio": "origen", "titulo": "Gran fuerza", "poder": ["mover objetos pesados", "físico imponente"], "debilidad": "forzarme demasiado", "gesta": "Demostrar mi fuerza."},
+    {"nombre": "Salvaje", "tipo": "Pasado", "poderio": "origen", "titulo": "Salvaje de las montañas", "poder": ["trepar por el hielo", "cazar en la ventisca"], "debilidad": "modales de ciudad", "gesta": "Aprender qué ofrece la vida en Diez Ciudades."}
+   ],
+   "mochila": ["hacha de piedra de mi madre", "manto de oso polar"],
+   "rutinas": [
+    {"name": "Furia", "tipo": "detailed", "exito": "Normalmente se quema para obtener Poder. Te das el estado [enfurecida-3]: ayuda a atacar e ignorar heridas, pero desaparece si dejas de atacar.", "consecuencias": "Al desaparecer el estado, tacha Furia o recibe [cansada-2]."},
+    {"name": "Resistencia pétrea", "tipo": "quick", "exito": "Ayuda en una reacción para reducir el daño de un golpe que ves venir. Puedes quemarla para obtener Poder.", "consecuencias": "Tras usarla, queda tachada hasta un descanso breve."}
+   ]
+  },
+  {
+   "slug": "hrolf", "name": "Hrolf Vardsson", "epiteto": "el que Sigue a los Renos",
+   "short": "El explorador de la tribu del Alce",
+   "tokenScale": 1.0,
+   "intro": "Huele a humo de sebo y a cuero de reno. Entra sin hacer ruido y se queda junto a la puerta, donde puede ver a todo el mundo. Lleva la barba trenzada con cuentas de hueso y unas gafas de nieve talladas, también de hueso, subidas sobre la frente. Cuando habla lo hace poco y bajo, y mira las ventanas como si esperara que la noche fuese a llamar.",
+   "historia": "Hrolf creció entre los cazadores de la tribu Reghed del Alce, siguiendo a los rebaños por la tundra. Sabe leer el viento, la nieve y las huellas, y desconfía de las ciudades, donde la gente se encierra tras muros y se olvida de mirar al cielo. Sin embargo, la Helor Eterna está matando a los rebaños, y los Reghed hablan de entregar a sus propios hijos a Auril. Ha venido a Diez Ciudades a buscar otra salida.",
+   "conflicto": "¿Pertenezco a la tundra o a la gente que vive tras los muros?",
+   "pregunta": "¿Quién te sacó del agua helada cuando eras niño, y por qué no recuerdas su cara, sino su olor a oso?",
+   "secreto": "Heredero de los Reghed. Eres hijo de la reina Björnhild Solvigsdottir, de la tribu del Tigre. De niño, tu madre te arrojó al Mar de Hielo Movedizo como sacrificio a Auril. Un oso polar te sacó del agua y se transformó en una goliat, Oyaminartok, que te dejó a salvo junto a Diez Ciudades. La tribu del Alce te adoptó después. Le debes la vida a Oyaminartok y a tu madre una muerte sin piedad.",
+   "temas": [
+    {"nombre": "Explorador", "tipo": "Habilidad u oficio", "poderio": "origen", "titulo": "Explorador", "poder": ["rastreador experto", "enemigo predilecto: lobos y yetis"], "debilidad": "el clima borra el rastro", "gesta": "Guiar a otros a través de los peligros de las tierras salvajes."},
+    {"nombre": "Conjuros de explorador", "tipo": "Lanzamiento de conjuros", "poderio": "origen", "titulo": "", "poder": ["Marca del cazador", "Pasar sin dejar rastro", "Hablar con los animales"], "debilidad": "lejos de las tierras salvajes", "gesta": "Volver el terreno contra mis enemigos."},
+    {"nombre": "Tribu del Alce", "tipo": "Pueblo", "poderio": "origen", "titulo": "Reghed del Alce", "poder": ["seguir a los rebaños de renos", "lanza con punta de hueso"], "debilidad": "desprecio por la gente de los muros", "gesta": "Que la tribu sobreviva sin sacrificar a sus hijos."},
+    {"nombre": "Sabiduría profunda", "tipo": "Rasgo", "poderio": "origen", "titulo": "Sabiduría profunda", "poder": ["percepción aguda", "escuchar al viento"], "debilidad": "silencio excesivo", "gesta": "Lo superaremos con paciencia y comprensión."}
+   ],
+   "mochila": ["arco recurvo de cuerno", "raquetas de nieve"],
+   "rutinas": [
+    {"name": "Marca del cazador", "tipo": "quick", "exito": "Aplica [marcado-por-el-cazador-2]: ayuda en tus ataques contra el objetivo y en cualquier intento de rastrearlo.", "consecuencias": "Consecuencia inherente: tacha la etiqueta del conjuro (salvo con 10 o más)."},
+    {"name": "Pasar sin dejar rastro", "tipo": "quick", "exito": "Concede [pasos-ocultos-2] a ti y a los aliados cercanos.", "consecuencias": "Tacha la etiqueta del conjuro."},
+    {"name": "Hablar con los animales", "tipo": "simple", "exito": "Puedes conversar con animales mediante una acción Simple.", "consecuencias": "Los animales no siempre dicen lo que quieres oír."}
+   ]
+  },
+  {
+   "slug": "ysolde", "name": "Ysolde Arandal", "epiteto": "Hija del Alba",
+   "short": "La clériga de Lathander en la noche sin fin",
+   "tokenScale": 1.0,
+   "intro": "Una semielfa de capucha rosada y dorada sostiene un farolillo de latón aunque esté bajo techo; nunca lo deja apagarse. En el pecho lleva un sol naciente de bronce, gastado de tanto tocarlo. Sonríe con una terquedad tranquila, de las que no ceden. Si os fijáis, en una de sus mejillas hay un dibujo de escarcha que no se derrite junto al fuego.",
+   "historia": "Ysolde llegó desde Neverwinter con una misión del templo de Lathander, señor del alba: llevar esperanza a un valle donde el sol ya no sale. Lleva dos años encendiendo velas en una capilla de Bryn Shander a la que cada vez acude menos gente. Cree que el amanecer volverá porque siempre vuelve. Lo que no cuenta es que el frío nunca le ha hecho daño.",
+   "conflicto": "¿Cómo predicar el amanecer si una diosa del invierno me ha marcado como suya?",
+   "pregunta": "¿Qué vela de tu capilla encendiste por alguien que se llevó la lotería?",
+   "secreto": "Hija de Medioinvierno. Naciste en el solsticio de invierno y Auril te bendijo: el frío extremo no te afecta (no recibes estados de [helado] por el clima, aunque sí por la magia de Auril o sus siervos). Puedes sentir simpatía por la Doncella de la Escarcha. Si Auril muere, pierdes esta bendición.",
+   "temas": [
+    {"nombre": "Clériga de Lathander", "tipo": "Devoción", "poderio": "origen", "titulo": "Clériga", "poder": ["dominio de la Luz", "Expulsar muertos vivientes"], "debilidad": "fieles necesitados", "gesta": "Defender los preceptos del Señor del Alba."},
+    {"nombre": "Conjuros de clériga", "tipo": "Lanzamiento de conjuros", "poderio": "origen", "titulo": "", "poder": ["Luz", "Bendecir", "Curar heridas"], "debilidad": "crisis de fe", "gesta": "Ser un instrumento de mi deidad en el mundo."},
+    {"nombre": "Semielfa", "tipo": "Pueblo", "poderio": "origen", "titulo": "Semielfa de Neverwinter", "poder": ["visión en la oscuridad", "entre dos mundos"], "debilidad": "nunca del todo de ningún sitio", "gesta": "Encontrar un lugar al que llamar hogar."},
+    {"nombre": "Acólita", "tipo": "Pasado", "poderio": "origen", "titulo": "Acólita", "poder": ["perspicaz", "farolillo que nunca se apaga"], "debilidad": "las crueles verdades del mundo", "gesta": "Mantener encendida la capilla de Bryn Shander."}
+   ],
+   "mochila": ["sol naciente de bronce", "cota de malla bajo el abrigo"],
+   "rutinas": [
+    {"name": "Expulsar muertos vivientes", "tipo": "quick", "exito": "Acción Rápida: ordena a los muertos vivientes cercanos que se den la vuelta y huyan. Acción Detallada: aplícales [desterrado] o [asustado].", "consecuencias": "Los muertos más poderosos pueden resistir y fijarse en ti."},
+    {"name": "Bendecir", "tipo": "quick", "exito": "Concede [bendecido-2] a un aliado: ayuda en sus ataques y en las reacciones para evitar daño.", "consecuencias": "Tacha la etiqueta del conjuro."},
+    {"name": "Curar heridas", "tipo": "quick", "exito": "Reduce [herido] en quien toques.", "consecuencias": "Tacha la etiqueta del conjuro."}
+   ]
+  },
+  {
+   "slug": "mirabel", "name": "Mirabel Pozohondo", "epiteto": "la Ratonera",
+   "short": "La mediana que conoce todos los callejones",
+   "tokenScale": 0.7,
+   "intro": "Al principio no la veis: una mediana con un gorro de punto remendado, una bufanda hasta la nariz y un abrigo tres tallas más grande, lleno de bolsillos. Cuando por fin os fijáis en ella, ya sabe cómo os llamáis, de dónde venís y cuánto pagasteis por la cerveza. Sonríe con todos los dientes y os ofrece ayuda por un precio que todavía no ha decidido.",
+   "historia": "Mirabel creció en los callejones de Bryn Shander después de que sus padres no volvieran de pescar en Maer Dualdon. Aprendió pronto que en Diez Ciudades todo el mundo tiene algo que esconder y que la información calienta más que una manta. Vende chismes, abre cerraduras y señala a los recién llegados sospechosos a quien pague. Últimamente trabaja para alguien que paga en algo más valioso que monedas.",
+   "conflicto": "¿Sigo jugando a dos barajas o elijo de qué lado estoy?",
+   "pregunta": "¿A quién delataste por dinero y todavía te saluda por la calle?",
+   "secreto": "Espía de los Arpistas. Eres agente de los Arpistas, una sociedad secreta que frustra a tiranos y malhechores. Tu misión es proteger Diez Ciudades sin revelar tu afiliación. Amenazas creíbles: la Hermandad Arcana de Luskan y los Zhentarim. Tu único contacto es Beldora, que se hace pasar por mendiga en Bryn Shander y recoge rumores.",
+   "temas": [
+    {"nombre": "Pícara", "tipo": "Habilidad u oficio", "poderio": "origen", "titulo": "Pícara", "poder": ["ganzúas", "Acción astuta"], "debilidad": "resistir las tentaciones", "gesta": "Fama y fortuna, conseguidas mediante engaño y osadía."},
+    {"nombre": "Mediana", "tipo": "Pueblo", "poderio": "origen", "titulo": "Mediana", "poder": ["Afortunada", "rápida para esconderse"], "debilidad": "que no me tomen en serio", "gesta": "¡A nosotros todavía no nos ha vencido nadie!"},
+    {"nombre": "Destreza refinada", "tipo": "Rasgo", "poderio": "origen", "titulo": "Destreza refinada", "poder": ["dedos veloces", "moverse con sigilo"], "debilidad": "precipitarme", "gesta": "La atención cuidadosa es la clave para hacer bien las cosas."},
+    {"nombre": "Pilluela de Bryn Shander", "tipo": "Pasado", "poderio": "origen", "titulo": "Huérfana de los callejones", "poder": ["todos los chismes de Diez Ciudades", "contactos turbios"], "debilidad": "aquel favor que todavía debo", "gesta": "Que ningún niño de Bryn Shander pase el frío que pasé yo."}
+   ],
+   "mochila": ["abrigo de cien bolsillos", "daga de hueso de trucha"],
+   "rutinas": [
+    {"name": "Acción astuta", "tipo": "quick", "exito": "Ayuda en acciones que pueden hacerse con más rapidez o destreza. Gasta una hazaña extra para retirarte del combate, evitar una consecuencia o mantener el foco mientras te escondes.", "consecuencias": "Alguien ve más de lo que debería."},
+    {"name": "Afortunada", "tipo": "quick", "exito": "Ayuda en acciones que dependen solo de la suerte y permite reacciones ante consecuencias que no esperabas.", "consecuencias": "La suerte se acaba: tacha la etiqueta."}
+   ]
+  },
+  {
+   "slug": "dagna", "name": "Dagna Martillorruina", "epiteto": "la Pescadora de Bremen",
+   "short": "La enana soldado que busca un anillo en un pez",
+   "tokenScale": 0.85,
+   "intro": "Una enana ancha como un tonel, con las patillas cobrizas trenzadas y llenas de anillas de hierro, deja caer sobre la mesa una barrena de pescar en el hielo. Le falta la punta de una oreja. Su escudo redondo lleva pintado un pez, y el peto abollado huele a aceite de ballena. Gruñe un saludo, pide cerveza caliente y se queda mirando el lago por la ventana como quien vigila a un enemigo.",
+   "historia": "Dagna sirvió en la milicia de Diez Ciudades contra los orcos de la Columna del Mundo. Cuando la licenciaron se instaló en Bremen y se hizo pescadora, como su padre. Conoce cada grieta del hielo de Maer Dualdon y cada truco de las truchas de cabeza de jarrete. Es gruñona, leal y terca. Pesca más de lo que necesita y nunca dice por qué destripa cada pez con tanto cuidado.",
+   "conflicto": "¿Defiendo a mi gente o persigo lo que me arrebató el lago?",
+   "pregunta": "¿Qué compañero de la milicia dejaste atrás en las montañas?",
+   "secreto": "Cazadora del anillo. Buscas la trucha de cabeza de jarrete que le arrancó el dedo a tu padre con su anillo de sello. Para conservar tu herencia debes recuperarlo. Cada vez que destripas una trucha de Maer Dualdon hay una posibilidad remota de encontrarlo (o quizá esté dentro de la legendaria Vieja Mordiscos).",
+   "temas": [
+    {"nombre": "Guerrera", "tipo": "Habilidad u oficio", "poderio": "origen", "titulo": "Guerrera", "poder": ["Nuevas energías", "martillo de guerra"], "debilidad": "no poder mostrar debilidad", "gesta": "Seguir en pie, seguir luchando."},
+    {"nombre": "Enana escudo", "tipo": "Pueblo", "poderio": "origen", "titulo": "Enana", "poder": ["resistente", "conocimiento de la piedra"], "debilidad": "fácil de provocar", "gesta": "Mi palabra es de hierro."},
+    {"nombre": "Constitución robusta", "tipo": "Rasgo", "poderio": "origen", "titulo": "Constitución robusta", "poder": ["resistir los elementos", "aguantar los golpes"], "debilidad": "sobrestimar mi resistencia", "gesta": "Superar las adversidades y sobrevivir para contarlo."},
+    {"nombre": "Soldado y pescadora", "tipo": "Pasado", "poderio": "origen", "titulo": "Veterana de la milicia", "poder": ["pesca en el hielo", "mantener la formación"], "debilidad": "esa imagen que todavía me atormenta", "gesta": "O se hace bien y entre todos, o mejor no hacerlo."}
+   ],
+   "mochila": ["escudo con un pez pintado", "barrena para el hielo"],
+   "rutinas": [
+    {"name": "Nuevas energías", "tipo": "quick", "exito": "Reduce tus propios estados [herida], [cansada] u otros similares.", "consecuencias": "Tacha la etiqueta hasta un descanso breve."}
+   ]
+  },
+  {
+   "slug": "sereth", "name": "Sereth Valcorvo", "epiteto": "el Panfletista",
+   "short": "El mago tiefling que huyó de sus propias palabras",
+   "tokenScale": 1.0,
+   "intro": "Un tiefling delgado de piel gris lavanda se quita unas gafas redondas empañadas y las limpia con la bufanda. Ha envuelto sus cuernos en lana para que no se le congelen. Lleva un gabán de erudito manchado de tinta y un libro encadenado al cinturón. Se sienta de espaldas a la pared, mira la puerta cada vez que se abre y, cuando os presentáis, tarda un segundo de más en decir su nombre.",
+   "historia": "Sereth era escriba y mago menor en Puerta de Baldur hasta que imprimió un panfleto, «La Alta Cuna, sierva del Infierno», en el que acusaba a nobles de Puerta de Baldur y Aguas Profundas de adorar diablos. Tenía razón, y por eso tuvo que huir. Ha elegido el lugar más remoto que conoce y finge ser un erudito que busca ruinas de los gigantes de Ostoria. Lo cierto es que las ruinas le interesan de verdad.",
+   "conflicto": "¿Me escondo para seguir vivo o vuelvo a decir la verdad aunque me cueste?",
+   "pregunta": "¿Qué noble de tu panfleto te conocía en persona?",
+   "secreto": "Autor a la fuga. Escribiste «La Alta Cuna, sierva del Infierno», con acusaciones fundadas contra patricios adoradores de diablos. Los adoradores de Asmodeo han enviado asesinos tras de ti, disfrazados con ropa de abrigo. En Caer-Dineval, los Caballeros de la Espada Negra, que adoran a otro archidiablo, podrían avisarte del peligro… y ofrecerte un santuario que no es gratis.",
+   "temas": [
+    {"nombre": "Mago", "tipo": "Habilidad u oficio", "poderio": "origen", "titulo": "Mago", "poder": ["tradición arcana: adivinación", "Recuperación arcana"], "debilidad": "poca resistencia física", "gesta": "Los secretos de la magia deben desvelarse… y yo seré quien lo haga."},
+    {"nombre": "Conjuros de mago", "tipo": "Lanzamiento de conjuros", "poderio": "origen", "titulo": "", "poder": ["Detectar magia", "Grasa", "Proyectil mágico"], "debilidad": "concentración interrumpida", "gesta": "Proteger mi libro de conjuros y acumular conocimientos."},
+    {"nombre": "Tiefling", "tipo": "Pueblo", "poderio": "origen", "titulo": "Tiefling", "poder": ["resistencia al fuego", "Reprensión infernal"], "debilidad": "despertar sospechas", "gesta": "No me define el pecado que me engendró."},
+    {"nombre": "Gran inteligencia", "tipo": "Rasgo", "poderio": "origen", "titulo": "Gran inteligencia", "poder": ["recordar detalles", "investigar"], "debilidad": "parecer condescendiente", "gesta": "Hay una manera mejor de hacerlo, y la encontraré."}
+   ],
+   "mochila": ["libro de conjuros encadenado", "bastón con cristal de luz"],
+   "libro": "Descarga de fuego, Luz, Mano de mago, Detectar magia, Grasa y Proyectil mágico.",
+   "rutinas": [
+    {"name": "Proyectil mágico", "tipo": "simple", "exito": "Acción Simple que siempre aplica [herido-1].", "consecuencias": "A cambio, tacha la etiqueta del conjuro."},
+    {"name": "Grasa", "tipo": "quick", "exito": "Aplica [engrasado] a una zona: quien esté o pase por ella debe actuar para no caer [derribado].", "consecuencias": "Tacha la etiqueta del conjuro; puede afectar a los aliados."},
+    {"name": "Recuperación arcana", "tipo": "detailed", "exito": "Requiere un descanso breve. Normalmente se quema para obtener Poder. Reactiva etiquetas de conjuro tachadas.", "consecuencias": "Tacha Recuperación arcana hasta el próximo descanso en el campamento."},
+    {"name": "Reprensión infernal", "tipo": "quick", "exito": "Normalmente se quema para obtener Poder en una reacción: aplica [quemado] a quien te haya dañado.", "consecuencias": "Tus rasgos infernales quedan a la vista de todos."}
+   ]
+  }
+ ]
+}

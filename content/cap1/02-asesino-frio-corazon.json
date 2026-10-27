@@ -1,0 +1,964 @@
+{
+  "seccion": "02-asesino-frio-corazon",
+  "titulo": "Asesino de frío corazón",
+  "escenas": [
+    {
+      "slug": "la-taberna-y-la-propuesta-de-hlin",
+      "nombre": "La taberna y la propuesta de Hlin",
+      "ciudad": "otro",
+      "interior": true,
+      "imagen_en": "A wide establishing view of an empty tavern in Ten Towns, low dark timber beams above stone and turf walls. A peat hearth glows orange beside worn tables, pewter bowls and oil lamps. Frost rims fogged windows; wet coats hang beside melting snow at the door. Diagonal snowfall and a pale green sky show outside. No people. Leave the lower third clear.",
+      "lectura": "El viento aúlla contra los postigos y, cada vez que se abre la puerta, una bocanada de nieve entra en la taberna y se derrite en el suelo de tablones. El calor del hogar huele a turba y a grasa; las lámparas de aceite dibujan círculos amarillos en el aire cargado. Alrededor de las mesas, la gente habla en voz baja de los tres muertos: un trampero mediano en Puerto Este, un carpintero de ribera en Targos, una sopladora de cristal enana en Bryn Shander. Todos con una daga de hielo clavada en el corazón. En un rincón, una enana escudo de pelo gris y una cicatriz que le cruza la nariz fuma en pipa sin quitaros ojo. Cuando os acercáis, apaga la pipa con el pulgar y os señala la silla libre. «Habéis tardado», dice. «Os estaba esperando.»",
+      "notas": "Hlin ofrece una bolsa de oro por detener a Sephek y prefiere que muera sin intervención de las autoridades. Sospecha de él por las dagas de hielo, los sobornos de las víctimas y su inmunidad al frío, pero carece de pruebas concluyentes. Negociar puede crear [contrato de Hlin]; amenazarla retira la oferta.",
+      "musica": "taberna",
+      "motivos": [
+        "misterio"
+      ],
+      "efectos": [
+        "hogar",
+        "taberna-sfx",
+        "viento"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "taberna cálida",
+        "rumores de asesinato",
+        "contrato pendiente",
+        "frío mordiente",
+        "helado-1"
+      ],
+      "figuras": [
+        "hlin-matatrols"
+      ]
+    },
+    {
+      "slug": "la-caza-del-ambula-de-torg",
+      "nombre": "La caza del Ámbula de Torg",
+      "ciudad": "tundra",
+      "interior": false,
+      "imagen_en": "A wide establishing view of a snowbound village street opening onto a white road between settlements. Low stone and timber houses carry heavy snowy roofs; peat chimneys, parked sledges and hanging pelts frame runner tracks. Wind bent pines and distant dark mountains mark the horizon. Blue grey twilight catches floating ice crystals. No people or figures. Leave the lower third clear.",
+      "lectura": "La nieve os llega a las rodillas y el viento borra las huellas casi tan rápido como las dejáis. Preguntáis por la caravana en cada puerta: tres trineos, una bandera negra, una huella de lobo dorada. La gente encoge los hombros; algunos escupen al suelo; otros bajan la voz y piden una moneda antes de hablar. Al final, un viejo pescador os lleva a un cobertizo y dibuja un mapa torpe sobre una tabla. «Torrga no se queda quieta —dice—. Ayer estaba en Bremen. Mañana, quién sabe. Pero siempre vuelve a los mismos caminos.» Fuera, los perros ladran y el cielo se cierra. Si queréis alcanzarla, tendréis que moveros antes de que la ventisca borre el rastro.",
+      "notas": "Elige la ubicación de la caravana fuera de la villa inicial; Bremen y Refugio de Dougan son opciones sugeridas. Una hora de preguntas, una acción social exigente y un soborno permiten obtener [itinerario de Torrga]. El rastreo alternativo puede acabar en [perdido-2] mientras se consumen tiempo y provisiones.",
+      "musica": "camino",
+      "motivos": [
+        "persecucion",
+        "ventisca-m"
+      ],
+      "efectos": [
+        "viento",
+        "perros",
+        "pasos"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "calle nevada",
+        "rumores",
+        "trineos",
+        "itinerario de Torrga",
+        "helado-1",
+        "perdido-1"
+      ],
+      "figuras": [
+        "el-invierno-de-auril"
+      ]
+    },
+    {
+      "slug": "el-campamento-del-ambula-de-torg",
+      "nombre": "El campamento del Ámbula de Torg",
+      "ciudad": "otro",
+      "interior": false,
+      "imagen_en": "A wide establishing view of an empty caravan market at a snowy village edge. Three loaded wooden sledges stand beneath canvas stalls, surrounded by crates, bundled pelts, bottles, oil jars, tools and sacks. A black flag bears a golden wolf paw. Dog harnesses lie beside frozen mud and runner tracks. Amber lanterns contrast with a leaden sky. No people. Leave the lower third clear.",
+      "lectura": "El campamento huele a perro mojado, a aceite de ballena y a madera húmeda. Tres trineos se alinean junto a la nieve pisoteada, cargados hasta los topes; una bandera negra con una huella de lobo dorada chasquea al viento. En torno a unos cajones convertidos en mostrador, alguien ha montado tenderetes de lona y ofrece mantas, pieles, frascos, herramientas y botellas. Los perros jadean y mueven la cola. Y en medio de todo, un hombre de chaleco elegante, sin abrigo, sin guantes y sin bufanda, observa la calle con las manos en los bolsillos. Sus ojos son tan azules que parecen dos trozos de lago congelado. Cuando os ve, sonríe como si os conociera de antes.",
+      "notas": "Torrga vende al doble de precio y Sephek permanece junto a ella mientras atienden clientes. Cuatro bandidos protegen los trineos; registrar los sacos permite hallar el cadáver del semielfo o la caja fuerte, pero un fallo crea [alarma] y [banda alerta]. Observar al guardaespaldas permite reconocer su protección sobrenatural; Torrga lo ayuda mientras no peligre su vida.",
+      "musica": "pueblo",
+      "motivos": [
+        "tension",
+        "misterio"
+      ],
+      "efectos": [
+        "perros",
+        "viento",
+        "pasos"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "mercado al aire libre",
+        "tres trineos",
+        "seis perros por trineo",
+        "emblema del lobo dorado",
+        "mercancía robada",
+        "cadáver congelado",
+        "caja fuerte",
+        "helado-1"
+      ],
+      "figuras": [
+        "torrga-vetagelida",
+        "sephek-kaltro",
+        "los-cuatro-arrieros",
+        "la-jauria-de-trineo",
+        "la-caja-fuerte-de-torrga"
+      ]
+    },
+    {
+      "slug": "la-noche-del-asesino",
+      "nombre": "La noche del asesino",
+      "ciudad": "otro",
+      "interior": false,
+      "imagen_en": "A wide establishing view of an empty frozen alley between timber and stone houses, beside an abandoned barn. Crooked doors, icicles, rusty farm tools, stale straw and a frozen well border intersecting footprints. Green and violet aurora colours the snow; one distant window glows warmly. Wind drives fine flakes through the darkness. No people or figures. Leave the lower third clear.",
+      "lectura": "La aurora se retuerce sobre los tejados como una serpiente verde y violeta. Seguís al hombre del chaleco a cierta distancia. No lleva linterna ni se protege del viento; camina como si la nieve no existiera. En las calles de Bryn Shander, Puerto Este o Targos, se detiene junto a una ventana iluminada y espera. En cualquier otro pueblo, empuja la puerta de un granero helado, se sienta sobre un montón de paja y bebe de una botella hasta que la cabeza le cae hacia atrás. En su mano, por un instante, brilla una daga que no es de acero: es hielo azul, tan afilado que el aire silba a su alrededor. El asesino está a pocos pasos. Y no parece tener prisa.",
+      "notas": "Sephek queda libre tras el cierre: en las tres villas que sacrifican personas acecha a un sobornador; en las demás bebe y duerme sin calefacción. Seguirlo permite aislarlo o advertir a su víctima, pero perderlo puede provocar otro asesinato antes del amanecer. Prepara una de las dos variantes de la lectura según la villa.",
+      "musica": "noche",
+      "motivos": [
+        "sigilo",
+        "amenaza"
+      ],
+      "efectos": [
+        "viento",
+        "hielo-cruje",
+        "puerta",
+        "pasos"
+      ],
+      "ambiente": "dark",
+      "etiquetas": [
+        "noche de aurora",
+        "callejón helado",
+        "granero sin calefacción",
+        "daga de hielo",
+        "víctima señalada",
+        "asesino suelto",
+        "helado-2"
+      ],
+      "figuras": [
+        "sephek-kaltro",
+        "el-invierno-de-auril"
+      ]
+    },
+    {
+      "slug": "la-confrontacion",
+      "nombre": "La confrontación",
+      "ciudad": "otro",
+      "interior": true,
+      "imagen_en": "A wide establishing view inside an empty frozen barn, with leaning beams, broken boards, straw heaps, chains and rusty farm tools. An overturned bench stands near the snowy threshold. One hanging lantern adds orange light to a sharp blue palette; ice glitters along the walls and a doorway opens onto sunless snow. No people or figures. Leave the lower third clear.",
+      "lectura": "Lo habéis acorralado contra la pared del granero. El viento entra por las rendijas y le mueve el pelo; a vuestro alrededor, el aliento se convierte en escarcha. Sephek no parece asustado. Se mira las manos, luego a vosotros, y sonríe con una calma que hiela más que la noche. «Así que Hlin ha encontrado a alguien —dice—. Deberíais haber aceptado el dinero y haberos quedado al calor.» El aire cruje. Una espada de hielo se forma en su puño, y dos dagas transparentes le nacen entre los dedos. «La Doncella de la Escarcha tiene trabajo para mí. ¿De verdad queréis interponeros?» Detrás de él, la puerta abierta deja ver la nieve y un cielo sin sol.",
+      "notas": "Sephek confiesa con orgullo, combate con hielo, usa paso brumoso hasta tres veces al día y se regenera en el frío. El fuego detiene su regeneración; capturarlo conserva el espíritu, que solo se destruye al morir su cuerpo. Torrga y la banda pueden intervenir si están cerca; ella huye si peligra su vida. Puede fingir rendición o amenazar a un inocente para escapar.",
+      "musica": "auril",
+      "motivos": [
+        "batalla-oscura",
+        "horror"
+      ],
+      "efectos": [
+        "hielo-cruje",
+        "hogar",
+        "viento"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "granero helado",
+        "espada de hielo",
+        "dagas de hielo",
+        "paso brumoso",
+        "regeneración gélida",
+        "fuego",
+        "acorralado-2",
+        "confeso-2",
+        "herido-2"
+      ],
+      "figuras": [
+        "sephek-kaltro",
+        "el-espiritu-invernal"
+      ]
+    },
+    {
+      "slug": "el-regreso-a-hlin",
+      "nombre": "El regreso a Hlin",
+      "ciudad": "otro",
+      "interior": true,
+      "imagen_en": "A wide establishing view of an empty tavern before dawn, its stone hearth reduced to red embers. Unwashed cups, scattered chairs and worn tables sit beneath low smoky beams. Frost coats the windows and a wooden bar secures the door. Dim gold candlelight reflects on wax and dark wood while snow falls outside. No people or figures. Leave the lower third clear.",
+      "lectura": "La taberna está casi vacía. El fuego se ha consumido y las mesas brillan con el sebo de las velas. Hlin sigue en su rincón, con la pipa apagada y una bolsa de cuero sobre el tablero. Al veros, levanta la vista y estudia vuestras caras una por una, como si leyera el resultado antes de que habléis. Fuera, el viento sigue aullando. Dentro, el silencio pesa. «¿Está hecho?», pregunta. No hay alegría en su voz, solo una fatiga vieja y una curiosidad cansada. La bolsa está a medio camino entre vosotros. Nadie la toca todavía.",
+      "notas": "Hlin paga si Sephek ha muerto y acepta la palabra de los Héroes; entregarlo a las autoridades impide cobrar. Si recibe al prisionero, puede pagar una parte o conceder un favor menor; si escapa, continúan los asesinatos. La supervivencia de Torrga puede traer venganza y vetos comerciales.",
+      "musica": "taberna",
+      "motivos": [
+        "tension",
+        "esperanza"
+      ],
+      "efectos": [
+        "hogar",
+        "viento"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "taberna cálida",
+        "contrato cumplido",
+        "recompensa de Hlin",
+        "silencio cómplice",
+        "helado-1"
+      ],
+      "figuras": [
+        "hlin-matatrols"
+      ]
+    }
+  ],
+  "pnj": [
+    {
+      "slug": "hlin-matatrols",
+      "nombre": "Hlin Matatrols",
+      "papel": "cazarrecompensas retirada, patrona de la misión y posible aliada recurrente. En el original se llama Hlin Trollbane.",
+      "ciudad": "otro",
+      "aspecto_en": "Full body portrait of an elderly shield dwarf woman, stocky and weather beaten, with grey braided hair and a deep scar across her nose. She wears a worn fur coat without armour, with a battleaxe and handaxe at her belt. Knotted hands hold a dark wooden pipe. Her alert gaze and tight expression suggest dry humour and stubborn decency.",
+      "presentacion": "Veis a una enana de pelo gris trenzado que os estudia por encima de una pipa oscura. El olor del tabaco se mezcla con el de sus pieles gastadas. Una cicatriz le cruza la nariz y dos hachas cuelgan de su cinto. Cuando os señala una silla, su mirada despierta deja claro que espera respuestas breves y útiles.",
+      "caracter": "seca, observadora y directa; habla poco y escucha mucho; tiene un humor negro y una decencia testaruda. No soporta a los fanfarrones ni a las autoridades que miran hacia otro lado. Respeta la competencia y desprecia la crueldad gratuita.",
+      "quiere": "detener al asesino, satisfacer su sentido de la justicia, encontrar a alguien competente a quien confiar el trabajo y gastar su oro en algo que valga la pena.",
+      "sabe": "los tres asesinatos, la firma de la daga de hielo, la conexión de las víctimas con las loterías de Bryn Shander, Puerto Este y Targos, el nombre y el oficio de Sephek, su resistencia al frío, la ruta de Torrga y la existencia del cadáver del semielfo. No tiene pruebas concluyentes ni sabe si Torrga protege a Sephek. Conoce la Costa de la Espada y tiene enemigos antiguos.",
+      "desafio": null
+    },
+    {
+      "slug": "sephek-kaltro",
+      "nombre": "Sephek Kaltro",
+      "papel": "asesino en serie, guardaespaldas de Torrga y recipiente del espíritu de un druida de escarcha; villano principal de la misión.",
+      "ciudad": "otro",
+      "aspecto_en": "Full body portrait of a well built human man around thirty, with olive skin, dark hair in a ponytail and no facial hair. His intense blue eyes resemble a frozen lake. He wears an elegant southern sailor waistcoat, matching trousers and boots, without coat, gloves or scarf. A translucent ice blade forms in one bare hand; his smile is calmly courteous.",
+      "presentacion": "Os recibe un hombre de chaleco elegante y botas a juego, vestido como un marinero del sur. No lleva abrigo, guantes ni bufanda. Mientras vuestro aliento se hiela, él parece perfectamente cómodo. Sus ojos azules os recuerdan un lago congelado. Os sonríe con educación y habla tan bajo y despacio que casi conseguís olvidar el frío que le rodea.",
+      "caracter": "encantador, tranquilo y educado; sonríe con facilidad y hace amigos sin esfuerzo. Habla en voz baja, sin prisa, y admite sus crímenes con una calma desconcertante. No muestra miedo ni vergüenza; se considera un instrumento de la Doncella de la Escarcha. Puede fingir que se rinde para ganar tiempo y escapar. Su crueldad es cortés, casi amable.",
+      "quiere": "cumplir el trabajo de Auril, castigar a quienes trampean en las loterías, seguir viajando con la caravana y, quizá, encontrar a alguien que lo merezca como enemigo. No le interesan el dinero ni la huida, salvo como medio para seguir matando.",
+      "sabe": "los nombres de los sobornadores y de las víctimas, el funcionamiento de las loterías, la ruta y los secretos de Torrga, la ubicación del cadáver del semielfo y la naturaleza del espíritu que lo habita. Sabe que el espíritu no puede abandonar su cuerpo y que, si muere, morirá con él. No teme que lo capturen.",
+      "desafio": "sephek-kaltro"
+    },
+    {
+      "slug": "torrga-vetagelida",
+      "nombre": "Torrga Vetagélida",
+      "papel": "comerciante ambulante, capitana de bandidos y jefa de Sephek; obstáculo y fuente de información.",
+      "ciudad": "otro",
+      "aspecto_en": "Full body portrait of a robust shield dwarf merchant woman with a braided beard threaded through silver rings. She wears a thick merchant coat over layered furs, leather gloves and a coin counting apron. A ring of keys hangs at her neck; an axe rests at her belt. Her broad stance, sharp eyes and mocking grin convey noisy confidence and avarice.",
+      "presentacion": "Os llega primero el olor a perro, vino barato y aceite de ballena. Detrás del mostrador de cajones, una enana robusta os mide de arriba abajo, con la barba trenzada entre anillas de plata. Las llaves de su cuello tintinean sobre el abrigo de pieles. Su carcajada áspera convierte vuestro saludo en el principio de una negociación.",
+      "caracter": "ruidosa, codiciosa y pragmática; trata cualquier conversación como una negociación. Se ríe fuerte, insulta con ingenio y miente sin esfuerzo. Solo se preocupa por sus beneficios y su pellejo; protege a su gente mientras le convenga.",
+      "quiere": "vender caro, mantener la caravana en movimiento, cobrar la recompensa del semielfo en Luskan, conservar a Sephek como músculo y no arriesgar la vida.",
+      "sabe": "la ruta de la caravana, el valor de la mercancía, la ubicación de la caja fuerte y del cadáver, los nombres de sus bandidos y la resistencia de Sephek al frío. Sabe que mata, pero no le importa; puede sospechar que hay algo sobrenatural en él, aunque no conoce los detalles.",
+      "desafio": "torrga-vetagelida"
+    },
+    {
+      "slug": "los-cuatro-arrieros",
+      "nombre": "Los cuatro arrieros",
+      "papel": "bandidos neutrales malvados que conducen y protegen los trineos; comparsas de Torrga.",
+      "ciudad": "otro",
+      "aspecto_en": "Full body group portrait of four weather beaten male and female caravan drivers wearing mismatched furs, patched leather and damaged winter boots. They carry clubs, crossbows and knives. One has a broken nose, another a branded cheek. Their slouched stances and guarded, bored expressions suggest rough humour and loyalty bought with wages. Snow and dog harnesses evoke their trade.",
+      "presentacion": "Veis a cuatro arrieros entre los trineos, envueltos en pieles desparejadas y cuero remendado. Os llega un olor espeso a perro y cerveza barata. Uno os mira sobre una nariz rota; otra lleva una marca de hierro en la mejilla. Sus garrotes, ballestas y cuchillos están a mano, pero sus miradas buscan a Torrga antes de decidir cómo recibiros.",
+      "caracter": "hoscos, aburridos y leales al dinero de Torrga; hacen bromas groseras y no están dispuestos a morir por ella. Si la suerte se vuelve en su contra, se rinden o huyen.",
+      "quiere": "cobrar, encontrar un lugar caliente y no meterse en problemas; alguno robaría un poco de la mercancía si nadie mira.",
+      "sabe": "la ruta, la mercancía, el cadáver, la caja fuerte y las costumbres nocturnas de Sephek; le tienen un poco de miedo.",
+      "desafio": "la-banda-del-ambula-de-torg"
+    },
+    {
+      "slug": "las-tres-victimas",
+      "nombre": "Las tres víctimas",
+      "papel": "los muertos que ponen en marcha la cacería y el peso moral de la misión.",
+      "ciudad": "otro",
+      "aspecto_en": "Full body memorial group portrait of three deceased townsfolk: a halfling trapper, a human shipwright and a dwarf woman glassblower. Winter work clothes, pelts, a woodworking tool and a glassmaking implement identify their trades. Frost and a small blue ice dagger mark their deaths. Their still faces suggest lost cheerfulness, reserve and pride against a subdued snowy background.",
+      "presentacion": "Escucháis hablar de un trampero mediano de Puerto Este, un carpintero de ribera de Targos y una sopladora de cristal enana de Bryn Shander. Os describen sus casas y talleres fríos, sus familias asustadas y una misma herida imposible: hielo atravesando el corazón. Al preguntar por sus nombres, descubrís que faltaban en las listas de la lotería.",
+      "caracter": "muertos; los recuerdan sus vecinos. El mediano era alegre y hablador, el carpintero reservado y la sopladora orgullosa. Sus familias están asustadas y furiosas.",
+      "quiere": "en vida, salvarse del sorteo; ahora, sus familias quieren respuestas y justicia.",
+      "sabe": "pagaron a funcionarios de bajo rango para que borraran sus nombres. Dejaron recibos, cartas o testigos que pueden reconstruir la trama.",
+      "desafio": null
+    },
+    {
+      "slug": "el-espiritu-invernal",
+      "nombre": "El espíritu invernal",
+      "papel": "el druida de escarcha que habita el cuerpo de Sephek; la verdadera voluntad asesina y un fragmento del poder de Auril.",
+      "ciudad": "otro",
+      "aspecto_en": "Full body depiction of the human vessel of an invisible frost druid spirit: a well built dark haired sailor in an elegant waistcoat, trousers and boots, without winter outerwear. Unnaturally blue eyes and frost gathering around his breath reveal the hidden presence. Settling snow surrounds his still silhouette. His patient, calmly cruel expression conveys devotion to the Frostmaiden.",
+      "presentacion": "No veis otra figura junto a Sephek, pero el azul de sus ojos parece demasiado profundo. Notáis cómo la escarcha se espesa en su aliento y la nieve se posa a su alrededor. Tras la voz cortés del hombre intuís una paciencia cruel. Os habla como si vuestras vidas fueran apenas otra deuda pendiente con la Doncella de la Escarcha.",
+      "caracter": "antiguo, paciente y cruel; devoto de la Doncella de la Escarcha. Habla a través de Sephek con una calma razonable y ve a los mortales como tramposos y presas. No puede abandonar el cuerpo que habita.",
+      "quiere": "castigar a quienes engañan a Auril, extender el miedo y servir a la diosa.",
+      "sabe": "los nombres de los sobornadores, la corrupción de las loterías, los secretos del frío y la historia del naufragio de Sephek. Devoró el espíritu del marinero y usa su cuerpo como recipiente.",
+      "desafio": null
+    }
+  ],
+  "desafios": [
+    {
+      "slug": "sephek-kaltro",
+      "nombre": "Sephek Kaltro",
+      "nivel": 2,
+      "poderio": [
+        {
+          "nivel": "adventure",
+          "aspecto": "Asesino al servicio de Auril"
+        }
+      ],
+      "roles": [
+        "Adversario",
+        "Merodeador"
+      ],
+      "aspecto_en": "Full body portrait of a well built human man around thirty, with olive skin, dark hair in a ponytail and no facial hair. His intense blue eyes resemble a frozen lake. He wears an elegant southern sailor waistcoat, matching trousers and boots, without coat, gloves or scarf. A translucent ice blade forms in one bare hand; his smile is calmly courteous.",
+      "descripcion": "no muerto mediano neutral malvado, guardaespaldas de Torrga Vetagélida; VD 3 (700 PX). Inmune al frío, al miedo y al encanto; se regenera en el frío; puede usar paso brumoso hasta tres veces al día; combate con una espada larga y dagas de hielo. Puede elevarse a nivel 3 ante un grupo numeroso o muy preparado.",
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 4,
+          "consecuencia": "Sephek queda abatido; resuelve la muerte según la regeneración gélida."
+        },
+        {
+          "nombre": "acorralado",
+          "valor": 3,
+          "consecuencia": "Sephek queda inmovilizado o sin salida."
+        },
+        {
+          "nombre": "expuesto",
+          "valor": 3,
+          "consecuencia": "Su culpa queda expuesta."
+        }
+      ],
+      "etiquetas": [
+        "no muerto",
+        "guardaespaldas",
+        "encantador",
+        "inmune al frío",
+        "inmune al miedo y al encanto",
+        "espada de hielo",
+        "dagas de hielo",
+        "paso brumoso",
+        "regeneración gélida",
+        "beso de la Doncella de la Escarcha",
+        "ojos de lago congelado",
+        "herido-1",
+        "herido-2",
+        "herido-3",
+        "herido-4",
+        "acorralado-1",
+        "acorralado-2",
+        "acorralado-3",
+        "confeso-1",
+        "confeso-2",
+        "confeso-3",
+        "desconcertado-1"
+      ],
+      "rasgos": [
+        {
+          "nombre": "Inmunidades",
+          "descripcion": "Inmune al frío, al miedo y al encanto."
+        },
+        {
+          "nombre": "Paso brumoso",
+          "descripcion": "Puede usarlo hasta tres veces al día."
+        },
+        {
+          "nombre": "Regeneración gélida",
+          "descripcion": "Reduce el estado herido en un nivel al inicio de su turno si hace frío. El fuego anula la regeneración hasta el siguiente turno; según la ficha, solo muere si empieza su turno a 0 y no puede regenerarse. La ficha no traduce ese 0 a un límite de estado."
+        }
+      ],
+      "amenazas": [
+        {
+          "nombre": "Espada de hielo",
+          "descripcion": "inflige [herido-2] y [helado-2]; si la empuña a dos manos, inflige [herido-3].",
+          "consecuencias": [
+            "Aplica [herido-2]",
+            "Aplica [helado-2]",
+            "Aplica [herido-3]"
+          ]
+        },
+        {
+          "nombre": "Dagas de hielo",
+          "descripcion": "inflige [herido-1] y [helado-1] a distancia; puede alcanzar a un testigo o a un Héroe que huye.",
+          "consecuencias": [
+            "Aplica [herido-1]",
+            "Aplica [helado-1]"
+          ]
+        },
+        {
+          "nombre": "Paso brumoso",
+          "descripcion": "desaparece y reaparece tras una línea enemiga; crea [flanqueado-2] o [desaparecido-2]; se reposiciona junto al Héroe más vulnerable.",
+          "consecuencias": [
+            "Aplica [flanqueado-2]",
+            "Aplica [desaparecido-2]"
+          ]
+        },
+        {
+          "nombre": "Regeneración gélida",
+          "descripcion": "reduce [herido-X] en un nivel al inicio de su turno si hace frío; el fuego anula la regeneración hasta su siguiente turno; solo muere si empieza su turno a 0 y no puede regenerarse.",
+          "consecuencias": [
+            "Aplica [herido-X]"
+          ]
+        },
+        {
+          "nombre": "Confesión calculada",
+          "descripcion": "admite sus crímenes para ganar tiempo; crea [confeso-2] y [distraído-1] en los Héroes; si lo subestiman, escapa.",
+          "consecuencias": [
+            "Aplica [confeso-2]",
+            "Aplica [distraído-1]"
+          ]
+        },
+        {
+          "nombre": "Atacar a un inocente",
+          "descripcion": "crea [víctima amenazada] o [rehén]; obliga a los Héroes a elegir entre perseguirlo y salvar al testigo.",
+          "consecuencias": [
+            "Aplica [víctima amenazada]",
+            "Aplica [rehén]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y secretos",
+          "descripcion": "el fuego detiene su regeneración y puede destruir el cuerpo; un lugar cálido lo debilita. Está orgulloso y confiesa sus crímenes, lo que puede dar tiempo a los Héroes. Sus armas de hielo se derriten fuera de sus manos. El espíritu no puede abandonar su cuerpo: si Sephek muere, el espíritu muere con él. No teme que lo capturen, así que puede rendirse para escapar. Separarlo de Torrga y de los bandidos lo deja sin refuerzos. Si los Héroes tienen [confesión de Sephek] o [daga de hielo], pueden [exponerlo] ante Hlin o las autoridades."
+        }
+      ]
+    },
+    {
+      "slug": "torrga-vetagelida",
+      "nombre": "Torrga Vetagélida",
+      "nivel": 2,
+      "poderio": [],
+      "roles": [
+        "Adversario",
+        "Apoyo"
+      ],
+      "aspecto_en": "Full body portrait of a robust shield dwarf merchant woman with a braided beard threaded through silver rings. She wears a thick merchant coat over layered furs, leather gloves and a coin counting apron. A ring of keys hangs at her neck; an axe rests at her belt. Her broad stance, sharp eyes and mocking grin convey noisy confidence and avarice.",
+      "descripcion": "enana escudo capitana de bandidos, neutral malvada; VD 2. Visión en la oscuridad, resistencia al veneno y ventaja contra el veneno. Dirige la caravana y protege sus beneficios.",
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 3,
+          "consecuencia": "Torrga queda fuera de combate."
+        },
+        {
+          "nombre": "comprada",
+          "valor": 3,
+          "consecuencia": "Acepta el soborno."
+        },
+        {
+          "nombre": "asustada",
+          "valor": 3,
+          "consecuencia": "Huye o deja de oponerse."
+        }
+      ],
+      "etiquetas": [
+        "capitana de bandidos",
+        "visión en la oscuridad",
+        "resistente al veneno",
+        "codiciosa",
+        "cuatro bandidos",
+        "trineos",
+        "perros",
+        "caja fuerte",
+        "llave al cuello",
+        "herido-1",
+        "herido-2",
+        "herido-3",
+        "comprada-1",
+        "comprada-2",
+        "comprada-3",
+        "asustada-1",
+        "asustada-2",
+        "asustada-3"
+      ],
+      "rasgos": [
+        {
+          "nombre": "Resistencia enana",
+          "descripcion": "Visión en la oscuridad y resistencia al veneno."
+        }
+      ],
+      "amenazas": [
+        {
+          "nombre": "Ordenar a la banda",
+          "descripcion": "crea [flanqueado-2] o [rodeado-2]; los bandidos atacan desde los trineos.",
+          "consecuencias": [
+            "Aplica [flanqueado-2]",
+            "Aplica [rodeado-2]"
+          ]
+        },
+        {
+          "nombre": "Soltar a los perros",
+          "descripcion": "crea [alborotado-2] y [derribado-1]; los perros alertan a todo el campamento.",
+          "consecuencias": [
+            "Aplica [alborotado-2]",
+            "Aplica [derribado-1]"
+          ]
+        },
+        {
+          "nombre": "Huir con la caja fuerte",
+          "descripcion": "crea [fortuna escapada]; se pierde [fortuna de Torrga] y el [cadáver del semielfo].",
+          "consecuencias": [
+            "Aplica [fortuna escapada]",
+            "Aplica [fortuna de Torrga]",
+            "Aplica [cadáver del semielfo]"
+          ]
+        },
+        {
+          "nombre": "Sobornar o delatar",
+          "descripcion": "ofrece un [trato de Torrga] o avisa a las autoridades, creando [perseguido-2].",
+          "consecuencias": [
+            "Aplica [trato de Torrga]",
+            "Aplica [perseguido-2]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y secretos",
+          "descripcion": "la codicia puede más que la lealtad; no arriesga la vida por Sephek y huye si la cosa se pone mal. Se la puede comprar. La llave de la caja fuerte cuelga de su cuello. Sus bandidos luchan por dinero, no por una causa, y se rinden si ella cae."
+        }
+      ]
+    },
+    {
+      "slug": "la-banda-del-ambula-de-torg",
+      "nombre": "La banda del Ámbula de Torg",
+      "nivel": 1,
+      "poderio": [],
+      "roles": [
+        "Merodeador"
+      ],
+      "aspecto_en": "Full body group portrait of four weather beaten male and female caravan drivers wearing mismatched furs, patched leather and damaged winter boots. They carry clubs, crossbows and knives. One has a broken nose, another a branded cheek. Their slouched stances and guarded, bored expressions suggest rough humour and loyalty bought with wages. Snow and dog harnesses evoke their trade.",
+      "descripcion": "cuatro bandidos neutrales malvados (VD 1/8 cada uno). Su lealtad depende de la paga.",
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 3,
+          "consecuencia": "La banda queda fuera de combate."
+        },
+        {
+          "nombre": "dispersos",
+          "valor": 2,
+          "consecuencia": "Los bandidos se dispersan."
+        },
+        {
+          "nombre": "rendidos",
+          "valor": 2,
+          "consecuencia": "Los bandidos se rinden."
+        }
+      ],
+      "etiquetas": [
+        "cuatro",
+        "trineos",
+        "perros",
+        "mercancía robada",
+        "protección",
+        "poco leales",
+        "herido-1",
+        "herido-2",
+        "herido-3",
+        "dispersos-1",
+        "dispersos-2",
+        "rendidos-1",
+        "rendidos-2"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Flanquear",
+          "descripcion": "crea [flanqueado-2]; atacan desde los trineos y obligan a dividir la atención.",
+          "consecuencias": [
+            "Aplica [flanqueado-2]"
+          ]
+        },
+        {
+          "nombre": "Robar y huir",
+          "descripcion": "crean [objeto robado] y [fortuna escapada]; se llevan una etiqueta de mochila.",
+          "consecuencias": [
+            "Aplica [objeto robado]",
+            "Aplica [fortuna escapada]"
+          ]
+        },
+        {
+          "nombre": "Alertar",
+          "descripcion": "crean [alarma]; Torrga y Sephek acuden.",
+          "consecuencias": [
+            "Aplica [alarma]"
+          ]
+        },
+        {
+          "nombre": "Rendirse",
+          "descripcion": "crean [rendidos-2]; aceptan un trato, pero pueden traicionar si se presenta la ocasión.",
+          "consecuencias": [
+            "Aplica [rendidos-2]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y secretos",
+          "descripcion": "luchan por una paga, no por ideología; si Torrga cae o huye, se rinden. Se les puede sobornar. No están dispuestos a morir por Sephek."
+        }
+      ]
+    },
+    {
+      "slug": "la-jauria-de-trineo",
+      "nombre": "La jauría de trineo",
+      "nivel": 1,
+      "poderio": [],
+      "roles": [
+        "Obstáculo"
+      ],
+      "aspecto_en": "Full body group depiction of eighteen sturdy sled dogs arranged in three teams of six, with thick winter coats, leather harnesses and traces leading to wooden sledges. Their alert ears, steaming breath and snow crusted paws suggest cold endurance. Most appear friendly and curious rather than aggressive. Muted grey, brown and cream fur contrasts with blue snow and worn timber.",
+      "descripcion": "dieciocho perros de trineo, seis por cada trineo; amistosos si no se los provoca. Son amistosos si no se los provoca.",
+      "limites": [
+        {
+          "nombre": "alborotada",
+          "valor": 2,
+          "consecuencia": "La jauría pierde la calma y alerta al campamento."
+        },
+        {
+          "nombre": "herida",
+          "valor": 3,
+          "consecuencia": "La jauría queda fuera de combate."
+        }
+      ],
+      "etiquetas": [
+        "seis perros por trineo",
+        "leales",
+        "olfato",
+        "trineo",
+        "ladridos",
+        "alborotada-1",
+        "alborotada-2",
+        "herida-1",
+        "herida-2",
+        "herida-3"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Derribar",
+          "descripcion": "crea [derribado-2]; un Héroe cae en la nieve y pierde el ritmo.",
+          "consecuencias": [
+            "Aplica [derribado-2]"
+          ]
+        },
+        {
+          "nombre": "Alertar",
+          "descripcion": "crea [alarma]; todo el campamento se despierta.",
+          "consecuencias": [
+            "Aplica [alarma]"
+          ]
+        },
+        {
+          "nombre": "Morder",
+          "descripcion": "inflige [herido-1] si se los provoca.",
+          "consecuencias": [
+            "Aplica [herido-1]"
+          ]
+        },
+        {
+          "nombre": "Tirar del trineo",
+          "descripcion": "crea [huida]; si se sueltan, se llevan el trineo y parte de la carga.",
+          "consecuencias": [
+            "Aplica [huida]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y secretos",
+          "descripcion": "se calman con carne, una voz tranquila o una acción con [trato con animales]. No son monstruos; si Torrga cae, pueden huir o seguir a un Héroe que los trate bien. Un perro rescatado puede convertirse en [perro de trineo], una Compañía."
+        }
+      ]
+    },
+    {
+      "slug": "el-invierno-de-auril",
+      "nombre": "El invierno de Auril",
+      "nivel": 2,
+      "poderio": [
+        {
+          "nivel": "greatness",
+          "aspecto": "Invierno eterno del Valle del Viento Helado"
+        }
+      ],
+      "roles": [
+        "Peligro"
+      ],
+      "aspecto_en": "An environmental danger filling a wide frozen landscape: cutting wind drives deep snow across thin lake ice and erases a sledge trail. A green aurora hangs above an endlessly dark horizon. Frost crusts exposed rocks and bent pines, while black water glints through a small fracture. No figures appear; blue white light and drifting crystals convey disorientation and lethal cold.",
+      "descripcion": "frío extremo, ventiscas y hielo del Valle del Viento Helado; ambiente. El refugio y el fuego permiten resistirlo.",
+      "limites": [
+        {
+          "nombre": "helado",
+          "valor": 4,
+          "consecuencia": "El frío incapacita al afectado."
+        },
+        {
+          "nombre": "perdido",
+          "valor": 3,
+          "consecuencia": "El grupo pierde el rumbo."
+        },
+        {
+          "nombre": "agotado",
+          "valor": 3,
+          "consecuencia": "El agotamiento impide continuar sin descanso."
+        }
+      ],
+      "etiquetas": [
+        "viento cortante",
+        "nieve profunda",
+        "hielo fino",
+        "visibilidad nula",
+        "noche interminable",
+        "aurora",
+        "helado-1",
+        "helado-2",
+        "helado-3",
+        "helado-4",
+        "perdido-1",
+        "perdido-2",
+        "perdido-3",
+        "empapado-1",
+        "empapado-2",
+        "agotado-1",
+        "agotado-2",
+        "agotado-3"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Ventisca",
+          "descripcion": "crea [perdido-2]; inflige [helado-2] a quien no se cubra; borra las huellas ([rastro borrado]).",
+          "consecuencias": [
+            "Aplica [perdido-2]",
+            "Aplica [helado-2]",
+            "Aplica [rastro borrado]"
+          ]
+        },
+        {
+          "nombre": "Hielo fino",
+          "descripcion": "crea [empapado-2]; inflige [helado-3] si se cae al agua; se pierde una etiqueta de mochila.",
+          "consecuencias": [
+            "Aplica [empapado-2]",
+            "Aplica [helado-3]"
+          ]
+        },
+        {
+          "nombre": "Noche sin refugio",
+          "descripcion": "inflige [helado-1] a cada Héroe; crea [agotado-2]; el grupo no recupera el aliento.",
+          "consecuencias": [
+            "Aplica [helado-1]",
+            "Aplica [agotado-2]"
+          ]
+        },
+        {
+          "nombre": "Aurora de Auril",
+          "descripcion": "crea [asustado-2] o [fascinado-2]; los perros se inquietan ([alborotada-2]); el frío parece cobrar voluntad.",
+          "consecuencias": [
+            "Aplica [asustado-2]",
+            "Aplica [fascinado-2]",
+            "Aplica [alborotada-2]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y secretos",
+          "descripcion": "fuego, refugio, ropa seca, una buena Compañía y un descanso en el campamento. Comprar mantas, aceite o provisiones a Torrga ayuda, aunque salga caro. Los perros de trineo pueden guiar o avisar de una ventisca. La aurora es bella y peligrosa: mirarla demasiado tiempo puede hechizar o aterrar."
+        }
+      ]
+    },
+    {
+      "slug": "la-caja-fuerte-de-torrga",
+      "nombre": "La caja fuerte de Torrga",
+      "nivel": 1,
+      "poderio": [],
+      "roles": [
+        "Obstáculo"
+      ],
+      "aspecto_en": "An isolated heavy iron strongbox partly concealed within a coarse merchant sack on a wooden sledge. Its robust keyhole, dark hinges and frost edged metal suggest a stubborn lock. A separate key on a neck cord evokes the owner who carries it. Cold blue shadows contrast with amber lantern reflections on rough canvas, iron and weathered timber.",
+      "descripcion": "caja fuerte de hierro cerrada con llave, escondida en un saco; la llave cuelga del cuello de Torrga y la cerradura es difícil de forzar sin herramientas de ladrón. Su contenido son monedas y siete gemas.",
+      "limites": [
+        {
+          "nombre": "abierta",
+          "valor": 3,
+          "consecuencia": "Se accede al contenido y se obtiene [fortuna de Torrga]."
+        },
+        {
+          "nombre": "alarma",
+          "valor": 2,
+          "consecuencia": "El campamento queda alertado."
+        }
+      ],
+      "etiquetas": [
+        "hierro",
+        "cerradura robusta",
+        "llave al cuello",
+        "escondida en un saco",
+        "fortuna de Torrga",
+        "abierta-1",
+        "abierta-2",
+        "abierta-3",
+        "alarma-1",
+        "alarma-2"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Forzar la cerradura",
+          "descripcion": "si se hace con prisa, crea [alarma]; si se avanza con cuidado, [abierta-1].",
+          "consecuencias": [
+            "Aplica [alarma]",
+            "Aplica [abierta-1]"
+          ]
+        },
+        {
+          "nombre": "Romper la caja",
+          "descripcion": "crea [fortuna dañada] o [monedas esparcidas]; parte del contenido se pierde.",
+          "consecuencias": [
+            "Aplica [fortuna dañada]",
+            "Aplica [monedas esparcidas]"
+          ]
+        },
+        {
+          "nombre": "Usar la llave",
+          "descripcion": "requiere una acción con [robo] o [distracción]; si falla, crea [sospecha de Torrga].",
+          "consecuencias": [
+            "Aplica [robo]",
+            "Aplica [distracción]",
+            "Aplica [sospecha de Torrga]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y secretos",
+          "descripcion": "la llave al cuello de Torrga, una distracción, herramientas de ladrón y paciencia. Abrirla sin alboroto crea [fortuna de Torrga], una etiqueta de mochila o recurso."
+        }
+      ]
+    }
+  ],
+  "objetos": [
+    {
+      "slug": "contrato-de-hlin",
+      "nombre": "Contrato de Hlin",
+      "etiqueta": "contrato de Hlin",
+      "descripcion": "etiqueta de historia. Representa el acuerdo verbal y la bolsa de oro prometida. Mientras esté activo, un Héroe puede invocarlo para obtener ventaja social con cazarrecompensas, comerciantes o autoridades. Se rompe si traicionan a Hlin o entregan a Sephek a las autoridades.",
+      "imagen_en": "An isolated leather coin pouch beside an empty tavern chair, representing a spoken bounty agreement rather than a written contract. Warm firelight reveals worn stitching, dark leather and a few gold coins."
+    },
+    {
+      "slug": "recompensa-de-hlin",
+      "nombre": "Recompensa de Hlin",
+      "etiqueta": "recompensa de Hlin",
+      "descripcion": "etiqueta de mochila o recurso. Una bolsa de oro (cien monedas en la fuente) que se traduce en recursos para el grupo: provisiones, sobornos, alojamiento o favores. No se cuenta moneda a moneda.",
+      "imagen_en": "An isolated worn leather purse spilling a small heap of gold coins onto dark timber. Soft amber light catches the metal and the drawstring, suggesting a practical bounty payment in a frozen frontier."
+    },
+    {
+      "slug": "daga-de-hielo",
+      "nombre": "Daga de hielo",
+      "etiqueta": "daga de hielo",
+      "descripcion": "etiqueta de historia. Prueba del asesinato: una hoja azul, afilada y fría que se derrite en minutos fuera del frío o en manos de otra criatura. Si se conserva en nieve o hielo, dura una escena. Identifica al asesino y puede usarse para intimidar, probar la culpa o negociar con Hlin.",
+      "imagen_en": "An isolated translucent blue ice dagger, its narrow blade sharp and frost veined. Melting droplets bead along the grip against a dark neutral background, with cold light revealing its fragile supernatural construction."
+    },
+    {
+      "slug": "espada-de-hielo",
+      "nombre": "Espada de hielo",
+      "etiqueta": "espada de hielo",
+      "descripcion": "etiqueta de historia. Solo Sephek puede empuñarla; se rompe como un carámbano al sol. Si un Héroe la recoge, se derrite y no sirve como arma.",
+      "imagen_en": "An isolated longsword formed entirely from translucent blue ice, with a sharp crystalline edge and simple frozen grip. Fine cracks and melting droplets catch pale light against a dark neutral background."
+    },
+    {
+      "slug": "emblema-del-ambula-de-torg",
+      "nombre": "Emblema del Ámbula de Torg",
+      "etiqueta": "emblema del Ámbula de Torg",
+      "descripcion": "etiqueta de historia. Bandera negra con una huella de lobo dorada. Identifica la caravana a distancia; los aldeanos la reconocen y pueden dar información o cerrar puertas.",
+      "imagen_en": "An isolated black caravan flag bearing a golden wolf paw emblem. Wind bends the frost edged cloth around a weathered wooden pole, with muted cold light emphasising the gold against black fabric."
+    },
+    {
+      "slug": "caja-fuerte-de-torrga",
+      "nombre": "Caja fuerte de Torrga",
+      "etiqueta": "caja fuerte de Torrga",
+      "descripcion": "obstáculo. Caja de hierro con una fortuna en monedas y siete gemas; la llave cuelga del cuello de Torrga. Abrirla crea [fortuna de Torrga], una etiqueta de mochila o recurso; si se fuerza con ruido, crea [alarma].",
+      "imagen_en": "An isolated iron strongbox with a robust lock and heavy hinges, partly tucked inside a coarse sack. A small key rests nearby; pale winter light reveals scratched metal and fraying canvas."
+    },
+    {
+      "slug": "cadaver-del-semielfo",
+      "nombre": "Cadáver del semielfo",
+      "etiqueta": "cadáver del semielfo",
+      "descripcion": "prueba y gancho. Hombre de unos treinta años, medio elfo, congelado, con una herida de arma blanca en el pecho; está oculto en un saco grande del trineo. Torrga planea cobrar una recompensa de ciento veinticinco monedas en Luskan. Devuelto a Luskan, genera [favor de Luskan] o [recompensa de Luskan]; también prueba que Torrga mata por encargo.",
+      "imagen_en": "An isolated frozen half elf man around thirty, partly wrapped in a large coarse sack. A single stab wound marks his chest; pale frost covers his still face and winter clothing under subdued blue light."
+    },
+    {
+      "slug": "medicinas-falsas",
+      "nombre": "Medicinas falsas",
+      "etiqueta": "medicinas falsas",
+      "descripcion": "etiqueta de mochila. Frascos sin valor curativo que Torrga vende como remedios. Se pueden usar para engañar o vender; si un Héroe intenta curar con ellas, no funciona y crea [desconfianza] o [envenenado-1].",
+      "imagen_en": "Several isolated small remedy bottles with cork stoppers and plain blank labels, containing cloudy liquids. Worn glass and mismatched shapes suggest dubious caravan merchandise, arranged on dark wood under amber light."
+    },
+    {
+      "slug": "veneno-para-sabandijas",
+      "nombre": "Veneno para sabandijas",
+      "etiqueta": "veneno para sabandijas",
+      "descripcion": "etiqueta de mochila, un uso. Frasco pequeño que Torrga vende para matar alimañas. Aplicado a un arma, inflige [veneno-2] o [herido-1]; es peligroso y puede volverse contra el portador.",
+      "imagen_en": "An isolated small corked bottle of vermin poison, plain and practical, with a narrow neck and dark liquid. Cold reflections on worn glass contrast with a neutral background; no lettering is visible."
+    },
+    {
+      "slug": "mercancia-robada",
+      "nombre": "Mercancía robada",
+      "etiqueta": "mercancía robada",
+      "descripcion": "etiqueta de mochila o recurso. Madera cortada, yesca, pedernal, aceite de ballena, mantas, pieles, raciones, vino, cerveza barata, medicinas falsas y venenos. Torrga la vende al doble de precio; comprarla da [provisiones] o [aceite de ballena], pero también [mercancía del Ámbula].",
+      "imagen_en": "An isolated assortment of caravan goods: folded blankets, pelts, rations, firewood, flint, oil jars and cheap wine bottles. Rough crates and worn packaging sit in muted lantern light against a neutral background."
+    },
+    {
+      "slug": "trineo-y-perros",
+      "nombre": "Trineo y perros",
+      "etiqueta": "trineo y perros",
+      "descripcion": "etiqueta de mochila o Compañía. Tres trineos y dieciocho perros; permiten viajar rápido por la nieve, pero requieren comida, cuidado y un conductor. Si los Héroes rescatan a un perro, puede convertirse en [perro de trineo], una Compañía leal.",
+      "imagen_en": "An isolated wooden travel sledge with leather harnesses and a team of six thick coated dogs. Snow dusts its runners, bundled provisions and ropes; cold blue light highlights sturdy timber and attentive animals."
+    },
+    {
+      "slug": "fortuna-de-torrga",
+      "nombre": "Fortuna de Torrga",
+      "etiqueta": "fortuna de Torrga",
+      "descripcion": "etiqueta de mochila o recurso. Monedas y gemas de la caja fuerte; se puede gastar, sobornar o repartir. Si Torrga huye con ella, crea [fortuna escapada].",
+      "imagen_en": "An isolated hoard of mixed coins and exactly seven gemstones inside an open iron strongbox. Warm reflections illuminate scratched metal and coloured stones against dark rough canvas, suggesting a portable merchant fortune."
+    }
+  ],
+  "ayudas": [
+    {
+      "slug": "contrato-de-hlin",
+      "titulo": "Contrato de Hlin",
+      "tipo": "nota",
+      "texto": "Acuerdo verbal con Hlin Matatrols: encontrar a Sephek Kaltro, confirmar su culpa y detenerlo con discreción, sin implicar a las autoridades. Hlin prefiere su muerte y promete una bolsa de oro. Entregarlo a las autoridades deja sin efecto la recompensa.",
+      "fondo_en": "An empty sheet of rough parchment with worn edges and faint folds, resting flat under soft neutral light. The central surface is clear and unmarked, with no text, symbols or illustrations."
+    },
+    {
+      "slug": "itinerario-de-torrga",
+      "titulo": "Itinerario de Torrga",
+      "tipo": "nota",
+      "texto": "Ámbula de Torg. Tres trineos; bandera negra con una huella de lobo dorada. Ayer estaba en Bremen. Torrga no se queda quieta, pero vuelve a los mismos caminos. Las próximas paradas y sus fechas están por confirmar.",
+      "fondo_en": "An empty sheet of rough parchment with worn edges and faint folds, resting flat under soft neutral light. The central surface is clear and unmarked, with no text, symbols or illustrations."
+    },
+    {
+      "slug": "registro-de-la-loteria",
+      "titulo": "Registro de la lotería",
+      "tipo": "libro",
+      "texto": "Bryn Shander — sopladora de cristal enana: nombre retirado del sorteo; pago a un funcionario.\nTargos — carpintero de ribera humano: nombre retirado del sorteo; pago a un funcionario.\nPuerto Este — trampero mediano: nombre retirado del sorteo; pago a un funcionario.\nLas tres villas celebran las loterías de sacrificio en las noches de luna nueva.",
+      "fondo_en": "An empty sheet of rough parchment with worn edges and faint folds, resting flat under soft neutral light. The central surface is clear and unmarked, with no text, symbols or illustrations."
+    },
+    {
+      "slug": "cartel-de-recompensa-de-luskan",
+      "titulo": "Recompensa de Luskan",
+      "tipo": "cartel",
+      "texto": "RECOMPENSA: CIENTO VEINTICINCO MONEDAS\nSe busca a un fugitivo semielfo, varón de unos treinta años, escondido en el Valle del Viento Helado. Se advierte de su peligrosidad. Recompensa pagadera en Luskan.",
+      "fondo_en": "An empty sheet of rough parchment with worn edges and faint folds, resting flat under soft neutral light. The central surface is clear and unmarked, with no text, symbols or illustrations."
+    },
+    {
+      "slug": "mapa-de-diez-ciudades",
+      "titulo": "Mapa de Diez Ciudades",
+      "tipo": "mapa",
+      "texto": "DIEZ CIUDADES\nBryn Shander · Targos · Bremen · Termalaine · Lonelywood · Caer Konig · Caer Dineval · Puerto Este · Buenaguamiel · Refugio de Dougan.\nBryn Shander, Targos y Puerto Este celebran loterías de sacrificio. La caravana recorre los caminos entre asentamientos; su siguiente parada debe confirmarse con los vecinos.",
+      "fondo_en": "An empty sheet of rough parchment with worn edges and faint folds, resting flat under soft neutral light. The central surface is clear and unmarked, with no text, symbols or illustrations."
+    },
+    {
+      "slug": "notas-de-hlin",
+      "titulo": "Notas de Hlin",
+      "tipo": "nota",
+      "texto": "Tres muertos en el último mes: trampero mediano en Puerto Este; carpintero de ribera humano en Targos; sopladora de cristal enana en Bryn Shander. Misma firma: una daga de hielo en el corazón. Los tres pagaron para salir de las loterías. Sospechoso: Sephek Kaltro, guardaespaldas de Torrga Vetagélida. Va sin abrigo y no siente el frío. Sigo la caravana desde hace diez días. Tres trineos y una bandera negra con una huella de lobo dorada. No tengo pruebas concluyentes. Aisladlo de Torrga y de su banda.",
+      "fondo_en": "An empty sheet of rough parchment with worn edges and faint folds, resting flat under soft neutral light. The central surface is clear and unmarked, with no text, symbols or illustrations."
+    },
+    {
+      "slug": "confesion-de-sephek",
+      "titulo": "Confesión de Sephek",
+      "tipo": "nota",
+      "texto": "La Doncella de la Escarcha tiene trabajo para mí: castigar a quienes engañan en las loterías. Mis víctimas pagaron para salvarse mientras otros morían en su lugar. El espíritu que habita este cuerpo no puede abandonarlo. Si el cuerpo muere, el espíritu muere con él.",
+      "fondo_en": "An empty sheet of rough parchment with worn edges and faint folds, resting flat under soft neutral light. The central surface is clear and unmarked, with no text, symbols or illustrations."
+    }
+  ],
+  "hitos": [
+    "El cazador y la presa: aceptar el contrato de Hlin y empezar la cacería.",
+    "Corazón de hielo: confrontar a Sephek y sobrevivir.",
+    "La verdad bajo la nieve: descubrir la corrupción de la lotería.",
+    "Justicia en el valle: resolver la misión sin sacrificar a más inocentes.",
+    "Un favor en el frío: ganar la confianza de Hlin."
+  ],
+  "relojes": []
+}

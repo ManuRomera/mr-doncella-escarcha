@@ -1,0 +1,822 @@
+{
+  "seccion": "04-bremen",
+  "titulo": "Bremen",
+  "escenas": [
+    {
+      "slug": "los-muelles-de-bremen",
+      "nombre": "Los muelles de Bremen",
+      "ciudad": "bremen",
+      "interior": false,
+      "imagen_en": "Wide establishing view of Bremen’s frozen fishing docks at the mouth of the Shaengarne. Old timber planks, stiff ropes, two stranded rowing boats, one bearing a bite mark, black steaming water between dirty ice floes. Low roofs and hanging nets beneath an overcast sky. Muted white, charcoal and weathered brown palette. No people or creatures. Leave the lower third open.",
+      "lectura": "El puerto de Bremen ya no es un puerto, sino una cicatriz blanca. Los botes descansan sobre el hielo, atados con cuerdas rígidas, y el agua oscura apenas se abre paso entre bloques flotantes. El viento arrastra polvo de nieve y hace gemir los tablones del muelle. Entre dos embarcaciones, una figura robusta y encapuchada golpea el suelo con las botas y os hace señas como si os estuviera esperando. «¡Bien, aquí estáis! —gruñe—. ¡Poneos a la faena, ingratos! ¡Esos peces no se van a pescar solos!» La voz sale de una barba llena de escarcha. En el casco de uno de los botes, una marca irregular parece un mordisco.",
+      "notas": "Grynsk confunde a los Héroes con sus empleados y oculta que el monstruo mató a su tripulación; descubrir la mentira exige intuición o callejeo. Negociar permite obtener los botes y la paga; fracasar les deja sin transporte. Tali denuncia el peligro y entrega su cuaderno si demuestran interés por investigar.",
+      "musica": "pueblo",
+      "motivos": [
+        "misterio"
+      ],
+      "efectos": [
+        "viento",
+        "hielo-cruje",
+        "pasos"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "puerto helado",
+        "muelle crujiente",
+        "botes sobre el hielo",
+        "marca de mordisco",
+        "frío mordiente",
+        "helado-1"
+      ],
+      "figuras": [
+        "grynsk-brocaberilo",
+        "tali"
+      ]
+    },
+    {
+      "slug": "el-lago-maer-dualdon",
+      "nombre": "El lago Maer Dualdon",
+      "ciudad": "bremen",
+      "interior": false,
+      "imagen_en": "Wide establishing view across immense Maer Dualdon beneath a low leaden sky. Table sized and cart sized ice floes divide shifting channels of black water. An empty wooden rowing boat carries oars and fishing tackle. Distant shore lights fade through mist and drifting snow. Pewter, slate and cold blue palette. No people or creatures. Leave the lower third open.",
+      "lectura": "El lago se extiende como una lámina de estaño bajo un cielo que no termina de decidir si es día o noche. A vuestro alrededor flotan bloques de hielo del tamaño de mesas y de carretas; algunos chocan entre sí con un sonido hueco. El agua abierta es negra y no devuelve reflejo. Cada vez que hundís los remos, el bote se escora y la madera cruje. A lo lejos, las luces de Targos o de Termalaine parecen brasas a punto de apagarse. El frío no muerde: muerde y no suelta. Una ráfaga borra la costa durante unos segundos. Cuando vuelve a verse, el hielo ha cambiado de sitio.",
+      "notas": "Esquivad entre dos y cinco bloques con navegante, remero o reflejos; un fallo daña el bote y puede abrir una vía de agua. Cada hora puede traer pesca, pescadores rivales, viento, una trucha saltarina o el plesiosaurio. Caer al agua impone empapado-2 y helado-2 o helado-3; sin ayuda aparece hundiéndose-2, y el frío persiste hasta secarse o cambiarse.",
+      "musica": "lago",
+      "motivos": [
+        "tension",
+        "amenaza"
+      ],
+      "efectos": [
+        "lago-sfx",
+        "viento",
+        "hielo-cruje"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "lago oscuro",
+        "bloques de hielo",
+        "niebla",
+        "agua helada",
+        "viento gélido",
+        "sol de medianoche apagado",
+        "helado-1"
+      ],
+      "figuras": [
+        "aguas-peligrosas-de-maer-dualdon",
+        "ventisca-de-auril",
+        "trucha-de-cabeza-de-jarrete",
+        "pescadores-rivales"
+      ]
+    },
+    {
+      "slug": "bestia-inteligente",
+      "nombre": "Bestia inteligente",
+      "ciudad": "bremen",
+      "interior": false,
+      "imagen_en": "Wide establishing view of open black water far from the shores of Maer Dualdon. A small empty rowing boat sits among scattered ice floes, surrounded by broad concentric ripples and dripping oars. Flat grey winter light emphasizes the fragile swollen timber against the vast lake. Cold charcoal, silver and blue palette. No people or creatures. Leave the lower third open.",
+      "lectura": "El bote se balancea. Una ondulación ancha, demasiado ancha para ser una ola, pasa bajo el casco y hace cantar los remos en sus horquillas. Luego, el silencio. Una sombra alargada se desliza bajo el agua, más grande que la barca, y desaparece. Al otro lado, a diez metros, la superficie se rompe: un cuello largo y delgado se alza, y al final hay una cabeza reptiliana con ojos negros que os mira sin pestañear. El agua resbala por sus escamas. La criatura inclina la cabeza, como si os sopesara, y dice en común, con una voz grave y lenta: «Os escucho».",
+      "notas": "El plesiosaurio estudia a la tripulación antes de atacar y siente curiosidad si le hablan. Puede revelar que Ravisin lo despertó y le ordenó aterrorizar a Bremen, aunque ignora dónde está. Reconocer el despertar permite descubrir que es permanente; convencerlo con respeto termina los ataques, mientras las burlas provocan un intento de vuelco. Se retira al alcanzar herido-2.",
+      "musica": "lago",
+      "motivos": [
+        "bestia",
+        "misterio"
+      ],
+      "efectos": [
+        "lago-sfx",
+        "chapuzon",
+        "hielo-cruje"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "aguas negras",
+        "sombra bajo el bote",
+        "cuello reptiliano",
+        "voz en común",
+        "balanceo",
+        "frío",
+        "asustado-1"
+      ],
+      "figuras": [
+        "el-plesiosaurio-consciente",
+        "plesiosaurio-consciente",
+        "aguas-peligrosas-de-maer-dualdon"
+      ]
+    },
+    {
+      "slug": "los-tesoros-enterrados",
+      "nombre": "Los Tesoros Enterrados",
+      "ciudad": "bremen",
+      "interior": true,
+      "imagen_en": "Wide interior view of the Buried Treasures inn in Bremen. Worn wooden tables, coat hooks, a stone hearth burning peat, steaming fish stew and a small framed portrait of a bearded young man on the wall. Frost rims the misted windows. Amber firelight meets cold blue window light, with warm brown wool textures. No people. Leave the lower third open.",
+      "lectura": "El calor de Los Tesoros Enterrados os golpea como una mano abierta. Dentro huele a estofado de pescado, a turba y a lana mojada. Hay más mesas vacías que ocupadas, y la mujer que sale a recibiros lleva el delantal limpio y las manos rojas de fregar. Sonríe demasiado y os llama «señores» mientras retira una silla que no hace falta retirar. Detrás de ella, en la pared, cuelga un retrato pequeño de un hombre joven con barba. Al ver que lo miráis, la sonrisa se le queda quieta. «¿Queréis algo caliente? —pregunta—. La sopa está buena. Todo está... todo está bien.»",
+      "notas": "Cora apenas mantiene abierta la posada y necesita noticias de Huarwar. Con empatía y paciencia permite registrar su habitación, donde la investigación descubre pistas del hielo negro y los amuletos tiflin. Su relato conduce a los castillos de Caer-Dineval y Caer-Konig; una búsqueda descuidada puede hacerle perder la confianza.",
+      "musica": "taberna",
+      "motivos": [
+        "misterio"
+      ],
+      "efectos": [
+        "hogar",
+        "puerta"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "posada cálida",
+        "pocos huéspedes",
+        "habitación revuelta",
+        "trozo de hielo negro",
+        "amuleto tiflin",
+        "recuerdo de Huarwar",
+        "confianza de Cora",
+        "sospecha de Cora"
+      ],
+      "figuras": [
+        "cora-mulphoon"
+      ]
+    },
+    {
+      "slug": "el-centro-de-las-cinco-tabernas",
+      "nombre": "El Centro de las Cinco Tabernas",
+      "ciudad": "bremen",
+      "interior": false,
+      "imagen_en": "Wide establishing view of Bremen’s central snowy square, five crooked wooden taverns arranged in a semicircle. Distinct signs depict a stone, keel, river mouth, moose and black beard. Oil lanterns, snowbanks, sled tracks and stiff hanging laundry surround amber windows and smoking chimneys. Weathered brown, white and golden palette, dim winter light. No people. Leave the lower third open.",
+      "lectura": "Cinco edificios de madera se apiñan en semicírculo alrededor de una plaza que la nieve ha convertido en un páramo blanco. Cada uno tiene su letrero: una piedra, una quilla, una boca de río, un alce y un hermano de barbas negras. Las ventanas brillan con luz ambarina y el humo sale torcido por las chimeneas. Al cruzar la plaza, oís risas, una discusión y el golpe de un vaso contra una mesa. Las puertas se abren y se cierran con el viento. Nadie os mira dos veces, pero notáis que todos os han visto entrar. Aquí, cualquier forastero es una noticia.",
+      "notas": "Las Piedras, La Quilla Plana, La Boca del Río, El Alce Gruñón y El Hermano de Barbas Negras mantienen una antigua rivalidad familiar. Callejeo, carisma o paciencia permiten escuchar rumores del lago, Huarwar, Targos y el Portavoz. Ganarse a un tabernero ofrece comida o refugio; una pelea puede imponer derribado-1, expulsado y desprestigio.",
+      "musica": "taberna",
+      "motivos": [],
+      "efectos": [
+        "taberna-sfx",
+        "viento",
+        "puerta"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "plaza nevada",
+        "cinco tabernas",
+        "humo y grasa",
+        "rumores",
+        "cerveza aguada",
+        "fuego",
+        "helado-1"
+      ],
+      "figuras": []
+    },
+    {
+      "slug": "el-regreso-a-los-muelles",
+      "nombre": "El regreso a los muelles",
+      "ciudad": "bremen",
+      "interior": false,
+      "imagen_en": "Wide establishing view of Bremen’s fishing docks at dusk. Flickering lanterns illuminate tied rowing boats, taut frozen ropes and a wooden bucket of caught fish. Fine snow falls across the old planks while the lake reflects a metallic blue grey glow. Low village roofs dissolve into the evening haze. No people or creatures. Leave the lower third open.",
+      "lectura": "El sol se ha quedado en un rasgo pálido sobre el lago cuando volvéis al muelle. Grynsk está allí, con las manos metidas bajo las axilas y la barba rígida de hielo. Cuenta los peces con la mirada antes de que hayáis atado el bote. Detrás de él, Tali espera con el cuaderno apretado contra el pecho y una expresión que no acierta a disimular. El viento trae olor a madera mojada y a pescado. Por un momento, nadie dice nada; solo crujen las cuerdas y el hielo se queja bajo los botes.",
+      "notas": "Grynsk paga las truchas, aunque regatea; firmeza o persuasión evitan una paga rebajada. Tali recompensa las notas útiles con el pergamino de amistad animal, su bolsa y su favor; sin notas no hay recompensa. La promesa del plesiosaurio devuelve la pesca, su muerte permite a Ravisin sustituirlo y una retirada solo aplaza la amenaza. Cora puede acudir si investigaron a Huarwar.",
+      "musica": "lago",
+      "motivos": [
+        "esperanza"
+      ],
+      "efectos": [
+        "hielo-cruje",
+        "pasos",
+        "viento"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "muelle al anochecer",
+        "cuaderno lleno",
+        "paga",
+        "gratitud",
+        "frío",
+        "nieve que cae"
+      ],
+      "figuras": [
+        "grynsk-brocaberilo",
+        "tali",
+        "cora-mulphoon"
+      ]
+    }
+  ],
+  "pnj": [
+    {
+      "slug": "dorbulgruf-pizarrascara",
+      "nombre": "Dorbulgruf Pizarrascara",
+      "papel": "Portavoz de Bremen y líder de la comunidad; anciano enano escudo de alineamiento legal bueno",
+      "ciudad": "bremen",
+      "aspecto_en": "Full body portrait of a very elderly shield dwarf, sparse white beard, weathered skin, clouded wandering eyes and knotted hands resting on a walking stick. Heavy fur coat, reinforced boots and layered blankets convey the severe northern winter. His posture is stooped and his expression courteous but confused. Soft hearth light catches muted brown and ivory textures.",
+      "presentacion": "Veis a un enano tan anciano que hasta su barba blanca parece haberse vuelto escasa. Bajo las pieles y las mantas, sus manos nudosas buscan el apoyo de un bastón. Os saluda con una cortesía pausada, pero la mirada se le pierde antes de terminar la frase. Repite un nombre, calla y parece esperar que vuestra paciencia le devuelva el hilo.",
+      "caracter": "lento, formal y cortés; la edad le ha nublado la mente y su mirada vacía se confunde a veces con una calma imperturbable; repite nombres y fechas, se pierde a mitad de frase y agradece cualquier gesto de paciencia",
+      "quiere": "recordar dónde estuvo, mantener unida la villa y que Bremen sobreviva al invierno",
+      "sabe": "que ha desaparecido dos veces en dos meses y que lo encontraron vagando por las orillas del Shaengarne sin recordar cómo llegó; conoce a todos los vecinos y las viejas rencillas entre las tabernas; no sabe explicar qué le pasa",
+      "desafio": null
+    },
+    {
+      "slug": "grynsk-brocaberilo",
+      "nombre": "Grynsk Brocaberilo",
+      "papel": "dueño de los dos botes de remos y patrón de pesca; plebeyo enano escudo",
+      "ciudad": "bremen",
+      "aspecto_en": "Full body portrait of a short, stocky shield dwarf fishing patron, broad nose and long frost tangled beard beneath a grey hood. Thick patched winter clothing, heavy boots and rough fisherman’s hands suggest years on frozen docks. He grips a stiff mooring rope, scowling impatiently. Cold grey light, weathered wool and leather, guarded greedy expression.",
+      "presentacion": "Os llega primero el olor a pescado, sebo y cerveza. Bajo una capucha gris asoma una nariz ancha y una barba larga, endurecida por la escarcha. El enano golpea el suelo con las botas mientras os mide con impaciencia. Tiene las manos de quien conoce las cuerdas y los remos; cuando habláis, frunce el ceño como si cada palabra le costara dinero.",
+      "caracter": "codicioso, gruñón, testarudo y embustero; grita antes de escuchar, insulta en enano por lo bajo y cambia de tema cuando se le acorrala; no es valiente, pero tampoco se deja quitar lo suyo",
+      "quiere": "que le salga rentable la temporada, recuperar la tripulación perdida y que nadie le haga preguntas sobre el Cabra Puntiaguda",
+      "sabe": "que el monstruo atacó su bote y ahogó a su tripulación; que los pescadores que contrató no se presentaron; que Tali lo considera un desalmado; conoce los mejores caladeros y las rutas del lago",
+      "desafio": null
+    },
+    {
+      "slug": "tali",
+      "nombre": "Tali",
+      "papel": "investigador semielfo de la vida animal, explorador y patrono de la misión; neutral bueno",
+      "ciudad": "bremen",
+      "aspecto_en": "Full body portrait of an androgynous adult half elf researcher, slender build, pale skin, fine features and tied dark hair. A thick scarf and many pocketed travelling coat protect against the northern cold; fingerless gloves hold a worn notebook and charcoal. Attentive eyes and an eager, compassionate expression reveal scientific curiosity. Muted earth colours with soft wintry lighting.",
+      "presentacion": "Entre los abrigos gruesos distinguís una figura delgada, de rasgos finos, con el pelo oscuro recogido y una bufanda que casi le oculta la boca. Unos guantes sin dedos sujetan cuaderno y carboncillo. Os pide que uséis su nombre: Tali. Su voz es suave, pero al hablar del lago las preguntas se atropellan y la preocupación se mezcla con una curiosidad imposible de disimular.",
+      "caracter": "curioso, metódico y hablador; voz suave, frases que se van por las ramas y se pierden en detalles sobre la fauna del valle; se entusiasma con cada dato y se preocupa de verdad por la gente",
+      "quiere": "entender qué es el monstruo, por qué solo ataca barcos de Bremen y cómo proteger a los pescadores; dejar constancia de todo para la ciencia",
+      "sabe": "que solo los barcos de Bremen han sufrido ataques; que los testigos describen a la criatura de formas muy distintas, desde el tamaño de un buey hasta el de una casa; que el Cabra Puntiaguda apareció a la deriva y sin tripulación; que el monstruo es una amenaza reciente; que pocos han sobrevivido a un encuentro",
+      "desafio": null
+    },
+    {
+      "slug": "cora-mulphoon",
+      "nombre": "Cora Mulphoon",
+      "papel": "posadera de Los Tesoros Enterrados y madre de Huarwar; humana neutral buena",
+      "ciudad": "bremen",
+      "aspecto_en": "Full body portrait of a middle aged human innkeeper, brown hair pinned back, round tired face and red hands from washing dishes. A clean apron covers patched woollen winter clothing and practical boots. She dries her hands on the apron, offering an anxious, overly bright smile. Warm hearth light, worn fabric textures and a maternal yet exhausted expression.",
+      "presentacion": "Os recibe una mujer de cara redonda y pelo castaño recogido. El delantal está limpio, aunque la lana que asoma debajo muestra remiendos; sus manos, rojas de fregar, no dejan de moverse. Os ofrece una sonrisa demasiado amplia y se disculpa antes de que hayáis pedido nada. Cuando vuestra mirada alcanza el retrato de su hijo, la voz se le queda pequeña.",
+      "caracter": "ansiosa por complacer, hospitalaria y maternal; se disculpa por todo, baja la voz cuando habla de su hijo y cambia de tema si se siente juzgada; su pena es más fuerte que su miedo",
+      "quiere": "saber si Huarwar sigue vivo, recuperar a su hijo y mantener la posada abierta hasta que vuelva",
+      "sabe": "que Huarwar se unió a la búsqueda del Portavoz; que volvió con congelación y se volvió agresivo; que encontró un trozo de hielo negro en su habitación; que Huarwar se lo arrebató y la amenazó; que dos tiflin con amuletos parecidos se lo llevaron a un castillo; que solo hay dos castillos en las Diez Ciudades, Caer-Dineval y Caer-Konig",
+      "desafio": null
+    },
+    {
+      "slug": "huarwar-mulphoon",
+      "nombre": "Huarwar Mulphoon",
+      "papel": "hijo desaparecido de Cora, joven adulto congelado y cambiado; no está en Bremen durante esta sección",
+      "ciudad": "caer-dineval",
+      "aspecto_en": "Full body portrait of a young adult human man, strong build, emerging beard, frost pale skin and damaged fingers bearing cold weather marks. Worn winter clothes and heavy boots hang stiffly around him. He holds a small fragment of coal black ice close to his body. His expression is withdrawn and threatening, contrasting with the crooked smile remembered in his portrait.",
+      "presentacion": "En el retrato de la posada veis a un joven humano de complexión fuerte y barba incipiente, con una sonrisa torcida que parece guardar una broma. Cora habla de él y la estancia se vuelve más silenciosa. Os describe la piel pálida, los dedos marcados por la congelación y la voz seca con la que se despidió. Ahora solo tenéis su imagen y su ausencia.",
+      "caracter": "antes era un hijo trabajador y cariñoso; ahora, según Cora, se volvió agresivo, reservado y amenazador; su voz se describe como seca y distante",
+      "quiere": "conservar el trozo de hielo negro y marcharse con los tiflin; lo que quiera después depende de lo que le haya hecho el hielo",
+      "sabe": "dónde encontró el hielo negro, qué le ofrecieron los tiflin y por qué no piensa volver; no está presente para contarlo",
+      "desafio": null
+    },
+    {
+      "slug": "el-plesiosaurio-consciente",
+      "nombre": "El plesiosaurio consciente",
+      "papel": "monstruo del lago, víctima y verdugo; criatura despertada por Ravisin",
+      "ciudad": "bremen",
+      "aspecto_en": "Full body creature study of an awakened plesiosaur, slightly larger than a small rowing boat. A long slender neck carries a reptilian head with dark unblinking eyes and fine teeth. Broad flippers and wet dark scales catch flat grey winter light. Water drips from its body; its cautious, sorrowful expression suggests intelligence and fear rather than mindless aggression.",
+      "presentacion": "Veis deslizarse una sombra mayor que vuestra barca. Cuando emerge, el cuello parece no terminar nunca: escamas oscuras, gotas que caen y una cabeza reptiliana de ojos negros. Las aletas desplazan el agua con una lentitud inquietante. Os mira sin pestañear; después, una voz grave pronuncia palabras en común. En esa pausa cautelosa percibís algo que no esperabais de una bestia: miedo.",
+      "caracter": "grave, lento y cauteloso; habla en común con frases cortas y una tristeza contenida; no es cruel por naturaleza, pero tiene miedo y obedece por miedo; se enfurece si lo humillan",
+      "quiere": "seguir siendo inteligente, no volver a ser una bestia estúpida y librarse de la orden de Ravisin sin perder el don",
+      "sabe": "que Ravisin lo despertó y le ordenó sembrar el miedo entre los pescadores; que la Doncella de la Escarcha quiere que Bremen sufra; que prefiere comer peces; que no sabe dónde está Ravisin ni de dónde vino; no sabe que el despertar es permanente",
+      "desafio": "plesiosaurio-consciente"
+    },
+    {
+      "slug": "ravisin-la-druida-de-la-escarcha",
+      "nombre": "Ravisin, la druida de la escarcha",
+      "papel": "antagonista de fondo; no aparece en Bremen, pero su mano se nota en el lago",
+      "ciudad": "lonelywood",
+      "aspecto_en": "Full body portrait of a frost druid serving the Frostmaiden, wrapped in heavy northern winter layers and a frost rimmed hood. Weathered wool, pale fur trim and dark leather evoke a life among snow covered forests. A patient, bitter expression and a rigid posture suggest contained cruelty. Cold blue light and subdued grey tones emphasize her wintry presence.",
+      "presentacion": "No veis a Ravisin en Bremen. Oís su nombre en la voz grave de una criatura que teme perder el pensamiento, y notáis cómo esa amenaza pesa sobre cada palabra. El agua negra rodea vuestro bote; bajo el frío y los crujidos del casco, el relato os descubre una voluntad lejana que ha convertido el miedo de una bestia en el sufrimiento de una villa.",
+      "caracter": "rencorosa, paciente y cruel; culpa a la gente de las Diez Ciudades de una pérdida personal y usa a las bestias como espías y verdugos",
+      "quiere": "que Bremen sufra, que los pescadores abandonen el lago y que el bosque se libre de leñadores; castigar a las Diez Ciudades",
+      "sabe": "cómo despertar bestias con magia druídica; que el plesiosaurio tiene escrúpulos; dónde se esconde; los Héroes no lo saben todavía",
+      "desafio": null
+    }
+  ],
+  "desafios": [
+    {
+      "slug": "plesiosaurio-consciente",
+      "nombre": "Plesiosaurio consciente",
+      "nivel": 2,
+      "poderio": [],
+      "roles": [
+        "Adversario",
+        "Merodeador",
+        "Bruto"
+      ],
+      "aspecto_en": "Full body creature study of an awakened plesiosaur, slightly larger than a small rowing boat. A long slender neck carries a reptilian head with dark unblinking eyes and fine teeth. Broad flippers and wet dark scales catch flat grey winter light. Water drips from its body; its cautious, sorrowful expression suggests intelligence and fear rather than mindless aggression.",
+      "descripcion": "Criatura despertada por Ravisin que habla común y ataca los botes de Bremen por miedo a perder su inteligencia. No desea matar por hambre y estudia a sus víctimas antes de actuar.",
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 4,
+          "consecuencia": "Al llegar a herido-2 se retira y se sumerge; al alcanzar 4 queda fuera de combate."
+        },
+        {
+          "nombre": "convencido",
+          "valor": 3,
+          "consecuencia": "Promete dejar de atacar si acepta que su don es permanente."
+        },
+        {
+          "nombre": "encolerizado",
+          "valor": 3,
+          "consecuencia": "Pierde la calma e intenta volcar la barca."
+        }
+      ],
+      "etiquetas": [
+        "reptiliano",
+        "cuello largo",
+        "acuático",
+        "consciente",
+        "descomunal bajo el agua",
+        "mordida poderosa",
+        "tácticas de emboscada",
+        "sumergido-2",
+        "oculto-2",
+        "encolerizado-2",
+        "herido-1",
+        "herido-2",
+        "herido-3",
+        "asustado-2"
+      ],
+      "rasgos": [
+        {
+          "nombre": "Retirada temprana",
+          "descripcion": "Se retira y se sumerge al alcanzar herido-2."
+        }
+      ],
+      "amenazas": [
+        {
+          "nombre": "Embestir el bote desde abajo",
+          "descripcion": "el casco se abre ([bote dañado]); quien esté de pie queda [derribado-1]; si el golpe es seco, alguien cae al agua ([empapado-2], [helado-2]).",
+          "consecuencias": [
+            "Aplica [bote dañado]",
+            "Aplica [derribado-1]",
+            "Aplica [empapado-2]",
+            "Aplica [helado-2]"
+          ]
+        },
+        {
+          "nombre": "Morder el casco",
+          "descripcion": "[vía de agua] y [bote hundiéndose-2]; si alguien se asoma, queda [preso-2] o pierde una etiqueta de mochila; los aparejos y las capturas se pierden.",
+          "consecuencias": [
+            "Aplica [vía de agua]",
+            "Aplica [bote hundiéndose-2]",
+            "Aplica [preso-2]"
+          ]
+        },
+        {
+          "nombre": "Volcar la barca",
+          "descripcion": "todos al agua ([empapado-2], [helado-3]); se pierde una etiqueta de mochila; si el grupo se separa, [perdido-1].",
+          "consecuencias": [
+            "Aplica [empapado-2]",
+            "Aplica [helado-3]",
+            "Aplica [perdido-1]"
+          ]
+        },
+        {
+          "nombre": "Acechar bajo la superficie",
+          "descripcion": "[oculto-3]; el siguiente ataque llega sin aviso; quien no sepa qué es queda [asustado-2].",
+          "consecuencias": [
+            "Aplica [oculto-3]",
+            "Aplica [asustado-2]"
+          ]
+        },
+        {
+          "nombre": "Hablar y tentar",
+          "descripcion": "ofrece dejar pasar a cambio de pescado ([confundido-1]); si lo amenazan o se burlan, pasa a [encolerizado-2] e intenta volcar el bote.",
+          "consecuencias": [
+            "Aplica [confundido-1]",
+            "Aplica [encolerizado-2]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y vías de resolución",
+          "descripcion": "prefiere los peces a las personas; no ataca de forma indiscriminada y estudia primero a la tripulación; si se le convence de que el despertar es permanente, promete no atacar más botes de Bremen; si se lo hiere gravemente, huye y se sumerge; teme a Ravisin y a perder el don; se le puede distraer con pescado, con una voz firme o con una muestra de respeto."
+        }
+      ]
+    },
+    {
+      "slug": "aguas-peligrosas-de-maer-dualdon",
+      "nombre": "Aguas peligrosas de Maer Dualdon",
+      "nivel": 2,
+      "poderio": [],
+      "roles": [
+        "Obstáculo",
+        "Peligro"
+      ],
+      "aspecto_en": "Wide environmental study of dangerous frozen Maer Dualdon: jagged floating ice, black channels of water, low fog and wind driven snow around a fragile empty timber rowing boat. Frost coats the gunwales and a cracked plank admits dark water. Cold pewter and deep blue palette, dim winter lighting, no people, strong impression of exposure and treacherous currents.",
+      "descripcion": "El lago combina bloques flotantes, corrientes frías y agua helada. Un error de navegación puede abrir el casco y convertir el frío en un peligro inmediato.",
+      "limites": [
+        {
+          "nombre": "bote hundido",
+          "valor": 3,
+          "consecuencia": "El bote se hunde."
+        },
+        {
+          "nombre": "helado",
+          "valor": 4,
+          "consecuencia": "El Héroe queda vencido por el frío; se aplica por Héroe."
+        },
+        {
+          "nombre": "perdido",
+          "valor": 3,
+          "consecuencia": "Pierden el rumbo en el lago."
+        }
+      ],
+      "etiquetas": [
+        "bloques de hielo",
+        "agua negra",
+        "viento gélido",
+        "niebla",
+        "corriente fría",
+        "casco de madera",
+        "empapado-2",
+        "helado-1",
+        "helado-2",
+        "helado-3",
+        "perdido-2",
+        "agotado-2",
+        "derribado-1"
+      ],
+      "rasgos": [
+        {
+          "nombre": "Frío persistente",
+          "descripcion": "El frío del agua no desaparece hasta secarse o cambiarse por ropa cálida."
+        }
+      ],
+      "amenazas": [
+        {
+          "nombre": "Bloque de hielo en la proa",
+          "descripcion": "golpe seco y [bote dañado]; si insisten, [vía de agua]; quien esté de pie queda [derribado-1].",
+          "consecuencias": [
+            "Aplica [bote dañado]",
+            "Aplica [vía de agua]",
+            "Aplica [derribado-1]"
+          ]
+        },
+        {
+          "nombre": "Caer al agua",
+          "descripcion": "[empapado-2] y [helado-3]; el frío persiste hasta secarse o cambiarse de ropa; si nadie ayuda, [hundiéndose-2].",
+          "consecuencias": [
+            "Aplica [empapado-2]",
+            "Aplica [helado-3]",
+            "Aplica [hundiéndose-2]"
+          ]
+        },
+        {
+          "nombre": "Ventisca repentina",
+          "descripcion": "[perdido-2] y [vendaval]; [helado-1] a cada Héroe; remar y pescar se vuelven acciones difíciles.",
+          "consecuencias": [
+            "Aplica [perdido-2]",
+            "Aplica [vendaval]",
+            "Aplica [helado-1]"
+          ]
+        },
+        {
+          "nombre": "Hielo fino cerca de la orilla",
+          "descripcion": "[empapado-2]; el bote queda [atrapado] y se pierde tiempo; si cruzan a pie, [helado-2].",
+          "consecuencias": [
+            "Aplica [empapado-2]",
+            "Aplica [atrapado]",
+            "Aplica [helado-2]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y vías de resolución",
+          "descripcion": "fuego, ropa seca, refugio y una buena Compañía; los botes robustos aguantan mejor que el Cabra Puntiaguda; seguir la costa y pescar para distraerse reduce el riesgo; un descanso en el campamento junto al fuego permite reducir [helado-X] y [agotado-X]."
+        }
+      ]
+    },
+    {
+      "slug": "ventisca-de-auril",
+      "nombre": "Ventisca de Auril",
+      "nivel": 2,
+      "poderio": [
+        {
+          "nivel": "greatness",
+          "aspecto": "Frío sobrenatural del invierno sin fin de Auril"
+        }
+      ],
+      "roles": [
+        "Peligro"
+      ],
+      "aspecto_en": "Environmental study of a supernatural northern blizzard. Horizontal sheets of snow erase a frozen lakeshore, buried tracks vanish into white darkness and ice crusts a deserted wooden rowing boat. Pale blue shadows and deep charcoal sky create an oppressive endless night. No people are visible; swirling snow and frost covered timber convey cutting wind, exhaustion and total loss of direction.",
+      "descripcion": "Peligro opcional del invierno sin fin de Auril, con Poderío de Grandeza. La nieve horizontal borra los caminos y el frío impide recuperar fuerzas.",
+      "limites": [
+        {
+          "nombre": "helado",
+          "valor": 4,
+          "consecuencia": "El Héroe queda vencido por el frío; se aplica por Héroe."
+        },
+        {
+          "nombre": "perdido",
+          "valor": 3,
+          "consecuencia": "El grupo pierde el camino y puede llegar a otra orilla."
+        },
+        {
+          "nombre": "agotado",
+          "valor": 3,
+          "consecuencia": "El cansancio impide continuar sin descanso."
+        }
+      ],
+      "etiquetas": [
+        "viento cortante",
+        "nieve horizontal",
+        "visibilidad nula",
+        "frío de Auril",
+        "noche interminable",
+        "helado-1",
+        "helado-2",
+        "helado-3",
+        "perdido-2",
+        "agotado-2",
+        "asustado-2"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "La ventisca borra el camino",
+          "descripcion": "[perdido-3] y [rastro borrado]; el grupo puede acabar en una orilla equivocada.",
+          "consecuencias": [
+            "Aplica [perdido-3]",
+            "Aplica [rastro borrado]"
+          ]
+        },
+        {
+          "nombre": "El frío se mete en la ropa",
+          "descripcion": "[helado-1] a cada Héroe; [empapado-2] si además cae al agua; sin refugio, [helado-3].",
+          "consecuencias": [
+            "Aplica [helado-1]",
+            "Aplica [empapado-2]",
+            "Aplica [helado-3]"
+          ]
+        },
+        {
+          "nombre": "La noche no termina",
+          "descripcion": "[agotado-2]; nadie recupera el aliento; las antorchas se apagan y la Compañía pierde el rumbo.",
+          "consecuencias": [
+            "Aplica [agotado-2]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y vías de resolución",
+          "descripcion": "un refugio, una hoguera, ropa seca y turnos de guardia; la ventisca amaina si el grupo encuentra una cabaña, una cueva o la posada; los Héroes pueden convertir la espera en un descanso en el campamento si se organizan."
+        }
+      ]
+    },
+    {
+      "slug": "trucha-de-cabeza-de-jarrete",
+      "nombre": "Trucha de cabeza de jarrete",
+      "nivel": 1,
+      "poderio": [],
+      "roles": [
+        "Merodeador"
+      ],
+      "aspecto_en": "Full body natural history study of a large knucklehead trout, muscular silver grey body, prominent head, fine teeth and glistening slippery scales. Its tail curves in a forceful leap, with droplets suspended around the fins. Cold lake light gives the skin a blue sheen. Show the entire fish clearly against a restrained background, lively and aggressive rather than monstrous.",
+      "descripcion": "Pez grande y agresivo de Maer Dualdon que puede golpear a quien lo pesca. Es alimento y una complicación de la travesía.",
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 2,
+          "consecuencia": "La trucha queda abatida."
+        },
+        {
+          "nombre": "escurridiza",
+          "valor": 2,
+          "consecuencia": "Escapa y se pierde la captura."
+        }
+      ],
+      "etiquetas": [
+        "saltarina",
+        "resbaladiza",
+        "dientes finos",
+        "carne sabrosa",
+        "fría",
+        "fuera del agua-2",
+        "derribado-1"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Coletazo al saltar",
+          "descripcion": "[derribado-1] o [empapado-1] para un Héroe; si lleva algo en las manos, puede perderlo.",
+          "consecuencias": [
+            "Aplica [derribado-1]",
+            "Aplica [empapado-1]"
+          ]
+        },
+        {
+          "nombre": "Salto y zambullida",
+          "descripcion": "[captura perdida]; el pez desaparece y deja ondas.",
+          "consecuencias": [
+            "Aplica [captura perdida]"
+          ]
+        },
+        {
+          "nombre": "Morder el anzuelo",
+          "descripcion": "si la atrapan, se convierte en [trucha de cabeza de jarrete], comida para el grupo.",
+          "consecuencias": [
+            "Aplica [trucha de cabeza de jarrete]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y vías de resolución",
+          "descripcion": "se pesca con [pesca] o [paciencia]; no es un monstruo, solo un pez grande; una red o un golpe rápido la inmovilizan; su carne quita [hambriento-X] si se cocina."
+        }
+      ]
+    },
+    {
+      "slug": "pescadores-rivales",
+      "nombre": "Pescadores rivales",
+      "nivel": 1,
+      "poderio": [],
+      "roles": [
+        "Adversario",
+        "Obstáculo"
+      ],
+      "aspecto_en": "Full body group portrait of wary northern lake fishers in thick winter coats, patched wool, fur lined hoods, sturdy boots and gloves. Their weathered faces and firm stances express territorial suspicion and restrained mockery. Oars, nets and practical fishing equipment identify their work. Muted brown leather, cold grey daylight and frost dusted clothing convey years of hardship on the lake.",
+      "descripcion": "Encuentro opcional con 1d4 pescadores de Bosque Solitario o Termalaine, o 1d6 pescadores y un capitán de Targos. Los primeros son recelosos; los de Targos no creen en el monstruo y presionan para expulsar a los Héroes del caladero.",
+      "limites": [
+        {
+          "nombre": "calmados",
+          "valor": 3,
+          "consecuencia": "Cesan las provocaciones y aceptan el trato."
+        },
+        {
+          "nombre": "hostiles",
+          "valor": 3,
+          "consecuencia": "La disputa puede desembocar en una pelea en el lago."
+        }
+      ],
+      "etiquetas": [
+        "recelosos",
+        "burlones",
+        "territoriales",
+        "curtidos por el frío",
+        "bien equipados",
+        "enfadado-2",
+        "humillado-2",
+        "dispuesto a pelear-3"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Presionar para que se marchen",
+          "descripcion": "[expulsados] del caladero o [desprestigio] si los Héroes pierden los nervios.",
+          "consecuencias": [
+            "Aplica [expulsados]",
+            "Aplica [desprestigio]"
+          ]
+        },
+        {
+          "nombre": "Burlarse del monstruo",
+          "descripcion": "[provocado-2]; si el grupo responde con violencia, [pelea en el lago] y [bote dañado].",
+          "consecuencias": [
+            "Aplica [provocado-2]",
+            "Aplica [pelea en el lago]",
+            "Aplica [bote dañado]"
+          ]
+        },
+        {
+          "nombre": "Humillar a los forasteros",
+          "descripcion": "[rencor de Targos] o [rencor de Termalaine]; los pescadores hablarán mal de los Héroes en su villa.",
+          "consecuencias": [
+            "Aplica [rencor de Targos]",
+            "Aplica [rencor de Termalaine]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y vías de resolución",
+          "descripcion": "no quieren pelear de verdad; respetan a quien pesca bien y conoce el lago; una ronda de pescado, una historia bien contada o una muestra de respeto los calma; el capitán de Targos se ablanda si le demuestran que el monstruo es real."
+        }
+      ]
+    }
+  ],
+  "objetos": [
+    {
+      "slug": "cuaderno-de-tali",
+      "nombre": "Cuaderno de Tali",
+      "etiqueta": "cuaderno de Tali",
+      "descripcion": "cuaderno de tapas gastadas, con hojas en blanco y una lista de preguntas sobre tamaño, atributos físicos y naturaleza de la criatura. Etiqueta de mochila o documento para los jugadores. Es la herramienta para tomar notas; si se llena, se convierte en [notas del monstruo].",
+      "imagen_en": "A worn field notebook with weathered covers, blank cream pages and a charcoal pencil tucked into the binding. Isolated object on a neutral background, soft cold light, no readable writing."
+    },
+    {
+      "slug": "notas-del-monstruo",
+      "nombre": "Notas del monstruo",
+      "etiqueta": "notas del monstruo",
+      "descripcion": "cuaderno con dibujos, medidas y observaciones del plesiosaurio. Etiqueta de historia o documento. Entregarlo a Tali desbloquea la recompensa; si se pierde o se moja, Tali no puede usarlo.",
+      "imagen_en": "A weathered field notebook opened to rough reptile sketches, measurement marks and observational diagrams. Slightly damp paper edges, charcoal smudges, isolated on a neutral background, no legible text."
+    },
+    {
+      "slug": "pergamino-de-amistad-animal",
+      "nombre": "Pergamino de amistad animal",
+      "etiqueta": "pergamino de amistad animal",
+      "descripcion": "pergamino enrollado y sellado con un cordel verde; etiqueta de mochila, un uso. Permite calmar o ganar como aliado a un animal pequeño o mediano durante una escena; no convence al plesiosaurio si este ya desconfía, porque su conciencia es obra de otra magia.",
+      "imagen_en": "A rolled parchment scroll bound with green cord, simple sealed fold and softly worn edges. Isolated magical travel object on a neutral background, warm parchment tones, no visible lettering."
+    },
+    {
+      "slug": "bolsa-de-tali",
+      "nombre": "Bolsa de Tali",
+      "etiqueta": "bolsa de Tali",
+      "descripcion": "bolsa de viaje con provisiones, aceite y calderilla suficiente para unos días; etiqueta de mochila. Es la recompensa material de Tali, además de su favor.",
+      "imagen_en": "A practical travelling bag containing wrapped provisions, a small oil flask and a few humble coins. Worn leather and coarse cloth, isolated on a neutral background, realistic winter expedition equipment."
+    },
+    {
+      "slug": "bote-carnero-robusto",
+      "nombre": "Bote Carnero Robusto",
+      "etiqueta": "bote Carnero Robusto",
+      "descripcion": "bote de remos sano, de madera gruesa, con dos remos y tres aparejos de pesca; etiqueta de historia o de mochila. Aguanta bien los golpes y no hace agua; sirve para cuatro personas y su equipo.",
+      "imagen_en": "A sturdy thick timber rowing boat with two wooden oars and three sets of fishing tackle. Entire vessel isolated against a neutral background, sound planking and practical weathered construction."
+    },
+    {
+      "slug": "bote-cabra-puntiaguda",
+      "nombre": "Bote Cabra Puntiaguda",
+      "etiqueta": "bote Cabra Puntiaguda",
+      "descripcion": "bote de remos con una marca de mordisco en el casco; etiqueta de historia o de mochila. Está [dañado]: hace agua si se fuerza, y una embestida o un bloque de hielo pueden hundirlo. Necesita reparación antes de un viaje largo.",
+      "imagen_en": "A weathered wooden rowing boat with a jagged bite mark torn from its hull and damaged planking. Entire boat isolated against a neutral background, frost edged timber, no people."
+    },
+    {
+      "slug": "aparejos-de-pesca",
+      "nombre": "Aparejos de pesca",
+      "etiqueta": "aparejos de pesca",
+      "descripcion": "tres juegos por bote, con sedal, anzuelos y plomos; etiqueta de mochila. Permiten pescar truchas y distraerse durante la travesía; sin ellos, la pesca es improvisada y más difícil.",
+      "imagen_en": "Three sets of simple northern fishing tackle, each with coiled line, metal hooks and lead weights. Isolated equipment arranged on a neutral background, practical worn materials, realistic scale."
+    },
+    {
+      "slug": "trozo-de-hielo-negro",
+      "nombre": "Trozo de hielo negro",
+      "etiqueta": "trozo de hielo negro",
+      "descripcion": "fragmento de hielo oscuro como el carbón, frío incluso a través de los guantes; etiqueta de historia o de mochila. Es la pista que explica el cambio de Huarwar y los amuletos de los tiflin. Quien lo lleva mucho tiempo siente susurros y sueños de nieve; el Narrador puede crear [hielo negro] como etiqueta de escena o [corrupto-1] si se abuse de él.",
+      "imagen_en": "A coal black shard of ice held visually apart from all surroundings, sharp uneven edges and a chilling glassy sheen. Isolated on a neutral background, faint frost crystals, no lettering."
+    },
+    {
+      "slug": "amuleto-tiflin",
+      "nombre": "Amuleto tiflin",
+      "etiqueta": "amuleto tiflin",
+      "descripcion": "amuleto de metal oscuro con una piedra de hielo negro engastada; etiqueta de historia. Lo llevaban los dos tiflin que se llevaron a Huarwar; sirve para reconocerlos o para seguir su rastro hasta Caer-Dineval.",
+      "imagen_en": "A dark metal pendant set with a small coal black ice stone, suspended from a plain cord. Isolated object on a neutral background, cold highlights, ominous restrained northern fantasy design."
+    },
+    {
+      "slug": "mapa-de-bremen",
+      "nombre": "Mapa de Bremen",
+      "etiqueta": "mapa de Bremen",
+      "descripcion": "mapa dibujado a mano con el muelle, la posada, las cinco tabernas, el río Shaengarne y el lago; etiqueta de historia o documento para los jugadores. Ayuda a orientarse en la villa y a planificar la salida al lago.",
+      "imagen_en": "A hand drawn village map showing a dock, inn, five taverns, winding river and broad lake. Worn paper, simple ink lines, isolated object, no readable text or invented landmarks."
+    },
+    {
+      "slug": "heraldica-de-bremen",
+      "nombre": "Heráldica de Bremen",
+      "etiqueta": "heráldica de Bremen",
+      "descripcion": "un círculo dorado sobre campo blanco, una banda azul horizontal hacia la izquierda y un triángulo azul claro hacia la derecha; etiqueta de historia. El círculo representa los tesoros hallados en el río, la banda es el Shaengarne, el triángulo es Maer Dualdon y el blanco es la nieve. Sirve para decorar una escena o identificar un edificio oficial.",
+      "imagen_en": "A heraldic emblem on white ground: a golden circle, a horizontal blue band extending left and a pale blue triangle extending right. Isolated painted plaque, weathered surface, no lettering."
+    },
+    {
+      "slug": "paga-de-grynsk",
+      "nombre": "Paga de Grynsk",
+      "etiqueta": "paga de Grynsk",
+      "descripcion": "calderilla y unas monedas de escaso valor, más un favor menor si el grupo le ha salvado la temporada; etiqueta de mochila. No es una fortuna, pero cubre comida y alojamiento unos días.",
+      "imagen_en": "A modest handful of low value coins in a simple cloth purse, enough for basic meals and lodging. Isolated object on a neutral background, worn metal and rough fabric."
+    },
+    {
+      "slug": "favor-de-tali",
+      "nombre": "Favor de Tali",
+      "etiqueta": "favor de Tali",
+      "descripcion": "etiqueta de historia o de Compañía. Tali queda en deuda con los Héroes y puede compartir sus contactos, sus notas o su ayuda en futuras investigaciones del valle.",
+      "imagen_en": "A symbolic still life of a worn researcher notebook and charcoal resting beside a travel bag, representing gratitude and future assistance. Isolated on a neutral background, no text."
+    },
+    {
+      "slug": "confianza-de-cora",
+      "nombre": "Confianza de Cora",
+      "etiqueta": "confianza de Cora",
+      "descripcion": "etiqueta de historia. Cora ofrece cobijo, sopa caliente y todo lo que sabe sobre Huarwar; si se pierde, la posada se cierra a los Héroes.",
+      "imagen_en": "A symbolic still life of a steaming bowl of fish soup beside a folded wool blanket, representing an innkeeper’s trust and shelter. Isolated on a neutral background, warm light."
+    }
+  ],
+  "ayudas": [
+    {
+      "slug": "cuaderno-de-tali-preguntas",
+      "titulo": "Cuaderno de Tali",
+      "tipo": "libro",
+      "texto": "Observaciones sobre la criatura de Maer Dualdon\n\n¿Qué tamaño tiene?\n¿Qué atributos físicos presenta?\n¿Cuál es su naturaleza?\n¿Cómo se comporta?\n¿Por qué solo ataca a los barcos de Bremen?\n\nDibujos, medidas y observaciones:\n",
+      "fondo_en": "Blank worn cream paper with softly frayed edges, subtle water stains and faint fold marks, laid flat under soft light. Empty writing area, no text, no symbols, no drawings."
+    },
+    {
+      "slug": "mapa-de-bremen",
+      "titulo": "Mapa de Bremen",
+      "tipo": "mapa",
+      "texto": "Bremen\n\nEn la orilla occidental de Maer Dualdon desemboca el río Shaengarne. Allí se encuentran los muelles.\nLos Tesoros Enterrados es la posada de la villa, en una calle lateral.\nEn el centro se reúnen cinco tabernas: Las Piedras, La Quilla Plana, La Boca del Río, El Alce Gruñón y El Hermano de Barbas Negras.",
+      "fondo_en": "Blank worn cream paper with softly frayed edges, subtle water stains and faint fold marks, laid flat under soft light. Empty writing area, no text, no symbols, no drawings."
+    },
+    {
+      "slug": "heraldica-de-bremen",
+      "titulo": "Heráldica de Bremen",
+      "tipo": "cartel",
+      "texto": "Bremen\n\nSobre campo blanco, un círculo dorado; una banda azul horizontal hacia la izquierda y un triángulo azul claro hacia la derecha.\nEl círculo representa los tesoros hallados en el río; la banda, el Shaengarne; el triángulo, Maer Dualdon; el blanco, la nieve.",
+      "fondo_en": "An empty weathered wooden heraldic display board with a simple carved border and a pale prepared surface. Isolated frontal view, frost on the edges, no lettering, no symbols or painted design."
+    }
+  ],
+  "hitos": [
+    "El monstruo que hablaba: descubrir que el plesiosaurio es consciente.",
+    "La verdad de Ravisin: obtener el nombre de la druida y su relación con Auril.",
+    "Un pueblo que respira: devolver la pesca a Bremen.",
+    "El hijo perdido: encontrar la pista de Huarwar y prometer a Cora que lo buscarán."
+  ],
+  "relojes": []
+}

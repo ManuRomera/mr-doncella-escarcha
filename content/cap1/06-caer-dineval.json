@@ -1,0 +1,1456 @@
+{
+  "seccion": "06-caer-dineval",
+  "titulo": "Caer-Dineval",
+  "escenas": [
+    {
+      "slug": "llegada-a-caer-dineval",
+      "nombre": "Llegada a Caer-Dineval",
+      "ciudad": "caer-dineval",
+      "interior": false,
+      "imagen_en": "A wide establishing view of a steep fishing village perched above the frozen Lac Dinneshere. Snow weighs down stone and timber roofs, nets hang beside icy rocky piers, and a four-towered fortress crowns the cliff. Kelvin’s summit rises beyond. Sparse chimney smoke, blue winter light, slate grey water and pale snow. No people or creatures; leave the lower third open.",
+      "lectura": "El camino desciende hacia un pueblo apretado contra la roca. Abajo, el lago es una plancha de acero bajo la nieve y los muelles parecen huesos clavados en la orilla. Sobre vosotros, una fortaleza pequeña corona el acantilado: cuatro torres, almenas heladas y estandartes que el viento ha deshilachado. Nadie sale a recibiros. Una mujer carga un cubo de agua humeante; un niño espía desde una puerta entreabierta. En el aire hay olor a pescado, a turba y a algo más: la quietud de un lugar que lleva demasiado tiempo aguantando la respiración.",
+      "notas": "el pueblo está furioso por la supresión del ferry, la falta de hidromiel y el puerto congelado; Los vecinos creen que Crannoc Siever está enfermo y que no presiona al Consejo de Portavoces. Nadie menciona al culto abiertamente, pero casi todos saben que en el Caer pasa algo; Si los Héroes preguntan por alojamiento, los remiten a La Subida; si preguntan por el portavoz, reciben evasivas y miradas hacia el castillo. La milicia local puede reunir hasta veinticinco guerreros y dos veteranos, pero no se moverá sin el portavoz; Los viajes a pie marcan diez horas y media a Bryn Shander, dos a Caer-Konig, nueve a Puerto Este y ocho a Buenaguamiel; monturas y trineos con perros reducen el tiempo hasta la mitad. El pueblo tiene cien habitantes, dos copos de amabilidad, uno de servicios y uno de comodidad; ganarse a los vecinos es una acción social con [persuasión], [empatía] o [trato local]; éxito: [rumor del Caer] y [desconfianza vencida]; fallo: [murmuraciones] y nadie les vende provisiones; Observar el castillo desde el pueblo es una acción con [observador] o [vigilancia]; éxito: [rutina de los sectarios], [guardia de la puerta]; fallo: [falsa sensación de calma].",
+      "musica": "pueblo",
+      "motivos": [
+        "misterio"
+      ],
+      "efectos": [
+        "viento",
+        "hielo-cruje",
+        "perros"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "pueblo en pendiente",
+        "lago helado",
+        "ferry suspendido",
+        "tabernas secas",
+        "secreto a voces",
+        "helado-1"
+      ],
+      "figuras": [
+        "invierno-caer-dineval"
+      ]
+    },
+    {
+      "slug": "la-subida",
+      "nombre": "La Subida",
+      "ciudad": "caer-dineval",
+      "interior": true,
+      "imagen_en": "A wide interior view of a modest lakeside tavern with dark wooden beams, worn tables, a stone fireplace and a steaming soup pot. Empty bottle shelves stand beside windows overlooking frozen piers and a snowbound lake. Dim amber firelight contrasts with cold blue glass and snow banked outside the door. No people or creatures; leave the lower third open.",
+      "lectura": "El calor de la taberna os recibe como una bofetada agradable. Huele a pescado hervido y a leña húmeda. Hay más sillas vacías que clientes. El dueño, un hombre de mediana edad con delantal remendado, levanta la vista de la olla y sonríe sin ganas. «Sopa hay. Cerveza no. Hidromiel tampoco. Desde que cortaron el ferry, aquí solo llega lo que uno mismo puede cargar.» Señala con la cuchara hacia las ventanas, donde el lago es una llanura blanca. «Si buscáis cama, probad en el Caer. Aunque os aviso: últimamente allí nadie tiene buena cara.»",
+      "notas": "Roark sirve sopa caliente y niega tener habitaciones libres, aunque las tiene. Culpa al invierno y al cierre del ferry; Sabe que algo va mal en el castillo, igual que algunos parroquianos, pero evita hablar del tema: prefiere que los forasteros suban y lo descubran por sí mismos. Si se le presiona con suavidad, admite que los sirvientes del portavoz no bajan al pueblo, que los guardias han cambiado y que hay caras nuevas en el Caer; No sabe nada de Levistus ni de los duergar. tantear a Roark es una acción social con [empatía], [tabernero] o [paciencia]; éxito: [habitación negada], [rumor del castillo] y una sopa que quita [helado-1]; fallo: [silencio de Roark] y [mirada de advertencia]; Forzar la puerta de una habitación es una acción con [sigilo] o [cerrajería]; éxito: [cama prestada] y [favor pendiente]; fallo: [Roark ofendido] y [deuda con el tabernero].",
+      "musica": "taberna",
+      "motivos": [
+        "misterio"
+      ],
+      "efectos": [
+        "hogar",
+        "taberna-sfx",
+        "viento"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "taberna tibia",
+        "sopa caliente",
+        "estantería vacía",
+        "rumor del Caer",
+        "desconfianza"
+      ],
+      "figuras": [
+        "roark"
+      ]
+    },
+    {
+      "slug": "el-descanso-de-dinev",
+      "nombre": "El Descanso de Dinev",
+      "ciudad": "caer-dineval",
+      "interior": false,
+      "imagen_en": "A wide exterior view of an abandoned two-storey inn at the southern edge of a snowy village. Boarded windows, peeling paint and a crooked sign depicting a young dragon face the winter wind. Deep recent bootprints lead towards a basement window. Muted grey wood, rusty fittings and cold blue snow under overcast light. No people or creatures; leave the lower third open.",
+      "lectura": "La posada está muerta. Las ventanas tienen tablones y el cartel del dragón cuelga de un solo clavo, girando con el viento. La nieve se amontona contra la puerta como si hiciera años que nadie la abre. Pero hay huellas. Van y vienen alrededor del edificio, demasiado profundas para ser de un animal, y desaparecen junto a una ventana del sótano. Al acercaros, oís un golpe metálico, seco, repetido. Alguien está dentro.",
+      "notas": "la posada lleva casi un año cerrada. Seis duergar se esconden en su interior y no saldrán hasta que el dragón de chardalyn de Xardorok ataque el pueblo; Patrullan de noche, vigilan el camino y evitan dejar rastro; si descubren que los Héroes los han visto, intentan eliminarlos en silencio o huir hacia las afueras. Un registro del sótano revela mantas, provisiones enanas, herramientas de minero y un plano tosco del Caer y del puerto; No conocen los planes completos de Xardorok, pero saben que hay una fortaleza en la Columna del Mundo y que el ataque llegará desde el aire. acercarse sin ser notado es una acción con [sigilo], [nieve] o [distracción]; éxito: [duergar confiados] y [ventana del sótano]; fallo: [guardia duergar] y [alarma en la posada]; Interrogar a un duergar capturado es una acción social con [intimidación], [enano] o [astucia]; éxito: [nombre de Xardorok], [fortaleza en la Columna del Mundo]; fallo: [fanatismo duergar] y [silencio obstinado].",
+      "musica": "noche",
+      "motivos": [
+        "sigilo",
+        "amenaza"
+      ],
+      "efectos": [
+        "viento",
+        "pasos"
+      ],
+      "ambiente": "dark",
+      "etiquetas": [
+        "posada abandonada",
+        "huellas recientes",
+        "sótano helado",
+        "olor a metal",
+        "duergar ocultos",
+        "helado-1"
+      ],
+      "figuras": [
+        "duergar-descanso-dinev"
+      ]
+    },
+    {
+      "slug": "el-caer-murallas-y-patio",
+      "nombre": "El Caer: murallas y patio",
+      "ciudad": "caer-dineval",
+      "interior": false,
+      "imagen_en": "A wide view into a stark stone fortress courtyard above a frozen cliff. Four cylindrical towers carry conical roofs and ragged banners; iron portcullises and heavy timber gates guard the entrance. Bootprints cross snow towards a tall double door. Icy stairs, a wooden shed and two ruined market awnings frame burning torches. No people or creatures; leave the lower third open.",
+      "lectura": "El castillo no tiene nada de acogedor. Es un puño de piedra cerrado sobre la cima del acantilado. Los rastrillos de hierro están bajados y las puertas de madera, cerradas. Cuatro torres montan guardia con banderas que el viento ha convertido en jirones. Al pie de las murallas, la nieve está pisoteada por botas que van y vienen, pero no hay nadie a la vista. Las antorchas arden en las almenas y el humo sube recto. Cuando llamáis, una voz responde desde dentro, ronca y aburrida: «El portavoz está demasiado enfermo para recibir a nadie.»",
+      "notas": "los guardias niegan la entrada con la excusa de la enfermedad de Crannoc; si los Héroes dicen ser sanadores, replican que el portavoz no necesita «rituales paganos»; Se puede entrar escalando con equipo o magia, disfrazándose con amuletos y ropas de sectarios emboscados, o con un encantamiento que convenza a un guardia. Una vez dentro, las puertas interiores no están cerradas salvo que se indique; La alarma se transmite a gritos: acuden doce sectarios de las torres y los dos fanáticos de la puerta. Las saeteras dan tres cuartos de cobertura; las escaleras heladas de los extremos del patio suben a las murallas sin vigilancia; escalar las murallas es una acción con [escalada], [agilidad] o [magia]; éxito: [patio alcanzado]; fallo: [visto por los guardias] y [alarma]. Engañar a la puerta es una acción social con [engaño], [disfraz de sectario] o [autoridad falsa]; éxito: [puerta entreabierta]; fallo: [guardia suspicaz] y [rastrillos bajados]; Forzar la puerta requiere [ariete] o [magia de apertura]; si no, [puerta sellada].",
+      "musica": "culto",
+      "motivos": [
+        "tension",
+        "sigilo"
+      ],
+      "efectos": [
+        "viento",
+        "puerta",
+        "pasos"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "fortaleza de piedra",
+        "rastrillos bajados",
+        "patio nevado",
+        "antorchas de día",
+        "alarma",
+        "frío de piedra"
+      ],
+      "figuras": [
+        "sectarios-espada-negra",
+        "huarwar-mulphoon",
+        "fel-suparra",
+        "alassar-sulmander",
+        "karou-salafan",
+        "gargolas-avarice"
+      ]
+    },
+    {
+      "slug": "el-caer-planta-alta",
+      "nombre": "El Caer: planta alta",
+      "ciudad": "caer-dineval",
+      "interior": true,
+      "imagen_en": "A wide interior view along a fortress upper corridor, lit by flickering torches. Open wooden doors reveal a comfortable sitting room with a bright hearth, a study desk with an iron key ring, and the edge of a large gilded mirror. Charred library shelves and frost-darkened stone suggest colder rooms beyond. Amber and blue palette. No people or creatures; leave the lower third open.",
+      "lectura": "El pasillo huele a piedra húmeda y a sebo quemado. Las antorchas parpadean y las sombras se estiran sobre las puertas. En el salón, un fuego alto chisporrotea y hay sillones mullidos, como si alguien esperase visita. Más allá, una puerta entreabierta deja ver un escritorio y el resplandor de una chimenea. Al fondo del corredor, el aire se vuelve tan frío que vuestro aliento se cuaja. Una voz de mujer, vieja y seca, llega desde la habitación: «Sabía que vendríais. Pasad, no tengo todo el día.»",
+      "notas": "aquí se concentran Kadroth, Thoob, Yajath, Hethyl, el portavoz y los objetos de valor; Kadroth dirige el culto desde el despacho y lleva un anillo que abre todas las puertas interiores; su dormitorio, presidido por un espejo dorado, solo está habitado por su gato negro, Touche. El dormitorio de los sirvientes conserva tres cajas de antorchas y una pila de leña, pero la mayoría de los criados está en la cisterna; Hethyl, la profetisa, recibe a los Héroes sin miedo y muere de causas naturales justo después de revelar su profecía: Xardorok Solmarchito conquistará el valle si no lo detienen; su fortaleza está escondida en la Columna del Mundo y alberga una forja alimentada por el corazón aún palpitante de un dragón rojo; allí está el plan para destruir Diez Ciudades; y quien se enfrente a él demasiado pronto morirá, porque antes hay que probarse contra los horrores de los confines del valle; Crannoc está encerrado y custodiado por Yajath; no está mortalmente enfermo, solo pálido y furioso, y sus captores usan a sus sirvientes como rehenes. Mere, el sirviente de catorce años, conoce todos los niveles pero no ayudará hasta que Kadroth deje de ser una amenaza; Alassar, el niño calishita, duerme entre los perros del trineo y puede guiar por los niveles uno y dos si se le soborna o se le protege; En la torre noroeste, una trampilla de piedra oculta una escalera a la cisterna y un pasadizo secreto al despacho del portavoz; la puerta secreta se descubre con solo examinar la pared. colarse por los pasillos es una acción con [sigilo], [disfraz de sectario] o [conocimiento del castillo de Mere]; éxito: [pasillo despejado]; fallo: [sectario alerta] y [alarma]; Convencer a Hethyl de hablar es una acción social con [respeto], [profecía] o [sinceridad]; éxito: [profecía de Hethyl] y [muerte serena]; fallo: [silencio de Hethyl] y [tiempo perdido]; Liberar a Crannoc exige vencer o distraer a Yajath y abrir la puerta con [llave de Kadroth], [cerrajería] o [fuerza].",
+      "musica": "culto",
+      "motivos": [
+        "misterio",
+        "tension"
+      ],
+      "efectos": [
+        "hogar",
+        "pasos"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "pasillos de piedra",
+        "fuego alto",
+        "frío de la profetisa",
+        "biblioteca quemada",
+        "prisionero ilustre",
+        "anillo de llaves",
+        "alarma"
+      ],
+      "figuras": [
+        "kadroth",
+        "thoob",
+        "yajath",
+        "hethyl-arkorran",
+        "crannoc-siever",
+        "mere",
+        "touche",
+        "sectarios-espada-negra"
+      ]
+    },
+    {
+      "slug": "bajo-el-castillo-cisterna-y-santuario",
+      "nombre": "Bajo el castillo: cisterna y santuario",
+      "ciudad": "caer-dineval",
+      "interior": true,
+      "imagen_en": "A wide subterranean view of an arched stone cistern, black still water and a moored rowing boat beneath four torches. An iron-braced wooden ladder descends beside narrow passages and a partly submerged blue marble slab. Beyond lies a frost-covered shrine with black chains and a wooden horned effigy enclosed in ice. No people or creatures; leave the lower third open.",
+      "lectura": "La escalera baja a una sala de piedra iluminada por cuatro antorchas. El aire huele a moho y a agua estancada. Al este, una cisterna se extiende bajo un techo arqueado; el agua está negra y quieta, y algo blanco flota cerca del fondo, mecido por una corriente que no debería existir. Un bote de remos espera atado a un hierro. Más allá, un pasadizo estrecho se pierde en la oscuridad. En la pared del fondo, alguien ha tallado una puerta de mármol azul, medio sumergida, y a su lado una palanca de hierro brilla con la humedad.",
+      "notas": "en el agua hay doce cadáveres, seis humanos y seis enanos, guardias del castillo asesinados por los sectarios; La cámara frigorífica guarda cuatro cuerpos envueltos en sábanas, tres humanos y un mediano, sectarios muertos en la toma del castillo y conservados porque el suelo está demasiado congelado para enterrarlos; El almacén junto a la cisterna solo contiene un saco de grano roído por una rata. La losa de mármol sella la cisterna este y se acciona con la palanca de la sala contigua; también cede ante magia de apertura; Al otro lado, un túnel lleva a la celda de los cinco sirvientes; El santuario de Levistus es una habitación de quince pies cuadrados con un maniquí de madera vestido como el archidiablo, encerrado en un pilar de hielo y envuelto en cadenas; el hielo se mantiene gracias a un parche de moho marrón de diez pies cuadrados en la pared; Tocar el pilar expone al moho. Un personaje con [religión] o [erudición] comprende que es un altar; En la cámara de Avarice, la maga albina recibe a los Héroes con una hospitalidad tensa: no dirá por qué está aquí ni qué busca, y si se siente amenazada se marcha sin luchar; Sus gárgolas, Gárgara y Gorgoteo, están fuera espiando a magos rivales, pero acudirán si ella las llama o si la matan o capturan. bucear o cruzar el agua helada es una acción con [natación], [frío] o [bote de remos]; éxito: [cisterna cruzada]; fallo: [empapado-2], [helado-3] y [ruido en el agua]; Accionar la palanca es trivial si se encuentra; hallarla requiere [exploración] u [observador]; Identificar el altar es una acción con [religión] o [erudición]; éxito: [altar de Levistus] y [moho marrón]; fallo: [pilar inquietante]; Negociar con Avarice es una acción social con [diplomacia], [arcano] o [interés común]; éxito: [tregua de Avarice]; fallo: [Avarice se marcha] y [gárgolas alerta].",
+      "musica": "culto",
+      "motivos": [
+        "horror",
+        "misterio"
+      ],
+      "efectos": [
+        "chapuzon",
+        "hielo-cruje",
+        "pasos"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "cisterna helada",
+        "cadáveres bajo el agua",
+        "losa de mármol",
+        "santuario de escarcha",
+        "moho marrón",
+        "prisioneros",
+        "empapado-2",
+        "helado-2"
+      ],
+      "figuras": [
+        "avarice",
+        "skelm",
+        "sirvientes-prisioneros",
+        "moho-marron-santuario"
+      ]
+    },
+    {
+      "slug": "la-fuga-de-los-sirvientes",
+      "nombre": "La fuga de los sirvientes",
+      "ciudad": "caer-dineval",
+      "interior": true,
+      "imagen_en": "A wide view of a windowless underground stone cell with frozen earth beneath scattered straw. Five abandoned grey blankets lie near a stool, a bucket and scratches on damp walls. A smoking oil lamp casts orange light and long shadows towards the dark cistern tunnel. The palette mixes dirty brown, dull grey and faint amber. No people or creatures; leave the lower third open.",
+      "lectura": "El túnel desemboca en una habitación que apesta a sudor y a cubo. Cinco personas se apelotonan bajo mantas grises. Están demacradas, con los ojos hundidos y las manos sucias. Al veros, una mujer se pone en pie de un salto y levanta un taburete; un hombre mayor la sujeta del brazo. Nadie grita. Todos esperan. «¿Sois del culto?», pregunta ella, y la voz le tiembla. «Porque si lo sois, acabad de una vez. Y si no, sacadnos de aquí antes de que vuelva ese hijo de perra.»",
+      "notas": "los cinco sirvientes llevan dos semanas encerrados y alimentados a duras penas. Han planeado escapar; Si los Héroes se identifican antes de entrar, se presentan y suplican; si no, emboscan al primero que cruce la puerta: actúan como grupo, hacen un único intento de presa con ventaja y, si falla, se retiran a las esquinas hechos un ovillo. Son Lanthis Alderdusk, escriba y notario de sesenta y cuatro años, enérgico y ágil; Elprekt Norbrav, mayordomo de cincuenta y cinco, alto y esquelético; Mylbara Norbrav, su esposa, robusta, traductora de enano; Tam Sharf, criado mudo de unos treinta, ladrón buscado por un asesinato en Luskan; y Dassir Ravenscar, guardián de perros de veinticinco, tímido; Saben que los sectarios mataron a los guardias, que el portavoz sigue vivo y que Kadroth manda, pero no conocen los planes del culto. calmar a los sirvientes es una acción social con [empatía], [voz calmada] o [prueba de identidad]; éxito: [confianza de los sirvientes] y [fuga organizada]; fallo: [emboscada de los sirvientes] y [herido-1] para quien entre primero; Guiarlos fuera del castillo es una acción con [sigilo], [conocimiento del castillo] o [distracción]; éxito: [sirvientes liberados]; fallo: [alarma] y [sirvientes dispersos].",
+      "musica": "culto",
+      "motivos": [
+        "tension",
+        "esperanza"
+      ],
+      "efectos": [
+        "pasos",
+        "puerta"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "celda húmeda",
+        "prisioneros demacrados",
+        "miedo",
+        "fuga planeada",
+        "confianza frágil"
+      ],
+      "figuras": [
+        "sirvientes-prisioneros"
+      ]
+    }
+  ],
+  "pnj": [
+    {
+      "slug": "crannoc-siever",
+      "nombre": "Crannoc Siever",
+      "papel": "portavoz de Caer-Dineval y prisionero del culto; autoridad legítima del pueblo",
+      "ciudad": "caer-dineval",
+      "aspecto_en": "A full-body portrait of a forty-nine-year-old human man with a soft build, pale skin, unkempt beard and dark circles. He wears a rumpled nightshirt, a loose wool blanket around his shoulders and no shoes. His sarcastic expression and theatrical posture suggest a humiliated official trying to preserve authority. Cold stone and subdued winter light provide a simple background.",
+      "presentacion": "Ante vosotros distinguís humano de cuarenta y nueve años, soltero, pálido y desaliñado; camisón arrugado, barba descuidada, pies descalzos, ojeras; complexión blanda de hombre que ha vivido bien y lleva dos semanas sin moverse; mirada sarcástica. El frío vuelve visibles vuestras respiraciones y acentúa cada pausa. Al acercaros, podéis apreciar el desgaste de la ropa y los pequeños gestos que delatan su ánimo. Durante un instante, el silencio os permite medir la distancia y decidir cómo presentaros.",
+      "caracter": "fanfarrón, teatral y colérico; se comporta como un rey destronado, grita y gesticula para imponer su opinión, pero bajo la bravura hay miedo y vergüenza; habla con sarcasmo cuando se siente acorralado",
+      "quiere": "recuperar el castillo, castigar a sus captores, volver a mandar y que el pueblo vuelva a tratarle como portavoz",
+      "sabe": "que sus captores llegaron diciendo ser árbitros neutrales del Consejo de Portavoces para mediar en las disputas de pesca con Puerto Este y Caer-Konig; que Kadroth manda y responde ante alguien llamado Levistus; que sus guardias fueron asesinados y sus sirvientes retenidos como rehenes; sospecha que los sirvientes están en la cisterna",
+      "desafio": "crannoc-siever"
+    },
+    {
+      "slug": "kadroth",
+      "nombre": "Kadroth",
+      "papel": "líder de los Caballeros de la Espada Negra en el Caer; usurpador del despacho del portavoz",
+      "ciudad": "caer-dineval",
+      "aspecto_en": "A full-body portrait of a slender adult tiefling man with dark skin, short horns, a thin tail and yellow eyes. Black layered cult robes and a warm dark mantle surround a black sword-shaped pendant. An iron key ring hangs from one hand. His expression is vain and calculating, with nervous tension beneath a rehearsed dignified stance.",
+      "presentacion": "Ante vosotros distinguís tiefling de piel oscura, cuernos cortos, cola fina, ojos amarillos; ropas de culto negras con el amuleto de espada de chardalyn al cuello; delgado, nervioso, siempre cerca del fuego; lleva un anillo de llaves. El frío vuelve visibles vuestras respiraciones y acentúa cada pausa. Al acercaros, podéis apreciar el desgaste de la ropa y los pequeños gestos que delatan su ánimo. Durante un instante, el silencio os permite medir la distancia y decidir cómo presentaros.",
+      "caracter": "vanidoso, calculador y rencoroso; se cree el elegido de Levistus y no soporta que le contradigan; habla con frases ensayadas y una calma que se rompe cuando se siente ignorado; desprecia a Hethyl y teme a Avarice",
+      "quiere": "consolidar su poder, reclutar a los Héroes si le conviene, mantener la farsa del portavoz enfermo y que Levistus le reconozca",
+      "sabe": "que Levistus habla telepáticamente al culto y desprecia a Kadroth en secreto; que los duergar amenazan Diez Ciudades; que Avarice busca Ythryn; los nombres y lealtades de sus sectarios; el plano del castillo y el funcionamiento de las puertas",
+      "desafio": "kadroth"
+    },
+    {
+      "slug": "hethyl-arkorran",
+      "nombre": "Hethyl Arkorran",
+      "papel": "profetisa y miembro más anciana de la secta; fuente de la profecía sobre Xardorok",
+      "ciudad": "caer-dineval",
+      "aspecto_en": "A full-body portrait of an extremely elderly shield dwarf woman with white hair, deeply lined skin and a wooden prosthesis at her right foot. She sits in a low rocking chair wrapped in a thick quilt and worn winter layers. Her expression is dry, unsentimental and unwavering. A plate of untouched trout and goat milk rests beside her.",
+      "presentacion": "Ante vosotros distinguís enana escudo muy anciana, pelo blanco, piel surcada, pata de palo en el pie derecho; sentada en una mecedora baja, envuelta en un edredón, junto a un fuego que no calienta la habitación; plato de trucha con leche de cabra que no prueba. El frío vuelve visibles vuestras respiraciones y acentúa cada pausa. Al acercaros, podéis apreciar el desgaste de la ropa y los pequeños gestos que delatan su ánimo. Durante un instante, el silencio os permite medir la distancia y decidir cómo presentaros.",
+      "caracter": "desalmada, seca y absolutamente sincera; no adorna ni miente, no busca consuelo y sabe que su alma irá a los Nueve Infiernos; habla despacio, con pausas, como quien ya ha visto el final; no es cruel por maldad, sino por indiferencia",
+      "quiere": "que el culto sobreviva, que alguien detenga a los duergar y, en el fondo, que su profecía sirva de algo antes de morir",
+      "sabe": "la profecía completa sobre Xardorok, la fortaleza de la Columna del Mundo, la forja del corazón de dragón y el plan de destrucción de Diez Ciudades; que Levistus desprecia a Kadroth; que su propia muerte está cerca; que Avarice no es de fiar",
+      "desafio": null
+    },
+    {
+      "slug": "avarice",
+      "nombre": "Avarice",
+      "papel": "maga tiefling albina de la Hermandad Arcana, huésped del culto en la cisterna; buscadora de Ythryn",
+      "ciudad": "caer-dineval",
+      "aspecto_en": "A full-body portrait of an adult albino tiefling woman with white skin, pale horns, white hair and red eyes. She wears a dark fur-lined robe, fine gloves and sturdy winter boots. One hand holds a dark frost staff crowned with ice crystal; a leather spellbook satchel hangs at her side. Her composed expression is cold, academic and assessing.",
+      "presentacion": "Ante vosotros distinguís tiefling albina de piel blanca, cuernos pálidos, pelo blanco, ojos rojos; túnica oscura forrada de pieles, bastón de escarcha, libro de conjuros en una cartera; guantes finos; su cuervo Skelm sobre el hombro o en una viga; habitación con escarcha en el suelo, alfombra roja, cama estrecha y espejo. El frío vuelve visibles vuestras respiraciones y acentúa cada pausa. Al acercaros, podéis apreciar el desgaste de la ropa y los pequeños gestos que delatan su ánimo.",
+      "caracter": "fría, cortés y profundamente egoísta; mide cada palabra y no pierde la compostura; trata a los Héroes como instrumentos útiles y no oculta que se marchará si el riesgo supera la ganancia; habla con precisión académica y un deje de superioridad",
+      "quiere": "saquear Ythryn, la ciudad perdida de los netherios, y adelantarse a sus rivales de la Hermandad Arcana; conservar su libertad y su seguridad",
+      "sabe": "que Levistus le ha ordenado no estorbar a ciertos aventureros hasta que la ayuden; la ubicación aproximada de Ythryn; los nombres y debilidades de varios magos rivales; que el culto la teme; que Kadroth no la quiere cerca",
+      "desafio": "avarice"
+    },
+    {
+      "slug": "mere",
+      "nombre": "Mere",
+      "papel": "sirviente de catorce años del castillo, conocedor de todos los niveles; posible guía",
+      "ciudad": "caer-dineval",
+      "aspecto_en": "A full-body portrait of a thin fourteen-year-old human boy with dirty hair, chapped hands and an alert frightened face. Oversized patched clothing, layered wool and battered boots offer inadequate winter protection. He stands close to a stone wall with his shoulders drawn inward, looking over one shoulder. His wary expression suggests a servant accustomed to avoiding attention.",
+      "presentacion": "Ante vosotros distinguís adolescente flaco, pelo sucio, ropa demasiado grande, manos agrietadas por el frío; se mueve pegado a las paredes y tiembla cuando oye la voz de Kadroth. El frío vuelve visibles vuestras respiraciones y acentúa cada pausa. Al acercaros, podéis apreciar el desgaste de la ropa y los pequeños gestos que delatan su ánimo. Durante un instante, el silencio os permite medir la distancia y decidir cómo presentaros.",
+      "caracter": "asustadizo, observador y reservado; habla en susurros y mira por encima del hombro; no es cobarde, pero ha aprendido que la invisibilidad es supervivencia",
+      "quiere": "escapar de Kadroth, comer caliente y dejar de tener miedo",
+      "sabe": "la distribución de todos los niveles del castillo; la lealtad del culto a Levistus y su enemistad con los duergar; que la maga albina vive en la cisterna; los turnos de los guardias; dónde duermen los sectarios",
+      "desafio": null
+    },
+    {
+      "slug": "alassar-sulmander",
+      "nombre": "Alassar Sulmander",
+      "papel": "niño calishita escondido en el castillo, entrenador de perros y posible guía",
+      "ciudad": "caer-dineval",
+      "aspecto_en": "A full-body portrait of an eight-year-old Calishite human boy with brown skin, tousled black hair and stained fingers. He wears patched winter clothes, worn boots and a fur blanket around narrow shoulders. A sled harness lies at his feet. His bright, distrustful eyes and guarded posture suggest a resourceful child seeking warmth and safety among the castle dogs.",
+      "presentacion": "Ante vosotros distinguís niño de ocho años, piel morena, pelo negro y revuelto, ropa remendada, dedos manchados; duerme entre los perros del trineo, bajo mantas de piel; mirada despierta y desconfiada. El frío vuelve visibles vuestras respiraciones y acentúa cada pausa. Al acercaros, podéis apreciar el desgaste de la ropa y los pequeños gestos que delatan su ánimo. Durante un instante, el silencio os permite medir la distancia y decidir cómo presentaros.",
+      "caracter": "callado, curioso y superviviente; habla poco y observa mucho; se ablanda con comida, calor y promesas de llevarlo lejos",
+      "quiere": "volver con su gente, dejar de hacer recados para los sectarios y que alguien le trate como a un niño",
+      "sabe": "el plano de los niveles uno y dos; por dónde se mueve el culto sin sospechar; los nombres de los sectarios que le han tratado mal; que hay una mujer albina en la cisterna",
+      "desafio": null
+    },
+    {
+      "slug": "roark",
+      "nombre": "Roark",
+      "papel": "dueño de La Subida, tabernero y fuente de rumores",
+      "ciudad": "caer-dineval",
+      "aspecto_en": "A full-body portrait of a stocky middle-aged human innkeeper with greying brown hair and broad cook’s hands. A patched apron covers practical wool clothing and winter boots. He holds a wooden soup ladle close to his body, standing with tired shoulders and a reluctant half smile. His cautious expression hints at worries he will only discuss quietly.",
+      "presentacion": "Ante vosotros distinguís humano de mediana edad, corpulento, delantal remendado, pelo castaño con canas, manos de cocinero; siempre cerca de la olla. El frío vuelve visibles vuestras respiraciones y acentúa cada pausa. Al acercaros, podéis apreciar el desgaste de la ropa y los pequeños gestos que delatan su ánimo. Durante un instante, el silencio os permite medir la distancia y decidir cómo presentaros.",
+      "caracter": "resignado, práctico y cauteloso; se queja del invierno y del ferry, pero no es tonto; habla en voz baja cuando menciona el castillo y cambia de tema si entra un lugareño",
+      "quiere": "sobrevivir el invierno, recuperar el hidromiel y que el pueblo vuelva a tener clientes",
+      "sabe": "que el ferry se cortó hace dos meses; que no llega hidromiel de Buenaguamiel; que el portavoz no aparece; que hay caras nuevas en el Caer y que los sirvientes no bajan; sospecha que pasa algo malo, pero no conoce al culto",
+      "desafio": "roark"
+    },
+    {
+      "slug": "huarwar-mulphoon",
+      "nombre": "Huarwar Mulphoon",
+      "papel": "fanático del culto en la puerta del Caer; hijo desaparecido de Cora Mulphoon",
+      "ciudad": "caer-dineval",
+      "aspecto_en": "A full-body portrait of a thin human man around twenty with untidy hair, sad eyes and a slumped posture. Poorly fitted leather armour covers layered winter clothing, and a black chardalyn sword pendant rests on his chest. His boots are worn and snow-stained. His melancholy expression combines obedience, uncertainty and a lingering desire to belong somewhere safe.",
+      "presentacion": "Ante vosotros distinguís humano de unos veinte años, flaco, pelo descuidado, ojos tristes; armadura de cuero mal ajustada y amuleto de chardalyn; postura hundida. El frío vuelve visibles vuestras respiraciones y acentúa cada pausa. Al acercaros, podéis apreciar el desgaste de la ropa y los pequeños gestos que delatan su ánimo. Durante un instante, el silencio os permite medir la distancia y decidir cómo presentaros.",
+      "caracter": "melancólico, pesimista y dócil; habla con frases cortas y evita mirar a los ojos; sigue a Fel Suparra porque le dio un propósito cuando no tenía ninguno",
+      "quiere": "pertenecer, no volver a pasar frío ni hambre y, en el fondo, que su madre esté bien",
+      "sabe": "los turnos de la puerta, el funcionamiento de los rastrillos, que Fel le apartó de su madre, que el culto sirve a Levistus",
+      "desafio": "huarwar-mulphoon"
+    },
+    {
+      "slug": "fel-suparra",
+      "nombre": "Fel Suparra",
+      "papel": "fanática tiefling y mentora de Huarwar; guardia de la puerta",
+      "ciudad": "caer-dineval",
+      "aspecto_en": "A full-body portrait of an adult female tiefling with reddish skin, curved horns, black eyes and a visible tail. Leather armour, a heavy winter cloak and sturdy boots frame a black sword pendant at her neck. She stands confidently with a sharp possessive smile, one hand raised in command. Dark leather and muted red dominate the subdued portrait.",
+      "presentacion": "Ante vosotros distinguís tiefling de piel rojiza, cuernos curvos, ojos negros, cola; armadura de cuero y amuleto de espada; sonrisa afilada. El frío vuelve visibles vuestras respiraciones y acentúa cada pausa. Al acercaros, podéis apreciar el desgaste de la ropa y los pequeños gestos que delatan su ánimo. Durante un instante, el silencio os permite medir la distancia y decidir cómo presentaros.",
+      "caracter": "dominante, burlona y posesiva; trata a Huarwar como a un perro faldero y disfruta del poder que tiene sobre él; habla con desprecio de los débiles y con devoción exagerada de Levistus",
+      "quiere": "ascender en el culto, conservar a Huarwar bajo su control y demostrar que vale más que los demás fanáticos",
+      "sabe": "los planes inmediatos del culto, la existencia de Avarice, la enemistad con los duergar y la ubicación de la celda de los sirvientes",
+      "desafio": "fel-suparra"
+    },
+    {
+      "slug": "thoob",
+      "nombre": "Thoob",
+      "papel": "guardia de la puerta del despacho de Kadroth; sectario humano",
+      "ciudad": "caer-dineval",
+      "aspecto_en": "A full-body portrait of a short, plump adult human man with an unfriendly face and an awkward stance. Rumpled cult clothing and a thick wool mantle cover his body, with a dark pendant at his neck and boots below. He grips a weapon clumsily. His spiteful expression and hunched shoulders suggest a bully who fears his own superior.",
+      "presentacion": "Ante vosotros distinguís hombre bajo, rechoncho, de movimientos torpes, cara de pocos amigos; ropa de culto arrugada, amuleto al cuello; siempre con un arma mal sujeta. El frío vuelve visibles vuestras respiraciones y acentúa cada pausa. Al acercaros, podéis apreciar el desgaste de la ropa y los pequeños gestos que delatan su ánimo. Durante un instante, el silencio os permite medir la distancia y decidir cómo presentaros.",
+      "caracter": "sádico, rencoroso y servil; descarga su frustración en los demás y se crece cuando transmite órdenes ajenas; habla con desprecio y se encoge ante Kadroth",
+      "quiere": "el favor de Kadroth, sentirse importante y que alguien le tema",
+      "sabe": "quién entra y sale del despacho, dónde se guardan las llaves y que Hethyl tiene más influencia de la que Kadroth admite",
+      "desafio": "thoob"
+    },
+    {
+      "slug": "yajath",
+      "nombre": "Yajath",
+      "papel": "guardia personal de Crannoc en el dormitorio del portavoz",
+      "ciudad": "caer-dineval",
+      "aspecto_en": "A full-body portrait of a broad-faced, heavyset adult human guard with a shaved head and a bored expression. He wears leather armour marked with the cult emblem over thick wool layers, heavy boots and a plain winter cloak. A black chardalyn pendant hangs at his chest. His relaxed blocking stance suggests someone counting the hours until his shift ends.",
+      "presentacion": "Ante vosotros distinguís humano corpulento, cara ancha, pelo rapado, armadura de cuero con el emblema del culto; amuleto de chardalyn; postura aburrida. El frío vuelve visibles vuestras respiraciones y acentúa cada pausa. Al acercaros, podéis apreciar el desgaste de la ropa y los pequeños gestos que delatan su ánimo. Durante un instante, el silencio os permite medir la distancia y decidir cómo presentaros.",
+      "caracter": "aburrido, pragmático y poco imaginativo; no disfruta del cautiverio, pero obedece porque le pagan y le teme a Kadroth; habla con gruñidos y frases cortas",
+      "quiere": "terminar su turno, comer caliente y no meterse en problemas",
+      "sabe": "que Crannoc no está enfermo, que los sirvientes están en la cisterna y que Kadroth necesita al portavoz vivo",
+      "desafio": "yajath"
+    },
+    {
+      "slug": "karou-salafan",
+      "nombre": "Karou Salafan",
+      "papel": "cocinero del castillo, uno de los pocos sirvientes que sigue en funciones",
+      "ciudad": "caer-dineval",
+      "aspecto_en": "A full-body portrait of a middle-aged human castle cook with strong arms and a kind, exhausted face. His stained apron covers practical wool clothing and sturdy winter boots. He carries a wooden cooking spoon and keeps his shoulders cautiously lowered. Warm hearth light catches weathered hands, while his guarded expression suggests a man trying to survive by staying useful.",
+      "presentacion": "Ante vosotros distinguís humano de mediana edad, delantal manchado, brazos fuertes, cara amable y cansada; siempre junto a los fogones y las cabras. El frío vuelve visibles vuestras respiraciones y acentúa cada pausa. Al acercaros, podéis apreciar el desgaste de la ropa y los pequeños gestos que delatan su ánimo. Durante un instante, el silencio os permite medir la distancia y decidir cómo presentaros.",
+      "caracter": "prudente, bonachón y evasivo; sabe callar y mantener la cabeza baja; habla de comida con entusiasmo y de política con monosílabos",
+      "quiere": "que no le involucren, seguir cocinando y que nadie toque a sus cabras",
+      "sabe": "que el portavoz está encerrado, que los sectarios mataron a los guardias y que hay prisioneros en la cisterna; conoce cincuenta maneras de cocinar trucha y no piensa compartir ninguna gratis",
+      "desafio": null
+    },
+    {
+      "slug": "sirvientes-prisioneros",
+      "nombre": "Los sirvientes prisioneros",
+      "papel": "rehenes del culto en la cisterna; víctimas y posibles aliados",
+      "ciudad": "caer-dineval",
+      "aspecto_en": "A full-body group portrait of five emaciated human servants in dirty, inadequate winter clothing and grey blankets. An anxious older man stands beside a tall skeletal man, a sturdy determined woman, a silent younger man and a timid withdrawn man. Cracked hands, hollow cheeks and battered shoes reveal their captivity. Their frightened expressions turn towards a possible source of rescue.",
+      "presentacion": "Ante vosotros distinguís cinco humanos demacrados, sucios y mal abrigados; Lanthis mayor y nervioso, Elprekt alto y esquelético, Mylbara robusta y decidida, Tam joven y silencioso, Dassir tímido y encogido. El frío vuelve visibles vuestras respiraciones y acentúa cada pausa. Al acercaros, podéis apreciar el desgaste de la ropa y los pequeños gestos que delatan su ánimo. Durante un instante, el silencio os permite medir la distancia y decidir cómo presentaros.",
+      "caracter": "asustados, desconfiados y desesperados; hablan a la vez cuando se sienten a salvo y se callan de golpe ante cualquier ruido",
+      "quiere": "salir vivos, comer, volver a sus casas y que el portavoz recupere el castillo",
+      "sabe": "que los sectarios mataron a los guardias, que Kadroth manda, que Hethyl es la profetisa y que Avarice vive en la cisterna; no conocen los planes de Xardorok",
+      "desafio": null
+    },
+    {
+      "slug": "skelm",
+      "nombre": "Skelm",
+      "papel": "Cuervo familiar de Avarice",
+      "ciudad": "caer-dineval",
+      "aspecto_en": "A full-body portrait of a black raven with glossy feathers, bright intelligent eyes and powerful folded wings. Its claws grip a rough wooden beam above cold stone. The bird tilts its head as though listening to a distant command. Subtle blue winter highlights define the feather edges, and its alert expression suggests a watchful magical familiar.",
+      "presentacion": "Un cuervo negro inclina la cabeza cuando os acercáis. La luz fría resbala por sus plumas y sus ojos siguen vuestros movimientos con una atención incómoda. Oís el roce seco de sus garras contra la madera y un graznido que rompe el silencio. Desde su posadero, parece estudiar cada palabra que pronunciáis.",
+      "caracter": "Skelm grazna y repite sonidos.",
+      "quiere": "Servir a Avarice.",
+      "sabe": "Comparte los planes de Avarice.",
+      "desafio": null
+    },
+    {
+      "slug": "touche",
+      "nombre": "Touche",
+      "papel": "Gato de Kadroth",
+      "ciudad": "caer-dineval",
+      "aspecto_en": "A full-body portrait of a black domestic cat curled on a rumpled castle bed, with sleek fur, folded paws and sleepy eyes. A thick coverlet provides warmth against the cold stone room. Muted amber hearth reflections soften the dark coat. The cat’s relaxed expression conveys complete indifference to visitors, commands and the political turmoil surrounding its comfortable resting place.",
+      "presentacion": "En la cama de Kadroth veis un gato negro que apenas se molesta en levantar la cabeza. Su pelaje recoge un brillo tenue del fuego. Cuando os acercáis, entreabre los ojos, os observa un momento y vuelve a acomodar las patas bajo el cuerpo. El calor de las mantas parece interesarle mucho más que vuestra presencia.",
+      "caracter": "Indiferente; ignora a todo el mundo.",
+      "quiere": "Dormir.",
+      "sabe": "No se especifica información que pueda comunicar.",
+      "desafio": null
+    }
+  ],
+  "desafios": [
+    {
+      "slug": "sectarios-espada-negra",
+      "nombre": "Sectarios de la Espada Negra",
+      "nivel": 2,
+      "poderio": [],
+      "roles": [
+        "Adversario",
+        "Apoyo"
+      ],
+      "aspecto_en": "A full-body group portrait of black-robed human and tiefling cultists in layered winter clothing, leather armour and heavy boots. Black sword-shaped chardalyn pendants hang at their throats. Their guarded stances and fanatical expressions suggest defenders accustomed to narrow castle corridors. Cold torchlight catches frost on hems and iron fittings, with muted charcoal, brown and blue dominating the scene.",
+      "descripcion": "doce sectarios y dos sectarios fanáticos del castillo (VD 1/2 y VD 2), más los refuerzos de las torres.. Su presencia condiciona la seguridad del castillo y las decisiones de los Héroes.",
+      "limites": [
+        {
+          "nombre": "dispersos",
+          "valor": 4,
+          "consecuencia": "pierden cohesión y dejan de cubrir las puertas"
+        },
+        {
+          "nombre": "alarma",
+          "valor": 3,
+          "consecuencia": "el castillo entero se despierta"
+        },
+        {
+          "nombre": "fe",
+          "valor": 3,
+          "consecuencia": "su devoción a Levistus se tambalea"
+        }
+      ],
+      "etiquetas": [
+        "sectarios",
+        "fanáticos",
+        "amuletos de chardalyn",
+        "frío de Levistus",
+        "condenación helada",
+        "conocen el castillo",
+        "alertas-2",
+        "heridos-2",
+        "asustados-2"
+      ],
+      "rasgos": [
+        {
+          "nombre": "Condenación helada",
+          "descripcion": "Al morir, el cuerpo se congela nueve días y no se puede descongelar, quemar, animar ni resucitar."
+        }
+      ],
+      "amenazas": [
+        {
+          "nombre": "Dar la alarma",
+          "descripcion": "acuden doce sectarios y los dos fanáticos; [alarma]; las puertas se atrancan y el patio se llena de enemigos.",
+          "consecuencias": [
+            "Aplica [alarma]"
+          ]
+        },
+        {
+          "nombre": "Atacar en grupo",
+          "descripcion": "[herido-2] para un Héroe; [rodeado-2]; si el grupo se separa, [aislado-2].",
+          "consecuencias": [
+            "Aplica [herido-2]",
+            "Aplica [rodeado-2]",
+            "Aplica [aislado-2]"
+          ]
+        },
+        {
+          "nombre": "Usar los amuletos",
+          "descripcion": "el portador puede volverse [legal malvado] si falla la tentación; [amuleto corrupto]; el culto lo nota y lo reclama.",
+          "consecuencias": [
+            "Aplica [legal malvado]",
+            "Aplica [amuleto corrupto]"
+          ]
+        },
+        {
+          "nombre": "Morir y congelarse",
+          "descripcion": "el cadáver queda [cadáver de escarcha] nueve días; no se puede descongelar, quemar, animar ni resucitar; [terror sagrado] entre los presentes.",
+          "consecuencias": [
+            "Aplica [cadáver de escarcha]",
+            "Aplica [terror sagrado]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y secretos",
+          "descripcion": "Kadroth es el pegamento del culto; si cae, la fe se resquebraja. Hethyl tiene más autoridad moral que él y Levistus lo desprecia. Los sectarios no comparten información entre sí y desconfían de Avarice. Un disfraz y un amuleto permiten cruzar la mayoría de las puertas. El frío extremo y el fuego son sus herramientas, no sus aliados: el fuego no daña los cadáveres condenados y el hielo los conserva."
+        }
+      ]
+    },
+    {
+      "slug": "kadroth",
+      "nombre": "Kadroth",
+      "nivel": 3,
+      "poderio": [],
+      "roles": [
+        "Adversario",
+        "Controlador"
+      ],
+      "aspecto_en": "A full-body portrait of a slender adult tiefling man with dark skin, short horns, a thin tail and yellow eyes. Black layered cult robes and a warm dark mantle surround a black sword-shaped pendant. An iron key ring hangs from one hand. His expression is vain and calculating, with nervous tension beneath a rehearsed dignified stance.",
+      "descripcion": "sectario fanático tiefling, líder del culto (VD 2; elevado a nivel 3 por su posición y recursos).. Su presencia condiciona la seguridad del castillo y las decisiones de los Héroes.",
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 4,
+          "consecuencia": "Queda fuera de combate."
+        },
+        {
+          "nombre": "convencido",
+          "valor": 4,
+          "consecuencia": "Acepta la propuesta."
+        },
+        {
+          "nombre": "autoridad",
+          "valor": 3,
+          "consecuencia": "Pierde el control de sus seguidores."
+        }
+      ],
+      "etiquetas": [
+        "líder del culto",
+        "mentiroso",
+        "anillo de llaves",
+        "resistencia al fuego",
+        "visión en la oscuridad",
+        "favorito de sí mismo",
+        "nervioso-2",
+        "acorralado-2",
+        "herido-2"
+      ],
+      "rasgos": [
+        {
+          "nombre": "Condenación helada",
+          "descripcion": "Al morir, el cuerpo se congela nueve días y no se puede descongelar, quemar, animar ni resucitar."
+        }
+      ],
+      "amenazas": [
+        {
+          "nombre": "Ordenar un ataque",
+          "descripcion": "[cerco de sectarios]; [herido-2]; las puertas se cierran y el grupo queda [atrapado-2].",
+          "consecuencias": [
+            "Aplica [cerco de sectarios]",
+            "Aplica [herido-2]",
+            "Aplica [atrapado-2]"
+          ]
+        },
+        {
+          "nombre": "Invocar a Levistus",
+          "descripcion": "[miedo de Levistus]; [convencido-2]; los sectarios presentes recuperan la fe y atacan con ventaja.",
+          "consecuencias": [
+            "Aplica [miedo de Levistus]",
+            "Aplica [convencido-2]"
+          ]
+        },
+        {
+          "nombre": "Huir por el pasadizo secreto",
+          "descripcion": "[prófugo]; [alarma]; se lleva el anillo de llaves y deja las puertas cerradas.",
+          "consecuencias": [
+            "Aplica [prófugo]",
+            "Aplica [alarma]"
+          ]
+        },
+        {
+          "nombre": "Negociar una tregua",
+          "descripcion": "[tregua de Kadroth]; [favor del culto]; exige que los Héroes ataquen a los duergar o que le entreguen a un enemigo del culto.",
+          "consecuencias": [
+            "Aplica [tregua de Kadroth]",
+            "Aplica [favor del culto]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y secretos",
+          "descripcion": "su vanidad es su punto débil; se le puede halagar y desviar. Levistus lo desprecia y no le responde, aunque él lo niega. Temen a Avarice y no la controlan. Si Hethyl muere, su autoridad queda en entredicho. El anillo de llaves abre todas las puertas interiores: quitárselo vale más que matarle."
+        }
+      ]
+    },
+    {
+      "slug": "avarice",
+      "nombre": "Avarice",
+      "nivel": 4,
+      "poderio": [
+        {
+          "nivel": "adventure",
+          "aspecto": "Magia de la Hermandad Arcana y dominio de la escarcha"
+        }
+      ],
+      "roles": [
+        "Adversario",
+        "Controlador"
+      ],
+      "aspecto_en": "A full-body portrait of an adult albino tiefling woman with white skin, pale horns, white hair and red eyes. She wears a dark fur-lined robe, fine gloves and sturdy winter boots. One hand holds a dark frost staff crowned with ice crystal; a leather spellbook satchel hangs at her side. Her composed expression is cold, academic and assessing.",
+      "descripcion": "Avarice, maga tiefling albina de la Hermandad Arcana (Apéndice C; aproximadamente VD 7–8).. Su presencia condiciona la seguridad del castillo y las decisiones de los Héroes.",
+      "limites": [
+        {
+          "nombre": "herida",
+          "valor": 4,
+          "consecuencia": "Queda fuera de combate."
+        },
+        {
+          "nombre": "conjurada",
+          "valor": 3,
+          "consecuencia": "Sus recursos mágicos quedan neutralizados."
+        },
+        {
+          "nombre": "fría",
+          "valor": 3,
+          "consecuencia": "Su compostura cede."
+        }
+      ],
+      "etiquetas": [
+        "maga",
+        "albina",
+        "Hermandad Arcana",
+        "bastón de escarcha",
+        "libro de conjuros",
+        "cuervo familiar",
+        "vínculo telepático",
+        "Ythryn",
+        "helado-2",
+        "herida-2",
+        "a la defensiva-2"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Descarga de escarcha",
+          "descripcion": "[helado-3]; [herido-2]; el suelo se cubre de hielo ([suelo resbaladizo]).",
+          "consecuencias": [
+            "Aplica [helado-3]",
+            "Aplica [herido-2]",
+            "Aplica [suelo resbaladizo]"
+          ]
+        },
+        {
+          "nombre": "Muro de hielo",
+          "descripcion": "[muro de escarcha]; [separado-2]; bloquea el paso a la cisterna este.",
+          "consecuencias": [
+            "Aplica [muro de escarcha]",
+            "Aplica [separado-2]"
+          ]
+        },
+        {
+          "nombre": "Llamar a las gárgolas",
+          "descripcion": "[gárgolas]; [herido-2]; atacan desde lo alto y obligan a dividir la atención.",
+          "consecuencias": [
+            "Aplica [gárgolas]",
+            "Aplica [herido-2]"
+          ]
+        },
+        {
+          "nombre": "Retirarse con magia",
+          "descripcion": "[Avarice escapada]; [pista de Ythryn perdida]; se lleva el bastón y el libro, y deja el castillo sin explicaciones.",
+          "consecuencias": [
+            "Aplica [Avarice escapada]",
+            "Aplica [pista de Ythryn perdida]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y secretos",
+          "descripcion": "no quiere luchar; si se siente segura, negocia. Su objetivo es Ythryn y sus rivales de la Hermandad, no el culto. Las gárgolas están fuera y tardan en volver. Si se la mata o captura, las gárgolas atacan al grupo al salir de la torre. Su libro de conjuros es un tesoro y una pista sobre sus planes."
+        }
+      ]
+    },
+    {
+      "slug": "gargolas-avarice",
+      "nombre": "Gárgolas de Avarice",
+      "nivel": 2,
+      "poderio": [],
+      "roles": [
+        "Adversario",
+        "Merodeador"
+      ],
+      "aspecto_en": "A full-body portrait of two animated stone gargoyles with membranous wings, sharp claws and heavy crouching bodies. Weathered grey stone, chipped edges and pale frost cover their surfaces. They cling to a castle parapet above a winter sky, ready to launch. Their watchful faces and powerful gripping feet suggest patient guardians awaiting a distant magical command.",
+      "descripcion": "dos gárgolas (VD 2), Gárgara y Gorgoteo.. Su presencia condiciona la seguridad del castillo y las decisiones de los Héroes.",
+      "limites": [
+        {
+          "nombre": "heridas",
+          "valor": 4,
+          "consecuencia": "La gárgola queda destruida; se aplica a cada una."
+        },
+        {
+          "nombre": "vuelo",
+          "valor": 3,
+          "consecuencia": "si pierden altura, pierden ventaja"
+        }
+      ],
+      "etiquetas": [
+        "gárgolas",
+        "piedra animada",
+        "vuelo",
+        "garras",
+        "guardianas de Avarice",
+        "ocultas-2",
+        "enfurecidas-2"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Atacar desde el aire",
+          "descripcion": "[herido-2]; [derribado-2]; obligan a los Héroes a cubrirse.",
+          "consecuencias": [
+            "Aplica [herido-2]",
+            "Aplica [derribado-2]"
+          ]
+        },
+        {
+          "nombre": "Posarse y morder",
+          "descripcion": "[herido-3]; [agarrado-2]; pueden llevarse a un Héroe pequeño por la borda.",
+          "consecuencias": [
+            "Aplica [herido-3]",
+            "Aplica [agarrado-2]"
+          ]
+        },
+        {
+          "nombre": "Regresar al castillo",
+          "descripcion": "[gárgolas alerta]; [Avarice avisada]; si su ama ha caído, atacan sin retirada.",
+          "consecuencias": [
+            "Aplica [gárgolas alerta]",
+            "Aplica [Avarice avisada]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y secretos",
+          "descripcion": "son lentas en el suelo y torpes en espacios estrechos. No pueden entrar en la cisterna sin perder su ventaja. Si Avarice muere, luchan hasta destruirlas o hasta que el grupo escape del castillo."
+        }
+      ]
+    },
+    {
+      "slug": "duergar-descanso-dinev",
+      "nombre": "Duergar de El Descanso de Dinev",
+      "nivel": 1,
+      "poderio": [],
+      "roles": [
+        "Adversario",
+        "Merodeador"
+      ],
+      "aspecto_en": "A full-body group portrait of six grey dwarf infiltrators with compact muscular builds, grey skin and hard suspicious faces. Heavy winter layers cover practical armour, with mining tools and dark metal weapons close at hand. Their crouched stances suggest concealment inside an abandoned basement. Muted iron, ash and brown tones frame cold eyes and snow-stained boots.",
+      "descripcion": "seis duergar (VD 1) escondidos en la posada.. Su presencia condiciona la seguridad del castillo y las decisiones de los Héroes.",
+      "limites": [
+        {
+          "nombre": "banda",
+          "valor": 4,
+          "consecuencia": "número y cohesión"
+        },
+        {
+          "nombre": "ocultos",
+          "valor": 3,
+          "consecuencia": "siguen sin ser descubiertos"
+        },
+        {
+          "nombre": "fanatismo",
+          "valor": 2,
+          "consecuencia": "Su obstinación se quiebra."
+        }
+      ],
+      "etiquetas": [
+        "duergar",
+        "enanos grises",
+        "invisibilidad",
+        "agrandarse",
+        "odio a los enanos",
+        "paciencia de minero",
+        "ocultos-2",
+        "alertas-2",
+        "heridos-2"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Emboscar desde el sótano",
+          "descripcion": "[herido-2]; [sorprendido-2]; intentan capturar a un Héroe para interrogarlo.",
+          "consecuencias": [
+            "Aplica [herido-2]",
+            "Aplica [sorprendido-2]"
+          ]
+        },
+        {
+          "nombre": "Huir hacia las afueras",
+          "descripcion": "[duergar escapados]; [aviso a Xardorok]; el ataque del dragón llega antes o con más información.",
+          "consecuencias": [
+            "Aplica [duergar escapados]",
+            "Aplica [aviso a Xardorok]"
+          ]
+        },
+        {
+          "nombre": "Usar invisibilidad y tamaño",
+          "descripcion": "[invisible-2]; [agrandado-2]; [herido-3] si atacan en grupo.",
+          "consecuencias": [
+            "Aplica [invisible-2]",
+            "Aplica [agrandado-2]",
+            "Aplica [herido-3]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y secretos",
+          "descripcion": "están aislados y no esperan visita; la luz y el ruido les delatan. No conocen el plano completo del castillo ni los planes de Avarice. Un duergar capturado puede revelar el nombre de Xardorok y la existencia de la fortaleza de la Columna del Mundo."
+        }
+      ]
+    },
+    {
+      "slug": "moho-marron-santuario",
+      "nombre": "Moho marrón del santuario",
+      "nivel": 3,
+      "poderio": [],
+      "roles": [
+        "Peligro"
+      ],
+      "aspecto_en": "An environmental study of a brown mould patch spreading across a frozen stone shrine wall. Dense earthy textures surround an eight-foot ice pillar containing a painted wooden horned effigy bound with black chains. Supernatural frost coats nearby masonry, while faint torchlight adds dangerous warmth. Brown, black and glacial blue dominate; no people or living creatures appear in the scene.",
+      "descripcion": "parche de moho marrón de diez pies cuadrados en el santuario de Levistus.. Un peligro ambiental condiciona la exploración y exige protección.",
+      "limites": [
+        {
+          "nombre": "parche",
+          "valor": 3,
+          "consecuencia": "superficie que se extiende"
+        },
+        {
+          "nombre": "frío",
+          "valor": 3,
+          "consecuencia": "el hielo que mantiene"
+        }
+      ],
+      "etiquetas": [
+        "moho marrón",
+        "frío sobrenatural",
+        "altar de Levistus",
+        "hielo eterno",
+        "helado-2",
+        "quemado-2",
+        "debilitado-2"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Tocar el pilar de hielo",
+          "descripcion": "el moho ataca; [helado-3]; [herido-3]; el frío extremo absorbe el calor del cuerpo.",
+          "consecuencias": [
+            "Aplica [helado-3]",
+            "Aplica [herido-3]"
+          ]
+        },
+        {
+          "nombre": "Acercarse sin protección",
+          "descripcion": "[helado-2]; [debilitado-2]; el calor del fuego y de las antorchas se vuelve peligroso.",
+          "consecuencias": [
+            "Aplica [helado-2]",
+            "Aplica [debilitado-2]"
+          ]
+        },
+        {
+          "nombre": "Destruir el moho con fuego",
+          "descripcion": "el parche se expande ([moho extendido]); [humo tóxico]; el hielo se derrite y el santuario pierde su función.",
+          "consecuencias": [
+            "Aplica [moho extendido]",
+            "Aplica [humo tóxico]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y secretos",
+          "descripcion": "el moho crece con el frío y se alimenta de calor; el fuego lo hace crecer. Se puede evitar sin tocarlo. Destruirlo libera el santuario, pero también alerta a los sectarios. El maniquí es solo madera pintada: no hay poder real en él, solo la fe del culto."
+        }
+      ]
+    },
+    {
+      "slug": "invierno-caer-dineval",
+      "nombre": "El invierno de Caer-Dineval",
+      "nivel": 2,
+      "poderio": [],
+      "roles": [
+        "Peligro"
+      ],
+      "aspecto_en": "A wide environmental study of a frozen fishing harbour beneath a steep cliff and distant fortress. Deep snow hides paths, thin ice fractures beside deserted piers, and wind drives pale veils across the lake. Dark water shows through narrow cracks. Blue twilight, grey stone and white snow convey exhausting winter exposure. No people, animals or creatures are present.",
+      "descripcion": "frío extremo, puerto congelado y ventiscas del Lac Dinneshere.. Un peligro ambiental condiciona la exploración y exige protección.",
+      "limites": [
+        {
+          "nombre": "helado",
+          "valor": 4,
+          "consecuencia": "frío acumulado"
+        },
+        {
+          "nombre": "perdido",
+          "valor": 3,
+          "consecuencia": "desorientación en la ventisca"
+        },
+        {
+          "nombre": "empapado",
+          "valor": 3,
+          "consecuencia": "agua helada"
+        }
+      ],
+      "etiquetas": [
+        "viento del lago",
+        "nieve profunda",
+        "hielo fino",
+        "puerto congelado",
+        "noche larga",
+        "helado-1",
+        "helado-2",
+        "helado-3",
+        "empapado-2",
+        "perdido-2",
+        "agotado-2"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Ventisca repentina",
+          "descripcion": "[perdido-2]; [helado-2]; las huellas desaparecen y el castillo se pierde de vista.",
+          "consecuencias": [
+            "Aplica [perdido-2]",
+            "Aplica [helado-2]"
+          ]
+        },
+        {
+          "nombre": "Hielo fino del puerto",
+          "descripcion": "[empapado-2]; [helado-3]; se pierde una etiqueta de mochila o se rompe el equipo.",
+          "consecuencias": [
+            "Aplica [empapado-2]",
+            "Aplica [helado-3]"
+          ]
+        },
+        {
+          "nombre": "Noche sin refugio",
+          "descripcion": "[helado-1] a cada Héroe; [agotado-2]; no se recupera aliento y la Compañía se resiente.",
+          "consecuencias": [
+            "Aplica [helado-1]",
+            "Aplica [agotado-2]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y secretos",
+          "descripcion": "un buen abrigo, fuego, un refugio y un descanso en el campamento reducen los estados de frío. El castillo ofrece refugio si se conquista o se negocia. El lago helado es una carretera rápida pero traicionera."
+        }
+      ]
+    },
+    {
+      "slug": "crannoc-siever",
+      "nombre": "Crannoc Siever",
+      "nivel": 1,
+      "poderio": [],
+      "roles": [
+        "Obstáculo"
+      ],
+      "aspecto_en": "A full-body portrait of a forty-nine-year-old human man with a soft build, pale skin, unkempt beard and dark circles. He wears a rumpled nightshirt, a loose wool blanket around his shoulders and no shoes. His sarcastic expression and theatrical posture suggest a humiliated official trying to preserve authority. Cold stone and subdued winter light provide a simple background.",
+      "descripcion": "portavoz de Caer-Dineval y prisionero del culto; autoridad legítima del pueblo. fanfarrón, teatral y colérico; se comporta como un rey destronado, grita y gesticula para imponer su opinión, pero bajo la bravura hay miedo y vergüenza; habla con sarcasmo cuando se siente acorralado",
+      "limites": [
+        {
+          "nombre": "convencido",
+          "valor": 3,
+          "consecuencia": "Cede en este aspecto del enfrentamiento."
+        },
+        {
+          "nombre": "orgulloso",
+          "valor": 3,
+          "consecuencia": "Cede en este aspecto del enfrentamiento."
+        }
+      ],
+      "etiquetas": [
+        "portavoz",
+        "fanfarrón",
+        "prisionero",
+        "rencoroso"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Se niega a colaborar",
+          "descripcion": "se niega a colaborar ([portavoz obstinado])",
+          "consecuencias": [
+            "Aplica [portavoz obstinado]"
+          ]
+        },
+        {
+          "nombre": "Exige que le traten como autoridad",
+          "descripcion": "exige que le traten como autoridad ([protocolo])",
+          "consecuencias": [
+            "Aplica [protocolo]"
+          ]
+        },
+        {
+          "nombre": "Promete recompensas que no puede pagar",
+          "descripcion": "promete recompensas que no puede pagar ([favor dudoso])",
+          "consecuencias": [
+            "Aplica [favor dudoso]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Motivaciones y salida",
+          "descripcion": "recuperar el castillo, castigar a sus captores, volver a mandar y que el pueblo vuelva a tratarle como portavoz no combate. Desafío social de nivel 1 si se le presiona o se le humilla: límites [convencido 3], [orgulloso 3]; etiquetas [portavoz], [fanfarrón], [prisionero], [rencoroso]; amenazas: se niega a colaborar ([portavoz obstinado]); exige que le traten como autoridad ([protocolo]); promete recompensas que no puede pagar ([favor dudoso])."
+        }
+      ]
+    },
+    {
+      "slug": "roark",
+      "nombre": "Roark",
+      "nivel": 1,
+      "poderio": [],
+      "roles": [
+        "Obstáculo"
+      ],
+      "aspecto_en": "A full-body portrait of a stocky middle-aged human innkeeper with greying brown hair and broad cook’s hands. A patched apron covers practical wool clothing and winter boots. He holds a wooden soup ladle close to his body, standing with tired shoulders and a reluctant half smile. His cautious expression hints at worries he will only discuss quietly.",
+      "descripcion": "dueño de La Subida, tabernero y fuente de rumores. resignado, práctico y cauteloso; se queja del invierno y del ferry, pero no es tonto; habla en voz baja cuando menciona el castillo y cambia de tema si entra un lugareño",
+      "limites": [
+        {
+          "nombre": "tranquilo",
+          "valor": 2,
+          "consecuencia": "Cede en este aspecto del enfrentamiento."
+        },
+        {
+          "nombre": "desconfiado",
+          "valor": 2,
+          "consecuencia": "Cede en este aspecto del enfrentamiento."
+        }
+      ],
+      "etiquetas": [
+        "tabernero",
+        "cansado",
+        "bien informado"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Cierra la puerta",
+          "descripcion": "cierra la puerta ([puerta cerrada])",
+          "consecuencias": [
+            "Aplica [puerta cerrada]"
+          ]
+        },
+        {
+          "nombre": "Avisa a los vecinos",
+          "descripcion": "avisa a los vecinos ([rumor])",
+          "consecuencias": [
+            "Aplica [rumor]"
+          ]
+        },
+        {
+          "nombre": "Niega la sopa",
+          "descripcion": "niega la sopa ([hambriento-1])",
+          "consecuencias": [
+            "Aplica [hambriento-1]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Motivaciones y salida",
+          "descripcion": "sobrevivir el invierno, recuperar el hidromiel y que el pueblo vuelva a tener clientes no combate. Desafío social de nivel 1 si se le presiona: límites [tranquilo 2], [desconfiado 2]; etiquetas [tabernero], [cansado], [bien informado]; amenazas: cierra la puerta ([puerta cerrada]); avisa a los vecinos ([rumor]); niega la sopa ([hambriento-1])."
+        }
+      ]
+    },
+    {
+      "slug": "huarwar-mulphoon",
+      "nombre": "Huarwar Mulphoon",
+      "nivel": 2,
+      "poderio": [],
+      "roles": [
+        "Adversario"
+      ],
+      "aspecto_en": "A full-body portrait of a thin human man around twenty with untidy hair, sad eyes and a slumped posture. Poorly fitted leather armour covers layered winter clothing, and a black chardalyn sword pendant rests on his chest. His boots are worn and snow-stained. His melancholy expression combines obedience, uncertainty and a lingering desire to belong somewhere safe.",
+      "descripcion": "fanático del culto en la puerta del Caer; hijo desaparecido de Cora Mulphoon. melancólico, pesimista y dócil; habla con frases cortas y evita mirar a los ojos; sigue a Fel Suparra porque le dio un propósito cuando no tenía ninguno",
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 4,
+          "consecuencia": "Queda fuera de combate."
+        },
+        {
+          "nombre": "convencido",
+          "valor": 3,
+          "consecuencia": "Cede en este aspecto del enfrentamiento."
+        }
+      ],
+      "etiquetas": [
+        "fanático",
+        "melancólico",
+        "amuleto de chardalyn",
+        "hijo perdido"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Ataca con desesperación",
+          "descripcion": "ataca con desesperación ([herido-2])",
+          "consecuencias": [
+            "Aplica [herido-2]"
+          ]
+        },
+        {
+          "nombre": "Llama a fel",
+          "descripcion": "llama a Fel ([refuerzo])",
+          "consecuencias": [
+            "Aplica [refuerzo]"
+          ]
+        },
+        {
+          "nombre": "Duda y baja la guardia si se le habla de su madre",
+          "descripcion": "duda y baja la guardia si se le habla de su madre ([convencido-2])",
+          "consecuencias": [
+            "Aplica [convencido-2]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Motivaciones y salida",
+          "descripcion": "pertenecer, no volver a pasar frío ni hambre y, en el fondo, que su madre esté bien nivel 2; límites [herido 4], [convencido 3]; etiquetas [fanático], [melancólico], [amuleto de chardalyn], [hijo perdido]; amenazas: ataca con desesperación ([herido-2]); llama a Fel ([refuerzo]); duda y baja la guardia si se le habla de su madre ([convencido-2])."
+        }
+      ]
+    },
+    {
+      "slug": "fel-suparra",
+      "nombre": "Fel Suparra",
+      "nivel": 2,
+      "poderio": [],
+      "roles": [
+        "Adversario"
+      ],
+      "aspecto_en": "A full-body portrait of an adult female tiefling with reddish skin, curved horns, black eyes and a visible tail. Leather armour, a heavy winter cloak and sturdy boots frame a black sword pendant at her neck. She stands confidently with a sharp possessive smile, one hand raised in command. Dark leather and muted red dominate the subdued portrait.",
+      "descripcion": "fanática tiefling y mentora de Huarwar; guardia de la puerta. dominante, burlona y posesiva; trata a Huarwar como a un perro faldero y disfruta del poder que tiene sobre él; habla con desprecio de los débiles y con devoción exagerada de Levistus",
+      "limites": [
+        {
+          "nombre": "herida",
+          "valor": 4,
+          "consecuencia": "Queda fuera de combate."
+        },
+        {
+          "nombre": "convencida",
+          "valor": 3,
+          "consecuencia": "Cede en este aspecto del enfrentamiento."
+        }
+      ],
+      "etiquetas": [
+        "fanática",
+        "tiefling",
+        "resistencia al fuego",
+        "visión en la oscuridad",
+        "manipuladora"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Usa a huarwar como escudo",
+          "descripcion": "usa a Huarwar como escudo ([Huarwar expuesto], [herido-2])",
+          "consecuencias": [
+            "Aplica [Huarwar expuesto]",
+            "Aplica [herido-2]"
+          ]
+        },
+        {
+          "nombre": "Lanza fuego",
+          "descripcion": "lanza fuego ([quemado-2])",
+          "consecuencias": [
+            "Aplica [quemado-2]"
+          ]
+        },
+        {
+          "nombre": "Huye y da la alarma",
+          "descripcion": "huye y da la alarma ([alarma], [sectarios alerta])",
+          "consecuencias": [
+            "Aplica [alarma]",
+            "Aplica [sectarios alerta]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Motivaciones y salida",
+          "descripcion": "ascender en el culto, conservar a Huarwar bajo su control y demostrar que vale más que los demás fanáticos nivel 2; límites [herida 4], [convencida 3]; etiquetas [fanática], [tiefling], [resistencia al fuego], [visión en la oscuridad], [manipuladora]; amenazas: usa a Huarwar como escudo ([Huarwar expuesto], [herido-2]); lanza fuego ([quemado-2]); huye y da la alarma ([alarma], [sectarios alerta])."
+        }
+      ]
+    },
+    {
+      "slug": "thoob",
+      "nombre": "Thoob",
+      "nivel": 1,
+      "poderio": [],
+      "roles": [
+        "Adversario"
+      ],
+      "aspecto_en": "A full-body portrait of a short, plump adult human man with an unfriendly face and an awkward stance. Rumpled cult clothing and a thick wool mantle cover his body, with a dark pendant at his neck and boots below. He grips a weapon clumsily. His spiteful expression and hunched shoulders suggest a bully who fears his own superior.",
+      "descripcion": "guardia de la puerta del despacho de Kadroth; sectario humano. sádico, rencoroso y servil; descarga su frustración en los demás y se crece cuando transmite órdenes ajenas; habla con desprecio y se encoge ante Kadroth",
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 3,
+          "consecuencia": "Queda fuera de combate."
+        },
+        {
+          "nombre": "convencido",
+          "valor": 2,
+          "consecuencia": "Cede en este aspecto del enfrentamiento."
+        }
+      ],
+      "etiquetas": [
+        "sectario",
+        "sádico",
+        "cobarde",
+        "guardián"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Grita pidiendo ayuda",
+          "descripcion": "grita pidiendo ayuda ([alarma])",
+          "consecuencias": [
+            "Aplica [alarma]"
+          ]
+        },
+        {
+          "nombre": "Ataca por la espalda",
+          "descripcion": "ataca por la espalda ([herido-2])",
+          "consecuencias": [
+            "Aplica [herido-2]"
+          ]
+        },
+        {
+          "nombre": "Se rinde si se le supera",
+          "descripcion": "se rinde si se le supera ([rendido])",
+          "consecuencias": [
+            "Aplica [rendido]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Motivaciones y salida",
+          "descripcion": "el favor de Kadroth, sentirse importante y que alguien le tema nivel 1; límites [herido 3], [convencido 2]; etiquetas [sectario], [sádico], [cobarde], [guardián]; amenazas: grita pidiendo ayuda ([alarma]); ataca por la espalda ([herido-2]); se rinde si se le supera ([rendido])."
+        }
+      ]
+    },
+    {
+      "slug": "yajath",
+      "nombre": "Yajath",
+      "nivel": 2,
+      "poderio": [],
+      "roles": [
+        "Adversario"
+      ],
+      "aspecto_en": "A full-body portrait of a broad-faced, heavyset adult human guard with a shaved head and a bored expression. He wears leather armour marked with the cult emblem over thick wool layers, heavy boots and a plain winter cloak. A black chardalyn pendant hangs at his chest. His relaxed blocking stance suggests someone counting the hours until his shift ends.",
+      "descripcion": "guardia personal de Crannoc en el dormitorio del portavoz. aburrido, pragmático y poco imaginativo; no disfruta del cautiverio, pero obedece porque le pagan y le teme a Kadroth; habla con gruñidos y frases cortas",
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 4,
+          "consecuencia": "Queda fuera de combate."
+        },
+        {
+          "nombre": "convencido",
+          "valor": 3,
+          "consecuencia": "Cede en este aspecto del enfrentamiento."
+        }
+      ],
+      "etiquetas": [
+        "sectario",
+        "guardia",
+        "amuleto de chardalyn",
+        "perezoso"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Bloquea la puerta",
+          "descripcion": "bloquea la puerta ([puerta cerrada])",
+          "consecuencias": [
+            "Aplica [puerta cerrada]"
+          ]
+        },
+        {
+          "nombre": "Llama a kadroth",
+          "descripcion": "llama a Kadroth ([refuerzo])",
+          "consecuencias": [
+            "Aplica [refuerzo]"
+          ]
+        },
+        {
+          "nombre": "Negocia su huida si se le ofrece una salida",
+          "descripcion": "negocia su huida si se le ofrece una salida ([rendido])",
+          "consecuencias": [
+            "Aplica [rendido]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Motivaciones y salida",
+          "descripcion": "terminar su turno, comer caliente y no meterse en problemas nivel 2; límites [herido 4], [convencido 3]; etiquetas [sectario], [guardia], [amuleto de chardalyn], [perezoso]; amenazas: bloquea la puerta ([puerta cerrada]); llama a Kadroth ([refuerzo]); negocia su huida si se le ofrece una salida ([rendido])."
+        }
+      ]
+    }
+  ],
+  "objetos": [
+    {
+      "slug": "amuleto-de-espada-de-chardalyn",
+      "nombre": "Amuleto de espada de chardalyn",
+      "etiqueta": "amuleto de espada de chardalyn",
+      "descripcion": "etiqueta de mochila. Amuleto negro en forma de espada, con un resplandor interno que da calor y guía a su portador hasta la civilización; una vez en Diez Ciudades pierde el brillo. Está corrompido por Levistus: detectar el bien y el mal lo revela como profano. Cada amanecer, quien lo lleve debe superar una tentación o volverse [legal malvado]; pasados nueve días, solo un deseo o la intervención divina revierten el cambio.",
+      "imagen_en": "An isolated black chardalyn amulet shaped like a small sword, suspended from a plain cord. A faint inner glow catches sharp mineral facets. Cold blue lighting, neutral background, detailed dark crystalline texture."
+    },
+    {
+      "slug": "anillo-de-llaves-de-kadroth",
+      "nombre": "Anillo de llaves de Kadroth",
+      "etiqueta": "anillo de llaves de Kadroth",
+      "descripcion": "etiqueta de mochila o de historia. Abre y cierra todas las puertas interiores del Caer. Quitárselo a Kadroth es más valioso que matarle; sin él, los sectarios pierden movilidad.",
+      "imagen_en": "An isolated iron ring carrying a varied collection of worn castle door keys. Dark metal teeth, polished handling marks and simple utilitarian craftsmanship, displayed against a neutral background under soft oblique light."
+    },
+    {
+      "slug": "baston-de-escarcha-de-avarice",
+      "nombre": "Bastón de escarcha de Avarice",
+      "etiqueta": "bastón de escarcha de Avarice",
+      "descripcion": "etiqueta de mochila. Bastón de madera oscura con cristal de hielo; permite descargas de escarcha y muros de hielo. Avarice lo lleva siempre a mano y lo guarda en una cartera forrada de pieles cuando escribe.",
+      "imagen_en": "An isolated dark wooden staff crowned by a clear ice crystal, with frost gathering around the upper shaft. A fur-lined carrying case rests alongside it. Cold studio lighting and a neutral background."
+    },
+    {
+      "slug": "libro-de-conjuros-de-avarice",
+      "nombre": "Libro de conjuros de Avarice",
+      "etiqueta": "libro de conjuros de Avarice",
+      "descripcion": "etiqueta de historia o documento. Volumen encuadernado en piel, con notas sobre Ythryn, la Hermandad Arcana y magos rivales. Es una pista de campaña y un tesoro codiciado.",
+      "imagen_en": "An isolated leather-bound spellbook beside a plain satchel, its worn cover closed and unmarked. Thick page edges, subtle frost and dark stitching suggest frequent use in a cold underground chamber. Neutral background."
+    },
+    {
+      "slug": "profecia-de-hethyl",
+      "nombre": "Profecía de Hethyl",
+      "etiqueta": "profecía de Hethyl",
+      "descripcion": "etiqueta de historia o documento para los jugadores. Cuatro verdades: Xardorok conquistará el valle si no lo detienen; su fortaleza está en la Columna del Mundo y alberga una forja alimentada por el corazón de un dragón rojo; allí está el plan de destrucción de Diez Ciudades; quien se enfrente a él demasiado pronto morirá. Hethyl muere al terminar de hablar.",
+      "imagen_en": "An isolated sheet of parchment prepared for recording an oral prophecy, with curled edges and a simple quill beside it. No visible writing. Muted ivory and brown under soft winter light."
+    },
+    {
+      "slug": "testimonio-de-crannoc",
+      "nombre": "Testimonio de Crannoc",
+      "etiqueta": "testimonio de Crannoc",
+      "descripcion": "etiqueta de historia o documento. El portavoz cuenta que los sectarios llegaron como árbitros neutrales del Consejo de Portavoces, que Kadroth manda y que responde ante Levistus. Sirve para convencer a la milicia y al Consejo.",
+      "imagen_en": "An isolated official testimony sheet with a plain folded edge and a dark blue wax seal. Blank parchment, no letters or symbols, neutral background and warm directional light showing the paper texture."
+    },
+    {
+      "slug": "plano-del-caer",
+      "nombre": "Plano del Caer",
+      "etiqueta": "plano del Caer",
+      "descripcion": "etiqueta de historia o documento para los jugadores. Croquis de los niveles del castillo, la cisterna, el santuario y la celda de los prisioneros; puede obtenerse de Alassar, de Mere, de los duergar o de los archivos del portavoz.",
+      "imagen_en": "An isolated folded castle plan on rough parchment, showing simple unlabeled outlines of towers, corridors and underground chambers. No written words. Faded charcoal lines, creased corners and soft neutral lighting."
+    },
+    {
+      "slug": "fuego-de-alquimista",
+      "nombre": "Fuego de alquimista",
+      "etiqueta": "fuego de alquimista",
+      "descripcion": "etiqueta de mochila, seis frascos en la armería. Ataque con [fuego]; crea [ardiendo-2] o [humo] en una zona cerrada; no sirve contra los cadáveres condenados por Levistus.",
+      "imagen_en": "An isolated set of six stoppered glass flasks containing alchemical fire, packed in a small protective wooden chest. Amber liquid catches warm light against iron fittings and a plain dark background."
+    },
+    {
+      "slug": "armeria-del-caer",
+      "nombre": "Armería del Caer",
+      "etiqueta": "armería del Caer",
+      "descripcion": "etiqueta de historia. Veinte lanzas, ocho arcos largos, ocho aljabas de cincuenta flechas y un cofre con fuego de alquimista. Equipar a la milicia o a los sirvientes liberados crea [milicia armada].",
+      "imagen_en": "A neatly arranged castle armoury inventory: bundled spears, longbows, arrow-filled quivers and a closed wooden chest. Worn practical materials, iron points and simple leather straps against a neutral stone background."
+    },
+    {
+      "slug": "trineo-y-perros",
+      "nombre": "Trineo y perros",
+      "etiqueta": "trineo y perros",
+      "descripcion": "etiqueta de historia o de mochila. Seis perros de trineo amistosos y un trineo con arneses; permiten viajar más rápido por la nieve y reducir los tiempos de viaje hasta la mitad. Los perros ladran si alguien se acerca a menos de diez pies de la perrera.",
+      "imagen_en": "An isolated wooden snow sled with leather harnesses, surrounded by six friendly sled dogs in thick winter coats. Practical worn runners and bundled traces, soft cold light and a neutral snowy background."
+    },
+    {
+      "slug": "bote-de-remos-de-la-cisterna",
+      "nombre": "Bote de remos de la cisterna",
+      "etiqueta": "bote de remos de la cisterna",
+      "descripcion": "etiqueta de historia. Bote con dos remos para dos personajes Medianos y su equipo; permite cruzar la cisterna sin mojarse. La losa de mármol azul se acciona con la palanca de la sala contigua.",
+      "imagen_en": "An isolated small wooden rowing boat with two oars laid across its benches. Dark damp planks, simple iron fittings and room for two travellers with equipment, presented against a plain neutral background."
+    },
+    {
+      "slug": "moho-marron",
+      "nombre": "Moho marrón",
+      "etiqueta": "moho marrón",
+      "descripcion": "etiqueta de historia o peligro ambiental. Parche de diez pies cuadrados que mantiene congelado el santuario; crece con el frío y se alimenta de calor. Tocarlo o quemarlo tiene consecuencias graves.",
+      "imagen_en": "An isolated patch of dense brown mould on a fragment of frost-covered stone. Earthy fibrous texture contrasts with pale ice crystals, under cold directional light against a neutral dark background."
+    },
+    {
+      "slug": "heraldica-de-caer-dineval",
+      "nombre": "Heráldica de Caer-Dineval",
+      "etiqueta": "heráldica de Caer-Dineval",
+      "descripcion": "etiqueta de historia. Torre de vigilancia de piedra con tres almenas y dos aspilleras sobre campo azul oscuro, con un pez rojo horizontal delante. Representa la vigilancia del puerto y la tradición pesquera; puede usarse como sello o salvoconducto.",
+      "imagen_en": "An isolated heraldic shield on a dark blue field: a stone watchtower with three battlements and two arrow slits, with a horizontal red fish in front. Weathered paint, neutral background, no lettering."
+    }
+  ],
+  "ayudas": [
+    {
+      "slug": "profecia-hethyl",
+      "titulo": "Profecía de Hethyl",
+      "tipo": "nota",
+      "texto": "Xardorok Solmarchito conquistará el valle si no lo detenéis. Su fortaleza se oculta en la Columna del Mundo; allí arde una forja alimentada por el corazón aún palpitante de un dragón rojo. Allí encontraréis el plan para destruir Diez Ciudades. Pero si os enfrentáis a él demasiado pronto, moriréis. Antes debéis probaros contra los horrores de los confines del valle.",
+      "fondo_en": "A blank sheet of rough ivory parchment with worn corners, faint fold marks and natural fibres, resting flat under soft side lighting. No text, letters, symbols, illustrations or ink marks anywhere."
+    },
+    {
+      "slug": "testimonio-crannoc",
+      "titulo": "Testimonio de Crannoc",
+      "tipo": "nota",
+      "texto": "Soy Crannoc Siever, portavoz de Caer-Dineval. Mis captores llegaron presentándose como árbitros neutrales del Consejo de Portavoces, dispuestos a mediar en nuestras disputas de pesca con Puerto Este y Caer-Konig. Era una farsa. Kadroth manda sobre ellos y responde ante alguien llamado Levistus. Asesinaron a mis guardias y retuvieron a mis sirvientes como rehenes. Me encerraron y difundieron que estaba enfermo.",
+      "fondo_en": "A blank sheet of rough ivory parchment with worn corners, faint fold marks and natural fibres, resting flat under soft side lighting. No text, letters, symbols, illustrations or ink marks anywhere."
+    },
+    {
+      "slug": "plano-caer",
+      "titulo": "Plano del Caer",
+      "tipo": "mapa",
+      "texto": "El Caer: cuatro torres cilíndricas y patio central, entrada con dos rastrillos y dos juegos de puertas. Las escaleras heladas del patio suben a las murallas. Planta alta: salón, despacho, dormitorio de Kadroth, aposentos de Hethyl, biblioteca quemada y dormitorio del portavoz. Torre noroeste: trampilla de piedra y escalera hacia la cisterna; pasadizo secreto al despacho del portavoz. Bajo el castillo: cisterna, bote de remos, losa de mármol azul accionada desde la sala contigua, santuario, cámara de Avarice y celda de los sirvientes.",
+      "fondo_en": "A blank sheet of rough ivory parchment with worn corners, faint fold marks and natural fibres, resting flat under soft side lighting. No text, letters, symbols, illustrations or ink marks anywhere."
+    },
+    {
+      "slug": "rumores-subida",
+      "titulo": "Rumores de La Subida",
+      "tipo": "nota",
+      "texto": "El ferry lleva dos meses sin funcionar. Ya no llega hidromiel de Buenaguamiel. El portavoz no aparece en público: dicen que está muy enfermo. Sus sirvientes tampoco bajan al pueblo. Los guardias del Caer han cambiado y hay caras nuevas en el castillo.",
+      "fondo_en": "A blank sheet of rough ivory parchment with worn corners, faint fold marks and natural fibres, resting flat under soft side lighting. No text, letters, symbols, illustrations or ink marks anywhere."
+    },
+    {
+      "slug": "ferry-viajes",
+      "titulo": "Ferry y viajes desde Caer-Dineval",
+      "tipo": "nota",
+      "texto": "El ferry a Puerto Este está suspendido desde hace dos meses y el puerto está congelado. Tiempos de viaje a pie: Bryn Shander, diez horas y media; Caer-Konig, dos horas; Puerto Este, nueve horas; Buenaguamiel, ocho horas. Las monturas y los trineos con perros pueden reducir estos tiempos hasta la mitad.",
+      "fondo_en": "A blank sheet of rough ivory parchment with worn corners, faint fold marks and natural fibres, resting flat under soft side lighting. No text, letters, symbols, illustrations or ink marks anywhere."
+    }
+  ],
+  "hitos": [
+    "El portavoz recuperado: liberar a Crannoc.",
+    "La profecía de la escarcha: escuchar a Hethyl y sobrevivir.",
+    "Los amos del Caer: tomar la fortaleza o aliarse con sus ocupantes.",
+    "Bajo el hielo: descubrir la cisterna y a los prisioneros.",
+    "La espada de chardalyn: resistir o destruir un amuleto corrupto.",
+    "Liberar a los cinco sirvientes y obtener su ayuda.",
+    "Descubrir y derrotar o capturar a los seis duergar.",
+    "Convertir el Caer en una base de la Compañía mediante una alianza o la restitución de Crannoc."
+  ],
+  "relojes": []
+}
