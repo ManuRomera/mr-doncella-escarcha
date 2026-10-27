@@ -816,6 +816,1320 @@
    "tipo": "escena",
    "size": "1024x1536",
    "prompt": "Top-down flat view of a blank physical document filling the frame: A blank sheet of rough ivory parchment with worn corners, faint fold marks and natural fibres, resting flat under soft side lighting. No text, letters, symbols, illustrations or ink marks anywhere. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
+  },
+  {
+   "id": "la-aurora-que-impide-el-amanecer",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. Wide establishing view of blue black tundra north of the Spine of the World, with hardened snow ridges, sharp mountain silhouettes and a green violet aurora over the horizon. Cold insufficient light, no paths, no figures. Leave the lower third clear."
+  },
+  {
+   "id": "el-abrigo-precario-de-diez-ciudades",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. Wide establishing view of low wooden houses with roofs buried under accumulated snow, amber windows, frost covered docks and an immobilised ferry between ice plates. Greys, browns and orange light points, no figures. Leave the lower third clear."
+  },
+  {
+   "id": "la-marcha-por-la-tundra",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. Wide establishing view of a snow plain with ice crusts, almost erased tracks and small ridges hiding the horizon. Leaden sky, decreasing visibility and no tall vegetation. No figures. Leave the lower third clear."
+  },
+  {
+   "id": "la-ventisca-cierra-el-mundo",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. Wide establishing view of almost opaque white, a grey ground strip and small drifts leeward of black rocks. No horizon or architectural references, diffuse light. No figures. Leave the lower third clear."
+  },
+  {
+   "id": "el-lago-bajo-los-pies",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. Wide establishing view of a blue grey lake surface, a black opening surrounded by shavings, a stranded boat and pale cracks under snow. Dim light, dark water, low shores. No figures. Leave the lower third clear."
+  },
+  {
+   "id": "el-paso-de-montana-y-la-avalancha",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. Wide establishing view of a white slope between dark cliffs, cornices above a narrow gorge and a tongue of powdered snow descending toward the valley. Black and white contrasts under an ashen sky. No figures. Leave the lower third clear."
+  },
+  {
+   "id": "el-glaciar-que-oculta-ythryn",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. Wide establishing view of a blue ice wall at the eastern edge of the valley, compressed strata, black fissures and opalescent depth. No city visible from outside. No figures. Leave the lower third clear."
+  },
+  {
+   "id": "pnj-auril",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. Full body portrait of an ageless goddess of winter, hieratic and distant, wrapped in rigid white frost and stiff white cloaks. Her pale face is unreadable; snow and ice crystals cling to her hair and shoulders. A white roc mount looms behind her. Cold blue white light, no compassion in her expression. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-xardorok-solmarchito",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. Full body portrait of a robust adult grey dwarf man in a fur coat over forge clothes, soot stained hands and an obsessive gaze. His broad build and commanding posture convey despotic ambition. Cold mountain light catches dark metal and frost on his shoulders. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-durth-y-nildar",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. Full body portrait of two sturdy adult grey dwarves in dark coats and loading harnesses, each with different crew emblems. Their practical, authoritarian stances and cold weather gear suggest organised crystal gatherers. Muted winter light and frost on dark fabric. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-vellynne-harpell",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. Full body portrait of a slender adult human woman in a well kept winter coat, travel gloves and writing tools. Her measured expression and careful posture suggest an interested ally. Cold pale light, no weapons visible. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-beldora",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. Full body portrait of a small adult human woman in a patched winter coat and hood, with an attentive face. Her quiet direct posture suggests discretion and independence. Cold blue light, no weapons. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-bjornhild-solvigsdottir",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. Full body portrait of a strong adult human woman with weathered skin and heavy fur garments. Her broad stance and harsh expression convey tribal authority and devotion to Auril. Cold light on dark pelts. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-vokarr-el-muerdeojos",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. Full body portrait of a fierce adult orc man, broad shouldered, wearing pelts and scarred armour. He appears alive despite being a spirit. Cold light, martial stance, no weapons specified. Snow around his boots. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-asesina-de-neverember",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. Full body portrait of a lean middle aged woman with a shaved head and a hook replacing her right hand. She wears a winter coat concealing tools. Professional, sparse expression. Cold muted light. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "peligro-frio-extremo",
+   "tipo": "escena",
+   "size": "1024x1024",
+   "prompt": "Square vignette illustration of a hazard, no people: An environmental danger of lethal cold: wind driven snow over dark ice and exposed rock, with no shelter or fire. Blue white light, frost crystals and an empty frozen plain convey exhaustion and exposure. No figures."
+  },
+  {
+   "id": "peligro-ventisca",
+   "tipo": "escena",
+   "size": "1024x1024",
+   "prompt": "Square vignette illustration of a hazard, no people: An environmental danger of whiteout: opaque snow, fierce wind, erased tracks and a small group struggling against the storm. Blue white light, flying ice needles and no visible horizon. No figures."
+  },
+  {
+   "id": "peligro-avalancha-y-sepultamiento",
+   "tipo": "escena",
+   "size": "1024x1024",
+   "prompt": "Square vignette illustration of a hazard, no people: An environmental danger of a massive avalanche: a white mass sweeping a narrow mountain pass, black cliffs and powdered snow. Violent motion, debris and buried figures suggested rather than shown. No people in the foreground."
+  },
+  {
+   "id": "peligro-agua-helada-e-hielo-inseguro",
+   "tipo": "escena",
+   "size": "1024x1024",
+   "prompt": "Square vignette illustration of a hazard, no people: An environmental danger of thin ice and black water: a pale frozen lake surface with cracks, a fishing hole, a stranded boat and dark water below. Cold blue light, frost and treacherous footing. No figures."
+  },
+  {
+   "id": "peligro-trucha-de-cabeza-de-jarrete",
+   "tipo": "escena",
+   "size": "1024x1024",
+   "prompt": "Square vignette illustration of a hazard, no people: A creature portrait of a powerful freshwater trout with a broad head and muscular body, thrashing at the end of a fishing line through a hole in the ice. Cold water, bubbles and frost. No people."
+  },
+  {
+   "id": "desafio-acechador-invisible",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body creature or figure illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. An environmental or creature danger of an unseen stalker: disturbed snow, faint displaced frost and a looming invisible presence in a frozen landscape. Cold blue light, no visible figure, only traces. No people. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "desafio-banda-de-diablos-barbudos",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body creature or figure illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. Full body group portrait of three bearded devils disguised as winter travellers, with heavy winter clothing and hidden infernal features. Their coordinated, predatory stances suggest an ambush. Cold light on rough furs. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "peligro-renacuajo-slaad-latente",
+   "tipo": "escena",
+   "size": "1024x1024",
+   "prompt": "Square vignette illustration of a hazard, no people: An environmental or creature danger of an internal parasite: a tense human torso suggested by frost and dim light, with an unseen larval threat. Cold blue shadows, no gore, symbolic rather than explicit. No identifiable person."
+  },
+  {
+   "id": "peligro-influencia-del-chardalyn-profano",
+   "tipo": "escena",
+   "size": "1024x1024",
+   "prompt": "Square vignette illustration of a hazard, no people: An environmental danger of profane crystal influence: a dark, cold to the touch crystal fragment on snow, with subtle infernal residue and distorted light. No people. Cold blue and faint red accents."
+  },
+  {
+   "id": "desafio-dragon-de-chardalyn",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body creature or figure illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. Full body portrait of a dragon shaped construct made of dark chardalyn crystal, with angular wings and a siege weapon silhouette. It flies above snowy settlements. Cold light on faceted black crystal, no rider. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "ayuda-mapa-del-valle",
+   "tipo": "escena",
+   "size": "1024x1536",
+   "prompt": "Top-down flat view of a blank physical document filling the frame: An empty parchment map sheet with worn edges and faint folds, resting flat under soft neutral light. The central surface is clear and unmarked, with no text, symbols or illustrations. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
+  },
+  {
+   "id": "ayuda-ficha-de-viaje",
+   "tipo": "escena",
+   "size": "1024x1536",
+   "prompt": "Top-down flat view of a blank physical document filling the frame: An empty sheet of rough parchment with worn edges and faint folds, resting flat under soft neutral light. The central surface is clear and unmarked, with no text, symbols or illustrations. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
+  },
+  {
+   "id": "ayuda-tarjetas-de-secretos",
+   "tipo": "escena",
+   "size": "1024x1536",
+   "prompt": "Top-down flat view of a blank physical document filling the frame: An empty set of small cards on rough parchment with worn edges, resting flat under soft neutral light. The surfaces are clear and unmarked, with no text or illustrations. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
+  },
+  {
+   "id": "ayuda-registro-de-la-aurora",
+   "tipo": "escena",
+   "size": "1024x1536",
+   "prompt": "Top-down flat view of a blank physical document filling the frame: An empty sheet of rough parchment with worn edges and faint folds, resting flat under soft neutral light. The central surface is clear and unmarked, with no text, symbols or illustrations. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
+  },
+  {
+   "id": "ayuda-nota-del-atentado",
+   "tipo": "escena",
+   "size": "1024x1536",
+   "prompt": "Top-down flat view of a blank physical document filling the frame: An empty sheet of rough parchment with worn edges and faint folds, resting flat under soft neutral light. The central surface is clear and unmarked, with no text, symbols or illustrations. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
+  },
+  {
+   "id": "llegada-a-una-villa-bajo-la-aurora",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. Wide establishing view of a narrow hardened-snow street in a northern town: stone and timber houses with steep roofs, small amber windows and closed doors. Grey snowdrifts pile against façades; a dark sky shows green and blue aurora veils. Wind erases the horizon. Muted white, charcoal and warm amber palette. No figures. Leave the lower third open."
+  },
+  {
+   "id": "lagos-embarcaderos-y-pesca-bajo-el-hielo",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. Wide establishing view of a frozen lake harbour: frost-covered wooden dock, stiff nets, fish racks and beached boats beside black-and-white ice. Open fishing holes cut the surface; larger vessels carry village flags. Very faint blue light and dark water between ice plates. Muted pewter, slate and cold blue palette. No people or creatures. Leave the lower third open."
+  },
+  {
+   "id": "caminos-cargas-y-combustible",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. Wide establishing view of a snow track between bare hills, sled runner grooves and half-buried posts. Dark mountains on the horizon; beside a shed, stacked firewood, oil containers and an empty sled. White, brown and grey palette with a small warm light behind one window. No people. Leave the lower third open."
+  },
+  {
+   "id": "refugio-intercambios-y-rumores",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. Wide interior view of a dark timber tavern or inn: low beams, worn tables, small stove, boots and garments drying near heat, fogged glass and a counter with scarce provisions. In old Buenaguamiel buildings, carved dinosaur motifs may appear. Warm amber firelight, dark wood, cold blue window edges. No people. Leave the lower third open."
+  },
+  {
+   "id": "el-salon-del-concejo-de-bryn-shander",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. Wide interior view of a meeting hall in a walled town: wood and stone walls, long table, separated chairs, narrow windows thick with frost. Lamp light on worn surfaces; maps and use marks may be added as ambience. Cold grey and brown palette. No people. Leave the lower third open."
+  },
+  {
+   "id": "la-noche-sin-luna",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. Wide establishing view according to the offering: a snow-covered post at a village edge, wooden fish racks a mile from town, or cold chimneys and black windows. Moonless sky in near-black blues, barely visible white surfaces, no people or animals. Leave the lower third open."
+  },
+  {
+   "id": "pnj-portavoz-crannoc",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. Full body portrait of an indeterminate-age speaker hidden beneath layers of wool and pelts, with no fixed features beyond a vague silhouette. Heavy winter clothing conceals build, face and hands; a thick hood and scarf obscure identity. Neutral posture, subdued grey and brown palette, soft cold light, ambiguous and unassuming presence. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-trovus",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. Full body portrait of a dragonborn speaker in a thick winter coat and hood adapted to his reptilian head, winter boots and gloves. Age, scale colour and build are unspecified; the clothing and adapted hood are the defining visual notes. Practical cold-weather gear, muted brown and grey palette, guarded but practical expression. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-portavoz-masthew",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. Full body portrait of an unspecified-age speaker in wool clothing beneath a practical coat, with unfixed features. Simple layered winter garments, sturdy boots and an unremarkable stance convey urgency about miner safety. Muted earth tones, soft cold light, no fixed racial or facial details. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-oyaminartok",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. Full body portrait of a goliath lycanthrope able to adopt polar bear form, in humanoid shape: bulky body wrapped in travel furs, without fixed markings or age. Heavy pelts, broad shoulders and a sturdy stance suggest endurance; face and colour remain unspecified. Cold grey and white palette, practical winter gear, no fixed hostile expression. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-portavoces-y-habitantes-de-diez-ciudades",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. Full body group portrait of varied northerners in layered wool, furs, hoods and almost hidden faces when outdoors. Mixed ages, builds and origins; immigrant cultures survive in buildings, statues and ornaments. Practical winter clothing, cold grey light, guarded and resilient expressions. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-otras-figuras-mencionadas",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. Full body group portrait of unspecified northern figures in practical wool and fur clothing adapted to their trades. Only the dwarf contractors are specified; ages, builds and individual garments remain unfixed. Muted winter palette, cold light, practical poses, no invented distinguishing details. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "peligro-trayecto-bajo-el-invierno-de-auril",
+   "tipo": "escena",
+   "size": "1024x1024",
+   "prompt": "Square vignette illustration of a hazard, no people: Wide environmental study of a snowy route between northern settlements: deep snow, half-buried posts, sled runner grooves, wind-driven spindrift and distant dark mountains. An empty sledge and stacked firewood sit beside a small shed. White, brown and grey palette, dim winter light, no people. Strong sense of exposure and effort."
+  },
+  {
+   "id": "peligro-hielo-y-aguas-de-los-lagos",
+   "tipo": "escena",
+   "size": "1024x1024",
+   "prompt": "Square vignette illustration of a hazard, no people: Wide environmental study of a dangerous frozen lake: jagged ice floes, black open channels, wind-rippled water, frost-rimed dock pilings and a fragile wooden boat. Low fog and drifting snow. Pewter, slate and deep blue palette, dim winter light, no people. Treacherous and cold."
+  },
+  {
+   "id": "peligro-comunidad-aferrada-al-sacrificio",
+   "tipo": "escena",
+   "size": "1024x1024",
+   "prompt": "Square vignette illustration of a hazard, no people: Wide environmental study of a moonless winter night in a northern settlement: a snow-covered post at the village edge, dark racks of fish a mile away, or black windows and cold chimneys. Near-black blue sky, barely visible white surfaces, no people or animals. Oppressive silence and communal dread."
+  },
+  {
+   "id": "ayuda-rumores-de-diez-ciudades",
+   "tipo": "escena",
+   "size": "1024x1536",
+   "prompt": "Top-down flat view of a blank physical document filling the frame: A blank sheet of rough parchment with worn edges and faint folds, resting flat under soft neutral light. Empty writing area, no text, no symbols, no illustrations. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
+  },
+  {
+   "id": "ayuda-codigo-de-los-copos",
+   "tipo": "escena",
+   "size": "1024x1536",
+   "prompt": "Top-down flat view of a blank physical document filling the frame: An empty weathered wooden board with a simple carved border and a pale prepared surface. Isolated frontal view, frost on the edges, no lettering, no symbols or painted design. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
+  },
+  {
+   "id": "caer-konig-y-trovus",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide view of a terraced lakeside village rising like an amphitheatre above frozen Lac Dinneshere. Stone and timber houses crowd the white slope, broken piers jut from the ice, and ruined fortress stones hide under snow beneath Kelvin’s summit. Blue-grey winter light, a dark blue banner with a white ascending fish. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "anzuelo-sedal-y-plomo",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide interior view of an amber-lit tavern with a small table of tiny ale mugs by the door, worn surfaces and frost-veiled windows. Warm interior light contrasts with blue cold outside. Wooden beams and stone fireplace. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "expediciones-allendhelor",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide interior view of a travel outfitter packed with ropes, blankets and expedition gear. A closed wooden shed for two sleds and a snow-protected dog kennel stand beside it. Cold blue light outside, practical worn materials inside. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "la-luz-del-norte",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide interior view of an inn at the eastern end of a village, with an empty hook above the door. A nearly deserted common room, comfortable chairs and warm kitchen light with steam from hot food. Cold blue outside, warm amber inside. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "el-rastro-hacia-la-cumbre-de-kelvin",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide view of boot depressions nearly filled with snow behind an inn, then sled runners and huge prints farther on. Wind-scoured foothills, white relief without clear landmarks, dark mountain horizon. Cold blue-grey winter light. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "aproximacion-al-puesto-avanzado",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide view of an austere fortress excavated into a crescent-shaped slope. Double stone doors, a clear snowy incline, an independent bunker with loopholes and barred openings to the north. Frozen stream bed and grated culvert to the northeast. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "o1-bunker",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide view of a carved rock block about four and a half metres tall, with rough edges and narrow loopholes. Dark functional interior with a stairway descending into a tunnel. Cold stone and iron fittings. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "o2-alcazar-principal",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide interior view of heavy stone doors and a nine-metre deep pit. A wooden drawbridge about six metres across, chains and pulleys, a bare room with a frozen well, three iron cages and a sled still gripping ice. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "o3-atalaya",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide interior view of a large almost empty room with snow in the corners, frost on stone and three rectangular barred windows one and a half metres tall. Wind moves between the bars. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "o4-armeria",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide view of a dim room with piles of equipment against the walls. An open hatch at the south end, darkness beneath its frame, dull metal stacked with ropes and utensils. Worn stone floor and cold air. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "o5-cuello-de-botella",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide view of a stone inner passage with facing doors and a lever mechanism. Iron slots in floor and ceiling; the western sector can be separated by grates. Cold dark stone and worn metal. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "o6-aposentos-del-comandante",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide view of a stone bed and desk. Dark fragments and coloured glass on the table, crumpled charcoal-written paper, and a burlap sack filtering blue, green and red light. Cold stone room and shifting colours. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "o7-sirvientes-de-las-esporas",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide view of a cell block with stone doors and small barred peepholes at a dwarf’s eye height. Three cells to the west and five to the south. A barred window to the northeast with snow and wind entering. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "o8-aposentos-de-los-duergar",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide view of two austere northern rooms with beds, boxes and provision sacks. Combat gear within reach, no permanent lighting. Coarse cloth, dark steel and cold stone. Faint breathing in the dark. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "regreso-a-la-luz-del-norte",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide view of a warm inn with an upholstered armchair by the common area and prepared rooms. Above the door, the empty hook or the recovered lantern projecting colours onto the snow. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "pnj-glen-korr",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of a middle-aged half-elf man of unspecified age, medium build, with pointed ears visible under a thick vest and work sleeves. Warm apron, welcoming stance, ale-stained hands and a friendly smile. Amber tavern light, simple wooden background. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-atenas-veloz",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of an elderly human man with a weathered face, careful hands and travel clothing kept ready for the road. Stiff joints, warm layers, practical boots and a cautious smile. Grey winter light, simple shop background with ropes and blankets. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-jarthra-farzassh",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of a sturdy adult shield dwarf with a beard protected by a scarf, mountain boots and a tough coat. Robust build, practical gear, confident stance, a competitive grin and a weathered face. Cold blue-grey light, simple snowy background. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-allie-shorard",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of a young human woman of light build, wearing wool clothing and a work apron. Sweet expression, practical hands, warm tavern light behind her, with a gentle reproachful smile and a tidy braid. Simple wooden interior background. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-cori-shorard",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of a robust older human woman in wool clothing and a thick apron, strong working hands, serious expression. Warm kitchen light, simple tavern background, with a stern no-nonsense posture and a wooden spoon. Heavy winter shawl. A heavy winter apron. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-nildar-solmarchito",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of an adult duergar man, short and stocky, grey skin, functional armour, eyes absorbed by crystal fragments. Cruel fanatical expression, dark underground light, with a despising gaze and a rigid stance. Heavy boots and dark cloak. Dark leather armour. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-duergar-del-puesto",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body group portrait of four adult duergar with grey skin, stocky builds, austere armour and cloaks. One carries a heavy crossbow. Hostile disciplined expressions, cold stone background, with tired sentinel postures and watchful eyes. Dark iron weapons and shields. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-durth",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait suggestion of an adult duergar man; this section fixes no traits, age or equipment. Neutral grey skin, austere armour, stern expression, cold mountain light, plain background, with an air of secrecy. Dark cloak and boots. No visible heraldry. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "peligro-ogro-zombi-de-tiro",
+   "tipo": "escena",
+   "size": "1024x1024",
+   "prompt": "Square vignette illustration of a hazard, no people: A full-body portrait of an enslaved ogre zombie with semi-frozen dead flesh and an empty eye socket, used to pull a sled. Enormous, clumsy and persistent. Cold blue-grey light, snowy background."
+  },
+  {
+   "id": "desafio-manada-sirvientes-esporas",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body creature or figure illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body group portrait of five animated human corpses covered in fungal growths, former inhabitants of the Ten Towns or Reghed nomads. Slow, blind-sensed, mindless. Cold damp cell background. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "peligro-estribaciones-barridas-invierno",
+   "tipo": "escena",
+   "size": "1024x1024",
+   "prompt": "Square vignette illustration of a hazard, no people: A wide view of wind-scoured mountain foothills with uniform snow, few landmarks and a dark horizon. Cold blue-grey light, blowing snow. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "peligro-foso-puente-levadizo",
+   "tipo": "escena",
+   "size": "1024x1024",
+   "prompt": "Square vignette illustration of a hazard, no people: A wide view of a nine-metre deep stone pit and a wooden drawbridge with chains and pulleys. Dark cold light, sheer walls. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "peligro-trampa-cuello-botella",
+   "tipo": "escena",
+   "size": "1024x1024",
+   "prompt": "Square vignette illustration of a hazard, no people: A wide view of a narrow stone passage with iron bars rising from floor and ceiling, and a worn lever on the wall. Dark, no natural light. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "ayuda-carta-de-durth",
+   "tipo": "escena",
+   "size": "1024x1536",
+   "prompt": "Top-down flat view of a blank physical document filling the frame: A blank sheet of rough ivory parchment with worn corners, faint fold marks and natural fibres, resting flat under soft side lighting. No text, letters, symbols, illustrations or ink marks anywhere. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
+  },
+  {
+   "id": "ayuda-esquema-de-rastros",
+   "tipo": "escena",
+   "size": "1024x1536",
+   "prompt": "Top-down flat view of a blank physical document filling the frame: A blank sheet of rough ivory parchment with worn corners, faint fold marks and natural fibres, resting flat under soft side lighting. No text, letters, symbols, illustrations or ink marks anywhere. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
+  },
+  {
+   "id": "pueblo-y-lago-inmovil",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide view of a small lakeside settlement hugging frozen Aguas Rojizas. Tiny houses, two piers (one warped, one with two frost-covered coasters), small boats drawn ashore and fishing holes in blue-grey ice. Dark human silhouettes barely visible in snow. Cold blue-grey winter light; no people; leave the lower third open."
+  },
+  {
+   "id": "veinte-piedras-de-thruun",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide view south of the village: nineteen rough granite menhirs forming an irregular triangle, with a twentieth stone at the centre. Snow at their bases, grey surfaces, cold blue light without warmth. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "koran-y-kanan-falsa-peticion",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide view of village outskirts with snowbanks, low drifts and broken visibility in gusts. A huge white wolf-like shape limps forward against the wind, while another could hide among nearby mounds. Cold blue-grey light; no people; leave the lower third open."
+  },
+  {
+   "id": "travesia-de-la-tundra",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide view of a featureless white plain with fresh snow over older tracks and a low horizon fading in heavier snowfall. Dark moving shapes on the white. Cold blue-grey winter light; no people or creatures; leave the lower third open."
+  },
+  {
+   "id": "l1-exterior-cabaña-caza",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide view of a vaulted ice building three times the size of a Ten Towns house, with three tall eastern openings and a tunnel under the south wall. Cold blue light from ice, giant scale. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "l2-camara-desuelle",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide interior view of a partially butchered whale carcass on ice, a cleaver the size of a longsword, and a western niche with a large stone chest half buried in ice. Blue, grey and dark frozen meat. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "l3-hermanos-enjaulados",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide interior view of an oversized metal-bar cage with thick supports, large rusted hinges and frost on the bars. Giant scale and blue light. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "l4-pasillo-entrada",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide interior view of an ice corridor with sharp stalactites hanging from the ceiling and a floor hard to cross silently. Filtered light from the eastern entrance. Cold blue ice. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "l5-tumba-garagai",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide interior view of an oval chamber with bright walls, a mutilated giant corpse frozen under translucent ice, and a monumental throne carved from a single block on a circular platform with a deep rune on its back. A woolly mammoth stands beside the corpse. Cold blue light. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "l6-sala-guerra",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide interior view of a monumental table carved from an ice block, surrounded by cracked ice chairs. Under the table lies a spiky stone figure about thirty centimetres tall. Small kobold shapes hide behind chairs. Cold blue light. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "l7-saco-dormir-garagai",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide interior view of a cavernous almost empty room with a huge mould-stained fur sleeping bag on ice. Faint blue light and bare surfaces. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "l8-almacen-aceite-tunel-remorhaz",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide interior view of five huge barrels in a foul-smelling ice room, with an irregular tunnel under the south wall. A metre-and-a-half section of wall has a strange white frost-like film. Cold air from the tundra. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "huida-y-regreso",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide view of the southern edge of the ice cabin, tracks over fresh snow and open tundra, with faint lights behind frosted windows of the village at the end. Cold blue-grey light. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "pnj-edgra-durmoot",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of an older human woman with weathered skin and patched trapper's winter gear. Sturdy build, dry expression, a walking stick and a worn fur hood. Cold blue-grey light, snowy background. No weapons drawn. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-koran",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of an enormous white winter wolf the size of a horse, with a limp that shifts from one foreleg to the other. Thick fur, intelligent eyes, pleading posture. Cold blue-grey winter light, snowy background. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-kanan",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of an enormous white winter wolf with bared fangs and an intimidating stance. Thick fur, cold intelligent eyes, tense shoulders. Cold blue-grey winter light, snowy background. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-norsu",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of an immense woolly mammoth with thick shaggy fur and long curving tusks. Its eyes show understanding and hatred. Massive bulk, frozen breath, cold blue light, snowy stone background. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-garagai",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of a gigantic frost giant corpse mutilated and frozen under translucent ice. Pale blue skin, massive limbs, visible wounds, cold light, no movement. Snow and ice background. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-silja-dejarr",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of a tall thin human teenage girl with sharp teeth, long braids tipped with snow, and an insufficient coat for captivity. Determined expression, cold blue light, icy background. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-finn-dejarr",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of a human teenage boy with a round face, no beard, small malformed ears, numb hands and chattering teeth. Insufficient coat, shivering. Cold blue light, icy background. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-hilda-dejarr",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of an exhausted adult human woman in a mended domestic winter coat. Worried expression, practical scarf, tired eyes. Cold blue-grey light, simple snowy background. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-holgi-snorp-zilbo",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body group portrait of three small reptilian humanoids in mismatched fur and cloth wrappings, hiding behind ice chairs. Frightened expressions, small claws, cold blue light, stone background. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "desafio-manada-famelica",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body creature or figure illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body group portrait of two to seven lean common wolves with visible ribs, gaunt faces and hungry eyes. Demaciated, coordinated pack. Cold blue-grey snowy background. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "peligro-tundra-y-ventisca",
+   "tipo": "escena",
+   "size": "1024x1024",
+   "prompt": "Square vignette illustration of a hazard, no people: A wide view of a featureless snowy tundra under heavy snowfall, with no landmarks and low visibility. Cold blue-grey light, blowing snow. No people or creatures."
+  },
+  {
+   "id": "peligro-trono-runco-de-hielo",
+   "tipo": "escena",
+   "size": "1024x1024",
+   "prompt": "Square vignette illustration of a hazard, no people: A full-body view of a monumental throne carved from a single ice block on a circular platform, with a deep rune on its back. Translucent ice, cold blue light, stone chamber."
+  },
+  {
+   "id": "desafio-milicia-refugio-dougan",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body creature or figure illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body group portrait of up to thirteen winter-clad villagers with spears and a veteran leader. Determined defenders, scarce supplies, cold blue-grey light, snowy village. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "ayuda-emblema-refugio-dougan",
+   "tipo": "escena",
+   "size": "1024x1536",
+   "prompt": "Top-down flat view of a blank physical document filling the frame: An empty painted wooden signboard with a weathered frame, hanging flat, soft cold light. No text, symbols or figures. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
+  },
+  {
+   "id": "ayuda-runa-hielo",
+   "tipo": "escena",
+   "size": "1024x1536",
+   "prompt": "Top-down flat view of a blank physical document filling the frame: An isolated sheet of rough paper with a blank area for a hand-drawn rune, worn corners, soft side lighting. No text, letters, symbols, illustrations or ink marks anywhere. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
+  },
+  {
+   "id": "llegada-y-ejecucion-publica",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide establishing view of a snow-packed town square before a two-storey adobe town hall with a domed roof and flag. A stake burns at the center, straw and orange firelight under a steel-grey sky. The town shield shows a snowflake over brown and dark blue fields divided by a white tower. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "el-ferry-y-su-cabina-de-popa",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide view of a coastal barge trapped in lake ice at the end of a wooden pier, with a small aft cabin, trampled snow and a door with splintered ice. Inside are four bedrolls, rations and a rolled map. Cold blue light, weathered wood and frozen water dominate. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "la-trucha-humeda",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide interior view of a large lakeside tavern with two common rooms on either side of a central double fireplace, dark wood, worn benches and warm light over rising steam. Fishermen and dock workers crowd the tables. Amber firelight, brown wood and cold blue window light. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "posada-dama-blanca-y-sesion",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide interior view of an aged inn back room with coloured silk hangings, lamps on beams, candles in a circle, incense smoke and windows frosting from inside. Cojines, shadows and spectral cold fill the space. Warm lamp colours against blue frost. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "lac-dinneshere-y-bote-abandonado",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide view of dark water between ice floes, snow-covered cliffs about twenty-four metres high with four dark openings, three six to nine metres above the lake and one at water level. An unmanned drifting boat lies near shore. Grey cliffs, black water, white ice and pale sky. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "u1-u4-entradas-lobo-y-memoria-gigantes",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide interior view of ice-covered cave walls, floor and ceilings, with fifteen-metre chambers, nine-metre tunnels, bones of varied sizes in a side opening, giant carvings to the north and three frost-covered mineral columns in another cavern. Blue ice, pale moonlight and deep cold. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "u5-u6-puente-helado-y-campamento",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide view of a natural stone arch covered in ice, six metres above a frozen river, with a nearby cave holding black ash and scorched paper. Blue ice, grey stone and faint light from above. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "u7-u8-cascada-y-fuente-sagrada",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide interior view of a three-metre ice curtain with trapped lumps behind it, and a mineral pool of turbid blue beneath a moonlit opening, with four giant silhouettes buried below the surface. Ice, blue light and ancient stone. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "u9-el-osario",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide interior view of an elevated cavern with rough lunar fissures in the ceiling, blood on ice, trout spines, humanoid remains, bird and beast bones, torn clothing, rusty weapons and a huge partially frozen giant skeleton seated in the center. Cold blue light, red-brown blood and grey bone. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "u10-maud-y-el-caldero",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide interior view of a cave with a steaming cauldron, a stone butchering block, rusty axes and human remains. Cold fissure light contrasts with cooking steam. Dark stone, pale steam and iron tools. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "ayuntamiento-recepcion-administracion-despacho",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide interior view of a two-storey adobe town hall with wooden floors and doors, local oil paintings, low lanterns, a reception room dominated by a stuffed trout, offices with desks and files, and a spokesperson's desk under a chair carved with the town shield. Warm lantern light, brown wood and cold drafts. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "t6-mascaron-demoniaco-y-dama-blanca",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide interior view of a dim room with a black winged demonic figure about two and a half metres tall, splinters of hull in its back, a balcony stair, a small hand winch and another stair down to a dungeon. Dark chardalyn, cold light and black stone. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "ayuntamiento-salas-publicas-permisos",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide interior view of town hall public rooms: ordered storage chairs, precariously stacked record boxes, a party room with streamers, a small tribunal and a fishing office with a map framed by old rods; a rest corner and a pantry with shelves. Lantern light, wood and paper. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "ayuntamiento-biblioteca-habitaciones-alquiladas",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide interior view of dusty shelves, armchairs and footstools, with a red leather book whose yellow pages show dried blood, plus six small rented rooms, four empty, one full of containers and one furnished as a study. Warm lantern light, dust and old paper. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "ayuntamiento-carceleros-celdas-interrogatorio",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide interior view of a stone staircase lined with boards, a rock-cut dungeon, a round table with worn cards, iron doors with small peepholes and a sturdy oak chair with shackles. Cold stone, iron and dim lantern light. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "enredo-caldero-trato-vigilancia-robo",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide interior view of a negotiation desk, a cauldron under guard in a room, a northern entrance with a mooring post, ropes over snow and tracks of a dragged load. Warm lantern light against cold blue night outside. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "enredo-chardalyn-asalto-nocturno-manana",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide view of a half-open northern entrance, a demonic mask broken into black blocks, rough sacks, small tracks leading to the tundra and snow gradually covering the trail. Cold blue night light and scattered black fragments. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "pnj-danneth-waylen",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of a middle-aged human man of ordinary build, wearing a simple coat, with a tired face and working hands. His posture is humble and upright, with a frank, worried expression. Cold winter light and a wooden municipal background. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-imdra-arlaggath",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of an adult half-elf woman with a firm bearing, a well-fitted coat and a fur hat, with martial gear beneath the winter layers. Her expression is sharp, disciplined and well-meaning without excessive warmth. Cold light and snow frame her stance. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-durth-solmarchito",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of an adult grey dwarf, compact, wearing a dark coat, with a hard gaze and discreet travel gear. His expression is cautious, arrogant under pressure and threatening. Cold winter light and snow suit his stern presence. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-klaska-ossyl-zublorr",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body group portrait of three adult grey dwarves, stocky, with dark skin, small boots, sacks and war picks. Their heavy winter layers and hard expressions suggest miners turned raiders. Cold light and snow frame their compact stances. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-nymetra-myskyn",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of a robust adult dragonborn of white ancestry with pale scales, thick work clothes and an apron over furs. Her expression is rough and complaining, convinced that winter tests the community. Warm tavern light and cold air behind her. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-scython",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of an adult man of unspecified folk, with a body used to ropes, a sailor's coat and an easy smile. His stance is relaxed and cheerful, with weathered hands and winter clothing. Cold lake light frames him. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-rinaldo",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of a small solid adult halfling with a wide-sleeved tunic, short coat and violin. His expression is enthusiastic, theatrical and kind. Warm lamplight and coloured silks surround him. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-bartaban",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of an elderly human man with sloping shoulders, a worn coat and a face of few smiles. His expression is gruff but good-hearted, tired of hearing the same story. Dim inn light and cold windows frame him. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-dama-blanca",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of an adult woman of unspecified folk, emaciated, in soaked clothes, with long white hair hiding her face; after the deception, a smiling skull. Her expression shifts between grief and hostility. Cold lake light and spectral mist. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-maud-cinceloseo",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of an apparent hunched old woman in tattered furs; in truth grey-violet skin, bulging eyes that barely blink and straight black hair braided with phalanges. Her expression is false hospitality hiding a cackle. Cold cave light and steam. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-prudence-tarkwold",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of an adult woman of unspecified folk in administrative clothing under a discreet coat, with measured gestures. Her expression is professionally trustworthy but secretly loyal to her organization. Municipal light and winter clothing. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-dzaan",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of an adult human man, bound and gagged, in travel clothes blackened by the pyre, his identity previously hidden by disguise. His expression is silent and unresisting. Firelight and smoke. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-naerth-maxildanarr",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of an adult man of unspecified folk in a rich coat, with a calculating bearing and contained voice. His expression is controlled and self-interested. Cold winter light and wealthier fabrics frame him. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-pescadores-desaparecidos",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body group portrait of four older human fishermen in work coats, with cracked hands and fishing gear. Their expressions are absent, replaced by the memory of their fate. Cold lake light and grey tones. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "desafio-bandada-arpías",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body creature or figure illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of two hungry harpies with ragged wings, sharp talons and gaunt birdlike bodies. Their expressions are desperate and predatory. Cold lake light, grey feathers and icy rocks. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "desafio-lobo-terrible-u2",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body creature or figure illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of a huge terrible wolf with matted grey fur, enormous fangs and powerful limbs. Its expression is hungry and feral. Cold cave light and ice frame its crouched stance. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "desafio-extraño-de-agua",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body creature or figure illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of a water weird emerging from broken ice, a serpentine body of translucent water with glowing eyes and grasping tendrils. Its form is fluid and cold. Blue light and shattered ice surround it. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "desafio-esqueleto-gigante-escarcha",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body creature or figure illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of a huge frost giant skeleton, partially frozen, with massive bones and ice clinging to its ribs. Its expression is an empty skeletal grin. Cold blue light and ancient cave stone frame it. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "desafio-fuego-fatuo-maud",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body creature or figure illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. An environmental portrait of a will-o'-wisp, a small glowing spectral light drifting in a dark cave. Its cold light reveals hidden shapes. Blue-white glow and deep shadow. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "desafio-banda-zarpas-reptantes",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body creature or figure illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A close environmental view of four animated crawling claws hidden beneath treasure in a flooded chest. Small bony hands with dirty nails reach outward. Dark water, broken lock and tarnished coins frame them. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "desafio-poltergeist-sesion",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body creature or figure illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. An environmental portrait of an invisible poltergeist in a séance room, with overturned furniture, frost-covered windows and scattered candles. Cold blue light and broken glass. No visible body. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "desafio-guardia-municipal",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body creature or figure illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of four municipal guards in winter militiamen gear, with simple weapons and determined but fearful expressions. Their posture suggests defenders of the town hall. Cold stone and lantern light. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "peligro-lago-helado-exposicion",
+   "tipo": "escena",
+   "size": "1024x1024",
+   "prompt": "Square vignette illustration of a hazard, no people: A wide environmental view of a frozen lake between ice floes, with dark water, uneven ice and a snowy shore beneath high cliffs. Cold blue light and windblown snow. No people or creatures."
+  },
+  {
+   "id": "peligro-mascaron-profanado",
+   "tipo": "escena",
+   "size": "1024x1024",
+   "prompt": "Square vignette illustration of a hazard, no people: A full-body portrait of a massive demonic figurehead of black chardalyn, winged and fierce, with hull splinters in its back. It is not alive. Cold light is swallowed by its surface. Black crystal and dark stone."
+  },
+  {
+   "id": "ayuda-diario-chamuscado-enano",
+   "tipo": "escena",
+   "size": "1024x1536",
+   "prompt": "Top-down flat view of a blank physical document filling the frame: Three scorched pages of rough parchment with burnt edges and faint runic traces, resting flat under soft side lighting, no readable text. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
+  },
+  {
+   "id": "ayuda-respuestas-en-la-escarcha",
+   "tipo": "escena",
+   "size": "1024x1536",
+   "prompt": "Top-down flat view of a blank physical document filling the frame: A frosted window pane with faint white scratches forming short words, cold blue light, no other marks. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
+  },
+  {
+   "id": "ayuda-mapa-duergar-enano",
+   "tipo": "escena",
+   "size": "1024x1536",
+   "prompt": "Top-down flat view of a blank physical document filling the frame: A rough parchment map with inked mountain routes and settlement marks, worn corners and fold lines, no readable labels. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
+  },
+  {
+   "id": "ayuda-mapa-territorios-pesqueros",
+   "tipo": "escena",
+   "size": "1024x1536",
+   "prompt": "Top-down flat view of a blank physical document filling the frame: A painted map on a wooden board showing a lake and three fishing territories, faded colours and old varnish, no readable text. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
+  },
+  {
+   "id": "muelles-y-casa-de-nimsy",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. Wide establishing view of a small lakeside village between dark forest and a frozen lake. Modest houses, weathered docks, snow covered log piles and old carvings of dragons, lions and goats on timbers. A cozy kitchen with small furniture, a few large chairs, orange fire and a warm attic. Muted winter white, dark wood and warm amber palette. No people. Leave the lower third open."
+  },
+  {
+   "id": "el-tallista-feliz",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. Small carving shop facing the docks, shelves with curved knives, fine needles, colored inks and wax blocks. Sparse light over carefully ordered tools, frosted windows and ivory dust. A tidy counter and a reserved shopkeeper. Cold blue window light with warm tool tones. No people. Leave the lower third open."
+  },
+  {
+   "id": "el-mentiroso-con-suerte",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. Warm low ceilinged wooden tavern, tables marked by tankards, drying winter clothes and fogged windows. Shadowed corners where more is heard than seen. Amber hearth light, wet wool textures, crowded but intimate atmosphere. No people. Leave the lower third open."
+  },
+  {
+   "id": "la-desvencijada",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. Old snow battered inn facade and a common room filled with stacked timber. Dusty stairs, dark beams, opaque windows, no heat and two winters of neglect. A place that could become a home again. Cold grey light, weathered wood and dust. No people. Leave the lower third open."
+  },
+  {
+   "id": "el-bosque-rastreo-y-encuentros",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. Snow laden conifers, blue clearings, half covered tracks and trunks that hide distance. Winter light leaves penumbra beneath branches; white makes a pale silhouette hard to distinguish. Cold blue and white palette, still and vast forest. No people or creatures. Leave the lower third open."
+  },
+  {
+   "id": "estatuas-y-entrada-del-tumulo",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. Circular clearing on a lightly wooded slope. Six white marble elves on cylindrical granite pedestals about two meters high look north; eroded faces, rigid robes. A stone door without handles or hinges in the south slope. A crystal gnomon about six meters tall dominates the scene. Pale blue pillars and snow covered trees. Cold white and grey palette. No people. Leave the lower third open."
+  },
+  {
+   "id": "cenador-brasero-y-sarcofago-de-sahnar",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. Polished marble gazebo with a fixed stone brazier half a meter wide, filled with snow and pine needles. On a three meter berm, a granite sarcophagus and a semicircle of five crystal pillars. A seventh statue looks south from the north end. Cool winter light and pale stone. No people. Leave the lower third open."
+  },
+  {
+   "id": "el-dial-lunar",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. Thick crystal triangle, wide at the base and pointed at the top; a snow free stone circle with engraved lunar phases. Full moon to the north, new moon to the south, quarters east and west. An irregular breach to the northwest opens into a dark descent beneath the hill. Pale blue crystal and grey stone. No people. Leave the lower third open."
+  },
+  {
+   "id": "refugio-de-animales-y-guarida-del-alce",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. Large underground chamber with bones on the floor and sheltered corners. Three intact marble elven statues without pedestals, faces detailed, looking east. Cold light from the opening and deep shadows toward the passages. Shared refuge of foxes, hares, goats, owls and young animals. Grey stone and pale light. No people. Leave the lower third open."
+  },
+  {
+   "id": "espejo-de-la-luna-llena",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. Narrow corridor ending at an oval mirror about two meters high and one wide, fixed to a wall. Ornate stone frame; silver flashes when the mechanism is active. Cool stone passage and pale reflected light. No people. Leave the lower third open."
+  },
+  {
+   "id": "primera-tumba-de-media-luna",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. Stone door marked with a white semicircle curving to the right; circular chamber about six meters high with a carved dome and a beam of light over a rectangular stone sarcophagus. Pale magical light from above, no flame or smoke. Grey stone and soft silver. No people. Leave the lower third open."
+  },
+  {
+   "id": "segunda-tumba-de-media-luna-ravisin-y-vurnis",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. Stone door marked with a white semicircle curving to the left; domed chamber with magical beam over a sarcophagus. Dried herbs on a shelf, sleeping sack behind the stone and herbalist tools spread over the lid. Cold lunar light and shadowed corners. No people. Leave the lower third open."
+  },
+  {
+   "id": "pnj-nimsy-huddle",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. Full body portrait of a middle aged halfling woman, practical apron over layered winter clothing, warm expression and capable hands. Simple braided hair, flour dusted sleeves, sturdy boots. She stands in a low ceilinged kitchen with an orange fire behind her. Warm amber light, cozy domestic textures, reassuring and determined posture. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-scoop-e-hijos-de-nimsy",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. Full body portrait of four small halfling children in winter home clothes, active and playful, carrying wooden swords. Short sturdy figures, bright eyes, messy hair, oversized coats and boots. Warm kitchen light, domestic setting, energetic and carefree expressions. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-iriskree-harrowhill",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. Full body portrait of an adult human woman, simple winter coat and careful hands among precision tools. Reserved posture, neat hair, unadorned clothing, sharp calm eyes. A small carving shop behind her with ordered knives, inks and wax. Cool window light and meticulous textures, guarded but not hostile expression. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-danae-xotal",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. Full body portrait of an adult human woman with black hair, work clothes and cold weather layers. Controlled posture behind a tavern bar, attentive eyes, discreet movements serving and clearing tables. Warm tavern light and shadowed corners, calm guarded expression, no visible weapons or insignia. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-degrootz",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. No living portrait is available; show a memory image of a retired male woodcutter, rough winter clothing, axe leaning beside him, weathered hands and a quiet thoughtful face. Muted firelight and sawdust tones, somber nostalgic atmosphere, no supernatural elements. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-sahnar",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. Full body portrait of a preserved elven mummy, dry body wrapped in remnants of a tunic, ancient and thin, with an unexpected scent of pumpkin spices. Pointed ears, desiccated skin, calm benevolent expression. Stone tomb setting, cool lunar light, pale blue and grey palette, no modern clothing. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-ravisin",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. Full body portrait of a frost druid woman, blue stained teeth from berries, heavy winter pelts and garments worn among herbs and funerary stone. Fanatical expression, rigid posture, frost rimmed hood, practical winter layers. Cold blue light, stone tomb background, bitter and vengeful presence. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-vurnis",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. Still life of a slowly decomposing female druid corpse in a stone tomb, cold slowed decay, tattered winter garments, blue berry stains on teeth, resting beneath a heavy stone lid. Pale grey and cold blue palette, hushed funerary atmosphere, no animation or supernatural glow. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-arbusto-de-bayas-despertado",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. Full body portrait of a small mobile bush with branches laden with blue berries, no humanoid features or clothing. It cowers and shrinks among its own branches, fearful expression suggested by posture. Cold tomb light, earthy greens and deep berry blue, small scale and vulnerable. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "peligro-invierno-y-rastreo",
+   "tipo": "escena",
+   "size": "1024x1024",
+   "prompt": "Square vignette illustration of a hazard, no people: Wide environmental study of a snow covered pine forest at winter dusk. Snow laden branches, blue shadows, half buried tracks and white ground that hides distance. Cold blue and grey palette, low light, no people or creatures, strong sense of disorientation and exposure."
+  },
+  {
+   "id": "desafio-alce-blanco-dotado-de-conciencia",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body creature or figure illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. Full body creature study of an awakened white moose, large body, powerful legs and an impressive spreading rack of antlers. Thick white fur blends with snow, intelligent dark eyes and a predatory alert posture. Winter forest background, cold blue and white palette, no saddle or rider, ominous but naturalistic. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "desafio-banshee-del-exilio",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body creature or figure illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. Full body spectral portrait of an exiled elven warrior banshee, translucent figure with pointed ears, ancient armor remnants and a ghostly bow. Cold blue glow, sorrowful and wrathful expression, winter forest background with bare branches. Ethereal, not corporeal, no solid ground contact. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "desafio-oso-pardo-hambriento",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body creature or figure illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. Full body portrait of a hungry brown bear in a snowy forest, heavy fur, strong claws, muzzle low to the ground as it searches for food. Winter light, dark brown and white palette, powerful but not monstrous, naturalistic and tense. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "peligro-manada-de-lobos",
+   "tipo": "escena",
+   "size": "1024x1024",
+   "prompt": "Square vignette illustration of a hazard, no people: Full body group portrait of five to eight arctic wolves in a snowy forest, coordinated pack, bared fangs, alert ears and tense hunting posture. Cold grey and white palette, low winter light, no people, strong impression of coordinated threat."
+  },
+  {
+   "id": "ayuda-clave-lunar",
+   "tipo": "escena",
+   "size": "1024x1536",
+   "prompt": "Top-down flat view of a blank physical document filling the frame: Blank worn cream paper with softly frayed edges, subtle water stains and faint fold marks, laid flat under soft light. Empty writing area, no text, no symbols, no drawings. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
+  },
+  {
+   "id": "ayuda-receta-del-fuego-de-plata",
+   "tipo": "escena",
+   "size": "1024x1536",
+   "prompt": "Top-down flat view of a blank physical document filling the frame: Blank worn cream paper with softly frayed edges, subtle water stains and faint fold marks, laid flat under soft light. Empty writing area, no text, no symbols, no drawings. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
+  },
+  {
+   "id": "ayuda-titulo-de-la-desvencijada",
+   "tipo": "escena",
+   "size": "1024x1536",
+   "prompt": "Top-down flat view of a blank physical document filling the frame: Blank worn cream paper with softly frayed edges, subtle water stains and faint fold marks, laid flat under soft light. Empty writing area, no text, no symbols, no drawings. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
+  },
+  {
+   "id": "ayuda-heraldica-de-bosque-solitario",
+   "tipo": "escena",
+   "size": "1024x1536",
+   "prompt": "Top-down flat view of a blank physical document filling the frame: An empty weathered wooden heraldic display board with a simple carved border and a pale prepared surface. Isolated frontal view, frost on the edges, no lettering, no symbols or painted design. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
+  },
+  {
+   "id": "ayuda-testimonio-del-arbusto",
+   "tipo": "escena",
+   "size": "1024x1536",
+   "prompt": "Top-down flat view of a blank physical document filling the frame: Blank worn cream paper with softly frayed edges, subtle water stains and faint fold marks, laid flat under soft light. Empty writing area, no text, no symbols, no drawings. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
+  },
+  {
+   "id": "targos-puerto-cautivo",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide view of a wooden palisade extending onto a leaden lake, large ships frozen fast in white ice, small boats and drag marks in dirty snow, low wooden houses under blue-grey light. Open water beyond the walls. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "los-brazos-de-luskan",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide interior view of an old inn with solid walls, naval decorations from nearly two centuries ago, sagging rotting floorboards, dark cracks and worn furniture lit by an insufficient fire. Cold drafts. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "tres-banderas-navegando-y-triglio",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide interior view of a simple tavern with plain tables, bowls of stew and dim light, beside a general store with crowded shelves, fishing rods and snowshoes. Grey wood, frosted windows, carefully repaired goods. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "chico-y-la-casa-de-los-velryn",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide view of a snow-packed street between modest houses, a low door with scratch marks, and a small warm interior with cups of cider and woodcarving tools beside pale shavings. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "ruta-de-caer-konig",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide view of white paths between isolated settlements, wind-scoured hills and the dark shore of Lac Dinneshere; in Caer-Konig, mountain gear in a shop window and low lit tavern windows. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "tundra-y-valle-de-los-enanos",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide view of pathless plains, blurred mountain profiles and a valley with mine mouths carved into slopes; scattered tracks in untouched snow and dark stone beside underground entrances. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "campamento-base-kelvin",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide view of two tents beside an ice outcrop that cuts the wind, an overturned sled and two boxes beneath. Trampled snow, taut straps and rigid frost-stiffened canvas, leashes and harnesses. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "cabras-y-avalancha",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide view of a large rock formation surrounded by cornices and polished ice; above, a uniform white expanse beneath a snow-laden slope with no trees or shelter. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "el-escalador-caido",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide view of a steep slope dotted with sharp rocks, red stains on blue-tinged snow and small hollows where wind deposits white powder. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "la-escalada-peligrosa",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide view of narrow zigzag ledges, ice-coated walls, black crevices and snow suspended over voids; cold light without clear horizon. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "caverna-gelida-f1-entrada-abismo",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide interior view of a dark cave mouth about three metres high and wide, blood on snow; a concave ceiling six metres high, a twenty-four-metre abyss, a rock ledge and natural bridge. A thirty-centimetre ice sheet covers the south sector. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "caverna-gelida-f2-trofeos",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide interior view of a three-metre-high tunnel floor covered with bones and torn leather, a large axe among them; eight rough niches with frozen heads and frost on stone. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "caverna-gelida-f3-guarida",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide interior view of a chamber raised one and a half metres above the previous tunnel, irregular ceiling three to six metres; a three-metre drop to the south toward a passage with ascending steps. Wrecked sled, stained clothes, utensils and a backpack. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "campamento-en-ruinas",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide view of a tent half-buried on an exposed slope; accumulated snow, sunken canvas, blue leather boots protruding from a white mound and frozen gear. Pale light without heat. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "regreso-a-targos",
+   "tipo": "escena",
+   "size": "1536x1024",
+   "prompt": "Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. A wide view of a descending path toward distant lights, a sled with blankets and lit domestic doors; inside a workshop, a wooden box and small ivory carvings. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "pnj-skath",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of an adult tiefling man, robust build, visible horns, military gear under thick furs. Disciplined, authoritative stance. Cold blue-grey winter light, simple snowy background. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-owenn-tarsenel",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of a bald middle-aged human man, sagging shoulders, worn wool clothing. Depressed, quiet expression. Dim warm tavern light, simple wooden interior background. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-ethen-ma-yarbroul",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of a plump widowed human woman with grey hair, apron over layers of wool. Maternal, direct and protective expression. Warm tavern light, simple wooden interior background. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-jestin-hunrae",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of a very thin human man like a scarecrow, with a crushed left hand. Loose coat and adapted mitten. Practical, kind expression. Dim shop light, simple wooden interior background. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-keegan-velryn",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of an attractive human man about thirty, born in the Ten Towns. Artisan hands, thick sweater under a coat. Hopeful, hospitable expression. Warm dim interior light, simple wooden background. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-garret-velryn",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of a young adult human man, weathered and bearded, from Neverwinter. Blood-stained cold-weather clothing and climbing gear. Wounded, exhausted expression. Cold blue-grey light, snowy background. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-chico-y-los-perros",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of a light grey dog nearly wolf-sized with a broken leather harness, plus five other hungry, cold sled dogs. Friendly, insistent expressions. Cold blue-grey light, snowy background. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-mokingo-akannathi",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait suggestion of a goliath man; traits not fully fixed. Remains of leather armour, bones and a separated head in a niche, large axe. Cold blue-grey light, snowy background. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-perilou-dedopez",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of a lightfoot halfling woman of unspecified age, curled up, with part of her cold-weather clothing. Simple devotional clothing under wool layers. Traumatized, grateful expression. Cold dim cave light, snowy background. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-astrix",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of a tiefling woman of unspecified age, frozen sitting, teeth clenched, eyes fixed on blue boots. Travel coat stiffened by ice. Cold pale light, snowy background. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "pnj-barthoom-mazhogar-y-oobok",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A portrait suggestion of two dwarven shield dwarves; Barthoom a decapitated explorer with blue leather boots and mining gear, Oobok known only by his frozen head in a niche. Cold blue light, snowy background. Cold-weather clothing for an arctic frontier town. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "peligro-travesia-invernal-y-ascenso",
+   "tipo": "escena",
+   "size": "1024x1024",
+   "prompt": "Square vignette illustration of a hazard, no people: A wide view of pathless winter tundra and a steep icy mountain slope under cold blue-grey light, snow and rock. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "peligro-avalancha-kelvin",
+   "tipo": "escena",
+   "size": "1024x1024",
+   "prompt": "Square vignette illustration of a hazard, no people: A wide view of a white avalanche front about sixty metres across sweeping down a snow-laden slope under cold blue-grey light. No people or creatures; leave the lower third open."
+  },
+  {
+   "id": "peligro-manada-de-cabras-montesas",
+   "tipo": "escena",
+   "size": "1024x1024",
+   "prompt": "Square vignette illustration of a hazard, no people: A full-body portrait of four mountain goats with secure hooves and horns, standing on a rocky outcrop. Alert, defensive expressions. Cold blue-grey light, snowy mountain background."
+  },
+  {
+   "id": "desafio-pareja-de-gatos-de-los-riscos",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body creature or figure illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of two mountain cats crouching among rocks, hunting posture, keen senses. Cold blue-grey light, snowy rocky background. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "desafio-familia-de-yetis",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body creature or figure illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of two adult yetis and a yeti cub in a snowy cave. White fur, brutal strength, protective mother. Cold blue-grey light, icy background. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "peligro-placa-de-hielo-sobre-f1",
+   "tipo": "escena",
+   "size": "1024x1024",
+   "prompt": "Square vignette illustration of a hazard, no people: A wide view of a thirty-centimetre ice sheet covering a twenty-four-metre abyss in a cave, with a natural stone bridge nearby. Cold blue light, icy background."
+  },
+  {
+   "id": "desafio-banda-de-milicianos-de-targos",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body creature or figure illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body group portrait of local militia soldiers with polearms and thick furs. Disciplined communal defenders. Cold blue-grey light, snowy town background. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "desafio-banda-de-veteranos-de-targos",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body creature or figure illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body group portrait of up to sixteen veteran soldiers in military gear and thick furs. Coordinated, experienced. Cold blue-grey light, snowy town background. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "desafio-serpientes-voladoras-mensajeras",
+   "tipo": "token",
+   "size": "1024x1536",
+   "prompt": "Full body creature or figure illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body portrait of three small flying snakes with venomous bites, coiled in cages. Fast, tiny. Cold blue-grey light, simple background. Isolated on genuine transparent background, no floor, no scenery, no shadow."
+  },
+  {
+   "id": "ayuda-testimonio-de-keegan",
+   "tipo": "escena",
+   "size": "1024x1536",
+   "prompt": "Top-down flat view of a blank physical document filling the frame: A blank sheet of rough ivory parchment with worn corners, faint fold marks and natural fibres, resting flat under soft side lighting. No text, letters, symbols, illustrations or ink marks anywhere. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
+  },
+  {
+   "id": "ayuda-ultimas-paradas-confirmadas",
+   "tipo": "escena",
+   "size": "1024x1536",
+   "prompt": "Top-down flat view of a blank physical document filling the frame: A blank sheet of rough ivory parchment with worn corners, faint fold marks and natural fibres, resting flat under soft side lighting. No text, letters, symbols, illustrations or ink marks anywhere. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
+  },
+  {
+   "id": "ayuda-esquema-del-itinerario",
+   "tipo": "escena",
+   "size": "1024x1536",
+   "prompt": "Top-down flat view of a blank physical document filling the frame: A blank sheet of rough ivory parchment with worn corners, faint fold marks and natural fibres, resting flat under soft side lighting. No text, letters, symbols, illustrations or ink marks anywhere. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
   }
  ]
 }

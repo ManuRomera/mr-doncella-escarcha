@@ -1,0 +1,813 @@
+{
+  "seccion": "12-targos",
+  "titulo": "Targos: escalando la Cumbre de Kelvin",
+  "escenas": [
+    {
+      "slug": "targos-puerto-cautivo",
+      "nombre": "Targos y el puerto cautivo",
+      "ciudad": "targos",
+      "interior": false,
+      "imagen_en": "A wide view of a wooden palisade extending onto a leaden lake, large ships frozen fast in white ice, small boats and drag marks in dirty snow, low wooden houses under blue-grey light. Open water beyond the walls. No people or creatures; leave the lower third open.",
+      "lectura": "La empalizada continúa hacia el lago como si aún pudiera proteger un puerto vivo. Dentro, los cascos de los barcos sobresalen de una costra de hielo, inclinados y silenciosos. Unos surcos profundos cruzan la nieve hasta las aguas oscuras que quedan más allá de los muros. Al recorrer las calles, distinguís el olor del pescado, la madera húmeda y el humo escaso. Todo parece organizado alrededor de una misma necesidad: salir al lago, volver con alimento y repetirlo mañana. Sobre una enseña azul clara, un barco negro conserva una vela que aquí apenas se ve desplegada.",
+      "notas": "La mayor flota e industria pesquera del valle sigue explotando la trucha cabeza de jarrete de Maer Dualdon. Los pescadores arrastran sus botes hasta el agua libre. Presenta la dureza del trabajo y la dependencia de los favores del portavoz. La milicia puede reunir doscientos soldados y dieciséis veteranos, bajo Skath; no equivale a una patrulla siempre disponible.",
+      "musica": "lago",
+      "motivos": ["tension", "misterio"],
+      "efectos": ["viento", "hielo-cruje", "lago-sfx"],
+      "ambiente": "dim",
+      "etiquetas": ["puerto congelado", "economía de la pesca", "empalizada hasta el lago", "invierno interminable"],
+      "figuras": []
+    },
+    {
+      "slug": "los-brazos-de-luskan",
+      "nombre": "Los Brazos de Luskan",
+      "ciudad": "targos",
+      "interior": true,
+      "imagen_en": "A wide interior view of an old inn with solid walls, naval decorations from nearly two centuries ago, sagging rotting floorboards, dark cracks and worn furniture lit by an insufficient fire. Cold drafts. No people or creatures; leave the lower third open.",
+      "lectura": "Al entrar, os recibe una decoración que parece pertenecer a otra ciudad y a otro siglo. Las formas de barcos, la madera envejecida y los adornos marineros evocan un puerto más rico que este. Las paredes son gruesas, pero bajo vuestros pies las tablas ceden con un quejido húmedo. Una corriente os enfría los tobillos y trae olor a sótano. Entre los tabiques se oyen carreras breves, demasiado ligeras para unas botas. El fuego de la sala común ilumina unos muebles que han sobrevivido a muchas generaciones, aunque ninguno parece preparado para un invierno que no termina.",
+      "notas": "Es la casa pública más antigua de Diez Ciudades, fundada cuando Bryn Shander era aún un campamento. Reproduce el Luskan anterior a su decadencia. Owenn vive sumido en la desesperanza. Naerth ocupa la suite mayor: le recuerda su ciudad natal y le permite recibir visitantes. Sus tres serpientes voladoras transportan mensajes a una red de al menos una docena de espías. Investigar con discreción puede descubrir [mensajería clandestina]; actuar sin cuidado genera [vigilados por la Red Negra]. No entregues automáticamente el secreto del portavoz al entrar.",
+      "musica": "taberna",
+      "motivos": ["misterio", "tension"],
+      "efectos": ["puerta", "pasos", "viento"],
+      "ambiente": "dim",
+      "etiquetas": ["esplendor naval marchito", "corrientes del sótano", "ratas entre las paredes", "residencia del portavoz"],
+      "figuras": ["naerth-maxildanarr", "owenn-tarsenel"]
+    },
+    {
+      "slug": "tres-banderas-navegando-y-triglio",
+      "nombre": "Tres Banderas Navegando y Triglio",
+      "ciudad": "targos",
+      "interior": true,
+      "imagen_en": "A wide interior view of a simple tavern with plain tables, bowls of stew and dim light, beside a general store with crowded shelves, fishing rods and snowshoes. Grey wood, frosted windows, carefully repaired goods. No people or creatures; leave the lower third open.",
+      "lectura": "En la taberna, el vapor del estofado empaña las ventanas y difumina el resplandor de las lámparas. Las mesas ofrecen poco adorno y mucho desgaste: marcas de cuencos, arañazos y manchas que ninguna limpieza logra borrar. El calor basta para recordaros el frío que habéis dejado fuera. En la tienda cercana, las raquetas de nieve cuelgan sobre estantes de herramientas y provisiones. Entre tantos objetos útiles, todo parece tener un lugar preciso. El viento llega amortiguado a ambos locales, pero continúa silbando al otro lado de cada puerta.",
+      "notas": "Ethen «Ma» Yarbroul sirve a pescadores cansados, fríos e inseguros sobre el futuro. Aquí pueden circular uno o dos rumores de otras ciudades. Jestin Hunrae regenta Triglio, nombre tomado de un canto de faena sobre tirar del sedal y llenar el cubo. Perdió el uso de la mano izquierda en una colisión con un barco de Termalaine. Vende equipo común, cañas y raquetas; los suministros profesionales de pesca y navegación corresponden a comerciantes especializados. Obtener equipo con recursos o favores adecuados concede etiquetas de mochila, no una compra automática sin coste narrativo.",
+      "musica": "taberna",
+      "motivos": ["esperanza"],
+      "efectos": ["taberna-sfx", "pasos", "viento"],
+      "ambiente": "dim",
+      "etiquetas": ["estofado caliente", "ánimos sombríos", "equipo cotidiano", "rivalidades del lago"],
+      "figuras": ["ethen-ma-yarbroul", "jestin-hunrae"]
+    },
+    {
+      "slug": "chico-y-la-casa-de-los-velryn",
+      "nombre": "Chico y la casa de los Velryn",
+      "ciudad": "targos",
+      "interior": true,
+      "imagen_en": "A wide view of a snow-packed street between modest houses, a low door with scratch marks, and a small warm interior with cups of cider and woodcarving tools beside pale shavings. No people or creatures; leave the lower third open.",
+      "lectura": "Un ladrido corta el silbido del viento. Hacia vosotros corre un perro gris claro, casi del tamaño de un lobo, con un trozo de arnés de cuero arrastrándose por la nieve. Se acerca sin enseñar los dientes, gime y busca vuestras manos. Después retrocede unos pasos, vuelve a acercarse y tira de una bota con una insistencia desesperada. Si lo seguís, os lleva hasta una casa modesta y araña la puerta. Cuando esta se abre, la sonrisa del hombre que aparece dura apenas un instante: mira al perro, os mira a vosotros y deja espacio para que entréis.",
+      "notas": "Keegan comparte los datos del gancho. Nació en Diez Ciudades; Garret procede de una familia rica de Neverwinter, pero prefirió guiar viajeros y escalar a vivir en una ciudad. Aceptar el encargo da [promesa a Keegan]. La sidra y el refugio permiten prepararse; no eliminan por sí solos lesiones graves. Chico puede ser una etiqueta de historia aliada y guiar hasta el campamento y Garret, sin convertirlo en un arma obligatoria.",
+      "musica": "hidromiel",
+      "motivos": ["esperanza", "misterio"],
+      "efectos": ["perros", "puerta", "hogar"],
+      "ambiente": "dim",
+      "etiquetas": ["sidra caliente", "hogar de un tallista", "Chico pide ayuda", "promesa a Keegan"],
+      "figuras": ["keegan-velryn", "chico-y-los-perros"]
+    },
+    {
+      "slug": "ruta-de-caer-konig",
+      "nombre": "La ruta de Caer-Konig",
+      "ciudad": "otro",
+      "interior": false,
+      "imagen_en": "A wide view of white paths between isolated settlements, wind-scoured hills and the dark shore of Lac Dinneshere; in Caer-Konig, mountain gear in a shop window and low lit tavern windows. No people or creatures; leave the lower third open.",
+      "lectura": "El camino se pierde por momentos bajo una película de nieve nueva, pero vuelve a aparecer entre los postes y las huellas antiguas. Cada población ofrece unas pocas luces antes de que el paisaje vuelva a cerrarse sobre vosotros. Al bordear el lago, el viento encuentra espacio para golpearos de costado y el hielo forma un borde irregular contra el agua oscura. En Caer-Konig veis material de montaña tras un escaparate y, más allá, ventanas encendidas donde podríais conseguir una comida y unas horas de descanso antes de abandonar los caminos.",
+      "notas": "Targos–Bryn Shander: unos cinco kilómetros; después, unos treinta y siete hasta Caer-Dineval y otros cinco rodeando Lac Dinneshere hasta Caer-Konig. Total: catorce horas y media a pie o siete con trineos. Es la opción segura indicada por la fuente, sin que desaparezca el clima. Las tres ciudades permiten recoger sus propias misiones. Atenas Veloz, en Expediciones Allendhelor, vio a Garret con un goliat, una mediana piesligeros y una tiflin, bien armados. Compraron equipo de escalada y acampada, fueron a Anzuelo, Sedal y Plomo y pensaban dormir en La Luz del Norte. Ambos establecimientos los recuerdan cansados y poco habladores, sin incidentes. Jarthra Farzassh puede ser contratada como guía si falta capacidad de rastreo; su coste se concreta en recursos o un favor.",
+      "musica": "camino",
+      "motivos": ["misterio"],
+      "efectos": ["pasos", "viento", "puerta"],
+      "ambiente": "dim",
+      "etiquetas": ["camino entre ciudades", "últimos testigos de la expedición", "equipo de escalada", "refugios separados por largas marchas"],
+      "figuras": ["atenas-veloz", "jarthra-farzassh"]
+    },
+    {
+      "slug": "tundra-y-valle-de-los-enanos",
+      "nombre": "Tundra abierta y Valle de los Enanos",
+      "ciudad": "tundra",
+      "interior": false,
+      "imagen_en": "A wide view of pathless plains, blurred mountain profiles and a valley with mine mouths carved into slopes; scattered tracks in untouched snow and dark stone beside underground entrances. No people or creatures; leave the lower third open.",
+      "lectura": "Al apartaros de los caminos, las distancias dejan de parecerse a las que conocéis. Una elevación cercana tarda horas en alcanzarse y las ráfagas borran cualquier referencia baja. Más adelante, el terreno se hunde entre laderas de piedra. Si la nieve os permite verlas, distinguís huellas que conducen hacia aberturas talladas, demasiado regulares para ser cuevas naturales. Desde fuera no llega casi ninguna luz. Sobre esos accesos, la montaña conserva su silencio, mientras el viento arrastra la nieve como humo blanco por el fondo del valle.",
+      "notas": "La ruta directa cubre unos diecinueve kilómetros en veinticuatro horas a pie o doce en trineo. A mitad de trayecto hay un posible encuentro y se determina si coincide con ventisca. Como alternativa de conversión, usa el desafío ambiental de travesía. Cientos de enanos de escudo viven en minas y salas conectadas; salen poco, para cazar o conseguir comida. Son educados, incluso amistosos, y ofrecen uno o dos días de refugio, pero sus escasas reservas y trabajo impiden alojar indefinidamente. Quienes hayan completado «Jarras Espumeantes» pueden quedarse cuanto quieran.",
+      "musica": "camino",
+      "motivos": ["tension", "misterio"],
+      "efectos": ["viento", "pasos"],
+      "ambiente": "dim",
+      "etiquetas": ["tundra sin referencias", "accesos a minas", "hospitalidad limitada", "favor de los enanos"],
+      "figuras": []
+    },
+    {
+      "slug": "campamento-base-kelvin",
+      "nombre": "Campamento base",
+      "ciudad": "tundra",
+      "interior": false,
+      "imagen_en": "A wide view of two tents beside an ice outcrop that cuts the wind, an overturned sled and two boxes beneath. Trampled snow, taut straps and rigid frost-stiffened canvas, leashes and harnesses. No people or creatures; leave the lower third open.",
+      "lectura": "Al pie de la montaña distinguís dos tiendas pegadas a un afloramiento de roca y hielo. Entre ellas yace un trineo volcado. Cinco perros siguen sujetos a sus correas y sus aullidos llegan hasta vosotros antes que cualquier otro ruido del campamento. La nieve está removida alrededor de una caja abierta; otra permanece resguardada bajo el trineo. No veis movimiento en las tiendas. Por encima del refugio, las laderas se elevan en una sucesión de manchas blancas y roca oscura, sin una hilera de huellas que os indique por dónde marcharon los escaladores.",
+      "notas": "Jarthra conoce el lugar porque se lo recomendó a Garret; Chico también conduce directamente hasta él. Sin ayuda, cada búsqueda requiere ocho horas: una acción de orientación y supervivencia obtiene [campamento localizado]; el fallo consume ese tiempo y puede causar [helado-1] o [agotado-1] según la protección, antes de otro intento. Los cinco perros están hambrientos, helados y amistosos. Liberados, corren al pueblo más cercano buscando refugio. Una caja está vacía porque comieron su contenido; la otra conserva comida para cuatro personas durante tres días. El viento ha borrado las huellas, pero se puede deducir una ruta plausible. Chico lleva hacia Garret. Orden del ascenso: cabras, avalancha, Garret y felinos, escalada, caverna, campamento en ruinas.",
+      "musica": "camino",
+      "motivos": ["tension", "bestia"],
+      "efectos": ["perros", "viento", "hielo-cruje"],
+      "ambiente": "dim",
+      "etiquetas": ["abrigo natural del viento", "perros necesitados de auxilio", "huellas borradas", "provisiones recuperables"],
+      "figuras": ["chico-y-los-perros"]
+    },
+    {
+      "slug": "cabras-y-avalancha",
+      "nombre": "Cabras y avalancha",
+      "ciudad": "tundra",
+      "interior": false,
+      "imagen_en": "A wide view of a large rock formation surrounded by cornices and polished ice; above, a uniform white expanse beneath a snow-laden slope with no trees or shelter. No people or creatures; leave the lower third open.",
+      "lectura": "El viento os obliga a inclinaros y cada apoyo sobre el hielo exige atención. Cuatro cabras ocupan una formación rocosa que tendréis que rodear; sus balidos se pierden entre las ráfagas. Más arriba, la roca cede ante una extensión de nieve de brillo uniforme. Cuando avanzáis hacia su centro, escucháis un chasquido seco por encima de vosotros. Un estruendo lo sigue de inmediato. Sentís vibrar el suelo y veis cómo una franja entera de la ladera se desprende, convirtiéndose en una masa que desciende hacia vuestra posición.",
+      "notas": "Las cuatro cabras son indiferentes y solo se vuelven hostiles si las atacan. Después llega la avalancha: frente de unos sesenta metros, masa inicial de treinta de largo y nueve de profundidad. Parte unos ciento cincuenta metros por encima y barre otros trescientos hasta la base. Establece orden de marcha y separación antes de resolverla; el último Héroe queda bajo su trayectoria y necesita recorrer unos treinta metros para salir. La nieve avanza en embates de unos noventa metros: comunica la amenaza y da oportunidades inmediatas para correr de lado, alcanzar abrigo o asegurar compañeros. No resuelvas todo como una sola lesión inevitable; usa el desafío correspondiente.",
+      "musica": "camino",
+      "motivos": ["amenaza", "bestia", "persecucion"],
+      "efectos": ["viento", "hielo-cruje", "rugido"],
+      "ambiente": "dim",
+      "etiquetas": ["hielo resbaladizo", "ladera cargada", "sin refugio cercano", "estruendo ensordecedor"],
+      "figuras": ["manada-de-cabras-montesas", "avalancha-kelvin"]
+    },
+    {
+      "slug": "el-escalador-caido",
+      "nombre": "El escalador caído",
+      "ciudad": "tundra",
+      "interior": false,
+      "imagen_en": "A wide view of a steep slope dotted with sharp rocks, red stains on blue-tinged snow and small hollows where wind deposits white powder. No people or creatures; leave the lower third open.",
+      "lectura": "Entre las rocas aparece una mancha de color que no pertenece a la montaña. Al acercaros, distinguís una figura tendida boca abajo, envuelta en ropa de abrigo ensangrentada. Apenas se mueve. El viento levanta nieve sobre su espalda y oculta por momentos las marcas que ha dejado en la pendiente. Cerca hay salientes suficientes para interrumpir vuestra visión de los alrededores, pero muy poco abrigo real. Si os detenéis a escuchar, bajo las ráfagas podéis percibir una respiración trabajosa y el roce irregular de la tela contra el hielo.",
+      "notas": "Garret está apenas consciente: [herido-3], [agotado-1]. Conserva armas y equipo de escalada; ha perdido el resto. Tratarlo con cuidados, calor y etiquetas adecuadas le permite hablar; el fallo o la demora empeoran [helado] o dejan [cura insuficiente]. Explica que un yeti los sorprendió más arriba y él lo alejó de sus compañeros, recibiendo graves heridas antes de escapar cuando cesó la persecución. Mientras lo atienden, dos gatos de los riscos se acercan hasta unos seis metros y saltan sobre dos miembros del grupo. Observar y vigilar puede dar [emboscada advertida]; descuidar la vigilancia permite su primer zarpazo. Si uno cae, el otro huye. Garret quiere continuar: solo acepta regresar si sus heridas están resueltas y recibe la promesa de que buscarán a sus tres clientes. Chico y él se vuelven inseparables.",
+      "musica": "camino",
+      "motivos": ["tension", "horror", "bestia"],
+      "efectos": ["viento", "pasos", "hielo-cruje"],
+      "ambiente": "dim",
+      "etiquetas": ["sangre atrae depredadores", "rocas que ocultan movimientos", "herido-3", "agotado-1"],
+      "figuras": ["garret-velryn", "pareja-de-gatos-de-los-riscos"]
+    },
+    {
+      "slug": "la-escalada-peligrosa",
+      "nombre": "La escalada peligrosa",
+      "ciudad": "tundra",
+      "interior": false,
+      "imagen_en": "A wide view of narrow zigzag ledges, ice-coated walls, black crevices and snow suspended over voids; cold light without clear horizon. No people or creatures; leave the lower third open.",
+      "lectura": "La ruta deja de ser una pendiente que podáis recorrer caminando. Ante vosotros, unas cornisas estrechas obligan a cruzar de lado y los tramos de roca vertical desaparecen bajo una película de hielo. El viento tira de las correas y os devuelve contra la cara la nieve que desprenden vuestras manos. Desde aquí, mirar hacia abajo no ofrece una medida clara de la altura: solo capas de blanco y piedra entre la bruma. Cada repisa alcanzada parece prometer un descanso, hasta que veis el siguiente obstáculo al otro lado.",
+      "notas": "Resuelve tres pasos sucesivos con acciones de escalada, fuerza, equilibrio, cuerdas y ayuda de la Compañía. Cada éxito asegura un tramo y puede crear [cuerda fijada] o [paso asegurado]. Cada fallo cuesta una hora sin avanzar y causa [agotado-1] a quienes no superen el obstáculo; acumula el estado cuando corresponda. Un fallo peligroso puede dejar [suspendido de la cuerda] y exigir rescate, sin añadir caídas letales automáticas a todos los fallos. Llevar a supervivientes heridos o exhaustos exige preparar su seguridad.",
+      "musica": "camino",
+      "motivos": ["tension", "persecucion"],
+      "efectos": ["viento", "hielo-cruje", "pasos"],
+      "ambiente": "dim",
+      "etiquetas": ["cornisas estrechas", "paredes heladas", "viento lateral", "cuerda fijada"],
+      "figuras": []
+    },
+    {
+      "slug": "caverna-gelida-f1-entrada-abismo",
+      "nombre": "Caverna gélida: entrada y abismo F1",
+      "ciudad": "tundra",
+      "interior": true,
+      "imagen_en": "A wide interior view of a dark cave mouth about three metres high and wide, blood on snow; a concave ceiling six metres high, a twenty-four-metre abyss, a rock ledge and natural bridge. A thirty-centimetre ice sheet covers the south sector. No people or creatures; leave the lower third open.",
+      "lectura": "A vuestra izquierda se abre una cueva oscura. La nieve frente a la entrada conserva manchas de sangre que el viento aún no ha borrado. Dentro, el techo forma una bóveda sobre un suelo que ha desaparecido casi por completo. Una cornisa continúa hasta un puente de piedra, mientras hacia el sur una superficie de hielo cubre parte del hueco. Bajo su claridad turbia adivináis profundidad, sin distinguir bien el fondo. El aire huele a animal y a restos viejos. Desde algún lugar más allá del primer túnel os llega un ruido amortiguado que no pertenece al viento.",
+      "notas": "Aquí el macho se ocultó bajo un ventisquero y atacó a Garret, desgarrándolo y mordiéndole un hombro. Mokingo intervino y murió; Perilou se ocultó dentro; Astrix huyó hacia arriba. El puente natural es seguro y lleva a F2; la placa meridional permite ir directamente a F3. Se puede romper deliberadamente mediante impactos o herramientas: acción exitosa crea [placa fracturada] y después [abismo abierto]. Frío, veneno y ataques a la mente no rompen este obstáculo. Quienes estén encima cuando ceda pueden saltar a cualquiera de los bordes con agilidad o ayuda: éxito [a salvo en el borde]; fallo, caída de veinticuatro metros con [herido-5], [postrado-2] y [atrapado en el fondo]. Anuncia las grietas y permite intervenir.",
+      "musica": "mina",
+      "motivos": ["horror", "tension", "misterio"],
+      "efectos": ["hielo-cruje", "pasos", "viento"],
+      "ambiente": "dark",
+      "etiquetas": ["abismo de veinticuatro metros", "puente de piedra seguro", "atajo sobre hielo", "olor a guarida"],
+      "figuras": ["familia-de-yetis", "placa-de-hielo-sobre-f1"]
+    },
+    {
+      "slug": "caverna-gelida-f2-trofeos",
+      "nombre": "Caverna gélida: trofeos F2",
+      "ciudad": "tundra",
+      "interior": true,
+      "imagen_en": "A wide interior view of a three-metre-high tunnel floor covered with bones and torn leather, a large axe among them; eight rough niches with frozen heads and frost on stone. No people or creatures; leave the lower third open.",
+      "lectura": "El túnel estrecha vuestra vista y concentra un olor pesado bajo el frío. En el suelo aparecen huesos grandes mezclados con tiras de cuero y restos de carne. Un hacha yace entre ellos. Al alzar la luz descubrís un nicho con una cabeza roída y, después, otros huecos excavados en las paredes. Las caras congeladas conservan rasgos que el hielo no ha logrado borrar. No parece un lugar donde hayan caído viajeros por accidente. Al avanzar, vuestros pasos remueven fragmentos pequeños que resuenan demasiado fuerte en el pasadizo.",
+      "notas": "Los restos principales son de Mokingo «Oso Gruñón» Akannathi; su cabeza arrancada ocupa un nicho. Hay además huesos y cráneos de tres cabras. Otros siete nichos contienen cabezas de víctimas humanoides anteriores. Dos pertenecen a Oobok, relacionado con «Jarras Espumeantes», y Barthoom Mazhogar, muerto hace un mes más arriba. Reconocerlos requiere conocimiento previo, testimonios o cotejar pistas; no es información evidente para cualquiera. Examinar con calma obtiene [destino de Mokingo confirmado] y, si procede, [identidad de las víctimas].",
+      "musica": "mina",
+      "motivos": ["horror", "misterio"],
+      "efectos": ["pasos", "hielo-cruje"],
+      "ambiente": "dark",
+      "etiquetas": ["trofeos congelados", "restos de Mokingo", "horror de la depredación", "pistas de otras muertes"],
+      "figuras": ["mokingo-akannathi", "barthoom-mazhogar-y-oobok"]
+    },
+    {
+      "slug": "caverna-gelida-f3-guarida",
+      "nombre": "Caverna gélida: guarida F3 y regreso del padre",
+      "ciudad": "tundra",
+      "interior": true,
+      "imagen_en": "A wide interior view of a chamber raised one and a half metres above the previous tunnel, irregular ceiling three to six metres; a three-metre drop to the south toward a passage with ascending steps. Wrecked sled, stained clothes, utensils and a backpack. No people or creatures; leave the lower third open.",
+      "lectura": "El pasadizo desemboca en una cámara más alta. Veis una yeti adulta junto a su cría, que empuja de un lado a otro un bulto acurrucado. Un grito os revela que se trata de una mediana, todavía viva y apenas protegida del frío. Cuando reparan en vosotros, la cría trepa a la espalda de su madre. El rugido de la adulta llena el recinto y parece hacer vibrar el hielo. Entre los restos de un trineo distinguís prendas gruesas y equipo abandonado. Al fondo, el suelo termina en un escalón alto sobre otro túnel.",
+      "notas": "La cría maltrata a Perilou como un juguete; ella está [agotada-3], sin otras lesiones relevantes, y lleva parte de su ropa de abrigo. La madre pretende ahuyentar intrusos: no combate ni se expone si los Héroes evitan atacar y comunican que solo quieren llevarse a la mediana. Un éxito al calmar y rescatar da [Perilou liberada]; un fallo puede provocar [madre alarmada] y otra amenaza antes de escalar a violencia. Perilou vio morir a Mokingo, desconoce el destino de Astrix y desea averiguarlo. Bajo el trineo hay utensilios de cocina, una mochila de explorador y ropa ensangrentada suficiente para dos atuendos de abrigo. Al salir vuelve el padre con una cabra muerta bajo el brazo: normalmente ataca. El secreto «El Yeti más Pequeño» puede mejorar su actitud y facilitar comunicación. Si llevan consigo a la cría, pueden devolverla a cambio de paso seguro hacia arriba o abajo; tomarla no es requisito ni una opción sin riesgo.",
+      "musica": "mina",
+      "motivos": ["tension", "horror", "bestia"],
+      "efectos": ["rugido", "pasos", "hielo-cruje"],
+      "ambiente": "dark",
+      "etiquetas": ["cría protegida", "rescate sin combate posible", "agotada-3", "equipo entre los restos"],
+      "figuras": ["familia-de-yetis", "perilou-dedopez"]
+    },
+    {
+      "slug": "campamento-en-ruinas",
+      "nombre": "Campamento en ruinas",
+      "ciudad": "tundra",
+      "interior": false,
+      "imagen_en": "A wide view of a tent half-buried on an exposed slope; accumulated snow, sunken canvas, blue leather boots protruding from a white mound and frozen gear. Pale light without heat. No people or creatures; leave the lower third open.",
+      "lectura": "Más arriba encontráis una tienda casi sepultada. La lona apenas rompe la superficie de la nieve y no sale humo ni luz de su interior. Una tiflin permanece sentada e inmóvil, con los dientes apretados y la mirada fija en unas botas azules que sobresalen de un montón cercano. El hielo ha endurecido su ropa y la nieve comienza a cubrirle las piernas. No percibís respiración alguna. El lugar ofrece una protección miserable contra el viento; aun así, alguien debió creer que podría pasar aquí la noche, lejos de lo que había dejado más abajo.",
+      "notas": "Astrix murió congelada. Escapó del yeti, subió presa del pánico y no se atrevió a volver junto a la cueva. Las botas que vio contribuyeron a hundirla en la desesperación. Pertenecen a Barthoom Mazhogar, explorador enano de escudo: su tienda lleva aquí un mes. Tirar de las botas descubre un cadáver decapitado; su cabeza está en F2. Lleva un odre vacío, queso de cabra a medio comer y equipo de minero. Astrix conserva una poción de invisibilidad y un grimorio de cuero; registra su contenido en la sección de objetos.",
+      "musica": "noche",
+      "motivos": ["horror", "misterio"],
+      "efectos": ["viento", "pasos", "hielo-cruje"],
+      "ambiente": "dim",
+      "etiquetas": ["tienda semienterrada", "destino de Astrix confirmado", "botas azules", "sin calor ni refugio suficiente"],
+      "figuras": ["astrix", "barthoom-mazhogar-y-oobok"]
+    },
+    {
+      "slug": "regreso-a-targos",
+      "nombre": "Regreso a Targos",
+      "ciudad": "targos",
+      "interior": false,
+      "imagen_en": "A wide view of a descending path toward distant lights, a sled with blankets and lit domestic doors; inside a workshop, a wooden box and small ivory carvings. No people or creatures; leave the lower third open.",
+      "lectura": "Las luces de Targos parecen pequeñas después de tanta nieve, pero esta vez cada una promete una puerta y un techo. A medida que os acercáis, el viento deja de ocuparlo todo: volvéis a escuchar madera, pasos y algún perro detrás de las casas. Ante la vivienda de Keegan, las marcas de uñas siguen en la puerta. La luz cálida se filtra por debajo y alcanza vuestras botas. Al deteneros, sentís el peso de lo que traéis de la montaña y de las noticias que todavía tendréis que contar.",
+      "notas": "El Narrador decide el ritmo de la vuelta. La ruta directa por la tundra incluye al menos un encuentro de tierras salvajes; si falta la tabla externa, plantea una complicación ambiental con las amenazas de travesía. Reunir a los esposos completa el rescate. Si Garret muere, Keegan mantiene la recompensa solo si recibe el cuerpo para enterrarlo dignamente. Perilou permanece con la Compañía hasta llegar a Diez Ciudades y después abandona la vida aventurera. Llegar con personas exhaustas exige sostener calor, alimento y ritmo de marcha.",
+      "musica": "pueblo",
+      "motivos": ["esperanza"],
+      "efectos": ["pasos", "perros", "puerta", "hogar"],
+      "ambiente": "dim",
+      "etiquetas": ["regreso con supervivientes", "duelo compartido", "deuda de gratitud"],
+      "figuras": ["keegan-velryn", "garret-velryn", "perilou-dedopez", "chico-y-los-perros"]
+    }
+  ],
+  "pnj": [
+    {
+      "slug": "naerth-maxildanarr",
+      "nombre": "Naerth Maxildanarr",
+      "papel": "Portavoz de Targos y agente Zhentarim",
+      "ciudad": "targos",
+      "aspecto_en": "A full-body portrait of an agile adult human man from Luskan, medium build, wearing a well-cut wool coat and careful leather gloves. Affable, approachable expression that hides calculation. Subtle smile, tidy hair, practical boots. Cold blue-grey winter light, simple snowy background.",
+      "presentacion": "Ante vosotros distinguis un humano adulto de Luskan, complexión ágil, abrigo de buen paño y guantes cuidados. Se muestra afable, cercano y llano, aunque su cordialidad parece medida. Su popularidad entre los pescadores no oculta del todo el cálculo que guía sus gestos. No parece un hombre que haya llegado al poder por casualidad.",
+      "caracter": "Afable, cercano y llano; oculta su cálculo tras una cordialidad accesible.",
+      "quiere": "Convertir el valle en un centro comercial de la Red Negra y controlar su comercio.",
+      "sabe": "Movimientos de su red de espías, sospechas sobre agentes Arpistas y presiones sobre comerciantes.",
+      "desafio": "naerth-y-su-influencia"
+    },
+    {
+      "slug": "skath",
+      "nombre": "Skath",
+      "papel": "Capitán de la milicia de Targos, mercenario Zhentarim",
+      "ciudad": "targos",
+      "aspecto_en": "A full-body portrait of an adult tiefling man, robust build, visible horns, military gear under thick furs. Disciplined, authoritative stance. Cold blue-grey winter light, simple snowy background.",
+      "presentacion": "Ante vosotros distinguis un tiflin adulto de cuerpo robusto, cuernos visibles y equipo militar bajo pieles gruesas. Su postura es disciplinada y autoritaria, y cada gesto parece responder a una orden recibida. No busca conversación; evalúa la situación y a quienes la ocupan. Su lealtad a Naerth es evidente en su silencio.",
+      "caracter": "Disciplinado, autoritario y leal a su patrón.",
+      "quiere": "Mantener el control y ejecutar las decisiones de Naerth.",
+      "sabe": "Organización de la milicia y órdenes que recibe; la fuente no precisa cuánto conoce de cada intriga.",
+      "desafio": "skath-desafio"
+    },
+    {
+      "slug": "owenn-tarsenel",
+      "nombre": "Owenn Tarsenel",
+      "papel": "Posadero de Los Brazos de Luskan",
+      "ciudad": "targos",
+      "aspecto_en": "A full-body portrait of a bald middle-aged human man, sagging shoulders, worn wool clothing. Depressed, quiet expression. Dim warm tavern light, simple wooden interior background.",
+      "presentacion": "Ante vosotros distinguis un humano calvo de mediana edad, hombros caídos y ropa de lana gastada. Su mirada parece haber renunciado a algo que no nombra. Habla poco, con una tranquilidad apagada, y se mueve por su posada como quien ya no espera que el verano regrese. Su desesperanza es tan visible como el frío.",
+      "caracter": "Tranquilo, apagado y profundamente deprimido.",
+      "quiere": "Sostener su posada, aunque teme que el verano jamás regrese.",
+      "sabe": "Naerth vive en la suite mayor; no se establece que conozca su afiliación secreta.",
+      "desafio": null
+    },
+    {
+      "slug": "ethen-ma-yarbroul",
+      "nombre": "Ethen «Ma» Yarbroul",
+      "papel": "Tabernera de Tres Banderas Navegando",
+      "ciudad": "targos",
+      "aspecto_en": "A full-body portrait of a plump widowed human woman with grey hair, apron over layers of wool. Maternal, direct and protective expression. Warm tavern light, simple wooden interior background.",
+      "presentacion": "Ante vosotros distinguis una humana viuda, regordeta y de pelo gris, con delantal sobre capas de lana. Su voz es directa y maternal, y parece medir a cada recién llegado por su capacidad de resistir el frío. Protege a los pescadores como si fueran sus propios hijos. No tolera las mentiras, pero ofrece calor sin preguntar.",
+      "caracter": "Protectora, directa y maternal.",
+      "quiere": "Cuidar a los pescadores como a sus propios hijos.",
+      "sabe": "Conversaciones y rumores que pasan por su taberna; ninguno concreto viene fijado en esta sección.",
+      "desafio": null
+    },
+    {
+      "slug": "jestin-hunrae",
+      "nombre": "Jestin Hunrae",
+      "papel": "Dueño de Triglio y antiguo pescador",
+      "ciudad": "targos",
+      "aspecto_en": "A full-body portrait of a very thin human man like a scarecrow, with a crushed left hand. Loose coat and adapted mitten. Practical, kind expression. Dim shop light, simple wooden interior background.",
+      "presentacion": "Ante vosotros distinguis un humano muy delgado, semejante a un espantapájaros, con la mano izquierda aplastada. Lleva abrigo holgado y mitón adaptado. Su trato es práctico y bondadoso, y conoce bien el trabajo del lago y el equipo cotidiano. No presume de su lesión, pero tampoco la oculta.",
+      "caracter": "Trato práctico y bondadoso.",
+      "quiere": "Mantener su negocio y abastecer al pueblo.",
+      "sabe": "Equipo común y trabajo del lago; sufrió su lesión al chocar con una embarcación de Termalaine.",
+      "desafio": null
+    },
+    {
+      "slug": "keegan-velryn",
+      "nombre": "Keegan Velryn",
+      "papel": "Tallista de Targos, esposo de Garret",
+      "ciudad": "targos",
+      "aspecto_en": "A full-body portrait of an attractive human man about thirty, born in the Ten Towns. Artisan hands, thick sweater under a coat. Hopeful, hospitable expression. Warm dim interior light, simple wooden background.",
+      "presentacion": "Ante vosotros distinguis un humano atractivo de unos treinta años, nacido en Diez Ciudades, con manos de artesano y jersey grueso bajo el abrigo. Su hospitalidad es inmediata y su preocupación por Garret se transparenta en cada gesto. Confía sinceramente en que su marido siga vivo y permite que Chico acompañe a la Compañía. Ofrece sidra caliente y un lugar donde prepararse.",
+      "caracter": "Hospitalario, preocupado y sinceramente esperanzado.",
+      "quiere": "Recuperar a Garret y a sus compañeros.",
+      "sabe": "Antecedentes y plan del viaje de Garret, sus seis perros y la fidelidad de Chico; no conoce a los clientes.",
+      "desafio": null
+    },
+    {
+      "slug": "garret-velryn",
+      "nombre": "Garret Velryn",
+      "papel": "Guía desaparecido y superviviente del ataque",
+      "ciudad": "targos",
+      "aspecto_en": "A full-body portrait of a young adult human man, weathered and bearded, from Neverwinter. Blood-stained cold-weather clothing and climbing gear. Wounded, exhausted expression. Cold blue-grey light, snowy background.",
+      "presentacion": "Ante vosotros distinguis un humano joven adulto, curtido y barbudo, procedente de Neverwinter, con ropa de frío ensangrentada y equipo de escalada. Apenas consciente cuando lo encontráis, respira con esfuerzo y habla solo si recibe cuidados, calor y ayuda. Quiere hallar a sus tres compañeros antes de ponerse a salvo y solo acepta regresar si sus heridas están resueltas y recibe la promesa de que buscarán a sus clientes.",
+      "caracter": "Resistente, amante del aire libre y responsable de sus clientes; habla con esfuerzo al encontrarlo.",
+      "quiere": "Hallar a sus tres compañeros antes de ponerse a salvo.",
+      "sabe": "Lugar aproximado del ataque y nombres del grupo. Mokingo buscaba a Oyaminartok para medir su temple; Perilou era su compañera fiel; Astrix murmuraba y maldecía, pero Garret desconoce su historia.",
+      "desafio": null
+    },
+    {
+      "slug": "chico-y-los-perros",
+      "nombre": "Chico y los otros perros",
+      "papel": "Chico trae la petición de auxilio; otros cinco esperan en el campamento",
+      "ciudad": "targos",
+      "aspecto_en": "A full-body portrait of a light grey dog nearly wolf-sized with a broken leather harness, plus five other hungry, cold sled dogs. Friendly, insistent expressions. Cold blue-grey light, snowy background.",
+      "presentacion": "Ante vosotros distinguis un perro gris claro, casi del tamaño de un lobo, con un trozo de arnés de cuero arrastrándose por la nieve. Se acerca sin enseñar los dientes, gime y busca vuestras manos. Los otros cinco esperan hambrientos y helados en el campamento, amistosos y necesitados de auxilio. Chico reconoce el camino al campamento y hasta Garret.",
+      "caracter": "Amistosos, de gemidos y ladridos insistentes.",
+      "quiere": "Chico busca ayuda y volver con Garret; los otros necesitan refugio y alimento.",
+      "sabe": "Chico reconoce el camino al campamento y hasta Garret.",
+      "desafio": null
+    },
+    {
+      "slug": "atenas-veloz",
+      "nombre": "Atenas Veloz",
+      "papel": "Dueño de Expediciones Allendhelor en Caer-Konig",
+      "ciudad": "caer-konig",
+      "aspecto_en": "A full-body portrait of an adult shopkeeper of unspecified people and age, practical mountain clothing. Informative, professional expression. Dim shop light, simple background with ropes and blankets.",
+      "presentacion": "Ante vosotros distinguis un tendero adulto con ropa práctica de montaña. Informa con profesionalidad sobre la expedición de Garret y las compras realizadas. No ofrece un perfil de combate en esta sección. Conoce la composición del grupo, los establecimientos a los que se dirigió y el estado cansado y poco hablador de los clientes.",
+      "caracter": "Informativo y profesional.",
+      "quiere": "Atender su establecimiento.",
+      "sabe": "Composición de la expedición, compras y establecimientos a los que se dirigió.",
+      "desafio": null
+    },
+    {
+      "slug": "jarthra-farzassh",
+      "nombre": "Jarthra Farzassh",
+      "papel": "Guía contratada en Caer-Konig",
+      "ciudad": "caer-konig",
+      "aspecto_en": "A full-body portrait of an adult guide of unspecified people and age, sturdy build, expedition coat and orientation gear. Practical, terrain-knowledgeable expression. Cold blue-grey light, simple snowy background.",
+      "presentacion": "Ante vosotros distinguis una guía adulta de complexión recia, abrigo de expedición y equipo de orientación. Práctica y conocedora del terreno, ofrece sus servicios a cambio de recursos o un favor. Conoce la ubicación exacta del campamento que recomendó a Garret y puede evitar que la Compañía se pierda en la tundra.",
+      "caracter": "Práctica y conocedora del terreno.",
+      "quiere": "Cumplir el trabajo de guía acordado.",
+      "sabe": "Ubicación exacta del campamento que recomendó a Garret.",
+      "desafio": null
+    },
+    {
+      "slug": "mokingo-akannathi",
+      "nombre": "Mokingo «Oso Gruñón» Akannathi",
+      "papel": "Guerrero goliat muerto al defender a Garret",
+      "ciudad": "tundra",
+      "aspecto_en": "A full-body portrait suggestion of a goliath man; traits not fully fixed. Remains of leather armour, bones and a separated head in a niche, large axe. Cold blue-grey light, snowy background.",
+      "presentacion": "Mokingo no puede presentarse: está muerto. Sus restos demuestran el destino de uno de los clientes de Garret. Buscaba a Oyaminartok para medir su temple. Su hacha grande y sus huesos quedan como recuerdo de su defensa. Reconocerlo requiere pistas o conocimiento previo.",
+      "caracter": "Su búsqueda revela afán de probar su valor; no tiene diálogo presente.",
+      "quiere": "Quería encontrar a Oyaminartok y ponerse a prueba frente a ella.",
+      "sabe": "Su cadáver demuestra el destino de uno de los clientes.",
+      "desafio": null
+    },
+    {
+      "slug": "perilou-dedopez",
+      "nombre": "Perilou Dedopez",
+      "papel": "Superviviente cautiva, acólita de Yondalla",
+      "ciudad": "tundra",
+      "aspecto_en": "A full-body portrait of a lightfoot halfling woman of unspecified age, curled up, with part of her cold-weather clothing. Simple devotional clothing under wool layers. Traumatized, grateful expression. Cold dim cave light, snowy background.",
+      "presentacion": "Ante vosotros distinguis una mediana piesligeros, acurrucada, con parte de sus prendas de frío. Su ropa devocional sencilla asoma bajo capas de lana. Está agotada y traumatizada, pero leal a Mokingo y agradecida. Necesita abrigo y ayuda para bajar. Vio morir a Mokingo e ignora qué ocurrió con Astrix.",
+      "caracter": "Leal a Mokingo, agradecida y traumatizada.",
+      "quiere": "Salir de la guarida, conocer el destino de Astrix y regresar a Diez Ciudades para dejar de aventurarse.",
+      "sabe": "Vio morir a Mokingo; ignora qué ocurrió con Astrix.",
+      "desafio": null
+    },
+    {
+      "slug": "astrix",
+      "nombre": "Astrix",
+      "papel": "Maga tiflin muerta por exposición",
+      "ciudad": "tundra",
+      "aspecto_en": "A full-body portrait of a tiefling woman of unspecified age, frozen sitting, teeth clenched, eyes fixed on blue boots. Travel coat stiffened by ice. Cold pale light, snowy background.",
+      "presentacion": "Astrix ya no puede presentarse: está muerta. La encontráis congelada, sentada, con los dientes apretados y la mirada fija en unas botas azules. En vida murmuraba y decía muchas palabrotas; el pánico y la desesperación sellaron su huida hacia arriba. Sus pertenencias y posición permiten reconstruir su último refugio.",
+      "caracter": "En vida, murmuraba y decía muchas palabrotas; el pánico y la desesperación sellaron su huida.",
+      "quiere": "Quería evitar el regreso a la cueva.",
+      "sabe": "Sus pertenencias y posición permiten reconstruir su último refugio.",
+      "desafio": null
+    },
+    {
+      "slug": "barthoom-mazhogar-y-oobok",
+      "nombre": "Barthoom Mazhogar y Oobok",
+      "papel": "Víctimas anteriores que enlazan pistas de la montaña",
+      "ciudad": "tundra",
+      "aspecto_en": "A portrait suggestion of two dwarven shield dwarves; Barthoom a decapitated explorer with blue leather boots and mining gear, Oobok known only by his frozen head in a niche. Cold blue light, snowy background.",
+      "presentacion": "Barthoom y Oobok no tienen presencia activa: ambos están muertos. Barthoom era un enano de escudo explorador; su cuerpo decapitado conserva botas de cuero azul y equipo de minero. La cabeza de Oobok, también enano, está en la caverna. Identificarlos requiere conocimiento previo o cotejar pistas; no es información evidente para cualquiera.",
+      "caracter": "No determinados aquí.",
+      "quiere": "No tienen una voluntad activa en esta sección.",
+      "sabe": "Barthoom murió hace un mes; Oobok conecta con «Jarras Espumeantes».",
+      "desafio": null
+    }
+  ],
+  "desafios": [
+    {
+      "slug": "travesia-invernal-y-ascenso",
+      "nombre": "Travesía invernal y ascenso",
+      "nivel": 2,
+      "poderio": [],
+      "roles": ["Obstáculo", "Peligro"],
+      "aspecto_en": "A wide view of pathless winter tundra and a steep icy mountain slope under cold blue-grey light, snow and rock. No people or creatures; leave the lower third open.",
+      "descripcion": "Viaje por tundra, búsqueda del campamento y tres tramos de escalada; sin criatura de origen. Desafío ambiental propuesto para la conversión LitM.",
+      "limites": [
+        {"nombre": "ruta resuelta", "valor": 4, "consecuencia": "La ruta queda resuelta."},
+        {"nombre": "paso de escalada asegurado", "valor": 3, "consecuencia": "El tramo de escalada queda asegurado."}
+      ],
+      "etiquetas": ["frío persistente", "referencias borradas", "hielo traicionero", "viento lateral", "agotado-1", "helado-1"],
+      "rasgos": [],
+      "amenazas": [
+        {"nombre": "El viento borra el rumbo", "descripcion": "El viento borra el rumbo del grupo.", "consecuencias": ["Inflige [perdido-2]", "Consume una etapa de marcha o un bloque de búsqueda de ocho horas"]},
+        {"nombre": "El frío penetra durante una parada", "descripcion": "El frío penetra durante una parada.", "consecuencias": ["Inflige [helado-2]", "Crea [equipo cubierto de escarcha]"]},
+        {"nombre": "La pendiente rechaza otro intento", "descripcion": "La pendiente rechaza otro intento de escalada.", "consecuencias": ["Pierde una hora", "Inflige [agotado-1] a quienes fallen la escalada"]},
+        {"nombre": "Un apoyo se desprende", "descripcion": "Un apoyo se desprende durante la escalada.", "consecuencias": ["Crea [suspendido de la cuerda]", "Separa a un Héroe en una repisa y exige una maniobra de rescate"]}
+      ],
+      "secretos": [{"nombre": "Debilidades y secretos", "descripcion": "Chico y Jarthra evitan la búsqueda del campamento. Abrigo, refugio, raquetas, cuerdas y cooperación cambian las acciones posibles. El favor de los enanos permite descansar sin la limitación habitual de estancia."}]
+    },
+    {
+      "slug": "avalancha-kelvin",
+      "nombre": "Avalancha",
+      "nivel": 3,
+      "poderio": [{"nivel": "adventure", "aspecto": "Una avalancha de unos sesenta metros de ancho y nueve de profundidad barre la ladera."}],
+      "roles": ["Peligro", "Obstáculo"],
+      "aspecto_en": "A wide view of a white avalanche front about sixty metres across sweeping down a snow-laden slope under cold blue-grey light. No people or creatures; leave the lower third open.",
+      "descripcion": "Una avalancha de unos sesenta metros de ancho y nueve de profundidad, descrita en la escena.",
+      "limites": [
+        {"nombre": "fuera de trayectoria", "valor": 3, "consecuencia": "El Héroe queda fuera de la trayectoria."},
+        {"nombre": "sepultado", "valor": 5, "consecuencia": "Queda completamente atrapado bajo la nieve, con asfixia inminente."}
+      ],
+      "etiquetas": ["masa arrolladora", "avance fulminante", "nieve compacta", "visibilidad blanca", "desorientado-2"],
+      "rasgos": [],
+      "amenazas": [
+        {"nombre": "El frente alcanza la posición", "descripcion": "El frente de la avalancha alcanza la posición del grupo.", "consecuencias": ["Inflige [golpeado-3]", "Arrastra pendiente abajo", "Crea [Compañía separada]"]},
+        {"nombre": "La nieve se cierra sobre una víctima", "descripcion": "La nieve se cierra sobre una víctima.", "consecuencias": ["Inflige [sepultado-3]", "Crea [sin acceso al aire]"]},
+        {"nombre": "La víctima permanece bajo la nieve", "descripcion": "La víctima permanece bajo la nieve.", "consecuencias": ["Aumenta [sepultado] hacia su límite", "Inflige [helado-2]"]}
+      ],
+      "secretos": [{"nombre": "Debilidades y secretos", "descripcion": "Huir de lado, aprovechar abrigo real y actuar antes del siguiente embate. Cuerdas y señales facilitan encontrar a los enterrados. Alcanzar sepultado 5 supone quedar completamente atrapado, con asfixia inminente: exige rescate urgente y consecuencias acordes al tiempo transcurrido."}]
+    },
+    {
+      "slug": "manada-de-cabras-montesas",
+      "nombre": "Manada de cabras montesas",
+      "nivel": 1,
+      "poderio": [],
+      "roles": ["Adversario", "Obstáculo"],
+      "aspecto_en": "A full-body portrait of four mountain goats with secure hooves and horns, standing on a rocky outcrop. Alert, defensive expressions. Cold blue-grey light, snowy mountain background.",
+      "descripcion": "Cuatro cabras montesas del apéndice C, agrupadas en un desafío.",
+      "limites": [
+        {"nombre": "herida", "valor": 3, "consecuencia": "Queda herida y fuera de combate."},
+        {"nombre": "ahuyentada", "valor": 2, "consecuencia": "La manada se retira."}
+      ],
+      "etiquetas": ["pezuñas seguras", "cuernos", "defensa del roquedo", "equilibrio de montaña"],
+      "rasgos": [],
+      "amenazas": [
+        {"nombre": "Una cabra carga desde arriba", "descripcion": "Una cabra carga desde arriba.", "consecuencias": ["Inflige [magullado-1]", "Crea [al borde de la cornisa]"]},
+        {"nombre": "La manada bloquea el rodeo", "descripcion": "La manada bloquea el rodeo.", "consecuencias": ["Crea [paso ocupado]", "Fuerza un desvío expuesto al viento"]}
+      ],
+      "secretos": [{"nombre": "Debilidades y secretos", "descripcion": "Son indiferentes mientras no las ataquen; dejarlas tranquilas resuelve la escena sin combate."}]
+    },
+    {
+      "slug": "pareja-de-gatos-de-los-riscos",
+      "nombre": "Pareja de gatos de los riscos",
+      "nivel": 1,
+      "poderio": [],
+      "roles": ["Adversario", "Merodeador"],
+      "aspecto_en": "A full-body portrait of two mountain cats crouching among rocks, hunting posture, keen senses. Cold blue-grey light, snowy rocky background.",
+      "descripcion": "Dos gatos de los riscos, reunidos como un solo desafío de manada.",
+      "limites": [
+        {"nombre": "herida", "valor": 3, "consecuencia": "Queda herido y fuera de combate."},
+        {"nombre": "ahuyentada", "valor": 3, "consecuencia": "El otro huye."}
+      ],
+      "etiquetas": ["cazadores de hombres", "acecho entre rocas", "salto depredador", "olfato para la sangre", "ataque oportunista"],
+      "rasgos": [],
+      "amenazas": [
+        {"nombre": "Saltan desde la cobertura", "descripcion": "Saltan desde la cobertura sobre dos objetivos.", "consecuencias": ["Inflige [derribado-2]", "Inflige [herido-2]"]},
+        {"nombre": "Aprovechan un descuido junto al herido", "descripcion": "Aprovechan un descuido junto al herido.", "consecuencias": ["Inflige [desgarrado-2] a Garret o a quien lo atienda", "Crea [rescate interrumpido]"]}
+      ],
+      "secretos": [{"nombre": "Debilidades y secretos", "descripcion": "La vigilancia evita la sorpresa. Cuando cae uno de los dos, el otro abandona el combate e intenta huir."}]
+    },
+    {
+      "slug": "familia-de-yetis",
+      "nombre": "Familia de yetis",
+      "nivel": 2,
+      "poderio": [{"nivel": "adventure", "aspecto": "Dos yetis adultos y una cría de yeti; la madre y la cría están dentro, el padre llega al salir."}],
+      "roles": ["Adversario", "Controlador"],
+      "aspecto_en": "A full-body portrait of two adult yetis and a yeti cub in a snowy cave. White fur, brutal strength, protective mother. Cold blue-grey light, icy background.",
+      "descripcion": "Dos yetis adultos y una cría de yeti; la madre y la cría están dentro, el padre llega al salir. Un solo desafío familiar con presencia escalonada.",
+      "limites": [
+        {"nombre": "herida", "valor": 5, "consecuencia": "Queda herido y fuera de combate."},
+        {"nombre": "apaciguada", "valor": 3, "consecuencia": "La familia se apacigua."},
+        {"nombre": "retirada", "valor": 4, "consecuencia": "Se retira del encuentro."}
+      ],
+      "etiquetas": ["fuerza brutal", "pelaje de nieve", "garras heladas", "mirada aterradora", "protección de la cría", "cazadores de montaña"],
+      "rasgos": [],
+      "amenazas": [
+        {"nombre": "Un adulto fija su mirada y ruge", "descripcion": "Un adulto fija su mirada y ruge.", "consecuencias": ["Inflige [aterrorizado-2]", "Crea [avance bloqueado]"]},
+        {"nombre": "Carga y desgarra", "descripcion": "Carga y desgarra a quien se acerca.", "consecuencias": ["Inflige [herido-3]", "Inflige [helado-2]"]},
+        {"nombre": "La cría sigue jugando con la cautiva", "descripcion": "La cría sigue jugando con la cautiva.", "consecuencias": ["Aumenta [agotada] de Perilou", "Crea [abrigo desgarrado]"]},
+        {"nombre": "El padre vuelve y corta la salida", "descripcion": "El padre vuelve y corta la salida.", "consecuencias": ["Crea [salida interceptada]", "Si no se interviene, inflige [derribado-2] con una embestida"]}
+      ],
+      "secretos": [{"nombre": "Debilidades y secretos", "descripcion": "La madre acepta un rescate sin agresiones si entiende la intención. El secreto «El Yeti más Pequeño» facilita entenderse, especialmente con el padre. Devolver la cría permite negociar paso seguro. La cría no tiene por qué luchar para que la familia actúe."}]
+    },
+    {
+      "slug": "placa-de-hielo-sobre-f1",
+      "nombre": "Placa de hielo sobre F1",
+      "nivel": 2,
+      "poderio": [],
+      "roles": ["Obstáculo", "Peligro"],
+      "aspecto_en": "A wide view of a thirty-centimetre ice sheet covering a twenty-four-metre abyss in a cave, with a natural stone bridge nearby. Cold blue light, icy background.",
+      "descripcion": "Una placa de hielo de unos treinta centímetros sobre un abismo de veinticuatro metros; obstáculo sin criatura.",
+      "limites": [
+        {"nombre": "rota", "valor": 3, "consecuencia": "La placa queda rota."},
+        {"nombre": "cruce asegurado", "valor": 2, "consecuencia": "El cruce queda asegurado."}
+      ],
+      "etiquetas": ["hielo grueso", "vacío debajo", "atajo hacia F3", "vulnerable a impactos"],
+      "rasgos": [],
+      "amenazas": [
+        {"nombre": "Las fracturas se propagan", "descripcion": "Las fracturas se propagan tras los golpes.", "consecuencias": ["Crea [suelo a punto de ceder]", "Deja a quienes estén encima ante un salto urgente"]},
+        {"nombre": "La placa cae sin que nadie alcance el borde", "descripcion": "La placa cae sin que nadie alcance el borde.", "consecuencias": ["Inflige [herido-5] y [postrado-2]", "Crea [atrapado en el fondo]"]}
+      ],
+      "secretos": [{"nombre": "Debilidades y secretos", "descripcion": "El puente natural evita el riesgo. Golpes y herramientas sirven para romperla; frío, veneno y ataques mentales no. No la hagas colapsar por mero tránsito sin una causa añadida: la fuente permite cruzarla y describe su destrucción deliberada."}]
+    },
+    {
+      "slug": "naerth-y-su-influencia",
+      "nombre": "Naerth y su influencia",
+      "nivel": 2,
+      "poderio": [],
+      "roles": ["Adversario", "Controlador", "Apoyo"],
+      "aspecto_en": "A full-body portrait of an agile adult human man from Luskan, well-cut coat and careful gloves, with three flying snakes in cages behind. Cold blue-grey light, simple background.",
+      "descripcion": "Un humano espía; su red es contexto y recurso, no una banda presente en todo encuentro.",
+      "limites": [
+        {"nombre": "herido", "valor": 3, "consecuencia": "Queda herido y fuera de combate."},
+        {"nombre": "desenmascarado", "valor": 4, "consecuencia": "Queda desenmascarado."},
+        {"nombre": "obligado a ceder", "valor": 4, "consecuencia": "Se ve obligado a ceder."}
+      ],
+      "etiquetas": ["cordialidad calculada", "apoyo de los pescadores", "agente Zhentarim", "red de espías", "mensajería con serpientes", "recursos comerciales"],
+      "rasgos": [],
+      "amenazas": [
+        {"nombre": "Sus agentes siguen a los curiosos", "descripcion": "Sus agentes siguen a los curiosos.", "consecuencias": ["Crea [vigilados por la Red Negra]", "Expone un contacto de los Héroes"]},
+        {"nombre": "Presiona al comercio local", "descripcion": "Presiona al comercio local.", "consecuencias": ["Crea [proveedores intimidados]", "Retira un favor comercial"]},
+        {"nombre": "Usa su popularidad para desacreditar", "descripcion": "Usa su popularidad para desacreditar acusaciones.", "consecuencias": ["Inflige [desacreditado-2]", "Crea [testigo reticente]"]},
+        {"nombre": "Se defiende con recursos de espía", "descripcion": "Se defiende con recursos de espía al verse acorralado.", "consecuencias": ["Inflige [herido-2]", "Crea [huida entre dependencias]"]}
+      ],
+      "secretos": [{"nombre": "Debilidades y secretos", "descripcion": "Los mensajes, agentes y presiones pueden aportar pruebas. Persigue a supuestos Arpistas y fuerza a negocios a comprar pescado de Targos. No todo vecino favorecido conoce su afiliación."}]
+    },
+    {
+      "slug": "skath-desafio",
+      "nombre": "Skath",
+      "nivel": 2,
+      "poderio": [],
+      "roles": ["Adversario", "Controlador"],
+      "aspecto_en": "A full-body portrait of an adult tiefling man, robust build, visible horns, military gear under thick furs. Authoritative, disciplined expression. Cold blue-grey light, simple snowy background.",
+      "descripcion": "Un tiflin veterano.",
+      "limites": [
+        {"nombre": "herido", "valor": 4, "consecuencia": "Queda herido y fuera de combate."},
+        {"nombre": "desarmado", "valor": 3, "consecuencia": "Queda desarmado."},
+        {"nombre": "forzado a retirarse", "valor": 4, "consecuencia": "Se ve forzado a retirarse."}
+      ],
+      "etiquetas": ["mercenario experimentado", "autoridad militar", "lealtad a Naerth", "equipo de veterano"],
+      "rasgos": [],
+      "amenazas": [
+        {"nombre": "Ordena cerrar el paso", "descripcion": "Ordena cerrar el paso.", "consecuencias": ["Crea [salida custodiada]", "Separa a la Compañía de un contacto"]},
+        {"nombre": "Descarga una ofensiva disciplinada", "descripcion": "Descarga una ofensiva disciplinada.", "consecuencias": ["Inflige [herido-2]", "Inflige [acorralado-2]"]},
+        {"nombre": "Llama a los guardias", "descripcion": "Llama a los guardias.", "consecuencias": ["Introduce una banda de milicia", "Crea [buscados en Targos] si hay motivos públicos para ello"]}
+      ],
+      "secretos": [{"nombre": "Debilidades y secretos", "descripcion": "Su lealtad política condiciona sus decisiones; pruebas y testigos pueden limitar su margen de actuación, sin garantizar que traicione a Naerth."}]
+    },
+    {
+      "slug": "banda-de-milicianos-de-targos",
+      "nombre": "Banda de milicianos de Targos",
+      "nivel": 1,
+      "poderio": [],
+      "roles": ["Adversario", "Apoyo"],
+      "aspecto_en": "A full-body group portrait of local militia soldiers with polearms and thick furs. Disciplined communal defenders. Cold blue-grey light, snowy town background.",
+      "descripcion": "Soldados con perfil de guerrero tribal; hasta doscientos movilizables en toda la ciudad. Este perfil representa una banda local.",
+      "limites": [
+        {"nombre": "herida", "valor": 3, "consecuencia": "Queda herida y fuera de combate."},
+        {"nombre": "dispersada", "valor": 3, "consecuencia": "La banda se dispersa."},
+        {"nombre": "convencida", "valor": 3, "consecuencia": "La banda se convence."}
+      ],
+      "etiquetas": ["conocimiento de las calles", "armas de asta", "defensa comunal", "órdenes del capitán"],
+      "rasgos": [],
+      "amenazas": [
+        {"nombre": "Cierran filas en un callejón", "descripcion": "Cierran filas en un callejón.", "consecuencias": ["Crea [paso cortado]", "Inflige [rodeado-2]"]},
+        {"nombre": "Cargan para detener a un sospechoso", "descripcion": "Cargan para detener a un sospechoso.", "consecuencias": ["Inflige [magullado-2]", "Crea [retenido por la milicia]"]}
+      ],
+      "secretos": [{"nombre": "Debilidades y secretos", "descripcion": "Su función es proteger la ciudad. Vecinos reconocidos, instrucciones legítimas y pruebas pueden abrir una salida social."}]
+    },
+    {
+      "slug": "banda-de-veteranos-de-targos",
+      "nombre": "Banda de veteranos de Targos",
+      "nivel": 2,
+      "poderio": [],
+      "roles": ["Adversario", "Apoyo"],
+      "aspecto_en": "A full-body group portrait of up to sixteen veteran soldiers in military gear and thick furs. Coordinated, experienced. Cold blue-grey light, snowy town background.",
+      "descripcion": "Hasta dieciséis veteranos disponibles; reúne a los presentes en un desafío y ajusta la escala a su número real.",
+      "limites": [
+        {"nombre": "herida", "valor": 4, "consecuencia": "Queda herida y fuera de combate."},
+        {"nombre": "retirada", "valor": 4, "consecuencia": "Se retira."},
+        {"nombre": "convencida", "valor": 4, "consecuencia": "Se convence."}
+      ],
+      "etiquetas": ["disciplina", "equipo militar", "maniobras coordinadas", "experiencia de combate"],
+      "rasgos": [],
+      "amenazas": [
+        {"nombre": "Cercan una posición con método", "descripcion": "Cercan una posición con método.", "consecuencias": ["Inflige [acorralado-3]", "Crea [retirada bloqueada]"]},
+        {"nombre": "Ejecutan un asalto conjunto", "descripcion": "Ejecutan un asalto conjunto.", "consecuencias": ["Inflige [herido-3]", "Crea [compañero aislado]"]}
+      ],
+      "secretos": [{"nombre": "Debilidades y secretos", "descripcion": "Cumplen una cadena de mando y necesitan una razón para intervenir. Toda la fuerza reunida supone una escala muy superior a una pelea de taberna; establece ese alcance en la ficción."}]
+    },
+    {
+      "slug": "serpientes-voladoras-mensajeras",
+      "nombre": "Serpientes voladoras mensajeras",
+      "nivel": 1,
+      "poderio": [],
+      "roles": ["Merodeador", "Apoyo"],
+      "aspecto_en": "A full-body portrait of three small flying snakes with venomous bites, coiled in cages. Fast, tiny. Cold blue-grey light, simple background.",
+      "descripcion": "Tres serpientes voladoras enjauladas en la suite de Naerth, agrupadas si actúan juntas.",
+      "limites": [
+        {"nombre": "heridas", "valor": 2, "consecuencia": "Quedan heridas."},
+        {"nombre": "capturadas", "valor": 2, "consecuencia": "Quedan capturadas."},
+        {"nombre": "ahuyentadas", "valor": 2, "consecuencia": "Se ahuyentan."}
+      ],
+      "etiquetas": ["vuelo veloz", "tamaño diminuto", "mordedura venenosa", "mensajeras entrenadas"],
+      "rasgos": [],
+      "amenazas": [
+        {"nombre": "Una mensajera escapa con una advertencia", "descripcion": "Una mensajera escapa con una advertencia.", "consecuencias": ["Crea [red alertada]", "Pierde la oportunidad de interceptar ese mensaje"]},
+        {"nombre": "Muerden al ser apresadas sin cuidado", "descripcion": "Muerden al ser apresadas sin cuidado.", "consecuencias": ["Inflige [envenenado-2]"]}
+      ],
+      "secretos": [{"nombre": "Debilidades y secretos", "descripcion": "Las jaulas y el manejo cuidado permiten contenerlas; no atacan de oficio a todo visitante. Interceptar una no revela por sí solo toda la red."}]
+    }
+  ],
+  "objetos": [
+    {
+      "slug": "chico-guia-fiel",
+      "nombre": "Chico, guía fiel",
+      "etiqueta": "Chico, guía fiel",
+      "descripcion": "Etiqueta de historia aliada: conoce campamento y ubicación de Garret, comunica urgencia y necesita cuidados. Los cinco perros restantes no deben confundirse con nuevos animales sin dueño para la mochila.",
+      "imagen_en": "An isolated light-grey dog nearly wolf-sized with a broken leather harness, standing on snow. Friendly expression, cold blue light, neutral background."
+    },
+    {
+      "slug": "equipo-de-escalada",
+      "nombre": "Equipo de escalada",
+      "etiqueta": "equipo de escalada",
+      "descripcion": "Mochila: cuerdas y herramientas hacen posibles ascensos asegurados; Garret conserva el suyo.",
+      "imagen_en": "An isolated bundle of climbing ropes and tools on cold stone. Worn leather and metal, neutral background."
+    },
+    {
+      "slug": "raquetas-de-nieve",
+      "nombre": "Raquetas de nieve",
+      "etiqueta": "raquetas de nieve",
+      "descripcion": "Pueden obtenerse en los comercios pertinentes mediante recursos o favores.",
+      "imagen_en": "An isolated pair of wooden snowshoes with leather bindings. Worn, practical, neutral background."
+    },
+    {
+      "slug": "equipo-de-acampada",
+      "nombre": "Equipo de acampada",
+      "etiqueta": "equipo de acampada",
+      "descripcion": "Puede obtenerse en los comercios pertinentes mediante recursos o favores.",
+      "imagen_en": "An isolated bundle of camping gear: tent canvas, stakes and a bedroll. Worn, practical, neutral background."
+    },
+    {
+      "slug": "ropa-de-frio",
+      "nombre": "Ropa de frío",
+      "etiqueta": "ropa de frío",
+      "descripcion": "Puede obtenerse en los comercios pertinentes mediante recursos o favores.",
+      "imagen_en": "An isolated set of heavy winter clothing: coat, mittens and scarf. Worn wool and fur, neutral background."
+    },
+    {
+      "slug": "reserva-de-raciones",
+      "nombre": "Reserva de raciones",
+      "etiqueta": "reserva de raciones",
+      "descripcion": "Mochila: caja del campamento con comida para cuatro personas durante tres días; reduce o agota la etiqueta según consumo. La otra caja está vacía.",
+      "imagen_en": "An isolated wooden box of rations with dried food and hardtack. Worn, practical, neutral background."
+    },
+    {
+      "slug": "utensilios-de-cocina",
+      "nombre": "Utensilios de cocina",
+      "etiqueta": "utensilios de cocina",
+      "descripcion": "Mochila: hallados bajo el trineo roto de F3.",
+      "imagen_en": "An isolated set of camp cooking utensils: pot, ladle and knife. Worn metal, neutral background."
+    },
+    {
+      "slug": "mochila-de-explorador",
+      "nombre": "Mochila de explorador",
+      "etiqueta": "mochila de explorador",
+      "descripcion": "Mochila: hallada bajo el trineo roto de F3.",
+      "imagen_en": "An isolated leather explorer's backpack with straps and buckles. Worn, practical, neutral background."
+    },
+    {
+      "slug": "dos-atuendos-de-abrigo-ensangrentados",
+      "nombre": "Dos atuendos de abrigo ensangrentados",
+      "etiqueta": "atuendos de abrigo ensangrentados",
+      "descripcion": "Mochila: bajo el trineo roto de F3. La ropa puede cubrir a Perilou y otro rescatado, previa adecuación y limpieza si procede.",
+      "imagen_en": "An isolated pair of blood-stained heavy winter coats and trousers. Worn, frozen, neutral background."
+    },
+    {
+      "slug": "hacha-grande-de-mokingo",
+      "nombre": "Hacha grande de Mokingo",
+      "etiqueta": "hacha grande de Mokingo",
+      "descripcion": "Mochila si se recupera: arma y recuerdo de su defensa.",
+      "imagen_en": "An isolated large battleaxe resting among bones and leather. Worn metal and wood, neutral background."
+    },
+    {
+      "slug": "restos-de-mokingo",
+      "nombre": "Restos de Mokingo",
+      "etiqueta": "restos de Mokingo",
+      "descripcion": "Pista de historia: huesos, cuero desgarrado y cabeza en F2; permiten comunicar su destino o recuperar restos para honras.",
+      "imagen_en": "An isolated set of bones, torn leather and a frozen severed head in a niche. Cold blue light, neutral background."
+    },
+    {
+      "slug": "botas-azules-de-barthoom",
+      "nombre": "Botas azules de Barthoom",
+      "etiqueta": "botas azules de Barthoom",
+      "descripcion": "Pista y posible mochila: identifican el cuerpo decapitado del campamento superior.",
+      "imagen_en": "An isolated pair of blue leather boots protruding from snow. Worn, cold, neutral background."
+    },
+    {
+      "slug": "equipo-de-minero",
+      "nombre": "Equipo de minero",
+      "etiqueta": "equipo de minero",
+      "descripcion": "Mochila: hallado con el cadáver de Barthoom.",
+      "imagen_en": "An isolated set of mining tools: pick, lantern and rope. Worn metal, neutral background."
+    },
+    {
+      "slug": "odre-vacio",
+      "nombre": "Odre vacío",
+      "etiqueta": "odre vacío",
+      "descripcion": "Hallazgo modesto que no equivale a una nueva reserva de viaje.",
+      "imagen_en": "An isolated empty waterskin of leather. Worn, neutral background."
+    },
+    {
+      "slug": "queso-de-cabra-a-medio-comer",
+      "nombre": "Queso de cabra a medio comer",
+      "etiqueta": "queso de cabra a medio comer",
+      "descripcion": "Hallazgo modesto que no equivale a una nueva reserva de viaje.",
+      "imagen_en": "An isolated half-eaten piece of goat cheese on a cloth. Neutral background."
+    },
+    {
+      "slug": "cabeza-de-oobok",
+      "nombre": "Cabeza de Oobok",
+      "etiqueta": "cabeza de Oobok",
+      "descripcion": "Pista de historia: posible identificación relacionada con «Jarras Espumeantes»; requiere información que permita reconocerlo.",
+      "imagen_en": "An isolated frozen dwarven head in a rough niche. Cold blue light, neutral background."
+    },
+    {
+      "slug": "pocion-de-invisibilidad",
+      "nombre": "Poción de invisibilidad",
+      "etiqueta": "poción de invisibilidad",
+      "descripcion": "Mochila, consumible de Astrix: rutina «beber y desaparecer de la vista». Crea [invisible] para una maniobra o secuencia breve coherente; se consume al usarla. No elimina ruido, huellas ni presencia física.",
+      "imagen_en": "An isolated small vial of invisibility potion with a stopper. Glass glint, muted colours, neutral background."
+    },
+    {
+      "slug": "grimorio-de-astrix",
+      "nombre": "Grimorio de Astrix",
+      "etiqueta": "grimorio de Astrix",
+      "descripcion": "Mochila: libro de cuero con nueve rutinas. Su posesión no concede de inmediato dominio de toda la magia: requiere un tema, etiqueta o aprendizaje que lo permita. Rutinas: «alterar el propio aspecto» crea [apariencia alterada]; «nube de dagas» crea [zona de hojas cortantes] y amenaza [cortado-2]; «comprensión idiomática» aporta [lengua comprendida]; «detectar magia» revela [presencia mágica localizada]; «retirada expeditiva» aporta [huida acelerada]; «rayo abrasador» puede infligir [quemado-2]; «sugestión» puede causar [sugestionado-2]; «escudo» crea [barrera arcana momentánea]; «disco flotante de Tenser» crea [plataforma de carga flotante].",
+      "imagen_en": "An isolated leather-bound spellbook with worn cover and pages. Dark leather, neutral background."
+    },
+    {
+      "slug": "tallas-de-marfil-de-keegan",
+      "nombre": "Tallas de marfil de Keegan",
+      "etiqueta": "tallas de marfil de Keegan",
+      "descripcion": "Mochila o regalo de valor: caja de madera con cuatro piezas, una ballena emergiendo, un zorro sonriente, dos liebres danzantes y una morsa con la inscripción «GRAN AMOR». Pueden servir como recuerdo, obsequio o recurso de trueque significativo, sin valor monetario exacto.",
+      "imagen_en": "An isolated wooden box containing four ivory carvings: a whale, a smiling fox, two dancing hares and a walrus inscribed 'GRAN AMOR'. Warm wood, neutral background."
+    },
+    {
+      "slug": "habitaciones-ofrecidas-por-owenn",
+      "nombre": "Habitaciones ofrecidas por Owenn",
+      "etiqueta": "habitaciones ofrecidas por Owenn",
+      "descripcion": "Favor de historia: recompensa de alojamiento en Los Brazos de Luskan, acordada por Keegan. No implica manutención ilimitada ni inmunidad frente a las intrigas de la posada.",
+      "imagen_en": "An isolated wooden room key and a folded blanket on a worn inn bed. Neutral background."
+    }
+  ],
+  "ayudas": [
+    {
+      "slug": "testimonio-de-keegan",
+      "titulo": "Testimonio de Keegan",
+      "tipo": "nota",
+      "texto": "Garret salió hace unos días para guiar una expedición con seis perros y un trineo. No conozco a sus clientes ni cuántos eran. Chico, criado por mí desde cachorro, nunca lo abandonaría sin una razón grave. Si lo encontráis, os ofrezco alojamiento gratuito en Los Brazos de Luskan y tallas de mi taller. No tengo dinero para contratar un rescate.",
+      "fondo_en": "A blank sheet of rough ivory parchment with worn corners, faint fold marks and natural fibres, resting flat under soft side lighting. No text, letters, symbols, illustrations or ink marks anywhere."
+    },
+    {
+      "slug": "ultimas-paradas-confirmadas",
+      "titulo": "Últimas paradas confirmadas por Atenas",
+      "tipo": "nota",
+      "texto": "Atenas Veloz vio a Garret con un goliat, una mediana piesligeros y una tiflin, bien armados. Compraron equipo de escalada y acampada, fueron a Anzuelo, Sedal y Plomo y pensaban dormir en La Luz del Norte. Ambos establecimientos los recuerdan cansados y poco habladores, sin incidentes.",
+      "fondo_en": "A blank sheet of rough ivory parchment with worn corners, faint fold marks and natural fibres, resting flat under soft side lighting. No text, letters, symbols, illustrations or ink marks anywhere."
+    },
+    {
+      "slug": "esquema-del-itinerario",
+      "titulo": "Esquema del itinerario con tiempos",
+      "tipo": "mapa",
+      "texto": "Targos–Bryn Shander: unos cinco kilómetros; después, unos treinta y siete hasta Caer-Dineval y otros cinco rodeando Lac Dinneshere hasta Caer-Konig. Total: catorce horas y media a pie o siete con trineos. Ruta directa por la tundra: unos diecinueve kilómetros en veinticuatro horas a pie o doce en trineo. Distancias locales a pie desde Targos: Bremen, tres horas; Bryn Shander, dos horas; Termalaine, cuatro horas.",
+      "fondo_en": "A blank sheet of rough ivory parchment with worn corners, faint fold marks and natural fibres, resting flat under soft side lighting. No text, letters, symbols, illustrations or ink marks anywhere."
+    }
+  ],
+  "hitos": [
+    "Recuperar a Garret vivo y reunirlo con Keegan.",
+    "Devolver el cuerpo de Garret a Keegan si muere.",
+    "Rescatar a Perilou y ayudarla a regresar a Diez Ciudades.",
+    "Averiguar el destino de Mokingo y Astrix.",
+    "Negociar un paso seguro con la familia de yetis.",
+    "Recuperar la poción, el grimorio y el equipo de la montaña.",
+    "Cumplir la promesa de buscar a todos los compañeros.",
+    "Descubrir las conexiones de Naerth con los Zhentarim, si se investiga."
+  ],
+  "relojes": []
+}

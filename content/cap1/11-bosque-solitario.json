@@ -1,0 +1,1263 @@
+{
+  "seccion": "11-bosque-solitario",
+  "titulo": "Bosque Solitario: El Alce Blanco",
+  "escenas": [
+    {
+      "slug": "muelles-y-casa-de-nimsy",
+      "nombre": "Bosque Solitario: muelles y casa de Nimsy",
+      "ciudad": "lonelywood",
+      "interior": false,
+      "imagen_en": "Wide establishing view of a small lakeside village between dark forest and a frozen lake. Modest houses, weathered docks, snow covered log piles and old carvings of dragons, lions and goats on timbers. A cozy kitchen with small furniture, a few large chairs, orange fire and a warm attic. Muted winter white, dark wood and warm amber palette. No people. Leave the lower third open.",
+      "lectura": "Llegáis a un pueblo que parece haberse recogido sobre sí mismo para conservar el calor. En las maderas más viejas distinguís leones, cabras y dragones, erosionados por inviernos incontables. El olor del serrín os acompaña hasta la casa de la portavoz. Dentro, el fuego de la cocina y una bandeja de galletas os reciben antes que cualquier pregunta. Tenéis que moveros con cuidado entre muebles diminutos y unas pocas sillas de vuestro tamaño. Cuatro niños cruzan la estancia con espadas de madera y desaparecen hacia la buhardilla. Nimsy os invita a sentaros. Sus palabras son amables, pero la preocupación resulta evidente: sin acceso seguro al bosque, el pueblo empieza a quedarse sin futuro.",
+      "notas": "Se presenta el encargo y se negocia la recompensa. La buhardilla es el único alojamiento habitual para visitantes; el pueblo sacrifica alimentos a Auril y mantiene rivalidades con Bremen, Targos y Termalaine. Su milicia potencial reúne cincuenta combatientes y cuatro veteranos, pero movilizarlos retira manos de la subsistencia.",
+      "musica": "pueblo",
+      "motivos": [
+        "misterio"
+      ],
+      "efectos": [
+        "hogar",
+        "viento",
+        "pasos"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "buhardilla caliente",
+        "galletas de Nimsy",
+        "pasados que nadie pregunta",
+        "madera imprescindible"
+      ],
+      "figuras": [
+        "nimsy-huddle",
+        "scoop-e-hijos-de-nimsy"
+      ]
+    },
+    {
+      "slug": "el-tallista-feliz",
+      "nombre": "El Tallista Feliz",
+      "ciudad": "lonelywood",
+      "interior": true,
+      "imagen_en": "Small carving shop facing the docks, shelves with curved knives, fine needles, colored inks and wax blocks. Sparse light over carefully ordered tools, frosted windows and ivory dust. A tidy counter and a reserved shopkeeper. Cold blue window light with warm tool tones. No people. Leave the lower third open.",
+      "lectura": "Desde los muelles veis una tienda pequeña cuyo escaparate conserva un orden casi obstinado. Al entrar, encontráis cuchillos curvos, agujas finísimas, ceras y tintas que aportan una variedad de colores inesperada entre tanto blanco y gris. Cada herramienta tiene un lugar preciso. El olor de la cera se mezcla con el del agua fría que llega de fuera. Tras el mostrador, la dueña os deja mirar sin acosaros con preguntas. Si habláis de personas o de tiempos pasados, sus respuestas se acortan. Solo al recordar a alguien ya muerto parece concederse un instante de afecto. Advertís que aquí resulta más sencillo comprar una hoja afilada que obtener una confidencia.",
+      "notas": "Iriskree vende herramientas de talla, tintas y cera como etiquetas de mochila. Es una asesina retirada; ganarse su confianza requiere discreción y presionarla puede crear [indiscretos ante Iriskree].",
+      "musica": "pueblo",
+      "motivos": [
+        "misterio"
+      ],
+      "efectos": [
+        "pasos",
+        "viento"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "herramientas afiladas",
+        "orden meticuloso",
+        "silencios deliberados"
+      ],
+      "figuras": [
+        "iriskree-harrowhill"
+      ]
+    },
+    {
+      "slug": "el-mentiroso-con-suerte",
+      "nombre": "El Mentiroso con Suerte",
+      "ciudad": "lonelywood",
+      "interior": true,
+      "imagen_en": "Warm low ceilinged wooden tavern, tables marked by tankards, drying winter clothes and fogged windows. Shadowed corners where more is heard than seen. Amber hearth light, wet wool textures, crowded but intimate atmosphere. No people. Leave the lower third open.",
+      "lectura": "Al abrir la puerta os alcanza una mezcla de calor, bebida y lana húmeda. Las conversaciones compiten por imponerse unas a otras. Oís relatos de capturas imposibles, árboles gigantescos y peligros que parecen crecer con cada repetición. Entre una carcajada y la siguiente, alguna voz baja de tono, como si acabara de recordar que está hablando demasiado. La tabernera se mueve de mesa en mesa con discreción, sirviendo y recogiendo sin interrumpir ninguna historia. Si buscáis noticias, tendréis muchas oportunidades de escuchar. Distinguir una exageración de una indiscreción será más difícil, y no sois los únicos que prestan atención a las palabras ajenas.",
+      "notas": "Pescadores y leñadores cuentan historias; pueden surgir rumores generales de Diez Ciudades. Escuchar con paciencia puede dar [rumor por contrastar]; contrastar con testigos produce [testimonio fiable]. Una indiscreción puede crear [Danae conoce vuestro secreto]. Danae Xotal reúne información para Szass Tam y no revela su condición por una conversación corriente.",
+      "musica": "taberna",
+      "motivos": [
+        "misterio"
+      ],
+      "efectos": [
+        "taberna-sfx",
+        "viento",
+        "puerta"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "historias exageradas",
+        "lenguas sueltas",
+        "oídos atentos",
+        "rincones en sombra"
+      ],
+      "figuras": [
+        "danae-xotal"
+      ]
+    },
+    {
+      "slug": "la-desvencijada",
+      "nombre": "La Desvencijada",
+      "ciudad": "lonelywood",
+      "interior": true,
+      "imagen_en": "Old snow battered inn facade and a common room filled with stacked timber. Dusty stairs, dark beams, opaque windows, no heat and two winters of neglect. A place that could become a home again. Cold grey light, weathered wood and dust. No people. Leave the lower third open.",
+      "lectura": "Ante vosotros se levanta una posada que parece justificar su nombre con cada tabla. La nieve se acumula en los salientes y las ventanas no ofrecen el resplandor de un hogar. Dentro, donde debería haber mesas y viajeros, encontráis madera apilada. El silencio deja oír vuestros pasos con una claridad incómoda. Las vigas de la sala común atraen vuestra mirada cuando recordáis lo que se cuenta del último propietario. Aun así, podéis imaginar otro sonido aquí: una chimenea encendida, una puerta que se abre para recibir huéspedes, conversaciones al final de un viaje. El edificio conserva esa posibilidad, enterrada bajo polvo, trabajo pendiente y una muerte sin aclarar.",
+      "notas": "DeGrootz apareció ahorcado hace dos años; algunos creen que viejos «amigos» lo asesinaron y fingieron el suicidio, pero es una sospecha. El pueblo usa el edificio como almacén y acepta que alguien lo restaure. Si Nimsy lo entrega, concede [propiedad de La Desvencijada].",
+      "musica": "pueblo",
+      "motivos": [
+        "misterio",
+        "esperanza"
+      ],
+      "efectos": [
+        "puerta",
+        "pasos",
+        "viento"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "posada clausurada",
+        "almacén de madera",
+        "muerte sin esclarecer",
+        "hogar por reconstruir"
+      ],
+      "figuras": [
+        "degrootz"
+      ]
+    },
+    {
+      "slug": "el-bosque-rastreo-y-encuentros",
+      "nombre": "El bosque: rastreo y encuentros",
+      "ciudad": "lonelywood",
+      "interior": false,
+      "imagen_en": "Snow laden conifers, blue clearings, half covered tracks and trunks that hide distance. Winter light leaves penumbra beneath branches; white makes a pale silhouette hard to distinguish. Cold blue and white palette, still and vast forest. No people or creatures. Leave the lower third open.",
+      "lectura": "Os internáis entre árboles que apagan poco a poco los sonidos del pueblo. Cada rama sostiene una carga de nieve y cada soplo desprende un polvo blanco que borra detalles del suelo. Encontráis pisadas, pero las huellas de un alce corriente pueden prometer exactamente lo mismo que las de vuestra presa. Entre los troncos, el horizonte desaparece. De vez en cuando escucháis un movimiento que cesa al deteneros. El frío se acumula en manos y pies mientras buscáis una dirección convincente. Tenéis la sensación de estar recorriendo un lugar que conoce vuestra presencia mucho mejor de lo que vosotros conocéis sus caminos.",
+      "notas": "Una hora de búsqueda permite rastrear; el éxito obtiene [rastro de alce] y el fallo consume tiempo y puede causar [perdido-2] o [helado-1]. Hay una posibilidad entre seis de que las huellas conduzcan a la tumba; un alce ordinario no ataca si lo dejan tranquilo. Cada tres horas, comprueba un encuentro entre banshee, oso, chwingas, zorro y liebre, lobos o ningún encuentro.",
+      "musica": "bosque",
+      "motivos": [
+        "tension",
+        "bestia"
+      ],
+      "efectos": [
+        "pasos",
+        "lobos",
+        "viento"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "nieve que oculta huellas",
+        "pelaje blanco invisible",
+        "rutas engañosas",
+        "frío persistente"
+      ],
+      "figuras": [
+        "invierno-y-rastreo",
+        "alce-blanco-dotado-de-conciencia",
+        "banshee-del-exilio",
+        "oso-pardo-hambriento",
+        "manada-de-lobos"
+      ]
+    },
+    {
+      "slug": "estatuas-y-entrada-del-tumulo",
+      "nombre": "E1-E2. Estatuas y entrada del túmulo",
+      "ciudad": "lonelywood",
+      "interior": false,
+      "imagen_en": "Circular clearing on a lightly wooded slope. Six white marble elves on cylindrical granite pedestals about two meters high look north; eroded faces, rigid robes. A stone door without handles or hinges in the south slope. A crystal gnomon about six meters tall dominates the scene. Pale blue pillars and snow covered trees. Cold white and grey palette. No people. Leave the lower third open.",
+      "lectura": "Las huellas os llevan hasta una depresión circular excavada en la ladera. Un gran triángulo de cristal se alza en el centro, demasiado preciso para confundirse con hielo natural. A un lado descubrís una hilera de figuras de mármol: sus rostros se han desgastado, pero las orejas puntiagudas aún delatan a quienes representan. Tras ellas, la nieve cubre una elevación coronada de árboles y pilares azul pálido. Más al norte distinguís un pequeño cenador. En la pendiente del sur encontráis una puerta lisa, ajustada a la piedra sin dejar espacio para los dedos. Todo parece preparado para recibir visitantes y, al mismo tiempo, para negarles el paso.",
+      "notas": "La protección aparta inadvertidamente a aberraciones, demonios, gigantes, humanoides y no muertos; sin guía puede crear [desviado sin advertirlo]. Hay diez estatuas protectoras y volcarlas todas exige fuerza conjunta; el éxito crea [estatua derribada] y el fallo puede causar [agotado-1] o ruido. E2 solo se abre desde E6 o mediante magia de apertura equivalente.",
+      "musica": "bosque",
+      "motivos": [
+        "misterio",
+        "tension"
+      ],
+      "efectos": [
+        "viento",
+        "hielo-cruje"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "abjuración ancestral",
+        "diez guardianes de mármol",
+        "puerta sin asideros",
+        "huellas que atraviesan el engaño"
+      ],
+      "figuras": [
+        "alce-blanco-dotado-de-conciencia"
+      ]
+    },
+    {
+      "slug": "cenador-brasero-y-sarcofago-de-sahnar",
+      "nombre": "E3-E4. Cenador, brasero y sarcófago de Sahnar",
+      "ciudad": "lonelywood",
+      "interior": false,
+      "imagen_en": "Polished marble gazebo with a fixed stone brazier half a meter wide, filled with snow and pine needles. On a three meter berm, a granite sarcophagus and a semicircle of five crystal pillars. A seventh statue looks south from the north end. Cool winter light and pale stone. No people. Leave the lower third open.",
+      "lectura": "Bajo el cenador encontráis un brasero apagado, sujeto al suelo y colmado de agujas de pino. Al otro lado, la nieve cubre un sarcófago rodeado por cinco pilares de cristal. Cuando limpiáis la piedra, aparece la imagen de un recipiente para el fuego. Los pilares completan la escena con otros signos: una ramita, una piña, una llama, una pluma y una mano. El conjunto tiene la claridad incómoda de una instrucción. Podéis conseguir casi todo entre los árboles cercanos. La última figura obliga a detener la mirada. Sobre vosotros, el mármol de un elfo contempla el lugar sin ofrecer otra respuesta.",
+      "notas": "Hay que quemar en el brasero una ramita, una piña, una pluma y una mano humanoide cortada; con los ingredientes correctos surge [llama de plata], que arde diez días y permite mover la tapa. Solo mientras arde se puede mover la losa; un fallo al moverla puede causar [atrapado-2]. Dentro despierta Sahnar, que ayuda a sus libertadores; su liberación es opcional.",
+      "musica": "bosque",
+      "motivos": [
+        "misterio"
+      ],
+      "efectos": [
+        "viento",
+        "hielo-cruje"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "instrucciones en cristal",
+        "sarcófago sellado",
+        "losa pesada",
+        "llama de plata"
+      ],
+      "figuras": [
+        "sahnar"
+      ]
+    },
+    {
+      "slug": "el-dial-lunar",
+      "nombre": "E5. El dial lunar",
+      "ciudad": "lonelywood",
+      "interior": false,
+      "imagen_en": "Thick crystal triangle, wide at the base and pointed at the top; a snow free stone circle with engraved lunar phases. Full moon to the north, new moon to the south, quarters east and west. An irregular breach to the northwest opens into a dark descent beneath the hill. Pale blue crystal and grey stone. No people. Leave the lower third open.",
+      "lectura": "Al acercaros al gran cristal comprobáis que la piedra de su alrededor permanece desnuda de nieve. El calor es tenue, pero suficiente para mantener visibles los símbolos de la luna. No estáis ante un reloj de sol. Si la luna se encuentra sobre el horizonte, una cuña luminosa señala su fase aunque las nubes os impidan verla. Buscáis letras entre los grabados y descubrís inscripciones junto al círculo de la luna llena y los dos cuartos. Más allá del borde, una abertura tosca rompe la geometría del lugar. A través de ella podéis mirar hacia una cámara hundida en la oscuridad.",
+      "notas": "El dial conserva calor mágico y señala la fase actual mientras la luna esté en el cielo. Leer élfico descubre dos instrucciones: la luna llena relaciona el reflejo con siete preguntas y los cuartos anuncian la apertura de las tumbas. Iluminar el símbolo lleno activa E7; iluminar un cuarto abre E8 y E9. La brecha comunica con E6 y evita la puerta cerrada de E2.",
+      "musica": "bosque",
+      "motivos": [
+        "misterio"
+      ],
+      "efectos": [
+        "viento"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "piedra templada",
+        "fases lunares",
+        "inscripciones élficas",
+        "brecha hacia el túmulo"
+      ],
+      "figuras": []
+    },
+    {
+      "slug": "refugio-de-animales-y-guarida-del-alce",
+      "nombre": "E6. Refugio de animales y guarida del alce",
+      "ciudad": "lonelywood",
+      "interior": true,
+      "imagen_en": "Large underground chamber with bones on the floor and sheltered corners. Three intact marble elven statues without pedestals, faces detailed, looking east. Cold light from the opening and deep shadows toward the passages. Shared refuge of foxes, hares, goats, owls and young animals. Grey stone and pale light. No people. Leave the lower third open.",
+      "lectura": "Al entrar bajo la colina encontráis huesos esparcidos por una cámara más espaciosa de lo que esperabais. Poco a poco distinguís formas dormidas: zorros junto a liebres, cabras, búhos y crías de animales que fuera no compartirían refugio. Tres elfos de mármol miran hacia la pared oriental; sus caras conservan detalles que el viento ha borrado de las estatuas exteriores. Si el alce aún está aquí, su blancura termina por separarse de las sombras y vuelve la cornamenta hacia vosotros. La paz de los animales parece depender de un solo instante. Un movimiento violento bastaría para convertir el refugio en una estampida.",
+      "notas": "Si no salió durante la vigilancia exterior, el alce ataca aquí. Los demás animales son inofensivos y se asustan con la lucha; crea [animales aterrados] si el combate lo justifica. Ravisin oye la pelea, pero permanece en E9 para preparar su defensa. Las tres estatuas completan la protección exterior.",
+      "musica": "mina",
+      "motivos": [
+        "bestia",
+        "tension"
+      ],
+      "efectos": [
+        "pasos"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "huesos por el suelo",
+        "refugio compartido",
+        "tres guardianes intactos",
+        "animales aterrados"
+      ],
+      "figuras": [
+        "alce-blanco-dotado-de-conciencia"
+      ]
+    },
+    {
+      "slug": "espejo-de-la-luna-llena",
+      "nombre": "E7. Espejo de la luna llena",
+      "ciudad": "lonelywood",
+      "interior": true,
+      "imagen_en": "Narrow corridor ending at an oval mirror about two meters high and one wide, fixed to a wall. Ornate stone frame; silver flashes when the mechanism is active. Cool stone passage and pale reflected light. No people. Leave the lower third open.",
+      "lectura": "El corredor se estrecha hasta dejaros frente a un espejo alto, incrustado en un marco de piedra. En la penumbra, vuestro reflejo parece ocupar una puerta que conduce a otro pasadizo. Cuando el dial alimenta su magia, el borde se enciende con pequeños destellos plateados. Recordáis la promesa grabada junto a la luna llena y empezáis a comprender por qué los cazadores nunca sorprendían a su presa. Este objeto permite mirar mucho más allá de la tumba. Aun así, no descubrís juntas ni soportes que permitan llevároslo: la superficie está unida al muro como una parte inseparable del edificio.",
+      "notas": "Activo, funciona como instrumento de visión remota; el alce está vinculado a él y espía a cazadores y leñadores que conoce. La muerte del alce o el vínculo de otro usuario termina su control. El adhesivo soberano impide desmontarlo intacto; romperlo destruye su magia para siempre. El éxito obtiene [visión del objetivo]; los obstáculos de ocultación pueden producir [visión velada].",
+      "musica": "mina",
+      "motivos": [
+        "misterio"
+      ],
+      "efectos": [
+        "pasos"
+      ],
+      "ambiente": "dark",
+      "etiquetas": [
+        "espejo fijo",
+        "marco plateado",
+        "vigilancia a distancia"
+      ],
+      "figuras": []
+    },
+    {
+      "slug": "primera-tumba-de-media-luna",
+      "nombre": "E8. Primera tumba de media luna",
+      "ciudad": "lonelywood",
+      "interior": true,
+      "imagen_en": "Stone door marked with a white semicircle curving to the right; circular chamber about six meters high with a carved dome and a beam of light over a rectangular stone sarcophagus. Pale magical light from above, no flame or smoke. Grey stone and soft silver. No people. Leave the lower third open.",
+      "lectura": "Ante vosotros, un semicírculo blanco marca la puerta de piedra. Cuando conseguís abrirla, aparece una estancia circular cuya altura contrasta con el pasillo. La cúpula está tallada con un cuidado que el polvo no ha borrado. Desde lo alto cae una luz inmóvil sobre el sarcófago del centro, sin llama, humo ni abertura visible. La tapa exige esfuerzo para apartarse. Bajo ella descansa un cuerpo élfico reseco, vestido con los restos de una túnica. El aire que introducís mueve la tela y desprende parte de ella en polvo. Junto al cadáver distinguís unos pocos objetos, conservados en un silencio que parece mucho más antiguo que el pueblo.",
+      "notas": "Desde fuera requiere un cuarto iluminado en E5 o magia de apertura; desde dentro se abre sin dificultad. La luz superior es un efecto mágico menor disipable. La losa requiere medios adecuados o esfuerzo conjunto; éxito [sarcófago abierto], fallo [agotado-1] o demora. Contiene un arco sin cuerda, seis puntas de flecha plateadas y una taza de madera grabada con un pez alado.",
+      "musica": "mina",
+      "motivos": [
+        "misterio"
+      ],
+      "efectos": [
+        "pasos"
+      ],
+      "ambiente": "dark",
+      "etiquetas": [
+        "tumba de media luna",
+        "haz mágico",
+        "losa pesada",
+        "restos frágiles"
+      ],
+      "figuras": []
+    },
+    {
+      "slug": "segunda-tumba-de-media-luna-ravisin-y-vurnis",
+      "nombre": "E9. Segunda tumba de media luna: Ravisin y Vurnis",
+      "ciudad": "lonelywood",
+      "interior": true,
+      "imagen_en": "Stone door marked with a white semicircle curving to the left; domed chamber with magical beam over a sarcophagus. Dried herbs on a shelf, sleeping sack behind the stone and herbalist tools spread over the lid. Cold lunar light and shadowed corners. No people. Leave the lower third open.",
+      "lectura": "Al abrir la segunda puerta encontráis una tumba transformada en vivienda. Las hierbas secas aportan un olor áspero al aire cerrado y un saco de dormir ocupa el espacio detrás del sarcófago. Sobre la tapa hay herramientas y restos de plantas. Apenas tenéis tiempo de mirar cuando una mujer de dientes manchados de azul se incorpora desde su escondite y sube a la piedra. Os recibe anunciando que las Diez Ciudades caerán, por su mano o por la de la Doncella de la Escarcha. A su lado, un pequeño arbusto se encoge entre sus propias ramas. La mujer ya está preparando su magia; el cuarto no ofrece mucho espacio para resguardaros.",
+      "notas": "Tiene las mismas condiciones de apertura y luz que E8. Ravisin se oculta tras el sarcófago cuando oye la puerta; después se muestra y ataca hasta morir. El arbusto teme a Ravisin y al fuego; solo se defiende. Tras neutralizar a la druida, hablarle con calma puede obtener [confianza del arbusto]; amenazarlo provoca [aterrorizado-3]. Apartar la tapa libera un hedor y revela a Vurnis; una acción de medicina obtiene [muerta hace meses] y [descomposición ralentizada por el frío]. Bajo el cadáver está la bolsa de piel de tiburón con dos pociones.",
+      "musica": "culto",
+      "motivos": [
+        "horror",
+        "amenaza",
+        "duelo"
+      ],
+      "efectos": [
+        "pasos"
+      ],
+      "ambiente": "dark",
+      "etiquetas": [
+        "cobertura del sarcófago",
+        "hierbas secas",
+        "haz mágico",
+        "hedor de descomposición"
+      ],
+      "figuras": [
+        "ravisin",
+        "arbusto-de-bayas-despertado",
+        "vurnis"
+      ]
+    }
+  ],
+  "pnj": [
+    {
+      "slug": "nimsy-huddle",
+      "nombre": "Nimsy Huddle",
+      "papel": "Portavoz y anfitriona de Bosque Solitario; mediana de los corazonesfuertes.",
+      "ciudad": "lonelywood",
+      "aspecto_en": "Full body portrait of a middle aged halfling woman, practical apron over layered winter clothing, warm expression and capable hands. Simple braided hair, flour dusted sleeves, sturdy boots. She stands in a low ceilinged kitchen with an orange fire behind her. Warm amber light, cozy domestic textures, reassuring and determined posture.",
+      "presentacion": "Veis a una mediana adulta de sonrisa amplia, con delantal y ropa de abrigo práctica, moviéndose con soltura entre muebles diminutos. El fuego de la cocina y una bandeja de galletas os reciben antes que cualquier pregunta. Os invita a sentaros; sus palabras son amables, pero la preocupación resulta evidente.",
+      "caracter": "bondadosa, hospitalaria y resuelta; habla con la cordialidad de quien ya está calculando cómo conseguir ayuda",
+      "quiere": "salvar la actividad maderera y cumplir lo prometido al Consejo de Portavoces",
+      "sabe": "los ataques del alce, el fracaso de los cazadores y las posibilidades de recompensa; desconoce inicialmente a Ravisin y el espejo",
+      "desafio": null
+    },
+    {
+      "slug": "scoop-e-hijos-de-nimsy",
+      "nombre": "Scoop y los hijos de Nimsy",
+      "papel": "Mensajeros y presencia familiar; cuatro hermanos medianos.",
+      "ciudad": "lonelywood",
+      "aspecto_en": "Full body portrait of four small halfling children in winter home clothes, active and playful, carrying wooden swords. Short sturdy figures, bright eyes, messy hair, oversized coats and boots. Warm kitchen light, domestic setting, energetic and carefree expressions.",
+      "presentacion": "Cuatro niños medianos cruzan la estancia con espadas de madera y desaparecen hacia la buhardilla. Scoop, el mayor, os busca con alegría directa para llevaros ante su madre. El hogar está lleno de juegos, risas y carreras entre muebles diminutos; su presencia hace que la preocupación de Nimsy resulte aún más humana.",
+      "caracter": "Scoop es alegre y directo; el hogar está lleno de juegos",
+      "quiere": "llevar a los visitantes ante su madre y seguir jugando",
+      "sabe": "dónde encontrar a Nimsy",
+      "desafio": null
+    },
+    {
+      "slug": "iriskree-harrowhill",
+      "nombre": "Iriskree Harrowhill",
+      "papel": "Propietaria de El Tallista Feliz, asesina retirada.",
+      "ciudad": "lonelywood",
+      "aspecto_en": "Full body portrait of an adult human woman, simple winter coat and careful hands among precision tools. Reserved posture, neat hair, unadorned clothing, sharp calm eyes. A small carving shop behind her with ordered knives, inks and wax. Cool window light and meticulous textures, guarded but not hostile expression.",
+      "presentacion": "Tras el mostrador, la dueña os deja mirar sin acosaros con preguntas. Si habláis de personas o de tiempos pasados, sus respuestas se acortan. Solo al recordar a alguien ya muerto parece concederse un instante de afecto. Advertís que aquí resulta más sencillo comprar una hoja afilada que obtener una confidencia.",
+      "caracter": "reservada, pocas palabras; recuerda con afecto a conocidos fallecidos",
+      "quiere": "ejercer su oficio y mantener su pasado en privado",
+      "sabe": "técnicas de talla y un pasado criminal que no comparte; la fuente no le adjudica pistas sobre Ravisin",
+      "desafio": "iriskree-violencia-de-una-vida-anterior"
+    },
+    {
+      "slug": "danae-xotal",
+      "nombre": "Danae Xotal",
+      "papel": "Tabernera y agente thayina al servicio del lich Szass Tam.",
+      "ciudad": "lonelywood",
+      "aspecto_en": "Full body portrait of an adult human woman with black hair, work clothes and cold weather layers. Controlled posture behind a tavern bar, attentive eyes, discreet movements serving and clearing tables. Warm tavern light and shadowed corners, calm guarded expression, no visible weapons or insignia.",
+      "presentacion": "La tabernera se mueve de mesa en mesa con discreción, sirviendo y recogiendo sin interrumpir ninguna historia. Si buscáis noticias, tendréis muchas oportunidades de escuchar. Distinguir una exageración de una indiscreción será más difícil, y no sois los únicos que prestan atención a las palabras ajenas.",
+      "caracter": "discreta, controlada y atenta; hace hablar sin llamar la atención",
+      "quiere": "identificar a enemigos de su amo refugiados en Diez Ciudades",
+      "sabe": "secretos escuchados en la taberna y su propia misión, que lleva años cumpliendo. Nadie más en las ciudades conoce su afiliación",
+      "desafio": "danae-y-su-red-de-secretos"
+    },
+    {
+      "slug": "degrootz",
+      "nombre": "DeGrootz",
+      "papel": "Antiguo propietario muerto de La Desvencijada.",
+      "ciudad": "lonelywood",
+      "aspecto_en": "No living portrait is available; show a memory image of a retired male woodcutter, rough winter clothing, axe leaning beside him, weathered hands and a quiet thoughtful face. Muted firelight and sawdust tones, somber nostalgic atmosphere, no supernatural elements.",
+      "presentacion": "Antes de entrar, recordáis lo que se cuenta: un leñador retirado que compró la posada y acabó ahorcado en su sala común. Algunos creen que viejos «amigos» lo asesinaron y fingieron el suicidio. El edificio conserva esa posibilidad, enterrada bajo polvo y trabajo pendiente.",
+      "caracter": "sin datos verificables",
+      "quiere": "no aplicable",
+      "sabe": "la fuente no establece revelaciones suyas",
+      "desafio": null
+    },
+    {
+      "slug": "sahnar",
+      "nombre": "Sahnar",
+      "papel": "Momia de elfo lunar, aliada liberable en E4.",
+      "ciudad": "lonelywood",
+      "aspecto_en": "Full body portrait of a preserved elven mummy, dry body wrapped in remnants of a tunic, ancient and thin, with an unexpected scent of pumpkin spices. Pointed ears, desiccated skin, calm benevolent expression. Stone tomb setting, cool lunar light, pale blue and grey palette, no modern clothing.",
+      "presentacion": "Bajo la tapa descansa un cuerpo élfico reseco, vestido con los restos de una túnica. El aire que introducís mueve la tela y desprende parte de ella en polvo. Si lo liberáis, se incorpora con torpeza benévola, huele a especias de calabaza y os ofrece obediencia literal. Habla común y élfico, pero su juicio es limitado y su mundo acabó hace siglos.",
+      "caracter": "benévolo, poco perspicaz y literal; habla común y élfico",
+      "quiere": "obedecer a sus libertadores",
+      "sabe": "cómo funciona el dial lunar; nada de los ocupantes actuales, las Diez Ciudades o la situación contemporánea del Valle",
+      "desafio": "sahnar-guardian-liberado"
+    },
+    {
+      "slug": "ravisin",
+      "nombre": "Ravisin",
+      "papel": "Druida de la escarcha y responsable de los ataques.",
+      "ciudad": "lonelywood",
+      "aspecto_en": "Full body portrait of a frost druid woman, blue stained teeth from berries, heavy winter pelts and garments worn among herbs and funerary stone. Fanatical expression, rigid posture, frost rimmed hood, practical winter layers. Cold blue light, stone tomb background, bitter and vengeful presence.",
+      "presentacion": "Una mujer de dientes manchados de azul se incorpora desde su escondite y sube a la piedra. Os recibe anunciando que las Diez Ciudades caerán, por su mano o por la de la Doncella de la Escarcha. A su lado, un pequeño arbusto se encoge entre sus propias ramas. La mujer ya está preparando su magia.",
+      "caracter": "fanática, vengativa y desafiante; amenaza con la destrucción de las Diez Ciudades",
+      "quiere": "expulsar a los leñadores del bosque, vengar a Vurnis y aterrorizar los asentamientos en nombre de Auril",
+      "sabe": "despertar bestias y plantas, operar el dial con rayo lunar y utilizar al alce como espía",
+      "desafio": "ravisin-druida-de-la-escarcha"
+    },
+    {
+      "slug": "vurnis",
+      "nombre": "Vurnis",
+      "papel": "Gemela muerta de Ravisin, también druida de la escarcha.",
+      "ciudad": "lonelywood",
+      "aspecto_en": "Still life of a slowly decomposing female druid corpse in a stone tomb, cold slowed decay, tattered winter garments, blue berry stains on teeth, resting beneath a heavy stone lid. Pale grey and cold blue palette, hushed funerary atmosphere, no animation or supernatural glow.",
+      "presentacion": "Apartar la pesada tapa libera un hedor de putrefacción y revela a Vurnis. Su cuerpo se ha conservado por el frío; los dientes manchados de azul recuerdan a los de su gemela. Solo el examen médico o la comunicación con los muertos pueden revelar qué le ocurrió y cuándo murió.",
+      "caracter": "no descritos",
+      "quiere": "no se establece una voluntad póstuma",
+      "sabe": "mediante comunicación con los muertos puede revelar que cazadores la mataron cerca de Bosque Solitario",
+      "desafio": null
+    },
+    {
+      "slug": "arbusto-de-bayas-despertado",
+      "nombre": "Arbusto de bayas despertado",
+      "papel": "Acompañante sometido a Ravisin, testigo y posible aliado.",
+      "ciudad": "lonelywood",
+      "aspecto_en": "Full body portrait of a small mobile bush with branches laden with blue berries, no humanoid features or clothing. It cowers and shrinks among its own branches, fearful expression suggested by posture. Cold tomb light, earthy greens and deep berry blue, small scale and vulnerable.",
+      "presentacion": "A su lado, un pequeño arbusto se encoge entre sus propias ramas. Temeroso y parlante, evita la violencia y obedece a Ravisin por miedo. Tras neutralizar a la druida, hablarle con calma puede obtener su confianza; amenazarlo provoca pánico y dificulta su testimonio. Ofrece sus bayas si lo dejan vivir.",
+      "caracter": "asustadizo, habla común y evita la violencia",
+      "quiere": "sobrevivir y mantenerse lejos del fuego",
+      "sabe": "los datos enumerados en E9; ignora cuándo y cómo murió Vurnis",
+      "desafio": "arbusto-acorralado"
+    }
+  ],
+  "desafios": [
+    {
+      "slug": "invierno-y-rastreo",
+      "nombre": "El invierno y el rastreo",
+      "nivel": 2,
+      "poderio": [],
+      "roles": [
+        "Obstáculo",
+        "Peligro"
+      ],
+      "aspecto_en": "Wide environmental study of a snow covered pine forest at winter dusk. Snow laden branches, blue shadows, half buried tracks and white ground that hides distance. Cold blue and grey palette, low light, no people or creatures, strong sense of disorientation and exposure.",
+      "descripcion": "Búsqueda repetida en un bosque nevado; exposición invernal y tiempo de viaje, sin criatura asociada.",
+      "limites": [
+        {
+          "nombre": "ruta hallada",
+          "valor": 3,
+          "consecuencia": "Se encuentra una ruta fiable en el bosque."
+        },
+        {
+          "nombre": "refugio alcanzado",
+          "valor": 3,
+          "consecuencia": "Se alcanza un refugio seguro antes del agotamiento."
+        }
+      ],
+      "etiquetas": [
+        "nieve que borra rastros",
+        "distancias inciertas",
+        "frío persistente",
+        "blancura engañosa"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "La búsqueda se prolonga",
+          "descripcion": "inflige [helado-1]; consume provisiones de mochila si se agotan las horas previstas.",
+          "consecuencias": [
+            "Inflige [helado-1]",
+            "Consume provisiones de mochila"
+          ]
+        },
+        {
+          "nombre": "Se confunden las pisadas",
+          "descripcion": "crea [rastro de alce corriente]; inflige [perdido-2] si abandonan sus referencias.",
+          "consecuencias": [
+            "Crea [rastro de alce corriente]",
+            "Inflige [perdido-2]"
+          ]
+        },
+        {
+          "nombre": "El cansancio impide mantener el ritmo",
+          "descripcion": "inflige [agotado-2]; separa a un rezagado mediante [fuera de la vista].",
+          "consecuencias": [
+            "Inflige [agotado-2]",
+            "Aplica [fuera de la vista]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y vías de resolución",
+          "descripcion": "guía animal, huellas seguidas con cuidado, ropa adecuada y refugio. La fuente no establece una ventisca, hielo fino ni agua helada en este recorrido: introdúcelos solo si otra circunstancia de campaña los exige."
+        }
+      ]
+    },
+    {
+      "slug": "alce-blanco-dotado-de-conciencia",
+      "nombre": "Alce blanco dotado de conciencia",
+      "nivel": 2,
+      "poderio": [],
+      "roles": [
+        "Adversario",
+        "Merodeador",
+        "Bruto"
+      ],
+      "aspecto_en": "Full body creature study of an awakened white moose, large body, powerful legs and an impressive spreading rack of antlers. Thick white fur blends with snow, intelligent dark eyes and a predatory alert posture. Winter forest background, cold blue and white palette, no saddle or rider, ominous but naturalistic.",
+      "descripcion": "Alce blanco despertado que sirve voluntariamente a Ravisin; inteligente y malvado por disposición propia.",
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 4,
+          "consecuencia": "Al llegar a herido-4 queda fuera de combate."
+        },
+        {
+          "nombre": "inmovilizado",
+          "valor": 4,
+          "consecuencia": "Queda atrapado y pierde su movilidad."
+        },
+        {
+          "nombre": "expulsado",
+          "valor": 4,
+          "consecuencia": "Huye y abandona el bosque."
+        }
+      ],
+      "etiquetas": [
+        "gran cornamenta",
+        "carga arrolladora",
+        "paso seguro",
+        "pelaje blanco",
+        "inteligencia humana",
+        "habla druídico"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Carga en línea recta",
+          "descripcion": "inflige [herido-3]; deja [derribado-2].",
+          "consecuencias": [
+            "Inflige [herido-3]",
+            "Aplica [derribado-2]"
+          ]
+        },
+        {
+          "nombre": "Combina cornamenta y pezuñas",
+          "descripcion": "inflige [ensartado-3]; amenaza con [pisoteado-3] a quien queda bajo él.",
+          "consecuencias": [
+            "Inflige [ensartado-3]",
+            "Amenaza con [pisoteado-3]"
+          ]
+        },
+        {
+          "nombre": "Aprovecha la nieve o su vigilancia previa",
+          "descripcion": "crea [emboscada preparada]; se retira mediante [rastro confundido].",
+          "consecuencias": [
+            "Crea [emboscada preparada]",
+            "Aplica [rastro confundido]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y vías de resolución",
+          "descripcion": "necesita espacio para su mejor carga; es difícil derribarlo. Es malvado por disposición propia y sirve voluntariamente a Ravisin. El espejo explica su ventaja, pero solo puede usarlo mientras está activo y vinculado. Su habla druídica no implica que entienda común."
+        }
+      ]
+    },
+    {
+      "slug": "banshee-del-exilio",
+      "nombre": "Banshee del exilio",
+      "nivel": 3,
+      "poderio": [],
+      "roles": [
+        "Adversario",
+        "Merodeador"
+      ],
+      "aspecto_en": "Full body spectral portrait of an exiled elven warrior banshee, translucent figure with pointed ears, ancient armor remnants and a ghostly bow. Cold blue glow, sorrowful and wrathful expression, winter forest background with bare branches. Ethereal, not corporeal, no solid ground contact.",
+      "descripcion": "Guerrera elfa exiliada por un acto egoísta y malvado que recorre el bosque con su arco espectral.",
+      "limites": [
+        {
+          "nombre": "disipada",
+          "valor": 4,
+          "consecuencia": "Se disipa temporalmente y reaparece veinticuatro horas después en un punto aleatorio."
+        },
+        {
+          "nombre": "evadida",
+          "valor": 3,
+          "consecuencia": "Escapa y abandona el encuentro."
+        }
+      ],
+      "etiquetas": [
+        "espectro élfico",
+        "arco fantasma",
+        "flechas corruptoras",
+        "exilio eterno"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Dispara desde la arboleda",
+          "descripcion": "inflige [marchito-3]; crea [paso batido por flechas].",
+          "consecuencias": [
+            "Inflige [marchito-3]",
+            "Crea [paso batido por flechas]"
+          ]
+        },
+        {
+          "nombre": "Acosa a quien intenta escapar",
+          "descripcion": "inflige [asustado-2]; separa a un Héroe con [aislado entre árboles].",
+          "consecuencias": [
+            "Inflige [asustado-2]",
+            "Aplica [aislado entre árboles]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y vías de resolución",
+          "descripcion": "solo existe una. Su disolución dura veinticuatro horas y no levanta la condena; vuelve en otro lugar del bosque. La fuente no ofrece un procedimiento para redimirla."
+        }
+      ]
+    },
+    {
+      "slug": "oso-pardo-hambriento",
+      "nombre": "Oso pardo hambriento",
+      "nivel": 1,
+      "poderio": [],
+      "roles": [
+        "Adversario",
+        "Bruto"
+      ],
+      "aspecto_en": "Full body portrait of a hungry brown bear in a snowy forest, heavy fur, strong claws, muzzle low to the ground as it searches for food. Winter light, dark brown and white palette, powerful but not monstrous, naturalistic and tense.",
+      "descripcion": "Oso pardo hambriento que roe ramas bajas antes de acercarse buscando mejor comida.",
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 3,
+          "consecuencia": "Queda fuera de combate."
+        },
+        {
+          "nombre": "ahuyentado",
+          "valor": 3,
+          "consecuencia": "Huye y abandona el encuentro."
+        }
+      ],
+      "etiquetas": [
+        "hambre acuciante",
+        "garras fuertes",
+        "olfato agudo",
+        "protege a sus crías"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Se abalanza buscando comida",
+          "descripcion": "inflige [herido-2]; deja [derribado-2].",
+          "consecuencias": [
+            "Inflige [herido-2]",
+            "Aplica [derribado-2]"
+          ]
+        },
+        {
+          "nombre": "Huele las provisiones",
+          "descripcion": "crea [mochila desgarrada]; consume una provisión accesible.",
+          "consecuencias": [
+            "Crea [mochila desgarrada]",
+            "Consume una provisión accesible"
+          ]
+        },
+        {
+          "nombre": "Defiende a los cachorros",
+          "descripcion": "inflige [acorralado-2]; bloquea la retirada con [madre entre los árboles].",
+          "consecuencias": [
+            "Inflige [acorralado-2]",
+            "Bloquea la retirada con [madre entre los árboles]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y vías de resolución",
+          "descripcion": "puede ser ahuyentado mediante intimidación creíble. Las crías no combaten y no cuentan como miembros de una banda hostil."
+        }
+      ]
+    },
+    {
+      "slug": "manada-de-lobos",
+      "nombre": "Manada de lobos",
+      "nivel": 1,
+      "poderio": [],
+      "roles": [
+        "Adversario",
+        "Obstáculo"
+      ],
+      "aspecto_en": "Full body group portrait of five to eight arctic wolves in a snowy forest, coordinated pack, bared fangs, alert ears and tense hunting posture. Cold grey and white palette, low winter light, no people, strong impression of coordinated threat.",
+      "descripcion": "Manada de cinco a ocho lobos, tratados como un único desafío.",
+      "limites": [
+        {
+          "nombre": "dispersada",
+          "valor": 3,
+          "consecuencia": "La manada pierde cohesión y huye."
+        },
+        {
+          "nombre": "herida",
+          "valor": 4,
+          "consecuencia": "La manada queda fuera de combate."
+        }
+      ],
+      "etiquetas": [
+        "caza coordinada",
+        "colmillos",
+        "rodean a la presa",
+        "olfato de manada"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Rodean por ambos flancos",
+          "descripcion": "inflige [acorralado-2]; crea [retirada cortada].",
+          "consecuencias": [
+            "Inflige [acorralado-2]",
+            "Crea [retirada cortada]"
+          ]
+        },
+        {
+          "nombre": "Derriban al rezagado",
+          "descripcion": "inflige [mordido-2]; deja [derribado-2].",
+          "consecuencias": [
+            "Inflige [mordido-2]",
+            "Aplica [derribado-2]"
+          ]
+        },
+        {
+          "nombre": "Arrastran a una presa separada",
+          "descripcion": "inflige [aislado-3]; daña una mochila expuesta con [correas rotas].",
+          "consecuencias": [
+            "Inflige [aislado-3]",
+            "Aplica [correas rotas]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y vías de resolución",
+          "descripcion": "cuando pierde tres lobos, el resto huye. El límite dispersada 3 representa esa quiebra de cohesión; se puede alcanzar también con una intimidación o defensa que haga inviable la caza."
+        }
+      ]
+    },
+    {
+      "slug": "ravisin-druida-de-la-escarcha",
+      "nombre": "Ravisin, druida de la escarcha",
+      "nivel": 3,
+      "poderio": [
+        {
+          "nivel": "adventure",
+          "aspecto": "Druida de la escarcha al servicio de Auril"
+        }
+      ],
+      "roles": [
+        "Adversario",
+        "Controlador"
+      ],
+      "aspecto_en": "Full body portrait of a frost druid woman, blue stained teeth from berries, heavy winter pelts and garments worn among herbs and funerary stone. Fanatical expression, rigid posture, frost rimmed hood, practical winter layers. Cold blue light, stone tomb background, bitter and vengeful presence.",
+      "descripcion": "Druida de la escarcha que ataca desde E9, preparada tras el sarcófago, fanática y vengativa.",
+      "limites": [
+        {
+          "nombre": "herida",
+          "valor": 4,
+          "consecuencia": "Queda fuera de combate."
+        },
+        {
+          "nombre": "contenida",
+          "valor": 5,
+          "consecuencia": "Queda contenida y no puede continuar su campaña."
+        },
+        {
+          "nombre": "privada de magia",
+          "valor": 4,
+          "consecuencia": "Pierde el acceso a su magia lunar."
+        }
+      ],
+      "etiquetas": [
+        "devota de Auril",
+        "rayo de luna",
+        "despierta bestias y plantas",
+        "preparada tras el sarcófago",
+        "venganza por Vurnis"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Baña a un intruso en luz lunar",
+          "descripcion": "inflige [abrasado por la luna-3]; revela una forma cambiante mediante [verdadera forma expuesta] si procede.",
+          "consecuencias": [
+            "Inflige [abrasado por la luna-3]",
+            "Aplica [verdadera forma expuesta]"
+          ]
+        },
+        {
+          "nombre": "Aprovecha su posición defensiva",
+          "descripcion": "crea [línea de paso bajo el rayo]; obliga a abandonar cobertura con [expuesto-2].",
+          "consecuencias": [
+            "Crea [línea de paso bajo el rayo]",
+            "Aplica [expuesto-2]"
+          ]
+        },
+        {
+          "nombre": "Prosigue su campaña si la dejan actuar",
+          "descripcion": "crea [nueva bestia despertada]; impone a la comunidad [leñadores aterrorizados-3]. Esta consecuencia requiere tiempo y oportunidad, no es una invocación instantánea en combate.",
+          "consecuencias": [
+            "Crea [nueva bestia despertada]",
+            "Impone [leñadores aterrorizados-3]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y vías de resolución",
+          "descripcion": "el duelo explica su odio, pero no garantiza que acepte razones. El arbusto la obedece por miedo. No sale a ayudar al alce; prepara la defensa en E9. Detenerla requiere impedir de forma duradera que siga despertando atacantes."
+        }
+      ]
+    },
+    {
+      "slug": "sahnar-guardian-liberado",
+      "nombre": "Sahnar, guardián liberado",
+      "nivel": 3,
+      "poderio": [],
+      "roles": [
+        "Apoyo",
+        "Obstáculo"
+      ],
+      "aspecto_en": "Full body portrait of a preserved elven mummy, dry body wrapped in remnants of a tunic, ancient and thin, with an unexpected scent of pumpkin spices. Pointed ears, desiccated skin, calm benevolent expression. Stone tomb setting, cool lunar light, pale blue and grey palette, no modern clothing.",
+      "descripcion": "Momia de elfo lunar benévola, adaptada al frío, aliada potencial si se libera.",
+      "limites": [
+        {
+          "nombre": "destruido",
+          "valor": 4,
+          "consecuencia": "Se convierte en polvo definitivamente."
+        },
+        {
+          "nombre": "retenido",
+          "valor": 4,
+          "consecuencia": "Queda retenido y no puede actuar."
+        }
+      ],
+      "etiquetas": [
+        "cuerpo preservado",
+        "resiste el frío",
+        "obedece a sus libertadores",
+        "juicio limitado",
+        "olor a especias de calabaza"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Cumple una orden violenta",
+          "descripcion": "inflige [golpeado-3]; deja [derribado-2].",
+          "consecuencias": [
+            "Inflige [golpeado-3]",
+            "Aplica [derribado-2]"
+          ]
+        },
+        {
+          "nombre": "Interpreta mal instrucciones incompatibles",
+          "descripcion": "crea [orden ejecutada a destiempo]; deja a alguien [expuesto-2].",
+          "consecuencias": [
+            "Crea [orden ejecutada a destiempo]",
+            "Aplica [expuesto-2]"
+          ]
+        },
+        {
+          "nombre": "Su presencia se descubre en el pueblo",
+          "descripcion": "inflige [vecinos aterrados-2]; crea [alarma por un muerto andante].",
+          "consecuencias": [
+            "Inflige [vecinos aterrados-2]",
+            "Crea [alarma por un muerto andante]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y vías de resolución",
+          "descripcion": "es un aliado potencial, no un enemigo automático. Órdenes claras evitan errores; un disfraz evita alarma. No añadas maldiciones o poderes no descritos a partir de un bloque ausente. Si alcanza su límite de destrucción, se convierte en polvo definitivamente."
+        }
+      ]
+    },
+    {
+      "slug": "arbusto-acorralado",
+      "nombre": "Arbusto acorralado",
+      "nivel": 1,
+      "poderio": [],
+      "roles": [
+        "Obstáculo",
+        "Apoyo"
+      ],
+      "aspecto_en": "Full body portrait of a small mobile bush with branches laden with blue berries, no humanoid features or clothing. It cowers and shrinks among its own branches, fearful expression suggested by posture. Cold tomb light, earthy greens and deep berry blue, small scale and vulnerable.",
+      "descripcion": "Arbusto despertado que solo lucha en defensa propia.",
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 2,
+          "consecuencia": "Queda fuera de combate."
+        },
+        {
+          "nombre": "tranquilizado",
+          "valor": 2,
+          "consecuencia": "Se calma y deja de defenderse."
+        },
+        {
+          "nombre": "aterrado",
+          "valor": 2,
+          "consecuencia": "Huye o se encoge, sin convertirse en aliado."
+        }
+      ],
+      "etiquetas": [
+        "ramas móviles",
+        "bayas azules",
+        "habla común",
+        "teme a Ravisin",
+        "pánico al fuego"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Se defiende de un agarre o golpe",
+          "descripcion": "inflige [arañado-1]; crea [ramas enredadas en la ropa].",
+          "consecuencias": [
+            "Inflige [arañado-1]",
+            "Crea [ramas enredadas en la ropa]"
+          ]
+        },
+        {
+          "nombre": "Intenta escapar del fuego",
+          "descripcion": "crea [testigo escondido]; retira temporalmente [bayas al alcance].",
+          "consecuencias": [
+            "Crea [testigo escondido]",
+            "Retira temporalmente [bayas al alcance]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y vías de resolución",
+          "descripcion": "tratarlo con bondad basta para abrir una vía de cooperación. Alcanzar aterrado lo hace huir o encogerse, no lo convierte en aliado. Sus bayas son alimento normal, sin curación mágica indicada."
+        }
+      ]
+    },
+    {
+      "slug": "iriskree-violencia-de-una-vida-anterior",
+      "nombre": "Iriskree, violencia de una vida anterior",
+      "nivel": 4,
+      "poderio": [],
+      "roles": [
+        "Adversario",
+        "Merodeador"
+      ],
+      "aspecto_en": "Full body portrait of an adult human woman, simple winter coat and careful hands among precision tools. Reserved posture, neat hair, unadorned clothing, sharp calm eyes. A small carving shop behind her with ordered knives, inks and wax. Cool window light and meticulous textures, guarded but not hostile expression.",
+      "descripcion": "Asesina retirada; solo usar si surge un conflicto real.",
+      "limites": [
+        {
+          "nombre": "herida",
+          "valor": 4,
+          "consecuencia": "Queda fuera de combate."
+        },
+        {
+          "nombre": "retirada",
+          "valor": 3,
+          "consecuencia": "Se retira y abandona el encuentro."
+        },
+        {
+          "nombre": "convencida",
+          "valor": 3,
+          "consecuencia": "Acepta una salida digna y cesa la violencia."
+        }
+      ],
+      "etiquetas": [
+        "asesina experimentada",
+        "precisión letal",
+        "herramientas a mano",
+        "rostro impasible",
+        "pasado oculto"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Responde a una agresión con precisión",
+          "descripcion": "inflige [herido-4]; deja [desarmado-2].",
+          "consecuencias": [
+            "Inflige [herido-4]",
+            "Aplica [desarmado-2]"
+          ]
+        },
+        {
+          "nombre": "Corta la conversación y busca salida",
+          "descripcion": "crea [puerta cerrada]; impone [sin ayuda de Iriskree].",
+          "consecuencias": [
+            "Crea [puerta cerrada]",
+            "Impone [sin ayuda de Iriskree]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y vías de resolución",
+          "descripcion": "quiere conservar su retiro, no organizar una matanza. La discreción y una salida digna favorecen una resolución social. La fuente no describe armas envenenadas concretas en la tienda."
+        }
+      ]
+    },
+    {
+      "slug": "danae-y-su-red-de-secretos",
+      "nombre": "Danae y su red de secretos",
+      "nivel": 1,
+      "poderio": [],
+      "roles": [
+        "Adversario",
+        "Controlador"
+      ],
+      "aspecto_en": "Full body portrait of an adult human woman with black hair, work clothes and cold weather layers. Controlled posture behind a tavern bar, attentive eyes, discreet movements serving and clearing tables. Warm tavern light and shadowed corners, calm guarded expression, no visible weapons or insignia.",
+      "descripcion": "Espía humana al servicio de Szass Tam; actúa desde la taberna.",
+      "limites": [
+        {
+          "nombre": "desenmascarada",
+          "valor": 4,
+          "consecuencia": "Queda desenmascarada y pierde su tapadera."
+        },
+        {
+          "nombre": "expulsada",
+          "valor": 3,
+          "consecuencia": "Es expulsada de la comunidad."
+        },
+        {
+          "nombre": "herida",
+          "valor": 3,
+          "consecuencia": "Queda fuera de combate."
+        }
+      ],
+      "etiquetas": [
+        "discreción profesional",
+        "escucha entre mesas",
+        "identidad respetable",
+        "agente thayina",
+        "secretos acumulados"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Obtiene una confidencia peligrosa",
+          "descripcion": "crea [secreto en manos de Danae]; inflige [comprometido-2].",
+          "consecuencias": [
+            "Crea [secreto en manos de Danae]",
+            "Inflige [comprometido-2]"
+          ]
+        },
+        {
+          "nombre": "Desvía una investigación",
+          "descripcion": "crea [pista falsa]; impone [testigo desacreditado-2].",
+          "consecuencias": [
+            "Crea [pista falsa]",
+            "Impone [testigo desacreditado-2]"
+          ]
+        },
+        {
+          "nombre": "Actúa contra un enemigo identificado de su amo",
+          "descripcion": "crea [objetivo desaparecido] si dispone de tiempo y oportunidad; deja [rastro deliberadamente borrado].",
+          "consecuencias": [
+            "Crea [objetivo desaparecido]",
+            "Deja [rastro deliberadamente borrado]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y vías de resolución",
+          "descripcion": "su afiliación es desconocida en las Diez Ciudades. Las desapariciones anteriores son un hecho, pero esta fuente no identifica víctimas ni detalla métodos. No toda persona curiosa se convierte automáticamente en objetivo de Szass Tam."
+        }
+      ]
+    }
+  ],
+  "objetos": [
+    {
+      "slug": "emblema-de-bosque-solitario",
+      "nombre": "Emblema de Bosque Solitario",
+      "etiqueta": "emblema de Bosque Solitario",
+      "descripcion": "Campo verde bosque con dos triángulos blancos estrechos, uno descendente desde arriba y otro ascendente desde abajo, casi tocándose. Representan un carámbano y un cuerno de marfil. Las tallas antiguas de dragón, león y cabra remiten a la quimera heráldica de la familia sembiana fundadora, procedente de Urmlaspyr.",
+      "imagen_en": "A heraldic emblem on a forest green field with two narrow white triangles, one descending from above and one ascending from below, almost touching. Isolated painted plaque, weathered surface, no lettering."
+    },
+    {
+      "slug": "galletas-de-nimsy",
+      "nombre": "Galletas de Nimsy",
+      "etiqueta": "galletas de Nimsy",
+      "descripcion": "Galletas recién horneadas con forma de mediano; etiqueta de mochila o detalle de hospitalidad, sin efecto curativo automático. Nimsy también las lleva al Consejo.",
+      "imagen_en": "A plate of small freshly baked halfling shaped cookies, golden brown, simple domestic pastry. Isolated on a neutral background, warm light, no text."
+    },
+    {
+      "slug": "herramientas-de-talla",
+      "nombre": "Herramientas de talla",
+      "etiqueta": "herramientas de talla",
+      "descripcion": "Útiles de tallista: cuchillos curvos y agujas finísimas; etiqueta de mochila. Permiten grabar y marcar inscripciones según la acción.",
+      "imagen_en": "A set of curved carving knives and very fine needles arranged on a neutral background, polished steel and worn wooden handles, no text."
+    },
+    {
+      "slug": "tintas-de-colores",
+      "nombre": "Tintas de colores",
+      "etiqueta": "tintas de colores",
+      "descripcion": "Recipientes de tintas de colores para tallar y marcar; etiqueta de mochila. Útiles para destacar inscripciones o señales.",
+      "imagen_en": "Several small ceramic pots of colored inks in varied hues, arranged on a neutral background, no labels or text."
+    },
+    {
+      "slug": "cera-de-sellado",
+      "nombre": "Cera de sellado",
+      "etiqueta": "cera de sellado",
+      "descripcion": "Bloques de cera para sellar y proteger inscripciones; etiqueta de mochila.",
+      "imagen_en": "A few blocks of sealing wax in muted colors, slightly worn edges, isolated on a neutral background, no text."
+    },
+    {
+      "slug": "prueba-de-la-muerte-del-alce",
+      "nombre": "Prueba de la muerte del alce",
+      "etiqueta": "prueba de la muerte del alce",
+      "descripcion": "Su cabeza u otra evidencia suficiente para Nimsy; permite reclamar lo pactado. El cadáver puede transformarse en [carne para compartir].",
+      "imagen_en": "A severed white moose head with large antlers resting on snow, evidence of the hunt, isolated object study, cold light, no people."
+    },
+    {
+      "slug": "titulo-de-la-desvencijada",
+      "nombre": "Título de La Desvencijada",
+      "etiqueta": "título de La Desvencijada",
+      "descripcion": "Etiqueta de historia de la Compañía que puede convertirse en [posada restaurada] mediante trabajo y recursos. El título puede entregarse como ayuda escrita.",
+      "imagen_en": "A folded parchment deed tied with simple cord, representing property of an old inn, isolated on a neutral background, no readable text."
+    },
+    {
+      "slug": "rastro-del-alce-blanco",
+      "nombre": "Rastro del alce blanco",
+      "etiqueta": "rastro del alce blanco",
+      "descripcion": "Pista práctica para atravesar la protección de la tumba; no atribuyas a toda huella de alce una identidad inequívoca.",
+      "imagen_en": "A set of large cloven hoofprints in fresh snow, leading toward dark trees, isolated environmental detail, no people."
+    },
+    {
+      "slug": "llama-de-plata",
+      "nombre": "Llama de plata",
+      "etiqueta": "llama de plata",
+      "descripcion": "Etiqueta de historia fija: fuego inextinguible durante diez días que proporciona luz, calor y acceso al sarcófago de Sahnar. No es una etiqueta portátil de mochila.",
+      "imagen_en": "A small silver flame burning in a stone brazier, cold white fire with metallic sheen, isolated on a neutral background, no text."
+    },
+    {
+      "slug": "espejo-de-observacion-lunar",
+      "nombre": "Espejo de observación lunar",
+      "etiqueta": "espejo de observación lunar",
+      "descripcion": "Recurso fijo de E7, con rutina de visión remota mientras el símbolo lleno está iluminado. Requiere vínculo personal; otro vínculo o la muerte del alce cancelan el suyo. Destruirlo termina la magia; no puede sacarse entero por estar adherido con pegamento soberano.",
+      "imagen_en": "An oval mirror fixed in an ornate stone frame, silver flashes along the edge, isolated object study, no people, no text."
+    },
+    {
+      "slug": "arco-antiguo-sin-cuerda",
+      "nombre": "Arco antiguo sin cuerda",
+      "etiqueta": "arco antiguo sin cuerda",
+      "descripcion": "Mochila; exige reparación antes de emplearlo como arma.",
+      "imagen_en": "An old wooden bow without a string, weathered limbs and simple grip, isolated on a neutral background, no text."
+    },
+    {
+      "slug": "puntas-de-flecha-plateadas",
+      "nombre": "Puntas de flecha plateadas",
+      "etiqueta": "puntas de flecha plateadas",
+      "descripcion": "Mochila; material aprovechable para fabricar o reparar munición; no se afirma que sean de plata maciza ni mágicas.",
+      "imagen_en": "Six silver colored arrowheads with simple barbs, arranged in a row, isolated on a neutral background, no text."
+    },
+    {
+      "slug": "taza-del-pez-alado",
+      "nombre": "Taza del pez alado",
+      "etiqueta": "taza del pez alado",
+      "descripcion": "Mochila; pieza de madera con ese grabado; recuerdo o indicio cultural sin función mágica establecida.",
+      "imagen_en": "A small wooden cup carved with a winged fish motif, weathered surface, isolated on a neutral background, no text."
+    },
+    {
+      "slug": "equipo-de-herbolaria",
+      "nombre": "Equipo de herbolaria",
+      "etiqueta": "equipo de herbolaria",
+      "descripcion": "Mochila; permite trabajar con hierbas y preparados cuando haya materiales y conocimientos.",
+      "imagen_en": "A bundle of herbalist tools, mortar, pouches and dried sprigs, isolated on a neutral background, no text."
+    },
+    {
+      "slug": "bayas-azules-comestibles",
+      "nombre": "Bayas azules comestibles",
+      "etiqueta": "bayas azules comestibles",
+      "descripcion": "Mochila de provisiones normales; la fuente genera entre dos y cuarenta, con dos dados de veinte. Pueden compartirse con permiso del arbusto si se le deja vivir. Manchan los dientes.",
+      "imagen_en": "A small handful of glossy blue berries with a faint frost, isolated on a neutral background, no text."
+    },
+    {
+      "slug": "bolsa-de-piel-de-tiburon",
+      "nombre": "Bolsa de piel de tiburón",
+      "etiqueta": "bolsa de piel de tiburón",
+      "descripcion": "Mochila; escondida bajo Vurnis; contiene dos viales.",
+      "imagen_en": "A small pouch made of shark skin, rough texture, tied with cord, isolated on a neutral background, no text."
+    },
+    {
+      "slug": "pocion-de-resistencia-radiante",
+      "nombre": "Poción de resistencia radiante",
+      "etiqueta": "protección contra luz abrasadora",
+      "descripcion": "Mochila consumible. Al beberla, otorga protección temporal pertinente para reducir o evitar consecuencias de energía radiante, incluida la luz lunar ofensiva; no protege por defecto contra frío o armas.",
+      "imagen_en": "A small glass vial filled with pale luminous liquid, cork stopper, isolated on a neutral background, soft glow, no text."
+    },
+    {
+      "slug": "pocion-de-vitalidad",
+      "nombre": "Poción de vitalidad",
+      "etiqueta": "vigor restaurador",
+      "descripcion": "Mochila consumible. Su rutina elimina [agotado] y ayuda a recuperarse de estados de veneno o enfermedad, según su naturaleza; permite aprovechar mejor una recuperación posterior. La duración y los detalles no figuran en el fragmento: fija su alcance antes de consumirla y no la conviertas en resurrección ni curación ilimitada.",
+      "imagen_en": "A small glass vial filled with warm amber liquid, cork stopper, isolated on a neutral background, no text."
+    }
+  ],
+  "ayudas": [
+    {
+      "slug": "clave-lunar",
+      "titulo": "Clave lunar",
+      "tipo": "nota",
+      "texto": "Inscripciones lunares\n\nEn tu reflejo hallarás respuesta a siete preguntas.\n\nLa media luna abre los sepulcros.",
+      "fondo_en": "Blank worn cream paper with softly frayed edges, subtle water stains and faint fold marks, laid flat under soft light. Empty writing area, no text, no symbols, no drawings."
+    },
+    {
+      "slug": "receta-del-fuego-de-plata",
+      "titulo": "Receta del fuego de plata",
+      "tipo": "nota",
+      "texto": "Receta del fuego de plata\n\nQuema en el brasero, de norte a sur:\n1. Una ramita.\n2. Una piña.\n3. Una llama.\n4. Una pluma.\n5. Una mano humanoide cortada.\n\nLos tres primeros se encuentran en el bosque. La mano puede proceder de un cadáver; también sirve una zarpa reptante muerta.",
+      "fondo_en": "Blank worn cream paper with softly frayed edges, subtle water stains and faint fold marks, laid flat under soft light. Empty writing area, no text, no symbols, no drawings."
+    },
+    {
+      "slug": "titulo-de-la-desvencijada",
+      "titulo": "Título de La Desvencijada",
+      "tipo": "nota",
+      "texto": "Título de La Desvencijada\n\nSe concede la propiedad de la antigua posada La Desvencijada a la Compañía, con la condición de restaurarla, retirar la madera almacenada y hacerla habitable. El edificio guarda el recuerdo de su último propietario, DeGrootz.",
+      "fondo_en": "Blank worn cream paper with softly frayed edges, subtle water stains and faint fold marks, laid flat under soft light. Empty writing area, no text, no symbols, no drawings."
+    },
+    {
+      "slug": "heraldica-de-bosque-solitario",
+      "titulo": "Heráldica de Bosque Solitario",
+      "tipo": "cartel",
+      "texto": "Bosque Solitario\n\nCampo verde bosque con dos triángulos blancos estrechos, uno descendente desde arriba y otro ascendente desde abajo, casi tocándose. Representan un carámbano y un cuerno de marfil.\n\nLas tallas antiguas de dragón, león y cabra remiten a la quimera heráldica de la familia sembiana fundadora, procedente de Urmlaspyr.",
+      "fondo_en": "An empty weathered wooden heraldic display board with a simple carved border and a pale prepared surface. Isolated frontal view, frost on the edges, no lettering, no symbols or painted design."
+    },
+    {
+      "slug": "testimonio-del-arbusto",
+      "titulo": "Testimonio del arbusto despertado",
+      "tipo": "nota",
+      "texto": "Testimonio del arbusto despertado\n\nRavisin culpa a los habitantes por la muerte de su gemela Vurnis.\nGuarda el cuerpo de Vurnis en el sarcófago.\nHa despertado numerosas plantas y bestias; no todas son malvadas.\nSe queja de los escrúpulos del plesiosaurio de Maer Dualdon.\nExplica el uso del rayo lunar y del espejo.",
+      "fondo_en": "Blank worn cream paper with softly frayed edges, subtle water stains and faint fold marks, laid flat under soft light. Empty writing area, no text, no symbols, no drawings."
+    }
+  ],
+  "hitos": [
+    "Proteger a los leñadores de Bosque Solitario y recuperar la tala.",
+    "Detener la campaña de Ravisin y evitar nuevas bestias despertadas.",
+    "Salvar al arbusto despertado y obtener su testimonio.",
+    "Descubrir la verdad sobre la muerte de Vurnis.",
+    "Devolver hospitalidad a la comunidad, restaurando La Desvencijada."
+  ],
+  "relojes": []
+}

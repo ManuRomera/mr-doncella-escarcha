@@ -1,7 +1,7 @@
 """art/new/*.png → assets/*.webp. Escenas 1920×1080 + miniatura 400 px; tokens recortados al canal alfa;
 retrato 512 sacado de la cabeza del token; hoja de héroe 1200×800. Reanudable; empaqueta art/arte.zip."""
 from pathlib import Path
-from PIL import Image
+from PIL import Image,ImageOps
 import sys,zipfile
 ROOT=Path(__file__).resolve().parents[1];NEW=ROOT/'art/new';A=ROOT/'assets'
 def save(im,p,q=84):
@@ -21,7 +21,7 @@ def token(src,folder,slug):
 for p in sorted(NEW.glob('*.png')):
  n=p.stem
  if n.startswith('heroe-') and n.endswith('-token'):token(p,'heroes',n[6:-6])
- elif n.startswith('heroe-') and n.endswith('-hoja'):save(Image.open(p).convert('RGB').resize((1200,800),Image.LANCZOS),A/'heroes'/(n[6:-5]+'-sheet.webp'))
+ elif n.startswith('heroe-') and n.endswith('-hoja'):save(ImageOps.mirror(Image.open(p).convert('RGB')).resize((1200,800),Image.LANCZOS),A/'heroes'/(n[6:-5]+'-sheet.webp'))  # reflejada: la figura queda a la izquierda, libre de las cartas
  elif n.startswith('pnj-'):token(p,'npc',n[4:])
  elif n.startswith('desafio-'):token(p,'challenges',n[8:])
  elif n.startswith('peligro-'):save(Image.open(p).convert('RGB').resize((768,768),Image.LANCZOS),A/'challenges'/(n[8:]+'.webp'))

@@ -1,0 +1,1396 @@
+{
+  "seccion": "00-introduccion",
+  "titulo": "Bienvenidos al helado norte",
+  "escenas": [
+    {
+      "slug": "la-aurora-que-impide-el-amanecer",
+      "nombre": "La aurora que impide el amanecer",
+      "ciudad": "tundra",
+      "interior": false,
+      "imagen_en": "Wide establishing view of blue black tundra north of the Spine of the World, with hardened snow ridges, sharp mountain silhouettes and a green violet aurora over the horizon. Cold insufficient light, no paths, no figures. Leave the lower third clear.",
+      "lectura": "Alzáis la vista y encontráis un río de luz extendido sobre el mundo. Sus pliegues verdes y violetas bañan la nieve con un resplandor que parece demasiado delicado para este lugar. Bajo esa belleza, el frío atraviesa cualquier resquicio de vuestros abrigos. Detrás de vosotros quedan unas pocas ventanas encendidas; delante, una extensión sin caminos visibles. Os han dicho que la aurora desaparecerá antes del alba. También os han dicho que, cuando lo haga, el sol seguirá sin salir. Aquí las noches terminan, pero el invierno permanece.",
+      "notas": "Auril vuela cada noche sobre un roc blanco para renovar su conjuro; la aurora se extingue antes del alba. Observar el ciclo con astronomía o saber religioso puede crear [ritmo de la aurora registrado]; un fallo cuesta tiempo y exposición al frío. Los habitantes conocen la furia de Auril, pero ignoran su motivo y la inacción de los otros dioses.",
+      "musica": "noche",
+      "motivos": [
+        "misterio"
+      ],
+      "efectos": [
+        "viento"
+      ],
+      "ambiente": "dark",
+      "etiquetas": [
+        "noche sin amanecer",
+        "aurora de Auril",
+        "penumbra al mediodía"
+      ],
+      "figuras": [
+        "auril"
+      ]
+    },
+    {
+      "slug": "el-abrigo-precario-de-diez-ciudades",
+      "nombre": "El abrigo precario de Diez Ciudades",
+      "ciudad": "otro",
+      "interior": false,
+      "imagen_en": "Wide establishing view of low wooden houses with roofs buried under accumulated snow, amber windows, frost covered docks and an immobilised ferry between ice plates. Greys, browns and orange light points, no figures. Leave the lower third clear.",
+      "lectura": "Entráis en un asentamiento que parece haberse encogido para conservar el calor. La nieve llega hasta las ventanas más bajas y las puertas muestran arañazos donde alguien ha tenido que arrancar el hielo. Desde el lago os alcanza un crujido profundo; junto al embarcadero, una embarcación permanece presa del invierno. El humo de las chimeneas promete comida y techo, aunque también delata lo poco que separa estas casas de la tundra. A cada paso descubrís algo reparado una vez más: una contraventana, un trineo, una cuerda. Comprendéis que aquí sobrevivir consiste en seguir arreglando lo que todavía puede salvarse.",
+      "notas": "Elegid una necesidad local que conecte con una Gesta. Ayudar con oficio, comunidad o cuidado puede generar [hospitalidad ganada] o [provisiones compartidas]; si fracasan, concretad una carencia o retraso como [despensa insuficiente] o [encargo pendiente]. Beldora puede dar dirección a la Compañía si existe el vínculo arpista.",
+      "musica": "pueblo",
+      "motivos": [
+        "tension"
+      ],
+      "efectos": [
+        "hogar",
+        "hielo-cruje",
+        "viento"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "calor racionado",
+        "comunidad exhausta",
+        "embarcadero helado"
+      ],
+      "figuras": []
+    },
+    {
+      "slug": "la-marcha-por-la-tundra",
+      "nombre": "La marcha por la tundra",
+      "ciudad": "tundra",
+      "interior": false,
+      "imagen_en": "Wide establishing view of a snow plain with ice crusts, almost erased tracks and small ridges hiding the horizon. Leaden sky, decreasing visibility and no tall vegetation. No figures. Leave the lower third clear.",
+      "lectura": "La última luz de las casas desaparece detrás de una elevación tan baja que, en otra tierra, ni siquiera la habríais considerado una colina. Ahora basta para dejaros solos. Cada paso rompe la costra de nieve y os obliga a levantar las piernas con cuidado. El viento arrastra un polvo blanco que se acumula en las correas y borra lentamente el camino. Vuestra respiración se vuelve el sonido más cercano. Miráis el horizonte para comprobar que seguís avanzando hacia el mismo punto, pero todo parece igual. Lo que lleváis encima tendrá que bastaros hasta encontrar otro lugar donde encender un fuego.",
+      "notas": "Antes de salir, estableced distancia, carga, método de viaje, provisiones y refugio previsto. Los perros aceleran la marcha, pero necesitan alimento, agua y cobijo. Resolver una marcha peligrosa con orientación, raquetas y conocimiento local puede crear [ruta segura]; el fallo genera [retrasados] o [perdido-2] y exposición adicional.",
+      "musica": "camino",
+      "motivos": [
+        "persecucion"
+      ],
+      "efectos": [
+        "pasos",
+        "viento"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "tundra sin referencias",
+        "nieve profunda",
+        "lejos del refugio"
+      ],
+      "figuras": []
+    },
+    {
+      "slug": "la-ventisca-cierra-el-mundo",
+      "nombre": "La ventisca cierra el mundo",
+      "ciudad": "tundra",
+      "interior": false,
+      "imagen_en": "Wide establishing view of almost opaque white, a grey ground strip and small drifts leeward of black rocks. No horizon or architectural references, diffuse light. No figures. Leave the lower third clear.",
+      "lectura": "El horizonte se deshace hasta que solo distinguís unos pocos pasos de nieve delante de vosotros. El viento os golpea de lado y os obliga a inclinaros. Cuando intentáis hablar, tenéis que repetir las palabras; cuando miráis atrás, las huellas ya están desapareciendo. Una ráfaga levanta agujas de hielo contra vuestros ojos. Os detenéis para contar cuántos seguís juntos y descubrís lo fácil que sería perder a alguien sin oír un grito. Más allá de este pequeño círculo blanco podría haber un refugio, un precipicio o kilómetros de vacío. Necesitáis decidir cuánto estáis dispuestos a arriesgar para seguir avanzando.",
+      "notas": "Una ventisca habitual dura entre dos y ocho horas; lo más prudente es construir o buscar abrigo y esperar. Si continúan, designan guía y resuelven cada hora de avance relevante. Éxito: [rumbo conservado]. Fallo: no acortan la distancia y reciben [perdido-2]; una consecuencia más grave separa a alguien si no van atados. Las cuerdas impiden esa separación, pero no resuelven la navegación.",
+      "musica": "noche",
+      "motivos": [
+        "amenaza",
+        "ventisca-m"
+      ],
+      "efectos": [
+        "viento",
+        "hielo-cruje"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "huellas borradas",
+        "viento ensordecedor",
+        "visibilidad mínima",
+        "sin llamas abiertas"
+      ],
+      "figuras": []
+    },
+    {
+      "slug": "el-lago-bajo-los-pies",
+      "nombre": "El lago bajo los pies",
+      "ciudad": "otro",
+      "interior": false,
+      "imagen_en": "Wide establishing view of a blue grey lake surface, a black opening surrounded by shavings, a stranded boat and pale cracks under snow. Dim light, dark water, low shores. No figures. Leave the lower third clear.",
+      "lectura": "El lago parece una extensión más de la llanura hasta que escucháis el hielo. Un chasquido profundo recorre la superficie y se pierde mucho más lejos de lo que alcanzáis a ver. Junto a la abertura de pesca, el agua es tan negra que no podéis distinguir dónde empieza la profundidad. Vuestros aparejos se endurecen con la escarcha. Si queréis volver con alimento, tendréis que esperar aquí y confiar en lo que habéis preparado. Cuando por fin llega el tirón, la cuerda vibra con una fuerza inesperada. Algo poderoso se mueve bajo vuestros pies y tira en la dirección contraria a la orilla.",
+      "notas": "Se necesitan aparejos y barca, o una sierra equivalente para abrir el hielo; pueden obtenerse mediante préstamo o trabajo. Cada hora de pesca permite buscar una captura. Un éxito localiza y engancha una trucha; después hay que dominarla. Capturarla concede [pescado para compartir]. En Maer Dualdon puede aparecer el anillo del secreto correspondiente.",
+      "musica": "lago",
+      "motivos": [
+        "misterio"
+      ],
+      "efectos": [
+        "lago-sfx",
+        "hielo-cruje",
+        "viento"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "agua negra bajo el hielo",
+        "aparejos escarchados",
+        "orilla lejana"
+      ],
+      "figuras": []
+    },
+    {
+      "slug": "el-paso-de-montana-y-la-avalancha",
+      "nombre": "El paso de montaña y la avalancha",
+      "ciudad": "tundra",
+      "interior": false,
+      "imagen_en": "Wide establishing view of a white slope between dark cliffs, cornices above a narrow gorge and a tongue of powdered snow descending toward the valley. Black and white contrasts under an ashen sky. No figures. Leave the lower third clear.",
+      "lectura": "El paso se estrecha entre paredes de roca que apenas dejan espacio para continuar. Sobre vosotros sobresalen cornisas de nieve, lisas y pesadas, como si la montaña hubiera contenido la respiración. El viento cambia y deja un instante de silencio. Entonces oís un golpe seco, seguido de un rumor que crece desde lo alto. Una franja blanca se desprende de la ladera y arrastra otras a su paso. Tenéis muy poco tiempo para buscar un borde, una roca firme o un lugar fuera de su recorrido. El estruendo ya ocupa el valle entero y la nieve viene hacia vosotros.",
+      "notas": "La Columna del Mundo y las laderas de Kelvin requieren guía y revisión del rumbo en cada hora peligrosa. Un éxito conserva la ruta; un fallo lleva a un paso muerto y cuesta una hora adicional; un fallo grave puede desencadenar una avalancha al retroceder. Usad el desafío de avalancha y después las acciones de rescate.",
+      "musica": "camino",
+      "motivos": [
+        "amenaza",
+        "ventisca-m"
+      ],
+      "efectos": [
+        "viento",
+        "hielo-rompe",
+        "rugido"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "cornisas inestables",
+        "paso sin salida",
+        "nieve en movimiento"
+      ],
+      "figuras": []
+    },
+    {
+      "slug": "el-glaciar-que-oculta-ythryn",
+      "nombre": "El glaciar que oculta Ythryn",
+      "ciudad": "tundra",
+      "interior": false,
+      "imagen_en": "Wide establishing view of a blue ice wall at the eastern edge of the valley, compressed strata, black fissures and opalescent depth. No city visible from outside. No figures. Leave the lower third clear.",
+      "lectura": "Ante vosotros se alza una pared de hielo que hace parecer pequeñas las distancias que habéis recorrido. Sus capas azules se hunden hacia una oscuridad que no podéis medir. El viento roza las grietas y devuelve un murmullo parecido a una voz demasiado lejana. Sabéis que la superficie no cuenta toda la historia de este lugar. Bajo esa masa inmóvil podría haber valles enteros, cuevas o restos de algo que cayó hace muchísimo tiempo. A simple vista no encontráis entrada alguna. Solo hielo, presión y la certeza de que cualquier camino hacia el interior tendrá que abrirse donde ahora no existe.",
+      "notas": "Reservad esta escena para cuando los Héroes tengan motivos para llegar aquí. Ythryn cayó hace casi dos mil años y permanece enterrada; para abrir el paso necesitan el poema del Codicilo Blanco, guardado en la isla de Auril. Investigar sin la clave puede dar [entrada aún sellada] y [buscamos el Codicilo Blanco].",
+      "musica": "valle",
+      "motivos": [
+        "misterio"
+      ],
+      "efectos": [
+        "hielo-cruje",
+        "viento"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "glaciar impenetrable",
+        "silencio antiguo",
+        "magia bajo el hielo"
+      ],
+      "figuras": []
+    }
+  ],
+  "pnj": [
+    {
+      "slug": "auril",
+      "nombre": "Auril, la Doncella de la Escarcha",
+      "papel": "Causa divina del invierno.",
+      "ciudad": "otro",
+      "aspecto_en": "Full body portrait of an ageless goddess of winter, hieratic and distant, wrapped in rigid white frost and stiff white cloaks. Her pale face is unreadable; snow and ice crystals cling to her hair and shoulders. A white roc mount looms behind her. Cold blue white light, no compassion in her expression.",
+      "presentacion": "Veis una figura hierática envuelta en escarcha y capas blancas rígidas, de edad indeterminada. Sus formas no se describen en el extracto; el frío parece emanar de ella. Su montura, un roc blanco, completa la imagen. Habla poco y sus frases son breves y heladas.",
+      "caracter": "Distante e incapaz de compasión; frases breves y heladas.",
+      "quiere": "Soledad y conservación de la belleza mediante la congelación.",
+      "sabe": "Cómo mantener el sol fuera del valle y cerrar los accesos con temporales. Cada renovación la debilita y puede ser derrotada en ese estado. Sus motivos completos remiten al apéndice C.",
+      "desafio": "auril-debilitada"
+    },
+    {
+      "slug": "xardorok-solmarchito",
+      "nombre": "Xardorok Solmarchito",
+      "papel": "Tirano duergar, brujo y constructor del dragón.",
+      "ciudad": "otro",
+      "aspecto_en": "Full body portrait of a robust adult grey dwarf man in a fur coat over forge clothes, soot stained hands and an obsessive gaze. His broad build and commanding posture convey despotic ambition. Cold mountain light catches dark metal and frost on his shoulders.",
+      "presentacion": "Un enano gris de complexión robusta, con abrigo de piel sobre ropa de forja, manos tiznadas y mirada obsesiva. Habla con órdenes secas y proclamaciones grandiosas; su presencia impone obediencia.",
+      "caracter": "Despótico y ambicioso; órdenes secas y proclamaciones grandiosas.",
+      "quiere": "Gobernar un reino de superficie y esclavizar a los supervivientes de Diez Ciudades.",
+      "sabe": "Dónde está su fortaleza y cómo progresa la recogida de chardalyn. Cree servir a Duerra la Profunda; quien le guía es Asmodeo disfrazado de ella.",
+      "desafio": "xardorok-y-su-proyecto"
+    },
+    {
+      "slug": "durth-y-nildar",
+      "nombre": "Durth y Nildar",
+      "papel": "Hijos de Xardorok; dirigen equipos de recolectores duergar.",
+      "ciudad": "otro",
+      "aspecto_en": "Full body portrait of two sturdy adult grey dwarves in dark coats and loading harnesses, each with different crew emblems. Their practical, authoritarian stances and cold weather gear suggest organised crystal gatherers. Muted winter light and frost on dark fabric.",
+      "presentacion": "Dos duergar recios, con abrigos oscuros y correajes de carga, distintos emblemas de cuadrilla. Se mueven como capataces prácticos y autoritarios, pendientes de que el cristal llegue a manos de su padre.",
+      "caracter": "Para esta adaptación, prácticos y autoritarios.",
+      "quiere": "Poner más cristal en manos de su padre.",
+      "sabe": "Sus propias rutas y encargos; el extracto no los detalla.",
+      "desafio": "banda-recolectora-duergar"
+    },
+    {
+      "slug": "vellynne-harpell",
+      "nombre": "Vellynne Harpell",
+      "papel": "Nigromante de la Hermandad Arcana y enlace hacia Ythryn.",
+      "ciudad": "otro",
+      "aspecto_en": "Full body portrait of a slender adult human woman in a well kept winter coat, travel gloves and writing tools. Her measured expression and careful posture suggest an interested ally. Cold pale light, no weapons visible.",
+      "presentacion": "Una humana adulta, de complexión delgada, con abrigo bien cuidado, guantes de viaje y útiles de escritura. Su tono es medido y sus explicaciones concretas; no busca pelea en esta introducción.",
+      "caracter": "Aliada interesada; tono medido y explicaciones concretas.",
+      "quiere": "Acceder al enclave perdido y recuperar su orbe, robado por una rival.",
+      "sabe": "Que el Codicilo Blanco contiene la clave para atravesar el glaciar y que ambos objetos se buscan en la isla de Auril. Ayuda durante el conflicto del dragón y después propone la expedición.",
+      "desafio": null
+    },
+    {
+      "slug": "beldora",
+      "nombre": "Beldora",
+      "papel": "Contacto arpista en Bryn Shander para el Héroe espía.",
+      "ciudad": "bryn-shander",
+      "aspecto_en": "Full body portrait of a small adult human woman in a patched winter coat and hood, with an attentive face. Her quiet direct posture suggests discretion and independence. Cold blue light, no weapons.",
+      "presentacion": "Una humana menuda, con abrigo remendado, capucha y rostro atento. Habla baja y directa; da rumores y consejo sin disponer de una organización lista para resolver los problemas por ellos.",
+      "caracter": "Buena, independiente y discreta; habla baja y directa.",
+      "quiere": "Ayudar a su contacto a actuar con criterio.",
+      "sabe": "Rumores y consejos que el Narrador escoja para conducir hacia misiones; no dispone de una organización lista para resolver los problemas por ellos.",
+      "desafio": null
+    },
+    {
+      "slug": "bjornhild-solvigsdottir",
+      "nombre": "Bjornhild Solvigsdottir",
+      "papel": "Reina de la tribu reghed del Tigre y madre del heredero repudiado.",
+      "ciudad": "tundra",
+      "aspecto_en": "Full body portrait of a strong adult human woman with weathered skin and heavy fur garments. Her broad stance and harsh expression convey tribal authority and devotion to Auril. Cold light on dark pelts.",
+      "presentacion": "Una humana de complexión fuerte, piel curtida y pesadas pieles de abrigo. Es dominante y hostil hacia el descendiente que vuelva a reclamarla; apenas le reconocería por el aspecto.",
+      "caracter": "Dominante y hostil hacia el descendiente que vuelva a reclamarla.",
+      "quiere": "Conservar su autoridad; puede ofrecer al pretendiente a Auril.",
+      "sabe": "Su propia historia familiar, aunque difícilmente reconocería al descendiente por su aspecto.",
+      "desafio": null
+    },
+    {
+      "slug": "vokarr-el-muerdeojos",
+      "nombre": "Vokarr el Muerdeojos",
+      "papel": "Espíritu de un caudillo orco invocado por la piedra orca.",
+      "ciudad": "otro",
+      "aspecto_en": "Full body portrait of a fierce adult orc man, broad shouldered, wearing pelts and scarred armour. He appears alive despite being a spirit. Cold light, martial stance, no weapons specified. Snow around his boots.",
+      "presentacion": "Un orco adulto de presencia feroz, aparentemente vivo, ancho de hombros, con pieles y cicatrices. Habla común y orco con voz áspera; su ayuda se expresa mediante [auxilio de Vokarr].",
+      "caracter": "Marcial; voz áspera en común y orco.",
+      "quiere": "La fuente no lo establece; pactar cómo interpreta su auxilio.",
+      "sabe": "Que murió a manos de enanos; no atribuirle conocimiento automático del valle actual.",
+      "desafio": null
+    },
+    {
+      "slug": "asesina-de-neverember",
+      "nombre": "La asesina de Neverember",
+      "papel": "Perseguidora posible del descendiente de Alagondar.",
+      "ciudad": "otro",
+      "aspecto_en": "Full body portrait of a lean middle aged woman with a shaved head and a hook replacing her right hand. She wears a winter coat concealing tools. Professional, sparse expression. Cold muted light.",
+      "presentacion": "Una mujer de mediana edad, de cabeza afeitada y garfio en lugar de la mano derecha; cuerpo enjuto y abrigo que oculta herramientas. Profesional y escasa de palabras.",
+      "caracter": "Profesional, escasa de palabras.",
+      "quiere": "Matar al heredero por encargo de Lord Dagult Neverember.",
+      "sabe": "La identidad de su objetivo, en la medida necesaria para perseguirlo.",
+      "desafio": "asesina-a-sueldo"
+    }
+  ],
+  "desafios": [
+    {
+      "slug": "frio-extremo",
+      "nombre": "Frío extremo",
+      "nivel": 2,
+      "poderio": [],
+      "roles": [
+        "Peligro"
+      ],
+      "aspecto_en": "An environmental danger of lethal cold: wind driven snow over dark ice and exposed rock, with no shelter or fire. Blue white light, frost crystals and an empty frozen plain convey exhaustion and exposure. No figures.",
+      "descripcion": "Regla ambiental de exposición al frío, sin criatura ni cantidad.",
+      "limites": [
+        {
+          "nombre": "exposición interrumpida",
+          "valor": 3,
+          "consecuencia": "El frío deja de agravarse cuando se interrumpe la exposición."
+        }
+      ],
+      "etiquetas": [
+        "temperatura habitual de −45 °C",
+        "viento que agrava el frío",
+        "sin calor solar",
+        "exposición prolongada",
+        "helado-1",
+        "helado-2",
+        "helado-3",
+        "helado-4",
+        "helado-5",
+        "helado-6",
+        "agotado-2"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "El frío cala en un cuerpo desprotegido",
+          "descripcion": "inflige [helado-1]; la exposición continuada puede aumentar el estado hasta 6.",
+          "consecuencias": [
+            "Aplica [helado-1]"
+          ]
+        },
+        {
+          "nombre": "Se agota la capacidad de seguir marchando",
+          "descripcion": "inflige [agotado-2]; crea [marcha detenida].",
+          "consecuencias": [
+            "Aplica [agotado-2]",
+            "Aplica [marcha detenida]"
+          ]
+        },
+        {
+          "nombre": "El equipo deja de aislar",
+          "descripcion": "si está mojado o incompleto, elimina temporalmente la utilidad de [ropa de abrigo completa].",
+          "consecuencias": [
+            "Elimina [ropa de abrigo completa]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y secretos",
+          "descripcion": "Abrigo completo y seco, resistencia al frío o adaptación natural evitan el desgaste rutinario del frío extremo. Buscar refugio con saber de campamento crea [refugio protegido]; un fallo cuesta tiempo o suministros. Un descanso en el campamento con calor, alimento y ropa seca permite tratar [helado] y [agotado]."
+        }
+      ]
+    },
+    {
+      "slug": "ventisca",
+      "nombre": "Ventisca",
+      "nivel": 3,
+      "poderio": [],
+      "roles": [
+        "Peligro"
+      ],
+      "aspecto_en": "An environmental danger of whiteout: opaque snow, fierce wind, erased tracks and a small group struggling against the storm. Blue white light, flying ice needles and no visible horizon. No figures.",
+      "descripcion": "Temporal de dos a ocho horas; sin cantidad de criaturas. Puede favorecer el acecho de yetis.",
+      "limites": [
+        {
+          "nombre": "a salvo",
+          "valor": 4,
+          "consecuencia": "El grupo queda a salvo del temporal."
+        },
+        {
+          "nombre": "tormenta soportada",
+          "valor": 4,
+          "consecuencia": "La tormenta ha sido soportada."
+        }
+      ],
+      "etiquetas": [
+        "mundo blanco",
+        "viento feroz",
+        "huellas borradas",
+        "magia difícil de sostener",
+        "proyectiles desviados",
+        "vuelo ordinario inviable",
+        "perdido-2",
+        "desorientado-2",
+        "derribado-3",
+        "herido-3"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Borra el rumbo",
+          "descripcion": "inflige [perdido-2]; consume una hora sin avance.",
+          "consecuencias": [
+            "Aplica [perdido-2]"
+          ]
+        },
+        {
+          "nombre": "Separa a un miembro sin cuerda",
+          "descripcion": "crea [Héroe separado]; inflige [desorientado-2].",
+          "consecuencias": [
+            "Aplica [Héroe separado]",
+            "Aplica [desorientado-2]"
+          ]
+        },
+        {
+          "nombre": "Apaga el calor y dispersa los efectos expuestos",
+          "descripcion": "elimina [fuego abierto] o una etiqueta de niebla; amenaza con retirar una magia sostenida si nadie la protege.",
+          "consecuencias": [
+            "Elimina [fuego abierto]"
+          ]
+        },
+        {
+          "nombre": "Golpea a quien intenta volar",
+          "descripcion": "inflige [derribado-3]; una caída contra el terreno puede infligir [herido-3].",
+          "consecuencias": [
+            "Aplica [derribado-3]",
+            "Aplica [herido-3]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y secretos",
+          "descripcion": "Iglú, abrigo a sotavento y espera segura; guía, cuerda y gafas resuelven problemas distintos. Encontrar un refugio o construirlo con éxito crea [a cubierto]."
+        }
+      ]
+    },
+    {
+      "slug": "avalancha-y-sepultamiento",
+      "nombre": "Avalancha y sepultamiento",
+      "nivel": 4,
+      "poderio": [
+        {
+          "nivel": "greatness",
+          "aspecto": "Avalancha de montaña"
+        }
+      ],
+      "roles": [
+        "Peligro"
+      ],
+      "aspecto_en": "An environmental danger of a massive avalanche: a white mass sweeping a narrow mountain pass, black cliffs and powdered snow. Violent motion, debris and buried figures suggested rather than shown. No people in the foreground.",
+      "descripcion": "Una masa de nieve y escombros de unos 90 × 45 × 9 metros; también sirve para desprendimientos de roca.",
+      "limites": [
+        {
+          "nombre": "fuera de la trayectoria",
+          "valor": 3,
+          "consecuencia": "La Compañía queda fuera de la trayectoria."
+        },
+        {
+          "nombre": "todos rescatados",
+          "valor": 4,
+          "consecuencia": "Todos los sepultados son rescatados."
+        }
+      ],
+      "etiquetas": [
+        "masa imparable",
+        "avance fulminante",
+        "escombros contundentes",
+        "nieve compactada",
+        "oscuridad bajo la nieve",
+        "herido-3",
+        "sepultado-4",
+        "agotado-2",
+        "asfixiándose-4"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Barre la pendiente",
+          "descripcion": "arrastra a quienes estén en su trayectoria; inflige [herido-3].",
+          "consecuencias": [
+            "Aplica [herido-3]"
+          ]
+        },
+        {
+          "nombre": "Se asienta sobre los arrastrados",
+          "descripcion": "inflige [sepultado-4]; crea [sin visión ni movilidad].",
+          "consecuencias": [
+            "Aplica [sepultado-4]",
+            "Aplica [sin visión ni movilidad]"
+          ]
+        },
+        {
+          "nombre": "Comprime el refugio de aire",
+          "descripcion": "tras unos cinco minutos sin rescate, inflige [agotado-2]; el tiempo posterior agrava la situación y puede llevar a [asfixiándose-4].",
+          "consecuencias": [
+            "Aplica [agotado-2]",
+            "Aplica [asfixiándose-4]"
+          ]
+        },
+        {
+          "nombre": "Agota los intentos de liberación",
+          "descripcion": "tras tres fracasos por fuerza bruta, crea [sin fuerzas para excavar].",
+          "consecuencias": [
+            "Aplica [sin fuerzas para excavar]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y secretos",
+          "descripcion": "Escapar lateralmente cerca del borde es viable; correr pendiente abajo no suele serlo. Una acción exitosa con fuerza, excavación o magia abre [salida a la superficie]. Un compañero libre puede sacar a otro en alrededor de un minuto si localiza su posición."
+        }
+      ]
+    },
+    {
+      "slug": "agua-helada-e-hielo-inseguro",
+      "nombre": "Agua helada e hielo inseguro",
+      "nivel": 3,
+      "poderio": [],
+      "roles": [
+        "Peligro"
+      ],
+      "aspecto_en": "An environmental danger of thin ice and black water: a pale frozen lake surface with cracks, a fishing hole, a stranded boat and dark water below. Cold blue light, frost and treacherous footing. No figures.",
+      "descripcion": "Inmersión y ropa mojada; el hielo fino se añade como aplicación ambiental propuesta.",
+      "limites": [
+        {
+          "nombre": "rescatado y seco",
+          "valor": 4,
+          "consecuencia": "El afectado queda rescatado y seco."
+        },
+        {
+          "nombre": "cruce asegurado",
+          "valor": 3,
+          "consecuencia": "El cruce queda asegurado."
+        }
+      ],
+      "etiquetas": [
+        "agua glacial",
+        "ropa empapada",
+        "borde resbaladizo",
+        "profundidad oculta",
+        "costra quebradiza",
+        "empapado-2",
+        "helado-2",
+        "sin agarre-2",
+        "ahogándose-3"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Cede la superficie o el pez arrastra",
+          "descripcion": "inflige [empapado-2]; crea [en el agua].",
+          "consecuencias": [
+            "Aplica [empapado-2]",
+            "Aplica [en el agua]"
+          ]
+        },
+        {
+          "nombre": "La inmersión roba calor",
+          "descripcion": "inflige [helado-2]; mantenerla agrava el estado.",
+          "consecuencias": [
+            "Aplica [helado-2]"
+          ]
+        },
+        {
+          "nombre": "Las manos pierden fuerza antes de alcanzar el borde",
+          "descripcion": "inflige [sin agarre-2]; si no puede respirar, inflige [ahogándose-3].",
+          "consecuencias": [
+            "Aplica [sin agarre-2]",
+            "Aplica [ahogándose-3]"
+          ]
+        },
+        {
+          "nombre": "La ropa sigue helando al rescatado",
+          "descripcion": "conserva [empapado-2] y vuelve a amenazar con aumentar [helado].",
+          "consecuencias": [
+            "Conserva [empapado-2]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y secretos",
+          "descripcion": "Cuerda, pértiga, reparto del peso y ropa seca. Sacar a alguien no resuelve por sí sola su ropa mojada: hay que cambiarla y calentarlo."
+        }
+      ]
+    },
+    {
+      "slug": "trucha-de-cabeza-de-jarrete",
+      "nombre": "Trucha de cabeza de jarrete",
+      "nivel": 1,
+      "poderio": [],
+      "roles": [
+        "Obstáculo"
+      ],
+      "aspecto_en": "A creature portrait of a powerful freshwater trout with a broad head and muscular body, thrashing at the end of a fishing line through a hole in the ice. Cold water, bubbles and frost. No people.",
+      "descripcion": "Una trucha por captura exitosa; su perfil se remite al apéndice C y no figura aquí. Nivel provisional.",
+      "limites": [
+        {
+          "nombre": "capturada",
+          "valor": 3,
+          "consecuencia": "La trucha queda capturada."
+        }
+      ],
+      "etiquetas": [
+        "tirón poderoso",
+        "ventaja bajo el agua",
+        "cuerpo resbaladizo",
+        "alimento valioso",
+        "pez escapado",
+        "desequilibrado-2",
+        "empapado-2"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Se revuelve contra la línea",
+          "descripcion": "crea [pez escapado]; se pierde esa oportunidad de captura.",
+          "consecuencias": [
+            "Aplica [pez escapado]"
+          ]
+        },
+        {
+          "nombre": "Tira del pescador hacia la abertura",
+          "descripcion": "inflige [desequilibrado-2]; si no se asegura, lo arrastra al agua y causa [empapado-2].",
+          "consecuencias": [
+            "Aplica [desequilibrado-2]",
+            "Aplica [empapado-2]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y secretos",
+          "descripcion": "Buena sujeción, ayuda y técnica compensan su fuerza. Capturarla concede [trucha fresca] en la mochila o [comida compartida]. En Maer Dualdon puede contener el anillo de sello."
+        }
+      ]
+    },
+    {
+      "slug": "banda-recolectora-duergar",
+      "nombre": "Banda recolectora duergar",
+      "nivel": 1,
+      "poderio": [],
+      "roles": [
+        "Adversario",
+        "Merodeador"
+      ],
+      "aspecto_en": "Full body group portrait of grey dwarves in dark winter coats and loading harnesses, carrying crystal fragments and mining tools. Their organised, practical stances suggest a crystal gathering crew. Cold light on dark metal and frost.",
+      "descripcion": "Grupos duergar al mando de Durth o Nildar; cantidades sin especificar. Propuesta basada en duergar ordinarios.",
+      "limites": [
+        {
+          "nombre": "herida",
+          "valor": 3,
+          "consecuencia": "La banda queda fuera de combate."
+        },
+        {
+          "nombre": "retirada",
+          "valor": 3,
+          "consecuencia": "La banda se retira."
+        },
+        {
+          "nombre": "desarmada de su cargamento",
+          "valor": 3,
+          "consecuencia": "La banda queda desarmada de su cargamento."
+        }
+      ],
+      "etiquetas": [
+        "enanos grises",
+        "cuadrilla organizada",
+        "buscadores de chardalyn",
+        "conocen su ruta",
+        "herido-2",
+        "paso bloqueado"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Intenta arrebatar el cristal",
+          "descripcion": "retira [fragmento de chardalyn] de la mochila y crea [cargamento enemigo].",
+          "consecuencias": [
+            "Retira [fragmento de chardalyn]",
+            "Aplica [cargamento enemigo]"
+          ]
+        },
+        {
+          "nombre": "Ataca para asegurar la retirada",
+          "descripcion": "inflige [herido-2]; crea [paso bloqueado].",
+          "consecuencias": [
+            "Aplica [herido-2]",
+            "Aplica [paso bloqueado]"
+          ]
+        },
+        {
+          "nombre": "Vuelve a la fortaleza con lo reunido",
+          "descripcion": "crea [proyecto de Xardorok abastecido]; elimina una pista material si nadie la conserva.",
+          "consecuencias": [
+            "Aplica [proyecto de Xardorok abastecido]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y secretos",
+          "descripcion": "Su misión es reunir material. Seguir sus movimientos con rastreo o infiltración puede crear [ruta duergar descubierta]; fallar les alerta y crea [rastreadores detectados]."
+        }
+      ]
+    },
+    {
+      "slug": "asesina-a-sueldo",
+      "nombre": "Asesina a sueldo",
+      "nivel": 4,
+      "poderio": [],
+      "roles": [
+        "Adversario",
+        "Merodeador"
+      ],
+      "aspecto_en": "Full body portrait of a lean middle aged woman with a shaved head and a hook replacing her right hand, wearing a winter coat that conceals tools. Professional, sparse expression. Cold muted light.",
+      "descripcion": "Una asesina independiente enviada por Neverember contra el descendiente de Alagondar; adaptación del arquetipo de asesino.",
+      "limites": [
+        {
+          "nombre": "herida",
+          "valor": 4,
+          "consecuencia": "La asesina queda fuera de combate."
+        },
+        {
+          "nombre": "misión frustrada",
+          "valor": 4,
+          "consecuencia": "La misión queda frustrada."
+        }
+      ],
+      "etiquetas": [
+        "profesional del asesinato",
+        "garfio en la mano derecha",
+        "identidad discreta",
+        "objetivo concreto",
+        "emboscada preparada",
+        "heredero aislado",
+        "acorralado-2",
+        "herido-4",
+        "asesina fugitiva",
+        "persecución pendiente"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Espera a que su objetivo quede solo",
+          "descripcion": "crea [heredero aislado]; inflige [acorralado-2].",
+          "consecuencias": [
+            "Aplica [heredero aislado]",
+            "Aplica [acorralado-2]"
+          ]
+        },
+        {
+          "nombre": "Ejecuta la emboscada",
+          "descripcion": "inflige [herido-4].",
+          "consecuencias": [
+            "Aplica [herido-4]"
+          ]
+        },
+        {
+          "nombre": "Rompe el contacto para volver a intentarlo",
+          "descripcion": "crea [asesina fugitiva]; conserva [persecución pendiente].",
+          "consecuencias": [
+            "Aplica [asesina fugitiva]",
+            "Aplica [persecución pendiente]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y secretos",
+          "descripcion": "Descubrir el encargo, proteger al objetivo y desbaratar sus preparativos cuentan para frustrar la misión. El texto no proporciona nombre ni veneno ni arma concreta."
+        }
+      ]
+    },
+    {
+      "slug": "acechador-invisible",
+      "nombre": "Acechador invisible",
+      "nivel": 3,
+      "poderio": [
+        {
+          "nivel": "adventure",
+          "aspecto": "Asesino por encargo"
+        }
+      ],
+      "roles": [
+        "Adversario",
+        "Merodeador"
+      ],
+      "aspecto_en": "An environmental or creature danger of an unseen stalker: disturbed snow, faint displaced frost and a looming invisible presence in a frozen landscape. Cold blue light, no visible figure, only traces. No people.",
+      "descripcion": "Un acechador invisible, asesino personal de un pachá deshonrado, ligado al secreto de Amante esquivo.",
+      "limites": [
+        {
+          "nombre": "dispersado",
+          "valor": 4,
+          "consecuencia": "El acechador queda dispersado."
+        },
+        {
+          "nombre": "objetivo fuera de alcance",
+          "valor": 4,
+          "consecuencia": "El objetivo queda fuera de su alcance."
+        }
+      ],
+      "etiquetas": [
+        "invisible",
+        "perseguidor implacable",
+        "asesino por encargo",
+        "presencia sin rostro",
+        "atacante no localizado",
+        "herido-3",
+        "desorientado-2",
+        "objetivo separado"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Se aproxima sin mostrar su posición",
+          "descripcion": "crea [atacante no localizado].",
+          "consecuencias": [
+            "Aplica [atacante no localizado]"
+          ]
+        },
+        {
+          "nombre": "Golpea a su objetivo",
+          "descripcion": "inflige [herido-3]; inflige [desorientado-2].",
+          "consecuencias": [
+            "Aplica [herido-3]",
+            "Aplica [desorientado-2]"
+          ]
+        },
+        {
+          "nombre": "Obliga a huir sin compañía",
+          "descripcion": "crea [objetivo separado].",
+          "consecuencias": [
+            "Aplica [objetivo separado]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y secretos",
+          "descripcion": "La nieve o materiales que delaten su desplazamiento pueden crear [posición revelada]. Refugiar y acompañar al perseguido abre una solución distinta del enfrentamiento directo."
+        }
+      ]
+    },
+    {
+      "slug": "banda-de-diablos-barbudos",
+      "nombre": "Banda de diablos barbudos",
+      "nivel": 2,
+      "poderio": [
+        {
+          "nivel": "adventure",
+          "aspecto": "Trío infernal disfrazado"
+        }
+      ],
+      "roles": [
+        "Adversario"
+      ],
+      "aspecto_en": "Full body group portrait of three bearded devils disguised as winter travellers, with heavy winter clothing and hidden infernal features. Their coordinated, predatory stances suggest an ambush. Cold light on rough furs.",
+      "descripcion": "Tres diablos barbudos enviados por adoradores de Asmodeo; un único desafío de grupo.",
+      "limites": [
+        {
+          "nombre": "herida",
+          "valor": 4,
+          "consecuencia": "El grupo queda herido y fuera de combate."
+        },
+        {
+          "nombre": "atentado frustrado",
+          "valor": 4,
+          "consecuencia": "El atentado queda frustrado."
+        }
+      ],
+      "etiquetas": [
+        "trío infernal",
+        "disfraz de viajeros",
+        "ropa de invierno",
+        "objetivo: el autor",
+        "ataque coordinado",
+        "enemigos admitidos en el refugio",
+        "herido-3",
+        "salida cortada",
+        "retenido-2"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Se acerca bajo una apariencia inofensiva",
+          "descripcion": "crea [enemigos admitidos en el refugio].",
+          "consecuencias": [
+            "Aplica [enemigos admitidos en el refugio]"
+          ]
+        },
+        {
+          "nombre": "Cerca al autor y ataca",
+          "descripcion": "inflige [herido-3]; crea [salida cortada].",
+          "consecuencias": [
+            "Aplica [herido-3]",
+            "Aplica [salida cortada]"
+          ]
+        },
+        {
+          "nombre": "Impide el auxilio de los demás",
+          "descripcion": "inflige [retenido-2] a quien se interponga.",
+          "consecuencias": [
+            "Aplica [retenido-2]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y secretos",
+          "descripcion": "Una advertencia de los Caballeros de la Espada Negra puede permitir [emboscada prevista]. El santuario de Levistus ofrece una salida posible. Descubrir el disfraz no destruye a los atacantes."
+        }
+      ]
+    },
+    {
+      "slug": "renacuajo-slaad-latente",
+      "nombre": "Renacuajo slaad latente",
+      "nivel": 2,
+      "poderio": [],
+      "roles": [
+        "Peligro"
+      ],
+      "aspecto_en": "An environmental or creature danger of an internal parasite: a tense human torso suggested by frost and dim light, with an unseen larval threat. Cold blue shadows, no gore, symbolic rather than explicit. No identifiable person.",
+      "descripcion": "Un renacuajo que puede eclosionar en el portador del secreto; el texto remite a los slaadi y a los huevos de slaad rojo.",
+      "limites": [
+        {
+          "nombre": "infección curada",
+          "valor": 3,
+          "consecuencia": "La infección queda curada."
+        }
+      ],
+      "etiquetas": [
+        "parásito interno",
+        "momento incierto",
+        "curable antes de eclosionar",
+        "parásito latente",
+        "dolor interno-2",
+        "debilitado-3"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Empieza a desarrollarse",
+          "descripcion": "inflige [dolor interno-2]; crea [urgencia médica].",
+          "consecuencias": [
+            "Aplica [dolor interno-2]",
+            "Aplica [urgencia médica]"
+          ]
+        },
+        {
+          "nombre": "Se aproxima a la eclosión",
+          "descripcion": "inflige [debilitado-3]; anuncia que sin intervención atravesará el pecho y causará una herida mortal.",
+          "consecuencias": [
+            "Aplica [debilitado-3]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y secretos",
+          "descripcion": "Una curación capaz de eliminar enfermedades retira la amenaza antes de eclosionar. La fuente no fija cuándo ocurre: preparad señales y oportunidades de respuesta."
+        }
+      ]
+    },
+    {
+      "slug": "influencia-del-chardalyn-profano",
+      "nombre": "Influencia del chardalyn profano",
+      "nivel": 2,
+      "poderio": [],
+      "roles": [
+        "Peligro"
+      ],
+      "aspecto_en": "An environmental danger of profane crystal influence: a dark, cold to the touch crystal fragment on snow, with subtle infernal residue and distorted light. No people. Cold blue and faint red accents.",
+      "descripcion": "Contacto prolongado con material contaminado por magia demoníaca; no todo el chardalyn tiene esta propiedad.",
+      "limites": [
+        {
+          "nombre": "influencia cortada",
+          "valor": 3,
+          "consecuencia": "La influencia queda cortada."
+        }
+      ],
+      "etiquetas": [
+        "frío al tacto",
+        "residuo de los Planos Inferiores",
+        "contacto prolongado",
+        "alteración de la percepción",
+        "confuso-2",
+        "receloso-2",
+        "confianza quebrada"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Enturbia el juicio",
+          "descripcion": "inflige [confuso-2].",
+          "consecuencias": [
+            "Aplica [confuso-2]"
+          ]
+        },
+        {
+          "nombre": "Convierte la inquietud en sospecha",
+          "descripcion": "inflige [receloso-2]; crea [confianza quebrada] si el Héroe actúa contra los suyos.",
+          "consecuencias": [
+            "Aplica [receloso-2]",
+            "Aplica [confianza quebrada]"
+          ]
+        },
+        {
+          "nombre": "Hace peligroso conservar el hallazgo",
+          "descripcion": "amenaza con agravar [confuso] mientras se mantiene la exposición.",
+          "consecuencias": [
+            "Agrava [confuso]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y secretos",
+          "descripcion": "Separarse del objeto suele permitir que los efectos remitan. Percibir lo consagrado o profano con magia apropiada crea [naturaleza identificada]. No tratéis todo fragmento como maligno."
+        }
+      ]
+    },
+    {
+      "slug": "xardorok-y-su-proyecto",
+      "nombre": "Xardorok y su proyecto",
+      "nivel": 3,
+      "poderio": [
+        {
+          "nivel": "adventure",
+          "aspecto": "Tirano duergar y su fortaleza"
+        }
+      ],
+      "roles": [
+        "Adversario"
+      ],
+      "aspecto_en": "Full body portrait of a tyrannical grey dwarf warlock in fur and forge clothes, with soot stained hands and an obsessive gaze, standing before a mountain fortress and chardalyn dragon under construction. Cold light, dark metal and frost.",
+      "descripcion": "Un brujo duergar con fortaleza y un dragón de chardalyn en construcción; perfil y efectivos no incluidos. Desafío estratégico provisional.",
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 4,
+          "consecuencia": "Xardorok queda herido."
+        },
+        {
+          "nombre": "dominio desmantelado",
+          "valor": 5,
+          "consecuencia": "Su dominio queda desmantelado."
+        }
+      ],
+      "etiquetas": [
+        "tirano de la Infraoscuridad",
+        "fortaleza de montaña",
+        "hijos recolectores",
+        "forja de chardalyn",
+        "falsa revelación de Duerra",
+        "forja abastecida",
+        "dragón en vuelo",
+        "comunidad sometida",
+        "aterrorizado-3"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Acelera la recogida del material",
+          "descripcion": "crea [forja abastecida].",
+          "consecuencias": [
+            "Aplica [forja abastecida]"
+          ]
+        },
+        {
+          "nombre": "Libera su arma contra las poblaciones",
+          "descripcion": "crea [dragón en vuelo]; activa el desafío del dragón.",
+          "consecuencias": [
+            "Aplica [dragón en vuelo]"
+          ]
+        },
+        {
+          "nombre": "Impone su reino a los supervivientes",
+          "descripcion": "crea [comunidad sometida]; inflige [aterrorizado-3] a quienes presencian el sometimiento.",
+          "consecuencias": [
+            "Aplica [comunidad sometida]",
+            "Aplica [aterrorizado-3]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y secretos",
+          "descripcion": "Asmodeo se hace pasar por Duerra la Profunda para manipularlo. Revelar el engaño puede afectar sus decisiones, sin garantizar su rendición. Derrotarlo no detiene automáticamente al dragón ya liberado."
+        }
+      ]
+    },
+    {
+      "slug": "dragon-de-chardalyn",
+      "nombre": "Dragón de chardalyn",
+      "nivel": 4,
+      "poderio": [
+        {
+          "nivel": "greatness",
+          "aspecto": "Constructo de asedio"
+        }
+      ],
+      "roles": [
+        "Adversario",
+        "Bruto"
+      ],
+      "aspecto_en": "Full body portrait of a dragon shaped construct made of dark chardalyn crystal, with angular wings and a siege weapon silhouette. It flies above snowy settlements. Cold light on faceted black crystal, no rider.",
+      "descripcion": "Un constructo con forma de dragón, destinado a destruir Diez Ciudades. Perfil no incluido; nivel provisional.",
+      "limites": [
+        {
+          "nombre": "destruido",
+          "valor": 6,
+          "consecuencia": "El constructo queda destruido."
+        },
+        {
+          "nombre": "ataque local rechazado",
+          "valor": 4,
+          "consecuencia": "El ataque local queda rechazado."
+        }
+      ],
+      "etiquetas": [
+        "cuerpo de chardalyn",
+        "arma de asedio móvil",
+        "vuela entre asentamientos",
+        "terror sobre los tejados",
+        "poblaciones indefensas",
+        "barrio devastado",
+        "herido-4",
+        "supervivientes atrapados",
+        "siguiente asentamiento amenazado"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Arrasa una zona habitada",
+          "descripcion": "crea [barrio devastado]; inflige [herido-4] a quienes queden expuestos.",
+          "consecuencias": [
+            "Aplica [barrio devastado]",
+            "Aplica [herido-4]"
+          ]
+        },
+        {
+          "nombre": "Derriba un refugio",
+          "descripcion": "crea [supervivientes atrapados]; elimina [refugio seguro] en esa localización.",
+          "consecuencias": [
+            "Aplica [supervivientes atrapados]",
+            "Elimina [refugio seguro]"
+          ]
+        },
+        {
+          "nombre": "Abandona el combate para atacar otra población",
+          "descripcion": "crea [siguiente asentamiento amenazado]; obliga a decidir entre perseguirlo y rescatar a las víctimas.",
+          "consecuencias": [
+            "Aplica [siguiente asentamiento amenazado]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y secretos",
+          "descripcion": "La introducción no describe vulnerabilidades ni armamento concreto. Alcanzar el límite local salva una posición, pero no destruye el constructo. Evacuar y organizar refugios protege vidas aunque la criatura siga activa."
+        }
+      ]
+    },
+    {
+      "slug": "auril-debilitada",
+      "nombre": "Auril debilitada",
+      "nivel": 5,
+      "poderio": [
+        {
+          "nivel": "greatness",
+          "aspecto": "Divinidad del invierno debilitada"
+        }
+      ],
+      "roles": [
+        "Adversario",
+        "Controlador"
+      ],
+      "aspecto_en": "Full body portrait of a weakened winter goddess in rigid white frost and stiff cloaks, with a white roc mount. Her hieratic figure radiates cold; snow and ice crystals cling to her. A nocturnal aurora and frozen landscape surround her. No compassion in her expression.",
+      "descripcion": "Una deidad y un roc blanco como montura durante su ritual; no se desarrolla aquí un combate separado con el roc. Propuesta estratégica.",
+      "limites": [
+        {
+          "nombre": "forma vencida",
+          "valor": 6,
+          "consecuencia": "La forma de Auril queda vencida."
+        },
+        {
+          "nombre": "ritual impedido",
+          "valor": 5,
+          "consecuencia": "El ritual queda impedido."
+        }
+      ],
+      "etiquetas": [
+        "divinidad del invierno",
+        "sin compasión",
+        "belleza inmovilizada",
+        "aurora nocturna",
+        "debilitada tras el conjuro",
+        "roc blanco",
+        "otro día sin sol",
+        "Helada Eterna",
+        "pasos bloqueados por ventiscas",
+        "mar azotado por temporales",
+        "helado-4",
+        "ruta de retirada congelada"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "Renueva la noche",
+          "descripcion": "crea [otro día sin sol]; mantiene [Helada Eterna].",
+          "consecuencias": [
+            "Aplica [otro día sin sol]",
+            "Mantiene [Helada Eterna]"
+          ]
+        },
+        {
+          "nombre": "Cierra las salidas del valle",
+          "descripcion": "crea [pasos bloqueados por ventiscas]; crea [mar azotado por temporales].",
+          "consecuencias": [
+            "Aplica [pasos bloqueados por ventiscas]",
+            "Aplica [mar azotado por temporales]"
+          ]
+        },
+        {
+          "nombre": "Descarga su hostilidad sobre los intrusos",
+          "descripcion": "inflige [helado-4]; crea [ruta de retirada congelada].",
+          "consecuencias": [
+            "Aplica [helado-4]",
+            "Aplica [ruta de retirada congelada]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y secretos",
+          "descripcion": "Mantener el conjuro consume gran parte de su poder. Interrumpir una renovación no implica por sí solo una primavera permanente. El mythallar ofrece otra vía para contrarrestar el clima; apelar a la compasión no alcanza un límite de esta deidad."
+        }
+      ]
+    }
+  ],
+  "objetos": [
+    {
+      "slug": "ropa-de-abrigo",
+      "nombre": "Ropa de abrigo",
+      "etiqueta": "ropa de abrigo completa",
+      "descripcion": "Mochila: [ropa de abrigo completa]. Evita el desgaste ordinario del frío extremo mientras esté seca y en buenas condiciones. Incluye capas gruesas y guantes.",
+      "imagen_en": "Isolated winter clothing bundle: thick layered coat, gloves and scarf on dark wood. Cold blue light, frost on fabric, practical northern travel gear."
+    },
+    {
+      "slug": "raquetas",
+      "nombre": "Raquetas",
+      "etiqueta": "raquetas de nieve",
+      "descripcion": "Mochila: [raquetas de nieve]. Facilitan la marcha y sostienen el ritmo de viaje indicado en la ficha de viaje.",
+      "imagen_en": "Isolated pair of wooden snowshoes with leather bindings, resting on packed snow. Cold light, worn practical craftsmanship."
+    },
+    {
+      "slug": "gafas",
+      "nombre": "Gafas",
+      "etiqueta": "gafas de nieve",
+      "descripcion": "Mochila: [gafas de nieve]. Protegen los ojos durante una ventisca; no suprimen su límite de visibilidad.",
+      "imagen_en": "Isolated pair of simple snow goggles with narrow slits, resting on dark cloth. Cold light, frost on the frame."
+    },
+    {
+      "slug": "cuerda-de-marcha",
+      "nombre": "Cuerda de marcha",
+      "etiqueta": "cuerda de unión",
+      "descripcion": "Mochila: [cuerda de unión]. Evita perder contacto entre compañeros durante el temporal si se usa correctamente.",
+      "imagen_en": "Isolated coil of sturdy rope with frost on the fibres, resting on dark wood. Cold blue light, practical travel gear."
+    },
+    {
+      "slug": "trineo-y-perros",
+      "nombre": "Trineo y perros",
+      "etiqueta": "trineo con tiro de perros",
+      "descripcion": "[trineo con tiro de perros]. Ventaja de transporte vinculada a [alimento para el tiro] y [cobijo para los perros]; acceso por préstamo, servicio o favor, sin precio exacto.",
+      "imagen_en": "Isolated wooden travel sledge with leather harnesses and a team of six thick coated dogs. Snow dusts its runners and ropes. Cold blue light."
+    },
+    {
+      "slug": "barca-y-aparejos",
+      "nombre": "Barca y aparejos",
+      "etiqueta": "barca prestada",
+      "descripcion": "[barca prestada], [aparejos de pesca]. Permiten pescar fuera de la orilla; el favor puede crear [devolver la barca intacta].",
+      "imagen_en": "Isolated small wooden boat with fishing gear, nets and hooks resting on ice. Cold grey light, frost on timber and rope."
+    },
+    {
+      "slug": "sierra-para-hielo",
+      "nombre": "Sierra o herramienta equivalente",
+      "etiqueta": "sierra para hielo",
+      "descripcion": "[sierra para hielo]. Abre un punto de pesca donde la superficie sea adecuada; no demuestra que el entorno sea seguro.",
+      "imagen_en": "Isolated hand ice saw with a wooden handle and metal blade, resting on snow. Cold light, frost on the teeth."
+    },
+    {
+      "slug": "ropa-seca-y-calor",
+      "nombre": "Ropa seca y calor",
+      "etiqueta": "muda seca",
+      "descripcion": "[muda seca], [fuego protegido]. Esenciales para cortar el desgaste de un rescatado del agua.",
+      "imagen_en": "Isolated bundle of dry clothing beside a small protected fire in a metal brazier. Warm amber light, steam and winter gear."
+    },
+    {
+      "slug": "chardalyn-sin-encantar",
+      "nombre": "Chardalyn sin encantar",
+      "etiqueta": "cristal fácil de trabajar",
+      "descripcion": "[cristal fácil de trabajar]. Frío al tacto, tan resistente como el metal y más fácil de modelar que el acero; acepta bien encantamientos. No es mágico por naturaleza.",
+      "imagen_en": "Isolated translucent dark crystal fragment on snow, cold to the touch, with sharp facets and a faint metallic sheen. Blue light."
+    },
+    {
+      "slug": "chardalyn-consagrado-o-profano",
+      "nombre": "Chardalyn consagrado o profano",
+      "etiqueta": "chardalyn consagrado",
+      "descripcion": "[chardalyn consagrado] o [chardalyn profano]. La magia de los Planos Superiores o Inferiores determina su naturaleza, detectable con percepción sobrenatural apropiada. Solo el contaminado que corresponda provoca la influencia descrita.",
+      "imagen_en": "Isolated crystal fragment with a subtle glow, resting on snow. One side faintly luminous, the other dark. Cold blue and faint red accents."
+    },
+    {
+      "slug": "piedra-orca",
+      "nombre": "Piedra orca",
+      "etiqueta": "piedra de Vokarr",
+      "descripcion": "Mochila: [piedra de Vokarr]. Rutina propuesta: invocar el auxilio del caudillo como [auxilio de Vokarr] durante una situación pertinente. El extracto no indica cargas ni duración.",
+      "imagen_en": "Isolated rough stone carved with orcish markings, resting on a fur cloth. Cold light, dark grey surface and faint wear."
+    },
+    {
+      "slug": "anillo-de-sello",
+      "nombre": "Anillo de sello",
+      "etiqueta": "anillo de sello recuperado",
+      "descripcion": "Mochila al recuperarlo: [anillo de sello recuperado]. Prueba tangible ligada al pasado y a la Gesta del buscador. Puede hallarse en Vieja Mordiscos o, muy raramente, en una trucha de Maer Dualdon.",
+      "imagen_en": "Isolated signet ring with a worn crest, resting on dark cloth. Cold light, small and detailed, with frost on the metal."
+    },
+    {
+      "slug": "codicilo-blanco",
+      "nombre": "Codicilo Blanco",
+      "etiqueta": "Codicilo Blanco",
+      "descripcion": "[Codicilo Blanco], objeto transportable y documento. Compilado por seguidores fervorosos de Auril; contiene la Rima que abre el glaciar. No se incluye el poema en esta fuente.",
+      "imagen_en": "Isolated white bound book or scroll case resting on snow, with frost on its cover. Cold light, simple and austere."
+    },
+    {
+      "slug": "rima-de-la-doncella-de-la-escarcha",
+      "nombre": "Rima de la Doncella de la Escarcha",
+      "etiqueta": "paso abierto en el glaciar Reghed",
+      "descripcion": "Rutina: recitar la invocación en el contexto adecuado para crear [paso abierto en el glaciar Reghed]. Abre el acceso, no resuelve las Cavernas del Hambre.",
+      "imagen_en": "Isolated sheet of parchment with faint handwritten lines, resting on snow. Cold light, worn edges, no readable text."
+    },
+    {
+      "slug": "orbe-de-vellynne",
+      "nombre": "Orbe de Vellynne",
+      "etiqueta": "orbe recuperado de Vellynne",
+      "descripcion": "[orbe recuperado de Vellynne]. Una rival se lo robó; se busca en la isla de Auril y tiene propiedades útiles. El extracto no describe esas propiedades.",
+      "imagen_en": "Isolated crystal orb with a faint inner light, resting on dark cloth. Cold light, smooth and luminous."
+    },
+    {
+      "slug": "mythallar-de-ythryn",
+      "nombre": "Mythallar de Ythryn",
+      "etiqueta": "mythallar de Ythryn",
+      "descripcion": "[mythallar de Ythryn], artefacto de localización, no objeto ordinario de mochila. Puede alzar una ciudad y cambiar el clima en un radio de unos ochenta kilómetros.",
+      "imagen_en": "Isolated glowing arcane artifact of ancient crystal and metal, resting on a stone pedestal. Cold blue light, intricate and powerful."
+    },
+    {
+      "slug": "recuerdos-curados-del-cautivo",
+      "nombre": "Recuerdos curados del cautivo",
+      "etiqueta": "recuerdos del Id Ascendente",
+      "descripcion": "[recuerdos del Id Ascendente]. Una curación profunda revela información sobre los illithids y los demás prisioneros; el lugar del naufragio ya era conocido antes.",
+      "imagen_en": "Isolated bundle of memory tokens or small keepsakes on dark cloth. Cold light, worn and personal."
+    },
+    {
+      "slug": "aviso-de-caer-dineval",
+      "nombre": "Aviso de Caer-Dineval",
+      "etiqueta": "atentado infernal anunciado",
+      "descripcion": "[atentado infernal anunciado]. Puede transmitirse oralmente o como nota de los Caballeros de la Espada Negra; texto de ayuda creado por el Narrador.",
+      "imagen_en": "Isolated folded note on rough parchment with a black seal, resting on dark wood. Cold light, no readable text."
+    }
+  ],
+  "ayudas": [
+    {
+      "slug": "mapa-del-valle",
+      "titulo": "Mapa del valle",
+      "tipo": "mapa",
+      "texto": "Mapa del Valle del Viento Helado con los lugares de conocimiento común. Muestra Diez Ciudades, lagos, montañas y rutas generales; los mapas interiores son información del Narrador.",
+      "fondo_en": "An empty parchment map sheet with worn edges and faint folds, resting flat under soft neutral light. The central surface is clear and unmarked, with no text, symbols or illustrations."
+    },
+    {
+      "slug": "ficha-de-viaje",
+      "titulo": "Ficha de viaje",
+      "tipo": "nota",
+      "texto": "Referencias de distancia y tiempo: trineo de perros 1 milla por hora en tundra y media en montaña; a pie con raquetas media milla en tundra y un cuarto en montaña; a pie sin raquetas un cuarto en tundra y un octavo en montaña. La montaña tarda al menos el doble y añade riesgo de perder la ruta.",
+      "fondo_en": "An empty sheet of rough parchment with worn edges and faint folds, resting flat under soft neutral light. The central surface is clear and unmarked, with no text, symbols or illustrations."
+    },
+    {
+      "slug": "tarjetas-de-secretos",
+      "titulo": "Tarjetas de secretos",
+      "tipo": "carta",
+      "texto": "Tarjetas de secretos consentidos para los Héroes, opcionales y sustituibles. Incluyen descendiente de Alagondar, doppelganger, admirador de Drizzt, amante esquivo, prisionero fugado, yeti más pequeño, niño de Medioinvierno, vieja llama, piedra orca, susurrador de osos lechuza, pirata caníbal, heredero de los reghed, reencarnación, cazador del anillo, autor fugado, portador de renacuajo slaad y espía.",
+      "fondo_en": "An empty set of small cards on rough parchment with worn edges, resting flat under soft neutral light. The surfaces are clear and unmarked, with no text or illustrations."
+    },
+    {
+      "slug": "registro-de-la-aurora",
+      "titulo": "Registro de la aurora",
+      "tipo": "nota",
+      "texto": "Registro de la aurora y el ciclo de luz: Auril vuela cada noche sobre un roc blanco para renovar su conjuro; la aurora se extingue antes del alba; entre las diez y las dos solo hay penumbra; el resto del tiempo domina la oscuridad, salvo luna llena o aurora.",
+      "fondo_en": "An empty sheet of rough parchment with worn edges and faint folds, resting flat under soft neutral light. The central surface is clear and unmarked, with no text, symbols or illustrations."
+    },
+    {
+      "slug": "nota-del-atentado",
+      "titulo": "Aviso de Caer-Dineval",
+      "tipo": "nota",
+      "texto": "Aviso de los Caballeros de la Espada Negra sobre un atentado infernal contra el autor fugado. Puede transmitirse oralmente o como nota; su texto es creado por el Narrador.",
+      "fondo_en": "An empty sheet of rough parchment with worn edges and faint folds, resting flat under soft neutral light. The central surface is clear and unmarked, with no text, symbols or illustrations."
+    }
+  ],
+  "hitos": [
+    "Ayudar a una comunidad y ganar hospitalidad o provisiones compartidas.",
+    "Sobrevivir al trayecto y auxiliar a los rezagados, ganando ruta reconocida y confianza de la Compañía.",
+    "Revelar un secreto y generar un aliado inesperado o una persecución concreta.",
+    "Interrumpir la recogida de cristal y obtener una pista del proyecto duergar o una ruta hacia la fortaleza.",
+    "Obtener el Codicilo Blanco y el orbe, ganando la clave del glaciar y un pacto con Vellynne.",
+    "Contrarrestar la Helada Eterna mediante el mythallar o enfrentarse a Auril."
+  ],
+  "relojes": []
+}

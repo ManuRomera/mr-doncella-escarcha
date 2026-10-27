@@ -27,8 +27,8 @@ def tags(lst):
  return out
 PT=lambda n:{'name':n,'question':'','burned':False,'toBurn':False,'planned':False,'selected':False,'expiring':False,'expired':False}
 SI=[{'name':'','active':False,'description':''}]*5
-folders={};FOLDERS=[('heroes','Héroes','Actor'),('pnj','Gentes de Diez Ciudades','Actor'),('desafios','Desafíos','Actor'),('manual','Manual del Narrador · Cap. 1','JournalEntry'),
- ('lecturas','Lecturas de escena','JournalEntry'),('ayudas','Ayudas para los jugadores','JournalEntry'),('ciudades','Diez Ciudades','Scene'),('escenas','Escenas · Cap. 1','Scene'),('rutinas','Rutinas','Item')]
+folders={};FOLDERS=[('heroes','Héroes','Actor'),('pnj','Gentes de Diez Ciudades','Actor'),('desafios','Desafíos','Actor'),('manual','Manual del Narrador · Cap. 1 · Diez Ciudades','JournalEntry'),
+ ('lecturas','Lecturas de escena','JournalEntry'),('ayudas','Ayudas para los jugadores','JournalEntry'),('ciudades','Diez Ciudades','Scene'),('escenas','Escenas · Cap. 1 · Diez Ciudades','Scene'),('rutinas','Rutinas','Item'),('guias','Guías y reglas','JournalEntry')]
 for k,n,t in FOLDERS:folders[k]={'_id':uid('folder/'+k),'name':n,'type':t,'sorting':'m','color':'#3d5a73','flags':fl('folder-'+k)}
 F=lambda k:folders[k]['_id']
 actors=[];journals=[];scenes=[];items=[];direction=[]
@@ -84,8 +84,15 @@ def npc_actor(d,kind,sec):
  actors.append({'_id':uid('actor/'+s),'name':d['nombre'],'type':'litm-npc','folder':F(folder),'img':asset(f'{base}/{s}-portrait.webp',f'{base}/{s}.webp' if has(f'{base}/{s}.webp') else 'assets/scenes/portada.webp'),'system':sysd,
   'prototypeToken':{'name':d['nombre'],'actorLink':kind=='pnj','disposition':0 if kind=='pnj' else -1,'lockRotation':True,'texture':{'src':tok},'width':3,'height':3},
   'ownership':{'default':0},'flags':fl(s,tipo=kind,seccion=sec)})
-order=0
-for src in sorted((ROOT/'content/cap1').glob('*.json')):
+order=0;hitos=[];relojes=[]
+CAPS={'cap1':'Cap. 1 · Diez Ciudades','cap2':'Cap. 2 · El Valle del Viento Helado','cap3':'Cap. 3 · Sol Marchito','cap4':'Cap. 4 · La Luz de la Destrucción','cap5':'Cap. 5 · La Morada de Auril','cap6':'Cap. 6 · Las Cavernas del Hambre','cap7':'Cap. 7 · La Perdición de Ythryn'}
+def chap_folders(cap):
+ if cap=='cap1':return 'manual','escenas'  # ids estables de la fase 1
+ for k,n,t in [('manual-'+cap,'Manual del Narrador · '+CAPS[cap],'JournalEntry'),('escenas-'+cap,'Escenas · '+CAPS[cap],'Scene')]:
+  folders.setdefault(k,{'_id':uid('folder/'+k),'name':n,'type':t,'sorting':'m','color':'#3d5a73','flags':fl('folder-'+k)})
+ return 'manual-'+cap,'escenas-'+cap
+for src in sorted(ROOT.glob('content/cap*/*.json')):
+ fm,fe=chap_folders(src.parent.name)
  sec=src.stem;J=json.loads(src.read_text());title=J.get('titulo',sec)
  # Manual del Narrador: la ficha .md partida por «## »
  mdp=src.with_suffix('.md');pages=[]
@@ -95,8 +102,10 @@ for src in sorted((ROOT/'content/cap1').glob('*.json')):
    head,_,body=p.partition('\n')
    if head.strip().lower().startswith('páginas de la fuente'):continue
    pages.append({'_id':uid(f'manual/{sec}/{i}'),'name':head.strip(),'type':'text','sort':i*1000,'title':{'show':True,'level':1},'text':{'format':1,'content':md(body)}})
- journals.append({'_id':uid('manual/'+sec),'name':title,'folder':F('manual'),'pages':pages,'ownership':{'default':0},'flags':fl('manual-'+sec)})
+ journals.append({'_id':uid('manual/'+sec),'name':title,'folder':F(fm),'pages':pages,'ownership':{'default':0},'flags':fl('manual-'+sec)})
  dmap={d['slug']:d for d in J.get('desafios',[])}
+ hitos+=[{'id':uid(f'hito/{sec}/{h}')[:10],'label':f"{title}: {h.split(':')[0].strip()}"} for h in J.get('hitos',[]) if isinstance(h,str)]
+ relojes+=[{'id':uid(f"reloj/{sec}/{r['nombre']}")[:10],'label':r['nombre'],'segments':max(2,min(12,int(r.get('segmentos',4))))} for r in J.get('relojes',[]) if isinstance(r,dict) and r.get('nombre')]
  for n in J.get('pnj',[]):
   if n.get('desafio') in dmap:n['_desafio']=dmap[n['desafio']];alias[n['desafio']]=n['slug']
   npc_actor(n,'pnj',sec)
@@ -112,7 +121,7 @@ for src in sorted((ROOT/'content/cap1').glob('*.json')):
   pid=uid(f'lectura/{sec}/{e["slug"]}');lect.append({'_id':pid,'name':e['nombre'],'type':'text','sort':i*1000,'title':{'show':True,'level':1},'text':{'format':1,'content':body}})
   jid=uid('lecturas/'+sec);bg=asset(f"assets/scenes/{e['slug']}.webp",f"assets/scenes/ciudad-{e.get('ciudad')}.webp" if has(f"assets/scenes/ciudad-{e.get('ciudad')}.webp") else 'assets/scenes/portada.webp')
   th=bg.replace('/scenes/','/thumbs/')
-  scenes.append({'_id':uid('scene/'+e['slug']),'name':e['nombre'],'folder':F('escenas'),'width':1920,'height':1080,'padding':0,'grid':{'type':0,'size':100},'background':{'src':bg},'thumb':th,
+  scenes.append({'_id':uid('scene/'+e['slug']),'name':e['nombre'],'folder':F(fe),'width':1920,'height':1080,'padding':0,'grid':{'type':0,'size':100},'background':{'src':bg},'thumb':th,
    'tokenVision':False,'fog':{'exploration':False},'navigation':False,'sort':order,'flags':{MOD:{'slug':e['slug'],'seccion':sec,'direction':{'journalId':jid,'pageId':pid}}}})
   direction.append({'ref':{'flag':[MOD,'slug',e['slug']]},'order':order,'name':e['nombre'],'reading':{'sceneFlag':[MOD,'direction']},
    'music':{'flag':[MOD,'slug',e.get('musica','valle')]},'motifs':e.get('motivos') or None,
@@ -130,7 +139,7 @@ for src in sorted((ROOT/'content/cap1').glob('*.json')):
 for src in sorted((ROOT/'content/extra').glob('*.md')):
  t=src.read_text();title=re.search(r'^# (.+)$',t,re.M)[1];parts=re.split(r'^## ',t,flags=re.M)[1:]
  pages=[{'_id':uid(f'extra/{src.stem}/{i}'),'name':p.partition('\n')[0].strip(),'type':'text','sort':i*1000,'title':{'show':True,'level':1},'text':{'format':1,'content':md(p.partition('\n')[2])}} for i,p in enumerate(parts)]
- journals.append({'_id':uid('extra/'+src.stem),'name':title,'folder':F('ayudas' if 'secretos' in src.stem else 'manual'),'pages':pages,'ownership':{'default':2 if 'heroes' in src.stem else 0},'flags':fl('extra-'+src.stem)})
+ journals.append({'_id':uid('extra/'+src.stem),'name':title,'folder':F('ayudas' if 'secretos' in src.stem else 'guias'),'pages':pages,'ownership':{'default':2 if 'heroes' in src.stem else 0},'flags':fl('extra-'+src.stem)})
 # Escenas de ciudad (fondos generales) para visitas libres
 for i,(s,n) in enumerate(TOWN_NAMES.items()):
  if not has(f'assets/scenes/ciudad-{s}.webp'):continue
@@ -148,7 +157,7 @@ playlists=[pl('Rima · Banda sonora','musica',[a for a in A if a['kind']=='music
 motifs=[{'id':a['slug'],'label':a['name'],'icon':'music','music':{'flag':[MOD,'slug',a['slug']]}} for a in A if a.get('motif')]
 pack={'schema':1,'id':MOD,'title':'MR- La Rima de la Doncella de la Escarcha','version':json.loads((ROOT/'module.json').read_text())['version'],'author':'Manu Romera','license':'Uso privado',
  'settings':{'fade':3.5,'motifs':motifs,'effects':[{'id':x,'label':n,'icon':i,'sound':{'flag':[MOD,'slug',x]}} for x,n,i in [('ventisca','Ventisca','snowflake'),('campana','Campana','bell'),('lobos','Lobos','paw')]],
-  'markers':{'milestones':[],'clocks':[{'id':'helor','label':'La Helor Eterna (próxima luna nueva)','segments':6}]}},'scenes':direction}
+  'markers':{'milestones':hitos,'clocks':[{'id':'helor','label':'La Helor Eterna (próxima luna nueva)','segments':6}]+relojes}},'scenes':direction}
 (ROOT/'content/direccion.json').write_text(json.dumps(pack,ensure_ascii=False,indent=1))
 adv={'_id':uid('adventure'),'name':'MR- La Rima de la Doncella de la Escarcha · Cap. 1 Diez Ciudades','img':PRE+'assets/scenes/portada.webp',
  'description':'<p>Campaña de horror invernal para <em>Legend in the Mist</em>: seis héroes pregenerados, las Diez Ciudades y sus misiones, desafíos convertidos, lecturas por escena, música y efectos. La barra de MR- Dirección se configura sola.</p>',

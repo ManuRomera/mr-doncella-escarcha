@@ -1,0 +1,571 @@
+{
+  "seccion": "01-diez-ciudades",
+  "titulo": "Diez Ciudades",
+  "escenas": [
+    {
+      "slug": "llegada-a-una-villa-bajo-la-aurora",
+      "nombre": "Llegada a una villa bajo la aurora",
+      "ciudad": "otro",
+      "interior": false,
+      "imagen_en": "Wide establishing view of a narrow hardened-snow street in a northern town: stone and timber houses with steep roofs, small amber windows and closed doors. Grey snowdrifts pile against façades; a dark sky shows green and blue aurora veils. Wind erases the horizon. Muted white, charcoal and warm amber palette. No figures. Leave the lower third open.",
+      "lectura": "Llegáis entre casas que parecen haberse encogido bajo el peso del invierno. Los tejados se alzan muy inclinados y la nieve se acumula junto a puertas cerradas. Apenas escapa luz por las ventanas. Sobre vosotros, la aurora despliega una belleza fría que no consigue volver acogedora la noche. El viento os busca los huecos de la ropa y os obliga a bajar la cabeza. Tras una pared oís un golpe, después el roce de algo que se arrastra sobre el suelo. Aquí sigue habiendo vida, aunque permanezca escondida. Necesitáis abrigo, noticias y una razón para que os abran antes de que el frío haga más difícil llamar.",
+      "notas": "Presenta la villa elegida y una necesidad inmediata de alojamiento, suministros o información. Los habitantes permanecen dentro cuando no trabajan, y las capas de lana y piel dificultan reconocer a cualquiera en el exterior. Buscar acogida con etiquetas de trato, oficio o vínculos puede crear [puerta abierta] o [contacto local]; un fallo puede dejar [forasteros bajo sospecha] o consumir tiempo y exponer al frío.",
+      "musica": "noche",
+      "motivos": [
+        "tension",
+        "misterio"
+      ],
+      "efectos": [
+        "viento",
+        "pasos",
+        "puerta"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "calles casi vacías",
+        "ventanas iluminadas",
+        "rostros ocultos por pieles",
+        "aurora de Auril"
+      ],
+      "figuras": []
+    },
+    {
+      "slug": "lagos-embarcaderos-y-pesca-bajo-el-hielo",
+      "nombre": "Lagos, embarcaderos y pesca bajo el hielo",
+      "ciudad": "otro",
+      "interior": false,
+      "imagen_en": "Wide establishing view of a frozen lake harbour: frost-covered wooden dock, stiff nets, fish racks and beached boats beside black-and-white ice. Open fishing holes cut the surface; larger vessels carry village flags. Very faint blue light and dark water between ice plates. Muted pewter, slate and cold blue palette. No people or creatures. Leave the lower third open.",
+      "lectura": "Ante vosotros, el lago alterna extensiones inmóviles de hielo con franjas de agua negra. Las cuerdas de los embarcaderos están tiesas y las redes parecen tejidas con escarcha. Más allá de los botes pequeños distinguís embarcaciones de mayor porte, marcadas con las banderas de sus villas. Unos agujeros abiertos en el hielo muestran que todavía se pesca aquí. Os llega el olor de agua fría y pescado, mezclado con humo lejano. Cada captura puede acabar en muchas mesas; cada salida obliga a apostar herramientas, tiempo y vida. Mientras miráis la superficie, un crujido largo recorre el hielo y se pierde hacia la oscuridad.",
+      "notas": "Maer Dualdon es el lago más profundo y tiene la mayor población de truchas de cabeza de jarrete; Aguas Rojizas casi se congela por completo; Lac Dinneshere recibe los peores vientos del Glaciar Reghed. Los barcos abastecen a la comunidad, y con hielo grueso muchos se quedan al calor mientras los más tenaces pescan por agujeros. Leer el hielo, navegar o pescar con etiquetas adecuadas puede producir [ruta segura] o [captura compartida]; el fallo activa las amenazas del desafío del lago. El monstruo de Bremen es un gancho, no un encuentro obligatorio en todos los lagos.",
+      "musica": "lago",
+      "motivos": [
+        "tension",
+        "amenaza"
+      ],
+      "efectos": [
+        "lago-sfx",
+        "hielo-cruje",
+        "viento"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "pesca de subsistencia",
+        "banderas de las villas",
+        "hielo de espesor desigual",
+        "agua abierta entre placas"
+      ],
+      "figuras": [
+        "hielo-y-aguas-de-los-lagos"
+      ]
+    },
+    {
+      "slug": "caminos-cargas-y-combustible",
+      "nombre": "Caminos, cargas y combustible",
+      "ciudad": "otro",
+      "interior": false,
+      "imagen_en": "Wide establishing view of a snow track between bare hills, sled runner grooves and half-buried posts. Dark mountains on the horizon; beside a shed, stacked firewood, oil containers and an empty sled. White, brown and grey palette with a small warm light behind one window. No people. Leave the lower third open.",
+      "lectura": "El camino se distingue por los surcos y por una nieve algo más pisada que la de sus márgenes. Fuera de esa franja, cada paso parece hundirse en un blanco sin fondo. Veis un trineo junto a un cobertizo y varias cargas preparadas bajo una cubierta. La madera está apilada con cuidado; los recipientes de aceite se guardan cerca de la puerta. Nada de lo que da calor parece abundante. A lo lejos, las montañas recortan el cielo, y el viento levanta nieve suficiente para ocultaros el siguiente tramo. Antes de continuar tendréis que decidir qué lleváis, cómo lo transportáis y dónde podréis deteneros.",
+      "notas": "La mayoría viaja a pie; para cargas mayores se emplean trineos tirados por perros o picos de hacha domesticados. Planear una etapa con etiquetas de orientación, manejo de animales o transporte permite obtener [carga bien distribuida] o [parada a resguardo]; forzar la marcha activa el desafío del trayecto. La escasez de árboles obliga a obtener madera en las laderas de la Columna del Mundo o en Bosque Solitario, y en la mayoría de villas se usa aceite de ballena para luz y calor. Negociar suministro puede crear [reserva de combustible] a cambio de un favor; fallar puede dejar [suministro comprometido].",
+      "musica": "camino",
+      "motivos": [
+        "ventisca-m"
+      ],
+      "efectos": [
+        "viento",
+        "pasos",
+        "pico"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "nieve profunda",
+        "viento sin barreras",
+        "combustible valioso",
+        "huellas entre villas"
+      ],
+      "figuras": [
+        "trayecto-bajo-el-invierno-de-auril"
+      ]
+    },
+    {
+      "slug": "refugio-intercambios-y-rumores",
+      "nombre": "Refugio, intercambios y rumores",
+      "ciudad": "otro",
+      "interior": true,
+      "imagen_en": "Wide interior view of a dark timber tavern or inn: low beams, worn tables, small stove, boots and garments drying near heat, fogged glass and a counter with scarce provisions. In old Buenaguamiel buildings, carved dinosaur motifs may appear. Warm amber firelight, dark wood, cold blue window edges. No people. Leave the lower third open.",
+      "lectura": "Al entrar, notáis primero el alivio de que el viento deje de golpearos. El calor tarda más en alcanzar los dedos. Las ventanas están empañadas y la madera conserva olores de humo, comida y ropa húmeda. Sobre el mostrador hay menos provisiones de las que os gustaría encontrar. La estancia parece guardar cada soplo templado como si pudiera gastarse. Tenéis un momento para quitaros la nieve, mirar alrededor y escuchar. En un lugar así, una cama, una herramienta o una noticia pueden depender de la misma conversación. Lo que contéis de vuestro viaje decidirá qué os cuentan a cambio y cuánto crédito conceden a vuestra palabra.",
+      "notas": "Presenta un rumor pendiente y permite comprar, reparar o intercambiar equipo mediante favores y recursos narrativos. El tamaño del asentamiento aumenta la probabilidad de encontrar equipo habitual, incluidos útiles de pesca y trineos. Una buena conversación puede producir [rumor contrastado] o [hospitalidad local]; un fallo puede crear [deuda pendiente] o [palabras malinterpretadas]. La magia disponible se concreta en «Objetos, pistas y documentos».",
+      "musica": "taberna",
+      "motivos": [
+        "misterio"
+      ],
+      "efectos": [
+        "hogar",
+        "taberna-sfx",
+        "viento"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "calor compartido",
+        "existencias limitadas",
+        "noticias entre villas",
+        "refugio provisional"
+      ],
+      "figuras": []
+    },
+    {
+      "slug": "el-salon-del-concejo-de-bryn-shander",
+      "nombre": "El Salón del Concejo de Bryn Shander",
+      "ciudad": "bryn-shander",
+      "interior": true,
+      "imagen_en": "Wide interior view of a meeting hall in a walled town: wood and stone walls, long table, separated chairs, narrow windows thick with frost. Lamp light on worn surfaces; maps and use marks may be added as ambience. Cold grey and brown palette. No people. Leave the lower third open.",
+      "lectura": "Las paredes cortan el viento, pero el salón conserva una frialdad que parece venir de la piedra. Ante vosotros se extiende una mesa larga, rodeada de asientos que no forman un hogar común. Aquí cada lugar representa una villa distinta, con sus necesidades y sus agravios. Tras las ventanas, la escarcha vuelve opaca la noche. Imagináis con facilidad lo que cuesta traer comida, aceite o madera hasta esta colina. También comprendéis por qué sus murallas importan a quienes viven lejos de ellas. Si queréis pedir ayuda para más de una comunidad, tendréis que conseguir que lo que ocurre al otro lado del lago deje de parecer un problema ajeno.",
+      "notas": "Cada villa es independiente y elige a su portavoz; el Consejo se reúne con poca frecuencia en este salón para asuntos comunes y disputas entre asentamientos. Bryn Shander empezó como puesto comercial sobre una colina y se convirtió en refugio amurallado para toda Diez Ciudades. Unir intereses mediante hechos comprobados y vínculos puede crear [acuerdo entre villas]; fallar puede generar [cada villa por su cuenta]. Una sesión concreta del Consejo es una propuesta de escena, no un acontecimiento fechado.",
+      "musica": "pueblo",
+      "motivos": [
+        "tension"
+      ],
+      "efectos": [
+        "viento",
+        "pasos"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "alianza frágil",
+        "intereses enfrentados",
+        "refugio amurallado",
+        "recursos disputados"
+      ],
+      "figuras": [
+        "portavoces-y-habitantes-de-diez-ciudades"
+      ]
+    },
+    {
+      "slug": "la-noche-sin-luna",
+      "nombre": "La noche sin luna",
+      "ciudad": "otro",
+      "interior": false,
+      "imagen_en": "Wide establishing view according to the offering: a snow-covered post at a village edge, wooden fish racks a mile from town, or cold chimneys and black windows. Moonless sky in near-black blues, barely visible white surfaces, no people or animals. Leave the lower third open.",
+      "lectura": "Esta noche falta algo más que la luna. El silencio pesa sobre las calles y las puertas parecen cerradas con especial cuidado. Os alcanza el frío incluso al deteneros un momento. Cerca del límite de la villa, la nieve refleja una claridad tan débil que cuesta separar el camino de la tundra. Aquí se ha preparado una ofrenda. Puede ser comida que mañana faltará en las mesas, calor al que nadie se atreve a acercarse o una vida que la comunidad ha decidido entregar. Os encontráis ante una decisión tomada antes de vuestra llegada. Todavía podéis intervenir, pero cualquier gesto tendrá testigos, consecuencias y un precio que alguien intentará cobrar.",
+      "notas": "Hace poco más de un año comenzaron los sacrificios para apaciguar a Auril y recuperar el verano; todos los portavoces los respaldan como un mal necesario. En Bryn Shander, Puerto Este y Targos se sortea una víctima la noche anterior a la luna nueva; otras villas ofrecen la pesca de un día en estantes a una milla del poblado; las que no pueden entregar personas ni comida prohíben encender fuego entre ocaso y alba. Rescatar, persuadir, investigar un sorteo o compartir recursos puede crear [víctima a salvo], [ofrenda sustituida] o [refugio compartido]; el fallo puede activar exposición al frío, perder víveres o provocar violencia. No hay prueba aquí de que los sacrificios funcionen.",
+      "musica": "auril",
+      "motivos": [
+        "horror",
+        "amenaza"
+      ],
+      "efectos": [
+        "viento",
+        "pasos",
+        "campana"
+      ],
+      "ambiente": "dark",
+      "etiquetas": [
+        "luna nueva",
+        "miedo a Auril",
+        "costumbre reciente",
+        "presión de la comunidad",
+        "fuegos prohibidos",
+        "ofrenda expuesta"
+      ],
+      "figuras": [
+        "comunidad-aferrada-al-sacrificio"
+      ]
+    }
+  ],
+  "pnj": [
+    {
+      "slug": "portavoz-crannoc",
+      "nombre": "Portavoz Crannoc",
+      "papel": "Representante de Caer-Dineval, ausente de la vida pública.",
+      "ciudad": "caer-dineval",
+      "aspecto_en": "Full body portrait of an indeterminate-age speaker hidden beneath layers of wool and pelts, with no fixed features beyond a vague silhouette. Heavy winter clothing conceals build, face and hands; a thick hood and scarf obscure identity. Neutral posture, subdued grey and brown palette, soft cold light, ambiguous and unassuming presence.",
+      "presentacion": "No lo veis en público. Si alguien lo menciona, baja la voz y habla de una enfermedad que nadie ha confirmado. Os describen un portavoz que rara vez sale del castillo y cuyas órdenes llegan a través de otros. Cuando preguntáis por él, las respuestas se vuelven vagas y las miradas se desvían hacia el acantilado.",
+      "caracter": "No descrito; la fuente solo recoge comentarios locales sobre una supuesta enfermedad. Puede interpretarse como distante, enfermizo o ausente; no añadas un temperamento fijo ni inventes motivaciones.",
+      "quiere": "No consta en esta fuente.",
+      "sabe": "No se indica qué conoce de las figuras siniestras que frecuentan el castillo.",
+      "desafio": null
+    },
+    {
+      "slug": "trovus",
+      "nombre": "Trovus",
+      "papel": "Portavoz de Caer-Konig, necesitado de ayuda contra los ladrones invisibles.",
+      "ciudad": "caer-konig",
+      "aspecto_en": "Full body portrait of a dragonborn speaker in a thick winter coat and hood adapted to his reptilian head, winter boots and gloves. Age, scale colour and build are unspecified; the clothing and adapted hood are the defining visual notes. Practical cold-weather gear, muted brown and grey palette, guarded but practical expression.",
+      "presentacion": "Os recibe un dracónido envuelto en un abrigo grueso, con una capucha adaptada a su cabeza y guantes de invierno. Sus preguntas son prácticas: qué habéis visto, quién ha hablado, cuándo ocurrieron los robos. No añade un temperamento fijo; la conversación se centra en testigos, daños y el modo de atrapar a los responsables.",
+      "caracter": "No constan; propuesta de interpretación: preguntas prácticas sobre robos y testigos, sin añadir un temperamento fijo.",
+      "quiere": "Atrapar a quienes roban y causan daños en los negocios locales.",
+      "sabe": "Su villa sufre incursiones cuyos responsables no se dejan ver; esta fuente no explica el método ni identifica a los culpables.",
+      "desafio": null
+    },
+    {
+      "slug": "portavoz-masthew",
+      "nombre": "Portavoz Masthew",
+      "papel": "Representante de Termalaine que ha cerrado una mina de gemas.",
+      "ciudad": "termalaine",
+      "aspecto_en": "Full body portrait of an unspecified-age speaker in wool clothing beneath a practical coat, with unfixed features. Simple layered winter garments, sturdy boots and an unremarkable stance convey urgency about miner safety. Muted earth tones, soft cold light, no fixed racial or facial details.",
+      "presentacion": "Os habla de la mina como si el tiempo se acabara. No se detiene en su aspecto ni en su origen; lo urgente es la seguridad de los mineros y la necesidad de despejar el lugar. Su voz puede sonar cansada pero firme cuando menciona la recompensa y la banda de kobolds.",
+      "caracter": "No descritos; puede hablar de la seguridad de los mineros como asunto urgente.",
+      "quiere": "Según el rumor, que se despeje la mina para poder reanudar su actividad.",
+      "sabe": "Se atribuye el cierre a una banda de kobolds que pone en peligro a los mineros; el rumor no detalla sus motivos.",
+      "desafio": null
+    },
+    {
+      "slug": "oyaminartok",
+      "nombre": "Oyaminartok",
+      "papel": "Figura buscada por una expedición vinculada a Targos.",
+      "ciudad": "targos",
+      "aspecto_en": "Full body portrait of a goliath lycanthrope able to adopt polar bear form, in humanoid shape: bulky body wrapped in travel furs, without fixed markings or age. Heavy pelts, broad shoulders and a sturdy stance suggest endurance; face and colour remain unspecified. Cold grey and white palette, practical winter gear, no fixed hostile expression.",
+      "presentacion": "No la veis en estas páginas. La conocéis por el rumor: una goliath que se transforma en osa polar, buscada por una expedición en las laderas de la Cima de Kelvin. Os describen un cuerpo corpulento bajo pieles de viaje, sin marcas particulares, y una historia que todavía no tiene final.",
+      "caracter": "No constan.",
+      "quiere": "No consta.",
+      "sabe": "No consta; el rumor solo sitúa su búsqueda en las laderas de la Cima de Kelvin.",
+      "desafio": null
+    },
+    {
+      "slug": "portavoces-y-habitantes-de-diez-ciudades",
+      "nombre": "Portavoces y habitantes de Diez Ciudades",
+      "papel": "Autoridades electas, posibles anfitriones, trabajadores y fuentes de encargos.",
+      "ciudad": "otro",
+      "aspecto_en": "Full body group portrait of varied northerners in layered wool, furs, hoods and almost hidden faces when outdoors. Mixed ages, builds and origins; immigrant cultures survive in buildings, statues and ornaments. Practical winter clothing, cold grey light, guarded and resilient expressions.",
+      "presentacion": "Os encontráis con vecinos y autoridades elegidos por cada villa, con sus abrigos de lana y piel todavía cubiertos de nieve. Fuera, las capas ocultan casi todo; dentro, cada uno defiende su comunidad con un pragmatismo duro. La acogida, el recelo y la rivalidad se mezclan según el asentamiento y el momento, y ninguna conversación es inocente.",
+      "caracter": "La fuente destaca resistencia y pragmatismo, pero cada villa mezcla acogida, recelo y rivalidad.",
+      "quiere": "Sobrevivir, conservar recursos y proteger su comunidad; todos los portavoces han consentido los sacrificios.",
+      "sabe": "Oficios locales, dificultades de abastecimiento y rumores; no convertir a cualquier habitante en conocedor de todos los secretos regionales.",
+      "desafio": null
+    },
+    {
+      "slug": "otras-figuras-mencionadas",
+      "nombre": "Otras figuras mencionadas",
+      "papel": "Enanos de Bryn Shander que buscan un cargamento; portavoz de Buenagamiel asesinado; capitán de la guardia y mago cautivo del rumor de Puerto Oeste; expedicionarios y pescadores desaparecidos, dos adolescentes de Refugio de Dougan y profesionales de la magia.",
+      "ciudad": "otro",
+      "aspecto_en": "Full body group portrait of unspecified northern figures in practical wool and fur clothing adapted to their trades. Only the dwarf contractors are specified; ages, builds and individual garments remain unfixed. Muted winter palette, cold light, practical poses, no invented distinguishing details.",
+      "presentacion": "Escucháis hablar de enanos contratantes, de un portavoz asesinado, de un capitán de guardia y un mago cautivo, de pescadores y expedicionarios desaparecidos, de dos adolescentes y de profesionales de la magia. Solo sabéis lo que cada rumor recoge; sus nombres y rostros quedan abiertos hasta consultar la sección correspondiente.",
+      "caracter": "No especificados.",
+      "quiere": "Los enanos, recuperar la carga; el capitán, ayuda para otra tarea de relación incierta con el mago. Los deseos de los demás no se detallan.",
+      "sabe": "Únicamente lo recogido en sus respectivos rumores o servicios.",
+      "desafio": null
+    }
+  ],
+  "desafios": [
+    {
+      "slug": "trayecto-bajo-el-invierno-de-auril",
+      "nombre": "Trayecto bajo el invierno de Auril",
+      "nivel": 2,
+      "poderio": [],
+      "roles": [
+        "Obstáculo",
+        "Peligro"
+      ],
+      "aspecto_en": "Wide environmental study of a snowy route between northern settlements: deep snow, half-buried posts, sled runner grooves, wind-driven spindrift and distant dark mountains. An empty sledge and stacked firewood sit beside a small shed. White, brown and grey palette, dim winter light, no people. Strong sense of exposure and effort.",
+      "descripcion": "Frío regional, nieve profunda y transporte entre villas. No representa vencer al invierno entero; activa sus amenazas cuando la ficción las justifique.",
+      "limites": [
+        {
+          "nombre": "trayecto superado",
+          "valor": 4,
+          "consecuencia": "Resuelve la etapa sin eliminar la estación."
+        },
+        {
+          "nombre": "refugio alcanzado",
+          "valor": 3,
+          "consecuencia": "Consigue abrigo."
+        }
+      ],
+      "etiquetas": [
+        "frío persistente",
+        "nieve profunda",
+        "viento sin barreras",
+        "huellas que se borran",
+        "carga difícil de mover"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "El frío encuentra ropa húmeda o protección insuficiente",
+          "descripcion": "Inflige [helado-2]; si continúa la exposición sin protección, aumenta el estado conforme a las reglas de acumulación.",
+          "consecuencias": [
+            "Inflige [helado-2]"
+          ]
+        },
+        {
+          "nombre": "La nieve levantada oculta las referencias",
+          "descripcion": "Inflige [perdido-2]; crea la etiqueta de historia [ruta borrada].",
+          "consecuencias": [
+            "Inflige [perdido-2]",
+            "Crea la etiqueta de historia [ruta borrada]"
+          ]
+        },
+        {
+          "nombre": "Se exige otra etapa a perros que llevan una hora tirando sin parar",
+          "descripcion": "Inflige [agotados-2] al tiro; crea la etiqueta de historia [trineo detenido] si ya no pueden continuar.",
+          "consecuencias": [
+            "Inflige [agotados-2]",
+            "Crea la etiqueta de historia [trineo detenido]"
+          ]
+        },
+        {
+          "nombre": "La carga frena la marcha por nieve profunda",
+          "descripcion": "Inflige [exhausto-2] a quien abre paso; crea la etiqueta de historia [carga atascada].",
+          "consecuencias": [
+            "Inflige [exhausto-2]",
+            "Crea la etiqueta de historia [carga atascada]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y vías de resolución",
+          "descripcion": "La ropa invernal completa y seca evita la amenaza ordinaria del frío extremo mientras siga seca. Las raquetas ayudan a repartir el peso sobre nieve profunda; los picos de hacha corren por ella gracias a sus garras extendidas. Orientarse con conocimiento local puede crear [ruta reconocida]. Una parada protegida permite atender al tiro; un descanso en el campamento con abrigo, combustible y cuidados permite recuperarse según la ficción y las reglas de LitM. No todas las paradas de los perros equivalen a un descanso en el campamento de los Héroes."
+        }
+      ]
+    },
+    {
+      "slug": "hielo-y-aguas-de-los-lagos",
+      "nombre": "Hielo y aguas de los lagos",
+      "nivel": 2,
+      "poderio": [],
+      "roles": [
+        "Obstáculo",
+        "Peligro"
+      ],
+      "aspecto_en": "Wide environmental study of a dangerous frozen lake: jagged ice floes, black open channels, wind-rippled water, frost-rimed dock pilings and a fragile wooden boat. Low fog and drifting snow. Pewter, slate and deep blue palette, dim winter light, no people. Treacherous and cold.",
+      "descripcion": "Pesca sobre hielo, aguas abiertas y embarcaciones de las villas. El hielo fino y sus efectos son una aplicación ambiental de la conversión.",
+      "limites": [
+        {
+          "nombre": "travesía resuelta",
+          "valor": 4,
+          "consecuencia": "La travesía queda resuelta."
+        },
+        {
+          "nombre": "orilla segura",
+          "valor": 3,
+          "consecuencia": "El grupo alcanza una orilla segura."
+        }
+      ],
+      "etiquetas": [
+        "agua helada",
+        "hielo discontinuo",
+        "viento sobre el lago",
+        "botes pequeños inestables",
+        "franjas de agua abierta"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "La superficie cede bajo un paso mal elegido",
+          "descripcion": "Inflige [empapado-2]; si el Héroe queda bajo el agua, inflige [ahogándose-2].",
+          "consecuencias": [
+            "Inflige [empapado-2]",
+            "Inflige [ahogándose-2]"
+          ]
+        },
+        {
+          "nombre": "Una ráfaga o una maniobra brusca vence al bote",
+          "descripcion": "Crea la etiqueta de historia [embarcación volcada]; deja [equipo a la deriva].",
+          "consecuencias": [
+            "Crea la etiqueta de historia [embarcación volcada]",
+            "Deja [equipo a la deriva]"
+          ]
+        },
+        {
+          "nombre": "El viento y el oleaje separan al grupo de su destino",
+          "descripcion": "Inflige [desviado-2]; crea la etiqueta de historia [desembarco inaccesible].",
+          "consecuencias": [
+            "Inflige [desviado-2]",
+            "Crea la etiqueta de historia [desembarco inaccesible]"
+          ]
+        },
+        {
+          "nombre": "La humedad queda atrapada en la ropa",
+          "descripcion": "Crea la etiqueta de historia [abrigo mojado]; una exposición posterior sin secarse puede infligir [helado-2].",
+          "consecuencias": [
+            "Crea la etiqueta de historia [abrigo mojado]",
+            "Puede infligir [helado-2]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y vías de resolución",
+          "descripcion": "Los surtidores termales impiden suponer que todo el lago sea transitable. Los crampones evitan resbalar sobre hielo firme, pero no impiden que se rompa. Los barcos grandes soportan mejor viento y olas. Maer Dualdon destaca por profundidad y pesca, Aguas Rojizas por su congelación casi completa y Lac Dinneshere por los vientos del Glaciar Reghed. Son diferencias útiles para elegir etiquetas y amenazas, no tres peligros idénticos."
+        }
+      ]
+    },
+    {
+      "slug": "comunidad-aferrada-al-sacrificio",
+      "nombre": "Comunidad aferrada al sacrificio",
+      "nivel": 2,
+      "poderio": [],
+      "roles": [
+        "Obstáculo"
+      ],
+      "aspecto_en": "Wide environmental study of a moonless winter night in a northern settlement: a snow-covered post at the village edge, dark racks of fish a mile away, or black windows and cold chimneys. Near-black blue sky, barely visible white surfaces, no people or animals. Oppressive silence and communal dread.",
+      "descripcion": "Práctica colectiva de sacrificio para apaciguar a Auril. Es un desafío social; la agresión representa la violencia explícita contra quien enciende fuego durante la renuncia al calor.",
+      "limites": [
+        {
+          "nombre": "convencida",
+          "valor": 4,
+          "consecuencia": "La comunidad acepta la alternativa o suspende la ofrenda local esa noche."
+        },
+        {
+          "nombre": "alternativa aceptada",
+          "valor": 3,
+          "consecuencia": "La ofrenda se sustituye por la alternativa propuesta."
+        }
+      ],
+      "etiquetas": [
+        "terror a Auril",
+        "respaldo del portavoz",
+        "mal necesario",
+        "presión vecinal",
+        "desesperación compartida"
+      ],
+      "rasgos": [],
+      "amenazas": [
+        {
+          "nombre": "La comunidad consuma el sacrificio humano al ocaso",
+          "descripcion": "Crea la etiqueta de historia [víctima expuesta a la tundra]; la exposición sin rescate inflige [helado-3] a la víctima y, si nadie la socorre, termina causándole la muerte.",
+          "consecuencias": [
+            "Crea la etiqueta de historia [víctima expuesta a la tundra]",
+            "Inflige [helado-3]"
+          ]
+        },
+        {
+          "nombre": "Los defensores de la prohibición atacan a quien enciende fuego",
+          "descripcion": "Inflige [herido-2]; crea la etiqueta de historia [refugio hostil].",
+          "consecuencias": [
+            "Inflige [herido-2]",
+            "Crea la etiqueta de historia [refugio hostil]"
+          ]
+        },
+        {
+          "nombre": "La entrega de alimentos agota recursos que hacían falta",
+          "descripcion": "Crea la etiqueta de historia [despensa menguada]; si no hay sustitución, inflige [hambrienta-2] a la comunidad afectada.",
+          "consecuencias": [
+            "Crea la etiqueta de historia [despensa menguada]",
+            "Inflige [hambrienta-2]"
+          ]
+        },
+        {
+          "nombre": "Se señala a quienes se oponen como responsables de futuras desgracias",
+          "descripcion": "Crea la etiqueta de historia [culpados por desafiar a Auril]; dificulta encontrar apoyo mientras esa acusación tenga peso.",
+          "consecuencias": [
+            "Crea la etiqueta de historia [culpados por desafiar a Auril]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Debilidades y vías de resolución",
+          "descripcion": "La práctica es reciente. Los portavoces no la consideran un fin en sí mismo y la abandonarían si hubiese una solución al invierno. Las acusaciones de amaño ofrecen líneas de investigación, pero no demuestran que un sorteo concreto esté manipulado. Pruebas, vínculos, alimento compartido y una alternativa creíble pueden alcanzar sus límites. Vencer este desafío resuelve la decisión local; no persuade automáticamente a las otras nueve villas ni a Auril."
+        }
+      ]
+    }
+  ],
+  "objetos": [
+    {
+      "slug": "ropa-para-climas-frios",
+      "nombre": "Ropa para climas fríos",
+      "etiqueta": "ropa invernal completa",
+      "descripcion": "Abrigo o capa de piel sobre lana, gorro o capucha forrados, gafas, botas y guantes de cuero con forro de piel. Mientras esté seca, protege de la exposición ordinaria al frío extremo. No evita ahogarse ni sustituye el secado después de caer al agua. Etiqueta de mochila.",
+      "imagen_en": "A full set of cold weather clothing laid flat: fur lined coat over wool, hood or cap, goggles, leather boots and fur lined gloves. Isolated on a neutral background, muted brown and ivory textures, soft cold light, practical northern expedition gear."
+    },
+    {
+      "slug": "crampones",
+      "nombre": "Par de crampones",
+      "etiqueta": "crampones",
+      "descripcion": "Placas metálicas con púas sujetas a las botas; impiden caer por resbalones al desplazarse sobre hielo. No aseguran el espesor de la superficie. Etiqueta de mochila.",
+      "imagen_en": "A pair of metal crampons with sharp spikes and leather straps for boots. Isolated object on a neutral background, cold steel and worn leather, soft winter light, no lettering."
+    },
+    {
+      "slug": "raquetas-de-nieve",
+      "nombre": "Par de raquetas",
+      "etiqueta": "raquetas de nieve",
+      "descripcion": "Facilitan avanzar sobre nieve profunda y evitan hundirse tanto como con botas solas. Etiqueta de mochila.",
+      "imagen_en": "A pair of traditional snowshoes with wooden frames and woven webbing, dusted with frost. Isolated on a neutral background, warm wood and pale cord, soft cold light."
+    },
+    {
+      "slug": "utiles-de-pesca",
+      "nombre": "Útiles de pesca",
+      "etiqueta": "equipo de pesca",
+      "descripcion": "Permiten intentar obtener truchas donde haya acceso al agua; no garantizan captura ni seguridad. Etiqueta de mochila.",
+      "imagen_en": "A compact set of fishing tackle: coiled line, hooks, weights and a small knife on a neutral background. Worn practical materials, cold light, no lettering."
+    },
+    {
+      "slug": "trineo-de-madera",
+      "nombre": "Trineo de madera",
+      "etiqueta": "trineo de carga",
+      "descripcion": "Vehículo voluminoso, pesado incluso vacío, con puesto trasero para el conductor. Requiere tiro adecuado; no puede tratarse como un pequeño objeto llevado a la espalda. Etiqueta de historia o de mochila.",
+      "imagen_en": "A heavy wooden sled with raised runner edges and a rear driver position, isolated against a neutral background. Frost on the timber, practical northern construction, no load."
+    },
+    {
+      "slug": "tiro-de-perros",
+      "nombre": "Tiro de perros",
+      "etiqueta": "perros de trineo",
+      "descripcion": "Transportan mercancías y equipo cuando su fuerza conjunta basta para la carga. Necesitan una parada tras cada hora de tiro; si se los fuerza, reciben [agotados-2]. No se convierten en una manada hostil por estar presentes. Etiqueta de mochila o Compañía.",
+      "imagen_en": "A team of thick-coated sled dogs in leather harnesses, standing together in snow. Isolated group on a neutral background, attentive expressions, practical winter gear, no sledge."
+    },
+    {
+      "slug": "pico-de-hacha-domesticado",
+      "nombre": "Pico de hacha domesticado",
+      "etiqueta": "pico de hacha de carga",
+      "descripcion": "Transporta aproximadamente lo que una mula y se mueve por nieve gracias a sus garras extendidas. No se presenta como enemigo. Etiqueta de mochila o Compañía.",
+      "imagen_en": "A sturdy axebeak-like beast of burden with extended claws and a heavy pack harness, isolated against a neutral background. Muted feathers and practical winter tack, calm posture, no aggression."
+    },
+    {
+      "slug": "lena",
+      "nombre": "Leña",
+      "etiqueta": "reserva de leña",
+      "descripcion": "Combustible accesible sobre todo junto a los bosques de Buenagamiel, Bosque Solitario y Termalaine. Su consumo o pérdida depende de las etapas y escenas. Etiqueta de mochila.",
+      "imagen_en": "A neatly stacked bundle of firewood logs tied with cord, dusted with snow. Isolated on a neutral background, warm brown wood tones, soft cold light."
+    },
+    {
+      "slug": "aceite-de-ballena",
+      "nombre": "Aceite de ballena",
+      "etiqueta": "aceite para lámparas y hornillos",
+      "descripcion": "Proporciona luz y calor con aparatos adecuados. Vincula el abastecimiento a los balleneros del Mar de Hielo Movedizo. Etiqueta de mochila.",
+      "imagen_en": "A sealed clay or metal flask of whale oil beside a simple lamp, isolated on a neutral background. Amber liquid, worn container, soft cold light, practical northern fuel."
+    },
+    {
+      "slug": "objeto-magico-comun",
+      "nombre": "Objeto mágico común",
+      "etiqueta": "objeto mágico común: efecto acordado",
+      "descripcion": "Hay que definir un efecto pequeño antes de adquirirlo; no concede cualquier poder a elección durante una escena. Etiqueta de mochila.",
+      "imagen_en": "A small unidentified magical trinket, such as a carved bone charm or simple ring, isolated on a neutral background. Faint arcane shimmer, worn materials, soft cold light, no readable symbols."
+    },
+    {
+      "slug": "pocion-de-curacion",
+      "nombre": "Poción de curación",
+      "etiqueta": "poción de curación",
+      "descripcion": "Beberla o administrarla permite tratar un estado de lesión apropiado; acuerda su reducción con el Narrador conforme al alcance de la herida. No elimina automáticamente cualquier estado ni restaura recursos numéricos ajenos a LitM. Etiqueta de mochila consumible.",
+      "imagen_en": "A small glass vial of clear healing liquid with a cork stopper, isolated on a neutral background. Soft warm light through the glass, frost on the outside, no label."
+    },
+    {
+      "slug": "servicio-magico-pactado",
+      "nombre": "Servicio druídico, sacerdotal o arcano",
+      "etiqueta": "servicio mágico pactado",
+      "descripcion": "Etiqueta de historia con un efecto concreto acordado antes de usarlo. Favores menores cubren ayuda sencilla; efectos más exigentes requieren compromisos mayores y cualquier ingrediente raro debe conseguirse aparte. Esta ficha no inventa un catálogo ni garantiza un efecto específico.",
+      "imagen_en": "A symbolic still life of a small offering bowl, bundled herbs and a simple ritual candle on a neutral background. Muted natural materials, soft cold light, no text, no fixed religious icon."
+    }
+  ],
+  "ayudas": [
+    {
+      "slug": "rumores-de-diez-ciudades",
+      "titulo": "Rumores de Diez Ciudades",
+      "tipo": "nota",
+      "texto": "Rumores para entregar a los jugadores\n\n1. Bremen: una criatura de Maer Dualdon aterroriza a los pescadores de Bremen. Resulta llamativo que no se hable de ataques a las otras villas del mismo lago.\n2. Bryn Shander: unos enanos ofrecen una recompensa importante por localizar un cargamento perdido. El encargo local identifica la carga como lingotes de hierro.\n3. Caer-Dineval: hace tiempo que no se ve a Crannoc. Se dice que está enfermo, mientras figuras inquietantes entran y salen del castillo a horas extrañas.\n4. Caer-Konig: los negocios sufren robos y destrozos sin que se vea a los responsables. Trovus, el portavoz dracónido, necesita ayuda.\n5. Refugio de Dougan: merodean lobos invernales del tamaño de caballos y más inteligentes que los lobos corrientes. La misión local implica a dos de ellos y a dos adolescentes desaparecidos.\n6. Puerto Oeste, según el texto: han capturado a un mago acusado de matar a varios aventureros. La milicia pretende quemarlo; el capitán de la guardia busca ayuda para otra tarea que quizá guarde relación con él.\n7. Buenagamiel: un gigante de unos dos metros setenta mató al portavoz y robó un cargamento de hidromiel. Varias tabernas podrían quedarse sin suministro.\n8. Bosque Solitario: el Alce Blanco ataca a leñadores y tramperos en cuanto los ve. Ni los mejores cazadores han logrado atraparlo o matarlo.\n9. Targos: una banda prepara una expedición a la Cima de Kelvin para buscar a Oyaminartok, una goliath que se transforma en osa polar. Todavía podría ser posible unirse.\n10. Termalaine: Masthew ha cerrado una mina de gemas porque una banda de kobolds amenaza a los mineros. Se promete una recompensa a quien despeje el lugar.\n\nDiscrepancia de topónimos: la lista inicial sitúa «Esfuerzos y Problemas» en Puerto Este, pero el sexto rumor dice Puerto Oeste. Conserva ambas referencias al contrastar las secciones posteriores.\nDiscrepancia temporal: el rumor de Targos invita a incorporarse a una expedición, mientras el encargo trata de buscarla cuando ya ha desaparecido. El Narrador debe ajustar el momento en que circula la noticia.",
+      "fondo_en": "A blank sheet of rough parchment with worn edges and faint folds, resting flat under soft neutral light. Empty writing area, no text, no symbols, no illustrations."
+    },
+    {
+      "slug": "codigo-de-los-copos",
+      "titulo": "Código de los copos",
+      "tipo": "cartel",
+      "texto": "Código de los copos\n\nLos copos valoran servicios y trato, no el nivel del desafío. Las puntuaciones concretas de cada villa no aparecen en estas páginas.\n\nAmabilidad\n- Un copo: predominan la reserva y el rechazo a colaborar.\n- Dos copos: conviven personas acogedoras y recelosas.\n- Tres copos: predomina la disposición amistosa a ayudar.\n\nServicios\n- Un copo: resulta difícil encontrar casi cualquier servicio.\n- Dos copos: la oferta es reducida.\n- Tres copos: hay más probabilidades de encontrar lo necesario.\n\nComodidad\n- Un copo: apenas un ático o cobertizo helado para dormir.\n- Dos copos: puede haber taberna y posada con habitaciones llenas de corrientes.\n- Tres copos: comida y bebida decentes, cama cálida.\n\nPuede entregarse como ayuda una hoja con este código, el equipo de viaje y los rumores conocidos.",
+      "fondo_en": "An empty weathered wooden board with a simple carved border and a pale prepared surface. Isolated frontal view, frost on the edges, no lettering, no symbols or painted design."
+    }
+  ],
+  "hitos": [
+    "Primera misión resuelta: un hito vinculado a las Gestas que realmente hayan avanzado.",
+    "Tras tres misiones completadas: [respeto en Diez Ciudades] entre quienes conozcan sus hazañas.",
+    "Tras cinco misiones completadas: [bienvenida de héroes] en las villas a las que hayan ayudado."
+  ],
+  "relojes": []
+}

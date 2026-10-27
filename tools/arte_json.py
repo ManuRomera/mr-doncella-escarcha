@@ -6,7 +6,7 @@ ROOT=Path(__file__).resolve().parents[1];cfg=json.loads((ROOT/'docs/arte.json').
 S="Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. "
 T=("Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. ","Isolated on genuine transparent background, no floor, no scenery, no shadow.")
 add=lambda i:(cfg['imagenes'].append(i),have.add(i['id'])) if i['id'] not in have else None
-for f in sorted((ROOT/'content/cap1').glob('*.json')):
+for f in sorted(ROOT.glob('content/cap*/*.json')):
  J=json.loads(f.read_text())
  for e in J.get('escenas',[]):add({'id':e['slug'],'tipo':'escena','size':'1536x1024','prompt':S+e['imagen_en']})
  for n in J.get('pnj',[]):add({'id':'pnj-'+n['slug'],'tipo':'token','size':'1024x1536','prompt':T[0]+n['aspecto_en']+' Cold-weather clothing for an arctic frontier town. '+T[1]})

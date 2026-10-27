@@ -12,7 +12,11 @@ def valida(path, size):
     except Exception: return False
     rw, rh = map(int, size.split("x")); return min(w, h) >= 900 and abs(w / h - rw / rh) < 0.2
 
+LIMITE = False
+
 def one(it, estilo):
+    global LIMITE
+    if LIMITE: return "SKIP %s (cuota)" % it["id"]
     out = os.path.join("art", "new", it["id"] + ".png")
     extra = " The background MUST be genuinely transparent (alpha channel), PNG with no backdrop." if it["tipo"] == "token" else ""
     prompt = ("Usa tu herramienta de generación de imágenes para crear UNA sola imagen, tamaño %s. Descripción: %s Estilo: %s%s\n"
@@ -25,6 +29,7 @@ def one(it, estilo):
         p = os.path.join(ROOT, out)
         if os.path.exists(p) and not valida(p, it["size"]): os.remove(p)
         if os.path.exists(p): return "OK  %-16s %4.0fs" % (it["id"], time.time() - t0)
+    if "usage limit" in (r.stdout + r.stderr): LIMITE = True
     return "ERR %-16s %s" % (it["id"], (r.stdout + r.stderr)[-300:].replace("\n", " "))
 
 if __name__ == "__main__":
@@ -35,4 +40,4 @@ if __name__ == "__main__":
     print("pendientes:", len(todo), flush=True)
     with ThreadPoolExecutor(a.jobs) as ex:
         for res in ex.map(lambda it: one(it, cfg["estilo"]), todo): print(res, flush=True)
-    print("Hecho")
+    print("LIMITE" if LIMITE else "Hecho"); raise SystemExit(3 if LIMITE else 0)

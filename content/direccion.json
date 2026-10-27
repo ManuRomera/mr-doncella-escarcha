@@ -2,7 +2,7 @@
  "schema": 1,
  "id": "mr-doncella-escarcha",
  "title": "MR- La Rima de la Doncella de la Escarcha",
- "version": "0.1.0",
+ "version": "0.1.1",
  "author": "Manu Romera",
  "license": "Uso privado",
  "settings": {
@@ -204,12 +204,310 @@
    }
   ],
   "markers": {
-   "milestones": [],
+   "milestones": [
+    {
+     "id": "e7fd8b3947",
+     "label": "Bienvenidos al helado norte: Ayudar a una comunidad y ganar hospitalidad o provisiones compartidas."
+    },
+    {
+     "id": "8a790bf85f",
+     "label": "Bienvenidos al helado norte: Sobrevivir al trayecto y auxiliar a los rezagados, ganando ruta reconocida y confianza de la Compañía."
+    },
+    {
+     "id": "d06aa407c0",
+     "label": "Bienvenidos al helado norte: Revelar un secreto y generar un aliado inesperado o una persecución concreta."
+    },
+    {
+     "id": "ebacb34e08",
+     "label": "Bienvenidos al helado norte: Interrumpir la recogida de cristal y obtener una pista del proyecto duergar o una ruta hacia la fortaleza."
+    },
+    {
+     "id": "82f83c8011",
+     "label": "Bienvenidos al helado norte: Obtener el Codicilo Blanco y el orbe, ganando la clave del glaciar y un pacto con Vellynne."
+    },
+    {
+     "id": "d95901120e",
+     "label": "Bienvenidos al helado norte: Contrarrestar la Helada Eterna mediante el mythallar o enfrentarse a Auril."
+    },
+    {
+     "id": "511b06886e",
+     "label": "Diez Ciudades: Primera misión resuelta"
+    },
+    {
+     "id": "6f977076ba",
+     "label": "Diez Ciudades: Tras tres misiones completadas"
+    },
+    {
+     "id": "b405f95c41",
+     "label": "Diez Ciudades: Tras cinco misiones completadas"
+    },
+    {
+     "id": "fdc5c57ce1",
+     "label": "Asesino de frío corazón: El cazador y la presa"
+    },
+    {
+     "id": "36f0f22767",
+     "label": "Asesino de frío corazón: Corazón de hielo"
+    },
+    {
+     "id": "51faa2f670",
+     "label": "Asesino de frío corazón: La verdad bajo la nieve"
+    },
+    {
+     "id": "a17257c321",
+     "label": "Asesino de frío corazón: Justicia en el valle"
+    },
+    {
+     "id": "3175c74d59",
+     "label": "Asesino de frío corazón: Un favor en el frío"
+    },
+    {
+     "id": "7b30ffc0a1",
+     "label": "Espíritus de la naturaleza: Primer contacto con los espíritus"
+    },
+    {
+     "id": "1cb8bd5426",
+     "label": "Espíritus de la naturaleza: Un amigo en el valle"
+    },
+    {
+     "id": "4996e04ac5",
+     "label": "Espíritus de la naturaleza: La linterna verde"
+    },
+    {
+     "id": "86d3a97520",
+     "label": "Espíritus de la naturaleza: Tratar al chwinga como a un igual y ganar amigo del valle como etiqueta de Compañía."
+    },
+    {
+     "id": "00baf90660",
+     "label": "Bremen: El monstruo que hablaba"
+    },
+    {
+     "id": "db639fc4f8",
+     "label": "Bremen: La verdad de Ravisin"
+    },
+    {
+     "id": "2e5c34ed62",
+     "label": "Bremen: Un pueblo que respira"
+    },
+    {
+     "id": "bce97e548a",
+     "label": "Bremen: El hijo perdido"
+    },
+    {
+     "id": "3993a7cc99",
+     "label": "Bryn Shander: El trineo de Battlehammer"
+    },
+    {
+     "id": "ef9fa45198",
+     "label": "Bryn Shander: Piedad en la tundra"
+    },
+    {
+     "id": "f38a81d10d",
+     "label": "Bryn Shander: Los osos liberados"
+    },
+    {
+     "id": "330e4098fc",
+     "label": "Bryn Shander: La amistad de los enanos"
+    },
+    {
+     "id": "e466fdb1a6",
+     "label": "Bryn Shander: La copla del pez"
+    },
+    {
+     "id": "cdc1062cb4",
+     "label": "Bryn Shander: Aceptar buscar a Macreadus y seguir la pista de Cobre hacia la Cabaña Negra."
+    },
+    {
+     "id": "54270d443d",
+     "label": "Bryn Shander: Recuperar el anillo del Cazador del Anillo, si corresponde al secreto de un Héroe."
+    },
+    {
+     "id": "db2217eda4",
+     "label": "Caer-Dineval: El portavoz recuperado"
+    },
+    {
+     "id": "bddbdb43f8",
+     "label": "Caer-Dineval: La profecía de la escarcha"
+    },
+    {
+     "id": "785de493ec",
+     "label": "Caer-Dineval: Los amos del Caer"
+    },
+    {
+     "id": "c02b9f2d21",
+     "label": "Caer-Dineval: Bajo el hielo"
+    },
+    {
+     "id": "5df37e6560",
+     "label": "Caer-Dineval: La espada de chardalyn"
+    },
+    {
+     "id": "f2e9f7e106",
+     "label": "Caer-Dineval: Liberar a los cinco sirvientes y obtener su ayuda."
+    },
+    {
+     "id": "f4f88d742c",
+     "label": "Caer-Dineval: Descubrir y derrotar o capturar a los seis duergar."
+    },
+    {
+     "id": "17b4d4bed6",
+     "label": "Caer-Dineval: Convertir el Caer en una base de la Compañía mediante una alianza o la restitución de Crannoc."
+    },
+    {
+     "id": "7e6c95162b",
+     "label": "Caer-Konig: Los Invisibles: Recuperar los bienes robados y devolverlos a sus dueños."
+    },
+    {
+     "id": "c69fa31987",
+     "label": "Caer-Konig: Los Invisibles: Descubrir el puesto avanzado de los duergar y neutralizarlo."
+    },
+    {
+     "id": "6f2f29b7e1",
+     "label": "Caer-Konig: Los Invisibles: Rescatar o vengar a los cautivos de las celdas."
+    },
+    {
+     "id": "3b235fab2f",
+     "label": "Caer-Konig: Los Invisibles: Obtener la carta de Durth y seguir la pista del ferry de Puerto Este."
+    },
+    {
+     "id": "0cac142412",
+     "label": "Caer-Konig: Los Invisibles: Ganarse la confianza y la hospitalidad de Caer-Konig."
+    },
+    {
+     "id": "b1aa2f8e29",
+     "label": "Caer-Konig: Los Invisibles: Interrogar a Nildar y revelar la amenaza del dragón de chardalyn."
+    },
+    {
+     "id": "9ecbe1b6e3",
+     "label": "Caer-Konig: Los Invisibles: Asegurar una ruta segura por la Cumbre de Kelvin con Jarthra."
+    },
+    {
+     "id": "8358dd99dd",
+     "label": "Refugio de Dougan: Atrapados: Rescatar a Silja y Finn y devolverlos a su madre."
+    },
+    {
+     "id": "ec8b6b74d9",
+     "label": "Refugio de Dougan: Atrapados: Obtener las botas de tierras invernales como recompensa."
+    },
+    {
+     "id": "331b66ed84",
+     "label": "Refugio de Dougan: Atrapados: Descubrir que Garagai lleva tiempo muerto y desmentir a los lobos."
+    },
+    {
+     "id": "a316c81ba9",
+     "label": "Refugio de Dougan: Atrapados: Negociar o derrotar a Norsu sin perder la vida del grupo."
+    },
+    {
+     "id": "fdc0922ab3",
+     "label": "Refugio de Dougan: Atrapados: Recuperar aceite, thrym o la talla de marfil como recursos valiosos."
+    },
+    {
+     "id": "4c57a59a8a",
+     "label": "Refugio de Dougan: Atrapados: Garantizar un descanso seguro tras el regreso."
+    },
+    {
+     "id": "a6b82099bf",
+     "label": "Puerto Este: Informe sobre los pescadores"
+    },
+    {
+     "id": "d2dba91a01",
+     "label": "Puerto Este: Maud derrotada"
+    },
+    {
+     "id": "d29e72d129",
+     "label": "Puerto Este: Maud liberada"
+    },
+    {
+     "id": "3c118c4592",
+     "label": "Puerto Este: Caldero compartido"
+    },
+    {
+     "id": "ed8d777123",
+     "label": "Puerto Este: Robo zhentarim impedido"
+    },
+    {
+     "id": "19f02a0154",
+     "label": "Puerto Este: Duergar detenidos"
+    },
+    {
+     "id": "00341ecc80",
+     "label": "Puerto Este: Fragmentos devueltos"
+    },
+    {
+     "id": "c7b33f8346",
+     "label": "Puerto Este: La Dama"
+    },
+    {
+     "id": "2ac40f9e33",
+     "label": "Puerto Este: Salvar a un anfitrión poseído puede ser un hito de una Gesta vinculada al cuidado o al valor."
+    },
+    {
+     "id": "a772e90dd6",
+     "label": "Puerto Este: Descubrir y neutralizar el mascarón profanado sin caer en [paranoia de Auril-3]."
+    },
+    {
+     "id": "8cb6db7c98",
+     "label": "Bosque Solitario: El Alce Blanco: Proteger a los leñadores de Bosque Solitario y recuperar la tala."
+    },
+    {
+     "id": "71b067251c",
+     "label": "Bosque Solitario: El Alce Blanco: Detener la campaña de Ravisin y evitar nuevas bestias despertadas."
+    },
+    {
+     "id": "9879d10b43",
+     "label": "Bosque Solitario: El Alce Blanco: Salvar al arbusto despertado y obtener su testimonio."
+    },
+    {
+     "id": "76ba09cca1",
+     "label": "Bosque Solitario: El Alce Blanco: Descubrir la verdad sobre la muerte de Vurnis."
+    },
+    {
+     "id": "aaf841f625",
+     "label": "Bosque Solitario: El Alce Blanco: Devolver hospitalidad a la comunidad, restaurando La Desvencijada."
+    },
+    {
+     "id": "1bd9d6ccbe",
+     "label": "Targos: escalando la Cumbre de Kelvin: Recuperar a Garret vivo y reunirlo con Keegan."
+    },
+    {
+     "id": "a073b51355",
+     "label": "Targos: escalando la Cumbre de Kelvin: Devolver el cuerpo de Garret a Keegan si muere."
+    },
+    {
+     "id": "45cead6686",
+     "label": "Targos: escalando la Cumbre de Kelvin: Rescatar a Perilou y ayudarla a regresar a Diez Ciudades."
+    },
+    {
+     "id": "3204cce799",
+     "label": "Targos: escalando la Cumbre de Kelvin: Averiguar el destino de Mokingo y Astrix."
+    },
+    {
+     "id": "87704f8b59",
+     "label": "Targos: escalando la Cumbre de Kelvin: Negociar un paso seguro con la familia de yetis."
+    },
+    {
+     "id": "e3811d5675",
+     "label": "Targos: escalando la Cumbre de Kelvin: Recuperar la poción, el grimorio y el equipo de la montaña."
+    },
+    {
+     "id": "950d1c90cd",
+     "label": "Targos: escalando la Cumbre de Kelvin: Cumplir la promesa de buscar a todos los compañeros."
+    },
+    {
+     "id": "9ce509e22a",
+     "label": "Targos: escalando la Cumbre de Kelvin: Descubrir las conexiones de Naerth con los Zhentarim, si se investiga."
+    }
+   ],
    "clocks": [
     {
      "id": "helor",
      "label": "La Helor Eterna (próxima luna nueva)",
      "segments": 6
+    },
+    {
+     "id": "0100f1e65f",
+     "label": "Búsqueda de chwingas: cada nueva ciudad añade una posibilidad de cada cuatro; en la cuarta la presencia es segura",
+     "segments": 4
     }
    ]
   }
@@ -220,10 +518,875 @@
     "flag": [
      "mr-doncella-escarcha",
      "slug",
-     "la-taberna-y-la-propuesta-de-hlin"
+     "la-aurora-que-impide-el-amanecer"
     ]
    },
    "order": 0,
+   "name": "La aurora que impide el amanecer",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "noche"
+    ]
+   },
+   "motifs": [
+    "misterio"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    }
+   ],
+   "ambient": "dark",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "auril"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Auril vuela cada noche sobre un roc blanco para renovar su conjuro; la aurora se extingue antes del alba. Observar el ciclo con astronomía o saber religioso puede crear [ritmo de la aurora registrado]; un fallo cuesta tiempo y exposición al frío. Los habitantes conocen la furia de Auril, pero ignoran su motivo y la inacción de los otros dioses.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "el-abrigo-precario-de-diez-ciudades"
+    ]
+   },
+   "order": 1,
+   "name": "El abrigo precario de Diez Ciudades",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "pueblo"
+    ]
+   },
+   "motifs": [
+    "tension"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hogar"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-cruje"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [],
+   "handouts": [],
+   "notes": "Elegid una necesidad local que conecte con una Gesta. Ayudar con oficio, comunidad o cuidado puede generar [hospitalidad ganada] o [provisiones compartidas]; si fracasan, concretad una carencia o retraso como [despensa insuficiente] o [encargo pendiente]. Beldora puede dar dirección a la Compañía si existe el vínculo arpista.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "la-marcha-por-la-tundra"
+    ]
+   },
+   "order": 2,
+   "name": "La marcha por la tundra",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "camino"
+    ]
+   },
+   "motifs": [
+    "persecucion"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [],
+   "handouts": [],
+   "notes": "Antes de salir, estableced distancia, carga, método de viaje, provisiones y refugio previsto. Los perros aceleran la marcha, pero necesitan alimento, agua y cobijo. Resolver una marcha peligrosa con orientación, raquetas y conocimiento local puede crear [ruta segura]; el fallo genera [retrasados] o [perdido-2] y exposición adicional.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "la-ventisca-cierra-el-mundo"
+    ]
+   },
+   "order": 3,
+   "name": "La ventisca cierra el mundo",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "noche"
+    ]
+   },
+   "motifs": [
+    "amenaza",
+    "ventisca-m"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-cruje"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [],
+   "handouts": [],
+   "notes": "Una ventisca habitual dura entre dos y ocho horas; lo más prudente es construir o buscar abrigo y esperar. Si continúan, designan guía y resuelven cada hora de avance relevante. Éxito: [rumbo conservado]. Fallo: no acortan la distancia y reciben [perdido-2]; una consecuencia más grave separa a alguien si no van atados. Las cuerdas impiden esa separación, pero no resuelven la navegación.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "el-lago-bajo-los-pies"
+    ]
+   },
+   "order": 4,
+   "name": "El lago bajo los pies",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "lago"
+    ]
+   },
+   "motifs": [
+    "misterio"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "lago-sfx"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-cruje"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [],
+   "handouts": [],
+   "notes": "Se necesitan aparejos y barca, o una sierra equivalente para abrir el hielo; pueden obtenerse mediante préstamo o trabajo. Cada hora de pesca permite buscar una captura. Un éxito localiza y engancha una trucha; después hay que dominarla. Capturarla concede [pescado para compartir]. En Maer Dualdon puede aparecer el anillo del secreto correspondiente.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "el-paso-de-montana-y-la-avalancha"
+    ]
+   },
+   "order": 5,
+   "name": "El paso de montaña y la avalancha",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "camino"
+    ]
+   },
+   "motifs": [
+    "amenaza",
+    "ventisca-m"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-rompe"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "rugido"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [],
+   "handouts": [],
+   "notes": "La Columna del Mundo y las laderas de Kelvin requieren guía y revisión del rumbo en cada hora peligrosa. Un éxito conserva la ruta; un fallo lleva a un paso muerto y cuesta una hora adicional; un fallo grave puede desencadenar una avalancha al retroceder. Usad el desafío de avalancha y después las acciones de rescate.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "el-glaciar-que-oculta-ythryn"
+    ]
+   },
+   "order": 6,
+   "name": "El glaciar que oculta Ythryn",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "valle"
+    ]
+   },
+   "motifs": [
+    "misterio"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-cruje"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [],
+   "handouts": [],
+   "notes": "Reservad esta escena para cuando los Héroes tengan motivos para llegar aquí. Ythryn cayó hace casi dos mil años y permanece enterrada; para abrir el paso necesitan el poema del Codicilo Blanco, guardado en la isla de Auril. Investigar sin la clave puede dar [entrada aún sellada] y [buscamos el Codicilo Blanco].",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "llegada-a-una-villa-bajo-la-aurora"
+    ]
+   },
+   "order": 7,
+   "name": "Llegada a una villa bajo la aurora",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "noche"
+    ]
+   },
+   "motifs": [
+    "tension",
+    "misterio"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "puerta"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [],
+   "handouts": [],
+   "notes": "Presenta la villa elegida y una necesidad inmediata de alojamiento, suministros o información. Los habitantes permanecen dentro cuando no trabajan, y las capas de lana y piel dificultan reconocer a cualquiera en el exterior. Buscar acogida con etiquetas de trato, oficio o vínculos puede crear [puerta abierta] o [contacto local]; un fallo puede dejar [forasteros bajo sospecha] o consumir tiempo y exponer al frío.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "lagos-embarcaderos-y-pesca-bajo-el-hielo"
+    ]
+   },
+   "order": 8,
+   "name": "Lagos, embarcaderos y pesca bajo el hielo",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "lago"
+    ]
+   },
+   "motifs": [
+    "tension",
+    "amenaza"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "lago-sfx"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-cruje"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-y-aguas-de-los-lagos"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Maer Dualdon es el lago más profundo y tiene la mayor población de truchas de cabeza de jarrete; Aguas Rojizas casi se congela por completo; Lac Dinneshere recibe los peores vientos del Glaciar Reghed. Los barcos abastecen a la comunidad, y con hielo grueso muchos se quedan al calor mientras los más tenaces pescan por agujeros. Leer el hielo, navegar o pescar con etiquetas adecuadas puede producir [ruta segura] o [captura compartida]; el fallo activa las amenazas del desafío del lago. El monstruo de Bremen es un gancho, no un encuentro obligatorio en todos los lagos.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "caminos-cargas-y-combustible"
+    ]
+   },
+   "order": 9,
+   "name": "Caminos, cargas y combustible",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "camino"
+    ]
+   },
+   "motifs": [
+    "ventisca-m"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pico"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "trayecto-bajo-el-invierno-de-auril"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "La mayoría viaja a pie; para cargas mayores se emplean trineos tirados por perros o picos de hacha domesticados. Planear una etapa con etiquetas de orientación, manejo de animales o transporte permite obtener [carga bien distribuida] o [parada a resguardo]; forzar la marcha activa el desafío del trayecto. La escasez de árboles obliga a obtener madera en las laderas de la Columna del Mundo o en Bosque Solitario, y en la mayoría de villas se usa aceite de ballena para luz y calor. Negociar suministro puede crear [reserva de combustible] a cambio de un favor; fallar puede dejar [suministro comprometido].",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "refugio-intercambios-y-rumores"
+    ]
+   },
+   "order": 10,
+   "name": "Refugio, intercambios y rumores",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "taberna"
+    ]
+   },
+   "motifs": [
+    "misterio"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hogar"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "taberna-sfx"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [],
+   "handouts": [],
+   "notes": "Presenta un rumor pendiente y permite comprar, reparar o intercambiar equipo mediante favores y recursos narrativos. El tamaño del asentamiento aumenta la probabilidad de encontrar equipo habitual, incluidos útiles de pesca y trineos. Una buena conversación puede producir [rumor contrastado] o [hospitalidad local]; un fallo puede crear [deuda pendiente] o [palabras malinterpretadas]. La magia disponible se concreta en «Objetos, pistas y documentos».",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "el-salon-del-concejo-de-bryn-shander"
+    ]
+   },
+   "order": 11,
+   "name": "El Salón del Concejo de Bryn Shander",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "pueblo"
+    ]
+   },
+   "motifs": [
+    "tension"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "portavoces-y-habitantes-de-diez-ciudades"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Cada villa es independiente y elige a su portavoz; el Consejo se reúne con poca frecuencia en este salón para asuntos comunes y disputas entre asentamientos. Bryn Shander empezó como puesto comercial sobre una colina y se convirtió en refugio amurallado para toda Diez Ciudades. Unir intereses mediante hechos comprobados y vínculos puede crear [acuerdo entre villas]; fallar puede generar [cada villa por su cuenta]. Una sesión concreta del Consejo es una propuesta de escena, no un acontecimiento fechado.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-bryn-shander.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "la-noche-sin-luna"
+    ]
+   },
+   "order": 12,
+   "name": "La noche sin luna",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "auril"
+    ]
+   },
+   "motifs": [
+    "horror",
+    "amenaza"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "campana"
+      ]
+     }
+    }
+   ],
+   "ambient": "dark",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "comunidad-aferrada-al-sacrificio"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Hace poco más de un año comenzaron los sacrificios para apaciguar a Auril y recuperar el verano; todos los portavoces los respaldan como un mal necesario. En Bryn Shander, Puerto Este y Targos se sortea una víctima la noche anterior a la luna nueva; otras villas ofrecen la pesca de un día en estantes a una milla del poblado; las que no pueden entregar personas ni comida prohíben encender fuego entre ocaso y alba. Rescatar, persuadir, investigar un sorteo o compartir recursos puede crear [víctima a salvo], [ofrenda sustituida] o [refugio compartido]; el fallo puede activar exposición al frío, perder víveres o provocar violencia. No hay prueba aquí de que los sacrificios funcionen.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "la-taberna-y-la-propuesta-de-hlin"
+    ]
+   },
+   "order": 13,
    "name": "La taberna y la propuesta de Hlin",
    "reading": {
     "sceneFlag": [
@@ -301,7 +1464,7 @@
      "la-caza-del-ambula-de-torg"
     ]
    },
-   "order": 1,
+   "order": 14,
    "name": "La caza del Ámbula de Torg",
    "reading": {
     "sceneFlag": [
@@ -380,7 +1543,7 @@
      "el-campamento-del-ambula-de-torg"
     ]
    },
-   "order": 2,
+   "order": 15,
    "name": "El campamento del Ámbula de Torg",
    "reading": {
     "sceneFlag": [
@@ -499,7 +1662,7 @@
      "la-noche-del-asesino"
     ]
    },
-   "order": 3,
+   "order": 16,
    "name": "La noche del asesino",
    "reading": {
     "sceneFlag": [
@@ -599,7 +1762,7 @@
      "la-confrontacion"
     ]
    },
-   "order": 4,
+   "order": 17,
    "name": "La confrontación",
    "reading": {
     "sceneFlag": [
@@ -688,7 +1851,7 @@
      "el-regreso-a-hlin"
     ]
    },
-   "order": 5,
+   "order": 18,
    "name": "El regreso a Hlin",
    "reading": {
     "sceneFlag": [
@@ -756,7 +1919,7 @@
      "la-propuesta-de-dannika"
     ]
    },
-   "order": 6,
+   "order": 19,
    "name": "La propuesta de Dannika",
    "reading": {
     "sceneFlag": [
@@ -823,7 +1986,7 @@
      "de-ciudad-en-ciudad"
     ]
    },
-   "order": 7,
+   "order": 20,
    "name": "De ciudad en ciudad",
    "reading": {
     "sceneFlag": [
@@ -912,7 +2075,7 @@
      "la-cabana-de-elva"
     ]
    },
-   "order": 8,
+   "order": 21,
    "name": "La cabaña de Elva",
    "reading": {
     "sceneFlag": [
@@ -990,7 +2153,7 @@
      "jugar-a-las-casitas"
     ]
    },
-   "order": 9,
+   "order": 22,
    "name": "Jugar a las casitas",
    "reading": {
     "sceneFlag": [
@@ -1057,7 +2220,7 @@
      "el-regreso-a-la-taberna"
     ]
    },
-   "order": 10,
+   "order": 23,
    "name": "El regreso a la taberna",
    "reading": {
     "sceneFlag": [
@@ -1145,7 +2308,7 @@
      "los-muelles-de-bremen"
     ]
    },
-   "order": 11,
+   "order": 24,
    "name": "Los muelles de Bremen",
    "reading": {
     "sceneFlag": [
@@ -1233,7 +2396,7 @@
      "el-lago-maer-dualdon"
     ]
    },
-   "order": 12,
+   "order": 25,
    "name": "El lago Maer Dualdon",
    "reading": {
     "sceneFlag": [
@@ -1342,7 +2505,7 @@
      "bestia-inteligente"
     ]
    },
-   "order": 13,
+   "order": 26,
    "name": "Bestia inteligente",
    "reading": {
     "sceneFlag": [
@@ -1441,7 +2604,7 @@
      "los-tesoros-enterrados"
     ]
    },
-   "order": 14,
+   "order": 27,
    "name": "Los Tesoros Enterrados",
    "reading": {
     "sceneFlag": [
@@ -1508,7 +2671,7 @@
      "el-centro-de-las-cinco-tabernas"
     ]
    },
-   "order": 15,
+   "order": 28,
    "name": "El Centro de las Cinco Tabernas",
    "reading": {
     "sceneFlag": [
@@ -1573,7 +2736,7 @@
      "el-regreso-a-los-muelles"
     ]
    },
-   "order": 16,
+   "order": 29,
    "name": "El regreso a los muelles",
    "reading": {
     "sceneFlag": [
@@ -1671,7 +2834,7 @@
      "bryn-shander-la-villa-amurallada"
     ]
    },
-   "order": 17,
+   "order": 30,
    "name": "Bryn Shander, la villa amurallada",
    "reading": {
     "sceneFlag": [
@@ -1769,7 +2932,7 @@
      "filos-de-hierro-negro"
     ]
    },
-   "order": 18,
+   "order": 31,
    "name": "Filos de Hierro Negro",
    "reading": {
     "sceneFlag": [
@@ -1844,7 +3007,7 @@
      "santuario-de-la-manana"
     ]
    },
-   "order": 19,
+   "order": 32,
    "name": "Santuario de la Mañana",
    "reading": {
     "sceneFlag": [
@@ -1932,7 +3095,7 @@
      "el-mirador-al-norte"
     ]
    },
-   "order": 20,
+   "order": 33,
    "name": "El Mirador al Norte",
    "reading": {
     "sceneFlag": [
@@ -2029,7 +3192,7 @@
      "la-vieja-mordisquitos"
     ]
    },
-   "order": 21,
+   "order": 34,
    "name": "La Vieja Mordisquitos",
    "reading": {
     "sceneFlag": [
@@ -2085,7 +3248,7 @@
      "la-mision-de-hruna"
     ]
    },
-   "order": 22,
+   "order": 35,
    "name": "La misión de Hruna",
    "reading": {
     "sceneFlag": [
@@ -2172,7 +3335,7 @@
      "la-ventisca"
     ]
    },
-   "order": 23,
+   "order": 36,
    "name": "La ventisca",
    "reading": {
     "sceneFlag": [
@@ -2251,7 +3414,7 @@
      "el-cadaver-de-oobok"
     ]
    },
-   "order": 24,
+   "order": 37,
    "name": "El cadáver de Oobok",
    "reading": {
     "sceneFlag": [
@@ -2319,7 +3482,7 @@
      "la-caravana-de-izobai"
     ]
    },
-   "order": 25,
+   "order": 38,
    "name": "La caravana de Izobai",
    "reading": {
     "sceneFlag": [
@@ -2430,7 +3593,7 @@
      "el-regreso-a-bryn-shander"
     ]
    },
-   "order": 26,
+   "order": 39,
    "name": "El regreso a Bryn Shander",
    "reading": {
     "sceneFlag": [
@@ -2537,7 +3700,7 @@
      "llegada-a-caer-dineval"
     ]
    },
-   "order": 27,
+   "order": 40,
    "name": "Llegada a Caer-Dineval",
    "reading": {
     "sceneFlag": [
@@ -2615,7 +3778,7 @@
      "la-subida"
     ]
    },
-   "order": 28,
+   "order": 41,
    "name": "La Subida",
    "reading": {
     "sceneFlag": [
@@ -2693,7 +3856,7 @@
      "el-descanso-de-dinev"
     ]
    },
-   "order": 29,
+   "order": 42,
    "name": "El Descanso de Dinev",
    "reading": {
     "sceneFlag": [
@@ -2761,7 +3924,7 @@
      "el-caer-murallas-y-patio"
     ]
    },
-   "order": 30,
+   "order": 43,
    "name": "El Caer: murallas y patio",
    "reading": {
     "sceneFlag": [
@@ -2890,7 +4053,7 @@
      "el-caer-planta-alta"
     ]
    },
-   "order": 31,
+   "order": 44,
    "name": "El Caer: planta alta",
    "reading": {
     "sceneFlag": [
@@ -3028,7 +4191,7 @@
      "bajo-el-castillo-cisterna-y-santuario"
     ]
    },
-   "order": 32,
+   "order": 45,
    "name": "Bajo el castillo: cisterna y santuario",
    "reading": {
     "sceneFlag": [
@@ -3137,7 +4300,7 @@
      "la-fuga-de-los-sirvientes"
     ]
    },
-   "order": 33,
+   "order": 46,
    "name": "La fuga de los sirvientes",
    "reading": {
     "sceneFlag": [
@@ -3196,6 +4359,5873 @@
    "handouts": [],
    "notes": "los cinco sirvientes llevan dos semanas encerrados y alimentados a duras penas. Han planeado escapar; Si los Héroes se identifican antes de entrar, se presentan y suplican; si no, emboscan al primero que cruce la puerta: actúan como grupo, hacen un único intento de presa con ventaja y, si falla, se retiran a las esquinas hechos un ovillo. Son Lanthis Alderdusk, escriba y notario de sesenta y cuatro años, enérgico y ágil; Elprekt Norbrav, mayordomo de cincuenta y cinco, alto y esquelético; Mylbara Norbrav, su esposa, robusta, traductora de enano; Tam Sharf, criado mudo de unos treinta, ladrón buscado por un asesinato en Luskan; y Dassir Ravenscar, guardián de perros de veinticinco, tímido; Saben que los sectarios mataron a los guardias, que el portavoz sigue vivo y que Kadroth manda, pero no conocen los planes del culto. calmar a los sirvientes es una acción social con [empatía], [voz calmada] o [prueba de identidad]; éxito: [confianza de los sirvientes] y [fuga organizada]; fallo: [emboscada de los sirvientes] y [herido-1] para quien entre primero; Guiarlos fuera del castillo es una acción con [sigilo], [conocimiento del castillo] o [distracción]; éxito: [sirvientes liberados]; fallo: [alarma] y [sirvientes dispersos].",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-caer-dineval.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "caer-konig-y-trovus"
+    ]
+   },
+   "order": 47,
+   "name": "Caer-Konig y el encuentro con Trovus",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "pueblo"
+    ]
+   },
+   "motifs": [
+    "misterio",
+    "tension"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-cruje"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "trovus"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Trovus ha vuelto a dormirse durante una patrulla tras beber demasiado y ofrece acompañar a los Héroes a la posada. Explica los robos, que nadie ha visto a los responsables y que la ciudad no puede pagar una investigación; si nadie lo interrumpe, cuenta viejas hazañas. Su herencia dracónica explica su resistencia al frío. El asentamiento nació como campamento de montañeros y sus ruinas recuerdan la fragilidad de cualquier refugio.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-caer-konig.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "anzuelo-sedal-y-plomo"
+    ]
+   },
+   "order": 48,
+   "name": "Anzuelo, Sedal y Plomo",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "taberna"
+    ]
+   },
+   "motifs": [
+    "esperanza"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "taberna-sfx"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hogar"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "glen-korr"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Glen ofrece una pequeña cerveza gratis: el «anzuelo». Los Héroes pueden conocer la desesperación local y confirmar el robo de las dos cabras. La cerveza procede de los enanos del valle y Jarthra la transporta, un vínculo que permite cuestionar los prejuicios contra ellos. Si se juega un concurso de bebida, excederse produce [ebrio-2], sin convertirlo en una pista obligatoria.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-caer-konig.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "expediciones-allendhelor"
+    ]
+   },
+   "order": 49,
+   "name": "Expediciones Allendhelor",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "pueblo"
+    ]
+   },
+   "motifs": null,
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "perros"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "atenas-veloz"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "jarthra-farzassh"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Atenas Veloz dirige el negocio con Jarthra Farzassh. Hay dos trineos y doce perros sanos, seis por trineo. Atenas sale cada vez menos por sus articulaciones doloridas y prefiere recomendar a Jarthra, que conoce bien los alrededores de la Cumbre de Kelvin. Su contratación supone un servicio modesto por jornada, representable mediante [guía contratado: Jarthra] a cambio de provisiones o un favor equivalente. Aquí desaparecieron las 25 perlas talladas.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-caer-konig.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "la-luz-del-norte"
+    ]
+   },
+   "order": 50,
+   "name": "La Luz del Norte y las hermanas Shorard",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "taberna"
+    ]
+   },
+   "motifs": [
+    "misterio",
+    "esperanza"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hogar"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "allie-shorard"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "cori-shorard"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "trovus"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Allie atiende y limpia; Cori compra provisiones y cocina. Allie atribuye las huellas a enanos hambrientos del valle, aunque no entiende la ausencia de ruido ni el robo de objetos sin utilidad alimenticia; Cori rechaza esa explicación. Si aceptan investigar, Allie enseña las débiles huellas de atrás. Las hermanas ofrecen comida, camas y cerveza por devolver la linterna; si rechazan, los robos continúan hasta que los duergar abandonan su búsqueda de chardalyn en la localidad.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-caer-konig.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "el-rastro-hacia-la-cumbre-de-kelvin"
+    ]
+   },
+   "order": 51,
+   "name": "El rastro hacia la Cumbre de Kelvin",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "camino"
+    ]
+   },
+   "motifs": [
+    "misterio",
+    "tension"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "estribaciones-barridas-invierno"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "jarthra-farzassh"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "El rastro viejo desaparece a unos quince metros de la posada; a la mañana siguiente aparecen huellas frescas de un único explorador duergar. A unos 400 metros del pueblo terminan junto a pisadas de ogro y surcos de trineo. Una acción de rastreo con [conocimiento de gigantes], [rastreador] o similares identifica las pisadas y crea [rastro de ogro identificado]; un fallo deja [origen incierto] y consume tiempo. Cada hora de búsqueda requiere orientación de la Compañía: éxito, [puesto localizado]; fallo, una hora perdida y avance del desafío ambiental. Jarthra aporta su conocimiento local.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-caer-konig.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "aproximacion-al-puesto-avanzado"
+    ]
+   },
+   "order": 52,
+   "name": "Aproximación al puesto avanzado",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "camino"
+    ]
+   },
+   "motifs": [
+    "sigilo",
+    "amenaza"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-cruje"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "duergar-del-puesto"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Brojk vigila desde O1 y Urthhild desde O3; están aburridos y cansados, pero las luces o una aproximación evidente los alertan. Urthhild da la alarma y corre a O2; necesita dos momentos de acción para levantar el puente, de modo que los Héroes pueden interrumpirla. Una aproximación sigilosa pegada al acantilado norte, detrás del búnker y bajo las ventanas, permite alcanzar el cauce sin ser detectados: éxito, [fuera de la vista de los centinelas]; fallo, [alarma en el puesto]. El puesto sirve para abastecer y dar descanso a las partidas de búsqueda de chardalyn.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-caer-konig.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "o1-bunker"
+    ]
+   },
+   "order": 53,
+   "name": "O1. Búnker",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "mina"
+    ]
+   },
+   "motifs": [
+    "sigilo",
+    "tension"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    }
+   ],
+   "ambient": "dark",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "duergar-del-puesto"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Brojk lleva una ballesta pesada además de sus armas habituales y ataca a cualquier amenaza visible; puede incorporarse a la defensa de O2 y liberar al ogro. El túnel está a unos seis metros bajo tierra, tiene metro y medio de altura y una escalera de seis metros en cada extremo; su salida norte está en O4. Permite acceder a la armería y moverse entre ambas defensas, pero obliga a avanzar agachados.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-caer-konig.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "o2-alcazar-principal"
+    ]
+   },
+   "order": 54,
+   "name": "O2. Alcázar principal",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "mina"
+    ]
+   },
+   "motifs": [
+    "horror",
+    "tension",
+    "amenaza"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-cruje"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "puerta"
+      ]
+     }
+    }
+   ],
+   "ambient": "dark",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "ogro-zombi-de-tiro"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "duergar-del-puesto"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "foso-puente-levadizo"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Las puertas exteriores no están cerradas con llave. Brojk y Urthhild, si siguen disponibles, liberan al ogro zombi para luchar; encerrado no puede dañar a nadie, libre obedece a los duergar. Estos se repliegan hacia O5 cuando estén claramente heridos —orientativamente [herido-2]— y dejan al ogro cubriendo su retirada. Una jaula está vacía; las cabras robadas iban a servir de comida. El pozo baja unos tres metros hasta una cisterna. El foso y el puente se resuelven con su desafío específico.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-caer-konig.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "o3-atalaya"
+    ]
+   },
+   "order": 55,
+   "name": "O3. Atalaya",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "mina"
+    ]
+   },
+   "motifs": [
+    "sigilo",
+    "tension"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "duergar-del-puesto"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Urthhild permanece aquí dando pisotones para combatir el frío, salvo que haya acudido a levantar el puente o a defender O2. Doblar los barrotes requiere fuerza extraordinaria, herramientas o una etiqueta apropiada; éxito, [hueco para una persona pequeña], que aún debe pasar con dificultad; fallo, [ruido de metal] y alerta si quedan enemigos capaces de oírlo. No es una abertura suficiente para cualquier Héroe por defecto.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-caer-konig.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "o4-armeria"
+    ]
+   },
+   "order": 56,
+   "name": "O4. Armería",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "mina"
+    ]
+   },
+   "motifs": [
+    "misterio"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    }
+   ],
+   "ambient": "dark",
+   "figures": [],
+   "handouts": [],
+   "notes": "Contiene dos cotas de escamas de talla enana, dos escudos de acero, tres picos de guerra, nueve jabalinas, dos equipos de escalada y cuatro equipos de cocina. Se convierten en etiquetas de mochila según su uso y talla. La escalera baja seis metros al túnel de metro y medio de altura que comunica con O1. Saquear sin precaución puede advertir a los defensores, pero encontrar el equipo no necesita una acción incierta si hay tiempo para mirar.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-caer-konig.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "o5-cuello-de-botella"
+    ]
+   },
+   "order": 57,
+   "name": "O5. Cuello de Botella",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "mina"
+    ]
+   },
+   "motifs": [
+    "tension",
+    "amenaza"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    }
+   ],
+   "ambient": "dark",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "nildar-solmarchito"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "trampa-cuello-botella"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Nildar investiga cualquier ruido fuerte aquí y, una vez alertado, espera junto a la palanca hasta que pueda aislar a un intruso en la parte occidental. Accionarla hace salir barras desde suelo y techo en las puertas. Quien esté en el umbral puede apartarse con agilidad o quedar [atravesado-2] e [inmovilizado-3]. Solo otra activación de la palanca retrae las barras; romperlas también abre paso. Detectar el mecanismo mediante observación o conocimiento de trampas crea [trampa identificada].",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-caer-konig.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "o6-aposentos-del-comandante"
+    ]
+   },
+   "order": 58,
+   "name": "O6. Aposentos del comandante",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "mina"
+    ]
+   },
+   "motifs": [
+    "misterio",
+    "tension"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "nildar-solmarchito"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Si los Héroes han superado O5 sin combate, sorprenden a Nildar estudiando los fragmentos; ataca al verlos. La linterna robada está bajo el saco. La carta de Durth, en runas enanas, señala el ferry congelado de Puerto Este. Hay vidrio teñido corriente y tres fragmentos de chardalyn del tamaño de dagas; son seguros de manipular y solo revelan su maleabilidad. Registrando la cama aparece una bolsa de recursos de Nildar. Capturado, amenaza en enano con el poder de su padre y una destrucción alada sobre Diez Ciudades.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-caer-konig.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "o7-sirvientes-de-las-esporas"
+    ]
+   },
+   "order": 59,
+   "name": "O7. Sirvientes de las esporas",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "noche"
+    ]
+   },
+   "motifs": [
+    "horror",
+    "amenaza"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    }
+   ],
+   "ambient": "dark",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "manada-sirvientes-esporas"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Las tres celdas occidentales están vacías. En cada una de las cinco del sur hay un cadáver humano animado, antes habitante de Diez Ciudades o nómada reghed, secuestrado y asesinado por los duergar mediante esporas de un soberano micónido. Salen y atacan a los intrusos; se resuelven como una sola manada. No hay un soberano micónido presente. Investigar los cuerpos permite establecer [víctimas convertidas en sirvientes], pero la fuente no da nombres ni pistas familiares concretas.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-caer-konig.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "o8-aposentos-de-los-duergar"
+    ]
+   },
+   "order": 60,
+   "name": "O8. Aposentos de los duergar",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "mina"
+    ]
+   },
+   "motifs": [
+    "sigilo",
+    "tension"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    }
+   ],
+   "ambient": "dark",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "duergar-del-puesto"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Ruvik y Skorn duermen, cada uno en una habitación, con la armadura puesta y las armas y escudos cerca. Una acción silenciosa permite [durmientes inadvertidos]; el ruido los despierta y atacan. No añadas otros duergar: son dos de los cinco ocupantes originales del puesto. Hay mantas, raciones, cuerda de cáñamo y equipo básico. Un saquito contiene las 25 perlas talladas robadas. Otro guarda tres dagas, herramientas de talla de madera, aparejos de pesca y una bolsa de cuero con una poción de curación y recursos de viaje.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-caer-konig.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "regreso-a-la-luz-del-norte"
+    ]
+   },
+   "order": 61,
+   "name": "Regreso a La Luz del Norte",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "taberna"
+    ]
+   },
+   "motifs": [
+    "esperanza",
+    "misterio"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hogar"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "taberna-sfx"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "allie-shorard"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "cori-shorard"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "trovus"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Allie desconoce a los duergar y se alarma al saber que se vuelven invisibles y crecen hasta el tamaño de un ogro. Ha preparado habitaciones incluso si no recuperan la linterna. Si la devuelven, añade unas jarras de cerveza. Ayuda a restituir los demás bienes a sus dueños. Esta pausa puede servir como descanso en el campamento para la Compañía según sus reglas y las condiciones de la ficción.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-caer-konig.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "pueblo-y-lago-inmovil"
+    ]
+   },
+   "order": 62,
+   "name": "El pueblo y el lago inmóvil",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "lago"
+    ]
+   },
+   "motifs": [
+    "misterio",
+    "tension"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "lago-sfx"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-cruje"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "edgra-durmoot"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "La comunidad depende de la pesca bajo el hielo; el aislamiento ha reducido la población y algunos vecinos muestran rasgos físicos inusuales que no prueban amenaza sobrenatural. Edgra escucha pero no entrega suministros; un éxito social puede crear [vecinos dispuestos a escuchar], un fallo [desconfianza local]. El muelle corto puede ceder bajo peso y causar [magullado-2] o [empapado-2].",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-refugio-dougan.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "veinte-piedras-de-thruun"
+    ]
+   },
+   "order": 63,
+   "name": "Las Veinte Piedras de Thruun",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "pueblo"
+    ]
+   },
+   "motifs": [
+    "misterio"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-cruje"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [],
+   "handouts": [],
+   "notes": "Los vecinos afirman que las piedras ya estaban cuando llegó Dougan Dubrace; las teorías sobre Thruun como divinidad o espíritu elemental destructor siguen abiertas. La investigación puede producir [leyendas de Thruun recopiladas], pero no resuelve el misterio en esta sección.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-refugio-dougan.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "koran-y-kanan-falsa-peticion"
+    ]
+   },
+   "order": 64,
+   "name": "Koran y Kanan: la falsa petición de auxilio",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "camino"
+    ]
+   },
+   "motifs": [
+    "tension",
+    "misterio"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "lobos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "koran"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "kanan"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Koran finge ser un lobo maltratado por Garagai y pide ayuda para liberar a dos cautivos; Kanan espera oculto. Observar su cojera cambiante puede revelar [cojera fingida descubierta] o [hermanos compinchados]. Si los Héroes aceptan, los guían 21 km al oeste hacia la trampa: Garagai lleva un año muerto.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-refugio-dougan.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "travesia-de-la-tundra"
+    ]
+   },
+   "order": 65,
+   "name": "La travesía de la tundra",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "camino"
+    ]
+   },
+   "motifs": [
+    "ventisca-m",
+    "bestia",
+    "tension"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "ventisca"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "lobos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "manada-famelica"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "tundra-y-ventisca"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "koran"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "kanan"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Hay una posibilidad entre dos de sufrir ventisca; con los lobos invernales estos protegen al grupo para llevarlos vivos a la trampa. Una manada de 2-7 lobos comunes puede aparecer; comida o firmeza los aleja. Rastreo y orientación mantienen [ruta localizada], mientras un fallo puede causar [perdido-2].",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "l1-exterior-cabaña-caza"
+    ]
+   },
+   "order": 66,
+   "name": "L1. Exterior de la cabaña de caza",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "camino"
+    ]
+   },
+   "motifs": [
+    "tension",
+    "misterio",
+    "amenaza"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-cruje"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "koran"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "kanan"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "kanan"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Las entradas orientales conducen a L2, L3 y L4. Los lobos recomiendan L4 y dicen que Garagai está ausente; descubrir el engaño revela [los lobos ocultan algo sobre Garagai]. Rodear el edificio permite encontrar el túnel del remorhaz hacia L8 sin prueba. Los lobos esperan al este para atacar a quien huya del mamut.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-refugio-dougan.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "l2-camara-desuelle"
+    ]
+   },
+   "order": 67,
+   "name": "L2. Cámara de desuelle",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "mina"
+    ]
+   },
+   "motifs": [
+    "misterio",
+    "horror"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-cruje"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    }
+   ],
+   "ambient": "dark",
+   "figures": [],
+   "handouts": [],
+   "notes": "Garagai procesaba ballenas para obtener aceite. Liberar el cofre de 1,8×1,5×1,5 m exige una hora picando hielo; hacerlo ruidosamente crea [ruido por la cabaña] que puede alertar a Norsu. Contiene herramientas gigantes de desuelle y una cabra tallada en marfil de trucha, [cabra de marfil].",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-refugio-dougan.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "l3-hermanos-enjaulados"
+    ]
+   },
+   "order": 68,
+   "name": "L3. Los hermanos enjaulados",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "mina"
+    ]
+   },
+   "motifs": [
+    "tension",
+    "horror",
+    "amenaza"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-cruje"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "puerta"
+      ]
+     }
+    }
+   ],
+   "ambient": "dark",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "silja-dejarr"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "finn-dejarr"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Garagai construyó la jaula cuando Norsu era pequeño; ahora contiene a Silja y Finn, mantenidos vivos con carne cruda para exigir rescate. Finn tiene [helado-2]. Calentar los barrotes crea [metal maleable]; forzar la cerradura exige un minuto. La puerta chirría y alerta a Norsu salvo que se lubriquen las bisagras con aceite; el mamut llega desde L5 dispuesto a matar.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-refugio-dougan.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "l4-pasillo-entrada"
+    ]
+   },
+   "order": 69,
+   "name": "L4. Pasillo de entrada",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "mina"
+    ]
+   },
+   "motifs": [
+    "sigilo",
+    "tension"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-cruje"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [],
+   "handouts": [],
+   "notes": "Cruzar con sigilo y controlar el equipo permite ganar [paso silencioso]; un fallo crea [intrusos oídos] y Norsu detecta la llegada desde L5. Los carámbanos refuerzan el peligro, pero no forman una trampa de caída automática.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-refugio-dougan.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "l5-tumba-garagai"
+    ]
+   },
+   "order": 70,
+   "name": "L5. La tumba de Garagai",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "culto"
+    ]
+   },
+   "motifs": [
+    "duelo",
+    "amenaza",
+    "misterio"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-cruje"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "rugido"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "norsu"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "garagai"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "trono-runco-de-hielo"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Norsu, consciente y capaz de hablar común, interpreta cualquier intrusión como profanación. Antes de su primera agresión se puede intentar calmarlo con engaño o persuasión; éxito crea [tregua funeraria], fallo [ira desatada]. La runa significa «hielo» y el trono puede invocar una ventisca de ocho horas en 1,6 km, una vez cada diez días. El cadáver carece de botín valioso.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-refugio-dougan.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "l6-sala-guerra"
+    ]
+   },
+   "order": 71,
+   "name": "L6. Sala de guerra",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "mina"
+    ]
+   },
+   "motifs": [
+    "misterio",
+    "tension"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-cruje"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "holgi-snorp-zilbo"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "holgi-snorp-zilbo"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Garagai y otros gigantes celebraban aquí reuniones. La figura es un chwinga petrificado al morir; Holgi, Snorp y Zilbo, tres kobolds del viento helado, se ocultan tras las sillas y piden escolta al exterior. Su relato revela [la cabaña sigue habitada] y las circunstancias de la muerte del chwinga.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-refugio-dougan.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "l7-saco-dormir-garagai"
+    ]
+   },
+   "order": 72,
+   "name": "L7. Saco de dormir de Garagai",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "mina"
+    ]
+   },
+   "motifs": [
+    "sigilo",
+    "tension"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    }
+   ],
+   "ambient": "dark",
+   "figures": [],
+   "handouts": [],
+   "notes": "Era el dormitorio de Garagai y está desocupado, sin tesoro indicado. Puede servir como escondite si se justifica ocultar el rastro y mantener silencio; éxito crea [ocultos entre pieles]. No es por sí solo un lugar seguro para descanso en campamento.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-refugio-dougan.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "l8-almacen-aceite-tunel-remorhaz"
+    ]
+   },
+   "order": 73,
+   "name": "L8. Almacén de aceite y túnel del remorhaz",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "mina"
+    ]
+   },
+   "motifs": [
+    "misterio",
+    "esperanza"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-cruje"
+      ]
+     }
+    }
+   ],
+   "ambient": "dark",
+   "figures": [],
+   "handouts": [],
+   "notes": "Un remorhaz entró para saquear provisiones y se fue hace tiempo; el túnel es una ruta alternativa que los lobos no vigilan. Cada barril intacto pesa unos 225 kg; puede tomarse una cantidad manejable como [aceite de ballena]. Hay suficiente residuo para una botella de thrym; identificarlo crea [thrym identificado] o [residuo desconocido].",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-refugio-dougan.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "huida-y-regreso"
+    ]
+   },
+   "order": 74,
+   "name": "La huida y el regreso",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "camino"
+    ]
+   },
+   "motifs": [
+    "persecucion",
+    "esperanza",
+    "tension"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "lobos"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "silja-dejarr"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "finn-dejarr"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hilda-dejarr"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "koran"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "kanan"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "norsu"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Evitar L5 y guardar silencio permite salir sin despertar la ira de Norsu; L8 permite eludir la guardia de los lobos en las puertas orientales. El regreso puede ser tranquilo o incluir un encuentro de naturaleza. Si ambos lobos siguen vivos y persiguen a la Compañía, aprovechan el final de ese encuentro para atacar antes de cualquier descanso. Hilda recibe a sus hijos con alivio; basta rescatar a uno con vida para que entregue las botas familiares.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-refugio-dougan.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "llegada-y-ejecucion-publica"
+    ]
+   },
+   "order": 75,
+   "name": "Llegada y ejecución pública",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "pueblo"
+    ]
+   },
+   "motifs": [
+    "tension",
+    "misterio"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "multitud"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hogar"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "dzaan"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "imdra-arlaggath"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "danneth-waylen"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Dzaan, Mago Rojo de Thay, fue reconocido pese a su disfraz, detenido y condenado por asesinar a aventureros del valle que había contratado para una expedición; Waylen ordenó quemarlo e Imdra presenta la ejecución como disuasión. Imdra explica que cuatro pescadores buscaban aguas menos disputadas en una costa difícil por los témpanos y puede prestar un bote para cuatro personas de talla humana o un esquife de un mástil para ocho, que exige experiencia náutica; hay que arrastrarlos hasta aguas abiertas. No puede ofrecer pago ordinario; por petición promete elegir entre dos objetos confiscados a Dzaan. El grupo puede negociar el encargo con [persuasión], [empatía] o [autoridad]; éxito: [barco prestado] y [recompensa pactada]; fallo: [sospecha de Imdra] y [sin apoyo municipal].",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-easthaven.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "el-ferry-y-su-cabina-de-popa"
+    ]
+   },
+   "order": 76,
+   "name": "El ferry y su cabina de popa",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "lago"
+    ]
+   },
+   "motifs": [
+    "sigilo",
+    "tension",
+    "misterio"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-cruje"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "puerta"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "durth"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "klaska-ossyl-zublorr"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "scython"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "El servicio a Caer-Dineval y Caer-Konig está suspendido por decreto hasta el deshielo; Scython, propietario, pasa el tiempo en la Trucha Húmeda. Buscar rastros con etiquetas de rastreo revela de uno a cuatro recorridos de botas enanas hechos durante las últimas veinticuatro horas: éxito [rastro duergar identificado]; fallo [pisadas confusas], sin revelar aún cantidad ni antigüedad. La cabina mide aproximadamente tres metros de lado. Durth está solo inicialmente; oye la cubierta y se vuelve invisible en una esquina trasera, atacando si lo descubren o intentan llevarse el mapa. Al quedar seriamente herido, se encoge y sale por un agujero de unos diez centímetros situado a metro y medio sobre el hielo y a igual distancia del muelle; escapa hacia la fortaleza paterna y abandona a los demás. Klaska, Ossyl y Zublorr vuelven media hora después de abordar los Héroes, sin chardalyn nuevo, y atacan a intrusos; si hallan a Durth muerto o ausente, abandonan el ferry definitivamente. Registrar la cabina es una acción con [investigación] o [rastreo]; éxito [rastro duergar identificado] y [mapa recuperado]; fallo [pisadas confusas] y [mapa no hallado]; Interrogar a un duergar capturado exige [intimidación], [coacción] o [influencia mágica]; éxito [planes de Xardorok revelados]; fallo [prisioneros herméticos].",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-easthaven.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "la-trucha-humeda"
+    ]
+   },
+   "order": 77,
+   "name": "La Trucha Húmeda",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "taberna"
+    ]
+   },
+   "motifs": [
+    "misterio"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "taberna-sfx"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hogar"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "multitud"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "nymetra-myskyn"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "scython"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Nymetra Myskyn dirige la taberna más grande y ruidosa de la villa; defiende los sacrificios a Auril y considera el invierno una prueba de temple. Scython conversa con facilidad y conoce tres rumores de la tabla general de Diez Ciudades, que no está incluida en esta fuente: prepararlos con ese material si se dispone de él, sin presentarlos aquí como hechos nuevos. Ignora por completo a los ocupantes de su ferry y no puede identificar el destino del chardalyn robado; su casa está a pocas calles. Obtener rumores es una acción social con [tabernero], [charla] o [pregunta directa]; éxito [rumores de Diez Ciudades] y [contacto local]; fallo [charla vacía] y [sospecha de forasteros]; Provocar a Nymetra es una acción social con [desafío] o [insulto]; éxito [furia de Nymetra]; fallo [expulsión de la taberna].",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-easthaven.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "posada-dama-blanca-y-sesion"
+    ]
+   },
+   "order": 78,
+   "name": "Posada de la Dama Blanca y sesión de espiritismo",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "noche"
+    ]
+   },
+   "motifs": [
+    "misterio",
+    "horror",
+    "esperanza"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "puerta"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-cruje"
+      ]
+     }
+    }
+   ],
+   "ambient": "dark",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "rinaldo"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "bartaban"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "dama-blanca"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Bartaban regenta la posada; Rinaldo toca el violín y relata que la Dama vaga sobre el lugar donde se ahogó su marido avaro, sugiriendo que un cofre pesado hundió su barca o que el hombre volcó al ver a su esposa muerta: son versiones de una leyenda, no hechos confirmados. Invita a los Héroes que pernocten junto con otros seis huéspedes; si rehúsan, apela a la necesidad de ayuda en tiempos oscuros. Preguntar a cada Héroe cómo participa. Una acción conjunta de empatía, respeto o persuasión obtiene [espíritu receptivo]; el fallo provoca el poltergeist y la huida de los asistentes. Si colabora, responde sinceramente a tres preguntas con frases de dos a cinco palabras escritas en la escarcha, o susurra a través de Rinaldo. Una pregunta necia o cuya respuesta desconozca rompe una ventana. Conoce el culto diabólico del castillo de Caer-Dineval, los enanos grises invisibles de las tres poblaciones del lago y sus refugios en el ferry y el Descanso de Dinev, y el caldero de Maud en las cuevas. No recuerda su muerte ni el destino de su amado. Tras tres respuestas se marcha y desaparece la escarcha; Rinaldo debe completar un descanso en el campamento antes de intentarlo de nuevo. Mediar la sesión es una acción conjunta con [empatía], [respeto] o [persuasión]; éxito [espíritu receptivo] y [tres respuestas]; fallo [poltergeist] y [huéspedes en fuga]; Romper la maldición del mascarón exige [protección espiritual] o [ritual]; éxito [paranoia eliminada]; fallo [paranoia de Auril-3].",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-easthaven.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "lac-dinneshere-y-bote-abandonado"
+    ]
+   },
+   "order": 79,
+   "name": "Lac Dinneshere y el bote abandonado",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "lago"
+    ]
+   },
+   "motifs": [
+    "misterio",
+    "amenaza",
+    "horror"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "lago-sfx"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "lobos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-cruje"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "bandada-arpías"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Es el Puñado de Cabezas de Jarrete: contiene cuatro remos, cuatro juegos de pesca y doce botellas vacías. Los cuatro pescadores, ebrios, siguieron un aroma de guiso hasta Maud; murieron por obra del esqueleto y fueron descuartizados para el estofado. Al terminar el registro y dirigirse hacia las cuevas aparecen dos arpías hambrientas; si una muere, la otra huye. El alcohol explica la mala decisión de las víctimas, no protege del frío: puede justificar [juicio nublado]. Navegar, arrastrar el barco y mantener el equilibrio requieren etiquetas adecuadas si existe peligro concreto; el éxito aporta [ruta segura], el fallo puede causar [empapado-2] o activar el desafío del lago. Registrar el bote es una acción con [investigación] o [rastreo]; éxito [Puñado de Cabezas de Jarrete] y [huellas hacia la cueva]; fallo [pistas confusas] y [botellas vacías]; Enfrentarse a las arpías es un desafío con [bandada de arpías]; éxito [arpías ahuyentadas]; fallo [fascinado-2] y [aislado en la orilla].",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-easthaven.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "u1-u4-entradas-lobo-y-memoria-gigantes"
+    ]
+   },
+   "order": 80,
+   "name": "U1–U4. Entradas, lobo y memoria de los gigantes",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "mina"
+    ]
+   },
+   "motifs": [
+    "misterio",
+    "horror"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-cruje"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    }
+   ],
+   "ambient": "dark",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "lobo-terrible-u2"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Las tres entradas septentrionales se alcanzan trepando por abundantes apoyos: no hace falta una acción incierta solo por subir. La entrada meridional sigue el antiguo desagüe, congelado en una capa de varios palmos. Rastrear desde ella con éxito crea [cuatro huellas humanas hasta U7]; el fallo deja [rastro perdido], sin borrar otras pistas. U2 contiene un lobo terrible hambriento: darle carne fresca evita el ataque, pero no lo domestica; puede subir o bajar los seis metros hasta su boca sin dificultad. Interpretar los grabados de U3 con historia o tradición da [rito funerario gigante comprendido]: ancianos gigantes se ahogaban en las aguas termales sagradas; fallar deja [grabados sin interpretar]. U4 no contiene criaturas ni tesoro. Los crampones anulan la dificultad ordinaria del suelo resbaladizo; el viento gime y apaga velas, pero por sí solo no hiere. Los huecos naturales dejan pasar luz lunar tenue en noches despejadas. Rastrear desde la entrada sur es una acción con [rastreo] o [investigación]; éxito [cuatro huellas humanas hasta U7]; fallo [rastro perdido]; Interpretar los grabados es una acción con [historia] o [tradición]; éxito [rito funerario gigante comprendido]; fallo [grabados sin interpretar]; Evitar al lobo es una acción con [carne fresca], [sigilo] o [intimidación]; éxito [lobo saciado]; fallo [herido-2] y [derribado-1].",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-easthaven.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "u5-u6-puente-helado-y-campamento"
+    ]
+   },
+   "order": 81,
+   "name": "U5–U6. Puente helado y campamento abandonado",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "mina"
+    ]
+   },
+   "motifs": [
+    "tension",
+    "misterio"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-cruje"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    }
+   ],
+   "ambient": "dark",
+   "figures": [],
+   "handouts": [],
+   "notes": "Cruzar U5 con equilibrio, cuerda o equipo adecuado da [puente superado]; fallar provoca una caída de seis metros, [herido-2] y [derribado-1] sobre el río sólido. Los crampones ayudan; una buena solución puede eliminar la incertidumbre. En U6, registrar las cenizas encuentra automáticamente tres hojas de diario en enano. Hablan de gigantes que se ahogaban ritualmente, del viento semejante a una mujer y de una voz de anciana cantando junto a las aguas termales, seguida de una carcajada aterradora. El autor decidió marcharse a la mañana siguiente. No se identifica al enano ni su destino. Cruzar el puente es una acción con [equilibrio], [cuerda] o [crampones]; éxito [puente superado]; fallo [herido-2], [derribado-1] y [caída al río helado]; Registrar las cenizas es una acción con [investigación] o [percepción]; éxito [tres hojas de diario] y [testimonio en enano]; fallo [cenizas revueltas].",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-easthaven.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "u7-u8-cascada-y-fuente-sagrada"
+    ]
+   },
+   "order": 82,
+   "name": "U7–U8. Cascada y fuente sagrada",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "mina"
+    ]
+   },
+   "motifs": [
+    "tension",
+    "misterio",
+    "horror"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-cruje"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-rompe"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    }
+   ],
+   "ambient": "dark",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "extraño-de-agua"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Las huellas dejan de distinguirse en U7. Trepar con fuerza, piolet o cuerda da [cascada escalada]. El primer fallo de alguien de talla humana o mayor rompe la capa fina y libera al extraño de agua dormido; crea [cascada rota] y activa su desafío. Queda una subida posible pero más difícil: sin asegurarla, otro fallo causa [herido-2]. Después de neutralizar al extraño se recuperan con seguridad un equipo de explorador y un equipo de monje, lectura corregida con cautela. U8 era alimentada por un río subterráneo y desaguaba al oeste; tanto río como poza seguirán congelados hasta el fin del Invierno Eterno. Los restos de cuatro gigantes no son enemigos activos. La luna ilumina los minerales en noches claras. Trepar la cascada es una acción con [fuerza], [piolet] o [cuerda]; éxito [cascada escalada] y [equipo recuperado]; primer fallo [cascada rota] y [extraño de agua]; segundo fallo [herido-2].",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-easthaven.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "u9-el-osario"
+    ]
+   },
+   "order": 83,
+   "name": "U9. El osario",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "mina"
+    ]
+   },
+   "motifs": [
+    "horror",
+    "amenaza",
+    "tension"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-rompe"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    }
+   ],
+   "ambient": "dark",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "esqueleto-gigante-escarcha"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "El esqueleto se activa al entrar un intruso o al recibir daño; ofrece dos oportunidades claras de actuar antes de atacar: primero rompe el hielo y después se incorpora. Los Héroes pueden huir, preparar una defensa o golpearlo. Mató a los pescadores y solo Maud lo controla; persigue por todo el complejo, pero nunca sale de las cuevas. Los huesos de las hermanas de Maud, con quienes rompió su aquelarre, están entre su colección; la fuente no da una identificación automática. La sangre permite establecer una matanza reciente, no reconstruir por sí sola todos los detalles. Enfrentarse al esqueleto es un desafío con [esqueleto-gigante-escarcha]; éxito [gigante desmantelado]; fallo [herido-4], [derribado-2] y [retirada acosada]; Huir antes de que se levante es una acción con [sigilo] o [retirada]; éxito [escape sin combate]; fallo [acorralado-2].",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-easthaven.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "u10-maud-y-el-caldero"
+    ]
+   },
+   "order": 84,
+   "name": "U10. Maud y el caldero",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "mina"
+    ]
+   },
+   "motifs": [
+    "horror",
+    "amenaza",
+    "misterio"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-cruje"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pico"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    }
+   ],
+   "ambient": "dark",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "maud-cinceloseo"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "fuego-fatuo-maud"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "esqueleto-gigante-escarcha"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Maud, saga del lago, se disfraza de anciana decrépita. Un fuego fatuo normalmente invisible ilumina su forma real cuando quiere aterrorizar a los intrusos. Si la amenazan o descubren el engaño, llama al esqueleto de U9: tarda dos oportunidades de acción en llegar si aún existe y no está ya presente. Destruido el gigante, Maud muestra su aspecto auténtico y pelea; no entrega guarida ni caldero voluntariamente. Cuando sufre [herido-3], intenta pactar: ofrece el caldero y un cofre del fondo del lago a cambio de dejarla marchar. Si se cumple el trato, cumple la entrega, con trampa: esperar hasta medianoche, recorrer aproximadamente un kilómetro y medio al norte por la costa y recoger un cofre anegado y de cerradura rota. Contiene riqueza y cuatro zarpas reptantes ocultas bajo ella; al removerla, atacan. En el guiso actual flotan órganos y carne de los pescadores: hay que tirarlo antes del transporte. El caldero vacío sigue siendo voluminoso y difícil de cargar. Enfrentarse a Maud es un desafío con [maud-cinceloseo] y [fuego-fatuo-maud]; éxito [Maud derrotada o pactada] y [caldero recuperado]; fallo [aterrorizado-3] y [herido-3]; Registrar el guiso es una acción con [investigación] o [medicina]; éxito [canibalismo confirmado] y [guiso a tirar]; fallo [nausea] y [duda].",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-easthaven.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "ayuntamiento-recepcion-administracion-despacho"
+    ]
+   },
+   "order": 85,
+   "name": "Ayuntamiento: recepción, administración y despacho (T1–T5)",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "pueblo"
+    ]
+   },
+   "motifs": [
+    "misterio"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "puerta"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hogar"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "danneth-waylen"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "prudence-tarkwold"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "T1 tiene un panorama de la villa al norte y al sur la trucha de metro y medio «El Gran Jarrete», capturada en el verano de 1479 CV. Una pintura vertical de barcas oculta la puerta secreta noreste a T3; desde T3, un tapiz de montaña la tapa al noroeste. Buscar deliberadamente en esas paredes la encuentra sin incertidumbre. T2 tiene escritorios, archivadores y asientos para visitantes. T3 es el lugar de negociación con Waylen y de su captura zhentarim. T4 guarda un equipo completo de abrigo; T5 contiene retrete, lavabo, toallero, cubo y fregona. Las puertas exteriores pueden atrancarse por dentro; las demás de estas plantas no tienen cerradura. El mapa municipal 1.11 sirve también para otras villas. Buscar puertas secretas es una acción con [investigación] o [percepción]; éxito [puerta secreta T1–T3] y [paso oculto]; fallo [pared común]; Negociar con Waylen es una acción social con [persuasión], [negociación] o [argumentos sólidos]; éxito [acuerdo mejorado] y [respaldo material de Puerto Este]; fallo [oferta inicial] y [endeudamiento municipal].",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-easthaven.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "t6-mascaron-demoniaco-y-dama-blanca"
+    ]
+   },
+   "order": 86,
+   "name": "T6. El mascarón demoníaco y la Dama Blanca",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "culto"
+    ]
+   },
+   "motifs": [
+    "horror",
+    "misterio",
+    "amenaza"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-cruje"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "cuervo"
+      ]
+     }
+    }
+   ],
+   "ambient": "dark",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "mascaron-profanado"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "dama-blanca"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Aventureros recuperaron el mascarón del lago mediante telequinesis hace unos meses; la recompensa les decepcionó. Waylen lo almacena apartado y prohíbe tocarlo; pesa unos 450 kg. Conocimiento de chardalyn permite reconocer el material; historia especializada, favorecida por haberse criado en el valle, identifica a Errtu, balor que aterrorizó la región hace más de un siglo: éxito [efigie de Errtu identificada]; fallo [origen incierto]. Percepción sagrada revela [objeto profanado]. El contacto puede causar [paranoia de Auril-3]: el afectado cree que casi todos los vecinos pertenecen a un culto secreto de la diosa. Una acción de resistencia espiritual evita el estado; romper maldiciones lo elimina. Prolongar el contacto puede agravarlo, previa advertencia del Narrador. Solo quienes participaron en la sesión de Rinaldo ven además a una mujer escuálida, empapada, de pelo blanco que oculta la cara, aparentemente atada al mascarón; si mantienen distancia, solloza; si salen sin hablarle y vuelven, ya no está. Acercarse a poco más de un brazo revela la calavera sonriente, disuelve las cuerdas e inicia su ataque aterrador. Seriamente herida, intenta poseer a un Héroe para salir por el norte, romper el hielo del lago y ahogarlo, golpeando a quienes lo impidan. Si la derrotan, un grito acompaña su retorno definitivo al lago. No introducir esta aparición si el mascarón ya ha sido destruido. Identificar el material es una acción con [conocimiento de chardalyn] o [historia del valle]; éxito [efigie de Errtu identificada]; fallo [origen incierto]; Resistir la corrupción es una acción con [resistencia espiritual] o [voluntad]; éxito [paranoia evitada]; fallo [paranoia de Auril-3]; Enfrentarse al fantasma es un desafío con [fantasma-dama-blanca]; éxito [fantasma desterrado]; fallo [poseído-4] y [ahogándose-3].",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-easthaven.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "ayuntamiento-salas-publicas-permisos"
+    ]
+   },
+   "order": 87,
+   "name": "Ayuntamiento: salas públicas y permisos (T7–T13)",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "pueblo"
+    ]
+   },
+   "motifs": [
+    "misterio"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "puerta"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "campana"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [],
+   "handouts": [],
+   "notes": "T7 almacena docenas de sillas; T8, registros en cajas apiladas precariamente. T9 tiene mesas y sillas para fiestas y una ventana con cortina que domina T6: ofrece [observación desde arriba]. T10 permite a Waylen resolver reclamaciones menores desde una mesa cubierta de tela; el secretario tiene un escritorio aparte. T11 contiene tres escritorios y un mapa de territorios pesqueros de Puerto Este, Caer-Dineval y Caer-Konig, enmarcado por cañas; una lleva un señuelo verde lima con forma de flumph. T12 ofrece asientos cómodos, armario de tentempiés y escalera a T14. T13 almacena suministros y provisiones. Usar estos recursos con autorización puede aportar [preparativos municipales]; robarlos tiene consecuencias sociales aunque el hurto de bolsas sea legal. Observar desde T9 es una acción con [percepción] o [vigilancia]; éxito [observación desde arriba]; fallo [cortina cerrada]; Consultar registros es una acción con [investigación] o [burocracia]; éxito [registros de la villa]; fallo [cajas revueltas].",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-easthaven.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "ayuntamiento-biblioteca-habitaciones-alquiladas"
+    ]
+   },
+   "order": 88,
+   "name": "Ayuntamiento: biblioteca y habitaciones alquiladas (T14–T15)",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "pueblo"
+    ]
+   },
+   "motifs": [
+    "misterio"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "puerta"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hogar"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [],
+   "handouts": [],
+   "notes": "Diez minutos de búsqueda en T14 bastan para hallar el libro de Dzaan; un empleado lo confundió con una antología al guardar sus bienes confiscados. La escritura ilusoria termina cinco días después de su ejecución; disiparla revela antes el grimorio. Su contenido y conversión figuran en objetos. T15 dispone de seis habitaciones de alquiler: cuatro sin uso, una con cajas y barriles que resultan vacíos al examinarlos, y un despacho acogedor con dos sillones y una novela romántica inacabada, Perdida en unos ojos color lavanda, en un cajón sin cerrar. La fuente no atribuye la novela ni identifica al inquilino. Buscar en la biblioteca es una acción con [investigación] o [tiempo]; éxito [grimorio de Dzaan] y [antología aparente]; fallo [estantes polvorientos]; Examinar las habitaciones es una acción con [exploración] o [percepción]; éxito [habitaciones de alquiler] y [novela inacabada]; fallo [puertas cerradas].",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-easthaven.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "ayuntamiento-carceleros-celdas-interrogatorio"
+    ]
+   },
+   "order": 89,
+   "name": "Ayuntamiento: carceleros, celdas e interrogatorio (T16–T20)",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "pueblo"
+    ]
+   },
+   "motifs": [
+    "tension",
+    "misterio"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "puerta"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "campana"
+      ]
+     }
+    }
+   ],
+   "ambient": "dark",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "guardia-municipal"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "T16 comunica con la mazmorra. En T17 suelen estar cuatro guardias jugando a Apuesta de los Tres Dragones; escuchar antes de entrar permite oír quejas por el frío y preocupación por el próximo sorteo de sacrificios. Uno lleva ocho llaves de hierro para todas las celdas. Las puertas tienen mirillas de unos trece centímetros con postigos de hierro. Abrirlas mediante ganzúas desde fuera y etiquetas de cerrajería obtiene [celda abierta]; fallar deja [cerradura intacta] y, si importa el tiempo, [demora peligrosa]. Una persona sola no las derriba por fuerza ordinaria. T20 es la sala donde Waylen interroga. La fuente llama T18 a la cárcel al remitir a ella, pero imprime T19 en su encabezado y T20 para interrogatorios; esta ficha conserva T18/T19: cárcel para evitar inventar una sala omitida. Escuchar antes de entrar es una acción con [sigilo] o [percepción]; éxito [quejas por el frío] y [sorteo de sacrificios]; fallo [guardias alerta]; Abrir una celda es una acción con [cerrajería] o [ganzúas]; éxito [celda abierta]; fallo [cerradura intacta] y [demora peligrosa]; Interrogar con autoridad es una acción social con [autoridad] o [intimidación]; éxito [información útil]; fallo [silencio de la guardia].",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-easthaven.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "enredo-caldero-trato-vigilancia-robo"
+    ]
+   },
+   "order": 90,
+   "name": "Enredo del caldero: trato, vigilancia y robo",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "noche"
+    ]
+   },
+   "motifs": [
+    "tension",
+    "amenaza",
+    "misterio"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "puerta"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "cuerno"
+      ]
+     }
+    }
+   ],
+   "ambient": "dark",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "danneth-waylen"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "prudence-tarkwold"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "imdra-arlaggath"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "prudence-tarkwold"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "guardia-municipal"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Waylen ofrece una recompensa de gran valor en gemas por el caldero: [respaldo material de Puerto Este]. Regatear con argumentos sólidos da [acuerdo mejorado], que puede duplicar el valor del respaldo; fallar mantiene la oferta inicial. Nadie local puja por encima. Necesita endeudarse y reunirlo en cuarenta y ocho horas; exige entretanto depositar el caldero en T17, vigilado por los cuatro guardias o por los propios Héroes. En un día Prudence informa a Naerth mediante su serpiente voladora. Esa noche llegan tres matones y un pico de hacha domesticado, que atan al poste norte. Sin intervención, Prudence y los matones toman a Waylen como rehén en T3, fuerzan la rendición de los guardias, los encierran con él, atan el caldero al ave y arrojan las llaves a un banco de nieve. Viajan sin detenerse hasta Los Brazos de Luskan, en Targos. Tienen órdenes estrictas de no matar: sus ataques causan incapacitación. Sus huellas desaparecen por el viento entre una y cuatro horas después. Si los Héroes llegan de madrugada, oyen los golpes de los presos; más tarde encuentran a Imdra y guardias tratando de abrir las celdas. Waylen, humillado tras casi tres años de confianza en Prudence, recuerda su supuesta «familia» de Targos. Allí ella ocupa una habitación privada de la posada; Naerth ya tiene el caldero y no lo entrega sin resistencia. Negociar la recompensa es una acción social con [persuasión] o [argumentos sólidos]; éxito [acuerdo mejorado]; fallo [oferta inicial]; Vigilar el caldero es una acción con [vigilancia] o [guardia]; éxito [robo impedido]; fallo [Waylen rehén] y [caldero rumbo a Targos]; Perseguir a la banda es una acción con [rastreo] o [montura]; éxito [rastro seguido]; fallo [rastro borrado] y [conexión con Targos].",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-easthaven.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "enredo-chardalyn-asalto-nocturno-manana"
+    ]
+   },
+   "order": 91,
+   "name": "Enredo del chardalyn: asalto nocturno y mañana siguiente",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "noche"
+    ]
+   },
+   "motifs": [
+    "amenaza",
+    "tension",
+    "horror"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pico"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "puerta"
+      ]
+     }
+    }
+   ],
+   "ambient": "dark",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "durth"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "klaska-ossyl-zublorr"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "guardia-municipal"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "danneth-waylen"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "mascaron-profanado"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Usar esta lectura al sorprender el robo; si ya terminó, omitir los golpes. Si siguen activos, Durth y sus tres compañeros entran de noche por el norte mientras Waylen y casi toda la población duermen en sus casas. Destrozan T6; los cuatro guardias de T17 intervienen y, sin ayuda, mueren. Cada saqueador carga hasta cinco fragmentos de unos nueve kilos por saco y todos parten hacia la fortaleza de Xardorok. Ajustar la composición a supervivientes: no resucitar a Durth ni restituir una banda desmantelada. Las huellas duran entre una y cuatro horas. Si el rastro se borra, el ferry estará vaciado, incluido el mapa, y no ofrece la ruta de escape. Al día siguiente Waylen solicita la recuperación, promete favores por cada fragmento y advierte que no deben tocarse directamente. Una hora de preguntas con persuasión obtiene [contacto: Scython]; fallar no da información útil. Scython aporta otros rumores, pero no conoce a los ladrones ni su destino. No convertir este rodeo en una pista falsa que garantice encontrar la fortaleza. Sorprender el robo es una acción con [sigilo] o [alerta]; éxito [robo interrumpido] y [guardias salvados]; fallo [mascarón hecho fragmentos] y [guardia en peligro]; Seguir el rastro es una acción con [rastreo] o [percepción]; éxito [rastro seguido] y [ruta de escape]; fallo [rastro borrado] y [ferry vaciado]; Interrogar a los duergar capturados es una acción con [intimidación] o [influencia mágica]; éxito [planes de Xardorok revelados]; fallo [prisioneros herméticos].",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-easthaven.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "muelles-y-casa-de-nimsy"
+    ]
+   },
+   "order": 92,
+   "name": "Bosque Solitario: muelles y casa de Nimsy",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "pueblo"
+    ]
+   },
+   "motifs": [
+    "misterio"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hogar"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "nimsy-huddle"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "scoop-e-hijos-de-nimsy"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Se presenta el encargo y se negocia la recompensa. La buhardilla es el único alojamiento habitual para visitantes; el pueblo sacrifica alimentos a Auril y mantiene rivalidades con Bremen, Targos y Termalaine. Su milicia potencial reúne cincuenta combatientes y cuatro veteranos, pero movilizarlos retira manos de la subsistencia.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-lonelywood.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "el-tallista-feliz"
+    ]
+   },
+   "order": 93,
+   "name": "El Tallista Feliz",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "pueblo"
+    ]
+   },
+   "motifs": [
+    "misterio"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "iriskree-harrowhill"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Iriskree vende herramientas de talla, tintas y cera como etiquetas de mochila. Es una asesina retirada; ganarse su confianza requiere discreción y presionarla puede crear [indiscretos ante Iriskree].",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-lonelywood.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "el-mentiroso-con-suerte"
+    ]
+   },
+   "order": 94,
+   "name": "El Mentiroso con Suerte",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "taberna"
+    ]
+   },
+   "motifs": [
+    "misterio"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "taberna-sfx"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "puerta"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "danae-xotal"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Pescadores y leñadores cuentan historias; pueden surgir rumores generales de Diez Ciudades. Escuchar con paciencia puede dar [rumor por contrastar]; contrastar con testigos produce [testimonio fiable]. Una indiscreción puede crear [Danae conoce vuestro secreto]. Danae Xotal reúne información para Szass Tam y no revela su condición por una conversación corriente.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-lonelywood.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "la-desvencijada"
+    ]
+   },
+   "order": 95,
+   "name": "La Desvencijada",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "pueblo"
+    ]
+   },
+   "motifs": [
+    "misterio",
+    "esperanza"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "puerta"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "degrootz"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "DeGrootz apareció ahorcado hace dos años; algunos creen que viejos «amigos» lo asesinaron y fingieron el suicidio, pero es una sospecha. El pueblo usa el edificio como almacén y acepta que alguien lo restaure. Si Nimsy lo entrega, concede [propiedad de La Desvencijada].",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-lonelywood.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "el-bosque-rastreo-y-encuentros"
+    ]
+   },
+   "order": 96,
+   "name": "El bosque: rastreo y encuentros",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "bosque"
+    ]
+   },
+   "motifs": [
+    "tension",
+    "bestia"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "lobos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "invierno-y-rastreo"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "alce-blanco-dotado-de-conciencia"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "banshee-del-exilio"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "oso-pardo-hambriento"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "manada-de-lobos"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Una hora de búsqueda permite rastrear; el éxito obtiene [rastro de alce] y el fallo consume tiempo y puede causar [perdido-2] o [helado-1]. Hay una posibilidad entre seis de que las huellas conduzcan a la tumba; un alce ordinario no ataca si lo dejan tranquilo. Cada tres horas, comprueba un encuentro entre banshee, oso, chwingas, zorro y liebre, lobos o ningún encuentro.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-lonelywood.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "estatuas-y-entrada-del-tumulo"
+    ]
+   },
+   "order": 97,
+   "name": "E1-E2. Estatuas y entrada del túmulo",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "bosque"
+    ]
+   },
+   "motifs": [
+    "misterio",
+    "tension"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-cruje"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "alce-blanco-dotado-de-conciencia"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "La protección aparta inadvertidamente a aberraciones, demonios, gigantes, humanoides y no muertos; sin guía puede crear [desviado sin advertirlo]. Hay diez estatuas protectoras y volcarlas todas exige fuerza conjunta; el éxito crea [estatua derribada] y el fallo puede causar [agotado-1] o ruido. E2 solo se abre desde E6 o mediante magia de apertura equivalente.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-lonelywood.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "cenador-brasero-y-sarcofago-de-sahnar"
+    ]
+   },
+   "order": 98,
+   "name": "E3-E4. Cenador, brasero y sarcófago de Sahnar",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "bosque"
+    ]
+   },
+   "motifs": [
+    "misterio"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-cruje"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "sahnar"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Hay que quemar en el brasero una ramita, una piña, una pluma y una mano humanoide cortada; con los ingredientes correctos surge [llama de plata], que arde diez días y permite mover la tapa. Solo mientras arde se puede mover la losa; un fallo al moverla puede causar [atrapado-2]. Dentro despierta Sahnar, que ayuda a sus libertadores; su liberación es opcional.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-lonelywood.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "el-dial-lunar"
+    ]
+   },
+   "order": 99,
+   "name": "E5. El dial lunar",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "bosque"
+    ]
+   },
+   "motifs": [
+    "misterio"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [],
+   "handouts": [],
+   "notes": "El dial conserva calor mágico y señala la fase actual mientras la luna esté en el cielo. Leer élfico descubre dos instrucciones: la luna llena relaciona el reflejo con siete preguntas y los cuartos anuncian la apertura de las tumbas. Iluminar el símbolo lleno activa E7; iluminar un cuarto abre E8 y E9. La brecha comunica con E6 y evita la puerta cerrada de E2.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-lonelywood.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "refugio-de-animales-y-guarida-del-alce"
+    ]
+   },
+   "order": 100,
+   "name": "E6. Refugio de animales y guarida del alce",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "mina"
+    ]
+   },
+   "motifs": [
+    "bestia",
+    "tension"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "alce-blanco-dotado-de-conciencia"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Si no salió durante la vigilancia exterior, el alce ataca aquí. Los demás animales son inofensivos y se asustan con la lucha; crea [animales aterrados] si el combate lo justifica. Ravisin oye la pelea, pero permanece en E9 para preparar su defensa. Las tres estatuas completan la protección exterior.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-lonelywood.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "espejo-de-la-luna-llena"
+    ]
+   },
+   "order": 101,
+   "name": "E7. Espejo de la luna llena",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "mina"
+    ]
+   },
+   "motifs": [
+    "misterio"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    }
+   ],
+   "ambient": "dark",
+   "figures": [],
+   "handouts": [],
+   "notes": "Activo, funciona como instrumento de visión remota; el alce está vinculado a él y espía a cazadores y leñadores que conoce. La muerte del alce o el vínculo de otro usuario termina su control. El adhesivo soberano impide desmontarlo intacto; romperlo destruye su magia para siempre. El éxito obtiene [visión del objetivo]; los obstáculos de ocultación pueden producir [visión velada].",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-lonelywood.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "primera-tumba-de-media-luna"
+    ]
+   },
+   "order": 102,
+   "name": "E8. Primera tumba de media luna",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "mina"
+    ]
+   },
+   "motifs": [
+    "misterio"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    }
+   ],
+   "ambient": "dark",
+   "figures": [],
+   "handouts": [],
+   "notes": "Desde fuera requiere un cuarto iluminado en E5 o magia de apertura; desde dentro se abre sin dificultad. La luz superior es un efecto mágico menor disipable. La losa requiere medios adecuados o esfuerzo conjunto; éxito [sarcófago abierto], fallo [agotado-1] o demora. Contiene un arco sin cuerda, seis puntas de flecha plateadas y una taza de madera grabada con un pez alado.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-lonelywood.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "segunda-tumba-de-media-luna-ravisin-y-vurnis"
+    ]
+   },
+   "order": 103,
+   "name": "E9. Segunda tumba de media luna: Ravisin y Vurnis",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "culto"
+    ]
+   },
+   "motifs": [
+    "horror",
+    "amenaza",
+    "duelo"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    }
+   ],
+   "ambient": "dark",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "ravisin"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "arbusto-de-bayas-despertado"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "vurnis"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Tiene las mismas condiciones de apertura y luz que E8. Ravisin se oculta tras el sarcófago cuando oye la puerta; después se muestra y ataca hasta morir. El arbusto teme a Ravisin y al fuego; solo se defiende. Tras neutralizar a la druida, hablarle con calma puede obtener [confianza del arbusto]; amenazarlo provoca [aterrorizado-3]. Apartar la tapa libera un hedor y revela a Vurnis; una acción de medicina obtiene [muerta hace meses] y [descomposición ralentizada por el frío]. Bajo el cadáver está la bolsa de piel de tiburón con dos pociones.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-lonelywood.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "targos-puerto-cautivo"
+    ]
+   },
+   "order": 104,
+   "name": "Targos y el puerto cautivo",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "lago"
+    ]
+   },
+   "motifs": [
+    "tension",
+    "misterio"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-cruje"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "lago-sfx"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [],
+   "handouts": [],
+   "notes": "La mayor flota e industria pesquera del valle sigue explotando la trucha cabeza de jarrete de Maer Dualdon. Los pescadores arrastran sus botes hasta el agua libre. Presenta la dureza del trabajo y la dependencia de los favores del portavoz. La milicia puede reunir doscientos soldados y dieciséis veteranos, bajo Skath; no equivale a una patrulla siempre disponible.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-targos.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "los-brazos-de-luskan"
+    ]
+   },
+   "order": 105,
+   "name": "Los Brazos de Luskan",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "taberna"
+    ]
+   },
+   "motifs": [
+    "misterio",
+    "tension"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "puerta"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "naerth-maxildanarr"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "owenn-tarsenel"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Es la casa pública más antigua de Diez Ciudades, fundada cuando Bryn Shander era aún un campamento. Reproduce el Luskan anterior a su decadencia. Owenn vive sumido en la desesperanza. Naerth ocupa la suite mayor: le recuerda su ciudad natal y le permite recibir visitantes. Sus tres serpientes voladoras transportan mensajes a una red de al menos una docena de espías. Investigar con discreción puede descubrir [mensajería clandestina]; actuar sin cuidado genera [vigilados por la Red Negra]. No entregues automáticamente el secreto del portavoz al entrar.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-targos.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "tres-banderas-navegando-y-triglio"
+    ]
+   },
+   "order": 106,
+   "name": "Tres Banderas Navegando y Triglio",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "taberna"
+    ]
+   },
+   "motifs": [
+    "esperanza"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "taberna-sfx"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "ethen-ma-yarbroul"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "jestin-hunrae"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Ethen «Ma» Yarbroul sirve a pescadores cansados, fríos e inseguros sobre el futuro. Aquí pueden circular uno o dos rumores de otras ciudades. Jestin Hunrae regenta Triglio, nombre tomado de un canto de faena sobre tirar del sedal y llenar el cubo. Perdió el uso de la mano izquierda en una colisión con un barco de Termalaine. Vende equipo común, cañas y raquetas; los suministros profesionales de pesca y navegación corresponden a comerciantes especializados. Obtener equipo con recursos o favores adecuados concede etiquetas de mochila, no una compra automática sin coste narrativo.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-targos.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "chico-y-la-casa-de-los-velryn"
+    ]
+   },
+   "order": 107,
+   "name": "Chico y la casa de los Velryn",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "hidromiel"
+    ]
+   },
+   "motifs": [
+    "esperanza",
+    "misterio"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "perros"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "puerta"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hogar"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "keegan-velryn"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "chico-y-los-perros"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Keegan comparte los datos del gancho. Nació en Diez Ciudades; Garret procede de una familia rica de Neverwinter, pero prefirió guiar viajeros y escalar a vivir en una ciudad. Aceptar el encargo da [promesa a Keegan]. La sidra y el refugio permiten prepararse; no eliminan por sí solos lesiones graves. Chico puede ser una etiqueta de historia aliada y guiar hasta el campamento y Garret, sin convertirlo en un arma obligatoria.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-targos.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "ruta-de-caer-konig"
+    ]
+   },
+   "order": 108,
+   "name": "La ruta de Caer-Konig",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "camino"
+    ]
+   },
+   "motifs": [
+    "misterio"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "puerta"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "atenas-veloz"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "jarthra-farzassh"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Targos–Bryn Shander: unos cinco kilómetros; después, unos treinta y siete hasta Caer-Dineval y otros cinco rodeando Lac Dinneshere hasta Caer-Konig. Total: catorce horas y media a pie o siete con trineos. Es la opción segura indicada por la fuente, sin que desaparezca el clima. Las tres ciudades permiten recoger sus propias misiones. Atenas Veloz, en Expediciones Allendhelor, vio a Garret con un goliat, una mediana piesligeros y una tiflin, bien armados. Compraron equipo de escalada y acampada, fueron a Anzuelo, Sedal y Plomo y pensaban dormir en La Luz del Norte. Ambos establecimientos los recuerdan cansados y poco habladores, sin incidentes. Jarthra Farzassh puede ser contratada como guía si falta capacidad de rastreo; su coste se concreta en recursos o un favor.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "tundra-y-valle-de-los-enanos"
+    ]
+   },
+   "order": 109,
+   "name": "Tundra abierta y Valle de los Enanos",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "camino"
+    ]
+   },
+   "motifs": [
+    "tension",
+    "misterio"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [],
+   "handouts": [],
+   "notes": "La ruta directa cubre unos diecinueve kilómetros en veinticuatro horas a pie o doce en trineo. A mitad de trayecto hay un posible encuentro y se determina si coincide con ventisca. Como alternativa de conversión, usa el desafío ambiental de travesía. Cientos de enanos de escudo viven en minas y salas conectadas; salen poco, para cazar o conseguir comida. Son educados, incluso amistosos, y ofrecen uno o dos días de refugio, pero sus escasas reservas y trabajo impiden alojar indefinidamente. Quienes hayan completado «Jarras Espumeantes» pueden quedarse cuanto quieran.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "campamento-base-kelvin"
+    ]
+   },
+   "order": 110,
+   "name": "Campamento base",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "camino"
+    ]
+   },
+   "motifs": [
+    "tension",
+    "bestia"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "perros"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-cruje"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "chico-y-los-perros"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Jarthra conoce el lugar porque se lo recomendó a Garret; Chico también conduce directamente hasta él. Sin ayuda, cada búsqueda requiere ocho horas: una acción de orientación y supervivencia obtiene [campamento localizado]; el fallo consume ese tiempo y puede causar [helado-1] o [agotado-1] según la protección, antes de otro intento. Los cinco perros están hambrientos, helados y amistosos. Liberados, corren al pueblo más cercano buscando refugio. Una caja está vacía porque comieron su contenido; la otra conserva comida para cuatro personas durante tres días. El viento ha borrado las huellas, pero se puede deducir una ruta plausible. Chico lleva hacia Garret. Orden del ascenso: cabras, avalancha, Garret y felinos, escalada, caverna, campamento en ruinas.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "cabras-y-avalancha"
+    ]
+   },
+   "order": 111,
+   "name": "Cabras y avalancha",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "camino"
+    ]
+   },
+   "motifs": [
+    "amenaza",
+    "bestia",
+    "persecucion"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-cruje"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "rugido"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "manada-de-cabras-montesas"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "avalancha-kelvin"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Las cuatro cabras son indiferentes y solo se vuelven hostiles si las atacan. Después llega la avalancha: frente de unos sesenta metros, masa inicial de treinta de largo y nueve de profundidad. Parte unos ciento cincuenta metros por encima y barre otros trescientos hasta la base. Establece orden de marcha y separación antes de resolverla; el último Héroe queda bajo su trayectoria y necesita recorrer unos treinta metros para salir. La nieve avanza en embates de unos noventa metros: comunica la amenaza y da oportunidades inmediatas para correr de lado, alcanzar abrigo o asegurar compañeros. No resuelvas todo como una sola lesión inevitable; usa el desafío correspondiente.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "el-escalador-caido"
+    ]
+   },
+   "order": 112,
+   "name": "El escalador caído",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "camino"
+    ]
+   },
+   "motifs": [
+    "tension",
+    "horror",
+    "bestia"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-cruje"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "garret-velryn"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pareja-de-gatos-de-los-riscos"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Garret está apenas consciente: [herido-3], [agotado-1]. Conserva armas y equipo de escalada; ha perdido el resto. Tratarlo con cuidados, calor y etiquetas adecuadas le permite hablar; el fallo o la demora empeoran [helado] o dejan [cura insuficiente]. Explica que un yeti los sorprendió más arriba y él lo alejó de sus compañeros, recibiendo graves heridas antes de escapar cuando cesó la persecución. Mientras lo atienden, dos gatos de los riscos se acercan hasta unos seis metros y saltan sobre dos miembros del grupo. Observar y vigilar puede dar [emboscada advertida]; descuidar la vigilancia permite su primer zarpazo. Si uno cae, el otro huye. Garret quiere continuar: solo acepta regresar si sus heridas están resueltas y recibe la promesa de que buscarán a sus tres clientes. Chico y él se vuelven inseparables.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "la-escalada-peligrosa"
+    ]
+   },
+   "order": 113,
+   "name": "La escalada peligrosa",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "camino"
+    ]
+   },
+   "motifs": [
+    "tension",
+    "persecucion"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-cruje"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [],
+   "handouts": [],
+   "notes": "Resuelve tres pasos sucesivos con acciones de escalada, fuerza, equilibrio, cuerdas y ayuda de la Compañía. Cada éxito asegura un tramo y puede crear [cuerda fijada] o [paso asegurado]. Cada fallo cuesta una hora sin avanzar y causa [agotado-1] a quienes no superen el obstáculo; acumula el estado cuando corresponda. Un fallo peligroso puede dejar [suspendido de la cuerda] y exigir rescate, sin añadir caídas letales automáticas a todos los fallos. Llevar a supervivientes heridos o exhaustos exige preparar su seguridad.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "caverna-gelida-f1-entrada-abismo"
+    ]
+   },
+   "order": 114,
+   "name": "Caverna gélida: entrada y abismo F1",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "mina"
+    ]
+   },
+   "motifs": [
+    "horror",
+    "tension",
+    "misterio"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-cruje"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    }
+   ],
+   "ambient": "dark",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "familia-de-yetis"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "placa-de-hielo-sobre-f1"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Aquí el macho se ocultó bajo un ventisquero y atacó a Garret, desgarrándolo y mordiéndole un hombro. Mokingo intervino y murió; Perilou se ocultó dentro; Astrix huyó hacia arriba. El puente natural es seguro y lleva a F2; la placa meridional permite ir directamente a F3. Se puede romper deliberadamente mediante impactos o herramientas: acción exitosa crea [placa fracturada] y después [abismo abierto]. Frío, veneno y ataques a la mente no rompen este obstáculo. Quienes estén encima cuando ceda pueden saltar a cualquiera de los bordes con agilidad o ayuda: éxito [a salvo en el borde]; fallo, caída de veinticuatro metros con [herido-5], [postrado-2] y [atrapado en el fondo]. Anuncia las grietas y permite intervenir.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "caverna-gelida-f2-trofeos"
+    ]
+   },
+   "order": 115,
+   "name": "Caverna gélida: trofeos F2",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "mina"
+    ]
+   },
+   "motifs": [
+    "horror",
+    "misterio"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-cruje"
+      ]
+     }
+    }
+   ],
+   "ambient": "dark",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "mokingo-akannathi"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "barthoom-mazhogar-y-oobok"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Los restos principales son de Mokingo «Oso Gruñón» Akannathi; su cabeza arrancada ocupa un nicho. Hay además huesos y cráneos de tres cabras. Otros siete nichos contienen cabezas de víctimas humanoides anteriores. Dos pertenecen a Oobok, relacionado con «Jarras Espumeantes», y Barthoom Mazhogar, muerto hace un mes más arriba. Reconocerlos requiere conocimiento previo, testimonios o cotejar pistas; no es información evidente para cualquiera. Examinar con calma obtiene [destino de Mokingo confirmado] y, si procede, [identidad de las víctimas].",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "caverna-gelida-f3-guarida"
+    ]
+   },
+   "order": 116,
+   "name": "Caverna gélida: guarida F3 y regreso del padre",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "mina"
+    ]
+   },
+   "motifs": [
+    "tension",
+    "horror",
+    "bestia"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "rugido"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-cruje"
+      ]
+     }
+    }
+   ],
+   "ambient": "dark",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "familia-de-yetis"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "perilou-dedopez"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "La cría maltrata a Perilou como un juguete; ella está [agotada-3], sin otras lesiones relevantes, y lleva parte de su ropa de abrigo. La madre pretende ahuyentar intrusos: no combate ni se expone si los Héroes evitan atacar y comunican que solo quieren llevarse a la mediana. Un éxito al calmar y rescatar da [Perilou liberada]; un fallo puede provocar [madre alarmada] y otra amenaza antes de escalar a violencia. Perilou vio morir a Mokingo, desconoce el destino de Astrix y desea averiguarlo. Bajo el trineo hay utensilios de cocina, una mochila de explorador y ropa ensangrentada suficiente para dos atuendos de abrigo. Al salir vuelve el padre con una cabra muerta bajo el brazo: normalmente ataca. El secreto «El Yeti más Pequeño» puede mejorar su actitud y facilitar comunicación. Si llevan consigo a la cría, pueden devolverla a cambio de paso seguro hacia arriba o abajo; tomarla no es requisito ni una opción sin riesgo.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "campamento-en-ruinas"
+    ]
+   },
+   "order": 117,
+   "name": "Campamento en ruinas",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "noche"
+    ]
+   },
+   "motifs": [
+    "horror",
+    "misterio"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "viento"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hielo-cruje"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "astrix"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "barthoom-mazhogar-y-oobok"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "Astrix murió congelada. Escapó del yeti, subió presa del pánico y no se atrevió a volver junto a la cueva. Las botas que vio contribuyeron a hundirla en la desesperación. Pertenecen a Barthoom Mazhogar, explorador enano de escudo: su tienda lleva aquí un mes. Tirar de las botas descubre un cadáver decapitado; su cabeza está en F2. Lleva un odre vacío, queso de cabra a medio comer y equipo de minero. Astrix conserva una poción de invisibilidad y un grimorio de cuero; registra su contenido en la sección de objetos.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+  },
+  {
+   "ref": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "regreso-a-targos"
+    ]
+   },
+   "order": 118,
+   "name": "Regreso a Targos",
+   "reading": {
+    "sceneFlag": [
+     "mr-doncella-escarcha",
+     "direction"
+    ]
+   },
+   "music": {
+    "flag": [
+     "mr-doncella-escarcha",
+     "slug",
+     "pueblo"
+    ]
+   },
+   "motifs": [
+    "esperanza"
+   ],
+   "cues": [
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "pasos"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "perros"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "puerta"
+      ]
+     }
+    },
+    {
+     "label": "",
+     "icon": "wave-square",
+     "sound": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "hogar"
+      ]
+     }
+    }
+   ],
+   "ambient": "dim",
+   "figures": [
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "keegan-velryn"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "garret-velryn"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "perilou-dedopez"
+      ]
+     },
+     "label": ""
+    },
+    {
+     "ref": {
+      "flag": [
+       "mr-doncella-escarcha",
+       "slug",
+       "chico-y-los-perros"
+      ]
+     },
+     "label": ""
+    }
+   ],
+   "handouts": [],
+   "notes": "El Narrador decide el ritmo de la vuelta. La ruta directa por la tundra incluye al menos un encuentro de tierras salvajes; si falta la tabla externa, plantea una complicación ambiental con las amenazas de travesía. Reunir a los esposos completa el rescate. Si Garret muere, Keegan mantiene la recompensa solo si recibe el cuerpo para enterrarlo dignamente. Perilou permanece con la Compañía hasta llegar a Diez Ciudades y después abandona la vida aventurera. Llegar con personas exhaustas exige sostener calor, alimento y ritmo de marcha.",
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ciudad-targos.webp"
   },
   {
    "ref": {
