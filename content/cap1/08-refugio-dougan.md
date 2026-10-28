@@ -4,7 +4,7 @@ Refugio de Dougan, la población más pequeña y aislada de Diez Ciudades, apena
 Dos lobos invernales parlantes, Koran y Kanan, extorsionan al pueblo y retienen a los hermanos adolescentes Silja y Finn Dejarr.
 Su rescate exige alimentos y riquezas que la comunidad no tiene; la portavoz Edgra Durmoot los da por muertos.
 Los lobos intentan conducir a los Héroes hasta una cabaña de hielo, donde esperan que los mate Norsu, un mamut consciente.
-Norsu vela el cadáver de su amo, el gigante de la escarcha Garagai, muerto por otros aventureros el año anterior.
+Norsu vela el cadáver de su amo, el gigante de la escarcha Garagai, muerto por otros Héroes el año anterior.
 El rescate admite infiltración, negociación o huida: derrotar al mamut es una opción especialmente peligrosa.
 La cabaña ofrece rutas alternativas, cautivos adicionales y recursos valiosos, pero el frío y el ruido convierten cada demora en un riesgo.
 
@@ -13,7 +13,7 @@ La cabaña ofrece rutas alternativas, cautivos adicionales y recursos valiosos, 
 - **Petición local**: los habitantes remiten a la Compañía a Edgra Durmoot. Puede encargarles encontrar a los adolescentes, pero no ofrece recursos ni recompensa: cree que han muerto y se niega a entregar las reservas de comida.
 - **Encuentro fuera del pueblo**: Koran se presenta como víctima de un gigante abusivo y pide ayuda para liberar a dos prisioneros. Su hermano Kanan aguarda oculto.
 - **Acceso por tierra**: el sendero nevado desde Buenaguamiel mide unos 10 km y se recorre en cuatro horas a pie; monturas o trineos de perros pueden reducir el trayecto a la mitad. Buenaguamiel es la rival local.
-- **Datos de comunidad**: unos cincuenta habitantes; acogida, servicios y comodidad muy escasos. No hay industria que sostenga el pueblo, ni siquiera talla de marfil. La milicia puede reunir doce combatientes y un veterano. El sacrificio local a Auril consiste en renunciar al calor; el procedimiento general remite a la página 21, fuera de esta fuente.
+- **Datos de comunidad**: unos cincuenta habitantes; acogida, servicios y comodidad muy escasos. No hay industria que sostenga el pueblo, ni siquiera talla de marfil. La milicia puede reunir doce combatientes y un veterano. El sacrificio local a Auril consiste en renunciar al calor; el procedimiento general no se reproduce en esta fuente.
 - **Heráldica**: monolito gris sobre fondo azul cielo, encima de dos peces plateados cruzados con las cabezas hacia las esquinas superiores. La piedra representa el misterio local y los peces la antigua abundancia del lago.
 
 ## Escenas
@@ -106,13 +106,13 @@ La cabaña ofrece rutas alternativas, cautivos adicionales y recursos valiosos, 
 ### La huida y el regreso
 - **Lugar e imagen**: borde meridional de la cabaña, surcos sobre nieve nueva y tundra abierta; al final del trayecto, luces escasas tras ventanas escarchadas del pueblo.
 - **Lectura**: Al salir, el viento os golpea con una fuerza que casi habíais olvidado entre las paredes de hielo. El edificio queda a vuestra espalda, enorme y silencioso. Tenéis por delante un largo camino y ahora debéis cuidar de quienes apenas conservan fuerzas para recorrerlo. Cada huella que dejáis marca también vuestra dirección para cualquier perseguidor. Aun así, el espacio abierto ofrece una libertad que la cabaña no tenía. Si conseguís manteneros juntos, conservar el calor y seguir el rumbo, esas casas lejanas que antes parecían hostiles podrán convertirse por fin en un refugio.
-- **Qué ocurre**: evitar L5 y guardar silencio permite salir sin despertar la ira de Norsu. Las entradas orientales siguen vigiladas por los lobos; L8 permite eludir esa guardia. El regreso puede ser tranquilo o incluir un encuentro de naturaleza, cuyas reglas generales se remiten a la página 105. Si ambos lobos siguen vivos y persiguen a la Compañía, aprovechan el final de ese encuentro para atacar antes de cualquier descanso en el campamento. No es necesario inventar un encuentro adicional para forzar el ataque. La muerte de un hermano hace huir al otro. En el pueblo, Hilda recibe a sus hijos con alivio; basta rescatar a uno con vida para que entregue las botas familiares.
+- **Qué ocurre**: evitar L5 y guardar silencio permite salir sin despertar la ira de Norsu. Las entradas orientales siguen vigiladas por los lobos; L8 permite eludir esa guardia. El regreso puede ser tranquilo o incluir un encuentro de naturaleza, cuyas reglas generales no se reproducen en esta fuente. Si ambos lobos siguen vivos y persiguen a la Compañía, aprovechan el final de ese encuentro para atacar antes de cualquier descanso en el campamento. No es necesario inventar un encuentro adicional para forzar el ataque. La muerte de un hermano hace huir al otro. En el pueblo, Hilda recibe a sus hijos con alivio; basta rescatar a uno con vida para que entregue las botas familiares.
 - **Etiquetas de escena**: [cautivos a salvo de la jaula], [regreso agotador], [posible persecución], [hogar a la vista].
 - **Ambiente sonoro**: viento abierto, pasos arrastrados, gruñidos si hay emboscada; música contenida al llegar al pueblo.
 
 ## Personajes no jugadores
 ### Edgra Durmoot
-- **Papel**: portavoz y trampera veterana; humana, neutral en el original. · **Aspecto**: mujer mayor, equipo de abrigo de trampera; la fuente no precisa más rasgos, por lo que piel curtida y ropa remendada son propuestas visuales. · **Carácter y voz**: franca, seca, obstinada; rara vez acude al Consejo de Portavoces. · **Quiere**: conservar los escasos alimentos para los vivos. · **Sabe**: conoce las desapariciones y las exigencias de los lobos; cree muertos a los jóvenes, pero se equivoca. · **Si se convierte en desafío**: no combate; su papel aquí es político, no hostil.
+- **Papel**: portavoz y trampera veterana; humana. · **Aspecto**: mujer mayor, equipo de abrigo de trampera; la fuente no precisa más rasgos, por lo que piel curtida y ropa remendada son propuestas visuales. · **Carácter y voz**: franca, seca, obstinada; rara vez acude al Consejo de Portavoces. · **Quiere**: conservar los escasos alimentos para los vivos. · **Sabe**: conoce las desapariciones y las exigencias de los lobos; cree muertos a los jóvenes, pero se equivoca. · **Si se convierte en desafío**: no combate; su papel aquí es político, no hostil.
 
 ### Koran
 - **Papel**: lobo invernal extorsionador y falso aliado. · **Aspecto**: enorme lobo blanco, tamaño de caballo, cojera fingida que cambia de pata. · **Carácter y voz**: lastimero y servicial mientras interpreta; manipulador y cruel cuando pierde la máscara. · **Quiere**: llevar víctimas a Norsu y obtener comida y bienes del pueblo. · **Sabe**: Garagai murió, los jóvenes siguen vivos, Norsu espera en L5. · **Si se convierte en desafío**: forma parte de «Hermanos lobos invernales», nivel 2; límites, etiquetas y amenazas en su ficha.
@@ -121,16 +121,16 @@ La cabaña ofrece rutas alternativas, cautivos adicionales y recursos valiosos, 
 - **Papel**: hermano y cómplice de Koran, perseguidor oculto. · **Aspecto**: lobo blanco enorme, colmillos expuestos y postura intimidatoria. · **Carácter y voz**: gruñona, amenazante; finge furia por el maltrato de Koran. · **Quiere**: completar la trampa y atacar a los supervivientes que salgan. · **Sabe**: lo mismo que su hermano; puede seguir huellas y olores sin mostrarse. · **Si se convierte en desafío**: forma parte de «Hermanos lobos invernales», nivel 2. Si Koran muere, huye.
 
 ### Norsu
-- **Papel**: mamut lanudo consciente y guardián de la tumba; neutral malvado en el original. · **Aspecto**: volumen inmenso, lana espesa, largos colmillos; mirada que expresa comprensión y odio. · **Carácter y voz**: habla común con inteligencia humana corriente; acusa y amenaza desde un duelo sin consuelo. · **Quiere**: permanecer junto a Garagai y vengarse de los humanoides. Es herbívoro: mata por rencor, no para alimentarse. · **Sabe**: su amo fue asesinado por aventureros el año anterior; los Héroes no son necesariamente aquellos asesinos. · **Si se convierte en desafío**: «Norsu», nivel 3, Poderío Aventura; véase su ficha.
+- **Papel**: mamut lanudo consciente y guardián de la tumba. · **Aspecto**: volumen inmenso, lana espesa, largos colmillos; mirada que expresa comprensión y odio. · **Carácter y voz**: habla común con inteligencia humana corriente; acusa y amenaza desde un duelo sin consuelo. · **Quiere**: permanecer junto a Garagai y vengarse de los humanoides. Es herbívoro: mata por rencor, no para alimentarse. · **Sabe**: su amo fue asesinado por Héroes el año anterior; los Héroes no son necesariamente aquellos asesinos. · **Si se convierte en desafío**: «Norsu», nivel 3, Poderío Aventura; véase su ficha.
 
 ### Garagai
 - **Papel**: gigante de la escarcha muerto, antiguo señor de la cabaña y amo de Norsu. · **Aspecto**: cadáver gigantesco mutilado y congelado bajo hielo translúcido. · **Carácter y voz**: sin voz presente; era respetado entre los gigantes del Lejano Norte, sin ser jarl. · **Quiere**: no procede. · **Sabe**: no transmite información; su cadáver prueba que los lobos mienten. · **Si se convierte en desafío**: no combate; no hay resurrección ni animación prevista.
 
 ### Silja «Sil» Dejarr
-- **Papel**: adolescente cautiva; humana, neutral buena en el original. · **Aspecto**: alta y delgada, dientes puntiagudos, largas trenzas con nieve en las puntas, abrigo insuficiente para el encierro. · **Carácter y voz**: decidida, activa, dispuesta a colaborar en cuanto aparece una oportunidad. · **Quiere**: salir con Finn y volver con su madre. · **Sabe**: llevan cuatro días presos, los lobos les dan carne cruda; no atribuirle conocimiento completo del plano sin exploración. · **Si se convierte en desafío**: no combate; necesita abrigo y escolta.
+- **Papel**: adolescente cautiva; humana. · **Aspecto**: alta y delgada, dientes puntiagudos, largas trenzas con nieve en las puntas, abrigo insuficiente para el encierro. · **Carácter y voz**: decidida, activa, dispuesta a colaborar en cuanto aparece una oportunidad. · **Quiere**: salir con Finn y volver con su madre. · **Sabe**: llevan cuatro días presos, los lobos les dan carne cruda; no atribuirle conocimiento completo del plano sin exploración. · **Si se convierte en desafío**: no combate; necesita abrigo y escolta.
 
 ### Finn Dejarr
-- **Papel**: hermano adolescente cautivo; humano, neutral bueno en el original. · **Aspecto**: rostro redondo e imberbe, orejas pequeñas malformadas, manos entumecidas y dientes castañeteando. · **Carácter y voz**: intenta resolver el encierro examinando soportes; habla entre temblores. · **Quiere**: abrir la jaula y regresar con Silja. · **Sabe**: conoce las limitaciones físicas de la jaula tras examinarla. · **Si se convierte en desafío**: no combate; estado inicial [helado-2], que requiere calor y cuidados.
+- **Papel**: hermano adolescente cautivo; humano. · **Aspecto**: rostro redondo e imberbe, orejas pequeñas malformadas, manos entumecidas y dientes castañeteando. · **Carácter y voz**: intenta resolver el encierro examinando soportes; habla entre temblores. · **Quiere**: abrir la jaula y regresar con Silja. · **Sabe**: conoce las limitaciones físicas de la jaula tras examinarla. · **Si se convierte en desafío**: no combate; estado inicial [helado-2], que requiere calor y cuidados.
 
 ### Hilda Dejarr
 - **Papel**: madre de Silja y Finn y fuente de la recompensa. · **Aspecto**: humana adulta, agotada por la preocupación; edad exacta y ropa no descritas, abrigo doméstico remendado como propuesta visual. · **Carácter y voz**: angustiada durante la ausencia, agradecida al recuperarlos. · **Quiere**: que sus hijos vuelvan vivos. · **Sabe**: su esposo era cazador, murió años atrás y obtuvo unas botas mágicas al vencer a un aventurero en una competición de bebida. La fuente indica que era también su hermano mayor. · **Si se convierte en desafío**: no combate.
@@ -142,7 +142,6 @@ La cabaña ofrece rutas alternativas, cautivos adicionales y recursos valiosos, 
 Las cifras siguientes son propuestas de conversión LitM. Los estados se aplican según la ficción y las defensas pertinentes; un desafío cae cuando un estado alcanza uno de sus límites. Las fichas colectivas representan a toda la banda o manada.
 
 ### Hermanos lobos invernales (nivel 2)
-- **Origen 5e**: dos lobos invernales, Koran y Kanan; cada uno de VD 3.
 - **Límites**: herido 4, amedrentado 3, engaño desmontado 3. Desmontar el engaño termina su capacidad de hacerse pasar por aliados, no elimina su capacidad de atacar.
 - **Etiquetas y estados**: [cazadores coordinados], [olfato rastreador], [aliento glacial], [pelaje blanco], [habla manipuladora], [inmunes al frío].
 - **Amenazas y consecuencias**:
@@ -153,7 +152,6 @@ Las cifras siguientes son propuestas de conversión LitM. Los estados se aplican
 - **Debilidades / secretos**: la cojera y la indignación son fingidas. Sirvieron a Garagai y cuidan de Norsu. Protegen a los Héroes del temporal para llevarlos vivos al mamut. Si uno muere, el otro huye: no es necesario agotar el límite colectivo. El túnel sur permite eludir su vigilancia de las puertas.
 
 ### Norsu (nivel 3, Poderío Aventura)
-- **Origen 5e**: un mamut dotado de conciencia, basado en mamut de VD 6; habla común y comprende como un humano.
 - **Límites**: herido 5, calmado 3.
 - **Etiquetas y estados**: [masa descomunal], [colmillos arrolladores], [pisotones], [guardián de la tumba], [duelo inconsolable], [comprende el común].
 - **Amenazas y consecuencias**:
@@ -164,7 +162,6 @@ Las cifras siguientes son propuestas de conversión LitM. Los estados se aplican
 - **Debilidades / secretos**: antes de su primera agresión puede aceptar una amistad fingida con Garagai o una promesa convincente de venganza. Un éxito claro puede completar el límite calmado y establecer la tregua, sin exigir un combate social prolongado. Tolera oración u ofrenda y luego pide soledad. No persigue más allá de unos treinta metros del edificio. La magnitud y la fuerza justifican su Poderío Aventura; sigilo, negociación y salida lateral permiten afrontar el rescate sin vencerlo por la fuerza.
 
 ### Manada famélica (nivel 1)
-- **Origen 5e**: entre dos y siete lobos comunes, determinados originalmente por 1d6 + 1.
 - **Límites**: herido 3, ahuyentado 2, hambre atendida 2.
 - **Etiquetas y estados**: [olfato agudo], [rodean a los débiles], [mordiscos coordinados], [hambrientos-2].
 - **Amenazas y consecuencias**:
@@ -173,7 +170,6 @@ Las cifras siguientes son propuestas de conversión LitM. Los estados se aplican
 - **Debilidades / secretos**: están demacrados por hambre, no obedecen a Norsu. Comida y disuasión son soluciones viables. Los lobos invernales los espantan sin lucha.
 
 ### Tundra y ventisca (nivel 2)
-- **Origen 5e**: frío, nieve y posibilidad de ventisca durante el viaje; sin criatura ni VD. Conversión ambiental propuesta, no transcripción de las reglas de la página 10.
 - **Límites**: ruta superada 3, refugio asegurado 3.
 - **Etiquetas y estados**: [sin referencias], [nieve que borra rastros], [viento cortante], [exposición prolongada], [visibilidad reducida].
 - **Amenazas y consecuencias**:
@@ -183,7 +179,6 @@ Las cifras siguientes son propuestas de conversión LitM. Los estados se aplican
 - **Debilidades / secretos**: orientación, abrigo, cuerdas, refugios y cooperación contrarrestan sus amenazas. Koran y Kanan evitan extravíos y separaciones y protegen del peor temporal si guían al grupo. Alcanzar refugio permite esperar a que pase la ventisca; no completa automáticamente el viaje. Un descanso en el campamento exige abrigo real y seguridad.
 
 ### Trono rúnico de hielo (nivel 2)
-- **Origen 5e**: objeto mágico fijo de L5, sin criatura ni VD; nivel ambiental propuesto.
 - **Límites**: destruido 4.
 - **Etiquetas y estados**: [hielo macizo], [runa de conjuración], [resiste cortes y perforaciones], [inmune al frío], [sin mente ni metabolismo].
 - **Amenazas y consecuencias**:
@@ -192,7 +187,6 @@ Las cifras siguientes son propuestas de conversión LitM. Los estados se aplican
 - **Debilidades / secretos**: no actúa por voluntad propia. Su magia solo se activa mediante alguien sentado; un uso cada diez días. El fuego resulta especialmente eficaz para destruirlo; el veneno y los ataques mentales no lo afectan. Al alcanzar destruido 4 pierde toda magia. No se presenta como objeto de mochila transportable.
 
 ### Trío de kobolds (nivel 1)
-- **Origen 5e**: tres kobolds del viento helado, Holgi, Snorp y Zilbo; referencia al apéndice C. La fuente no reproduce sus estadísticas; conversión conservadora de un grupo menor.
 - **Límites**: herido 2, intimidado 2, convencido 2.
 - **Etiquetas y estados**: [pequeños y escurridizos], [se cubren entre sillas], [buscan protección], [asustados-2].
 - **Amenazas y consecuencias**:
@@ -201,9 +195,8 @@ Las cifras siguientes son propuestas de conversión LitM. Los estados se aplican
 - **Debilidades / secretos**: comienzan pidiendo ayuda. Una salida segura o la promesa creíble de escolta resuelve su resistencia. Su responsabilidad en la muerte del chwinga puede alterar la disposición de los Héroes a auxiliarlos.
 
 ### Milicia de Refugio de Dougan (nivel 2)
-- **Origen 5e**: hasta doce guerreros tribales y un veterano. Nivel basado en el veterano de VD 3; desafío colectivo solo si surge un enfrentamiento, no una escena prevista.
 - **Límites**: herido 4, desmoralizado 3, convencido 3.
-- **Etiquetas y estados**: [defienden sus hogares], [ventaja numérica], [veterano al mando], [suministros escasos].
+- **Etiquetas y estados**: [defienden sus hogares], [superioridad numérica], [veterano al mando], [suministros escasos].
 - **Amenazas y consecuencias**:
   - Cerrar el acceso al pueblo: crea [paso bloqueado]; impone [rodeado-2].
   - Cargar en grupo para expulsar intrusos: inflige [herido-2]; crea [expulsados de las viviendas].
@@ -238,17 +231,8 @@ Las cifras siguientes son propuestas de conversión LitM. Los estados se aplican
 - **Auril y el invierno eterno**: el lago inmovilizado, la pesca precaria y el sacrificio de calor muestran cómo su crueldad obliga a elegir entre alimento, abrigo y solidaridad.
 - **Buenaguamiel y Diez Ciudades**: el sendero ofrece la conexión terrestre inmediata. La rivalidad y la escasa asistencia de Edgra al Consejo refuerzan la marginalidad del pueblo; no implican un conflicto armado ya abierto.
 - **Druidas de la escarcha**: uno concedió conciencia a Norsu años atrás. No se proporciona nombre, paradero ni motivo; no atribuir ese acto a un personaje concreto de otras secciones sin información adicional.
-- **Gigantes del Lejano Norte**: Garagai recibió aquí a otros gigantes y era respetado, pero no gobernaba como jarl. Su muerte a manos de aventureros revela las consecuencias que dejan expediciones anteriores.
+- **Gigantes del Lejano Norte**: Garagai recibió aquí a otros gigantes y era respetado, pero no gobernaba como jarl. Su muerte a manos de Héroes revela las consecuencias que dejan expediciones anteriores.
 - **Thruun**: misterio independiente de la extorsión. Las teorías sobre un dios o un espíritu elemental ligado por magia druídica permanecen abiertas; no hay vínculo confirmado con Norsu, Auril o el trono.
 - **Chwingas y remorhaz**: el chwinga muerto permite reconocer estas criaturas en otras escenas. El túnel y el thrym prueban una visita antigua del remorhaz, no su presencia actual ni la ubicación de una cría.
 - **Trono mágico**: su ventisca puede favorecer una maniobra o agravar el aislamiento, afectando a cualquiera en su radio. La espera de diez días entre usos limita su explotación continuada.
-- **Uso de la fuente**: se normalizan «Refugio de Dougan», «Buenaguamiel», «Aguas Rojizas» y «Koran», que aparecen con variantes o errores. Los mapas se citan de forma inconsistente como 1.6 y 1.7 para el pueblo; el de la cabaña es el 1.8. El texto aportado no incluye sus imágenes ni permite reconstruir todos los enlaces interiores: conservar los accesos confirmados L1–L2/L3/L4 y L8–exterior sur, sin inventar una planta exacta.
-
-## Páginas de la fuente
-- **54**: pueblo, población, gobierno, milicia, heráldica, sacrificio, rivalidad, viaje desde Buenaguamiel, Veinte Piedras y trasfondo de «Atrapados».
-- **55**: recepción de la misión, actitud de Edgra, engaño de Koran y Kanan y comienzo de la travesía.
-- **56**: manada hambrienta, aproximación a la cabaña, vigilancia de los lobos, escala de la construcción y L1.
-- **57**: L2, tesoro del cofre, L3, descripción de Silja y Finn y mecanismos para abrir la jaula.
-- **58**: referencia al mapa 1.8, L4 y L5, reacción de Norsu, negociación y límite de persecución.
-- **59**: ausencia de botín de Garagai, trono mágico, L6–L8, kobolds, chwinga, aceite, thrym, huida, regreso y recompensa de Hilda.
-- **Remisiones externas no incluidas**: página 10, ventiscas; página 21, sacrificios; página 105, encuentros en tierras salvajes; apéndice C, chwingas y kobolds del viento helado. Las propuestas LitM anteriores permiten dirigir esta sección sin reproducir reglas ausentes.
+- **Uso de la fuente**: se normalizan «Refugio de Dougan», «Buenaguamiel», «Aguas Rojizas» y «Koran», que aparecen con variantes o errores. El texto aportado no incluye sus imágenes ni permite reconstruir todos los enlaces interiores: conservar los accesos confirmados L1–L2/L3/L4 y L8–exterior sur, sin inventar una planta exacta.

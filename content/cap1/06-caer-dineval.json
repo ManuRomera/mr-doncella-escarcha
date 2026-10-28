@@ -172,7 +172,7 @@
       "interior": true,
       "imagen_en": "A wide subterranean view of an arched stone cistern, black still water and a moored rowing boat beneath four torches. An iron-braced wooden ladder descends beside narrow passages and a partly submerged blue marble slab. Beyond lies a frost-covered shrine with black chains and a wooden horned effigy enclosed in ice. No people or creatures; leave the lower third open.",
       "lectura": "La escalera baja a una sala de piedra iluminada por cuatro antorchas. El aire huele a moho y a agua estancada. Al este, una cisterna se extiende bajo un techo arqueado; el agua está negra y quieta, y algo blanco flota cerca del fondo, mecido por una corriente que no debería existir. Un bote de remos espera atado a un hierro. Más allá, un pasadizo estrecho se pierde en la oscuridad. En la pared del fondo, alguien ha tallado una puerta de mármol azul, medio sumergida, y a su lado una palanca de hierro brilla con la humedad.",
-      "notas": "en el agua hay doce cadáveres, seis humanos y seis enanos, guardias del castillo asesinados por los sectarios; La cámara frigorífica guarda cuatro cuerpos envueltos en sábanas, tres humanos y un mediano, sectarios muertos en la toma del castillo y conservados porque el suelo está demasiado congelado para enterrarlos; El almacén junto a la cisterna solo contiene un saco de grano roído por una rata. La losa de mármol sella la cisterna este y se acciona con la palanca de la sala contigua; también cede ante magia de apertura; Al otro lado, un túnel lleva a la celda de los cinco sirvientes; El santuario de Levistus es una habitación de quince pies cuadrados con un maniquí de madera vestido como el archidiablo, encerrado en un pilar de hielo y envuelto en cadenas; el hielo se mantiene gracias a un parche de moho marrón de diez pies cuadrados en la pared; Tocar el pilar expone al moho. Un personaje con [religión] o [erudición] comprende que es un altar; En la cámara de Avarice, la maga albina recibe a los Héroes con una hospitalidad tensa: no dirá por qué está aquí ni qué busca, y si se siente amenazada se marcha sin luchar; Sus gárgolas, Gárgara y Gorgoteo, están fuera espiando a magos rivales, pero acudirán si ella las llama o si la matan o capturan. bucear o cruzar el agua helada es una acción con [natación], [frío] o [bote de remos]; éxito: [cisterna cruzada]; fallo: [empapado-2], [helado-3] y [ruido en el agua]; Accionar la palanca es trivial si se encuentra; hallarla requiere [exploración] u [observador]; Identificar el altar es una acción con [religión] o [erudición]; éxito: [altar de Levistus] y [moho marrón]; fallo: [pilar inquietante]; Negociar con Avarice es una acción social con [diplomacia], [arcano] o [interés común]; éxito: [tregua de Avarice]; fallo: [Avarice se marcha] y [gárgolas alerta].",
+      "notas": "en el agua hay doce cadáveres, seis humanos y seis enanos, guardias del castillo asesinados por los sectarios; La cámara frigorífica guarda cuatro cuerpos envueltos en sábanas, tres humanos y un mediano, sectarios muertos en la toma del castillo y conservados porque el suelo está demasiado congelado para enterrarlos; El almacén junto a la cisterna solo contiene un saco de grano roído por una rata. La losa de mármol sella la cisterna este y se acciona con la palanca de la sala contigua; también cede ante magia de apertura; Al otro lado, un túnel lleva a la celda de los cinco sirvientes; El santuario de Levistus es una habitación de cuatro metros y medio de lado con un maniquí de madera vestido como el archidiablo, encerrado en un pilar de hielo y envuelto en cadenas; el hielo se mantiene gracias a un parche de moho marrón de tres metros de lado en la pared; Tocar el pilar expone al moho. Un personaje con [religión] o [erudición] comprende que es un altar; En la cámara de Avarice, la maga albina recibe a los Héroes con una hospitalidad tensa: no dirá por qué está aquí ni qué busca, y si se siente amenazada se marcha sin luchar; Sus gárgolas, Gárgara y Gorgoteo, están fuera espiando a magos rivales, pero acudirán si ella las llama o si la matan o capturan. bucear o cruzar el agua helada es una acción con [natación], [frío] o [bote de remos]; éxito: [cisterna cruzada]; fallo: [empapado-2], [helado-3] y [ruido en el agua]; Accionar la palanca es trivial si se encuentra; hallarla requiere [exploración] u [observador]; Identificar el altar es una acción con [religión] o [erudición]; éxito: [altar de Levistus] y [moho marrón]; fallo: [pilar inquietante]; Negociar con Avarice es una acción social con [diplomacia], [arcano] o [interés común]; éxito: [tregua de Avarice]; fallo: [Avarice se marcha] y [gárgolas alerta].",
       "musica": "culto",
       "motivos": [
         "horror",
@@ -208,7 +208,7 @@
       "interior": true,
       "imagen_en": "A wide view of a windowless underground stone cell with frozen earth beneath scattered straw. Five abandoned grey blankets lie near a stool, a bucket and scratches on damp walls. A smoking oil lamp casts orange light and long shadows towards the dark cistern tunnel. The palette mixes dirty brown, dull grey and faint amber. No people or creatures; leave the lower third open.",
       "lectura": "El túnel desemboca en una habitación que apesta a sudor y a cubo. Cinco personas se apelotonan bajo mantas grises. Están demacradas, con los ojos hundidos y las manos sucias. Al veros, una mujer se pone en pie de un salto y levanta un taburete; un hombre mayor la sujeta del brazo. Nadie grita. Todos esperan. «¿Sois del culto?», pregunta ella, y la voz le tiembla. «Porque si lo sois, acabad de una vez. Y si no, sacadnos de aquí antes de que vuelva ese hijo de perra.»",
-      "notas": "los cinco sirvientes llevan dos semanas encerrados y alimentados a duras penas. Han planeado escapar; Si los Héroes se identifican antes de entrar, se presentan y suplican; si no, emboscan al primero que cruce la puerta: actúan como grupo, hacen un único intento de presa con ventaja y, si falla, se retiran a las esquinas hechos un ovillo. Son Lanthis Alderdusk, escriba y notario de sesenta y cuatro años, enérgico y ágil; Elprekt Norbrav, mayordomo de cincuenta y cinco, alto y esquelético; Mylbara Norbrav, su esposa, robusta, traductora de enano; Tam Sharf, criado mudo de unos treinta, ladrón buscado por un asesinato en Luskan; y Dassir Ravenscar, guardián de perros de veinticinco, tímido; Saben que los sectarios mataron a los guardias, que el portavoz sigue vivo y que Kadroth manda, pero no conocen los planes del culto. calmar a los sirvientes es una acción social con [empatía], [voz calmada] o [prueba de identidad]; éxito: [confianza de los sirvientes] y [fuga organizada]; fallo: [emboscada de los sirvientes] y [herido-1] para quien entre primero; Guiarlos fuera del castillo es una acción con [sigilo], [conocimiento del castillo] o [distracción]; éxito: [sirvientes liberados]; fallo: [alarma] y [sirvientes dispersos].",
+      "notas": "los cinco sirvientes llevan dos semanas encerrados y alimentados a duras penas. Han planeado escapar; Si los Héroes se identifican antes de entrar, se presentan y suplican; si no, emboscan al primero que cruce la puerta: actúan como grupo, hacen un único intento de presa con una etiqueta a favor y, si falla, se retiran a las esquinas hechos un ovillo. Son Lanthis Alderdusk, escriba y notario de sesenta y cuatro años, enérgico y ágil; Elprekt Norbrav, mayordomo de cincuenta y cinco, alto y esquelético; Mylbara Norbrav, su esposa, robusta, traductora de enano; Tam Sharf, criado mudo de unos treinta, ladrón buscado por un asesinato en Luskan; y Dassir Ravenscar, guardián de perros de veinticinco, tímido; Saben que los sectarios mataron a los guardias, que el portavoz sigue vivo y que Kadroth manda, pero no conocen los planes del culto. calmar a los sirvientes es una acción social con [empatía], [voz calmada] o [prueba de identidad]; éxito: [confianza de los sirvientes] y [fuga organizada]; fallo: [emboscada de los sirvientes] y [herido-1] para quien entre primero; Guiarlos fuera del castillo es una acción con [sigilo], [conocimiento del castillo] o [distracción]; éxito: [sirvientes liberados]; fallo: [alarma] y [sirvientes dispersos].",
       "musica": "culto",
       "motivos": [
         "tension",
@@ -277,7 +277,7 @@
       "presentacion": "Ante vosotros distinguís tiefling albina de piel blanca, cuernos pálidos, pelo blanco, ojos rojos; túnica oscura forrada de pieles, bastón de escarcha, libro de conjuros en una cartera; guantes finos; su cuervo Skelm sobre el hombro o en una viga; habitación con escarcha en el suelo, alfombra roja, cama estrecha y espejo. El frío vuelve visibles vuestras respiraciones y acentúa cada pausa. Al acercaros, podéis apreciar el desgaste de la ropa y los pequeños gestos que delatan su ánimo.",
       "caracter": "fría, cortés y profundamente egoísta; mide cada palabra y no pierde la compostura; trata a los Héroes como instrumentos útiles y no oculta que se marchará si el riesgo supera la ganancia; habla con precisión académica y un deje de superioridad",
       "quiere": "saquear Ythryn, la ciudad perdida de los netherios, y adelantarse a sus rivales de la Hermandad Arcana; conservar su libertad y su seguridad",
-      "sabe": "que Levistus le ha ordenado no estorbar a ciertos aventureros hasta que la ayuden; la ubicación aproximada de Ythryn; los nombres y debilidades de varios magos rivales; que el culto la teme; que Kadroth no la quiere cerca",
+      "sabe": "que Levistus le ha ordenado no estorbar a ciertos Héroes hasta que la ayuden; la ubicación aproximada de Ythryn; los nombres y debilidades de varios magos rivales; que el culto la teme; que Kadroth no la quiere cerca",
       "desafio": "avarice"
     },
     {
@@ -424,7 +424,7 @@
         "Apoyo"
       ],
       "aspecto_en": "A full-body group portrait of black-robed human and tiefling cultists in layered winter clothing, leather armour and heavy boots. Black sword-shaped chardalyn pendants hang at their throats. Their guarded stances and fanatical expressions suggest defenders accustomed to narrow castle corridors. Cold torchlight catches frost on hems and iron fittings, with muted charcoal, brown and blue dominating the scene.",
-      "descripcion": "doce sectarios y dos sectarios fanáticos del castillo (VD 1/2 y VD 2), más los refuerzos de las torres.. Su presencia condiciona la seguridad del castillo y las decisiones de los Héroes.",
+      "descripcion": "doce sectarios y dos sectarios fanáticos del castillo, más los refuerzos de las torres. Su presencia condiciona la seguridad del castillo y las decisiones de los Héroes.",
       "limites": [
         {
           "nombre": "dispersos",
@@ -478,9 +478,9 @@
         },
         {
           "nombre": "Usar los amuletos",
-          "descripcion": "el portador puede volverse [legal malvado] si falla la tentación; [amuleto corrupto]; el culto lo nota y lo reclama.",
+          "descripcion": "el portador puede volverse [corrompido] si falla la tentación; [amuleto corrupto]; el culto lo nota y lo reclama.",
           "consecuencias": [
-            "Aplica [legal malvado]",
+            "Aplica [corrompido]",
             "Aplica [amuleto corrupto]"
           ]
         },
@@ -510,7 +510,7 @@
         "Controlador"
       ],
       "aspecto_en": "A full-body portrait of a slender adult tiefling man with dark skin, short horns, a thin tail and yellow eyes. Black layered cult robes and a warm dark mantle surround a black sword-shaped pendant. An iron key ring hangs from one hand. His expression is vain and calculating, with nervous tension beneath a rehearsed dignified stance.",
-      "descripcion": "sectario fanático tiefling, líder del culto (VD 2; elevado a nivel 3 por su posición y recursos).. Su presencia condiciona la seguridad del castillo y las decisiones de los Héroes.",
+      "descripcion": "sectario fanático tiefling, líder del culto. Su presencia condiciona la seguridad del castillo y las decisiones de los Héroes.",
       "limites": [
         {
           "nombre": "herido",
@@ -532,8 +532,8 @@
         "líder del culto",
         "mentiroso",
         "anillo de llaves",
-        "resistencia al fuego",
-        "visión en la oscuridad",
+        "resisten el fuego",
+        "ven en la oscuridad",
         "favorito de sí mismo",
         "nervioso-2",
         "acorralado-2",
@@ -557,7 +557,7 @@
         },
         {
           "nombre": "Invocar a Levistus",
-          "descripcion": "[miedo de Levistus]; [convencido-2]; los sectarios presentes recuperan la fe y atacan con ventaja.",
+          "descripcion": "[miedo de Levistus]; [convencido-2]; los sectarios presentes recuperan la fe y atacan con una etiqueta a favor.",
           "consecuencias": [
             "Aplica [miedo de Levistus]",
             "Aplica [convencido-2]"
@@ -602,7 +602,7 @@
         "Controlador"
       ],
       "aspecto_en": "A full-body portrait of an adult albino tiefling woman with white skin, pale horns, white hair and red eyes. She wears a dark fur-lined robe, fine gloves and sturdy winter boots. One hand holds a dark frost staff crowned with ice crystal; a leather spellbook satchel hangs at her side. Her composed expression is cold, academic and assessing.",
-      "descripcion": "Avarice, maga tiefling albina de la Hermandad Arcana (Apéndice C; aproximadamente VD 7–8).. Su presencia condiciona la seguridad del castillo y las decisiones de los Héroes.",
+      "descripcion": "Avarice, maga tiefling albina de la Hermandad Arcana. Su presencia condiciona la seguridad del castillo y las decisiones de los Héroes.",
       "limites": [
         {
           "nombre": "herida",
@@ -686,7 +686,7 @@
         "Merodeador"
       ],
       "aspecto_en": "A full-body portrait of two animated stone gargoyles with membranous wings, sharp claws and heavy crouching bodies. Weathered grey stone, chipped edges and pale frost cover their surfaces. They cling to a castle parapet above a winter sky, ready to launch. Their watchful faces and powerful gripping feet suggest patient guardians awaiting a distant magical command.",
-      "descripcion": "dos gárgolas (VD 2), Gárgara y Gorgoteo.. Su presencia condiciona la seguridad del castillo y las decisiones de los Héroes.",
+      "descripcion": "dos gárgolas, Gárgara y Gorgoteo. Su presencia condiciona la seguridad del castillo y las decisiones de los Héroes.",
       "limites": [
         {
           "nombre": "heridas",
@@ -696,7 +696,7 @@
         {
           "nombre": "vuelo",
           "valor": 3,
-          "consecuencia": "si pierden altura, pierden ventaja"
+          "consecuencia": "si pierden altura, pierden la etiqueta a favor"
         }
       ],
       "etiquetas": [
@@ -738,7 +738,7 @@
       "secretos": [
         {
           "nombre": "Debilidades y secretos",
-          "descripcion": "son lentas en el suelo y torpes en espacios estrechos. No pueden entrar en la cisterna sin perder su ventaja. Si Avarice muere, luchan hasta destruirlas o hasta que el grupo escape del castillo."
+          "descripcion": "son lentas en el suelo y torpes en espacios estrechos. No pueden entrar en la cisterna sin perder su etiqueta a favor. Si Avarice muere, luchan hasta destruirlas o hasta que el grupo escape del castillo."
         }
       ]
     },
@@ -752,7 +752,7 @@
         "Merodeador"
       ],
       "aspecto_en": "A full-body group portrait of six grey dwarf infiltrators with compact muscular builds, grey skin and hard suspicious faces. Heavy winter layers cover practical armour, with mining tools and dark metal weapons close at hand. Their crouched stances suggest concealment inside an abandoned basement. Muted iron, ash and brown tones frame cold eyes and snow-stained boots.",
-      "descripcion": "seis duergar (VD 1) escondidos en la posada.. Su presencia condiciona la seguridad del castillo y las decisiones de los Héroes.",
+      "descripcion": "seis duergar escondidos en la posada. Su presencia condiciona la seguridad del castillo y las decisiones de los Héroes.",
       "limites": [
         {
           "nombre": "banda",
@@ -825,7 +825,7 @@
         "Peligro"
       ],
       "aspecto_en": "An environmental study of a brown mould patch spreading across a frozen stone shrine wall. Dense earthy textures surround an eight-foot ice pillar containing a painted wooden horned effigy bound with black chains. Supernatural frost coats nearby masonry, while faint torchlight adds dangerous warmth. Brown, black and glacial blue dominate; no people or living creatures appear in the scene.",
-      "descripcion": "parche de moho marrón de diez pies cuadrados en el santuario de Levistus.. Un peligro ambiental condiciona la exploración y exige protección.",
+      "descripcion": "parche de moho marrón de tres metros de lado en el santuario de Levistus.. Un peligro ambiental condiciona la exploración y exige protección.",
       "limites": [
         {
           "nombre": "parche",
@@ -1156,8 +1156,8 @@
       "etiquetas": [
         "fanática",
         "tiefling",
-        "resistencia al fuego",
-        "visión en la oscuridad",
+        "resisten el fuego",
+        "ven en la oscuridad",
         "manipuladora"
       ],
       "rasgos": [],
@@ -1189,7 +1189,7 @@
       "secretos": [
         {
           "nombre": "Motivaciones y salida",
-          "descripcion": "ascender en el culto, conservar a Huarwar bajo su control y demostrar que vale más que los demás fanáticos nivel 2; límites [herida 4], [convencida 3]; etiquetas [fanática], [tiefling], [resistencia al fuego], [visión en la oscuridad], [manipuladora]; amenazas: usa a Huarwar como escudo ([Huarwar expuesto], [herido-2]); lanza fuego ([quemado-2]); huye y da la alarma ([alarma], [sectarios alerta])."
+          "descripcion": "ascender en el culto, conservar a Huarwar bajo su control y demostrar que vale más que los demás fanáticos nivel 2; límites [herida 4], [convencida 3]; etiquetas [fanática], [tiefling], [resisten el fuego], [ven en la oscuridad], [manipuladora]; amenazas: usa a Huarwar como escudo ([Huarwar expuesto], [herido-2]); lanza fuego ([quemado-2]); huye y da la alarma ([alarma], [sectarios alerta])."
         }
       ]
     },
@@ -1317,7 +1317,7 @@
       "slug": "amuleto-de-espada-de-chardalyn",
       "nombre": "Amuleto de espada de chardalyn",
       "etiqueta": "amuleto de espada de chardalyn",
-      "descripcion": "etiqueta de mochila. Amuleto negro en forma de espada, con un resplandor interno que da calor y guía a su portador hasta la civilización; una vez en Diez Ciudades pierde el brillo. Está corrompido por Levistus: detectar el bien y el mal lo revela como profano. Cada amanecer, quien lo lleve debe superar una tentación o volverse [legal malvado]; pasados nueve días, solo un deseo o la intervención divina revierten el cambio.",
+      "descripcion": "etiqueta de mochila. Amuleto negro en forma de espada, con un resplandor interno que da calor y guía a su portador hasta la civilización; una vez en Diez Ciudades pierde el brillo. Está corrompido por Levistus: examinarlo con arcano lo revela como profano. Cada amanecer, quien lo lleve debe superar una tentación o volverse [corrompido]; pasados nueve días, solo un deseo o la intervención divina revierten el cambio.",
       "imagen_en": "An isolated black chardalyn amulet shaped like a small sword, suspended from a plain cord. A faint inner glow catches sharp mineral facets. Cold blue lighting, neutral background, detailed dark crystalline texture."
     },
     {
@@ -1380,7 +1380,7 @@
       "slug": "trineo-y-perros",
       "nombre": "Trineo y perros",
       "etiqueta": "trineo y perros",
-      "descripcion": "etiqueta de historia o de mochila. Seis perros de trineo amistosos y un trineo con arneses; permiten viajar más rápido por la nieve y reducir los tiempos de viaje hasta la mitad. Los perros ladran si alguien se acerca a menos de diez pies de la perrera.",
+      "descripcion": "etiqueta de historia o de mochila. Seis perros de trineo amistosos y un trineo con arneses; permiten viajar más rápido por la nieve y reducir los tiempos de viaje hasta la mitad. Los perros ladran si alguien se acerca a menos de tres metros de la perrera.",
       "imagen_en": "An isolated wooden snow sled with leather harnesses, surrounded by six friendly sled dogs in thick winter coats. Practical worn runners and bundled traces, soft cold light and a neutral snowy background."
     },
     {
@@ -1394,7 +1394,7 @@
       "slug": "moho-marron",
       "nombre": "Moho marrón",
       "etiqueta": "moho marrón",
-      "descripcion": "etiqueta de historia o peligro ambiental. Parche de diez pies cuadrados que mantiene congelado el santuario; crece con el frío y se alimenta de calor. Tocarlo o quemarlo tiene consecuencias graves.",
+      "descripcion": "etiqueta de historia o peligro ambiental. Parche de tres metros de lado que mantiene congelado el santuario; crece con el frío y se alimenta de calor. Tocarlo o quemarlo tiene consecuencias graves.",
       "imagen_en": "An isolated patch of dense brown mould on a fragment of frost-covered stone. Earthy fibrous texture contrasts with pale ice crystals, under cold directional light against a neutral dark background."
     },
     {

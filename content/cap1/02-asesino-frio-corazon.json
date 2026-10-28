@@ -288,7 +288,7 @@
         "Merodeador"
       ],
       "aspecto_en": "Full body portrait of a well built human man around thirty, with olive skin, dark hair in a ponytail and no facial hair. His intense blue eyes resemble a frozen lake. He wears an elegant southern sailor waistcoat, matching trousers and boots, without coat, gloves or scarf. A translucent ice blade forms in one bare hand; his smile is calmly courteous.",
-      "descripcion": "no muerto mediano neutral malvado, guardaespaldas de Torrga Vetagélida; VD 3 (700 PX). Inmune al frío, al miedo y al encanto; se regenera en el frío; puede usar paso brumoso hasta tres veces al día; combate con una espada larga y dagas de hielo. Puede elevarse a nivel 3 ante un grupo numeroso o muy preparado.",
+      "descripcion": "Guardaespaldas de Torrga Vetagélida, poseído por un espíritu de escarcha. Se regenera en el frío; puede usar paso brumoso hasta tres veces al día; combate con una espada larga y dagas de hielo. Puede elevarse un nivel ante un grupo numeroso o muy preparado.",
       "limites": [
         {
           "nombre": "herido",
@@ -333,7 +333,7 @@
       "rasgos": [
         {
           "nombre": "Inmunidades",
-          "descripcion": "Inmune al frío, al miedo y al encanto."
+          "descripcion": "No siente el frío, el miedo ni el encanto."
         },
         {
           "nombre": "Paso brumoso",
@@ -411,7 +411,7 @@
         "Apoyo"
       ],
       "aspecto_en": "Full body portrait of a robust shield dwarf merchant woman with a braided beard threaded through silver rings. She wears a thick merchant coat over layered furs, leather gloves and a coin counting apron. A ring of keys hangs at her neck; an axe rests at her belt. Her broad stance, sharp eyes and mocking grin convey noisy confidence and avarice.",
-      "descripcion": "enana escudo capitana de bandidos, neutral malvada; VD 2. Visión en la oscuridad, resistencia al veneno y ventaja contra el veneno. Dirige la caravana y protege sus beneficios.",
+      "descripcion": "Capitana de bandidos que dirige la caravana y protege sus beneficios. Ven en la oscuridad y resisten el veneno.",
       "limites": [
         {
           "nombre": "herido",
@@ -431,8 +431,8 @@
       ],
       "etiquetas": [
         "capitana de bandidos",
-        "visión en la oscuridad",
-        "resistente al veneno",
+        "ve en la oscuridad",
+        "resiste el veneno",
         "codiciosa",
         "cuatro bandidos",
         "trineos",
@@ -452,7 +452,7 @@
       "rasgos": [
         {
           "nombre": "Resistencia enana",
-          "descripcion": "Visión en la oscuridad y resistencia al veneno."
+          "descripcion": "Ven en la oscuridad y resisten el veneno."
         }
       ],
       "amenazas": [
@@ -506,7 +506,7 @@
         "Merodeador"
       ],
       "aspecto_en": "Full body group portrait of four weather beaten male and female caravan drivers wearing mismatched furs, patched leather and damaged winter boots. They carry clubs, crossbows and knives. One has a broken nose, another a branded cheek. Their slouched stances and guarded, bored expressions suggest rough humour and loyalty bought with wages. Snow and dog harnesses evoke their trade.",
-      "descripcion": "cuatro bandidos neutrales malvados (VD 1/8 cada uno). Su lealtad depende de la paga.",
+      "descripcion": "Cuatro bandidos que conducen y protegen la caravana. Su lealtad depende de la paga.",
       "limites": [
         {
           "nombre": "herido",
@@ -821,14 +821,14 @@
       "slug": "contrato-de-hlin",
       "nombre": "Contrato de Hlin",
       "etiqueta": "contrato de Hlin",
-      "descripcion": "etiqueta de historia. Representa el acuerdo verbal y la bolsa de oro prometida. Mientras esté activo, un Héroe puede invocarlo para obtener ventaja social con cazarrecompensas, comerciantes o autoridades. Se rompe si traicionan a Hlin o entregan a Sephek a las autoridades.",
+      "descripcion": "etiqueta de historia. Representa el acuerdo verbal y la bolsa de oro prometida. Mientras esté activo, un Héroe puede invocarlo para contar como etiqueta a favor con cazarrecompensas, comerciantes o autoridades. Se rompe si traicionan a Hlin o entregan a Sephek a las autoridades.",
       "imagen_en": "An isolated leather coin pouch beside an empty tavern chair, representing a spoken bounty agreement rather than a written contract. Warm firelight reveals worn stitching, dark leather and a few gold coins."
     },
     {
       "slug": "recompensa-de-hlin",
       "nombre": "Recompensa de Hlin",
       "etiqueta": "recompensa de Hlin",
-      "descripcion": "etiqueta de mochila o recurso. Una bolsa de oro (cien monedas en la fuente) que se traduce en recursos para el grupo: provisiones, sobornos, alojamiento o favores. No se cuenta moneda a moneda.",
+      "descripcion": "etiqueta de mochila o recurso. Una bolsa de oro que se traduce en recursos para el grupo: provisiones, sobornos, alojamiento o favores. No se cuenta moneda a moneda.",
       "imagen_en": "An isolated worn leather purse spilling a small heap of gold coins onto dark timber. Soft amber light catches the metal and the drawstring, suggesting a practical bounty payment in a frozen frontier."
     },
     {
@@ -863,7 +863,7 @@
       "slug": "cadaver-del-semielfo",
       "nombre": "Cadáver del semielfo",
       "etiqueta": "cadáver del semielfo",
-      "descripcion": "prueba y gancho. Hombre de unos treinta años, medio elfo, congelado, con una herida de arma blanca en el pecho; está oculto en un saco grande del trineo. Torrga planea cobrar una recompensa de ciento veinticinco monedas en Luskan. Devuelto a Luskan, genera [favor de Luskan] o [recompensa de Luskan]; también prueba que Torrga mata por encargo.",
+      "descripcion": "prueba y gancho. Hombre de unos treinta años, medio elfo, congelado, con una herida de arma blanca en el pecho; está oculto en un saco grande del trineo. Torrga planea cobrar una recompensa en monedas en Luskan. Devuelto a Luskan, genera [favor de Luskan] o [recompensa de Luskan]; también prueba que Torrga mata por encargo.",
       "imagen_en": "An isolated frozen half elf man around thirty, partly wrapped in a large coarse sack. A single stab wound marks his chest; pale frost covers his still face and winter clothing under subdued blue light."
     },
     {
@@ -928,7 +928,7 @@
       "slug": "cartel-de-recompensa-de-luskan",
       "titulo": "Recompensa de Luskan",
       "tipo": "cartel",
-      "texto": "RECOMPENSA: CIENTO VEINTICINCO MONEDAS\nSe busca a un fugitivo semielfo, varón de unos treinta años, escondido en el Valle del Viento Helado. Se advierte de su peligrosidad. Recompensa pagadera en Luskan.",
+      "texto": "RECOMPENSA: MONEDAS\nSe busca a un fugitivo semielfo, varón de unos treinta años, escondido en el Valle del Viento Helado. Se advierte de su peligrosidad. Recompensa pagadera en Luskan.",
       "fondo_en": "An empty sheet of rough parchment with worn edges and faint folds, resting flat under soft neutral light. The central surface is clear and unmarked, with no text, symbols or illustrations."
     },
     {

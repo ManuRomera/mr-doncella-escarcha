@@ -188,7 +188,7 @@
       "presentacion": "Veis una figura hierática envuelta en escarcha y capas blancas rígidas, de edad indeterminada. Sus formas no se describen en el extracto; el frío parece emanar de ella. Su montura, un roc blanco, completa la imagen. Habla poco y sus frases son breves y heladas.",
       "caracter": "Distante e incapaz de compasión; frases breves y heladas.",
       "quiere": "Soledad y conservación de la belleza mediante la congelación.",
-      "sabe": "Cómo mantener el sol fuera del valle y cerrar los accesos con temporales. Cada renovación la debilita y puede ser derrotada en ese estado. Sus motivos completos remiten al apéndice C.",
+      "sabe": "Cómo mantener el sol fuera del valle y cerrar los accesos con temporales. Cada renovación la debilita y puede ser derrotada en ese estado. Sus motivos completos no figuran en este extracto.",
       "desafio": "auril-debilitada"
     },
     {
@@ -573,7 +573,7 @@
         "Obstáculo"
       ],
       "aspecto_en": "A creature portrait of a powerful freshwater trout with a broad head and muscular body, thrashing at the end of a fishing line through a hole in the ice. Cold water, bubbles and frost. No people.",
-      "descripcion": "Una trucha por captura exitosa; su perfil se remite al apéndice C y no figura aquí. Nivel provisional.",
+      "descripcion": "Una trucha por captura exitosa; su perfil no figura aquí. Nivel provisional.",
       "limites": [
         {
           "nombre": "capturada",
@@ -583,7 +583,7 @@
       ],
       "etiquetas": [
         "tirón poderoso",
-        "ventaja bajo el agua",
+        "ágil bajo el agua",
         "cuerpo resbaladizo",
         "alimento valioso",
         "pez escapado",
@@ -1359,7 +1359,7 @@
       "slug": "ficha-de-viaje",
       "titulo": "Ficha de viaje",
       "tipo": "nota",
-      "texto": "Referencias de distancia y tiempo: trineo de perros 1 milla por hora en tundra y media en montaña; a pie con raquetas media milla en tundra y un cuarto en montaña; a pie sin raquetas un cuarto en tundra y un octavo en montaña. La montaña tarda al menos el doble y añade riesgo de perder la ruta.",
+      "texto": "Referencias de distancia y tiempo: trineo de perros 1600 m por hora en tundra y 800 m en montaña; a pie con raquetas 800 m en tundra y 400 m en montaña; a pie sin raquetas 400 m en tundra y 200 m en montaña. La montaña tarda al menos el doble y añade riesgo de perder la ruta.",
       "fondo_en": "An empty sheet of rough parchment with worn edges and faint folds, resting flat under soft neutral light. The central surface is clear and unmarked, with no text, symbols or illustrations."
     },
     {

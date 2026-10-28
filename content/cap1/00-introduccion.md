@@ -18,7 +18,7 @@ Preparad una primera sesión para decidir de dónde viene cada Héroe, cuánto t
 
 Antes de jugar, acordad qué horrores queréis tratar y cuáles quedan fuera. El aislamiento, los sacrificios, la persecución, el canibalismo y la gestación parasitaria aparecen entre los materiales de la fuente. La inquietud pertenece a los Héroes; la mesa debe poder disfrutar y detener o cambiar una escena. Incorporad con cuidado los temas aceptados con reservas y retiradlos cuando sea necesario.
 
-Cada Héroe empieza con [ropa de abrigo completa] en su mochila, además de sus pertenencias habituales. Puede llevar una baratija invernal elegida en común; la tabla original está en el apéndice A, ausente del extracto. Formulad una Gesta que explique su implicación y elegid uno de estos puntos de partida:
+Cada Héroe empieza con [ropa de abrigo completa] en su mochila, además de sus pertenencias habituales. Puede llevar una baratija invernal elegida en común; la tabla original no está incluida en este extracto. Formulad una Gesta que explique su implicación y elegid uno de estos puntos de partida:
 
 | Origen o pasado | Gancho y posible Gesta |
 |---|---|
@@ -38,7 +38,7 @@ Cada Héroe empieza con [ropa de abrigo completa] en su mochila, además de sus 
 
 Como apertura propuesta, reunid a la Compañía ante un trayecto necesario: llevar provisiones, encontrar a alguien retrasado o conseguir pescado para un hogar. Elegid el asentamiento sin atribuirle una misión concreta que el extracto no proporciona. Presentad primero el coste cotidiano del invierno; los planes de Xardorok, la identidad de su patrón y la solución de Ythryn son información reservada al Narrador.
 
-**Secretos de los Héroes.** La fuente propone uno por Héroe, opcionalmente dos si la mesa disfruta de la paranoia. Pueden repartirse al azar, sustituirse si no encajan y repetirse entre Héroes. También podéis elegirlos. Nadie está obligado a ocultarlos hasta una escena predeterminada. El apéndice B contiene las tarjetas completas, no incluidas aquí; los siguientes son los datos y consecuencias que sí aporta esta introducción:
+**Secretos de los Héroes.** La fuente propone uno por Héroe, opcionalmente dos si la mesa disfruta de la paranoia. Pueden repartirse al azar, sustituirse si no encajan y repetirse entre Héroes. También podéis elegirlos. Nadie está obligado a ocultarlos hasta una escena predeterminada. Las tarjetas completas no están incluidas aquí; los siguientes son los datos y consecuencias que sí aporta esta introducción:
 
 | Secreto | Uso en LitM y conexión |
 |---|---|
@@ -128,7 +128,7 @@ Las indicaciones visuales y vocales siguientes son propuestas cuando el texto no
 
 ### Auril, la Doncella de la Escarcha
 
-- **Papel**: Causa divina del invierno. · **Aspecto**: Deidad de edad indeterminada; propuesta visual: figura hierática envuelta en escarcha y capas blancas rígidas; el extracto no describe sus formas. Su montura es un roc blanco. · **Carácter y voz**: Distante, incapaz de compasión; frases breves y heladas. · **Quiere**: Soledad y conservación de la belleza mediante la congelación. · **Sabe**: Cómo mantener el sol fuera del valle y cerrar los accesos con temporales. Cada renovación la debilita: puede ser derrotada en ese estado. Sus motivos completos remiten al apéndice C. · **Si se convierte en desafío**: Véase «Auril debilitada»; no se la convence apelando a la piedad.
+- **Papel**: Causa divina del invierno. · **Aspecto**: Deidad de edad indeterminada; propuesta visual: figura hierática envuelta en escarcha y capas blancas rígidas; el extracto no describe sus formas. Su montura es un roc blanco. · **Carácter y voz**: Distante, incapaz de compasión; frases breves y heladas. · **Quiere**: Soledad y conservación de la belleza mediante la congelación. · **Sabe**: Cómo mantener el sol fuera del valle y cerrar los accesos con temporales. Cada renovación la debilita: puede ser derrotada en ese estado. Sus motivos completos no figuran en este extracto. · **Si se convierte en desafío**: Véase «Auril debilitada»; no se la convence apelando a la piedad.
 
 ### Xardorok Solmarchito
 
@@ -212,7 +212,6 @@ Los valores siguientes son propuestas LitM. Un desafío cae cuando un estado per
 
 ### Frío extremo (nivel 2)
 
-- **Origen 5e**: Regla ambiental de exposición al frío, sin criatura ni cantidad.
 - **Límites**: exposición interrumpida 3.
 - **Etiquetas y estados**: [temperatura habitual de −45 °C], [viento que agrava el frío], [sin calor solar], [exposición prolongada]. La fuente añade una reducción extrema por sensación térmica, pero su redacción sobre las unidades es ambigua.
 - **Amenazas y consecuencias**:
@@ -223,7 +222,6 @@ Los valores siguientes son propuestas LitM. Un desafío cae cuando un estado per
 
 ### Ventisca (nivel 3)
 
-- **Origen 5e**: Temporal de dos a ocho horas; sin cantidad de criaturas. Puede favorecer el acecho de yetis.
 - **Límites**: a salvo 4, tormenta soportada 4.
 - **Etiquetas y estados**: [mundo blanco], [viento feroz], [huellas borradas], [magia difícil de sostener], [proyectiles desviados], [vuelo ordinario inviable].
 - **Amenazas y consecuencias**:
@@ -235,7 +233,6 @@ Los valores siguientes son propuestas LitM. Un desafío cae cuando un estado per
 
 ### Avalancha y sepultamiento (nivel 4, Poderío: Grandeza)
 
-- **Origen 5e**: Una masa de nieve y escombros de unos 90 × 45 × 9 metros; también sirve para desprendimientos de roca.
 - **Límites**: fuera de la trayectoria 3, todos rescatados 4.
 - **Etiquetas y estados**: [masa imparable], [avance fulminante], [escombros contundentes], [nieve compactada], [oscuridad bajo la nieve].
 - **Amenazas y consecuencias**:
@@ -247,7 +244,6 @@ Los valores siguientes son propuestas LitM. Un desafío cae cuando un estado per
 
 ### Agua helada e hielo inseguro (nivel 3)
 
-- **Origen 5e**: Inmersión y ropa mojada; el hielo fino se añade como aplicación ambiental propuesta.
 - **Límites**: rescatado y seco 4, cruce asegurado 3.
 - **Etiquetas y estados**: [agua glacial], [ropa empapada], [borde resbaladizo], [profundidad oculta], [costra quebradiza].
 - **Amenazas y consecuencias**:
@@ -259,9 +255,8 @@ Los valores siguientes son propuestas LitM. Un desafío cae cuando un estado per
 
 ### Trucha de cabeza de jarrete (nivel 1)
 
-- **Origen 5e**: Una trucha por captura exitosa; su perfil se remite al apéndice C y no figura aquí. Nivel provisional.
 - **Límites**: capturada 3.
-- **Etiquetas y estados**: [tirón poderoso], [ventaja bajo el agua], [cuerpo resbaladizo], [alimento valioso].
+- **Etiquetas y estados**: [tirón poderoso], [ágil bajo el agua], [cuerpo resbaladizo], [alimento valioso].
 - **Amenazas y consecuencias**:
   - Se revuelve contra la línea: crea [pez escapado]; se pierde esa oportunidad de captura.
   - Tira del pescador hacia la abertura: inflige [desequilibrado-2]; si no se asegura, lo arrastra al agua y causa [empapado-2].
@@ -269,7 +264,6 @@ Los valores siguientes son propuestas LitM. Un desafío cae cuando un estado per
 
 ### Banda recolectora duergar (nivel 1)
 
-- **Origen 5e**: Grupos duergar al mando de Durth o Nildar; cantidades sin especificar. Propuesta basada en duergar ordinarios, sin reproducir capacidades no descritas.
 - **Límites**: herida 3, retirada 3, desarmada de su cargamento 3.
 - **Etiquetas y estados**: [enanos grises], [cuadrilla organizada], [buscadores de chardalyn], [conocen su ruta].
 - **Amenazas y consecuencias**:
@@ -280,7 +274,6 @@ Los valores siguientes son propuestas LitM. Un desafío cae cuando un estado per
 
 ### Asesina a sueldo (nivel 4)
 
-- **Origen 5e**: Una asesina independiente enviada por Neverember contra el descendiente de Alagondar; adaptación del arquetipo de asesino.
 - **Límites**: herida 4, misión frustrada 4.
 - **Etiquetas y estados**: [profesional del asesinato], [garfio en la mano derecha], [identidad discreta], [objetivo concreto], [emboscada preparada].
 - **Amenazas y consecuencias**:
@@ -291,7 +284,6 @@ Los valores siguientes son propuestas LitM. Un desafío cae cuando un estado per
 
 ### Acechador invisible (nivel 3, Poderío: Aventura)
 
-- **Origen 5e**: Un acechador invisible, asesino personal de un pachá deshonrado, ligado al secreto de Amante esquivo.
 - **Límites**: dispersado 4, objetivo fuera de alcance 4.
 - **Etiquetas y estados**: [invisible], [perseguidor implacable], [asesino por encargo], [presencia sin rostro].
 - **Amenazas y consecuencias**:
@@ -302,7 +294,6 @@ Los valores siguientes son propuestas LitM. Un desafío cae cuando un estado per
 
 ### Banda de diablos barbudos (nivel 2, Poderío: Aventura)
 
-- **Origen 5e**: Tres diablos barbudos enviados por adoradores de Asmodeo; un único desafío de grupo.
 - **Límites**: herida 4, atentado frustrado 4.
 - **Etiquetas y estados**: [trío infernal], [disfraz de viajeros], [ropa de invierno], [objetivo: el autor], [ataque coordinado].
 - **Amenazas y consecuencias**:
@@ -313,7 +304,6 @@ Los valores siguientes son propuestas LitM. Un desafío cae cuando un estado per
 
 ### Renacuajo slaad latente (nivel 2)
 
-- **Origen 5e**: Un renacuajo que puede eclosionar en el portador del secreto; el texto remite a los slaadi y a los huevos de slaad rojo.
 - **Límites**: infección curada 3.
 - **Etiquetas y estados**: [parásito interno], [momento incierto], [curable antes de eclosionar], [parásito latente].
 - **Amenazas y consecuencias**:
@@ -323,7 +313,6 @@ Los valores siguientes son propuestas LitM. Un desafío cae cuando un estado per
 
 ### Influencia del chardalyn profano (nivel 2)
 
-- **Origen 5e**: Contacto prolongado con material contaminado por magia demoníaca; no todo el chardalyn tiene esta propiedad.
 - **Límites**: influencia cortada 3.
 - **Etiquetas y estados**: [frío al tacto], [residuo de los Planos Inferiores], [contacto prolongado], [alteración de la percepción].
 - **Amenazas y consecuencias**:
@@ -334,7 +323,6 @@ Los valores siguientes son propuestas LitM. Un desafío cae cuando un estado per
 
 ### Xardorok y su proyecto (nivel 3, Poderío: Aventura)
 
-- **Origen 5e**: Un brujo duergar con fortaleza y un dragón de chardalyn en construcción; perfil y efectivos no incluidos. Desafío estratégico provisional para anticipar el capítulo 3.
 - **Límites**: herido 4, dominio desmantelado 5.
 - **Etiquetas y estados**: [tirano de la Infraoscuridad], [fortaleza de montaña], [hijos recolectores], [forja de chardalyn], [falsa revelación de Duerra].
 - **Amenazas y consecuencias**:
@@ -345,7 +333,6 @@ Los valores siguientes son propuestas LitM. Un desafío cae cuando un estado per
 
 ### Dragón de chardalyn (nivel 4, Poderío: Grandeza)
 
-- **Origen 5e**: Un constructo con forma de dragón, destinado a destruir Diez Ciudades. Perfil no incluido; nivel provisional.
 - **Límites**: destruido 6, ataque local rechazado 4.
 - **Etiquetas y estados**: [cuerpo de chardalyn], [arma de asedio móvil], [vuela entre asentamientos], [terror sobre los tejados], [poblaciones indefensas].
 - **Amenazas y consecuencias**:
@@ -356,7 +343,6 @@ Los valores siguientes son propuestas LitM. Un desafío cae cuando un estado per
 
 ### Auril debilitada (nivel 5, Poderío: Grandeza)
 
-- **Origen 5e**: Una deidad y un roc blanco como montura durante su ritual; no se desarrolla aquí un combate separado con el roc. Perfil y formas de Auril ausentes: propuesta estratégica, no conversión de sus fases.
 - **Límites**: forma vencida 6, ritual impedido 5.
 - **Etiquetas y estados**: [divinidad del invierno], [sin compasión], [belleza inmovilizada], [aurora nocturna], [debilitada tras el conjuro], [roc blanco].
 - **Amenazas y consecuencias**:
@@ -396,9 +382,9 @@ Los valores siguientes son propuestas LitM. Un desafío cae cuando un estado per
 
 | Medio | Tundra por hora | Montaña por hora |
 |---|---:|---:|
-| Trineo de perros | 1 milla, aproximadamente 1,6 km | ½ milla, aproximadamente 800 m |
-| A pie con raquetas | ½ milla, aproximadamente 800 m | ¼ de milla, aproximadamente 400 m |
-| A pie sin raquetas | ¼ de milla, aproximadamente 400 m | ⅛ de milla, aproximadamente 200 m |
+| Trineo de perros | 1600 m | 800 m |
+| A pie con raquetas | 800 m | 400 m |
+| A pie sin raquetas | 400 m | 200 m |
 
 Una marcha exitosa conserva ese avance. Perderse en una ventisca consume la hora sin reducir distancia; retroceder de un paso muerto de montaña añade una hora. La búsqueda de un compañero separado también consume horas sin avance hacia el destino. No hay una velocidad concreta de carretera en este extracto.
 
@@ -436,7 +422,7 @@ La Costa de la Espada bordea el oeste de Faerûn y se extiende al sur durante mi
 
 **Uso flexible.** Se pueden jugar las localizaciones por separado o trasladarlas a otra campaña. La fuente propone llevar la fortaleza a las montañas Yatil de Oerth, a las Raíz de Hierro de Khorvaire, a los Alpes Flotket de Wildemount o a una cordillera propia. Puede cambiarse el constructo, sustituirse al tirano o conservarse únicamente el mapa. Si un aliado acompaña a la Compañía, un jugador puede interpretarlo como secundario con sus etiquetas y motivaciones; el Narrador puede recuperar su control cuando sea necesario, sin revelar secretos reservados.
 
-**Alcance de las referencias.** El original remite al apéndice A para baratijas; al B para tarjetas de secretos; al C para goliats, criaturas, figuras y motivos de Auril; y al D para objetos como el mythallar. Sus perfiles y textos no están en esta fuente. Las referencias originales a manuales de reglas se sustituyen aquí por acciones, etiquetas, estados y límites. No es necesario consultar reglas de otro sistema para aplicar las propuestas de esta ficha; sí harán falta las fuentes de cada capítulo para desarrollar sus localizaciones y hechos aún no descritos.
+**Alcance de las referencias.** El original remite a sus apéndices para baratijas, tarjetas de secretos, criaturas, figuras, motivos de Auril y objetos como el mythallar. Sus perfiles y textos no están en esta fuente. Las referencias originales a manuales de reglas se sustituyen aquí por acciones, etiquetas, estados y límites. No es necesario consultar reglas de otro sistema para aplicar las propuestas de esta ficha; sí harán falta las fuentes de cada capítulo para desarrollar sus localizaciones y hechos aún no descritos.
 
 ## Páginas de la fuente
 

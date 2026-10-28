@@ -175,7 +175,6 @@ Los rasgos visuales y las voces no especificados en la fuente son propuestas par
 Los Poderíos Aventura de los gigantes expresan su fuerza frente a Héroes de Origen; no hacen inviable recurrir al engaño, el terreno o la negociación. Aplicad los límites a estados pertinentes: un desafío cae cuando uno de ellos se alcanza. No suméis estados de distinta naturaleza como una reserva común.
 
 ### Duhg, verbeeg merodeador (nivel 3, Poderío Aventura)
-- **Origen 5e**: un verbeeg merodeador; perfil remitido al apéndice C, correspondiente a la franja de conversión 4–6.
 - **Límites**: herido 5, intimidado 3.
 - **Etiquetas y estados**: [fuerza de gigante], [lanza de largo alcance], [conoce la guarida], [devoción por sus mascotas], [necesita luz].
 - **Amenazas y consecuencias**:
@@ -183,10 +182,10 @@ Los Poderíos Aventura de los gigantes expresan su fuerza frente a Héroes de Or
   - Empuja hacia la hoguera: desplaza a un Héroe al fuego e inflige [quemado-3]; crea [ropa ardiendo].
   - Reclama ayuda: atrae a Amigo si puede oírlo; si ve más de dos intrusos, silba y crea [Yogobor en camino], con llegada tras tres intercambios.
   - Protege el cercado: inflige [apartado del rebaño-2]; crea [Duhg entre vosotros y sus mascotas].
-- **Debilidades / secretos**: una amenaza creíble contra los animales puede alcanzar el límite intimidado y detener las hostilidades bajo las condiciones de V3. El ganado le importa más que matar a los intrusos. Sin luz pierde su ventaja visual. Su muerte puede activar la venganza de Gahg.
+- **Debilidades / secretos**: una amenaza creíble contra los animales puede alcanzar el límite intimidado y detener las hostilidades bajo las condiciones de V3. El ganado le importa más que matar a los intrusos. Sin luz no ve.
+ Su muerte puede activar la venganza de Gahg.
 
 ### Amigo, el ogro (nivel 2, Poderío Aventura)
-- **Origen 5e**: un ogro, equivalente a la franja 2–3; llega sin secuelas de la matanza.
 - **Límites**: herido 4, amedrentado 3.
 - **Etiquetas y estados**: [garrote enorme], [masa descomunal], [poco perspicaz], [leal a Duhg], [dormido-2] mientras siga sin despertar en V5.
 - **Amenazas y consecuencias**:
@@ -196,7 +195,6 @@ Los Poderíos Aventura de los gigantes expresan su fuerza frente a Héroes de Or
 - **Debilidades / secretos**: cabe robar los barriles sin combatir si controlan el ruido. Obedece a Duhg cuando este pide calma para salvar al rebaño. Su propia torpeza explica las cestas elevadas.
 
 ### Yogobor, oso de las cavernas (nivel 2)
-- **Origen 5e**: un oso con perfil de oso polar, pelaje pardo y visión en la oscuridad de unos dieciocho metros; franja 2–3.
 - **Límites**: herido 4, ahuyentado 3.
 - **Etiquetas y estados**: [olfato animal], [ve en la oscuridad], [garras y colmillos], [hambriento], [dormido-2] al comienzo si no fue llamado.
 - **Amenazas y consecuencias**:
@@ -206,7 +204,6 @@ Los Poderíos Aventura de los gigantes expresan su fuerza frente a Héroes de Or
 - **Debilidades / secretos**: pasar a oscuras y en silencio evita despertarlo, aunque él sí ve. Una luz que lo ilumine lo despierta. Propuesta para reflejar su instinto de supervivencia: con [herido-3] y sin Duhg visible, intenta huir; no espera a caer. Respeta a las mascotas y la orden de calma de Duhg.
 
 ### Gahg, visitante enamorada (nivel 3, Poderío Aventura)
-- **Origen 5e**: una verbeeg merodeadora; mismo tipo que Duhg, franja 4–6.
 - **Límites**: herida 5, tranquilizada 3.
 - **Etiquetas y estados**: [fuerza de gigante], [lanza larga], [amor por Duhg], [cesta de regalos], [teme una desgracia].
 - **Amenazas y consecuencias**:
@@ -216,7 +213,6 @@ Los Poderíos Aventura de los gigantes expresan su fuerza frente a Héroes de Or
 - **Debilidades / secretos**: permitirle comprobar que Duhg está bien facilita retirarse. Si él ha muerto, no se la tranquiliza con simples buenas palabras. Conserva una pista material y un testimonio del accidente del nautiloide.
 
 ### Banda de matones de Naerth (nivel 1)
-- **Origen 5e**: ocho matones humanos, reunidos en un desafío de banda; cada integrante pertenece a la franja 0–1. Sus contrincantes aparentes son Shandar y sus cinco compañeros leñadores.
 - **Límites**: desbandados 4, intimidados 3, delatados 3.
 - **Etiquetas y estados**: [ocho matones], [ropa de invierno], [superioridad numérica], [asalto pactado], [pagados desde Targos].
 - **Amenazas y consecuencias**:
@@ -226,7 +222,6 @@ Los Poderíos Aventura de los gigantes expresan su fuerza frente a Héroes de Or
 - **Debilidades / secretos**: el combate inicial es teatro y su huida no demuestra una victoria real. Un capturado e interrogado revela que Naerth los contrató. Alcanzar delatados representa obtener prueba utilizable del montaje, no un colapso físico de toda la banda.
 
 ### Shandar y su candidatura (nivel 1)
-- **Origen 5e**: un plebeyo enano escudo, franja 0–1; adaptación como desafío social, sin convertir a sus cinco compañeros en adversarios adicionales obligatorios.
 - **Límites**: desacreditado 3, disuadido 4.
 - **Etiquetas y estados**: [popular entre leñadores], [amigos fieles], [bravucón], [chantajeado por los Zhentarim], [pasado en Mirabar], [apoyo de Naerth].
 - **Amenazas y consecuencias**:
@@ -236,7 +231,6 @@ Los Poderíos Aventura de los gigantes expresan su fuerza frente a Héroes de Or
 - **Debilidades / secretos**: la confesión de los matones desmonta su hazaña. La búsqueda por asesinato y el chantaje son otros flancos, pero esta sección no proporciona una prueba lista para entregarse. El apoyo de Olivessa da arraigo local a un Héroe candidato.
 
 ### Hoguera y ropa prendida (nivel 1)
-- **Origen 5e**: peligro de fuego de V3, sin criatura asociada.
 - **Límites**: sofocado 3, aislado 2.
 - **Etiquetas y estados**: [llama abierta], [brasas], [ropa ardiendo], [calor intenso].
 - **Amenazas y consecuencias**:
@@ -245,7 +239,6 @@ Los Poderíos Aventura de los gigantes expresan su fuerza frente a Héroes de Or
 - **Debilidades / secretos**: apartarse de la hoguera evita la exposición directa, pero no apaga la ropa. Rodar, cubrir con una manta o emplear nieve permite una acción para eliminar [ropa ardiendo]; éxito, [llamas apagadas]; fallo, persiste el fuego y empeora [quemado] si corresponde. No es preciso apagar toda la hoguera para salvar a alguien.
 
 ### Maldición del reposo robado (nivel 2)
-- **Origen 5e**: maldición de V10, activada al retirar restos u objetos mágicos de la cacique.
 - **Límites**: restitución 2, purificada 4.
 - **Etiquetas y estados**: [vínculo con lo sustraído], [pesadillas fantasmales], [maldición funeraria], [descanso negado].
 - **Amenazas y consecuencias**:
@@ -261,15 +254,17 @@ Los Poderíos Aventura de los gigantes expresan su fuerza frente a Héroes de Or
 - **Provisiones y herramientas de la cueva**: etiquetas de mochila [antorcha grande], [sal y pimienta], [tijeras de esquilar], [cubo], [cepillo] o [grano y avena], según lo recogido. Hay diez antorchas grandes; paja en una caja y condimentos en dos barriles medio llenos. Sustraer objetos voluminosos puede producir ruido y complicar la retirada.
 - **Tesoro de una cesta de V5**: sustituye el dinero suelto por [reserva para trueques]. Añade [ágata musgosa rosada], translúcida y útil para un favor o intercambio modesto; [equipo de sanador], para justificar cuidados; [trampa de caza], para preparar una sujeción; y [diez proyectiles de honda plateados], en una bolsa de piel de conejo, útiles contra vulnerabilidades a la plata. No son un arma encantada por el mero recubrimiento.
 - **Pertenencias de Artin**: [hacha de batalla de Artin] y [botas gruesas de Artin], etiquetas de mochila si las conservan. El paquete de V3 y los huesos de V7 permiten relacionar al difunto con el asado. Darle sepultura o devolver sus efectos puede justificar un hito de Gesta, sin inventar familiares concretos ni una recompensa garantizada.
-- **Don del chwinga**: [bendición de llamada animal], etiqueta de mochila sobrenatural. Rutina propuesta: invocar ayuda animal apropiada al entorno para una tarea de escena; tras usarla, tachad la bendición hasta que la ficción permita renovarla. La fuente permite un encantamiento de invocar animales o uno de los nuevos del apéndice C, cuyos textos no están incluidos aquí; esta rutina resuelve el primero en LitM sin fingir reproducir el apéndice. Solo lo recibe el Héroe alcanzado si el espíritu puede trabar amistad con el zorro y marcharse montado en él.
+- **Don del chwinga**: [bendición de llamada animal], etiqueta de mochila sobrenatural. Rutina propuesta: invocar ayuda animal apropiada al entorno para una tarea de escena; tras usarla, tachad la bendición hasta que la ficción permita renovarla. La fuente permite un encantamiento de invocar animales o uno de los nuevos, cuyos textos no están incluidos aquí; esta rutina resuelve el primero en LitM sin fingir reproducir el apéndice. Solo lo recibe el Héroe alcanzado si el espíritu puede trabar amistad con el zorro y marcharse montado en él.
 - **Estatua y agua de Silvanus**: [estanque restaurador de Silvanus], recurso del lugar. La hoja de roble lo identifica; la magia detectable es protectora y la identificación completa requiere contacto. La estatua forma parte del fondo, no es una pieza suelta. Tras descongelar el estanque, quien bebe puede eliminar una maldición o un estado persistente de deterioro físico o mental de gran entidad. Es una restauración, no resurrección; no devuelve a Kendrick ni a Artin. Cada criatura obtiene el beneficio una sola vez, registrado con [bendición de Silvanus recibida]. Llevarse botellas no garantiza beneficios futuros: la fuente solo establece el efecto de beber del estanque activo.
 - **Perla de poder**: [perla de poder], etiqueta de mochila mágica. Rutina propuesta: después de agotar o tachar una capacidad mágica propia, reactivarla una vez entre descansos en el campamento que proporcionen recuperación efectiva. No elimina por sí misma la maldición de la tumba ni concede magia desconocida.
-- **Varita del mago de guerra**: [varita de puntería arcana], etiqueta de mochila que da Poder cuando una acción de ataque mágico depende de dirigir con precisión su efecto. No añade una cifra fija ni sustituye el tema mágico necesario para lanzar el hechizo.
+- **Varita del mago de guerra**: [varita de puntería arcana], etiqueta de mochila que da Poder cuando una acción de ataque mágico depende de dirigir con precisión su efecto. No añade una cifra fija ni sustituye el tema mágico necesario para usar la magia.
+
 - **Restos de la cacique**: [restos funerarios de la cacique]. Retirarlos activa la misma maldición que llevarse la perla o la varita. Los pictogramas pueden estudiarse o copiarse sin profanar la sepultura.
 - **Cesta de Gahg**: [fragmentos de metal de otro mundo]. Son piezas de un arma futurista expulsada de la bodega de un nautiloide illita antes de estrellarse. No componen por sí solas un arma utilizable. Una acción exigente con saber arcano u otros conocimientos verdaderamente pertinentes identifica su origen ajeno a este mundo: éxito, [metal extraplanetario reconocido]; fallo, [procedencia desconocida], conservando los fragmentos y la posibilidad de consultar a alguien. Un herrero o chatarrero puede ofrecer a cambio [favor de taller] o [provisiones obtenidas por trueque].
 - **Testimonio de Gahg**: [relato del cometa caído]. Describe lo que vio y cómo encontró el metal; no proporciona automáticamente coordenadas ni conocimiento sobre los illitas.
 - **Pruebas políticas**: [testimonio contra Naerth], obtenido de un matón capturado e interrogado, y [asalto amañado demostrado], si se hace público de manera convincente. La fuente no incluye una carta de contratación que pueda encontrarse por defecto.
-- **Ayudas para los jugadores**: pueden entregarse una ficha de los caminos y tiempos, una reconstrucción dibujada de las entradas observadas, una copia de los pictogramas de V10 y una transcripción del testimonio de Gahg o de un matón. Señalad que son ayudas preparadas por el Narrador a partir de información descubierta. No existe un documento literal de estos en la fuente; evitad incluir secretos no revelados. El mapa 1.12 corresponde a la villa y el 1.13 a la guarida, pero sus imágenes no están reproducidas en el texto proporcionado.
+- **Ayudas para los jugadores**: pueden entregarse una ficha de los caminos y tiempos, una reconstrucción dibujada de las entradas observadas, una copia de los pictogramas de V10 y una transcripción del testimonio de Gahg o de un matón. Señalad que son ayudas preparadas por el Narrador a partir de información descubierta. No existe un documento literal de estos en la fuente; evitad incluir secretos no revelados.
+
 
 ## Desenlaces y recompensas
 
@@ -287,21 +282,14 @@ Los Poderíos Aventura de los gigantes expresan su fuerza frente a Héroes de Or
 ## Conexiones con la campaña
 
 - **Diez Ciudades**: la falta de hidromiel afecta a las tabernas del valle, y el cargamento robado iba a Bryn Shander. Recuperarlo devuelve a Buenaguamiel su vínculo comercial y hace visible la dependencia entre comunidades aisladas.
-- **Auril**: el sacrificio de calor coloca la supervivencia cotidiana y la protección de las colmenas bajo la sombra del invierno. El procedimiento concreto se remite a «Sacrificios a Auril», página 21, ausente de esta fuente.
+- **Auril**: el sacrificio de calor coloca la supervivencia cotidiana y la protección de las colmenas bajo la sombra del invierno. El procedimiento concreto se remite a «Sacrificios a Auril», ausente de esta fuente.
+
 - **Conflictos locales**: Caer-Dineval y Caer-Konig son rivales actuales; Refugio de Dougan protagonizó la guerra antigua que dio nombre al lago. No confundáis esa historia con una nueva guerra obligatoria.
 - **Zhentarim**: la elección enlaza con Naerth Maxildanarr y Targos. Shandar informa una vez al mes por chantaje; el asalto proporciona una oportunidad inmediata de probar la intervención de Naerth. El asesinato de Mirabar permite futuras investigaciones, pero esta sección no identifica a la víctima ni detalla el caso.
 - **«Id Ascendente»**: Gahg vio la caída del nautiloide y recogió fragmentos del arma expulsada. El metal y su relato son el puente a esa aventura; aquí no se proporciona la ubicación del accidente ni el contenido de la nave.
 - **Silvanus y la tumba**: una restauración excepcional bajo hielo y el castigo por perturbar a una guía ancestral ofrecen alternativas al saqueo. Los pictogramas recuerdan que otras comunidades sobrevivieron a la tundra antes de la fundación de la villa.
-- **Referencias externas**: el apéndice C contiene los perfiles de verbeegs, zorros y chwingas, además de sus nuevos encantamientos. Las reglas de dones sobrenaturales y los conjuros citados en el original no se reproducen aquí; los efectos necesarios para jugar esta sección se han expresado en LitM.
+- **Referencias externas**: los perfiles de verbeegs, zorros y chwingas y sus nuevos encantamientos, las reglas de dones sobrenaturales y los conjuros citados en el original no se reproducen aquí; los efectos necesarios para jugar esta sección se han expresado en LitM.
 
-## Páginas de la fuente
 
-- **73**: historia y situación de Buenaguamiel, población, defensa, heráldica, sacrificio, rivales, viajes, Salón del Hidromiel y candidatos.
-- **74**: santuario de Tempus, cadáver de Kendrick, inicio de «El hidromiel debe fluir», Fef, zorro y hallazgo de la milicia; referencia al mapa 1.12.
-- **75**: autor de la matanza, ocho horas de rastreo, encuentro del chwinga, rasgos de la guarida y V1.
-- **76**: referencia al mapa 1.13, cuarta entrada, V2 y V3; alertas, fuego y negociación mediante el ganado.
-- **77**: rebaño y Artin, V4, V5 y tesoro, V6, Yogobor y comienzo de la descripción de la estatua de V7.
-- **78**: restauración de Silvanus, V8, V9 y descripción de V10.
-- **79**: objetos y maldición de V10, Gahg y su cesta, regreso con los barriles, propuesta electoral de Olivessa e intervención Zhentarim.
 
 Se ha unificado el topónimo como **Buenaguamiel** y el nombre del verbeeg como **Duhg**; se han corregido variantes y erratas de la traducción. Se ha omitido en V5 la repetición accidental del texto de V3, manteniendo las cestas, los barriles y el ogro que sí corresponden a esa cámara.

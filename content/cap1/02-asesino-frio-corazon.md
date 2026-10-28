@@ -77,23 +77,23 @@ Tres asesinatos han sacudido Diez Ciudades en el último mes: un trampero median
 
 ### Hlin Matatrols
 
-- **Papel**: cazarrecompensas retirada, patrona de la misión y posible aliada recurrente. En el original se llama Hlin Trollbane. · **Aspecto**: enana escudo de edad avanzada, pelo gris trenzado, cara curtida por el viento, cicatriz profunda a través de la nariz, abrigo de pieles gastado, sin armadura, hacha de batalla y hacha de mano al cinto, pipa de madera oscura, manos nudosas y mirada despierta. · **Carácter y voz**: seca, observadora y directa; habla poco y escucha mucho; tiene un humor negro y una decencia testaruda. No soporta a los fanfarrones ni a las autoridades que miran hacia otro lado. Respeta la competencia y desprecia la crueldad gratuita. · **Quiere**: detener al asesino, satisfacer su sentido de la justicia, encontrar a alguien competente a quien confiar el trabajo y gastar su oro en algo que valga la pena. · **Sabe**: los tres asesinatos, la firma de la daga de hielo, la conexión de las víctimas con las loterías de Bryn Shander, Puerto Este y Targos, el nombre y el oficio de Sephek, su resistencia al frío, la ruta de Torrga y la existencia del cadáver del semielfo. No tiene pruebas concluyentes ni sabe si Torrga protege a Sephek. Conoce la Costa de la Espada y tiene enemigos antiguos. · **Si se convierte en desafío**: no combate. Si los Héroes la traicionan, se convierte en una enemiga social de nivel 2: límites [convencida 3], [herida 3]; etiquetas [cazarrecompensas retirada], [hachas], [red de contactos], [oro], [rencor]; amenazas: contrata a otros cazadores ([cazadores rivales]), difunde su versión ([reputación manchada]) y retira su apoyo ([deuda pendiente]).
+- **Papel**: cazarrecompensas retirada, patrona de la misión y posible aliada recurrente. En el original se llama Hlin Trollbane. · **Aspecto**: enana escudo de edad avanzada, pelo gris trenzado, cara curtida por el viento, cicatriz profunda a través de la nariz, abrigo de pieles gastado, sin armadura, hacha de batalla y hacha de mano al cinto, pipa de madera oscura, manos nudosas y mirada despierta. · **Carácter y voz**: seca, observadora y directa; habla poco y escucha mucho; tiene un humor negro y una decencia testaruda. No soporta a los fanfarrones ni a las autoridades que miran hacia otro lado. Respeta la competencia y desprecia la crueldad gratuita. · **Quiere**: detener al asesino, satisfacer su sentido de la justicia, encontrar a alguien competente a quien confiar el trabajo y gastar su oro en algo que valga la pena. · **Sabe**: los tres asesinatos, la firma de la daga de hielo, la conexión de las víctimas con las loterías de Bryn Shander, Puerto Este y Targos, el nombre y el oficio de Sephek, su resistencia al frío, la ruta de Torrga y la existencia del cadáver del semielfo. No tiene pruebas concluyentes ni sabe si Torrga protege a Sephek. Conoce la Costa de la Espada y tiene enemigos antiguos. · **Si se convierte en desafío**: no combate. Si los Héroes la traicionan, se convierte en una enemiga social: límites [convencida 3], [herida 3]; etiquetas [cazarrecompensas retirada], [hachas], [red de contactos], [oro], [rencor]; amenazas: contrata a otros cazadores ([cazadores rivales]), difunde su versión ([reputación manchada]) y retira su apoyo ([deuda pendiente]).
 
 ### Sephek Kaltro
 
-- **Papel**: asesino en serie, guardaespaldas de Torrga y recipiente del espíritu de un druida de escarcha; villano principal de la misión. · **Aspecto**: hombre de unos treinta años, bien construido, piel olivácea, pelo oscuro recogido en una coleta, sin vello facial ni corporal; viste un chaleco elegante con pantalones y botas a juego, al estilo de los marineros del sur de la Costa de la Espada, pero no lleva armadura, abrigo, guantes ni bufanda, y no parece ir armado. Sus ojos son de un azul intenso, como un lago congelado. Cuando combate, se forman en sus manos una espada y unas dagas de hielo. · **Carácter y voz**: encantador, tranquilo y educado; sonríe con facilidad y hace amigos sin esfuerzo. Habla en voz baja, sin prisa, y admite sus crímenes con una calma desconcertante. No muestra miedo ni vergüenza; se considera un instrumento de la Doncella de la Escarcha. Puede fingir que se rinde para ganar tiempo y escapar. Su crueldad es cortés, casi amable. · **Quiere**: cumplir el trabajo de Auril, castigar a quienes trampean en las loterías, seguir viajando con la caravana y, quizá, encontrar a alguien que lo merezca como enemigo. No le interesan el dinero ni la huida, salvo como medio para seguir matando. · **Sabe**: los nombres de los sobornadores y de las víctimas, el funcionamiento de las loterías, la ruta y los secretos de Torrga, la ubicación del cadáver del semielfo y la naturaleza del espíritu que lo habita. Sabe que el espíritu no puede abandonar su cuerpo y que, si muere, morirá con él. No teme que lo capturen. · **Si se convierte en desafío**: nivel 2, Poderío Aventura (ver Desafíos). Si el grupo es numeroso o está muy preparado, súbelo a nivel 3.
+- **Papel**: asesino en serie, guardaespaldas de Torrga y recipiente del espíritu de un druida de escarcha; villano principal de la misión. · **Aspecto**: hombre de unos treinta años, bien construido, piel olivácea, pelo oscuro recogido en una coleta, sin vello facial ni corporal; viste un chaleco elegante con pantalones y botas a juego, al estilo de los marineros del sur de la Costa de la Espada, pero no lleva armadura, abrigo, guantes ni bufanda, y no parece ir armado. Sus ojos son de un azul intenso, como un lago congelado. Cuando combate, se forman en sus manos una espada y unas dagas de hielo. · **Carácter y voz**: encantador, tranquilo y educado; sonríe con facilidad y hace amigos sin esfuerzo. Habla en voz baja, sin prisa, y admite sus crímenes con una calma desconcertante. No muestra miedo ni vergüenza; se considera un instrumento de la Doncella de la Escarcha. Puede fingir que se rinde para ganar tiempo y escapar. Su crueldad es cortés, casi amable. · **Quiere**: cumplir el trabajo de Auril, castigar a quienes trampean en las loterías, seguir viajando con la caravana y, quizá, encontrar a alguien que lo merezca como enemigo. No le interesan el dinero ni la huida, salvo como medio para seguir matando. · **Sabe**: los nombres de los sobornadores y de las víctimas, el funcionamiento de las loterías, la ruta y los secretos de Torrga, la ubicación del cadáver del semielfo y la naturaleza del espíritu que lo habita. Sabe que el espíritu no puede abandonar su cuerpo y que, si muere, morirá con él. No teme que lo capturen. · **Si se convierte en desafío**: ver Desafíos. Si el grupo es numeroso o está muy preparado, súbelo un nivel.
 
 ### Torrga Vetagélida
 
-- **Papel**: comerciante ambulante, capitana de bandidos y jefa de Sephek; obstáculo y fuente de información. · **Aspecto**: enana escudo robusta, barba trenzada con anillas de plata, abrigo de comerciante sobre varias capas de pieles, guantes de cuero, delantal de contar monedas, un anillo de llaves al cuello y un hacha o un látigo al cinto. Huele a aceite de ballena, a vino barato y a perro. · **Carácter y voz**: ruidosa, codiciosa y pragmática; trata cualquier conversación como una negociación. Se ríe fuerte, insulta con ingenio y miente sin esfuerzo. Solo se preocupa por sus beneficios y su pellejo; protege a su gente mientras le convenga. · **Quiere**: vender caro, mantener la caravana en movimiento, cobrar la recompensa del semielfo en Luskan, conservar a Sephek como músculo y no arriesgar la vida. · **Sabe**: la ruta de la caravana, el valor de la mercancía, la ubicación de la caja fuerte y del cadáver, los nombres de sus bandidos y la resistencia de Sephek al frío. Sabe que mata, pero no le importa; puede sospechar que hay algo sobrenatural en él, aunque no conoce los detalles. · **Si se convierte en desafío**: nivel 2 (ver Desafíos). Límites [herido 3], [comprada 3], [asustada 3]; etiquetas [capitana de bandidos], [visión en la oscuridad], [resistente al veneno], [codiciosa], [cuatro bandidos], [trineos], [perros], [caja fuerte]; amenazas: ordena atacar a la banda ([flanqueado-2]), suelta a los perros ([alborotado-2]), huye con la caja fuerte ([fortuna escapada]) o soborna y delata a los Héroes ([trato de Torrga] o [perseguido-2]).
+- **Papel**: comerciante ambulante, capitana de bandidos y jefa de Sephek; obstáculo y fuente de información. · **Aspecto**: enana escudo robusta, barba trenzada con anillas de plata, abrigo de comerciante sobre varias capas de pieles, guantes de cuero, delantal de contar monedas, un anillo de llaves al cuello y un hacha o un látigo al cinto. Huele a aceite de ballena, a vino barato y a perro. · **Carácter y voz**: ruidosa, codiciosa y pragmática; trata cualquier conversación como una negociación. Se ríe fuerte, insulta con ingenio y miente sin esfuerzo. Solo se preocupa por sus beneficios y su pellejo; protege a su gente mientras le convenga. · **Quiere**: vender caro, mantener la caravana en movimiento, cobrar la recompensa del semielfo en Luskan, conservar a Sephek como músculo y no arriesgar la vida. · **Sabe**: la ruta de la caravana, el valor de la mercancía, la ubicación de la caja fuerte y del cadáver, los nombres de sus bandidos y la resistencia de Sephek al frío. Sabe que mata, pero no le importa; puede sospechar que hay algo sobrenatural en él, aunque no conoce los detalles. · **Si se convierte en desafío**: ver Desafíos. Límites [herido 3], [comprada 3], [asustada 3]; etiquetas [capitana de bandidos], [ve en la oscuridad], [resiste el veneno], [codiciosa], [cuatro bandidos], [trineos], [perros], [caja fuerte]; amenazas: ordena atacar a la banda ([flanqueado-2]), suelta a los perros ([alborotado-2]), huye con la caja fuerte ([fortuna escapada]) o soborna y delata a los Héroes ([trato de Torrga] o [perseguido-2]).
 
 ### Los cuatro arrieros
 
-- **Papel**: bandidos neutrales malvados que conducen y protegen los trineos; comparsas de Torrga. · **Aspecto**: cuatro hombres y mujeres de aspecto curtido, con pieles mal combinadas, cuero remendado, botas rotas, garrotes, ballestas y cuchillos; uno tiene la nariz rota, otra una marca de hierro en la mejilla; huelen a perro y a cerveza barata. · **Carácter y voz**: hoscos, aburridos y leales al dinero de Torrga; hacen bromas groseras y no están dispuestos a morir por ella. Si la suerte se vuelve en su contra, se rinden o huyen. · **Quiere**: cobrar, encontrar un lugar caliente y no meterse en problemas; alguno robaría un poco de la mercancía si nadie mira. · **Sabe**: la ruta, la mercancía, el cadáver, la caja fuerte y las costumbres nocturnas de Sephek; le tienen un poco de miedo. · **Si se convierte en desafío**: banda de nivel 1 (ver Desafíos).
+- **Papel**: bandidos neutrales malvados que conducen y protegen los trineos; comparsas de Torrga. · **Aspecto**: cuatro hombres y mujeres de aspecto curtido, con pieles mal combinadas, cuero remendado, botas rotas, garrotes, ballestas y cuchillos; uno tiene la nariz rota, otra una marca de hierro en la mejilla; huelen a perro y a cerveza barata. · **Carácter y voz**: hoscos, aburridos y leales al dinero de Torrga; hacen bromas groseras y no están dispuestos a morir por ella. Si la suerte se vuelve en su contra, se rinden o huyen. · **Quiere**: cobrar, encontrar un lugar caliente y no meterse en problemas; alguno robaría un poco de la mercancía si nadie mira. · **Sabe**: la ruta, la mercancía, el cadáver, la caja fuerte y las costumbres nocturnas de Sephek; le tienen un poco de miedo. · **Si se convierte en desafío**: banda (ver Desafíos).
 
 ### Las tres víctimas
 
-- **Papel**: los muertos que ponen en marcha la cacería y el peso moral de la misión. · **Aspecto**: un trampero mediano de Puerto Este, un carpintero de ribera humano de Targos y una sopladora de cristal enana de Bryn Shander. Todos fueron encontrados con una daga de hielo en el corazón; sus talleres y casas quedaron fríos, y sus nombres faltaban en las listas de la lotería. · **Carácter y voz**: muertos; los recuerdan sus vecinos. El mediano era alegre y hablador, el carpintero reservado y la sopladora orgullosa. Sus familias están asustadas y furiosas. · **Quiere**: en vida, salvarse del sorteo; ahora, sus familias quieren respuestas y justicia. · **Sabe**: pagaron a funcionarios de bajo rango para que borraran sus nombres. Dejaron recibos, cartas o testigos que pueden reconstruir la trama. · **Si se convierte en desafío**: no combate. Sus familias pueden ser desafíos sociales de nivel 1 si los Héroes las presionan o las acusan; también pueden aportar [registro de la lotería] y [soborno].
+- **Papel**: los muertos que ponen en marcha la cacería y el peso moral de la misión. · **Aspecto**: un trampero mediano de Puerto Este, un carpintero de ribera humano de Targos y una sopladora de cristal enana de Bryn Shander. Todos fueron encontrados con una daga de hielo en el corazón; sus talleres y casas quedaron fríos, y sus nombres faltaban en las listas de la lotería. · **Carácter y voz**: muertos; los recuerdan sus vecinos. El mediano era alegre y hablador, el carpintero reservado y la sopladora orgullosa. Sus familias están asustadas y furiosas. · **Quiere**: en vida, salvarse del sorteo; ahora, sus familias quieren respuestas y justicia. · **Sabe**: pagaron a funcionarios de bajo rango para que borraran sus nombres. Dejaron recibos, cartas o testigos que pueden reconstruir la trama. · **Si se convierte en desafío**: no combate. Sus familias pueden ser desafíos sociales si los Héroes las presionan o las acusan; también pueden aportar [registro de la lotería] y [soborno].
 
 ### El espíritu invernal
 
@@ -103,7 +103,6 @@ Tres asesinatos han sacudido Diez Ciudades en el último mes: un trampero median
 
 ### Sephek Kaltro (nivel 2, Poderío Aventura)
 
-- **Origen 5e**: no muerto mediano neutral malvado, guardaespaldas de Torrga Vetagélida; VD 3 (700 PX). Inmune al frío, al miedo y al encanto; se regenera en el frío; puede usar paso brumoso hasta tres veces al día; combate con una espada larga y dagas de hielo.
 - **Límites**: [herido 4], [acorralado 3], [expuesto 3].
 - **Etiquetas y estados**: [no muerto], [guardaespaldas], [encantador], [inmune al frío], [inmune al miedo y al encanto], [espada de hielo], [dagas de hielo], [paso brumoso], [regeneración gélida], [beso de la Doncella de la Escarcha], [ojos de lago congelado]; estados [herido-1/2/3/4], [acorralado-1/2/3], [confeso-1/2/3], [desconcertado-1].
 - **Amenazas y consecuencias**:
@@ -117,9 +116,8 @@ Tres asesinatos han sacudido Diez Ciudades en el último mes: un trampero median
 
 ### Torrga Vetagélida (nivel 2)
 
-- **Origen 5e**: enana escudo capitana de bandidos, neutral malvada; VD 2. Visión en la oscuridad, resistencia al veneno y ventaja contra el veneno.
 - **Límites**: [herido 3], [comprada 3], [asustada 3].
-- **Etiquetas y estados**: [capitana de bandidos], [visión en la oscuridad], [resistente al veneno], [codiciosa], [cuatro bandidos], [trineos], [perros], [caja fuerte], [llave al cuello]; estados [herido-1/2/3], [comprada-1/2/3], [asustada-1/2/3].
+- **Etiquetas y estados**: [capitana de bandidos], [ve en la oscuridad], [resiste el veneno], [codiciosa], [cuatro bandidos], [trineos], [perros], [caja fuerte], [llave al cuello]; estados [herido-1/2/3], [comprada-1/2/3], [asustada-1/2/3].
 - **Amenazas y consecuencias**:
   - **Ordenar a la banda**: crea [flanqueado-2] o [rodeado-2]; los bandidos atacan desde los trineos.
   - **Soltar a los perros**: crea [alborotado-2] y [derribado-1]; los perros alertan a todo el campamento.
@@ -129,7 +127,6 @@ Tres asesinatos han sacudido Diez Ciudades en el último mes: un trampero median
 
 ### La banda del Ámbula de Torg (nivel 1)
 
-- **Origen 5e**: cuatro bandidos neutrales malvados (VD 1/8 cada uno).
 - **Límites**: [herido 3], [dispersos 2], [rendidos 2].
 - **Etiquetas y estados**: [cuatro], [trineos], [perros], [mercancía robada], [protección], [poco leales]; estados [herido-1/2/3], [dispersos-1/2], [rendidos-1/2].
 - **Amenazas y consecuencias**:
@@ -141,7 +138,6 @@ Tres asesinatos han sacudido Diez Ciudades en el último mes: un trampero median
 
 ### La jauría de trineo (nivel 1)
 
-- **Origen 5e**: dieciocho perros de trineo, seis por cada trineo; amistosos si no se los provoca.
 - **Límites**: [alborotada 2], [herida 3].
 - **Etiquetas y estados**: [seis perros por trineo], [leales], [olfato], [trineo], [ladridos]; estados [alborotada-1/2], [herida-1/2/3].
 - **Amenazas y consecuencias**:
@@ -153,7 +149,6 @@ Tres asesinatos han sacudido Diez Ciudades en el último mes: un trampero median
 
 ### El invierno de Auril (nivel 2, Poderío Grandeza)
 
-- **Origen 5e**: frío extremo, ventiscas y hielo del Valle del Viento Helado; ambiente.
 - **Límites**: [helado 4], [perdido 3], [agotado 3].
 - **Etiquetas y estados**: [viento cortante], [nieve profunda], [hielo fino], [visibilidad nula], [noche interminable], [aurora]; estados [helado-1/2/3/4], [perdido-1/2/3], [empapado-1/2], [agotado-1/2/3].
 - **Amenazas y consecuencias**:
@@ -165,7 +160,6 @@ Tres asesinatos han sacudido Diez Ciudades en el último mes: un trampero median
 
 ### La caja fuerte de Torrga (nivel 1, obstáculo)
 
-- **Origen 5e**: caja fuerte de hierro cerrada con llave, escondida en un saco; la llave cuelga del cuello de Torrga y la cerradura es difícil de forzar sin herramientas de ladrón.
 - **Límites**: [abierta 3], [alarma 2].
 - **Etiquetas y estados**: [hierro], [cerradura robusta], [llave al cuello], [escondida en un saco], [fortuna de Torrga]; estados [abierta-1/2/3], [alarma-1/2].
 - **Amenazas y consecuencias**:
@@ -176,14 +170,14 @@ Tres asesinatos han sacudido Diez Ciudades en el último mes: un trampero median
 
 ## Objetos, pistas y documentos
 
-- **[contrato de Hlin]**: etiqueta de historia. Representa el acuerdo verbal y la bolsa de oro prometida. Mientras esté activo, un Héroe puede invocarlo para obtener ventaja social con cazarrecompensas, comerciantes o autoridades. Se rompe si traicionan a Hlin o entregan a Sephek a las autoridades.
-- **[recompensa de Hlin]**: etiqueta de mochila o recurso. Una bolsa de oro (cien monedas en la fuente) que se traduce en recursos para el grupo: provisiones, sobornos, alojamiento o favores. No se cuenta moneda a moneda.
+- **[contrato de Hlin]**: etiqueta de historia. Representa el acuerdo verbal y la bolsa de oro prometida. Mientras esté activo, un Héroe puede invocarlo para contar como etiqueta a favor con cazarrecompensas, comerciantes o autoridades. Se rompe si traicionan a Hlin o entregan a Sephek a las autoridades.
+- **[recompensa de Hlin]**: etiqueta de mochila o recurso. Una bolsa de oro que se traduce en recursos para el grupo: provisiones, sobornos, alojamiento o favores. No se cuenta moneda a moneda.
 - **[daga de hielo]**: etiqueta de historia. Prueba del asesinato: una hoja azul, afilada y fría que se derrite en minutos fuera del frío o en manos de otra criatura. Si se conserva en nieve o hielo, dura una escena. Identifica al asesino y puede usarse para intimidar, probar la culpa o negociar con Hlin.
 - **[espada de hielo]**: etiqueta de historia. Solo Sephek puede empuñarla; se rompe como un carámbano al sol. Si un Héroe la recoge, se derrite y no sirve como arma.
 - **[emblema del Ámbula de Torg]**: etiqueta de historia. Bandera negra con una huella de lobo dorada. Identifica la caravana a distancia; los aldeanos la reconocen y pueden dar información o cerrar puertas.
 - **[itinerario de Torrga]**: documento para los jugadores. Lista incompleta de villas y fechas; permite interceptar la caravana o anticipar su siguiente parada. Se obtiene con una acción social y un soborno.
 - **[caja fuerte de Torrga]**: obstáculo. Caja de hierro con una fortuna en monedas y siete gemas; la llave cuelga del cuello de Torrga. Abrirla crea [fortuna de Torrga], una etiqueta de mochila o recurso; si se fuerza con ruido, crea [alarma].
-- **[cadáver del semielfo]**: prueba y gancho. Hombre de unos treinta años, medio elfo, congelado, con una herida de arma blanca en el pecho; está oculto en un saco grande del trineo. Torrga planea cobrar una recompensa de ciento veinticinco monedas en Luskan. Devuelto a Luskan, genera [favor de Luskan] o [recompensa de Luskan]; también prueba que Torrga mata por encargo.
+- **[cadáver del semielfo]**: prueba y gancho. Hombre de unos treinta años, medio elfo, congelado, con una herida de arma blanca en el pecho; está oculto en un saco grande del trineo. Torrga planea cobrar una recompensa en monedas en Luskan. Devuelto a Luskan, genera [favor de Luskan] o [recompensa de Luskan]; también prueba que Torrga mata por encargo.
 - **[medicinas falsas]**: etiqueta de mochila. Frascos sin valor curativo que Torrga vende como remedios. Se pueden usar para engañar o vender; si un Héroe intenta curar con ellas, no funciona y crea [desconfianza] o [envenenado-1].
 - **[veneno para sabandijas]**: etiqueta de mochila, un uso. Frasco pequeño que Torrga vende para matar alimañas. Aplicado a un arma, inflige [veneno-2] o [herido-1]; es peligroso y puede volverse contra el portador.
 - **[mercancía robada]**: etiqueta de mochila o recurso. Madera cortada, yesca, pedernal, aceite de ballena, mantas, pieles, raciones, vino, cerveza barata, medicinas falsas y venenos. Torrga la vende al doble de precio; comprarla da [provisiones] o [aceite de ballena], pero también [mercancía del Ámbula].
@@ -191,7 +185,7 @@ Tres asesinatos han sacudido Diez Ciudades en el último mes: un trampero median
 - **[beso de la Doncella de la Escarcha]**: etiqueta de historia o estado. La marca de Auril que protege a Sephek del frío. No es un objeto; un personaje con [conocimiento de Auril] o [religión] puede reconocerla. Explica por qué va sin abrigo y por qué las dagas de hielo no se derriten en sus manos.
 - **[mapa de Diez Ciudades]**: documento para los jugadores. Rutas, asentamientos y distancias aproximadas; ayuda a planificar el viaje y a elegir la próxima villa.
 - **[trineo y perros]**: etiqueta de mochila o Compañía. Tres trineos y dieciocho perros; permiten viajar rápido por la nieve, pero requieren comida, cuidado y un conductor. Si los Héroes rescatan a un perro, puede convertirse en [perro de trineo], una Compañía leal.
-- **[cartel de recompensa de Luskan]**: documento para los jugadores. Descripción del semielfo, recompensa de ciento veinticinco monedas y una advertencia sobre su peligrosidad. Se puede encontrar en el cadáver o en los papeles de Torrga.
+- **[cartel de recompensa de Luskan]**: documento para los jugadores. Descripción del semielfo, recompensa en monedas y una advertencia sobre su peligrosidad. Se puede encontrar en el cadáver o en los papeles de Torrga.
 - **[notas de Hlin]**: documento para los jugadores. Sospechas, nombres de las víctimas, la conexión con la lotería y la ruta de la caravana. No son pruebas concluyentes, pero ayudan a seguir la pista.
 - **[confesión de Sephek]**: etiqueta de historia. Si los Héroes lo capturan, lo interrogan o lo graban, pueden usar sus palabras para probar la verdad. Hlin la acepta; las autoridades pueden usarla. Si se pierde, crea [prueba perdida].
 - **[fortuna de Torrga]**: etiqueta de mochila o recurso. Monedas y gemas de la caja fuerte; se puede gastar, sobornar o repartir. Si Torrga huye con ella, crea [fortuna escapada].
@@ -224,9 +218,9 @@ Tres asesinatos han sacudido Diez Ciudades en el último mes: un trampero median
 
 ## Páginas de la fuente
 
-- «Asesino de frío corazón»: páginas 23–25.
-- «Apertura en frío» y «Saber del valle del Viento Helado»: página 23.
-- Bloque de estadísticas de Sephek Kaltro: página 24.
-- «Encontrando el Ámbula de Torg», «Torrga Vetagélida y su caravana», «Sephek Kaltro» y «Concluyendo la misión»: páginas 24–25.
-- «Espíritus de la naturaleza»: páginas 26–27.
-- «Sacrificios a Auril» y «Villa Inicial»: capítulo 1, sin página exacta en la fuente.
+- «Asesino de frío corazón»: 23–25.
+- «Apertura en frío» y «Saber del valle del Viento Helado»: 23.
+- Bloque de estadísticas de Sephek Kaltro: 24.
+- «Encontrando el Ámbula de Torg», «Torrga Vetagélida y su caravana», «Sephek Kaltro» y «Concluyendo la misión»: 24–25.
+- «Espíritus de la naturaleza»: 26–27.
+- «Sacrificios a Auril» y «Villa Inicial»: capítulo 1.

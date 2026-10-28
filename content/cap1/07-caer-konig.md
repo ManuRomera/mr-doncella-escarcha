@@ -13,7 +13,7 @@ La misión ofrece hospitalidad y vínculos con la comunidad, pero la ciudad care
 - Durante las últimas tres noches han desaparecido una linterna mágica de La Luz del Norte, dos cabras de Anzuelo, Sedal y Plomo y un saco de perlas talladas de Expediciones Allendhelor. Solo quedan huellas de botas enanas hacia el norte, donde no se conocen asentamientos.
 - Los Héroes pueden actuar por solidaridad, por interés en los bienes robados o para investigar a los intrusos. Trovus no puede ofrecer un pago; las hermanas Shorard sí ofrecen comida y camas, además de cerveza si recuperan la linterna.
 - Allie muestra el rastro detrás de la posada. Si ha desaparecido, esperar a la mañana proporciona una pista nueva y permite preparar la expedición. Las hermanas recomiendan conseguir un trineo y contratar a Jarthra.
-- Caer-Konig tiene una acogida y unos servicios modestos, con alojamientos algo más cómodos. Su milicia reúne hasta 25 combatientes y dos veteranos, pero la fuente no los incorpora a la expedición. Sus rivales son Caer-Dineval y Puerto Este. Ofrece alimentos como sacrificio a Auril; las reglas generales de estos sacrificios se remiten a la página 21.
+- Caer-Konig tiene una acogida y unos servicios modestos, con alojamientos algo más cómodos. Su milicia reúne hasta 25 combatientes y dos veteranos, pero la fuente no los incorpora a la expedición. Sus rivales son Caer-Dineval y Puerto Este. Ofrece alimentos como sacrificio a Auril; las reglas generales de estos sacrificios se tratan en la introducción.
 - El camino nevado a Caer-Dineval mide unos 4,8 km: dos horas a pie; monturas o trineos pueden reducir el trayecto a una hora. Esto no determina la duración del viaje al puesto avanzado, que la fuente no fija.
 
 ## Escenas
@@ -48,7 +48,7 @@ La misión ofrece hospitalidad y vínculos con la comunidad, pero la ciudad care
 ### El rastro hacia la Cumbre de Kelvin
 - **Lugar e imagen**: Depresiones de botas casi rellenas de nieve que salen del pueblo. Más lejos, surcos de trineo junto a enormes pisadas. Estribaciones azotadas por viento, relieve blanco sin referencias claras y horizonte montañoso oscuro.
 - **Lectura**: Tras la posada, las huellas parecen pequeños hundimientos en una superficie que el viento intenta alisar. Os inclináis sobre ellas y seguís su dirección hacia la montaña, pero cada paso hace más difícil distinguirlas de cualquier irregularidad del terreno. Más allá de las últimas construcciones, el pueblo deja de protegeros del aire. La nieve corre a ras de suelo y se os engancha al abrigo. Frente a vosotros se extiende un paisaje donde una pisada puede desaparecer en minutos y donde incluso una marcha corta exige saber con claridad hacia dónde queréis regresar.
-- **Qué ocurre**: El rastro viejo desaparece a unos quince metros de la posada y sus dependencias. A la mañana siguiente aparecen huellas frescas de un único explorador duergar que inspeccionó las calles sin entrar en edificios. A unos 400 metros del pueblo terminan junto a pisadas de ogro y surcos de trineo: el zombi esperó toda la noche y el explorador subió antes de ordenar la partida. Una acción de rastreo con [conocimiento de gigantes], [rastreador] o similares identifica las pisadas y crea [rastro de ogro identificado]; un fallo deja [origen incierto] y consume tiempo, sin borrar el rastro visible. Las marcas se dirigen hacia la montaña y luego al puesto, en las estribaciones del noreste. A menos de 1,6 km del destino, el viento las borra. Cada hora de búsqueda requiere orientación de la Compañía: éxito, [puesto localizado]; fallo, una hora perdida y avance del desafío ambiental. Jarthra aporta su conocimiento local. Tras dos horas fallidas consecutivas hay un encuentro de las zonas salvajes, posiblemente con ventisca; la tabla está en la página 105 y no se reproduce en esta fuente.
+- **Qué ocurre**: El rastro viejo desaparece a unos quince metros de la posada y sus dependencias. A la mañana siguiente aparecen huellas frescas de un único explorador duergar que inspeccionó las calles sin entrar en edificios. A unos 400 metros del pueblo terminan junto a pisadas de ogro y surcos de trineo: el zombi esperó toda la noche y el explorador subió antes de ordenar la partida. Una acción de rastreo con [conocimiento de gigantes], [rastreador] o similares identifica las pisadas y crea [rastro de ogro identificado]; un fallo deja [origen incierto] y consume tiempo, sin borrar el rastro visible. Las marcas se dirigen hacia la montaña y luego al puesto, en las estribaciones del noreste. A menos de 1,6 km del destino, el viento las borra. Cada hora de búsqueda requiere orientación de la Compañía: éxito, [puesto localizado]; fallo, una hora perdida y avance del desafío ambiental. Jarthra aporta su conocimiento local. Tras dos horas fallidas consecutivas hay un encuentro de las zonas salvajes, posiblemente con ventisca; la tabla de encuentros no se reproduce en esta fuente.
 - **Etiquetas de escena**: [rastro medio borrado], [huellas de botas enanas], [surcos de trineo], [viento sin refugio].
 - **Ambiente sonoro**: Viento continuo, respiraciones, patines sobre nieve y correas tensas.
 
@@ -156,20 +156,19 @@ Los detalles visuales no fijados por la fuente son propuestas de ilustración, n
 Las conversiones de estados, límites y amenazas que siguen son propuestas para LitM. Los Héroes pueden crear etiquetas de historia mediante preparación, sigilo o manipulación del terreno. No hay que encadenar acciones inciertas cuando una solución ya esté asegurada por la ficción.
 
 ### Banda defensora duergar (nivel 1)
-- **Origen 5e**: Cuatro duergar, de los cinco totales del puesto; el quinto, Nildar, tiene ficha propia. Brojk añade ballesta pesada. Cada duergar corresponde al tramo de dificultad inicial de la conversión.
 - **Límites**: heridos 4, capturados 4; si solo interviene uno, herido 3, capturado 3. Adaptar el alcance del estado al número realmente afectado.
-- **Etiquetas y estados**: [invisibilidad], [agrandamiento], [visión en la oscuridad], [armaduras y escudos], [defensa coordinada], [ballesta de Brojk]. Los dos hermanos comienzan [dormidos-2] si no ha habido alarma.
+- **Etiquetas y estados**: [se vuelven invisibles], [se agrandan], [ven en la oscuridad], [armadura y escudo], [defensa coordinada], [ballesta de Brojk]. Los dos hermanos comienzan [dormidos-2] si no ha habido alarma.
 - **Amenazas y consecuencias**:
   - Agrandarse y cerrar el paso: crea [duergar de tamaño ogro]; inflige [golpeado-3] al alcanzar al intruso.
   - Disparar desde cobertura o atacar en grupo: inflige [herido-2]; obliga a buscar abrigo mediante [avance detenido-2].
   - Pedir ayuda y desaparecer al verse aislados: crea [refuerzos alertados] y [posición del enemigo desconocida]; el duergar regresa agrandado cuando llegan sus compañeros.
   - Liberar al ogro y replegarse al quedar heridos: elimina [ogro encerrado]; crea [retirada hacia O5] y deja al zombi cubriendo el paso.
-- **Debilidades / secretos**: Antes del combate procuran agrandarse. La invisibilidad no elimina sus pisadas ni el ruido que hagan. No aceptan pactos ni se rinden de buen grado. Una acción de intimidación contra un cautivo puede alcanzar el límite convencido 3 para obtener información: éxito, [testimonio sobre Xardorok]; fallo, [prisionero desafiante] y la necesidad de otro enfoque. Revelan el mando de Nildar, el dragón que Xardorok forja en su fortaleza de montaña y el uso previsto del puesto como base contra las minas del Valle de los Enanos una vez destruida Diez Ciudades. El límite social permite interrogar, no convertirlos en aliados.
+- **Debilidades / secretos**: Antes del combate procuran agrandarse. Volverse invisibles no elimina sus pisadas ni el ruido que hagan.
+ No aceptan pactos ni se rinden de buen grado. Una acción de intimidación contra un cautivo puede alcanzar el límite convencido 3 para obtener información: éxito, [testimonio sobre Xardorok]; fallo, [prisionero desafiante] y la necesidad de otro enfoque. Revelan el mando de Nildar, el dragón que Xardorok forja en su fortaleza de montaña y el uso previsto del puesto como base contra las minas del Valle de los Enanos una vez destruida Diez Ciudades. El límite social permite interrogar, no convertirlos en aliados.
 
 ### Nildar Solmarchito (nivel 1)
-- **Origen 5e**: Un duergar, comandante; sin mejoras de criatura indicadas por la fuente.
 - **Límites**: herido 3, capturado 3, convencido 3 para un interrogatorio tras capturarlo.
-- **Etiquetas y estados**: [invisibilidad], [agrandamiento], [visión en la oscuridad], [armadura enana], [conoce el puesto], [fanatismo por Xardorok].
+- **Etiquetas y estados**: [se vuelven invisibles], [se agrandan], [ven en la oscuridad], [armadura de enano], [conoce el puesto], [fanatismo por Xardorok].
 - **Amenazas y consecuencias**:
   - Aguardar junto a la palanca de O5: activa «Cuello de Botella»; crea [Compañía dividida].
   - Agrandarse y atacar al intruso cercano: crea [tamaño de ogro]; inflige [herido-3].
@@ -178,7 +177,6 @@ Las conversiones de estados, límites y amenazas que siguen son propuestas para 
 - **Debilidades / secretos**: Puede ser sorprendido en su escritorio si no oye el combate. Su deseo de engrandecer a su padre lo lleva a alardear del terror con alas de dragón. Un interrogatorio exitoso obtiene los secretos generales de los duergar; un fallo puede provocar [insultos y amenazas], sin inventar información falsa ni hacer desaparecer la carta. Su huida utiliza ogro y trineo solo si están disponibles. No tiene Poderío de Grandeza: su parentesco y sus amenazas no le dan el poder del dragón.
 
 ### Ogro zombi de tiro (nivel 2)
-- **Origen 5e**: Un zombi ogro esclavizado por los duergar, utilizado para tirar del trineo.
 - **Límites**: destruido 4, inmovilizado 3.
 - **Etiquetas y estados**: [fuerza de ogro], [carne muerta semicongelada], [obediencia a los duergar], [enorme y torpe], [persistencia de no muerto]; comienza con [encerrado en una jaula].
 - **Amenazas y consecuencias**:
@@ -188,7 +186,6 @@ Las conversiones de estados, límites y amenazas que siguen son propuestas para 
 - **Debilidades / secretos**: Dentro de su jaula no puede hacer daño. Impedir que lo liberen, cerrar una barrera o aprovechar su torpeza puede evitar enfrentarlo directamente. No confundir su condición de esclavo con una lealtad negociable: en la fuente combate del lado duergar. No se añade una vulnerabilidad mágica que el texto no menciona.
 
 ### Manada de sirvientes de esporas (nivel 1)
-- **Origen 5e**: Cinco sirvientes humanos de esporas, basados en guerreros tribales modificados; son plantas animadas con restos humanos.
 - **Límites**: deshechos 4, contenidos 3.
 - **Etiquetas y estados**: [cinco cuerpos animados], [crecimientos fúngicos], [avance lento], [sentido ciego cercano], [sin lenguaje ni voluntad propia], [inmunes al miedo y al encantamiento].
 - **Amenazas y consecuencias**:
@@ -198,7 +195,6 @@ Las conversiones de estados, límites y amenazas que siguen son propuestas para 
 - **Debilidades / secretos**: Caminan aproximadamente seis metros en el tiempo en que una persona corriente recorre más; su sentido ciego alcanza unos nueve metros y no perciben más allá. No pueden ser cegados, hechizados, asustados ni paralizados. Carecen de coordinación táctica de manada y de los idiomas que tuvieron vivos; «manada» agrupa su resolución, no les concede esa habilidad. Encerrarlos o mantenerse fuera de su alcance evita la lucha. La fuente no les atribuye contagio, nube tóxica ni ataque de esporas.
 
 ### Estribaciones barridas por el invierno (nivel 2)
-- **Origen 5e**: Rastreo interrumpido por nieve y viento; búsquedas de una hora y posible encuentro de zonas salvajes. Desafío ambiental propuesto, sin criatura ni dificultad de criatura asignada.
 - **Límites**: ruta resuelta 3, refugio alcanzado 3. Encontrar el puesto mediante la búsqueda descrita también termina el obstáculo; estos límites sirven para una resolución extendida si se prefiere.
 - **Etiquetas y estados**: [huellas borradas], [viento cortante], [nieve uniforme], [pocos puntos de referencia], [exposición prolongada].
 - **Amenazas y consecuencias**:
@@ -208,7 +204,6 @@ Las conversiones de estados, límites y amenazas que siguen son propuestas para 
 - **Debilidades / secretos**: Jarthra, ropa adecuada, perros, trineos y una ruta de retorno aportan etiquetas pertinentes. No aplicar frío automáticamente ignorando la protección. Volver al pueblo o alcanzar abrigo permite tratar los estados conforme a la ficción; no resuelve por sí solo dónde está el puesto. Los detalles del encuentro aleatorio requieren la sección de la página 105.
 
 ### Foso y puente levadizo (nivel 2)
-- **Origen 5e**: Foso de nueve metros de profundidad en O2, puente de madera y mecanismo de cadenas; sin dificultad de criatura. Conversión ambiental propuesta.
 - **Límites**: paso asegurado 3, mecanismo inutilizado 3.
 - **Etiquetas y estados**: [caída profunda], [puente levadizo], [cadenas y poleas], [borde tras las puertas].
 - **Amenazas y consecuencias**:
@@ -218,13 +213,12 @@ Las conversiones de estados, límites y amenazas que siguen son propuestas para 
 - **Debilidades / secretos**: La amenaza de elevarse necesita un defensor operando el mecanismo; no se activa sola. Interrumpirlo, asegurar el puente con equipo o cruzar por el cauce y la cisterna cambia la situación. Escalar exige medios apropiados; una cuerda asegurada crea [ruta de ascenso].
 
 ### Trampa del Cuello de Botella (nivel 2)
-- **Origen 5e**: Barreras de hierro accionadas con palanca en O5; sin dificultad de criatura. Conversión de obstáculo propuesta.
 - **Límites**: mecanismo neutralizado 3, barrera rota 4.
 - **Etiquetas y estados**: [barras desde suelo y techo], [activación manual], [huecos demasiado estrechos], [cobertura considerable], [hierro resistente].
 - **Amenazas y consecuencias**:
   - Activarse con alguien en el umbral: inflige [atravesado-2] e [inmovilizado-3]. Una respuesta ágil exitosa permite [fuera del umbral] antes del cierre.
   - Encerrar a quien avanza primero: crea [Héroe aislado al oeste] y [Compañía dividida].
-  - Dar abrigo a los defensores que atacan entre barras: crea [enemigo protegido por rejas]; un ataque que aproveche esa ventaja puede infligir [herido-2].
+  - Dar abrigo a los defensores que atacan entre barras: crea [enemigo protegido por rejas]; un ataque que aproveche esa cobertura puede infligir [herido-2].
 - **Debilidades / secretos**: La palanca retrae las barras; también se pueden destruir mediante fuerza o herramientas que afecten al hierro. Romper una sección basta para abrir ese paso, sin destruir todo el mecanismo. Veneno y ataques puramente mentales no dañan el metal. Si nadie acciona la palanca, la trampa no ataca. El daño de los defensores requiere su presencia y no se duplica automáticamente con sus propias amenazas.
 
 ## Objetos, pistas y documentos
@@ -241,7 +235,7 @@ Las conversiones de estados, límites y amenazas que siguen son propuestas para 
 - **Trineos y perros de Allendhelor**: Dos trineos, doce perros, seis por tiro. Etiquetas [trineo de perros] y [tiro de seis perros], disponibles mediante trato. Son animales sanos y equipo de viaje; no se convierten en una manada hostil por usar la fuente una referencia de criatura para representarlos.
 - **Trineo del puesto**: En O2, [trineo de carga]. Lo arrastra el ogro zombi mientras siga bajo control duergar; recuperarlo no entrega automáticamente ese control a los Héroes.
 - **Huellas y testimonio**: [pisadas enanas sin testigos], [explorador que no entró en las casas], [rastro de ogro y trineo] y [testimonio sobre el dragón de Xardorok] permiten reconstruir la operación. Un esquema de los dos rastros y una relación de los bienes robados pueden darse como ayudas de investigación.
-- **Mapas**: La fuente referencia el mapa 1.5 de Caer-Konig y el 1.6 del puesto. Esta extracción no aporta sus imágenes ni permite reconstruir todas las conexiones. Un croquis para los jugadores debe limitarse a las rutas observadas; no inventar un plano exacto a partir de la numeración.
+- **Mapas**: La fuente incluye planos de Caer-Konig y del puesto avanzado. Esta extracción no aporta sus imágenes ni permite reconstruir todas las conexiones. Un croquis para los jugadores debe limitarse a las rutas observadas; no inventar un plano exacto.
 
 ## Desenlaces y recompensas
 - **Regreso con información y bienes**: Las Shorard dan comida y camas; recuperar la linterna añade cerveza. Allie ayuda a devolver cabras y perlas. Etiquetas de historia apropiadas: [hospitalidad de La Luz del Norte], [confianza de Caer-Konig] y, al restituir lo correspondiente, [gratitud de Glen] o [gratitud de Allendhelor]. No presuponer servicios ilimitados gratuitos.
@@ -265,10 +259,10 @@ Las conversiones de estados, límites y amenazas que siguen son propuestas para 
 
 ## Páginas de la fuente
 - **47**: Historia y situación de Caer-Konig, población, gobierno, milicia, heráldica, sacrificio, rivales, camino a Caer-Dineval, taberna y comienzo de Allendhelor.
-- **48**: Jarthra y Atenas, La Luz del Norte, trasfondo de Los Invisibles, encuentro con Trovus y referencia al mapa 1.5.
+- **48**: Jarthra y Atenas, La Luz del Norte, trasfondo de Los Invisibles, encuentro con Trovus.
 - **49**: Bienes robados, falta de recursos, conversación con las hermanas y propiedades de la linterna.
 - **50**: Hospitalidad, contratación del guía, rastros, búsqueda, llegada al puesto, centinelas e información de los duergar.
 - **51**: Aproximación sigilosa, características interiores y zonas O1–O5.
-- **52**: Referencia al mapa 1.6, continuación de la trampa, O6, carta de Durth y fragmentos de chardalyn.
+- **52**: Continuación de la trampa, O6, carta de Durth y fragmentos de chardalyn.
 - **53**: Amenazas y huida de Nildar, recursos, O7, O8 y conclusión de la misión.
-- **Referencias externas mencionadas, no incluidas**: Página 21, sacrificios a Auril; página 105, encuentros en zonas salvajes; sección de Puerto Este, ferry y Durth; capítulo 3, fortaleza de Xardorok; entrada de micónidos del manual de criaturas y explicación general de chardalyn.
+- **Referencias externas mencionadas, no incluidas**: Sacrificios a Auril; encuentros en zonas salvajes; sección de Puerto Este, ferry y Durth; capítulo 3, fortaleza de Xardorok; entrada de micónidos del manual de criaturas y explicación general de chardalyn.

@@ -1,13 +1,13 @@
 # Diez Ciudades
 
 ## Resumen para el Narrador
-Diez Ciudades es una alianza frágil de comunidades del Valle del Viento Helado, fundada hace unos cuatro siglos por inmigrantes, aventureros y personas que buscaban desaparecer.
+Diez Ciudades es una alianza frágil de comunidades del Valle del Viento Helado, fundada hace unos cuatro siglos por inmigrantes, exploradores y personas que buscaban desaparecer.
 Hoy predominan las familias nacidas allí: pescadores, leñadores, mineros, cazadores, tramperos, peleteros y comerciantes que sobreviven gracias a los lagos y a una cooperación cada vez más difícil.
 El invierno de Auril reduce la población, agrava la escasez y convierte viejas rivalidades en amenazas para el conjunto de la región.
 La aventura comienza en una villa y se extiende mediante encargos y rumores; los Héroes deciden a quién ayudan y qué problemas dejan atrás.
 La reputación abre puertas, pero también despierta miedo, envidia e interés por sus recursos.
 Las ofrendas de personas, alimentos o calor, aceptadas por todos los portavoces, muestran hasta dónde llega la desesperación.
-Esta ficha convierte el marco regional de las páginas 18–22: los ganchos remiten a aventuras cuyo desarrollo y criaturas no están descritos en esta fuente.
+Esta ficha convierte el marco regional: los ganchos remiten a aventuras cuyo desarrollo y criaturas no están descritos en esta fuente.
 
 ## Ganchos y cómo empieza
 
@@ -38,7 +38,7 @@ Las lecturas y las consecuencias propuestas aquí son material de adaptación. N
 
 ### Llegada a una villa bajo la aurora
 
-- **Lugar e imagen**: Calle estrecha de nieve endurecida, casas de piedra y madera con tejados de fuerte pendiente, ventanas pequeñas de luz ambarina y puertas cerradas. El cielo oscuro muestra velos verdes y azulados. Montones de nieve gris se amontonan junto a las fachadas; el horizonte queda borrado por el viento. Sin figuras en la composición.
+- **Lugar e imagen**: Calle estrecha de nieve endurecida, casas de piedra y madera con tejados de fuerte pendiente, ventanas pequeñas de luz ambarina y puertas cerradas. El cielo oscuro muestra velos verdes y azulados. Montones de nieve gris se amontonan junto a las fachadas; el horizonte queda borrado por el viento.
 - **Lectura**: Llegáis entre casas que parecen haberse encogido bajo el peso del invierno. Los tejados se alzan muy inclinados y la nieve se acumula junto a puertas cerradas. Apenas escapa luz por las ventanas. Sobre vosotros, la aurora despliega una belleza fría que no consigue volver acogedora la noche. El viento os busca los huecos de la ropa y os obliga a bajar la cabeza. Tras una pared oís un golpe, después el roce de algo que se arrastra sobre el suelo. Aquí sigue habiendo vida, aunque permanezca escondida. Necesitáis abrigo, noticias y una razón para que os abran antes de que el frío haga más difícil llamar.
 - **Qué ocurre**: Presenta la villa elegida y una necesidad inmediata: alojamiento, suministros o información. Los habitantes pasan dentro el tiempo que no dedican a trabajar; la quietud no indica abandono. Las capas de lana y piel hacen difícil reconocer a cualquiera en el exterior y permiten que criaturas inteligentes se oculten entre la población. Buscar acogida con etiquetas de trato, oficio o vínculos puede crear [puerta abierta] o [contacto local]; un fallo puede dejar [forasteros bajo sospecha] o consumir tiempo y exponer al frío. Estas etiquetas no identifican por sí solas a un infiltrado.
 - **Etiquetas de escena**: [calles casi vacías], [ventanas iluminadas], [rostros ocultos por pieles], [aurora de Auril].
@@ -78,9 +78,10 @@ Las lecturas y las consecuencias propuestas aquí son material de adaptación. N
 
 ### La noche sin luna
 
-- **Lugar e imagen**: Según la ofrenda: un poste en una salida nevada de la villa; estantes de madera cargados de pescado a una milla del caserío; o chimeneas apagadas y ventanas negras. Cielo sin luna, azules casi negros y superficies blancas apenas visibles. Sin personas ni animales en la imagen.
+- **Lugar e imagen**: Según la ofrenda: un poste en una salida nevada de la villa; estantes de madera cargados de pescado a unos 1500 metros del caserío; o chimeneas apagadas y ventanas negras. Cielo sin luna, azules casi negros y superficies blancas apenas visibles.
 - **Lectura**: Esta noche falta algo más que la luna. El silencio pesa sobre las calles y las puertas parecen cerradas con especial cuidado. Os alcanza el frío incluso al deteneros un momento. Cerca del límite de la villa, la nieve refleja una claridad tan débil que cuesta separar el camino de la tundra. Aquí se ha preparado una ofrenda. Puede ser comida que mañana faltará en las mesas, calor al que nadie se atreve a acercarse o una vida que la comunidad ha decidido entregar. Os encontráis ante una decisión tomada antes de vuestra llegada. Todavía podéis intervenir, pero cualquier gesto tendrá testigos, consecuencias y un precio que alguien intentará cobrar.
-- **Qué ocurre**: Hace poco más de un año comenzaron los sacrificios para apaciguar a Auril y recuperar el verano. Todos los portavoces los respaldan como un mal necesario; los abandonarían si la diosa fuese apaciguada o el problema se resolviese de otra forma. En Bryn Shander, Puerto Este y Targos se sortea una víctima la noche anterior a la luna nueva; al ocaso siguiente la desnudan y atan a un poste o la expulsan a la tundra. Abundan las acusaciones de amaño, habitualmente sin actuación posterior. Otras villas ofrecen la pesca de un día en estantes a una milla del poblado, donde la reclaman yetis y otras criaturas asociadas a la furia de Auril; una ilustración muestra un gato de los riscos tomando una ofrenda. Las que no pueden entregar personas ni comida prohíben encender fuego entre ocaso y alba: se comparte calor corporal y se apalea a quien incumple. Esta fuente no identifica cuáles son esas otras villas. Rescatar, persuadir, investigar un sorteo o compartir recursos puede crear [víctima a salvo], [ofrenda sustituida] o [refugio compartido]; el fallo puede activar exposición al frío, perder víveres o provocar violencia. No hay prueba aquí de que los sacrificios funcionen.
+- **Qué ocurre**: Hace poco más de un año comenzaron los sacrificios para apaciguar a Auril y recuperar el verano. Todos los portavoces los respaldan como un mal necesario; los abandonarían si la diosa fuese apaciguada o el problema se resolviese de otra forma. En Bryn Shander, Puerto Este y Targos se sortea una víctima la noche anterior a la luna nueva; al ocaso siguiente la desnudan y atan a un poste o la expulsan a la tundra. Abundan las acusaciones de amaño, habitualmente sin actuación posterior. Otras villas ofrecen la pesca de un día en estantes a unos 1500 metros del poblado, donde la reclaman yetis y otras criaturas asociadas a la furia de Auril;
+ una ilustración muestra un gato de los riscos tomando una ofrenda. Las que no pueden entregar personas ni comida prohíben encender fuego entre ocaso y alba: se comparte calor corporal y se apalea a quien incumple. Esta fuente no identifica cuáles son esas otras villas. Rescatar, persuadir, investigar un sorteo o compartir recursos puede crear [víctima a salvo], [ofrenda sustituida] o [refugio compartido]; el fallo puede activar exposición al frío, perder víveres o provocar violencia. No hay prueba aquí de que los sacrificios funcionen.
 - **Etiquetas de escena**: [luna nueva], [miedo a Auril], [costumbre reciente], [presión de la comunidad]; según la variante, [fuegos prohibidos] u [ofrenda expuesta].
 - **Ambiente sonoro**: Viento desnudo, tablas que golpean, ausencia de hogares crepitando, respiraciones cercanas cuando haya presentes; música mínima.
 
@@ -120,7 +121,6 @@ Los monstruos citados en los ganchos —incluidos los dos lobos invernales, el a
 
 ### Trayecto bajo el invierno de Auril (nivel 2)
 
-- **Origen 5e**: Frío regional, nieve profunda y transporte entre villas; sin cantidad de criaturas. No representa vencer al invierno entero.
 - **Límites**: trayecto superado 4, refugio alcanzado 3. Alcanzar un límite resuelve la etapa o consigue abrigo, sin eliminar la estación.
 - **Etiquetas y estados**: [frío persistente], [nieve profunda], [viento sin barreras], [huellas que se borran], [carga difícil de mover].
 - **Amenazas y consecuencias**:
@@ -132,7 +132,6 @@ Los monstruos citados en los ganchos —incluidos los dos lobos invernales, el a
 
 ### Hielo y aguas de los lagos (nivel 2)
 
-- **Origen 5e**: Pesca sobre hielo, aguas abiertas y embarcaciones de las páginas 20–21; sin criaturas asignadas. El hielo fino y sus efectos son una aplicación ambiental de la conversión.
 - **Límites**: travesía resuelta 4, orilla segura 3.
 - **Etiquetas y estados**: [agua helada], [hielo discontinuo], [viento sobre el lago], [botes pequeños inestables], [franjas de agua abierta].
 - **Amenazas y consecuencias**:
@@ -144,7 +143,6 @@ Los monstruos citados en los ganchos —incluidos los dos lobos invernales, el a
 
 ### Comunidad aferrada al sacrificio (nivel 2)
 
-- **Origen 5e**: Práctica colectiva descrita en la página 22; no hay una cantidad de combatientes ni estadísticas de una multitud. Es un desafío social; la agresión representa la violencia explícita contra quien enciende fuego durante la renuncia al calor.
 - **Límites**: convencida 4, alternativa aceptada 3.
 - **Etiquetas y estados**: [terror a Auril], [respaldo del portavoz], [mal necesario], [presión vecinal], [desesperación compartida].
 - **Amenazas y consecuencias**:
@@ -191,7 +189,7 @@ Esta tabla puede darse como ayuda, completa o por entradas. Sus afirmaciones son
 | 3. Caer-Dineval | Hace tiempo que no se ve a Crannoc. Se dice que está enfermo, mientras figuras inquietantes entran y salen del castillo a horas extrañas. |
 | 4. Caer-Konig | Los negocios sufren robos y destrozos sin que se vea a los responsables. Trovus, el portavoz dracónido, necesita ayuda. |
 | 5. Refugio de Dougan | Merodean lobos invernales del tamaño de caballos y más inteligentes que los lobos corrientes. La misión local implica a dos de ellos y a dos adolescentes desaparecidos. |
-| 6. Puerto Oeste, según el texto | Han capturado a un mago acusado de matar a varios aventureros. La milicia pretende quemarlo; el capitán de la guardia busca ayuda para otra tarea que quizá guarde relación con él. |
+| 6. Puerto Oeste, según el texto | Han capturado a un mago acusado de matar a varios Héroes. La milicia pretende quemarlo; el capitán de la guardia busca ayuda para otra tarea que quizá guarde relación con él. |
 | 7. Buenagamiel | Un gigante de unos dos metros setenta mató al portavoz y robó un cargamento de hidromiel. Varias tabernas podrían quedarse sin suministro. |
 | 8. Bosque Solitario | El Alce Blanco ataca a leñadores y tramperos en cuanto los ve. Ni los mejores cazadores han logrado atraparlo o matarlo. |
 | 9. Targos | Una banda prepara una expedición a la Cima de Kelvin para buscar a Oyaminartok, una goliath que se transforma en osa polar. Todavía podría ser posible unirse. |

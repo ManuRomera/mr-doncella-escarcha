@@ -428,7 +428,7 @@
    "presentacion": "Ante vosotros distinguis un mamut lanudo inmenso que llena la estancia antes de moverse. Su mirada expresa comprensión y odio, y la voz que sale de su garganta os acusa de cuanto ha ocurrido en este lugar. Baja la cabeza y amenaza con cargar contra cualquier profanador.",
    "caracter": "Habla común con inteligencia humana corriente; acusa y amenaza desde un duelo sin consuelo.",
    "quiere": "Permanecer junto a Garagai y vengarse de los humanoides; es herbívoro y mata por rencor.",
-   "sabe": "Su amo fue asesinado por aventureros el año anterior; los Héroes no son necesariamente aquellos asesinos.",
+   "sabe": "Su amo fue asesinado por Héroes el año anterior; los Héroes no son necesariamente aquellos asesinos.",
    "desafio": "norsu"
   },
   {
@@ -914,7 +914,7 @@
    ],
    "etiquetas": [
     "defienden sus hogares",
-    "ventaja numérica",
+    "superioridad numérica",
     "veterano al mando",
     "suministros escasos"
    ],
