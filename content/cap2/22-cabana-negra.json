@@ -1,0 +1,260 @@
+{
+  "seccion": "22-cabana-negra",
+  "titulo": "La Cabaña Negra",
+  "escenas": [
+    {
+      "slug": "acercamiento-cabana",
+      "nombre": "Acercándose a la cabaña",
+      "ciudad": "tundra",
+      "interior": false,
+      "imagen_en": "Wide establishing view of a black timber cabin perched on rotten twenty-foot stilts above a snowy ravine. Its roof sags, shutters hang loose, and broken windows flank two stone chimneys. Snowdrifts bury a woodshed and outhouse. Cold blue light, blowing snow, long shadows, no people or creatures. Leave the lower third open.",
+      "lectura": "Encaramada en el borde de una cresta nevada sobre un desfiladero, la Cabaña Negra se yergue sobre pilotes de madera podrida. El camino que pudo conducir hasta ella ha desaparecido bajo la nieve. Unos escalones helados suben a una pasarela que se aferra al lado sur del edificio. El techo hundido, las ventanas rotas y las persianas batientes sugieren un abandono total. Grandes ventisqueros engullen la leñera y la letrina. Solo el viento visita este siniestro lugar.",
+      "notas": "Parte de la cresta se derrumbó y dejó el extremo oeste suspendido sobre el desfiladero; inspeccionar los pilotes de 20 pies permite advertir el peligro del suelo de B4. Las puertas están cerradas sin llave y las ventanas permiten entrar. El visitante hombre oso puede aparecer si el grupo se atasca; desconoce la historia del lugar y puede guiarles hasta siete días evitando Diez-Ciudades.",
+      "musica": "camino",
+      "motivos": ["misterio", "ventisca-m"],
+      "efectos": ["viento", "ventisca"],
+      "ambiente": "dim",
+      "etiquetas": ["cabaña abandonada", "cresta nevada", "desfiladero", "ventisca", "frío extremo"],
+      "figuras": ["ventisca-tundra", "visitante-hombre-oso"]
+    },
+    {
+      "slug": "letrina-enterrada",
+      "nombre": "B1. Letrina",
+      "ciudad": "tundra",
+      "interior": true,
+      "imagen_en": "Wide view into a weathered wooden outhouse half buried in deep snow beside the cabin's rotten stilts. Snow presses against the doorway, and discarded sheets and crumpled plans lie inside. Muted blue daylight, rough dark boards, grey frost and white drifts. No people or creatures. Keep the lower third clear for an overlay.",
+      "lectura": "Junto a los pilotes podridos, un retrete de madera asoma medio sepultado entre los ventisqueros. La nieve se amontona contra la puerta y tendréis que apartarla para mirar dentro. El viento llega aquí amortiguado por las paredes y las acumulaciones de nieve. En el interior encontráis una pila de notas y planos desechados. Los papeles están tan deteriorados que no podéis distinguir nada legible entre sus restos.",
+      "notas": "Macreadus utilizó estos papeles como papel higiénico. Son ilegibles y solo testimonian su aislamiento y su trabajo febril.",
+      "musica": "noche",
+      "motivos": ["misterio"],
+      "efectos": ["viento", "pasos"],
+      "ambiente": "dim",
+      "etiquetas": ["letrina enterrada", "notas desechadas"],
+      "figuras": []
+    },
+    {
+      "slug": "pasarela-madera",
+      "nombre": "B2. Pasarela de madera",
+      "ciudad": "tundra",
+      "interior": false,
+      "imagen_en": "Wide view along a narrow snow-covered wooden walkway attached to the southern wall of a ruined cabin. Icy stairs lead up to a four-foot gap; rotten western boards hang above a deep ravine near the main door. Windblown snow, cold blue daylight, black timber and white ice. No figures. Leave the lower third open.",
+      "lectura": "La pasarela cubierta de nieve cruje y se queja bajo vuestros pies. Los escalones helados quedan atrás mientras avanzáis junto a la pared sur de la cabaña. Una brecha de cuatro pies interrumpe el paso: podéis saltarla sin esfuerzo. Al otro lado, frente a la puerta de la habitación principal, las tablas tienen un aspecto mucho peor. Bajo la madera podrida se abre el desfiladero, y el viento silba entre los pilotes.",
+      "notas": "Ambas entradas están en esta pasarela y la brecha se salta sin prueba. Un tramo occidental de 5 pies colapsa con más de 150 libras: una prueba de Destreza decide entre caer 20 pies a la nieve con herido-1 o deslizarse al desfiladero con herido-4; ambas caídas añaden tumbado-1.",
+      "musica": "noche",
+      "motivos": ["tension", "amenaza"],
+      "efectos": ["viento", "pasos"],
+      "ambiente": "dim",
+      "etiquetas": ["pasarela helada", "hielo fino", "desfiladero"],
+      "figuras": ["pasarela-helada"]
+    },
+    {
+      "slug": "taller-helado",
+      "nombre": "B3. Taller",
+      "ciudad": "tundra",
+      "interior": true,
+      "imagen_en": "Wide interior of an abandoned frost-covered workshop. A wooden workbench holds blacksmith tools, tinker's tools, and twisted scraps of metal. A northern shelf contains gathered scraps and nesting material, with a small hole near a supporting stilt. Pale light enters through gaps in dark timber. No people or animals. Leave the lower third uncluttered.",
+      "lectura": "La escarcha cubre cada superficie de este taller abandonado. Sobre la mesa de madera yacen herramientas de herrero y de hojalatero junto a restos de metal retorcido. Desde la estantería del norte os llega un suave ruido de roeduras. Una familia de ardillas ha instalado allí su refugio, entre papeles y desechos. Entran y salen por un agujero junto a uno de los pilotes, ajenas al abandono que reina a su alrededor.",
+      "notas": "Las herramientas permiten fabricar y modificar el tercer anillo de la Estrella de Verano. Las ardillas son inofensivas; la estantería no contiene nada más de interés.",
+      "musica": "noche",
+      "motivos": ["misterio"],
+      "efectos": ["viento"],
+      "ambiente": "dim",
+      "etiquetas": ["taller helado", "herramientas de herrero", "herramientas de hojalatero", "ardillas"],
+      "figuras": []
+    },
+    {
+      "slug": "habitacion-principal",
+      "nombre": "B4. Habitación principal",
+      "ciudad": "tundra",
+      "interior": true,
+      "imagen_en": "Wide interior of a burned wooden room with snow driven into its corners beneath holes in the roof. A scorched table supports a charred book; broken wine bottles surround a frost-covered gyroscopic device on the floor. Blackened boards sag toward the ravine. Cold grey daylight and muted amber traces. No people or bodies. Leave the lower third open.",
+      "lectura": "Esta habitación huele a madera quemada y carne, con un leve aroma a vino. La nieve ha caído por los agujeros del techo y el viento la ha empujado a las esquinas. Las paredes y los muebles están chamuscados, incluida una mesa con los restos carbonizados de un libro. Junto a ella, entre botellas de vino rotas, yace un esqueleto parcialmente incinerado y un objeto redondo cubierto de escarcha, del tamaño de un giroscopio.",
+      "notas": "El esqueleto es Macreadus; entre las cenizas hay un amuleto de salud intacto y el libro conserva las letras ÉZHER. Al recoger por primera vez la Estrella su núcleo brilla como una vela: soltarla inmediatamente evita la explosión; después de descargarse puede manipularse con seguridad. El suelo debilitado cede con 150 libras o más. Los muertos en la cabaña quedan como espíritus vinculados al lugar, capaces de ver a Macreadus en la Frontera Etérea.",
+      "musica": "noche",
+      "motivos": ["horror", "misterio", "amenaza"],
+      "efectos": ["viento", "pasos"],
+      "ambiente": "dim",
+      "etiquetas": ["habitación incendiada", "libro carbonizado", "esqueleto", "suelo podrido", "estrella de verano"],
+      "figuras": ["macreadus-espiritu", "suelo-podrido", "explosion-estrella"]
+    },
+    {
+      "slug": "reserva-vino",
+      "nombre": "B5. Vino de verano de Bayasdulces",
+      "ciudad": "tundra",
+      "interior": true,
+      "imagen_en": "Wide view of a small wooden storage room containing four wine barrels completely coated in frost. Frozen seams, dark curved staves, and pale icy hoops stand against bare timber walls. Dim blue winter light filters through cracks, with powdery snow near the edges. No people, creatures, or writing. Leave clear space across the lower third.",
+      "lectura": "El aroma del vino llena esta sala incluso en medio del frío. Ante vosotros hay cuatro barricas cubiertas de escarcha, con la madera oscurecida bajo una capa blanquecina. Dentro, el invierno ha congelado el vino de verano de Bayasdulces que Macreadus guardaba aquí. El viento se cuela por las rendijas y las barricas crujen de vez en cuando. La reserva permanece inmóvil, atrapada por el mismo frío que domina toda la cabaña.",
+      "notas": "El vino procede de un viñedo del valle de Dessarin, a cientos de millas al sur. Descongelarlo y beberlo enfada a Macreadus, que puede retirar su ayuda y su favor aunque ya no pueda disfrutar de la reserva.",
+      "musica": "noche",
+      "motivos": ["tension"],
+      "efectos": ["viento"],
+      "ambiente": "dim",
+      "etiquetas": ["barricas de vino", "vino congelado", "provocación al espíritu"],
+      "figuras": ["macreadus-espiritu"]
+    },
+    {
+      "slug": "laboratorio-macreadus",
+      "nombre": "B6. Laboratorio",
+      "ciudad": "tundra",
+      "interior": true,
+      "imagen_en": "Wide interior of a frozen experimental laboratory with a stone fireplace and two empty bookshelves. Frost-covered technical plans are pinned to timber walls and scattered across the floor, showing concentric mechanical rings. Ash rests in the cold hearth. Pale blue light, weathered brown wood, silver frost. No people or creatures. Keep the lower third open.",
+      "lectura": "Esta habitación contiene una chimenea y dos estanterías vacías. Pegados a las paredes y esparcidos por el suelo hay planos cubiertos de escarcha. El papel cruje con las corrientes de aire que bajan por la chimenea. Entre los diseños distinguís formas circulares y anillos que recuerdan al objeto de la habitación principal. Boca abajo, junto a uno de los planos, yace un hombrecito hecho de arcilla, completamente inmóvil.",
+      "notas": "Una prueba de Arcanos identifica a Blare como un homúnculo muerto con su amo. Los planos dan ventaja para identificar la Estrella de Verano. La chimenea permite fundir el cuarto de libra de metal necesario para el tercer anillo; las herramientas del taller sirven para inscribirlo y modificarlo.",
+      "musica": "noche",
+      "motivos": ["misterio", "esperanza"],
+      "efectos": ["viento"],
+      "ambiente": "dim",
+      "etiquetas": ["laboratorio helado", "planos de Macreadus", "homúnculo muerto"],
+      "figuras": ["blare", "macreadus-espiritu"]
+    },
+    {
+      "slug": "dormitorios-cabana",
+      "nombre": "B7. Dormitorios",
+      "ciudad": "tundra",
+      "interior": true,
+      "imagen_en": "Wide view of two adjacent abandoned bedrooms in a weathered timber cabin. One has a broken window, ragged grey curtains, and snow covering its bed. The other has a boarded window, double bed, folded clothing, blank parchment and calligraphy tools on a shelf, and a cold fireplace. No figures. Muted blue and brown palette, lower third clear.",
+      "lectura": "Un fuerte viento sopla por la ventana rota del dormitorio abandonado y hace que las cortinas grises aleteen como fantasmas. La nieve cubre la cama y gran parte del suelo. En el dormitorio de Macreadus, la ventana está tabloneada y el aire parece más quieto. Hay una cama doble y una estantería con ropa doblada, pergamino en blanco y útiles de calígrafo. Entre las cenizas de la chimenea distinguís otro pergamino, marcado por el fuego.",
+      "notas": "El primer dormitorio es inhabitable; el de Macreadus sirve como refugio seguro. El pergamino quemado puede ser ilegible y no tiene contenido establecido. Los suministros permiten escribir mensajes a los espíritus; si todos mueren, deben esperar al hombre oso y convencerlo mediante mensajes en nieve, paredes o cenizas.",
+      "musica": "noche",
+      "motivos": ["misterio"],
+      "efectos": ["viento"],
+      "ambiente": "dim",
+      "etiquetas": ["refugio precario", "pergamino en cenizas", "suministros de calígrafo"],
+      "figuras": []
+    }
+  ],
+  "pnj": [
+    {
+      "slug": "macreadus-espiritu",
+      "nombre": "Macreadus (espíritu)",
+      "papel": "Sabio devoto de Lathander, creador de la Estrella de Verano y espíritu inquieto.",
+      "ciudad": "tundra",
+      "aspecto_en": "Complete spectral apparition of a human male scholar manifested solely as a giant floating head in the Ethereal Border. Fire burns within his eyes, his translucent features sharpened by wounded pride and restless concentration. Pale vapor outlines the disembodied head against cold darkness. No body, clothing, or weapons; an imposing, defensive expression.",
+      "presentacion": "Ante vosotros flota una cabeza gigantesca, espectral, con fuego ardiendo en los ojos. Su contorno parece disolverse en el aire de la Frontera Etérea, pero la mirada conserva una intensidad incómoda. Cuando habla, escucháis una voz grandilocuente, más dispuesta a justificar su obra que a lamentar su destino. Su atención salta de vuestra presencia al dispositivo, como si aún esperase ver culminado su trabajo.",
+      "caracter": "Arrogante, ágil y egoísta; culpa a todo menos a sí mismo. Agradece la compañía, pero responde con tono defensivo a las dudas y las burlas.",
+      "quiere": "Reparar la Estrella, acabar con el invierno eterno, recibir los elogios de Lathander y descansar.",
+      "sabe": "Conoce el diseño y la reparación, y puede explicar libremente a otros espíritus que controla el clima. Ve a los espíritus de la Frontera Etérea y conserva los idiomas de su vida. Es incorpóreo, no puede ser dañado ni convertido y no ataca.",
+      "desafio": null
+    },
+    {
+      "slug": "visitante-hombre-oso",
+      "nombre": "Visitante hombre oso (posible Oyaminartok)",
+      "papel": "Aliado potencial que puede llegar cuando el grupo se atasca.",
+      "ciudad": "tundra",
+      "aspecto_en": "Full-body portrait of a towering goliath werebear traveler with a massive sturdy build and thick fur. Heavy winter traveling coats wrap the imposing frame, their edges dusted with snow. Broad paws and a watchful face convey restrained strength. A reserved, observant expression, practical layered clothing, cold natural light, and a neutral snowy background.",
+      "presentacion": "Veis llegar una figura enorme, envuelta en abrigos de viaje y cubierta de pelaje. La nieve se aferra a los pliegues de su ropa mientras se detiene a observar la cabaña. Su presencia impone, pero sus movimientos son contenidos. Antes de acercarse más, examina las entradas y el terreno con atención. Cuando se dirige a vosotros, su voz reservada acompaña una disposición a prestar ayuda.",
+      "caracter": "Reservado, observador y servicial.",
+      "quiere": "Comprobar que ninguna criatura malvada se oculta en la cabaña y ayudar si hace falta.",
+      "sabe": "Conoce las rutas del valle y puede guiar al grupo durante siete días evitando Diez-Ciudades. Ignora la historia de la cabaña y sus fenómenos. Es un aliado potencial; la ficha remite al libro para sus estadísticas si se le fuerza a combatir.",
+      "desafio": null
+    },
+    {
+      "slug": "blare",
+      "nombre": "Blare",
+      "papel": "Homúnculo fallecido, asistente mágico de Macreadus.",
+      "ciudad": "tundra",
+      "aspecto_en": "Full-body study of a small dead clay homunculus lying face down beside a frost-covered technical plan. Its miniature humanoid form is sculpted from dull earth-colored clay, with still limbs and a lifeless posture. No winter clothing or equipment. Fine frost catches pale laboratory light, emphasizing its handmade surface and complete immobility.",
+      "presentacion": "Junto a uno de los planos veis una pequeña figura de arcilla tendida boca abajo. Sus miembros permanecen inmóviles y la escarcha se ha posado sobre su superficie apagada. Al acercaros, el papel cruje bajo las corrientes de aire del laboratorio. La figura tiene forma de hombrecito, pero no responde a vuestra presencia: yace entre los diseños, tan silenciosa como las estanterías vacías.",
+      "caracter": "No aplica: está muerto.",
+      "quiere": "No aplica.",
+      "sabe": "Nada: murió con Macreadus. Una prueba de Arcanos permite reconocer su naturaleza de homúnculo.",
+      "desafio": null
+    }
+  ],
+  "desafios": [
+    {
+      "slug": "pasarela-helada",
+      "nombre": "Pasarela helada",
+      "nivel": 1,
+      "poderio": [],
+      "roles": ["Obstáculo", "Peligro"],
+      "aspecto_en": "A narrow snow-covered timber walkway clings to the side of a ruined cabin above a ravine. A four-foot gap separates sounder boards from a rotten western section. Ice glazes the surface, nails protrude from split planks, and twenty-foot supports descend into drifts. Cold blue daylight reveals the dangerous empty space beneath.",
+      "descripcion": "La sección occidental está podrida y cede si un tramo de 5 pies soporta más de 150 libras. La caída puede terminar en la nieve o prolongarse hasta el desfiladero.",
+      "limites": [{"nombre": "herido", "valor": 4, "consecuencia": "La caída al desfiladero causa herido-4 a quien la sufre."}],
+      "etiquetas": ["pasarela helada", "hielo fino", "desfiladero", "tumbado-1"],
+      "rasgos": [{"nombre": "Peso excesivo", "descripcion": "Más de 150 libras en un tramo occidental de 5 pies provocan el colapso."}],
+      "amenazas": [
+        {"nombre": "Caída a la nieve", "descripcion": "Una prueba de Destreza superada al ceder las tablas permite caer 20 pies sobre la nieve.", "consecuencias": ["Inflige [herido-1]", "Impone [tumbado-1]"]},
+        {"nombre": "Caída al desfiladero", "descripcion": "Fallar la prueba hace que la víctima se deslice al desfiladero.", "consecuencias": ["Inflige [herido-4]", "Impone [tumbado-1]"]}
+      ],
+      "secretos": [{"nombre": "Cruce ligero", "descripcion": "La brecha de 4 pies se salta sin prueba. Evitar cargas superiores a 150 libras por tramo evita activar el colapso."}]
+    },
+    {
+      "slug": "suelo-podrido",
+      "nombre": "Suelo podrido de la cabaña",
+      "nivel": 2,
+      "poderio": [],
+      "roles": ["Peligro"],
+      "aspecto_en": "A weakened patch of scorched wooden flooring inside a ruined cabin hangs above a snowy ravine. Rotten beams and splintering boards show through gaps beneath frost and scattered ash. The unsupported western edge bends toward darkness below, while broken glass catches pale winter light. Environmental hazard only, with no people or creatures present.",
+      "descripcion": "Una sección de B4 cede con 150 libras o más. La víctima puede quedar colgada del borde o caer al desfiladero.",
+      "limites": [{"nombre": "herido", "valor": 4, "consecuencia": "Quien cae al desfiladero sufre herido-4."}],
+      "etiquetas": ["suelo podrido", "madera carcomida", "desfiladero", "colgado-2"],
+      "rasgos": [{"nombre": "Soporte debilitado", "descripcion": "Inspeccionar la estructura desde debajo permite advertir el peligro de esta sección."}],
+      "amenazas": [
+        {"nombre": "El suelo cede", "descripcion": "Las tablas se rompen bajo la carga.", "consecuencias": ["Inflige [herido-4]", "Impone [tumbado-1]"]},
+        {"nombre": "Colgado del borde", "descripcion": "La víctima queda suspendida; fallar una prueba por 5 o más provoca la caída.", "consecuencias": ["Impone [colgado-2]", "Si cae, inflige [herido-4]"]}
+      ],
+      "secretos": [{"nombre": "Distribuir y ayudar", "descripcion": "Mantener el peso por debajo de 150 libras evita el colapso. Otra criatura puede levantar a quien esté colgado con una prueba de Fuerza."}]
+    },
+    {
+      "slug": "explosion-estrella",
+      "nombre": "Explosión de la Estrella de Verano",
+      "nivel": 3,
+      "poderio": [],
+      "roles": ["Peligro"],
+      "aspecto_en": "A frost-covered gyroscopic magical device rests within a scorched timber room. Its concentric metal rings surround a core glowing like a candle, with radiant gold-white energy gathering into a ten-foot sphere. Ash, broken bottles, and snow frame the impending discharge. No figures or bodies; cold blue shadows contrast with the brilliant central light.",
+      "descripcion": "Al recogerla por primera vez, la Estrella brilla y amenaza con estallar. Soltarla inmediatamente evita la explosión. Tras descargar su energía queda inoperable y puede analizarse con seguridad.",
+      "limites": [{"nombre": "herido", "valor": 6, "consecuencia": "La descarga inflige herido-6; puede matar y convertir en cenizas según la condición de daño de la ficha."}],
+      "etiquetas": ["estrella de verano", "magia residual", "radiante", "convertido en cenizas"],
+      "rasgos": [{"nombre": "Espíritus atados", "descripcion": "Los muertos en la cabaña permanecen como espíritus vinculados al lugar y pueden interactuar con Macreadus."}],
+      "amenazas": [
+        {"nombre": "Descarga radiante", "descripcion": "Afecta a todas las criaturas en una esfera de 10 pies de radio. Si reduce a 0 puntos de vida y el daño restante iguala o supera los puntos de vida máximos, la víctima queda convertida en cenizas.", "consecuencias": ["Inflige [herido-6]", "Puede convertir a la víctima en cenizas"]},
+        {"nombre": "Dispositivo inoperable", "descripcion": "La descarga agota la energía peligrosa del dispositivo.", "consecuencias": ["Crea la etiqueta de historia [estrella descargada]"]}
+      ],
+      "secretos": [{"nombre": "Soltar y reparar", "descripcion": "Soltarla de inmediato evita el estallido. Una vez descargada puede repararse usando los planos, las herramientas, la chimenea y un cuarto de libra de metal para un tercer anillo."}]
+    },
+    {
+      "slug": "ventisca-tundra",
+      "nombre": "Ventisca de la tundra",
+      "nivel": 2,
+      "poderio": [],
+      "roles": ["Peligro", "Obstáculo"],
+      "aspecto_en": "A fierce blizzard sweeps an empty snowy ridge above a deep ravine. Wind drives dense white curtains between the dark stilts of an abandoned cabin, obscuring tracks and the surrounding tundra. Ice coats exposed timber and drifts swallow nearby structures. Blue-grey light, low visibility, and severe cold dominate this environmental hazard without figures.",
+      "descripcion": "El frío extremo y la nieve azotan los alrededores de la cabaña. La ventisca enfría hasta los huesos y dificulta orientarse en la tundra.",
+      "limites": [{"nombre": "helado", "valor": 6, "consecuencia": "El frío acumulado alcanza helado-6; la ficha no concreta otro desenlace."}],
+      "etiquetas": ["ventisca", "frío extremo", "tundra", "helado-2", "perdido-2", "empapado-2"],
+      "rasgos": [],
+      "amenazas": [
+        {"nombre": "Frío hasta los huesos", "descripcion": "El viento y la exposición erosionan el calor corporal.", "consecuencias": ["Impone [helado-2]"]},
+        {"nombre": "Desorientación", "descripcion": "La nieve borra referencias y dificulta seguir el rumbo.", "consecuencias": ["Impone [perdido-2]"]}
+      ],
+      "secretos": [{"nombre": "Calor y descanso", "descripcion": "El refugio en la cabaña, el fuego, la ropa de abrigo y el descanso en el campamento mitigan los estados."}]
+    }
+  ],
+  "objetos": [
+    {"slug": "estrella-verano", "nombre": "Estrella de Verano", "etiqueta": "estrella de verano", "descripcion": "Dispositivo mágico meteorológico del tamaño de un giroscopio. Repararlo exige fabricar, inscribir y modificar un tercer anillo con un cuarto de libra de metal. Requiere sintonización y permite lanzar controlar el clima con una acción; después deja de ser mágico. Repararlo y activarlo dentro de la cabaña permite descansar a Macreadus y obtener la bendición de Lathander.", "imagen_en": "Isolated frost-covered gyroscopic weather device with concentric metal rings and a central core. Worn experimental craftsmanship, cold silver metal, faint warm radiance, neutral dark background, no lettering."},
+    {"slug": "amuleto-salud", "nombre": "Amuleto de salud", "etiqueta": "amuleto de salud", "descripcion": "Símbolo sagrado intacto entre las cenizas: un colgante de oro con dos manos ahuecando el sol. Otorga salud robusta y +Poder contra enfermedad, veneno y agotamiento.", "imagen_en": "Isolated golden holy amulet depicting two cupped hands holding the sun. Intact polished pendant beside fine grey ash, delicate warm highlights, neutral dark background, no text or inscriptions."},
+    {"slug": "planos-macreadus", "nombre": "Planos de Macreadus", "etiqueta": "planos de la Estrella de Verano", "descripcion": "Diseños meteorológicos experimentales de B6, uno muy parecido a la Estrella. Proporcionan ventaja para identificar el dispositivo; su contenido textual no está transcrito en la ficha.", "imagen_en": "Isolated frost-covered sheets bearing abstract technical diagrams of concentric rings and experimental weather machinery. Creased paper, faded diagram lines, cold blue light, neutral background, no readable text."},
+    {"slug": "herramientas-herrero", "nombre": "Herramientas de herrero", "etiqueta": "herramientas de herrero", "descripcion": "Herramientas de B3 útiles para fabricar el tercer anillo con metal fundido en la chimenea.", "imagen_en": "Isolated set of weathered blacksmith tools on a plain dark surface, iron hammer and tongs dusted with frost beside twisted metal scraps. Cold light and restrained brown-grey palette."},
+    {"slug": "herramientas-hojalatero", "nombre": "Herramientas de hojalatero", "etiqueta": "herramientas de hojalatero", "descripcion": "Herramientas del taller para inscribir y modificar el tercer anillo de la Estrella.", "imagen_en": "Isolated collection of small tinker's tools for fine metalwork, narrow pliers and engraving implements beside a curved scrap. Frosted iron, worn wooden grips, neutral background and pale winter light."},
+    {"slug": "vino-bayasdulces", "nombre": "Vino de verano de Bayasdulces", "etiqueta": "vino de verano de Bayasdulces", "descripcion": "Cuatro barricas de vino congelado procedente del valle de Dessarin. Beber la reserva privada puede hacer que Macreadus se niegue a ayudar.", "imagen_en": "Four isolated wooden wine barrels coated with heavy white frost, dark staves and icy hoops. Frozen seams suggest solid contents, soft blue light, plain background, no labels or writing."},
+    {"slug": "libro-carbonizado", "nombre": "Maravillas mágicas de Netheril", "etiqueta": "libro carbonizado", "descripcion": "Solo conserva las letras ÉZHER. Una copia intacta se encuentra en la Aguja Perdida de Netheril; el título completo solo debe revelarse si se identifica.", "imagen_en": "Isolated severely charred book with brittle black pages and scorched binding, resting among fine ash. Only the surviving letters ÉZHER remain visible. Cold side lighting, neutral background."},
+    {"slug": "notas-letrina", "nombre": "Notas y planos desechados", "etiqueta": "notas desechadas", "descripcion": "Papeles de la letrina utilizados como papel higiénico. Son ilegibles y evidencian el trabajo febril y el aislamiento de Macreadus.", "imagen_en": "Isolated pile of crumpled discarded notes and ruined technical sheets, stained and weathered beyond legibility. Torn edges and traces of frost, muted grey-brown paper, plain background, no readable writing."},
+    {"slug": "pergamino-quemado", "nombre": "Pergamino entre las cenizas", "etiqueta": "pergamino en cenizas", "descripcion": "Pergamino del dormitorio de Macreadus, quemado y posiblemente ilegible. La ficha no establece su contenido.", "imagen_en": "Isolated partly burned parchment curled among fireplace ashes. Blackened edges surround a damaged blank-looking center with no readable marks. Soft cold light, muted ochre and charcoal palette, plain background."},
+    {"slug": "suministros-caligrafo", "nombre": "Ropa y suministros de calígrafo", "etiqueta": "suministros de calígrafo", "descripcion": "Ropa doblada, pergamino en blanco y útiles del dormitorio, útiles para que los espíritus escriban mensajes.", "imagen_en": "Isolated folded clothing beside blank parchment sheets and a modest set of calligraphy tools. Worn fabric, pale paper and dark implements, soft winter illumination, neutral background, no written text."},
+    {"slug": "metal-tercer-anillo", "nombre": "Cuarto de libra de metal", "etiqueta": "metal para el tercer anillo", "descripcion": "Cantidad de metal necesaria para fabricar el anillo adicional. La ficha no indica dónde conseguirla.", "imagen_en": "Isolated small quantity of plain metal suitable for melting into an additional mechanical ring. Dull silver-grey surface, simple workshop presentation, soft side lighting, neutral background, no labels or decoration."}
+  ],
+  "ayudas": [
+    {"slug": "resto-libro", "titulo": "Letras supervivientes del libro", "tipo": "libro", "texto": "ÉZHER", "fondo_en": "A severely burned book fragment with a small surviving area of blank parchment amid blackened brittle edges. Fine ash, scorched leather texture, no text, symbols, or lettering."}
+  ],
+  "hitos": [
+    "Identificar la Estrella de Verano mediante los planos de Macreadus.",
+    "Fabricar el tercer anillo y reparar el dispositivo meteorológico.",
+    "Activar la Estrella de Verano dentro de la cabaña y permitir que Macreadus descanse.",
+    "Recibir la bendición de Lathander: los miembros del grupo muertos en las últimas 24 horas reviven con salud completa.",
+    "Obtener la Bendición del Señor de la Mañana para cada Héroe que ayudó al espíritu: 10 puntos de vida temporales cada día al amanecer.",
+    "Recuperar el amuleto de salud.",
+    "Conseguir la ayuda del hombre oso como guía hasta siete días, evitando Diez-Ciudades."
+  ],
+  "relojes": []
+}

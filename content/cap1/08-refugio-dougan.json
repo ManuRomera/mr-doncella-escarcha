@@ -1,544 +1,1031 @@
 {
-  "seccion": "08-refugio-dougan",
-  "titulo": "Refugio de Dougan: Atrapados",
-  "escenas": [
+ "seccion": "08-refugio-dougan",
+ "titulo": "Refugio de Dougan: Atrapados",
+ "escenas": [
+  {
+   "slug": "pueblo-y-lago-inmovil",
+   "nombre": "El pueblo y el lago inmóvil",
+   "ciudad": "refugio-dougan",
+   "interior": false,
+   "imagen_en": "A wide view of a small lakeside settlement hugging frozen Aguas Rojizas. Tiny houses, two piers (one warped, one with two frost-covered coasters), small boats drawn ashore and fishing holes in blue-grey ice. Dark human silhouettes barely visible in snow. Cold blue-grey winter light; no people; leave the lower third open.",
+   "lectura": "Llegáis a un puñado de casas encogidas junto al lago. El hielo se extiende cientos de metros desde la orilla y aprisiona dos embarcaciones amarradas al muelle más largo. El otro embarcadero está torcido por la presión del invierno. En tierra veis barcas pequeñas arrastradas fuera del agua y, más allá, perforaciones abiertas para pescar. El viento borra cualquier sonido que pudiera venir de las viviendas. Entre sus ráfagas distinguís formas oscuras, casi humanas, inmóviles sobre el blanco. Aquí parece que hasta salir a buscar comida exige reunir valor.",
+   "notas": "La comunidad depende de la pesca bajo el hielo; el aislamiento ha reducido la población y algunos vecinos muestran rasgos físicos inusuales que no prueban amenaza sobrenatural. Edgra escucha pero no entrega suministros; un éxito social puede crear [vecinos dispuestos a escuchar], un fallo [desconfianza local]. El muelle corto puede ceder bajo peso y causar [magullado-2] o [empapado-2].",
+   "musica": "lago",
+   "motivos": [
+    "misterio",
+    "tension"
+   ],
+   "efectos": [
+    "viento",
+    "lago-sfx",
+    "hielo-cruje",
+    "pasos"
+   ],
+   "ambiente": "dim",
+   "etiquetas": [
+    "pueblo aislado",
+    "reservas al límite",
+    "lago congelado",
+    "muelle inestable"
+   ],
+   "figuras": [
+    "edgra-durmoot"
+   ]
+  },
+  {
+   "slug": "veinte-piedras-de-thruun",
+   "nombre": "Las Veinte Piedras de Thruun",
+   "ciudad": "refugio-dougan",
+   "interior": false,
+   "imagen_en": "A wide view south of the village: nineteen rough granite menhirs forming an irregular triangle, with a twentieth stone at the centre. Snow at their bases, grey surfaces, cold blue light without warmth. No people or creatures; leave the lower third open.",
+   "lectura": "Al sur de las casas encontráis un conjunto de grandes piedras. Desde lejos parecía un círculo, pero al acercaros distinguís tres lados desiguales. Contáis diecinueve bloques alrededor del perímetro y uno más en el centro. El granito conserva un acabado áspero, sin adornos que os expliquen su propósito. La nieve cubre las bases y se levanta en pequeñas nubes al pasar entre los monolitos. Frente a estas piedras, las casas del pueblo parecen recientes y frágiles. Podéis recorrer el contorno, pero nada en su disposición ofrece una respuesta inmediata a la pregunta de quién las levantó.",
+   "notas": "Los vecinos afirman que las piedras ya estaban cuando llegó Dougan Dubrace; las teorías sobre Thruun como divinidad o espíritu elemental destructor siguen abiertas. La investigación puede producir [leyendas de Thruun recopiladas], pero no resuelve el misterio en esta sección.",
+   "musica": "pueblo",
+   "motivos": [
+    "misterio"
+   ],
+   "efectos": [
+    "viento",
+    "hielo-cruje"
+   ],
+   "ambiente": "dim",
+   "etiquetas": [
+    "granito antiguo",
+    "triángulo de menhires",
+    "origen desconocido"
+   ],
+   "figuras": []
+  },
+  {
+   "slug": "koran-y-kanan-falsa-peticion",
+   "nombre": "Koran y Kanan: la falsa petición de auxilio",
+   "ciudad": "refugio-dougan",
+   "interior": false,
+   "imagen_en": "A wide view of village outskirts with snowbanks, low drifts and broken visibility in gusts. A huge white wolf-like shape limps forward against the wind, while another could hide among nearby mounds. Cold blue-grey light; no people; leave the lower third open.",
+   "lectura": "Al dejar atrás las últimas casas oís un gemido. Una enorme figura blanca avanza despacio sobre la nieve, cargando el peso de forma desigual. Su tamaño recuerda al de un caballo, pero su manera de bajar la cabeza parece la de un perro que espera un golpe. Antes de que podáis decidir cómo reaccionar, os habla. Dice que su amo es cruel, que hay dos jóvenes encerrados lejos de aquí y que necesita vuestra ayuda. Mientras escucháis, el viento agita los montículos cercanos. Hay bastante terreno donde otra criatura podría permanecer oculta sin perderos de vista.",
+   "notas": "Koran finge ser un lobo maltratado por Garagai y pide ayuda para liberar a dos cautivos; Kanan espera oculto. Observar su cojera cambiante puede revelar [cojera fingida descubierta] o [hermanos compinchados]. Si los Héroes aceptan, los guían 21 km al oeste hacia la trampa: Garagai lleva un año muerto.",
+   "musica": "camino",
+   "motivos": [
+    "tension",
+    "misterio"
+   ],
+   "efectos": [
+    "lobos",
+    "viento",
+    "pasos"
+   ],
+   "ambiente": "dim",
+   "etiquetas": [
+    "cojera fingida",
+    "segundo lobo oculto",
+    "chantaje emocional",
+    "rastro hacia el oeste"
+   ],
+   "figuras": [
+    "koran",
+    "kanan"
+   ]
+  },
+  {
+   "slug": "travesia-de-la-tundra",
+   "nombre": "La travesía de la tundra",
+   "ciudad": "tundra",
+   "interior": false,
+   "imagen_en": "A wide view of a featureless white plain with fresh snow over older tracks and a low horizon fading in heavier snowfall. Dark moving shapes on the white. Cold blue-grey winter light; no people or creatures; leave the lower third open.",
+   "lectura": "Os internáis en una extensión donde cada loma se parece a la anterior. La nieve cae sobre vuestras huellas y suaviza sus bordes casi en cuanto las dejáis atrás. El refugio del pueblo desaparece pronto a vuestra espalda. Delante solo quedan el viento y la dirección que habéis elegido. A ratos distinguís marcas de animales y manchas oscuras moviéndose sobre el blanco. Tenéis que atender al terreno, proteger vuestro calor y manteneros cerca: aquí basta una ráfaga suficientemente densa para que alguien a pocos pasos parezca haberse desvanecido.",
+   "notas": "Hay una posibilidad entre dos de sufrir ventisca; con los lobos invernales estos protegen al grupo para llevarlos vivos a la trampa. Una manada de 2-7 lobos comunes puede aparecer; comida o firmeza los aleja. Rastreo y orientación mantienen [ruta localizada], mientras un fallo puede causar [perdido-2].",
+   "musica": "camino",
+   "motivos": [
+    "ventisca-m",
+    "bestia",
+    "tension"
+   ],
+   "efectos": [
+    "ventisca",
+    "viento",
+    "lobos",
+    "pasos"
+   ],
+   "ambiente": "dim",
+   "etiquetas": [
+    "huellas que se borran",
+    "sin abrigo",
+    "nieve frecuente",
+    "helado-1"
+   ],
+   "figuras": [
+    "manada-famelica",
+    "tundra-y-ventisca",
+    "koran",
+    "kanan"
+   ]
+  },
+  {
+   "slug": "l1-exterior-cabana-caza",
+   "nombre": "L1. Exterior de la cabaña de caza",
+   "ciudad": "refugio-dougan",
+   "interior": false,
+   "imagen_en": "A wide view of a vaulted ice building three times the size of a Ten Towns house, with three tall eastern openings and a tunnel under the south wall. Cold blue light from ice, giant scale. No people or creatures; leave the lower third open.",
+   "lectura": "La cabaña surge de la tundra como una colina de hielo tallado. Su bóveda empequeñece cualquier edificio que hayáis visto en las ciudades. En la cara oriental se abren tres accesos tan altos que podríais pasar bajo ellos sin acercaros al dintel. El hielo devuelve una luz fría y apagada, y las entradas parecen tragársela. Desde aquí no oís ninguna conversación ni actividad doméstica. La escala del lugar os obliga a reconsiderar cada distancia: lo que para sus constructores sería una habitación corriente podría contener una casa entera de vuestro tamaño.",
+   "notas": "Las entradas orientales conducen a L2, L3 y L4. Los lobos recomiendan L4 y dicen que Garagai está ausente; descubrir el engaño revela [los lobos ocultan algo sobre Garagai]. Rodear el edificio permite encontrar el túnel del remorhaz hacia L8 sin prueba. Los lobos esperan al este para atacar a quien huya del mamut.",
+   "musica": "camino",
+   "motivos": [
+    "tension",
+    "misterio",
+    "amenaza"
+   ],
+   "efectos": [
+    "viento",
+    "hielo-cruje",
+    "pasos"
+   ],
+   "ambiente": "dim",
+   "etiquetas": [
+    "arquitectura para gigantes",
+    "tres accesos orientales",
+    "vigilancia de los lobos",
+    "salida sur inadvertida"
+   ],
+   "figuras": [
+    "koran",
+    "kanan",
+    "hermanos-lobos-invernales"
+   ]
+  },
+  {
+   "slug": "l2-camara-desuelle",
+   "nombre": "L2. Cámara de desuelle",
+   "ciudad": "refugio-dougan",
+   "interior": true,
+   "imagen_en": "A wide interior view of a partially butchered whale carcass on ice, a cleaver the size of a longsword, and a western niche with a large stone chest half buried in ice. Blue, grey and dark frozen meat. No people or creatures; leave the lower third open.",
+   "lectura": "El olor agrio os alcanza antes de que podáis abarcar la habitación con la vista. Una ballena despedazada ocupa buena parte del suelo helado. A su lado descansa una hoja de carnicero que, en vuestras manos, tendría el tamaño de una espada. No hay calor suficiente para ablandar la carne, pero sí un hedor persistente que parece adherirse al aire. Al oeste distinguís un nicho y la parte expuesta de un cofre de piedra. El hielo cubre el resto como si llevara tiempo reclamando todas las herramientas de este matadero.",
+   "notas": "Garagai procesaba ballenas para obtener aceite. Liberar el cofre de 1,8×1,5×1,5 m exige una hora picando hielo; hacerlo ruidosamente crea [ruido por la cabaña] que puede alertar a Norsu. Contiene herramientas gigantes de desuelle y una cabra tallada en marfil de trucha, [cabra de marfil].",
+   "musica": "mina",
+   "motivos": [
+    "misterio",
+    "horror"
+   ],
+   "efectos": [
+    "hielo-cruje",
+    "pasos"
+   ],
+   "ambiente": "dark",
+   "etiquetas": [
+    "hedor de descomposición",
+    "herramientas gigantes",
+    "cofre bajo el hielo"
+   ],
+   "figuras": []
+  },
+  {
+   "slug": "l3-hermanos-enjaulados",
+   "nombre": "L3. Los hermanos enjaulados",
+   "ciudad": "refugio-dougan",
+   "interior": true,
+   "imagen_en": "A wide interior view of an oversized metal-bar cage with thick supports, large rusted hinges and frost on the bars. Giant scale and blue light. No people or creatures; leave the lower third open.",
+   "lectura": "Encontráis una jaula que parece construida para algo mucho mayor que vosotros. Sus barras dejan espacios anchos, aunque no lo bastante para permitir el paso de una persona. La escarcha recubre el metal y las bisagras de la puerta muestran manchas de óxido. Tras los barrotes veis a dos jóvenes encogidos por el frío. Una muchacha de largas trenzas sigue cada uno de vuestros movimientos; su hermano aparta las manos de los soportes de la jaula, como si llevara horas buscando una unión débil. Antes de hablar, comprendéis que sacarlos de aquí exigirá tanto cuidado como rapidez.",
+   "notas": "Garagai construyó la jaula cuando Norsu era pequeño; ahora contiene a Silja y Finn, mantenidos vivos con carne cruda para exigir rescate. Finn tiene [helado-2]. Calentar los barrotes crea [metal maleable]; forzar la cerradura exige un minuto. La puerta chirría y alerta a Norsu salvo que se lubriquen las bisagras con aceite; el mamut llega desde L5 dispuesto a matar.",
+   "musica": "mina",
+   "motivos": [
+    "tension",
+    "horror",
+    "amenaza"
+   ],
+   "efectos": [
+    "hielo-cruje",
+    "pasos",
+    "puerta"
+   ],
+   "ambiente": "dark",
+   "etiquetas": [
+    "barrotes congelados",
+    "bisagras oxidadas",
+    "cautivos debilitados",
+    "helado-2"
+   ],
+   "figuras": [
+    "silja-dejarr",
+    "finn-dejarr"
+   ]
+  },
+  {
+   "slug": "l4-pasillo-entrada",
+   "nombre": "L4. Pasillo de entrada",
+   "ciudad": "refugio-dougan",
+   "interior": true,
+   "imagen_en": "A wide interior view of an ice corridor with sharp stalactites hanging from the ceiling and a floor hard to cross silently. Filtered light from the eastern entrance. Cold blue ice. No people or creatures; leave the lower third open.",
+   "lectura": "El acceso se estrecha entre superficies de hielo. Sobre vuestras cabezas cuelga una acumulación de carámbanos que recuerda una hilera de cuchillos transparentes. Cada paso parece demasiado sonoro en este conducto. Vuestra respiración forma pequeñas nubes y la luz de fuera pierde fuerza a medida que avanzáis. Al fondo os espera una estancia mayor, pero todavía no podéis apreciar qué contiene. Si queréis mantener vuestra llegada en secreto, tendréis que escoger bien dónde apoyáis los pies y evitar que el equipo roce las paredes heladas.",
+   "notas": "Cruzar con sigilo y controlar el equipo permite ganar [paso silencioso]; un fallo crea [intrusos oídos] y Norsu detecta la llegada desde L5. Los carámbanos refuerzan el peligro, pero no forman una trampa de caída automática.",
+   "musica": "mina",
+   "motivos": [
+    "sigilo",
+    "tension"
+   ],
+   "efectos": [
+    "hielo-cruje",
+    "pasos"
+   ],
+   "ambiente": "dim",
+   "etiquetas": [
+    "carámbanos como dagas",
+    "hielo resonante",
+    "paso estrecho"
+   ],
+   "figuras": []
+  },
+  {
+   "slug": "l5-tumba-garagai",
+   "nombre": "L5. La tumba de Garagai",
+   "ciudad": "refugio-dougan",
+   "interior": true,
+   "imagen_en": "A wide interior view of an oval chamber with bright walls, a mutilated giant corpse frozen under translucent ice, and a monumental throne carved from a single block on a circular platform with a deep rune on its back. A woolly mammoth stands beside the corpse. Cold blue light. No people or creatures; leave the lower third open.",
+   "lectura": "Entráis en una sala que parece un sepulcro. El hielo de las paredes refleja una claridad pálida sobre el cuerpo de un gigante, tendido bajo una cubierta transparente. Las heridas que acabaron con él siguen visibles. Cerca se alza un trono sobre una plataforma circular, con una runa profunda en el respaldo. Un mamut lanudo permanece junto al cadáver. Su presencia llena la estancia antes incluso de que se mueva. Cuando advierte que estáis aquí, fija en vosotros una mirada de odio y baja la cabeza. La voz que sale de su garganta os acusa de cuanto ha ocurrido en este lugar.",
+   "notas": "Norsu, consciente y capaz de hablar común, interpreta cualquier intrusión como profanación. Antes de su primera agresión se puede intentar calmarlo con engaño o persuasión; éxito crea [tregua funeraria], fallo [ira desatada]. La runa significa «hielo» y el trono puede invocar una ventisca de ocho horas en 1,6 km, una vez cada diez días. El cadáver carece de botín valioso.",
+   "musica": "culto",
+   "motivos": [
+    "duelo",
+    "amenaza",
+    "misterio"
+   ],
+   "efectos": [
+    "hielo-cruje",
+    "rugido",
+    "pasos"
+   ],
+   "ambiente": "dim",
+   "etiquetas": [
+    "tumba profanada",
+    "cadáver bajo hielo",
+    "trono rúnico",
+    "duelo inconsolable"
+   ],
+   "figuras": [
+    "norsu",
+    "garagai",
+    "trono-runco-de-hielo"
+   ]
+  },
+  {
+   "slug": "l6-sala-guerra",
+   "nombre": "L6. Sala de guerra",
+   "ciudad": "refugio-dougan",
+   "interior": true,
+   "imagen_en": "A wide interior view of a monumental table carved from an ice block, surrounded by cracked ice chairs. Under the table lies a spiky stone figure about thirty centimetres tall. Small kobold shapes hide behind chairs. Cold blue light. No people or creatures; leave the lower third open.",
+   "lectura": "Una mesa enorme ocupa el centro de la cámara. El bloque de hielo del que fue tallada conserva una solidez que contrasta con las sillas: muchas tienen grietas y bordes rotos. Podríais ocultaros tras cualquiera de sus respaldos. Al mirar debajo de la mesa descubrís una pequeña figura de piedra, cubierta de salientes y demasiado singular para confundirse con un trozo de pared. El lugar conserva la disposición de una reunión interrumpida hace mucho tiempo. Entre las sillas llega un leve movimiento, seguido de voces que os piden ayuda para salir.",
+   "notas": "Garagai y otros gigantes celebraban aquí reuniones. La figura es un chwinga petrificado al morir; Holgi, Snorp y Zilbo, tres kobolds del viento helado, se ocultan tras las sillas y piden escolta al exterior. Su relato revela [la cabaña sigue habitada] y las circunstancias de la muerte del chwinga.",
+   "musica": "mina",
+   "motivos": [
+    "misterio",
+    "tension"
+   ],
+   "efectos": [
+    "pasos",
+    "hielo-cruje"
+   ],
+   "ambiente": "dim",
+   "etiquetas": [
+    "mesa de hielo gigantesca",
+    "sillas agrietadas",
+    "escondites entre muebles",
+    "chwinga muerto"
+   ],
+   "figuras": [
+    "holgi-snorp-zilbo",
+    "trio-de-kobolds"
+   ]
+  },
+  {
+   "slug": "l7-saco-dormir-garagai",
+   "nombre": "L7. Saco de dormir de Garagai",
+   "ciudad": "refugio-dougan",
+   "interior": true,
+   "imagen_en": "A wide interior view of a cavernous almost empty room with a huge mould-stained fur sleeping bag on ice. Faint blue light and bare surfaces. No people or creatures; leave the lower third open.",
+   "lectura": "La siguiente cámara está casi vacía. Solo un saco de dormir inmenso ocupa parte del suelo. Sus pieles muestran manchas antiguas y zonas de moho que oscurecen el pelo apelmazado. A vuestra escala podría parecer una tienda derrumbada, pero su forma deja claro que pertenecía a un solo durmiente. No veis muebles, cofres ni adornos. El frío ha conservado este espacio sin devolverle ninguna apariencia de comodidad. Podéis deteneros a examinarlo, aunque el silencio no os permite saber cuánto tiempo conservaréis la habitación para vosotros.",
+   "notas": "Era el dormitorio de Garagai y está desocupado, sin tesoro indicado. Puede servir como escondite si se justifica ocultar el rastro y mantener silencio; éxito crea [ocultos entre pieles]. No es por sí solo un lugar seguro para descanso en campamento.",
+   "musica": "mina",
+   "motivos": [
+    "sigilo",
+    "tension"
+   ],
+   "efectos": [
+    "viento",
+    "pasos"
+   ],
+   "ambiente": "dark",
+   "etiquetas": [
+    "pieles mohosas",
+    "cámara vacía",
+    "escala gigantesca"
+   ],
+   "figuras": []
+  },
+  {
+   "slug": "l8-almacen-aceite-tunel-remorhaz",
+   "nombre": "L8. Almacén de aceite y túnel del remorhaz",
+   "ciudad": "refugio-dougan",
+   "interior": true,
+   "imagen_en": "A wide interior view of five huge barrels in a foul-smelling ice room, with an irregular tunnel under the south wall. A metre-and-a-half section of wall has a strange white frost-like film. Cold air from the tundra. No people or creatures; leave the lower third open.",
+   "lectura": "El olor rancio de esta estancia parece más espeso que el aire. Cinco grandes barriles ocupan el almacén, y bajo la pared del sur se abre un túnel irregular hacia el exterior. Su forma no corresponde a ninguna puerta construida por gigantes. Al examinar la abertura distinguís una sustancia blanca adherida a una sección de la pared, como una escarcha de textura extraña. Del túnel os llega el aire de la tundra. Después de las salas cerradas y sus ecos, esa corriente ofrece algo más que frío: parece una posibilidad de abandonar la cabaña sin regresar por sus entradas principales.",
+   "notas": "Un remorhaz entró para saquear provisiones y se fue hace tiempo; el túnel es una ruta alternativa que los lobos no vigilan. Cada barril intacto pesa unos 225 kg; puede tomarse una cantidad manejable como [aceite de ballena]. Hay suficiente residuo para una botella de thrym; identificarlo crea [thrym identificado] o [residuo desconocido].",
+   "musica": "mina",
+   "motivos": [
+    "misterio",
+    "esperanza"
+   ],
+   "efectos": [
+    "viento",
+    "pasos",
+    "hielo-cruje"
+   ],
+   "ambiente": "dark",
+   "etiquetas": [
+    "aceite de ballena",
+    "barriles muy pesados",
+    "túnel al sur",
+    "residuo de thrym"
+   ],
+   "figuras": []
+  },
+  {
+   "slug": "huida-y-regreso",
+   "nombre": "La huida y el regreso",
+   "ciudad": "refugio-dougan",
+   "interior": false,
+   "imagen_en": "A wide view of the southern edge of the ice cabin, tracks over fresh snow and open tundra, with faint lights behind frosted windows of the village at the end. Cold blue-grey light. No people or creatures; leave the lower third open.",
+   "lectura": "Al salir, el viento os golpea con una fuerza que casi habíais olvidado entre las paredes de hielo. El edificio queda a vuestra espalda, enorme y silencioso. Tenéis por delante un largo camino y ahora debéis cuidar de quienes apenas conservan fuerzas para recorrerlo. Cada huella que dejáis marca también vuestra dirección para cualquier perseguidor. Aun así, el espacio abierto ofrece una libertad que la cabaña no tenía. Si conseguís manteneros juntos, conservar el calor y seguir el rumbo, esas casas lejanas que antes parecían hostiles podrán convertirse por fin en un refugio.",
+   "notas": "Evitar L5 y guardar silencio permite salir sin despertar la ira de Norsu; L8 permite eludir la guardia de los lobos en las puertas orientales. El regreso puede ser tranquilo o incluir un encuentro de naturaleza. Si ambos lobos siguen vivos y persiguen a la Compañía, aprovechan el final de ese encuentro para atacar antes de cualquier descanso. Hilda recibe a sus hijos con alivio; basta rescatar a uno con vida para que entregue las botas familiares.",
+   "musica": "camino",
+   "motivos": [
+    "persecucion",
+    "esperanza",
+    "tension"
+   ],
+   "efectos": [
+    "viento",
+    "pasos",
+    "lobos"
+   ],
+   "ambiente": "dim",
+   "etiquetas": [
+    "cautivos a salvo de la jaula",
+    "regreso agotador",
+    "posible persecución",
+    "hogar a la vista"
+   ],
+   "figuras": [
+    "silja-dejarr",
+    "finn-dejarr",
+    "hilda-dejarr",
+    "koran",
+    "kanan",
+    "norsu"
+   ]
+  }
+ ],
+ "pnj": [
+  {
+   "slug": "edgra-durmoot",
+   "nombre": "Edgra Durmoot",
+   "papel": "Portavoz y trampera veterana",
+   "ciudad": "refugio-dougan",
+   "aspecto_en": "A full-body portrait of an older human woman with weathered skin and patched trapper's winter gear. Sturdy build, dry expression, a walking stick and a worn fur hood. Cold blue-grey light, snowy background. No weapons drawn.",
+   "presentacion": "Ante vosotros distinguis una mujer mayor, de piel curtida y ropa de trampera remendada. Os recibe con franqueza seca, sin ofrecer suministros ni recompensa, y os mira como a quien intenta salvar a gente que ella da por muerta. Su obstinación deja claro que cada reserva de comida pesa más que cualquier promesa.",
+   "caracter": "Franca, seca y obstinada; rara vez acude al Consejo de Portavoces.",
+   "quiere": "Conservar los escasos alimentos para los vivos.",
+   "sabe": "Conoce las desapariciones y las exigencias de los lobos; cree muertos a los jóvenes, pero se equivoca.",
+   "desafio": null
+  },
+  {
+   "slug": "koran",
+   "nombre": "Koran",
+   "papel": "Lobo invernal extorsionador y falso aliado",
+   "ciudad": "refugio-dougan",
+   "aspecto_en": "A full-body portrait of an enormous white winter wolf the size of a horse, with a limp that shifts from one foreleg to the other. Thick fur, intelligent eyes, pleading posture. Cold blue-grey winter light, snowy background.",
+   "presentacion": "Ante vosotros distinguis un lobo blanco enorme, del tamaño de un caballo, que avanza cojeando con un gemido. Baja la cabeza como un perro que espera un golpe y os pide ayuda para liberar a dos jóvenes prisioneros. Su cojera cambia de pata cuando cree que no lo observáis.",
+   "caracter": "Lastimero y servicial mientras interpreta; manipulador y cruel cuando pierde la máscara.",
+   "quiere": "Llevar víctimas a Norsu y obtener comida y bienes del pueblo.",
+   "sabe": "Garagai murió, los jóvenes siguen vivos y Norsu espera en L5.",
+   "desafio": "hermanos-lobos-invernales"
+  },
+  {
+   "slug": "kanan",
+   "nombre": "Kanan",
+   "papel": "Hermano y cómplice de Koran, perseguidor oculto",
+   "ciudad": "refugio-dougan",
+   "aspecto_en": "A full-body portrait of an enormous white winter wolf with bared fangs and an intimidating stance. Thick fur, cold intelligent eyes, tense shoulders. Cold blue-grey winter light, snowy background.",
+   "presentacion": "Ante vosotros distinguis un lobo blanco enorme que surge desde los montículos cuando el engaño falla. Muestra los colmillos, amenaza con devoraros y finge furia por los supuestos abusos de Garagai. Su postura busca intimidar y cubrir la retirada de su hermano.",
+   "caracter": "Gruñona y amenazante; finge furia por el maltrato de Koran.",
+   "quiere": "Completar la trampa y atacar a los supervivientes que salgan.",
+   "sabe": "Lo mismo que su hermano; puede seguir huellas y olores sin mostrarse.",
+   "desafio": "hermanos-lobos-invernales"
+  },
+  {
+   "slug": "norsu",
+   "nombre": "Norsu",
+   "papel": "Mamut lanudo consciente y guardián de la tumba",
+   "ciudad": "refugio-dougan",
+   "aspecto_en": "A full-body portrait of an immense woolly mammoth with thick shaggy fur and long curving tusks. Its eyes show understanding and hatred. Massive bulk, frozen breath, cold blue light, snowy stone background.",
+   "presentacion": "Ante vosotros distinguis un mamut lanudo inmenso que llena la estancia antes de moverse. Su mirada expresa comprensión y odio, y la voz que sale de su garganta os acusa de cuanto ha ocurrido en este lugar. Baja la cabeza y amenaza con cargar contra cualquier profanador.",
+   "caracter": "Habla común con inteligencia humana corriente; acusa y amenaza desde un duelo sin consuelo.",
+   "quiere": "Permanecer junto a Garagai y vengarse de los humanoides; es herbívoro y mata por rencor.",
+   "sabe": "Su amo fue asesinado por aventureros el año anterior; los Héroes no son necesariamente aquellos asesinos.",
+   "desafio": "norsu"
+  },
+  {
+   "slug": "garagai",
+   "nombre": "Garagai",
+   "papel": "Gigante de la escarcha muerto, antiguo señor de la cabaña",
+   "ciudad": "refugio-dougan",
+   "aspecto_en": "A full-body portrait of a gigantic frost giant corpse mutilated and frozen under translucent ice. Pale blue skin, massive limbs, visible wounds, cold light, no movement. Snow and ice background.",
+   "presentacion": "Ante vosotros distinguis el cadáver gigantesco de un gigante de la escarcha, tendido bajo una cubierta transparente. Las heridas que acabaron con él siguen visibles y el hielo lo conserva como prueba de que los lobos mienten. No conserva hacha ni objetos personales valiosos.",
+   "caracter": "Sin voz presente; era respetado entre los gigantes del Lejano Norte, sin ser jarl.",
+   "quiere": "No procede.",
+   "sabe": "No transmite información; su cadáver prueba que los lobos mienten.",
+   "desafio": null
+  },
+  {
+   "slug": "silja-dejarr",
+   "nombre": "Silja «Sil» Dejarr",
+   "papel": "Adolescente cautiva",
+   "ciudad": "refugio-dougan",
+   "aspecto_en": "A full-body portrait of a tall thin human teenage girl with sharp teeth, long braids tipped with snow, and an insufficient coat for captivity. Determined expression, cold blue light, icy background.",
+   "presentacion": "Ante vosotros distinguis una muchacha alta y delgada, de dientes puntiagudos y largas trenzas con nieve en las puntas. Sigue cada uno de vuestros movimientos desde la jaula con el abrigo insuficiente para el encierro. En cuanto aparece una oportunidad, está dispuesta a colaborar para salir con Finn.",
+   "caracter": "Decidida, activa, dispuesta a colaborar en cuanto aparece una oportunidad.",
+   "quiere": "Salir con Finn y volver con su madre.",
+   "sabe": "Llevan cuatro días presos y los lobos les dan carne cruda; no tiene conocimiento completo del plano sin exploración.",
+   "desafio": null
+  },
+  {
+   "slug": "finn-dejarr",
+   "nombre": "Finn Dejarr",
+   "papel": "Hermano adolescente cautivo",
+   "ciudad": "refugio-dougan",
+   "aspecto_en": "A full-body portrait of a human teenage boy with a round face, no beard, small malformed ears, numb hands and chattering teeth. Insufficient coat, shivering. Cold blue light, icy background.",
+   "presentacion": "Ante vosotros distinguis un adolescente de rostro redondo e imberbe, orejas pequeñas malformadas y manos entumecidas. Aparta las manos de los soportes de la jaula, como si llevara horas buscando una unión débil. Habla entre temblores y necesita calor y cuidados urgentes.",
+   "caracter": "Intenta resolver el encierro examinando soportes; habla entre temblores.",
+   "quiere": "Abrir la jaula y regresar con Silja.",
+   "sabe": "Conoce las limitaciones físicas de la jaula tras examinarla.",
+   "desafio": null
+  },
+  {
+   "slug": "hilda-dejarr",
+   "nombre": "Hilda Dejarr",
+   "papel": "Madre de Silja y Finn y fuente de la recompensa",
+   "ciudad": "refugio-dougan",
+   "aspecto_en": "A full-body portrait of an exhausted adult human woman in a mended domestic winter coat. Worried expression, practical scarf, tired eyes. Cold blue-grey light, simple snowy background.",
+   "presentacion": "Ante vosotros distinguis una mujer adulta agotada por la preocupación, con abrigo doméstico remendado. Durante la ausencia de sus hijos está angustiada y, al recuperarlos, entrega las botas familiares con agradecimiento. Su esposo, también su hermano mayor, murió años atrás.",
+   "caracter": "Angustiada durante la ausencia, agradecida al recuperarlos.",
+   "quiere": "Que sus hijos vuelvan vivos.",
+   "sabe": "Su esposo era cazador, murió años atrás y obtuvo unas botas mágicas al vencer a un aventurero en una competición de bebida.",
+   "desafio": null
+  },
+  {
+   "slug": "holgi-snorp-zilbo",
+   "nombre": "Holgi, Snorp y Zilbo",
+   "papel": "Tres kobolds del viento helado atrapados en la sala de guerra",
+   "ciudad": "refugio-dougan",
+   "aspecto_en": "A full-body group portrait of three small reptilian humanoids in mismatched fur and cloth wrappings, hiding behind ice chairs. Frightened expressions, small claws, cold blue light, stone background.",
+   "presentacion": "Ante vosotros distinguis tres kobolds pequeños y reptilianos, con pieles y telas de abrigo desiguales. Se asoman desde detrás de las sillas, asustados y suplicantes, y os piden escolta al exterior. Creyeron desocupada la cabaña y mataron al chwinga al asustarse.",
+   "caracter": "Asustados, suplicantes, hablan desde detrás de las sillas.",
+   "quiere": "Escapar y encontrar comida y protección.",
+   "sabe": "Norsu y los lobos ocupan la cabaña; mataron al chwinga al asustarse.",
+   "desafio": "trio-de-kobolds"
+  }
+ ],
+ "desafios": [
+  {
+   "slug": "hermanos-lobos-invernales",
+   "nombre": "Hermanos lobos invernales",
+   "nivel": 2,
+   "poderio": [],
+   "roles": [
+    "Adversario",
+    "Merodeador"
+   ],
+   "aspecto_en": "A full-body portrait of two enormous white winter wolves, one limping and pleading, the other baring fangs. Thick fur, intelligent eyes, coordinated hunters. Cold blue-grey winter light, snowy background.",
+   "descripcion": "Dos lobos invernales, Koran y Kanan, que extorsionan al pueblo y conducen víctimas a Norsu. Forman un desafío colectivo de nivel 2.",
+   "limites": [
     {
-      "slug": "pueblo-y-lago-inmovil",
-      "nombre": "El pueblo y el lago inmóvil",
-      "ciudad": "refugio-dougan",
-      "interior": false,
-      "imagen_en": "A wide view of a small lakeside settlement hugging frozen Aguas Rojizas. Tiny houses, two piers (one warped, one with two frost-covered coasters), small boats drawn ashore and fishing holes in blue-grey ice. Dark human silhouettes barely visible in snow. Cold blue-grey winter light; no people; leave the lower third open.",
-      "lectura": "Llegáis a un puñado de casas encogidas junto al lago. El hielo se extiende cientos de metros desde la orilla y aprisiona dos embarcaciones amarradas al muelle más largo. El otro embarcadero está torcido por la presión del invierno. En tierra veis barcas pequeñas arrastradas fuera del agua y, más allá, perforaciones abiertas para pescar. El viento borra cualquier sonido que pudiera venir de las viviendas. Entre sus ráfagas distinguís formas oscuras, casi humanas, inmóviles sobre el blanco. Aquí parece que hasta salir a buscar comida exige reunir valor.",
-      "notas": "La comunidad depende de la pesca bajo el hielo; el aislamiento ha reducido la población y algunos vecinos muestran rasgos físicos inusuales que no prueban amenaza sobrenatural. Edgra escucha pero no entrega suministros; un éxito social puede crear [vecinos dispuestos a escuchar], un fallo [desconfianza local]. El muelle corto puede ceder bajo peso y causar [magullado-2] o [empapado-2].",
-      "musica": "lago",
-      "motivos": ["misterio", "tension"],
-      "efectos": ["viento", "lago-sfx", "hielo-cruje", "pasos"],
-      "ambiente": "dim",
-      "etiquetas": ["pueblo aislado", "reservas al límite", "lago congelado", "muelle inestable"],
-      "figuras": ["edgra-durmoot"]
+     "nombre": "herido",
+     "valor": 4,
+     "consecuencia": "Quedan fuera de combate; si uno muere, el otro huye."
     },
     {
-      "slug": "veinte-piedras-de-thruun",
-      "nombre": "Las Veinte Piedras de Thruun",
-      "ciudad": "refugio-dougan",
-      "interior": false,
-      "imagen_en": "A wide view south of the village: nineteen rough granite menhirs forming an irregular triangle, with a twentieth stone at the centre. Snow at their bases, grey surfaces, cold blue light without warmth. No people or creatures; leave the lower third open.",
-      "lectura": "Al sur de las casas encontráis un conjunto de grandes piedras. Desde lejos parecía un círculo, pero al acercaros distinguís tres lados desiguales. Contáis diecinueve bloques alrededor del perímetro y uno más en el centro. El granito conserva un acabado áspero, sin adornos que os expliquen su propósito. La nieve cubre las bases y se levanta en pequeñas nubes al pasar entre los monolitos. Frente a estas piedras, las casas del pueblo parecen recientes y frágiles. Podéis recorrer el contorno, pero nada en su disposición ofrece una respuesta inmediata a la pregunta de quién las levantó.",
-      "notas": "Los vecinos afirman que las piedras ya estaban cuando llegó Dougan Dubrace; las teorías sobre Thruun como divinidad o espíritu elemental destructor siguen abiertas. La investigación puede producir [leyendas de Thruun recopiladas], pero no resuelve el misterio en esta sección.",
-      "musica": "pueblo",
-      "motivos": ["misterio"],
-      "efectos": ["viento", "hielo-cruje"],
-      "ambiente": "dim",
-      "etiquetas": ["granito antiguo", "triángulo de menhires", "origen desconocido"],
-      "figuras": []
+     "nombre": "amedrentado",
+     "valor": 3,
+     "consecuencia": "Pierden la iniciativa y se repliegan."
     },
     {
-      "slug": "koran-y-kanan-falsa-peticion",
-      "nombre": "Koran y Kanan: la falsa petición de auxilio",
-      "ciudad": "refugio-dougan",
-      "interior": false,
-      "imagen_en": "A wide view of village outskirts with snowbanks, low drifts and broken visibility in gusts. A huge white wolf-like shape limps forward against the wind, while another could hide among nearby mounds. Cold blue-grey light; no people; leave the lower third open.",
-      "lectura": "Al dejar atrás las últimas casas oís un gemido. Una enorme figura blanca avanza despacio sobre la nieve, cargando el peso de forma desigual. Su tamaño recuerda al de un caballo, pero su manera de bajar la cabeza parece la de un perro que espera un golpe. Antes de que podáis decidir cómo reaccionar, os habla. Dice que su amo es cruel, que hay dos jóvenes encerrados lejos de aquí y que necesita vuestra ayuda. Mientras escucháis, el viento agita los montículos cercanos. Hay bastante terreno donde otra criatura podría permanecer oculta sin perderos de vista.",
-      "notas": "Koran finge ser un lobo maltratado por Garagai y pide ayuda para liberar a dos cautivos; Kanan espera oculto. Observar su cojera cambiante puede revelar [cojera fingida descubierta] o [hermanos compinchados]. Si los Héroes aceptan, los guían 21 km al oeste hacia la trampa: Garagai lleva un año muerto.",
-      "musica": "camino",
-      "motivos": ["tension", "misterio"],
-      "efectos": ["lobos", "viento", "pasos"],
-      "ambiente": "dim",
-      "etiquetas": ["cojera fingida", "segundo lobo oculto", "chantaje emocional", "rastro hacia el oeste"],
-      "figuras": ["koran", "kanan"]
-    },
-    {
-      "slug": "travesia-de-la-tundra",
-      "nombre": "La travesía de la tundra",
-      "ciudad": "tundra",
-      "interior": false,
-      "imagen_en": "A wide view of a featureless white plain with fresh snow over older tracks and a low horizon fading in heavier snowfall. Dark moving shapes on the white. Cold blue-grey winter light; no people or creatures; leave the lower third open.",
-      "lectura": "Os internáis en una extensión donde cada loma se parece a la anterior. La nieve cae sobre vuestras huellas y suaviza sus bordes casi en cuanto las dejáis atrás. El refugio del pueblo desaparece pronto a vuestra espalda. Delante solo quedan el viento y la dirección que habéis elegido. A ratos distinguís marcas de animales y manchas oscuras moviéndose sobre el blanco. Tenéis que atender al terreno, proteger vuestro calor y manteneros cerca: aquí basta una ráfaga suficientemente densa para que alguien a pocos pasos parezca haberse desvanecido.",
-      "notas": "Hay una posibilidad entre dos de sufrir ventisca; con los lobos invernales estos protegen al grupo para llevarlos vivos a la trampa. Una manada de 2-7 lobos comunes puede aparecer; comida o firmeza los aleja. Rastreo y orientación mantienen [ruta localizada], mientras un fallo puede causar [perdido-2].",
-      "musica": "camino",
-      "motivos": ["ventisca-m", "bestia", "tension"],
-      "efectos": ["ventisca", "viento", "lobos", "pasos"],
-      "ambiente": "dim",
-      "etiquetas": ["huellas que se borran", "sin abrigo", "nieve frecuente", "helado-1"],
-      "figuras": ["manada-famelica", "tundra-y-ventisca", "koran", "kanan"]
-    },
-    {
-      "slug": "l1-exterior-cabaña-caza",
-      "nombre": "L1. Exterior de la cabaña de caza",
-      "ciudad": "refugio-dougan",
-      "interior": false,
-      "imagen_en": "A wide view of a vaulted ice building three times the size of a Ten Towns house, with three tall eastern openings and a tunnel under the south wall. Cold blue light from ice, giant scale. No people or creatures; leave the lower third open.",
-      "lectura": "La cabaña surge de la tundra como una colina de hielo tallado. Su bóveda empequeñece cualquier edificio que hayáis visto en las ciudades. En la cara oriental se abren tres accesos tan altos que podríais pasar bajo ellos sin acercaros al dintel. El hielo devuelve una luz fría y apagada, y las entradas parecen tragársela. Desde aquí no oís ninguna conversación ni actividad doméstica. La escala del lugar os obliga a reconsiderar cada distancia: lo que para sus constructores sería una habitación corriente podría contener una casa entera de vuestro tamaño.",
-      "notas": "Las entradas orientales conducen a L2, L3 y L4. Los lobos recomiendan L4 y dicen que Garagai está ausente; descubrir el engaño revela [los lobos ocultan algo sobre Garagai]. Rodear el edificio permite encontrar el túnel del remorhaz hacia L8 sin prueba. Los lobos esperan al este para atacar a quien huya del mamut.",
-      "musica": "camino",
-      "motivos": ["tension", "misterio", "amenaza"],
-      "efectos": ["viento", "hielo-cruje", "pasos"],
-      "ambiente": "dim",
-      "etiquetas": ["arquitectura para gigantes", "tres accesos orientales", "vigilancia de los lobos", "salida sur inadvertida"],
-      "figuras": ["koran", "kanan", "hermanos-lobos-invernales"]
-    },
-    {
-      "slug": "l2-camara-desuelle",
-      "nombre": "L2. Cámara de desuelle",
-      "ciudad": "refugio-dougan",
-      "interior": true,
-      "imagen_en": "A wide interior view of a partially butchered whale carcass on ice, a cleaver the size of a longsword, and a western niche with a large stone chest half buried in ice. Blue, grey and dark frozen meat. No people or creatures; leave the lower third open.",
-      "lectura": "El olor agrio os alcanza antes de que podáis abarcar la habitación con la vista. Una ballena despedazada ocupa buena parte del suelo helado. A su lado descansa una hoja de carnicero que, en vuestras manos, tendría el tamaño de una espada. No hay calor suficiente para ablandar la carne, pero sí un hedor persistente que parece adherirse al aire. Al oeste distinguís un nicho y la parte expuesta de un cofre de piedra. El hielo cubre el resto como si llevara tiempo reclamando todas las herramientas de este matadero.",
-      "notas": "Garagai procesaba ballenas para obtener aceite. Liberar el cofre de 1,8×1,5×1,5 m exige una hora picando hielo; hacerlo ruidosamente crea [ruido por la cabaña] que puede alertar a Norsu. Contiene herramientas gigantes de desuelle y una cabra tallada en marfil de trucha, [cabra de marfil].",
-      "musica": "mina",
-      "motivos": ["misterio", "horror"],
-      "efectos": ["hielo-cruje", "pasos"],
-      "ambiente": "dark",
-      "etiquetas": ["hedor de descomposición", "herramientas gigantes", "cofre bajo el hielo"],
-      "figuras": []
-    },
-    {
-      "slug": "l3-hermanos-enjaulados",
-      "nombre": "L3. Los hermanos enjaulados",
-      "ciudad": "refugio-dougan",
-      "interior": true,
-      "imagen_en": "A wide interior view of an oversized metal-bar cage with thick supports, large rusted hinges and frost on the bars. Giant scale and blue light. No people or creatures; leave the lower third open.",
-      "lectura": "Encontráis una jaula que parece construida para algo mucho mayor que vosotros. Sus barras dejan espacios anchos, aunque no lo bastante para permitir el paso de una persona. La escarcha recubre el metal y las bisagras de la puerta muestran manchas de óxido. Tras los barrotes veis a dos jóvenes encogidos por el frío. Una muchacha de largas trenzas sigue cada uno de vuestros movimientos; su hermano aparta las manos de los soportes de la jaula, como si llevara horas buscando una unión débil. Antes de hablar, comprendéis que sacarlos de aquí exigirá tanto cuidado como rapidez.",
-      "notas": "Garagai construyó la jaula cuando Norsu era pequeño; ahora contiene a Silja y Finn, mantenidos vivos con carne cruda para exigir rescate. Finn tiene [helado-2]. Calentar los barrotes crea [metal maleable]; forzar la cerradura exige un minuto. La puerta chirría y alerta a Norsu salvo que se lubriquen las bisagras con aceite; el mamut llega desde L5 dispuesto a matar.",
-      "musica": "mina",
-      "motivos": ["tension", "horror", "amenaza"],
-      "efectos": ["hielo-cruje", "pasos", "puerta"],
-      "ambiente": "dark",
-      "etiquetas": ["barrotes congelados", "bisagras oxidadas", "cautivos debilitados", "helado-2"],
-      "figuras": ["silja-dejarr", "finn-dejarr"]
-    },
-    {
-      "slug": "l4-pasillo-entrada",
-      "nombre": "L4. Pasillo de entrada",
-      "ciudad": "refugio-dougan",
-      "interior": true,
-      "imagen_en": "A wide interior view of an ice corridor with sharp stalactites hanging from the ceiling and a floor hard to cross silently. Filtered light from the eastern entrance. Cold blue ice. No people or creatures; leave the lower third open.",
-      "lectura": "El acceso se estrecha entre superficies de hielo. Sobre vuestras cabezas cuelga una acumulación de carámbanos que recuerda una hilera de cuchillos transparentes. Cada paso parece demasiado sonoro en este conducto. Vuestra respiración forma pequeñas nubes y la luz de fuera pierde fuerza a medida que avanzáis. Al fondo os espera una estancia mayor, pero todavía no podéis apreciar qué contiene. Si queréis mantener vuestra llegada en secreto, tendréis que escoger bien dónde apoyáis los pies y evitar que el equipo roce las paredes heladas.",
-      "notas": "Cruzar con sigilo y controlar el equipo permite ganar [paso silencioso]; un fallo crea [intrusos oídos] y Norsu detecta la llegada desde L5. Los carámbanos refuerzan el peligro, pero no forman una trampa de caída automática.",
-      "musica": "mina",
-      "motivos": ["sigilo", "tension"],
-      "efectos": ["hielo-cruje", "pasos"],
-      "ambiente": "dim",
-      "etiquetas": ["carámbanos como dagas", "hielo resonante", "paso estrecho"],
-      "figuras": []
-    },
-    {
-      "slug": "l5-tumba-garagai",
-      "nombre": "L5. La tumba de Garagai",
-      "ciudad": "refugio-dougan",
-      "interior": true,
-      "imagen_en": "A wide interior view of an oval chamber with bright walls, a mutilated giant corpse frozen under translucent ice, and a monumental throne carved from a single block on a circular platform with a deep rune on its back. A woolly mammoth stands beside the corpse. Cold blue light. No people or creatures; leave the lower third open.",
-      "lectura": "Entráis en una sala que parece un sepulcro. El hielo de las paredes refleja una claridad pálida sobre el cuerpo de un gigante, tendido bajo una cubierta transparente. Las heridas que acabaron con él siguen visibles. Cerca se alza un trono sobre una plataforma circular, con una runa profunda en el respaldo. Un mamut lanudo permanece junto al cadáver. Su presencia llena la estancia antes incluso de que se mueva. Cuando advierte que estáis aquí, fija en vosotros una mirada de odio y baja la cabeza. La voz que sale de su garganta os acusa de cuanto ha ocurrido en este lugar.",
-      "notas": "Norsu, consciente y capaz de hablar común, interpreta cualquier intrusión como profanación. Antes de su primera agresión se puede intentar calmarlo con engaño o persuasión; éxito crea [tregua funeraria], fallo [ira desatada]. La runa significa «hielo» y el trono puede invocar una ventisca de ocho horas en 1,6 km, una vez cada diez días. El cadáver carece de botín valioso.",
-      "musica": "culto",
-      "motivos": ["duelo", "amenaza", "misterio"],
-      "efectos": ["hielo-cruje", "rugido", "pasos"],
-      "ambiente": "dim",
-      "etiquetas": ["tumba profanada", "cadáver bajo hielo", "trono rúnico", "duelo inconsolable"],
-      "figuras": ["norsu", "garagai", "trono-runco-de-hielo"]
-    },
-    {
-      "slug": "l6-sala-guerra",
-      "nombre": "L6. Sala de guerra",
-      "ciudad": "refugio-dougan",
-      "interior": true,
-      "imagen_en": "A wide interior view of a monumental table carved from an ice block, surrounded by cracked ice chairs. Under the table lies a spiky stone figure about thirty centimetres tall. Small kobold shapes hide behind chairs. Cold blue light. No people or creatures; leave the lower third open.",
-      "lectura": "Una mesa enorme ocupa el centro de la cámara. El bloque de hielo del que fue tallada conserva una solidez que contrasta con las sillas: muchas tienen grietas y bordes rotos. Podríais ocultaros tras cualquiera de sus respaldos. Al mirar debajo de la mesa descubrís una pequeña figura de piedra, cubierta de salientes y demasiado singular para confundirse con un trozo de pared. El lugar conserva la disposición de una reunión interrumpida hace mucho tiempo. Entre las sillas llega un leve movimiento, seguido de voces que os piden ayuda para salir.",
-      "notas": "Garagai y otros gigantes celebraban aquí reuniones. La figura es un chwinga petrificado al morir; Holgi, Snorp y Zilbo, tres kobolds del viento helado, se ocultan tras las sillas y piden escolta al exterior. Su relato revela [la cabaña sigue habitada] y las circunstancias de la muerte del chwinga.",
-      "musica": "mina",
-      "motivos": ["misterio", "tension"],
-      "efectos": ["pasos", "hielo-cruje"],
-      "ambiente": "dim",
-      "etiquetas": ["mesa de hielo gigantesca", "sillas agrietadas", "escondites entre muebles", "chwinga muerto"],
-      "figuras": ["holgi-snorp-zilbo", "trio-de-kobolds"]
-    },
-    {
-      "slug": "l7-saco-dormir-garagai",
-      "nombre": "L7. Saco de dormir de Garagai",
-      "ciudad": "refugio-dougan",
-      "interior": true,
-      "imagen_en": "A wide interior view of a cavernous almost empty room with a huge mould-stained fur sleeping bag on ice. Faint blue light and bare surfaces. No people or creatures; leave the lower third open.",
-      "lectura": "La siguiente cámara está casi vacía. Solo un saco de dormir inmenso ocupa parte del suelo. Sus pieles muestran manchas antiguas y zonas de moho que oscurecen el pelo apelmazado. A vuestra escala podría parecer una tienda derrumbada, pero su forma deja claro que pertenecía a un solo durmiente. No veis muebles, cofres ni adornos. El frío ha conservado este espacio sin devolverle ninguna apariencia de comodidad. Podéis deteneros a examinarlo, aunque el silencio no os permite saber cuánto tiempo conservaréis la habitación para vosotros.",
-      "notas": "Era el dormitorio de Garagai y está desocupado, sin tesoro indicado. Puede servir como escondite si se justifica ocultar el rastro y mantener silencio; éxito crea [ocultos entre pieles]. No es por sí solo un lugar seguro para descanso en campamento.",
-      "musica": "mina",
-      "motivos": ["sigilo", "tension"],
-      "efectos": ["viento", "pasos"],
-      "ambiente": "dark",
-      "etiquetas": ["pieles mohosas", "cámara vacía", "escala gigantesca"],
-      "figuras": []
-    },
-    {
-      "slug": "l8-almacen-aceite-tunel-remorhaz",
-      "nombre": "L8. Almacén de aceite y túnel del remorhaz",
-      "ciudad": "refugio-dougan",
-      "interior": true,
-      "imagen_en": "A wide interior view of five huge barrels in a foul-smelling ice room, with an irregular tunnel under the south wall. A metre-and-a-half section of wall has a strange white frost-like film. Cold air from the tundra. No people or creatures; leave the lower third open.",
-      "lectura": "El olor rancio de esta estancia parece más espeso que el aire. Cinco grandes barriles ocupan el almacén, y bajo la pared del sur se abre un túnel irregular hacia el exterior. Su forma no corresponde a ninguna puerta construida por gigantes. Al examinar la abertura distinguís una sustancia blanca adherida a una sección de la pared, como una escarcha de textura extraña. Del túnel os llega el aire de la tundra. Después de las salas cerradas y sus ecos, esa corriente ofrece algo más que frío: parece una posibilidad de abandonar la cabaña sin regresar por sus entradas principales.",
-      "notas": "Un remorhaz entró para saquear provisiones y se fue hace tiempo; el túnel es una ruta alternativa que los lobos no vigilan. Cada barril intacto pesa unos 225 kg; puede tomarse una cantidad manejable como [aceite de ballena]. Hay suficiente residuo para una botella de thrym; identificarlo crea [thrym identificado] o [residuo desconocido].",
-      "musica": "mina",
-      "motivos": ["misterio", "esperanza"],
-      "efectos": ["viento", "pasos", "hielo-cruje"],
-      "ambiente": "dark",
-      "etiquetas": ["aceite de ballena", "barriles muy pesados", "túnel al sur", "residuo de thrym"],
-      "figuras": []
-    },
-    {
-      "slug": "huida-y-regreso",
-      "nombre": "La huida y el regreso",
-      "ciudad": "refugio-dougan",
-      "interior": false,
-      "imagen_en": "A wide view of the southern edge of the ice cabin, tracks over fresh snow and open tundra, with faint lights behind frosted windows of the village at the end. Cold blue-grey light. No people or creatures; leave the lower third open.",
-      "lectura": "Al salir, el viento os golpea con una fuerza que casi habíais olvidado entre las paredes de hielo. El edificio queda a vuestra espalda, enorme y silencioso. Tenéis por delante un largo camino y ahora debéis cuidar de quienes apenas conservan fuerzas para recorrerlo. Cada huella que dejáis marca también vuestra dirección para cualquier perseguidor. Aun así, el espacio abierto ofrece una libertad que la cabaña no tenía. Si conseguís manteneros juntos, conservar el calor y seguir el rumbo, esas casas lejanas que antes parecían hostiles podrán convertirse por fin en un refugio.",
-      "notas": "Evitar L5 y guardar silencio permite salir sin despertar la ira de Norsu; L8 permite eludir la guardia de los lobos en las puertas orientales. El regreso puede ser tranquilo o incluir un encuentro de naturaleza. Si ambos lobos siguen vivos y persiguen a la Compañía, aprovechan el final de ese encuentro para atacar antes de cualquier descanso. Hilda recibe a sus hijos con alivio; basta rescatar a uno con vida para que entregue las botas familiares.",
-      "musica": "camino",
-      "motivos": ["persecucion", "esperanza", "tension"],
-      "efectos": ["viento", "pasos", "lobos"],
-      "ambiente": "dim",
-      "etiquetas": ["cautivos a salvo de la jaula", "regreso agotador", "posible persecución", "hogar a la vista"],
-      "figuras": ["silja-dejarr", "finn-dejarr", "hilda-dejarr", "koran", "kanan", "norsu"]
+     "nombre": "engaño desmontado",
+     "valor": 3,
+     "consecuencia": "Termina su capacidad de hacerse pasar por aliados, sin eliminar su capacidad de atacar."
     }
-  ],
-  "pnj": [
+   ],
+   "etiquetas": [
+    "cazadores coordinados",
+    "olfato rastreador",
+    "aliento glacial",
+    "pelaje blanco",
+    "habla manipuladora",
+    "inmunes al frío"
+   ],
+   "rasgos": [],
+   "amenazas": [
     {
-      "slug": "edgra-durmoot",
-      "nombre": "Edgra Durmoot",
-      "papel": "Portavoz y trampera veterana",
-      "ciudad": "refugio-dougan",
-      "aspecto_en": "A full-body portrait of an older human woman with weathered skin and patched trapper's winter gear. Sturdy build, dry expression, a walking stick and a worn fur hood. Cold blue-grey light, snowy background. No weapons drawn.",
-      "presentacion": "Ante vosotros distinguis una mujer mayor, de piel curtida y ropa de trampera remendada. Os recibe con franqueza seca, sin ofrecer suministros ni recompensa, y os mira como a quien intenta salvar a gente que ella da por muerta. Su obstinación deja claro que cada reserva de comida pesa más que cualquier promesa.",
-      "caracter": "Franca, seca y obstinada; rara vez acude al Consejo de Portavoces.",
-      "quiere": "Conservar los escasos alimentos para los vivos.",
-      "sabe": "Conoce las desapariciones y las exigencias de los lobos; cree muertos a los jóvenes, pero se equivoca.",
-      "desafio": null
+     "nombre": "Cerrar las mandíbulas mientras el hermano corta la retirada",
+     "descripcion": "Ataque coordinado que atrapa a la víctima.",
+     "consecuencias": [
+      "Inflige [herido-3]",
+      "Impone [derribado-2]"
+     ]
     },
     {
-      "slug": "koran",
-      "nombre": "Koran",
-      "papel": "Lobo invernal extorsionador y falso aliado",
-      "ciudad": "refugio-dougan",
-      "aspecto_en": "A full-body portrait of an enormous white winter wolf the size of a horse, with a limp that shifts from one foreleg to the other. Thick fur, intelligent eyes, pleading posture. Cold blue-grey winter light, snowy background.",
-      "presentacion": "Ante vosotros distinguis un lobo blanco enorme, del tamaño de un caballo, que avanza cojeando con un gemido. Baja la cabeza como un perro que espera un golpe y os pide ayuda para liberar a dos jóvenes prisioneros. Su cojera cambia de pata cuando cree que no lo observáis.",
-      "caracter": "Lastimero y servicial mientras interpreta; manipulador y cruel cuando pierde la máscara.",
-      "quiere": "Llevar víctimas a Norsu y obtener comida y bienes del pueblo.",
-      "sabe": "Garagai murió, los jóvenes siguen vivos y Norsu espera en L5.",
-      "desafio": "hermanos-lobos-invernales"
+     "nombre": "Exhalar una ráfaga de escarcha",
+     "descripcion": "Aliento glacial sobre el grupo.",
+     "consecuencias": [
+      "Inflige [helado-3]",
+      "Crea [paso cubierto de escarcha]"
+     ]
     },
     {
-      "slug": "kanan",
-      "nombre": "Kanan",
-      "papel": "Hermano y cómplice de Koran, perseguidor oculto",
-      "ciudad": "refugio-dougan",
-      "aspecto_en": "A full-body portrait of an enormous white winter wolf with bared fangs and an intimidating stance. Thick fur, cold intelligent eyes, tense shoulders. Cold blue-grey winter light, snowy background.",
-      "presentacion": "Ante vosotros distinguis un lobo blanco enorme que surge desde los montículos cuando el engaño falla. Muestra los colmillos, amenaza con devoraros y finge furia por los supuestos abusos de Garagai. Su postura busca intimidar y cubrir la retirada de su hermano.",
-      "caracter": "Gruñona y amenazante; finge furia por el maltrato de Koran.",
-      "quiere": "Completar la trampa y atacar a los supervivientes que salgan.",
-      "sabe": "Lo mismo que su hermano; puede seguir huellas y olores sin mostrarse.",
-      "desafio": "hermanos-lobos-invernales"
+     "nombre": "Conducir a sus supuestos aliados hacia L4",
+     "descripcion": "Guían a los Héroes hacia la cabaña.",
+     "consecuencias": [
+      "Crea [encaminados hacia Norsu]",
+      "Mantiene [segundo lobo a la espalda]"
+     ]
     },
     {
-      "slug": "norsu",
-      "nombre": "Norsu",
-      "papel": "Mamut lanudo consciente y guardián de la tumba",
-      "ciudad": "refugio-dougan",
-      "aspecto_en": "A full-body portrait of an immense woolly mammoth with thick shaggy fur and long curving tusks. Its eyes show understanding and hatred. Massive bulk, frozen breath, cold blue light, snowy stone background.",
-      "presentacion": "Ante vosotros distinguis un mamut lanudo inmenso que llena la estancia antes de moverse. Su mirada expresa comprensión y odio, y la voz que sale de su garganta os acusa de cuanto ha ocurrido en este lugar. Baja la cabeza y amenaza con cargar contra cualquier profanador.",
-      "caracter": "Habla común con inteligencia humana corriente; acusa y amenaza desde un duelo sin consuelo.",
-      "quiere": "Permanecer junto a Garagai y vengarse de los humanoides; es herbívoro y mata por rencor.",
-      "sabe": "Su amo fue asesinado por aventureros el año anterior; los Héroes no son necesariamente aquellos asesinos.",
-      "desafio": "norsu"
-    },
-    {
-      "slug": "garagai",
-      "nombre": "Garagai",
-      "papel": "Gigante de la escarcha muerto, antiguo señor de la cabaña",
-      "ciudad": "refugio-dougan",
-      "aspecto_en": "A full-body portrait of a gigantic frost giant corpse mutilated and frozen under translucent ice. Pale blue skin, massive limbs, visible wounds, cold light, no movement. Snow and ice background.",
-      "presentacion": "Ante vosotros distinguis el cadáver gigantesco de un gigante de la escarcha, tendido bajo una cubierta transparente. Las heridas que acabaron con él siguen visibles y el hielo lo conserva como prueba de que los lobos mienten. No conserva hacha ni objetos personales valiosos.",
-      "caracter": "Sin voz presente; era respetado entre los gigantes del Lejano Norte, sin ser jarl.",
-      "quiere": "No procede.",
-      "sabe": "No transmite información; su cadáver prueba que los lobos mienten.",
-      "desafio": null
-    },
-    {
-      "slug": "silja-dejarr",
-      "nombre": "Silja «Sil» Dejarr",
-      "papel": "Adolescente cautiva",
-      "ciudad": "refugio-dougan",
-      "aspecto_en": "A full-body portrait of a tall thin human teenage girl with sharp teeth, long braids tipped with snow, and an insufficient coat for captivity. Determined expression, cold blue light, icy background.",
-      "presentacion": "Ante vosotros distinguis una muchacha alta y delgada, de dientes puntiagudos y largas trenzas con nieve en las puntas. Sigue cada uno de vuestros movimientos desde la jaula con el abrigo insuficiente para el encierro. En cuanto aparece una oportunidad, está dispuesta a colaborar para salir con Finn.",
-      "caracter": "Decidida, activa, dispuesta a colaborar en cuanto aparece una oportunidad.",
-      "quiere": "Salir con Finn y volver con su madre.",
-      "sabe": "Llevan cuatro días presos y los lobos les dan carne cruda; no tiene conocimiento completo del plano sin exploración.",
-      "desafio": null
-    },
-    {
-      "slug": "finn-dejarr",
-      "nombre": "Finn Dejarr",
-      "papel": "Hermano adolescente cautivo",
-      "ciudad": "refugio-dougan",
-      "aspecto_en": "A full-body portrait of a human teenage boy with a round face, no beard, small malformed ears, numb hands and chattering teeth. Insufficient coat, shivering. Cold blue light, icy background.",
-      "presentacion": "Ante vosotros distinguis un adolescente de rostro redondo e imberbe, orejas pequeñas malformadas y manos entumecidas. Aparta las manos de los soportes de la jaula, como si llevara horas buscando una unión débil. Habla entre temblores y necesita calor y cuidados urgentes.",
-      "caracter": "Intenta resolver el encierro examinando soportes; habla entre temblores.",
-      "quiere": "Abrir la jaula y regresar con Silja.",
-      "sabe": "Conoce las limitaciones físicas de la jaula tras examinarla.",
-      "desafio": null
-    },
-    {
-      "slug": "hilda-dejarr",
-      "nombre": "Hilda Dejarr",
-      "papel": "Madre de Silja y Finn y fuente de la recompensa",
-      "ciudad": "refugio-dougan",
-      "aspecto_en": "A full-body portrait of an exhausted adult human woman in a mended domestic winter coat. Worried expression, practical scarf, tired eyes. Cold blue-grey light, simple snowy background.",
-      "presentacion": "Ante vosotros distinguis una mujer adulta agotada por la preocupación, con abrigo doméstico remendado. Durante la ausencia de sus hijos está angustiada y, al recuperarlos, entrega las botas familiares con agradecimiento. Su esposo, también su hermano mayor, murió años atrás.",
-      "caracter": "Angustiada durante la ausencia, agradecida al recuperarlos.",
-      "quiere": "Que sus hijos vuelvan vivos.",
-      "sabe": "Su esposo era cazador, murió años atrás y obtuvo unas botas mágicas al vencer a un aventurero en una competición de bebida.",
-      "desafio": null
-    },
-    {
-      "slug": "holgi-snorp-zilbo",
-      "nombre": "Holgi, Snorp y Zilbo",
-      "papel": "Tres kobolds del viento helado atrapados en la sala de guerra",
-      "ciudad": "refugio-dougan",
-      "aspecto_en": "A full-body group portrait of three small reptilian humanoids in mismatched fur and cloth wrappings, hiding behind ice chairs. Frightened expressions, small claws, cold blue light, stone background.",
-      "presentacion": "Ante vosotros distinguis tres kobolds pequeños y reptilianos, con pieles y telas de abrigo desiguales. Se asoman desde detrás de las sillas, asustados y suplicantes, y os piden escolta al exterior. Creyeron desocupada la cabaña y mataron al chwinga al asustarse.",
-      "caracter": "Asustados, suplicantes, hablan desde detrás de las sillas.",
-      "quiere": "Escapar y encontrar comida y protección.",
-      "sabe": "Norsu y los lobos ocupan la cabaña; mataron al chwinga al asustarse.",
-      "desafio": "trio-de-kobolds"
+     "nombre": "Esperar al agotamiento para emboscar",
+     "descripcion": "Aprovechan el cansancio del grupo.",
+     "consecuencias": [
+      "Crea [retirada interceptada]",
+      "Inflige [acosado-2]"
+     ]
     }
-  ],
-  "desafios": [
+   ],
+   "secretos": [
     {
-      "slug": "hermanos-lobos-invernales",
-      "nombre": "Hermanos lobos invernales",
-      "nivel": 2,
-      "poderio": [],
-      "roles": ["Adversario", "Merodeador"],
-      "aspecto_en": "A full-body portrait of two enormous white winter wolves, one limping and pleading, the other baring fangs. Thick fur, intelligent eyes, coordinated hunters. Cold blue-grey winter light, snowy background.",
-      "descripcion": "Dos lobos invernales, Koran y Kanan, que extorsionan al pueblo y conducen víctimas a Norsu. Forman un desafío colectivo de nivel 2.",
-      "limites": [
-        {"nombre": "herido", "valor": 4, "consecuencia": "Quedan fuera de combate; si uno muere, el otro huye."},
-        {"nombre": "amedrentado", "valor": 3, "consecuencia": "Pierden la iniciativa y se repliegan."},
-        {"nombre": "engaño desmontado", "valor": 3, "consecuencia": "Termina su capacidad de hacerse pasar por aliados, sin eliminar su capacidad de atacar."}
-      ],
-      "etiquetas": ["cazadores coordinados", "olfato rastreador", "aliento glacial", "pelaje blanco", "habla manipuladora", "inmunes al frío"],
-      "rasgos": [],
-      "amenazas": [
-        {"nombre": "Cerrar las mandíbulas mientras el hermano corta la retirada", "descripcion": "Ataque coordinado que atrapa a la víctima.", "consecuencias": ["Inflige [herido-3]", "Impone [derribado-2]"]},
-        {"nombre": "Exhalar una ráfaga de escarcha", "descripcion": "Aliento glacial sobre el grupo.", "consecuencias": ["Inflige [helado-3]", "Crea [paso cubierto de escarcha]"]},
-        {"nombre": "Conducir a sus supuestos aliados hacia L4", "descripcion": "Guían a los Héroes hacia la cabaña.", "consecuencias": ["Crea [encaminados hacia Norsu]", "Mantiene [segundo lobo a la espalda]"]},
-        {"nombre": "Esperar al agotamiento para emboscar", "descripcion": "Aprovechan el cansancio del grupo.", "consecuencias": ["Crea [retirada interceptada]", "Inflige [acosado-2]"]}
-      ],
-      "secretos": [{"nombre": "Debilidades y secretos", "descripcion": "La cojera y la indignación son fingidas. Sirvieron a Garagai y cuidan de Norsu. Protegen a los Héroes del temporal para llevarlos vivos al mamut. Si uno muere, el otro huye. El túnel sur permite eludir su vigilancia de las puertas."}]
-    },
-    {
-      "slug": "norsu",
-      "nombre": "Norsu",
-      "nivel": 3,
-      "poderio": [{"nivel": "adventure", "aspecto": "Mamut consciente de tamaño inmenso; Poderío Aventura por magnitud y fuerza."}],
-      "roles": ["Adversario", "Bruto"],
-      "aspecto_en": "A full-body portrait of an immense woolly mammoth with thick fur, long tusks and a hateful intelligent gaze. Massive and vengeful, standing beside a frozen giant corpse. Cold blue light, stone chamber.",
-      "descripcion": "Mamut lanudo consciente que vela el cadáver de Garagai y combate a los intrusos por rencor. Poderío Aventura.",
-      "limites": [
-        {"nombre": "herido", "valor": 5, "consecuencia": "Queda fuera de combate."},
-        {"nombre": "calmado", "valor": 3, "consecuencia": "Acepta la tregua funeraria y exige soledad."}
-      ],
-      "etiquetas": ["masa descomunal", "colmillos arrolladores", "pisotones", "guardián de la tumba", "duelo inconsolable", "comprende el común"],
-      "rasgos": [],
-      "amenazas": [
-        {"nombre": "Bajar la cabeza y cargar", "descripcion": "Carga contra los intrusos.", "consecuencias": ["Inflige [herido-4]", "Impone [derribado-3]"]},
-        {"nombre": "Aplastar a quien queda bajo sus patas", "descripcion": "Pisotea a un Héroe caído.", "consecuencias": ["Inflige [aplastado-4]", "Crea [salida bloqueada por el mamut]"]},
-        {"nombre": "Acudir al ruido de la jaula o del corredor", "descripcion": "Responde a ruidos de rescate.", "consecuencias": ["Elimina [rescate inadvertido]", "Crea [Norsu en la sala de cautivos]"]},
-        {"nombre": "Perseguir a quienes profanan la tumba", "descripcion": "Persigue a los huidos.", "consecuencias": ["Impone [acosado-3]", "Separa a un rezagado mediante [aislado-2]"]}
-      ],
-      "secretos": [{"nombre": "Debilidades y secretos", "descripcion": "Antes de su primera agresión puede aceptar una amistad fingida con Garagai o una promesa convincente de venganza. Un éxito claro puede completar el límite calmado. Tolera oración u ofrenda y luego pide soledad. No persigue más allá de unos treinta metros del edificio. Sigilo, negociación y salida lateral permiten afrontar el rescate sin vencerlo por la fuerza."}]
-    },
-    {
-      "slug": "manada-famelica",
-      "nombre": "Manada famélica",
-      "nivel": 1,
-      "poderio": [],
-      "roles": ["Adversario", "Merodeador"],
-      "aspecto_en": "A full-body group portrait of two to seven lean common wolves with visible ribs, gaunt faces and hungry eyes. Demaciated, coordinated pack. Cold blue-grey snowy background.",
-      "descripcion": "Entre dos y siete lobos comunes demacrados por el hambre, determinados por 1d6+1. No obedecen a Norsu.",
-      "limites": [
-        {"nombre": "herido", "valor": 3, "consecuencia": "Quedan fuera de combate."},
-        {"nombre": "ahuyentado", "valor": 2, "consecuencia": "Huyen del grupo."},
-        {"nombre": "hambre atendida", "valor": 2, "consecuencia": "Dejan de hostigar si reciben comida."}
-      ],
-      "etiquetas": ["olfato agudo", "rodean a los débiles", "mordiscos coordinados", "hambrientos-2"],
-      "rasgos": [],
-      "amenazas": [
-        {"nombre": "Rodear a alguien separado", "descripcion": "Aíslan a un Héroe separado.", "consecuencias": ["Impone [aislado-2]", "Inflige [herido-2]"]},
-        {"nombre": "Disputar comida o equipo accesible", "descripcion": "Atacan provisiones.", "consecuencias": ["Consume una etiqueta de mochila de provisiones", "Crea [mochila desgarrada]"]}
-      ],
-      "secretos": [{"nombre": "Debilidades y secretos", "descripcion": "Están demacrados por hambre, no obedecen a Norsu. Comida y disuasión son soluciones viables. Los lobos invernales los espantan sin lucha."}]
-    },
-    {
-      "slug": "tundra-y-ventisca",
-      "nombre": "Tundra y ventisca",
-      "nivel": 2,
-      "poderio": [],
-      "roles": ["Obstáculo", "Peligro"],
-      "aspecto_en": "A wide view of a featureless snowy tundra under heavy snowfall, with no landmarks and low visibility. Cold blue-grey light, blowing snow. No people or creatures.",
-      "descripcion": "Desafío ambiental de frío, nieve y posible ventisca durante la travesía. Conversión propuesta, sin criatura ni dificultad de criatura asignada.",
-      "limites": [
-        {"nombre": "ruta superada", "valor": 3, "consecuencia": "La ruta queda superada."},
-        {"nombre": "refugio asegurado", "valor": 3, "consecuencia": "Se asegura un refugio."}
-      ],
-      "etiquetas": ["sin referencias", "nieve que borra rastros", "viento cortante", "exposición prolongada", "visibilidad reducida"],
-      "rasgos": [],
-      "amenazas": [
-        {"nombre": "Desvanecer el horizonte y las huellas", "descripcion": "La nevada borra referencias.", "consecuencias": ["Impone [perdido-2]", "Crea [ruta borrada]"]},
-        {"nombre": "Robar calor durante la marcha", "descripcion": "El frío cala las prendas.", "consecuencias": ["Inflige [helado-2]", "Agrava un estado de frío existente"]},
-        {"nombre": "Ocultar a los compañeros tras una ráfaga", "descripcion": "Separa al grupo.", "consecuencias": ["Impone [aislado-2]", "Crea [Compañía dispersa]"]}
-      ],
-      "secretos": [{"nombre": "Debilidades y secretos", "descripcion": "Orientación, abrigo, cuerdas, refugios y cooperación contrarrestan sus amenazas. Koran y Kanan evitan extravíos y separaciones y protegen del peor temporal si guían al grupo. Alcanzar refugio permite esperar a que pase la ventisca; no completa automáticamente el viaje."}]
-    },
-    {
-      "slug": "trono-runco-de-hielo",
-      "nombre": "Trono rúnico de hielo",
-      "nivel": 2,
-      "poderio": [],
-      "roles": ["Obstáculo", "Peligro"],
-      "aspecto_en": "A full-body view of a monumental throne carved from a single ice block on a circular platform, with a deep rune on its back. Translucent ice, cold blue light, stone chamber.",
-      "descripcion": "Objeto mágico fijo de L5, sin criatura ni dificultad de criatura asignada; nivel ambiental propuesto.",
-      "limites": [
-        {"nombre": "destruido", "valor": 4, "consecuencia": "Pierde toda magia."}
-      ],
-      "etiquetas": ["hielo macizo", "runa de conjuración", "resiste cortes y perforaciones", "inmune al frío", "sin mente ni metabolismo"],
-      "rasgos": [],
-      "amenazas": [
-        {"nombre": "Completar una invocación activada desde el asiento", "descripcion": "Invoca una ventisca desde el trono.", "consecuencias": ["Crea [ventisca de ocho horas] tras un minuto", "Activa las amenazas de la tundra en un radio aproximado de 1,6 km"]},
-        {"nombre": "Prolongar un intento ruidoso de demolición", "descripcion": "Hace ruido en la cabaña.", "consecuencias": ["Crea [ruido por la cabaña]", "Atrae a Norsu si sigue vivo y puede oírlo"]}
-      ],
-      "secretos": [{"nombre": "Debilidades y secretos", "descripcion": "No actúa por voluntad propia. Su magia solo se activa mediante alguien sentado; un uso cada diez días. El fuego resulta especialmente eficaz para destruirlo; el veneno y los ataques mentales no lo afectan. Al alcanzar destruido 4 pierde toda magia. No se presenta como objeto de mochila transportable."}]
-    },
-    {
-      "slug": "trio-de-kobolds",
-      "nombre": "Trío de kobolds",
-      "nivel": 1,
-      "poderio": [],
-      "roles": ["Adversario", "Apoyo"],
-      "aspecto_en": "A full-body group portrait of three small reptilian kobolds in mismatched furs, hiding behind ice chairs. Frightened expressions, small claws, cold blue light.",
-      "descripcion": "Holgi, Snorp y Zilbo, tres kobolds del viento helado que se ocultan en L6. Solo se vuelven hostiles si la situación se vuelve hostil.",
-      "limites": [
-        {"nombre": "herido", "valor": 2, "consecuencia": "Quedan fuera de combate."},
-        {"nombre": "intimidado", "valor": 2, "consecuencia": "Se rinden o huyen."},
-        {"nombre": "convencido", "valor": 2, "consecuencia": "Aceptan ayuda o escolta."}
-      ],
-      "etiquetas": ["pequeños y escurridizos", "se cubren entre sillas", "buscan protección", "asustados-2"],
-      "rasgos": [],
-      "amenazas": [
-        {"nombre": "Entrar en pánico y gritar", "descripcion": "Gritan y alertan a Norsu.", "consecuencias": ["Crea [ruido por la cabaña]", "Alerta a Norsu si puede oírlos"]},
-        {"nombre": "Defenderse cuando no ven salida", "descripcion": "Atacan si se sienten acorralados.", "consecuencias": ["Inflige [herido-1]", "Crea [paso entorpecido entre sillas]"]}
-      ],
-      "secretos": [{"nombre": "Debilidades y secretos", "descripcion": "Comienzan pidiendo ayuda. Una salida segura o la promesa creíble de escolta resuelve su resistencia. Su responsabilidad en la muerte del chwinga puede alterar la disposición de los Héroes a auxiliarlos."}]
-    },
-    {
-      "slug": "milicia-refugio-dougan",
-      "nombre": "Milicia de Refugio de Dougan",
-      "nivel": 2,
-      "poderio": [],
-      "roles": ["Adversario", "Apoyo"],
-      "aspecto_en": "A full-body group portrait of up to thirteen winter-clad villagers with spears and a veteran leader. Determined defenders, scarce supplies, cold blue-grey light, snowy village.",
-      "descripcion": "Hasta doce guerreros tribales y un veterano. Desafío colectivo solo si surge un enfrentamiento, no una escena prevista.",
-      "limites": [
-        {"nombre": "herido", "valor": 4, "consecuencia": "Quedan fuera de combate."},
-        {"nombre": "desmoralizado", "valor": 3, "consecuencia": "Se repliegan."},
-        {"nombre": "convencido", "valor": 3, "consecuencia": "Aceptan cooperar."}
-      ],
-      "etiquetas": ["defienden sus hogares", "ventaja numérica", "veterano al mando", "suministros escasos"],
-      "rasgos": [],
-      "amenazas": [
-        {"nombre": "Cerrar el acceso al pueblo", "descripcion": "Bloquean el paso.", "consecuencias": ["Crea [paso bloqueado]", "Impone [rodeado-2]"]},
-        {"nombre": "Cargar en grupo para expulsar intrusos", "descripcion": "Carga colectiva.", "consecuencias": ["Inflige [herido-2]", "Crea [expulsados de las viviendas]"]}
-      ],
-      "secretos": [{"nombre": "Debilidades y secretos", "descripcion": "No son hostiles de partida y no reciben orden de acompañar el rescate. Pruebas de ayuda a la comunidad y razones relacionadas con la supervivencia favorecen el acuerdo. No inventar un conflicto con ellos para usar esta ficha."}]
+     "nombre": "Debilidades y secretos",
+     "descripcion": "La cojera y la indignación son fingidas. Sirvieron a Garagai y cuidan de Norsu. Protegen a los Héroes del temporal para llevarlos vivos al mamut. Si uno muere, el otro huye. El túnel sur permite eludir su vigilancia de las puertas."
     }
-  ],
-  "objetos": [
+   ]
+  },
+  {
+   "slug": "norsu",
+   "nombre": "Norsu",
+   "nivel": 3,
+   "poderio": [
     {
-      "slug": "botas-de-tierras-invernales",
-      "nombre": "Botas de tierras invernales",
-      "etiqueta": "botas de tierras invernales",
-      "descripcion": "Recompensa de Hilda por devolver al menos a uno de sus hijos a salvo. Mochila [botas de tierras invernales]: aportan Poder al conservar calor, cruzar nieve profunda y mantener el equilibrio sobre hielo; mitigan el frío de los pies cuando corresponda, pero no resuelven por sí solas una ventisca ni la inmersión en agua helada. Pertenecieron a su difunto esposo, que las ganó en una competición de bebida.",
-      "imagen_en": "An isolated pair of worn magical winter boots with fur lining and sturdy soles, resting on snow. Neutral cold light, simple background."
-    },
-    {
-      "slug": "cabra-marfil-trucha",
-      "nombre": "Cabra de marfil de trucha",
-      "etiqueta": "cabra de marfil",
-      "descripcion": "Pequeña talla de L2, útil para un regalo, trueque modesto u ofrenda funeraria. No es mágica.",
-      "imagen_en": "An isolated small carved ivory goat figure, about hand-sized, with trout-like details. Pale ivory, neutral background."
-    },
-    {
-      "slug": "herramientas-desuelle-gigantes",
-      "nombre": "Herramientas de desuelle gigantes",
-      "etiqueta": "herramientas gigantes de carnicero",
-      "descripcion": "Equipo voluminoso del cofre de L2; la hoja junto a la ballena tiene tamaño de espada larga. Su uso exige justificar transporte y manejo.",
-      "imagen_en": "An isolated giant butcher's cleaver the size of a longsword beside oversized hooks and tools. Worn metal, cold light, neutral background."
-    },
-    {
-      "slug": "aceite-de-ballena",
-      "nombre": "Aceite de ballena",
-      "etiqueta": "aceite de ballena",
-      "descripcion": "Cinco barriles de L8, cada uno de unos 225 kg. Una cantidad manejable puede convertirse en mochila [aceite de ballena]: lubricar las bisagras de L3, alimentar una lámpara o preparar calor requiere uso razonado del recurso.",
-      "imagen_en": "An isolated small bottle of whale oil beside a huge frost-covered wooden barrel. Oily sheen, cold light, neutral background."
-    },
-    {
-      "slug": "thrym-de-remorhaz",
-      "nombre": "Botella de thrym",
-      "etiqueta": "thrym de remorhaz",
-      "descripcion": "Recurso alquímico raro de L8, de valor muy superior al de la talla o un barril individual de aceite. Permite negociar suministros, favores de un alquimista o la elaboración de [preparado contra el frío]; fabricar ese preparado requiere conocimiento, tiempo y medios.",
-      "imagen_en": "An isolated small bottle containing a strange white residue, sealed with wax. Frosted glass, cold light, neutral background."
-    },
-    {
-      "slug": "trono-y-runa",
-      "nombre": "Trono y runa",
-      "etiqueta": "trono invocador de ventiscas",
-      "descripcion": "Rutina «invocar ventisca» desde el asiento, con las condiciones de L5: un minuto de activación, ventisca de ocho horas en la cabaña y unos 1,6 km, una vez cada diez días. Ayuda posible: dibujo de la runa, con la traducción «hielo» solo cuando la descubran.",
-      "imagen_en": "An isolated ice throne carved from a single block with a deep rune on its back, on a circular platform. Translucent ice, cold blue light, neutral background."
-    },
-    {
-      "slug": "chwinga-petrificado",
-      "nombre": "Chwinga convertido en piedra",
-      "etiqueta": "restos pétreos de un chwinga",
-      "descripcion": "Mide unos treinta centímetros y puede transportarse si se recoge. No es un talismán mágico descrito ni una criatura petrificada que siga viva.",
-      "imagen_en": "An isolated small spiky stone figure about thirty centimetres tall, covered in protrusions. Grey stone, neutral background."
-    },
-    {
-      "slug": "huellas-de-los-lobos",
-      "nombre": "Huellas de los lobos",
-      "etiqueta": "rastro hacia la cabaña",
-      "descripcion": "Historia [rastro hacia la cabaña], vulnerable a la nevada. Su facilidad de seguimiento es deliberada.",
-      "imagen_en": "An isolated set of wolf paw prints in fresh snow, leading west. Cold blue light, neutral snowy background."
+     "nivel": "adventure",
+     "aspecto": "Mamut consciente de tamaño inmenso; Poderío Aventura por magnitud y fuerza."
     }
-  ],
-  "ayudas": [
+   ],
+   "roles": [
+    "Adversario",
+    "Bruto"
+   ],
+   "aspecto_en": "A full-body portrait of an immense woolly mammoth with thick fur, long tusks and a hateful intelligent gaze. Massive and vengeful, standing beside a frozen giant corpse. Cold blue light, stone chamber.",
+   "descripcion": "Mamut lanudo consciente que vela el cadáver de Garagai y combate a los intrusos por rencor. Poderío Aventura.",
+   "limites": [
     {
-      "slug": "emblema-refugio-dougan",
-      "titulo": "Emblema de Refugio de Dougan",
-      "tipo": "cartel",
-      "texto": "Monolito gris sobre fondo azul cielo, encima de dos peces plateados cruzados con las cabezas hacia las esquinas superiores. La piedra representa el misterio local y los peces la antigua abundancia del lago.",
-      "fondo_en": "An empty painted wooden signboard with a weathered frame, hanging flat, soft cold light. No text, symbols or figures."
+     "nombre": "herido",
+     "valor": 5,
+     "consecuencia": "Queda fuera de combate."
     },
     {
-      "slug": "runa-hielo",
-      "titulo": "Dibujo de la runa del trono",
-      "tipo": "nota",
-      "texto": "Runa grabada en el respaldo del trono de L5. Su traducción, «hielo», solo debe revelarse cuando los Héroes la descubran mediante conocimiento de runas, arcanos o percepción mágica.",
-      "fondo_en": "An isolated sheet of rough paper with a blank area for a hand-drawn rune, worn corners, soft side lighting. No text, letters, symbols, illustrations or ink marks anywhere."
+     "nombre": "calmado",
+     "valor": 3,
+     "consecuencia": "Acepta la tregua funeraria y exige soledad."
     }
-  ],
-  "hitos": [
-    "Rescatar a Silja y Finn y devolverlos a su madre.",
-    "Obtener las botas de tierras invernales como recompensa.",
-    "Descubrir que Garagai lleva tiempo muerto y desmentir a los lobos.",
-    "Negociar o derrotar a Norsu sin perder la vida del grupo.",
-    "Recuperar aceite, thrym o la talla de marfil como recursos valiosos.",
-    "Garantizar un descanso seguro tras el regreso."
-  ],
-  "relojes": []
+   ],
+   "etiquetas": [
+    "masa descomunal",
+    "colmillos arrolladores",
+    "pisotones",
+    "guardián de la tumba",
+    "duelo inconsolable",
+    "comprende el común"
+   ],
+   "rasgos": [],
+   "amenazas": [
+    {
+     "nombre": "Bajar la cabeza y cargar",
+     "descripcion": "Carga contra los intrusos.",
+     "consecuencias": [
+      "Inflige [herido-4]",
+      "Impone [derribado-3]"
+     ]
+    },
+    {
+     "nombre": "Aplastar a quien queda bajo sus patas",
+     "descripcion": "Pisotea a un Héroe caído.",
+     "consecuencias": [
+      "Inflige [aplastado-4]",
+      "Crea [salida bloqueada por el mamut]"
+     ]
+    },
+    {
+     "nombre": "Acudir al ruido de la jaula o del corredor",
+     "descripcion": "Responde a ruidos de rescate.",
+     "consecuencias": [
+      "Elimina [rescate inadvertido]",
+      "Crea [Norsu en la sala de cautivos]"
+     ]
+    },
+    {
+     "nombre": "Perseguir a quienes profanan la tumba",
+     "descripcion": "Persigue a los huidos.",
+     "consecuencias": [
+      "Impone [acosado-3]",
+      "Separa a un rezagado mediante [aislado-2]"
+     ]
+    }
+   ],
+   "secretos": [
+    {
+     "nombre": "Debilidades y secretos",
+     "descripcion": "Antes de su primera agresión puede aceptar una amistad fingida con Garagai o una promesa convincente de venganza. Un éxito claro puede completar el límite calmado. Tolera oración u ofrenda y luego pide soledad. No persigue más allá de unos treinta metros del edificio. Sigilo, negociación y salida lateral permiten afrontar el rescate sin vencerlo por la fuerza."
+    }
+   ]
+  },
+  {
+   "slug": "manada-famelica",
+   "nombre": "Manada famélica",
+   "nivel": 1,
+   "poderio": [],
+   "roles": [
+    "Adversario",
+    "Merodeador"
+   ],
+   "aspecto_en": "A full-body group portrait of two to seven lean common wolves with visible ribs, gaunt faces and hungry eyes. Demaciated, coordinated pack. Cold blue-grey snowy background.",
+   "descripcion": "Entre dos y siete lobos comunes demacrados por el hambre, determinados por 1d6+1. No obedecen a Norsu.",
+   "limites": [
+    {
+     "nombre": "herido",
+     "valor": 3,
+     "consecuencia": "Quedan fuera de combate."
+    },
+    {
+     "nombre": "ahuyentado",
+     "valor": 2,
+     "consecuencia": "Huyen del grupo."
+    },
+    {
+     "nombre": "hambre atendida",
+     "valor": 2,
+     "consecuencia": "Dejan de hostigar si reciben comida."
+    }
+   ],
+   "etiquetas": [
+    "olfato agudo",
+    "rodean a los débiles",
+    "mordiscos coordinados",
+    "hambrientos-2"
+   ],
+   "rasgos": [],
+   "amenazas": [
+    {
+     "nombre": "Rodear a alguien separado",
+     "descripcion": "Aíslan a un Héroe separado.",
+     "consecuencias": [
+      "Impone [aislado-2]",
+      "Inflige [herido-2]"
+     ]
+    },
+    {
+     "nombre": "Disputar comida o equipo accesible",
+     "descripcion": "Atacan provisiones.",
+     "consecuencias": [
+      "Consume una etiqueta de mochila de provisiones",
+      "Crea [mochila desgarrada]"
+     ]
+    }
+   ],
+   "secretos": [
+    {
+     "nombre": "Debilidades y secretos",
+     "descripcion": "Están demacrados por hambre, no obedecen a Norsu. Comida y disuasión son soluciones viables. Los lobos invernales los espantan sin lucha."
+    }
+   ]
+  },
+  {
+   "slug": "tundra-y-ventisca",
+   "nombre": "Tundra y ventisca",
+   "nivel": 2,
+   "poderio": [],
+   "roles": [
+    "Obstáculo",
+    "Peligro"
+   ],
+   "aspecto_en": "A wide view of a featureless snowy tundra under heavy snowfall, with no landmarks and low visibility. Cold blue-grey light, blowing snow. No people or creatures.",
+   "descripcion": "Desafío ambiental de frío, nieve y posible ventisca durante la travesía. Conversión propuesta, sin criatura ni dificultad de criatura asignada.",
+   "limites": [
+    {
+     "nombre": "ruta superada",
+     "valor": 3,
+     "consecuencia": "La ruta queda superada."
+    },
+    {
+     "nombre": "refugio asegurado",
+     "valor": 3,
+     "consecuencia": "Se asegura un refugio."
+    }
+   ],
+   "etiquetas": [
+    "sin referencias",
+    "nieve que borra rastros",
+    "viento cortante",
+    "exposición prolongada",
+    "visibilidad reducida"
+   ],
+   "rasgos": [],
+   "amenazas": [
+    {
+     "nombre": "Desvanecer el horizonte y las huellas",
+     "descripcion": "La nevada borra referencias.",
+     "consecuencias": [
+      "Impone [perdido-2]",
+      "Crea [ruta borrada]"
+     ]
+    },
+    {
+     "nombre": "Robar calor durante la marcha",
+     "descripcion": "El frío cala las prendas.",
+     "consecuencias": [
+      "Inflige [helado-2]",
+      "Agrava un estado de frío existente"
+     ]
+    },
+    {
+     "nombre": "Ocultar a los compañeros tras una ráfaga",
+     "descripcion": "Separa al grupo.",
+     "consecuencias": [
+      "Impone [aislado-2]",
+      "Crea [Compañía dispersa]"
+     ]
+    }
+   ],
+   "secretos": [
+    {
+     "nombre": "Debilidades y secretos",
+     "descripcion": "Orientación, abrigo, cuerdas, refugios y cooperación contrarrestan sus amenazas. Koran y Kanan evitan extravíos y separaciones y protegen del peor temporal si guían al grupo. Alcanzar refugio permite esperar a que pase la ventisca; no completa automáticamente el viaje."
+    }
+   ]
+  },
+  {
+   "slug": "trono-runco-de-hielo",
+   "nombre": "Trono rúnico de hielo",
+   "nivel": 2,
+   "poderio": [],
+   "roles": [
+    "Obstáculo",
+    "Peligro"
+   ],
+   "aspecto_en": "A full-body view of a monumental throne carved from a single ice block on a circular platform, with a deep rune on its back. Translucent ice, cold blue light, stone chamber.",
+   "descripcion": "Objeto mágico fijo de L5, sin criatura ni dificultad de criatura asignada; nivel ambiental propuesto.",
+   "limites": [
+    {
+     "nombre": "destruido",
+     "valor": 4,
+     "consecuencia": "Pierde toda magia."
+    }
+   ],
+   "etiquetas": [
+    "hielo macizo",
+    "runa de conjuración",
+    "resiste cortes y perforaciones",
+    "inmune al frío",
+    "sin mente ni metabolismo"
+   ],
+   "rasgos": [],
+   "amenazas": [
+    {
+     "nombre": "Completar una invocación activada desde el asiento",
+     "descripcion": "Invoca una ventisca desde el trono.",
+     "consecuencias": [
+      "Crea [ventisca de ocho horas] tras un minuto",
+      "Activa las amenazas de la tundra en un radio aproximado de 1,6 km"
+     ]
+    },
+    {
+     "nombre": "Prolongar un intento ruidoso de demolición",
+     "descripcion": "Hace ruido en la cabaña.",
+     "consecuencias": [
+      "Crea [ruido por la cabaña]",
+      "Atrae a Norsu si sigue vivo y puede oírlo"
+     ]
+    }
+   ],
+   "secretos": [
+    {
+     "nombre": "Debilidades y secretos",
+     "descripcion": "No actúa por voluntad propia. Su magia solo se activa mediante alguien sentado; un uso cada diez días. El fuego resulta especialmente eficaz para destruirlo; el veneno y los ataques mentales no lo afectan. Al alcanzar destruido 4 pierde toda magia. No se presenta como objeto de mochila transportable."
+    }
+   ]
+  },
+  {
+   "slug": "trio-de-kobolds",
+   "nombre": "Trío de kobolds",
+   "nivel": 1,
+   "poderio": [],
+   "roles": [
+    "Adversario",
+    "Apoyo"
+   ],
+   "aspecto_en": "A full-body group portrait of three small reptilian kobolds in mismatched furs, hiding behind ice chairs. Frightened expressions, small claws, cold blue light.",
+   "descripcion": "Holgi, Snorp y Zilbo, tres kobolds del viento helado que se ocultan en L6. Solo se vuelven hostiles si la situación se vuelve hostil.",
+   "limites": [
+    {
+     "nombre": "herido",
+     "valor": 2,
+     "consecuencia": "Quedan fuera de combate."
+    },
+    {
+     "nombre": "intimidado",
+     "valor": 2,
+     "consecuencia": "Se rinden o huyen."
+    },
+    {
+     "nombre": "convencido",
+     "valor": 2,
+     "consecuencia": "Aceptan ayuda o escolta."
+    }
+   ],
+   "etiquetas": [
+    "pequeños y escurridizos",
+    "se cubren entre sillas",
+    "buscan protección",
+    "asustados-2"
+   ],
+   "rasgos": [],
+   "amenazas": [
+    {
+     "nombre": "Entrar en pánico y gritar",
+     "descripcion": "Gritan y alertan a Norsu.",
+     "consecuencias": [
+      "Crea [ruido por la cabaña]",
+      "Alerta a Norsu si puede oírlos"
+     ]
+    },
+    {
+     "nombre": "Defenderse cuando no ven salida",
+     "descripcion": "Atacan si se sienten acorralados.",
+     "consecuencias": [
+      "Inflige [herido-1]",
+      "Crea [paso entorpecido entre sillas]"
+     ]
+    }
+   ],
+   "secretos": [
+    {
+     "nombre": "Debilidades y secretos",
+     "descripcion": "Comienzan pidiendo ayuda. Una salida segura o la promesa creíble de escolta resuelve su resistencia. Su responsabilidad en la muerte del chwinga puede alterar la disposición de los Héroes a auxiliarlos."
+    }
+   ]
+  },
+  {
+   "slug": "milicia-refugio-dougan",
+   "nombre": "Milicia de Refugio de Dougan",
+   "nivel": 2,
+   "poderio": [],
+   "roles": [
+    "Adversario",
+    "Apoyo"
+   ],
+   "aspecto_en": "A full-body group portrait of up to thirteen winter-clad villagers with spears and a veteran leader. Determined defenders, scarce supplies, cold blue-grey light, snowy village.",
+   "descripcion": "Hasta doce guerreros tribales y un veterano. Desafío colectivo solo si surge un enfrentamiento, no una escena prevista.",
+   "limites": [
+    {
+     "nombre": "herido",
+     "valor": 4,
+     "consecuencia": "Quedan fuera de combate."
+    },
+    {
+     "nombre": "desmoralizado",
+     "valor": 3,
+     "consecuencia": "Se repliegan."
+    },
+    {
+     "nombre": "convencido",
+     "valor": 3,
+     "consecuencia": "Aceptan cooperar."
+    }
+   ],
+   "etiquetas": [
+    "defienden sus hogares",
+    "ventaja numérica",
+    "veterano al mando",
+    "suministros escasos"
+   ],
+   "rasgos": [],
+   "amenazas": [
+    {
+     "nombre": "Cerrar el acceso al pueblo",
+     "descripcion": "Bloquean el paso.",
+     "consecuencias": [
+      "Crea [paso bloqueado]",
+      "Impone [rodeado-2]"
+     ]
+    },
+    {
+     "nombre": "Cargar en grupo para expulsar intrusos",
+     "descripcion": "Carga colectiva.",
+     "consecuencias": [
+      "Inflige [herido-2]",
+      "Crea [expulsados de las viviendas]"
+     ]
+    }
+   ],
+   "secretos": [
+    {
+     "nombre": "Debilidades y secretos",
+     "descripcion": "No son hostiles de partida y no reciben orden de acompañar el rescate. Pruebas de ayuda a la comunidad y razones relacionadas con la supervivencia favorecen el acuerdo. No inventar un conflicto con ellos para usar esta ficha."
+    }
+   ]
+  }
+ ],
+ "objetos": [
+  {
+   "slug": "botas-de-tierras-invernales",
+   "nombre": "Botas de tierras invernales",
+   "etiqueta": "botas de tierras invernales",
+   "descripcion": "Recompensa de Hilda por devolver al menos a uno de sus hijos a salvo. Mochila [botas de tierras invernales]: aportan Poder al conservar calor, cruzar nieve profunda y mantener el equilibrio sobre hielo; mitigan el frío de los pies cuando corresponda, pero no resuelven por sí solas una ventisca ni la inmersión en agua helada. Pertenecieron a su difunto esposo, que las ganó en una competición de bebida.",
+   "imagen_en": "An isolated pair of worn magical winter boots with fur lining and sturdy soles, resting on snow. Neutral cold light, simple background."
+  },
+  {
+   "slug": "cabra-marfil-trucha",
+   "nombre": "Cabra de marfil de trucha",
+   "etiqueta": "cabra de marfil",
+   "descripcion": "Pequeña talla de L2, útil para un regalo, trueque modesto u ofrenda funeraria. No es mágica.",
+   "imagen_en": "An isolated small carved ivory goat figure, about hand-sized, with trout-like details. Pale ivory, neutral background."
+  },
+  {
+   "slug": "herramientas-desuelle-gigantes",
+   "nombre": "Herramientas de desuelle gigantes",
+   "etiqueta": "herramientas gigantes de carnicero",
+   "descripcion": "Equipo voluminoso del cofre de L2; la hoja junto a la ballena tiene tamaño de espada larga. Su uso exige justificar transporte y manejo.",
+   "imagen_en": "An isolated giant butcher's cleaver the size of a longsword beside oversized hooks and tools. Worn metal, cold light, neutral background."
+  },
+  {
+   "slug": "aceite-de-ballena",
+   "nombre": "Aceite de ballena",
+   "etiqueta": "aceite de ballena",
+   "descripcion": "Cinco barriles de L8, cada uno de unos 225 kg. Una cantidad manejable puede convertirse en mochila [aceite de ballena]: lubricar las bisagras de L3, alimentar una lámpara o preparar calor requiere uso razonado del recurso.",
+   "imagen_en": "An isolated small bottle of whale oil beside a huge frost-covered wooden barrel. Oily sheen, cold light, neutral background."
+  },
+  {
+   "slug": "thrym-de-remorhaz",
+   "nombre": "Botella de thrym",
+   "etiqueta": "thrym de remorhaz",
+   "descripcion": "Recurso alquímico raro de L8, de valor muy superior al de la talla o un barril individual de aceite. Permite negociar suministros, favores de un alquimista o la elaboración de [preparado contra el frío]; fabricar ese preparado requiere conocimiento, tiempo y medios.",
+   "imagen_en": "An isolated small bottle containing a strange white residue, sealed with wax. Frosted glass, cold light, neutral background."
+  },
+  {
+   "slug": "trono-y-runa",
+   "nombre": "Trono y runa",
+   "etiqueta": "trono invocador de ventiscas",
+   "descripcion": "Rutina «invocar ventisca» desde el asiento, con las condiciones de L5: un minuto de activación, ventisca de ocho horas en la cabaña y unos 1,6 km, una vez cada diez días. Ayuda posible: dibujo de la runa, con la traducción «hielo» solo cuando la descubran.",
+   "imagen_en": "An isolated ice throne carved from a single block with a deep rune on its back, on a circular platform. Translucent ice, cold blue light, neutral background."
+  },
+  {
+   "slug": "chwinga-petrificado",
+   "nombre": "Chwinga convertido en piedra",
+   "etiqueta": "restos pétreos de un chwinga",
+   "descripcion": "Mide unos treinta centímetros y puede transportarse si se recoge. No es un talismán mágico descrito ni una criatura petrificada que siga viva.",
+   "imagen_en": "An isolated small spiky stone figure about thirty centimetres tall, covered in protrusions. Grey stone, neutral background."
+  },
+  {
+   "slug": "huellas-de-los-lobos",
+   "nombre": "Huellas de los lobos",
+   "etiqueta": "rastro hacia la cabaña",
+   "descripcion": "Historia [rastro hacia la cabaña], vulnerable a la nevada. Su facilidad de seguimiento es deliberada.",
+   "imagen_en": "An isolated set of wolf paw prints in fresh snow, leading west. Cold blue light, neutral snowy background."
+  }
+ ],
+ "ayudas": [
+  {
+   "slug": "emblema-refugio-dougan",
+   "titulo": "Emblema de Refugio de Dougan",
+   "tipo": "cartel",
+   "texto": "Monolito gris sobre fondo azul cielo, encima de dos peces plateados cruzados con las cabezas hacia las esquinas superiores. La piedra representa el misterio local y los peces la antigua abundancia del lago.",
+   "fondo_en": "An empty painted wooden signboard with a weathered frame, hanging flat, soft cold light. No text, symbols or figures."
+  },
+  {
+   "slug": "runa-hielo",
+   "titulo": "Dibujo de la runa del trono",
+   "tipo": "nota",
+   "texto": "Runa grabada en el respaldo del trono de L5. Su traducción, «hielo», solo debe revelarse cuando los Héroes la descubran mediante conocimiento de runas, arcanos o percepción mágica.",
+   "fondo_en": "An isolated sheet of rough paper with a blank area for a hand-drawn rune, worn corners, soft side lighting. No text, letters, symbols, illustrations or ink marks anywhere."
+  }
+ ],
+ "hitos": [
+  "Rescatar a Silja y Finn y devolverlos a su madre.",
+  "Obtener las botas de tierras invernales como recompensa.",
+  "Descubrir que Garagai lleva tiempo muerto y desmentir a los lobos.",
+  "Negociar o derrotar a Norsu sin perder la vida del grupo.",
+  "Recuperar aceite, thrym o la talla de marfil como recursos valiosos.",
+  "Garantizar un descanso seguro tras el regreso."
+ ],
+ "relojes": []
 }

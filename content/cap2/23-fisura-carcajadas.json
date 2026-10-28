@@ -1,0 +1,327 @@
+{
+  "seccion": "23-fisura-carcajadas",
+  "titulo": "Fisura de las Carcajadas",
+  "escenas": [
+    {
+      "slug": "venganza-de-auril",
+      "nombre": "Venganza de la Doncella de Escarcha",
+      "ciudad": "tundra",
+      "interior": false,
+      "imagen_en": "Wide establishing view of the empty tundra east of an isolated black cabin beneath a pitch-black sky. A distant, cruel pale glow stains the eastern horizon, illuminating wind-scoured snow and ridges of brittle ice. Low clouds hang over the frozen landscape. No people or creatures. Use cold blue, charcoal and bone-white tones, leaving the lower third clear.",
+      "lectura": "El horizonte oriental se enciende con una luz pálida y cruel que avanza sobre la nieve. No es el amanecer: el cielo sigue negro y el aire se vuelve más cortante con cada paso. Delante de esa luz, siluetas rígidas se arrastran con los miembros congelados; sobre vosotros, sombras aladas descienden entre nubes bajas. No hay gritos ni tambores: solo el crujido del hielo y una certeza terrible. La Doncella de Escarcha ha notado lo que habéis hecho y envía a sus muertos a cobrarlo.",
+      "notas": "Se activa al usar la Estrella de Verano para controlar el clima: un caminante y tres mefits llegan desde el este para matar a todos en la Cabaña Negra. Con un grupo de nivel 6 o superior, añade otro caminante; con un goliat hombre oso aliado, añade un tercer caminante y dos mefits más. Los mefits oscurecen el campo para cubrir a los caminantes o cegar a los lanzadores; todos luchan hasta ser destruidos y persiguen a quienes huyen.",
+      "musica": "auril",
+      "motivos": ["batalla-oscura", "amenaza", "horror"],
+      "efectos": ["viento", "hielo-cruje", "alas"],
+      "ambiente": "dark",
+      "etiquetas": ["luz fría", "cadáveres congelados", "mefits aéreos", "venganza de Auril", "ventisca"],
+      "figuras": ["caminante-luz-fria", "mefit-de-hielo"]
+    },
+    {
+      "slug": "acercandose-a-la-fisura",
+      "nombre": "Acercándose a la Fisura",
+      "ciudad": "tundra",
+      "interior": false,
+      "imagen_en": "Wide establishing view of a vast icy chasm in the foothills of the Spine of the World. Toothlike rock projections frame the rim, with a narrow ledge visible thirty feet below and deeper darkness beneath. A snow-veiled cave entrance opens to the south. Wind carries powder across slate-grey stone and blue ice. No people or creatures; keep the lower third uncluttered.",
+      "lectura": "Un abismo enorme se abre ante vosotros como unas fauces heladas. El viento que barre las montañas no consigue ahogar el carcajeo inhumano que resuena en las profundidades. Sobre el borde, proyecciones de piedra semejan dientes; más abajo, una cornisa desaparece en la oscuridad. La risa rebota en las paredes y os llega desde todas partes, sin origen. Al sur, casi oculta por la nieve, se adivina la boca de una cueva con escalones helados. Cada instinto os dice que mantengáis la voz baja.",
+      "notas": "La primera cornisa está a treinta pies y otra más ancha a cien, probablemente fuera del alcance de la iluminación y la visión en la oscuridad. Explorar los alrededores descubre Z1 al sur, cuyos escalones llevan a Z2 y a la cornisa superior; también puede bajarse con magia o equipo. Los ruidos fuertes se transmiten entre todas las cuevas y los gnolls se delatan con sus risas.",
+      "musica": "camino",
+      "motivos": ["misterio", "tension"],
+      "efectos": ["viento", "hielo-cruje"],
+      "ambiente": "dim",
+      "etiquetas": ["abismo", "carcajadas", "hielo", "cornisa", "boca de cueva"],
+      "figuras": []
+    },
+    {
+      "slug": "boca-de-la-cueva",
+      "nombre": "Z1. Boca de la cueva",
+      "ciudad": "tundra",
+      "interior": false,
+      "imagen_en": "Wide view of a cave mouth at the southern edge of a frozen mountain chasm. Piles of humanoid skulls flank the opening, each marked with a crude dried-blood symbol of a three-headed flail. Slippery ice-coated steps descend into darkness. Snow gathers against rough stone under dim winter light. Bone, rust-red and cold grey palette; no people, clear lower third.",
+      "lectura": "En el extremo sur del abismo, dos montones de cráneos humanoides flanquean la boca de una cueva. La sangre seca ha servido para dibujar símbolos toscos sobre cada frente. Los cráneos pertenecen a humanos, enanos, goblins, goliats y orcos, y todos lucen el mismo signo: un mayal de tres cabezas. Los escalones del interior descienden, helados y resbaladizos, hacia la roca. El aire huele a hierro viejo y a risa contenida.",
+      "notas": "Los escalones conducen a Z2. Una prueba de Inteligencia (Religión), CD 15 en la ficha, con erudición religiosa o conocimiento demoníaco permite identificar el emblema de Yeenoghu; el fallo mantiene la duda.",
+      "musica": "culto",
+      "motivos": ["misterio", "amenaza"],
+      "efectos": ["viento", "hielo-cruje"],
+      "ambiente": "dim",
+      "etiquetas": ["cráneos", "emblema de Yeenoghu", "boca de cueva", "escalones helados"],
+      "figuras": []
+    },
+    {
+      "slug": "cueva-del-festin",
+      "nombre": "Z2. Cueva del Festín",
+      "ciudad": "tundra",
+      "interior": true,
+      "imagen_en": "Wide interior view of an icy cave with a ten-foot ceiling and crude stone steps. Broken animal and humanoid bones litter the frozen floor among scraps of metal and torn leather. A worn leather pouch is partly concealed beneath a bone pile. Faint cold light enters from the stairs, fading into shadow. No people or creatures; leave open space in the lower third.",
+      "lectura": "Unos escalones toscos os llevan a una cueva gélida de apenas tres metros de alto, donde un hedor pútrido os golpea antes que la vista. El suelo helado está sembrado de huesos, en su mayoría rotos, de humanos y animales, mezclados con trozos de metal y tiras de cuero rasgado. Aquí se han roto los huesos para sacar la médula. El aire es espeso y cada respiración sabe a carne vieja. Al fondo, la oscuridad parece masticar el silencio.",
+      "notas": "Los restos incluyen animales, humanoides y gnolls víctimas de canibalismo. Un ruido fuerte atrae a los cuatro gnolls de Z3, que solo atacan en defensa propia. Buscar revela una bolsa de un peletero asesinado con 4 po, 14 pp, 21 pc y una baratija aleatoria del Valle.",
+      "musica": "mina",
+      "motivos": ["horror", "sigilo"],
+      "efectos": ["viento", "hielo-cruje"],
+      "ambiente": "dark",
+      "etiquetas": ["cueva del festín", "hedor", "huesos rotos", "tesoro menor"],
+      "figuras": ["gnolls-de-la-fisura"]
+    },
+    {
+      "slug": "santuario-de-yeenoghu",
+      "nombre": "Z3. Santuario de Yeenoghu",
+      "ciudad": "tundra",
+      "interior": true,
+      "imagen_en": "Wide establishing view inside a low, eight-foot-high stone cave used as a demonic shrine. A crude rock altar holds the bloodied head of a mountain goat, surrounded by gnawed bones on bare frozen ground. Dim reflected winter light grazes the rough ceiling and deep recesses. Muted grey, bone and dried crimson palette. No people or creatures; reserve empty lower-third space.",
+      "lectura": "Un altar tosco de piedra domina esta cueva baja. Sobre él descansa la cabeza ensangrentada de una cabra montés, mientras el suelo está sembrado de huesos roídos. Cuatro gnolls demacrados están arrodillados ante el altar, debatiendo si lamer la carne destinada a Yeenoghu. Su risa es un tic nervioso, no una broma. El aire huele a sangre vieja y a pelaje sucio. No os atacan de inmediato, pero sus ojos no dejan de medir cada uno de vuestros movimientos.",
+      "notas": "Los cuatro gnolls solo atacan en defensa propia y pueden acudir a Z2 si oyen ruido. Perspicacia CD 13, con empatía o perspicacia, revela su pérdida de fe en Chyzka y su deseo de verla caer. Pueden convertirse en aliados pasivos o testigos; la cabeza es una ofrenda a Yeenoghu.",
+      "musica": "culto",
+      "motivos": ["tension", "misterio"],
+      "efectos": ["viento", "pasos"],
+      "ambiente": "dim",
+      "etiquetas": ["santuario de Yeenoghu", "altar", "gnolls descontentos", "ofrenda"],
+      "figuras": ["gnolls-de-la-fisura"]
+    },
+    {
+      "slug": "sima-congelada",
+      "nombre": "Z4. Sima Congelada",
+      "ciudad": "tundra",
+      "interior": false,
+      "imagen_en": "Wide view along an ice-slick stone ledge thirty feet beneath the rim of a mountain abyss. Cracked rock walls contain dark cave mouths and sharp projections; gnoll remains hang impaled on lower spurs. Pale snow-filtered light falls from above into blue-black depths. Jagged stone and frost dominate the composition. No living figures; keep the lower third open for foreground placement.",
+      "lectura": "Treinta pies bajo la superficie, una plataforma de roca rodea la boca abierta del abismo. Sus lados agrietados están plagados de cuevas y rocas afiladas, y más abajo, cadáveres de gnolls cuelgan empalados en protuberancias como colmillos. La risa maníaca resuena sin origen, rebotando en las paredes hasta ser imposible de localizar. El hielo cubre la cornisa y cada paso exige cuidado. Desde aquí se ven las cuevas que albergan a la manada, y cualquier ruido fuerte delatará vuestra presencia.",
+      "notas": "Avanzar con cautela evita caídas; un fallo puede causar caído-2 o herido-2, y los ruidos fuertes alcanzan las cuevas. Chyzka ladra órdenes al ver intrusos, pero los subordinados observan expectantes y abren una oportunidad de negociación. Hay cuatro gnolls en Z3 y Chyzka en Z5; para Z6 usa doce de noche y seis de día, tal como indica su escena, aunque el resumen de Z4 invierte esas cifras.",
+      "musica": "mina",
+      "motivos": ["tension", "sigilo", "amenaza"],
+      "efectos": ["viento", "hielo-cruje"],
+      "ambiente": "dim",
+      "etiquetas": ["sima congelada", "cornisa resbaladiza", "ecos", "gnolls empalados"],
+      "figuras": ["chyzka", "gnolls-de-la-fisura"]
+    },
+    {
+      "slug": "cueva-de-chyzka",
+      "nombre": "Z5. Cueva de Chyzka",
+      "ciudad": "tundra",
+      "interior": true,
+      "imagen_en": "Wide interior of an eight-foot-high cave with bloody wall pictographs depicting a sharp-toothed monster wielding a three-headed flail and hyenas gnawing corpses. A small smoky fire cooks a green fish beside the south wall. A silver-tipped spear, fishing rod, stolen cloth and mouldy furs lie nearby. Sooty amber and dark red against grey rock. No actual people or creatures; clear lower third.",
+      "lectura": "Las paredes de esta cueva baja están pintadas con sangre: un monstruo de dientes afilados empuña un mayal de tres cabezas. En las pinturas, manadas de hienas roen cadáveres. Un fuego pequeño humea cerca de la pared sur; sobre él se cocina un pez verde. Detrás, apoyados, veis una lanza de punta plateada y una caña de pescar. El aire es denso de humo y olor a pelaje sucio. Chyzka descansa aquí, rodeada de telas robadas y pieles mohosas, salvo que un disturbio la haya arrancado de su lecho.",
+      "notas": "Chyzka permanece aquí salvo que la atraiga un disturbio y prefiere luchar con garras y dientes. Las pinturas muestran a Yeenoghu y su prole; junto al fuego hay una tela ensangrentada con 21 po, 56 pp y 117 pc. La lanza tiene punta plateada y no es mágica; la caña ordinaria lleva el anzuelo mágico robado a Nabira Moarskull tras asesinarla.",
+      "musica": "culto",
+      "motivos": ["amenaza", "batalla"],
+      "efectos": ["hogar", "viento"],
+      "ambiente": "dim",
+      "etiquetas": ["cueva de Chyzka", "pictografías", "fuego", "tesoro de Chyzka", "caña de pescar"],
+      "figuras": ["chyzka"]
+    },
+    {
+      "slug": "cueva-dormitorio",
+      "nombre": "Z6. Cueva Dormitorio",
+      "ciudad": "tundra",
+      "interior": true,
+      "imagen_en": "Wide establishing view of a dark mountain cave with a ten-foot ceiling. Hundreds of claw scratches score the stone floor around a sputtering fire, whose weak amber light barely reaches the rough walls. Smoke gathers beneath the ceiling while cold blue shadows fill the surrounding recesses. The chamber feels cramped and bitterly cold. No people or creatures; leave the lower third uncluttered.",
+      "lectura": "Un fuerte olor a pelaje sucio inunda esta cueva oscura. El suelo de piedra está marcado por cientos de arañazos de garras. Si los gnolls no han salido, los veréis apiñados alrededor de un fuego chisporroteante, temblando y cacareando sin cesar: doce por la noche, seis durante el día. Todos están hambrientos y esqueléticos, y se acurrucan para conservar el calor. Su risa no es alegría: es el sonido del hambre que ha perdido la cabeza.",
+      "notas": "Por la noche descansan doce gnolls; de día quedan seis porque la otra mitad sale a buscar comida. Están demacrados y se apiñan para calentarse; adapta la lectura a la hora de llegada.",
+      "musica": "mina",
+      "motivos": ["tension", "sigilo"],
+      "efectos": ["hogar", "viento"],
+      "ambiente": "dark",
+      "etiquetas": ["dormitorio", "gnolls hambrientos", "fuego", "número variable"],
+      "figuras": ["gnolls-de-la-fisura"]
+    },
+    {
+      "slug": "almacen-vacio",
+      "nombre": "Z7. Almacén",
+      "ciudad": "tundra",
+      "interior": true,
+      "imagen_en": "Wide view of a nearly empty storage chamber inside a frozen mountain cave, with an eight-foot rough stone ceiling. Rotten wooden crates and torn, flattened sacks lie scattered along the edges of a bare stone floor. Faint reflected light reveals splintered boards and deep shadows. Desaturated charcoal, brown and icy grey palette. No people or creatures; preserve clear space in the lower third.",
+      "lectura": "Cajas podridas y sacos rotos se esparcen por el suelo de esta cámara casi vacía. Los gnolls traen aquí los suministros que arrebatan a los viajeros masacrados entre Diez Ciudades y el valle, y los devoran. Ya no queda nada salvo los contenedores que los transportaban. Ante vosotros solo hay madera deteriorada, tela rasgada y piedra desnuda. El eco de vuestras botas parece demasiado grande en un lugar tan despojado.",
+      "notas": "La manada ya ha consumido todos los suministros robados a los viajeros. Solo quedan los contenedores y no hay tesoro indicado.",
+      "musica": "mina",
+      "motivos": ["misterio"],
+      "efectos": ["pasos", "viento"],
+      "ambiente": "dark",
+      "etiquetas": ["almacén vacío", "cajas rotas", "suministros agotados"],
+      "figuras": []
+    },
+    {
+      "slug": "berserker-enjaulado",
+      "nombre": "Z8. Berserker enjaulado",
+      "ciudad": "tundra",
+      "interior": false,
+      "imagen_en": "Wide view of the upper ledge of a frozen chasm. A heavy timber cage, five feet square and seven feet tall, stands on the rock, its iron door secured with bolted fittings. Ice clings to the beams and dark metal, while cave mouths recede along the cliff. Cold diffuse light, blue-grey stone and weathered brown timber. No people or creatures; clear lower third.",
+      "lectura": "En la parte superior de la cornisa, una jaula de gruesas vigas de madera con puerta de hierro atornillada se alza sobre la piedra. Mide cinco pies de lado y siete de alto. En su interior, un hombre con armadura de piel pasea sin descanso. Sus ojos asesinos se clavan en cualquier movimiento y empuña una jabalina hecha de una sustancia negra y cristalina. La piel de sus manos y rostro está negra por la congelación, y los labios, agrietados y sangrantes por el frío. No habla: solo mide, espera y golpea el hierro cuando alguien se acerca.",
+      "notas": "Los gnolls capturaron casi por accidente a este berserker después de que atacara a todos cuantos encontraba en el abismo. Le quedan sesenta puntos de vida de su ficha original y lleva una jabalina de chardalyn; sus estadísticas y desarrollo se encuentran en la sección 24, Cueva de los Berserkers. La puerta está atornillada con herrajes de hierro y abrirla sin preparación expone al grupo a su violencia.",
+      "musica": "mina",
+      "motivos": ["amenaza", "tension"],
+      "efectos": ["puerta", "viento", "pasos"],
+      "ambiente": "dim",
+      "etiquetas": ["jaula", "berserker", "chardalyn", "congelación", "amenaza potencial"],
+      "figuras": ["berserker-prisionero"]
+    }
+  ],
+  "pnj": [
+    {
+      "slug": "chyzka",
+      "nombre": "Chyzka",
+      "papel": "Colmillo de Yeenoghu y líder de la manada de la Fisura.",
+      "ciudad": "tundra",
+      "aspecto_en": "Full-body portrait of Chyzka, an adult female gnoll, tall and severely emaciated, with filthy reddish fur, feverish eyes and blood-stained claws. Stolen winter hides hang loosely over her angular frame. Her bared teeth and hunched, domineering stance convey cruelty and ravenous hunger. A bloodied silver-tipped spear rests beside her, secondary to her exposed claws and fangs.",
+      "presentacion": "Ante vosotros se alza una gnoll alta y demacrada, envuelta en pieles robadas que apenas disimulan su delgadez. El pelaje rojizo está apelmazado de suciedad y sus garras conservan manchas de sangre. Os observa con ojos febriles antes de enseñar los colmillos. Cuando ladra una orden, su voz se quiebra en una carcajada seca que hace más patente el silencio expectante de sus subordinados.",
+      "caracter": "Cruel, dominante y despiadada; ladra órdenes y su risa maníaca expresa hambre y poder.",
+      "quiere": "Mantener a la manada bajo terror, comer y servir a Yeenoghu.",
+      "sabe": "La traición incipiente de los gnolls, las rutas del abismo y dónde guarda sus tesoros.",
+      "desafio": "chyzka"
+    },
+    {
+      "slug": "gnolls-de-la-fisura",
+      "nombre": "Gnolls de la Fisura",
+      "papel": "Manada famélica, caníbal y descontenta que ocupa el abismo.",
+      "ciudad": "tundra",
+      "aspecto_en": "Full-body group portrait of adult gnolls with skeletal builds, sharply visible ribs, filthy matted fur and feverish eyes. Ragged winter hides barely cover their shivering bodies. Their hunched postures alternate between watchful submission and hungry anticipation, with claws held close to their chests and teeth exposed in nervous laughter. Use subdued earthy browns and cold grey light.",
+      "presentacion": "Veis costillas marcadas bajo un pelaje sucio y cuerpos que tiemblan incluso cuando se aprietan unos contra otros. Los gnolls os miran con ojos febriles, olisquean el aire y dejan escapar carcajadas que nunca terminan de apagarse. Hay hambre en cada gesto, pero también vacilación: cuando se oye la voz de Chyzka, encogen los hombros y os observan con una atención nueva, casi expectante.",
+      "caracter": "Oportunistas y quejumbrosos, caníbales y cobardes ante Chyzka; ríen sin cesar.",
+      "quiere": "Comer, sobrevivir y ver caer a Chyzka.",
+      "sabe": "Las cuevas, las costumbres de la manada y la debilidad de su líder.",
+      "desafio": "manada-de-gnolls"
+    },
+    {
+      "slug": "cobre",
+      "nombre": "Cobre",
+      "papel": "Gnomo de las rocas y antiguo ayudante de Macreadus, autor de la carta.",
+      "ciudad": "bryn-shander",
+      "aspecto_en": "Full-body portrait of an adult rock gnome, very short, with a large nose, unruly white hair and patched spectacles. He wears a hooded fur suit against the bitter winter, its sleeves ending above soot-stained fingers. His expression combines worried irritation with restless curiosity. Emphasize practical, worn clothing, expressive hands and an ingenious tinker's attentive gaze.",
+      "presentacion": "Ante vosotros aparece un gnomo pequeño, casi perdido dentro de un traje de piel con capucha. El pelo blanco se le escapa en mechones rebeldes y unas gafas remendadas descansan sobre su gran nariz. Al hablar, mueve unos dedos manchados de hollín y encadena quejas con rapidez aguda. Bajo el pesimismo percibís una curiosidad inquieta y una preocupación que vuelve una y otra vez al nombre de Macreadus.",
+      "caracter": "Pesimista, quejumbroso, curioso e ingenioso; voz aguda y rápida.",
+      "quiere": "Que Macreadus esté bien, terminar su artilugio y huir del frío.",
+      "sabe": "Macreadus trabaja en una vieja cabaña del valle en un dispositivo para acabar con el invierno eterno. Tras discutir con él, Cobre volvió a Diez Ciudades y se instaló en la Casa del Señor de la Mañana de Bryn Shander.",
+      "desafio": null
+    },
+    {
+      "slug": "nabira-moarskull",
+      "nombre": "Nabira Moarskull (fallecida)",
+      "papel": "Pescadora de Puerto Este asesinada por Chyzka; su caña es una pista y recompensa.",
+      "ciudad": "easthaven",
+      "aspecto_en": "Symbolic full-body depiction of the deceased fisherwoman Nabira Moarskull, whose age, build and physical features are undocumented. Conceal her face and silhouette beneath loose, heavy winter fishing clothes without assigning distinctive traits. Place an ordinary fishing rod with a small hook beside her. Use subdued lakeside winter colours and a restrained memorial mood rather than an identifiable likeness.",
+      "presentacion": "De Nabira Moarskull solo os llega un nombre y el rastro de una caña. Era pescadora de Puerto Este; Chyzka la asesinó y se quedó con su equipo. Cuando contempláis la madera de la caña y el pequeño anzuelo atado al extremo, el botín cobra otro peso. No conocéis su rostro ni su voz: ante vosotros queda el objeto que la vincula con esta cueva.",
+      "caracter": "No consta su carácter ni su voz.",
+      "quiere": "En vida, pescar y vivir.",
+      "sabe": "En vida conocía los pesqueros de Puerto Este; está fallecida.",
+      "desafio": null
+    },
+    {
+      "slug": "berserker-prisionero",
+      "nombre": "Berserker de chardalyn enjaulado",
+      "papel": "Prisionero humano sin nombre cuya ficha continúa en la Cueva de los Berserkers.",
+      "ciudad": "tundra",
+      "aspecto_en": "Full-body portrait of an adult human male berserker wearing rough hide armour, gripping a javelin made of black crystalline chardalyn. His exposed hands and face are blackened by frostbite; cracked lips bleed in the cold. He stands in a restless, aggressive posture with murderous eyes, framed by thick wooden cage beams and bolted iron fittings.",
+      "presentacion": "Tras las vigas veis a un hombre que camina de un extremo a otro sin encontrar reposo. La armadura de piel roza la madera y una jabalina negra, cristalina, acompaña cada giro de su cuerpo. Tiene las manos y el rostro ennegrecidos por la congelación, los labios abiertos y sangrantes. Cuando os acercáis, sus ojos se fijan en vosotros y el golpe contra el hierro rompe el viento.",
+      "caracter": "Violento, de mirada asesina; no habla, espera y golpea el hierro cuando alguien se acerca.",
+      "quiere": "No consta una intención más allá de su conducta agresiva hacia cuantos encuentra.",
+      "sabe": "No consta. Fue capturado casi por accidente tras atacar a quienes encontró en el abismo; consultar la sección 24 para su desarrollo y desafío.",
+      "desafio": null
+    }
+  ],
+  "desafios": [
+    {
+      "slug": "chyzka",
+      "nombre": "Chyzka",
+      "nivel": 2,
+      "poderio": [],
+      "roles": ["Adversario", "Bruto", "Controlador"],
+      "aspecto_en": "Full-body view of an adult female gnoll leader, tall, starved and covered in filthy reddish fur. Feverish eyes glare above exposed fangs; blood marks her long claws. Stolen winter pelts hang from her narrow shoulders. Her threatening posture suggests a sudden lunge, while a silver-tipped spear stands unused nearby. Cold cave light reveals every angular feature.",
+      "descripcion": "Colmillo de Yeenoghu que prometió alimento abundante a su manada y la condujo al invierno eterno y al canibalismo. Conserva el mando mediante terror y peleas internas, pero sus seguidores la odian y no la ayudarán.",
+      "limites": [
+        {"nombre": "herido", "valor": 4, "consecuencia": "Chyzka cae; si muere, los gnolls devoran sus restos y permiten marcharse a sus asesinos."},
+        {"nombre": "mando", "valor": 3, "consecuencia": "Pierde el control sobre la manada y deja de imponer sus órdenes."}
+      ],
+      "etiquetas": ["colmillo de Yeenoghu", "líder de la manada", "garras", "colmillos", "olfato", "furor"],
+      "rasgos": [],
+      "amenazas": [
+        {"nombre": "Ordena a la manada", "descripcion": "Ladra órdenes para rodear y atacar a los intrusos.", "consecuencias": ["Crea [cerco de gnolls]", "Inflige [herido-2]"]},
+        {"nombre": "Garras y dientes", "descripcion": "Se abalanza con sus armas naturales preferidas.", "consecuencias": ["Inflige [herido-3]"]},
+        {"nombre": "Fomenta el canibalismo", "descripcion": "Exhibe la crueldad que sostiene su dominio.", "consecuencias": ["Inflige [miedo-2] o [asustado-2]"]},
+        {"nombre": "Risas maníacas", "descripcion": "Su carcajada altera la concentración.", "consecuencias": ["Crea [confusión-1]"]}
+      ],
+      "secretos": [
+        {"nombre": "Manada desleal", "descripcion": "Los gnolls la odian y no la ayudarán; si muere, permiten que sus asesinos marchen mientras devoran sus restos. Después de esa ventana pueden volverse contra los Héroes que permanezcan allí."},
+        {"nombre": "Utilidad agotada", "descripcion": "Carece de la capacidad de crear más gnolls, por lo que su utilidad para la manada ha terminado."},
+        {"nombre": "Lanza sin magia", "descripcion": "La lanza de su cueva tiene punta plateada, pero no es mágica."}
+      ]
+    },
+    {
+      "slug": "manada-de-gnolls",
+      "nombre": "Manada de gnolls de la Fisura",
+      "nivel": 1,
+      "poderio": [],
+      "roles": ["Adversario", "Merodeador"],
+      "aspecto_en": "Full-body group view of four to twelve adult gnolls with gaunt bodies, protruding ribs and dirty, matted fur. Ragged hides provide scant winter protection. Several shiver while others sniff the air or expose their teeth in compulsive laughter. Their feverish eyes and uncertain, predatory stances suggest hunger, fear and opportunism beneath the harsh light of an icy cave.",
+      "descripcion": "Grupos de cuatro a doce gnolls según la zona y la hora, famélicos y dados al canibalismo. Temen a Chyzka, pero desean su caída y normalmente no atacan de inmediato salvo en defensa propia.",
+      "limites": [{"nombre": "herido", "valor": 5, "consecuencia": "El grupo de gnolls queda derrotado y deja de combatir."}],
+      "etiquetas": ["manada", "hambrientos", "caníbales", "olfato", "risa maníaca"],
+      "rasgos": [{"nombre": "Descontento", "descripcion": "Perspicacia CD 13, con empatía o perspicacia, revela que han perdido la fe en Chyzka y desean verla caer."}],
+      "amenazas": [
+        {"nombre": "Ataque en grupo", "descripcion": "La manada aprovecha su número para atacar.", "consecuencias": ["Inflige [herido-2]"]},
+        {"nombre": "Canibalismo", "descripcion": "Su hambre convierte a sus propios muertos en alimento.", "consecuencias": ["Inflige [miedo-2]"]},
+        {"nombre": "Investigación de ruidos", "descripcion": "Acuden a los sonidos fuertes que recorren las cuevas.", "consecuencias": ["Crea [alarma]", "Atrae a más gnolls"]},
+        {"nombre": "Tras el festín", "descripcion": "Una vez muerta Chyzka y aprovechada la ventana para marcharse, pueden volverse contra los Héroes que sigan allí.", "consecuencias": ["Crea [cerco-2]"]}
+      ],
+      "secretos": [{"nombre": "Salida mientras devoran a Chyzka", "descripcion": "Si Chyzka muere, permiten marcharse sin molestias a sus asesinos mientras comen sus restos; aprovechar ese intervalo evita combatir contra toda la manada."}]
+    },
+    {
+      "slug": "caminante-luz-fria",
+      "nombre": "Caminante de la luz fría",
+      "nivel": 3,
+      "poderio": [{"nivel": "adventure", "aspecto": "Cadáver congelado enviado por Auril, faro de luz fría en la oscuridad."}],
+      "roles": ["Adversario", "Bruto"],
+      "aspecto_en": "Full-body view of a frozen undead adult, once a Reghed nomad or a sacrificed resident of Ten-Towns. Stiff limbs and ice-encrusted winter garments surround a corpse radiating cruel pale light. Conceal individual facial details within the icy glow. Its relentless forward posture conveys a single murderous purpose, with blue-white illumination cutting through deep winter darkness.",
+      "descripcion": "No-muerto de un nómada Reghed o de un habitante sacrificado a Auril. En la venganza de la Cabaña Negra, los caminantes son cadáveres congelados de habitantes de Diez Ciudades y avanzan directamente para matar.",
+      "limites": [{"nombre": "herido", "valor": 4, "consecuencia": "El caminante queda destruido."}],
+      "etiquetas": ["no-muerto", "luz fría", "faro en la oscuridad", "restos de sacrificio"],
+      "rasgos": [{"nombre": "Persecución implacable", "descripcion": "Lucha hasta ser destruido y persigue a los Héroes si huyen."}],
+      "amenazas": [
+        {"nombre": "Acercarse a matar", "descripcion": "Avanza directamente y descarga su violencia helada.", "consecuencias": ["Inflige [herido-3]", "Inflige [helado-2]"]},
+        {"nombre": "Susurros de Auril", "descripcion": "Durante una ventisca, transmite la amenaza de la Doncella.", "consecuencias": ["Inflige [asustado-2]", "Crea la etiqueta de historia [profecía de perdición]"]}
+      ],
+      "secretos": [{"nombre": "Luz delatora", "descripcion": "Su luz se ve a gran distancia y no intenta ocultarla; se acerca directamente para matar."}]
+    },
+    {
+      "slug": "mefit-de-hielo",
+      "nombre": "Mefit de hielo",
+      "nivel": 1,
+      "poderio": [],
+      "roles": ["Adversario", "Apoyo", "Controlador"],
+      "aspecto_en": "Full-body view of a small winged ice demon hovering in bitter winter air. Its compact crystalline body, clawed limbs and angular wings catch pale blue light, while frost gathers around its mouth. A cloud of cold obscuring vapour curls behind it. Give it a hostile, alert expression and a poised aerial stance against a dark, uncluttered background.",
+      "descripcion": "Pequeño demonio de hielo volador que acompaña a los caminantes como apoyo aéreo. Sus nubes de oscurecimiento ciegan a los lanzadores o cubren el avance de los muertos; lucha hasta ser destruido.",
+      "limites": [{"nombre": "herido", "valor": 3, "consecuencia": "El mefit queda destruido y estalla, amenazando con helado-2 a los adyacentes."}],
+      "etiquetas": ["volador", "frío", "pequeño demonio de hielo", "nube de oscurecimiento"],
+      "rasgos": [{"nombre": "Apoyo aéreo", "descripcion": "La fuerza inicial incluye tres mefits, con dos más si el grupo cuenta con un goliat hombre oso aliado."}],
+      "amenazas": [
+        {"nombre": "Aliento de hielo", "descripcion": "Exhala frío sobre sus enemigos.", "consecuencias": ["Inflige [herido-2]", "Inflige [helado-2]"]},
+        {"nombre": "Garras", "descripcion": "Ataca con sus extremidades heladas.", "consecuencias": ["Inflige [herido-1]"]},
+        {"nombre": "Nube de oscurecimiento", "descripcion": "Oculta a los caminantes o impide ver a los lanzadores.", "consecuencias": ["Crea la etiqueta de historia [oscuridad]"]},
+        {"nombre": "Estallido al morir", "descripcion": "Su destrucción libera frío contra quienes están junto a él.", "consecuencias": ["Inflige [helado-2] a los adyacentes"]}
+      ],
+      "secretos": [{"nombre": "Hasta la destrucción", "descripcion": "No abandona el combate y persigue a los fugitivos con el resto de la fuerza de Auril."}]
+    }
+  ],
+  "objetos": [
+    {"slug": "anzuelo-del-pescador", "nombre": "Anzuelo de delicia del pescador", "etiqueta": "anzuelo de delicia del pescador", "descripcion": "Objeto mágico atado a la caña ordinaria que Chyzka robó a Nabira Moarskull tras asesinarla. Como etiqueta de mochila, facilita pescar y atraer peces de forma rutinaria; referencia: Apéndice D.", "imagen_en": "An isolated small fishing hook tied to a short length of line, carefully rendered as a practical magical fishing implement. Subtle cold metallic highlights, neutral background, no lettering or additional equipment."},
+    {"slug": "bolsa-de-pieles", "nombre": "Bolsa de pieles", "etiqueta": "bolsa de pieles", "descripcion": "Bolsa de cuero de un peletero humano asesinado en la tundra, oculta bajo los huesos de Z2. Contiene 4 po, 14 pp, 21 pc y una baratija aleatoria del Valle; etiqueta de mochila o favor.", "imagen_en": "An isolated worn leather pouch with a loose drawstring, partly open to show a modest mixture of gold, silver and copper coins. Scuffed hide, cold soft light, neutral background, no text."},
+    {"slug": "tesoro-de-chyzka", "nombre": "Tesoro de Chyzka", "etiqueta": "tesoro de Chyzka", "descripcion": "Rollo de tela manchado de sangre junto al fuego de Z5. Envuelve 21 po, 56 pp y 117 pc; puede usarse como etiqueta de mochila o favor.", "imagen_en": "An isolated improvised bundle of blood-stained cloth opened around mixed gold, silver and copper coins. Rough fabric folds and tarnished metal catch low warm light, plain background, no writing."},
+    {"slug": "lanza-plateada", "nombre": "Lanza plateada", "etiqueta": "lanza plateada", "descripcion": "Lanza no mágica con punta plateada teñida de sangre, apoyada en la cueva de Chyzka. Etiqueta de mochila útil contra criaturas vulnerables a la plata.", "imagen_en": "An isolated full-length spear with a plain wooden shaft and a silver-coated point stained with dried blood. Weathered practical construction, crisp metallic detail, neutral grey background, no inscriptions or ornament."},
+    {"slug": "cana-de-pescar", "nombre": "Caña de pescar de Nabira", "etiqueta": "caña de pescar", "descripcion": "Caña ordinaria de Nabira Moarskull, pescadora de Puerto Este asesinada por Chyzka. Descansa junto al fuego de Z5 y lleva atado el anzuelo de delicia del pescador; etiqueta de mochila.", "imagen_en": "An isolated ordinary wooden fishing rod with a fine line and small hook tied at the end. Worn grip and simple practical fittings suggest regular use, neutral background, no magical glow or text."},
+    {"slug": "emblema-de-yeenoghu", "nombre": "Emblema de Yeenoghu", "etiqueta": "emblema de Yeenoghu", "descripcion": "Pista o etiqueta de historia: mayal de tres cabezas dibujado con sangre seca sobre los cráneos de Z1. Se reconoce con Inteligencia (Religión) CD 15 y conocimiento religioso o demoníaco.", "imagen_en": "An isolated weathered humanoid skull bearing a crude dried-blood pictogram of a three-headed flail across its forehead. Cold diffuse light emphasizes bone cracks and rusty pigment, plain dark background, no lettering."},
+    {"slug": "historia-de-la-manada", "nombre": "Historia de la manada", "etiqueta": "historia de la manada", "descripcion": "Etiqueta de historia obtenida de las pictografías y la traición de los gnolls: Chyzka prometió comida abundante, pero trajo invierno y canibalismo. Su incapacidad para crear más gnolls y el odio de sus seguidores explican su vulnerabilidad.", "imagen_en": "An isolated close detail of rough cave stone carrying blood-painted pictographs of a sharp-toothed monster with a three-headed flail and hyenas gnawing remains. Muted rusty red on grey stone, no text."},
+    {"slug": "baratija-del-valle", "nombre": "Baratija del Valle", "etiqueta": "baratija del Valle", "descripcion": "Baratija aleatoria de la tabla del Valle del Apéndice A, guardada en la bolsa de Z2. Su identidad concreta queda pendiente de la tirada; etiqueta de mochila o favor.", "imagen_en": "An isolated small, indistinct keepsake concealed inside a folded corner of worn leather, with its actual shape and material hidden. Soft cold light, neutral background, no identifiable ornament, lettering or invented specific design."}
+  ],
+  "ayudas": [
+    {
+      "slug": "carta-de-cobre",
+      "titulo": "Carta de Cobre a Macreadus",
+      "tipo": "carta",
+      "texto": "Macreadus:\n\nMe marcho. No soporto más este frío ni tu obsesión con la Estrella de Verano. Esa tontería te tiene tan absorto que ya no hay quien razone contigo.\n\nAntes de irme, te dejo una idea: tres es mejor que dos. Piénsalo.\n\nRegreso a Diez Ciudades.\n\nCobre",
+      "fondo_en": "An intact blank parchment sheet stained with soot along its edges and marked by faint handling creases. Rough pale fibres, restrained warm-grey colour, flat overhead view, completely empty surface with no text or symbols."
+    }
+  ],
+  "hitos": [
+    "Caída de Chyzka: acabar con la líder de la manada y aprovechar la salida mientras los gnolls devoran sus restos.",
+    "Rescate de la caña de Nabira: recuperar su caña y el anzuelo de delicia del pescador.",
+    "Supervivencia a la venganza de Auril: sobrevivir a los caminantes y mefits enviados contra la Cabaña Negra y ganar la enemistad de la Doncella de Escarcha.",
+    "Aprovechar la traición de los gnolls para evitar combatir a toda la manada y convertir a los descontentos en testigos pasivos."
+  ],
+  "relojes": []
+}

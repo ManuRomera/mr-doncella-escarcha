@@ -1,0 +1,297 @@
+{
+  "seccion": "28-karkolohk",
+  "titulo": "Karkolohk",
+  "escenas": [
+    {
+      "slug": "tesoro-de-los-jarls", "nombre": "Tesoro del Concilio de los Jarls (J5)", "ciudad": "otro", "interior": true,
+      "imagen_en": "Wide view of a frozen stone treasury containing four enormous wooden chests with heavy iron fittings. An iron ring bearing four iron keys and one silver key hangs from the ceiling. Frost coats the walls, and icy dust floats through cold blue light. One open chest contains a wooden bracket. No people or creatures; keep the lower third clear.",
+      "lectura": "La cámara es un bloque de frío y hierro. Cuatro cofres del tamaño de carros descansan en el suelo, cubiertos de escarcha. Del techo cuelga un aro con cuatro llaves largas de hierro y una sola llave de plata. El aire huele a metal viejo y os enfría la garganta al respirar. Al fondo, un cofre abierto deja ver el brillo de un objeto sobre una abrazadera de madera.",
+      "notas": "Las llaves de hierro abren los cofres; la plateada abre el de J4. Alcanzar el aro requiere escalar o apilar cofres; mano de mago puede desenroscar el gancho, pero no levantar el aro. Forzar una cerradura exige Destreza con herramientas de ladrón CD 15; cada cofre pesa 150 libras y mide 10 × 5 × 6 pies. Abrir el del cuerno activa seis hachas voladoras; los demás guardan las curiosidades descritas en objetos.",
+      "musica": "mina", "motivos": ["misterio", "batalla"], "efectos": ["viento", "hielo-cruje"], "ambiente": "dim",
+      "etiquetas": ["cámara helada", "cofres enormes", "llaves colgantes", "cuerno de explosión"], "figuras": ["hachas-voladoras"]
+    },
+    {
+      "slug": "encuentro-con-gromingorn", "nombre": "Gromin'gorn en la nieve", "ciudad": "tundra", "interior": false,
+      "imagen_en": "Wide view of a windswept snowy plain beneath a leaden sky. Deep enormous footprints cross the foreground and vanish into blowing snow. Mountain silhouettes barely emerge through the white haze. Cold steel blue and pale grey dominate, with hard ice crusts catching diffuse light. No people, giants, animals or figures; leave open snow across the lower third.",
+      "lectura": "A través de la nieve que vuela veis una figura enorme que avanza hacia vosotros. Es una gigante de escarcha de cabello largo y blanco. Entre sus manos agarra una cadena helada con un yunque enganchado a uno de sus extremos. El metal deja un surco profundo a su paso. No hay saludo en su mirada: solo el hielo. El viento os trae el arrastre de la cadena antes de que llegue a vuestra altura.",
+      "notas": "Gromin'gorn busca una prueba de sus antepasados para aspirar al liderazgo de su tribu. Si ve el cuerno de explosión, lo reclama como su prueba ancestral. Entregárselo puede apaciguarla y conceder [prueba superada], convirtiéndola en aliada ocasional.",
+      "musica": "camino", "motivos": ["amenaza", "ventisca-m"], "efectos": ["viento", "ventisca"], "ambiente": "dim",
+      "etiquetas": ["ventisca", "gigante hostil", "cadena con yunque", "cuerno disputado"], "figuras": ["gromingorn"]
+    },
+    {
+      "slug": "aproximacion-a-karkolohk", "nombre": "Vista de Karkolohk", "ciudad": "tundra", "interior": false,
+      "imagen_en": "Wide establishing view of a ramshackle timber and stone fortress clinging to a rocky spur in the western mountain foothills. Spiked palisades, damaged sheds and repair scaffolding rise above perpetual snow. Brazier smoke bends sharply in the wind as low clouds split around the crag. Cart tracks lead uphill. No people or animals; keep the lower third open.",
+      "lectura": "Cuando por fin rompéis las nubes, la fortaleza se dibuja a una milla de distancia: un amasijo de madera y piedra clavado en un peñasco. Sus murallas puntiagudas sobresalen entre columnas de humo que se tuercen con el viento. Las huellas de los carros goblin marcan la nieve como cicatrices. Entre las construcciones distinguís andamios y tablones sueltos. El aire os corta la cara mientras los golpes de martillo llegan amortiguados desde las alturas.",
+      "notas": "Las huellas profundas permiten encontrar el fuerte incluso con ventisca, pero los miradores dominan la aproximación. El clima arranca estructuras de la ladera y los experimentos químicos provocan incendios; las reparaciones son constantes. Los habitantes rechazan a los visitantes, especialmente a los gnomos.",
+      "musica": "camino", "motivos": ["sigilo", "amenaza"], "efectos": ["viento", "ventisca"], "ambiente": "dim",
+      "etiquetas": ["fortaleza en peñasco", "ventisca", "vigilancia goblin", "obras eternas"], "figuras": ["goblins-karkolohk", "banda-de-goblins"]
+    },
+    {
+      "slug": "atalayas", "nombre": "Atalayas (K1)", "ciudad": "tundra", "interior": false,
+      "imagen_en": "Wide view of three squat wooden watchtowers around a snowbound mountain fortress, two facing the eastern approach and one overlooking western cliffs. Rickety ladders climb twenty feet to snow-covered battlements. Burning braziers release thick dark smoke into the wind. Rough timber, rusted fastenings and amber flames contrast with blue snow. No people or animals; leave the lower third clear.",
+      "lectura": "Las atalayas son toscas y bajas, coronadas por braseros que escupen humo negro. En cada torre, cuatro goblins con pieles raídas se aprietan alrededor del fuego, más preocupados por el frío que por el horizonte. Uno lleva un cuerno al cinto. Las escaleras de acceso se estremecen con cada ráfaga. Sobre las almenas se amontona la nieve, y el resplandor de las brasas ilumina por momentos los arcos de los centinelas.",
+      "notas": "Cada torre alberga cuatro goblins y ofrece cobertura media contra ataques exteriores. Acercarse o subir sin ser detectado exige Sigilo CD 9, como prueba de grupo si procede. El cuerno alerta a toda la fortaleza y crea [alerta en Karkolohk]; los guardias disparan a quienes detectan.",
+      "musica": "noche", "motivos": ["sigilo", "tension"], "efectos": ["hogar", "viento", "cuerno"], "ambiente": "dim",
+      "etiquetas": ["atalaya", "brasero", "cobertura media", "alarma"], "figuras": ["banda-de-goblins"]
+    },
+    {
+      "slug": "puerta-principal", "nombre": "Puerta principal (K2)", "ciudad": "tundra", "interior": false,
+      "imagen_en": "Wide frontal view of a crude twenty-foot timber gate between thirty-foot spiked palisade walls. Mismatched planks are lashed together, blackened by moisture and rimed with frost. A heavy chain and frozen padlock secure the entrance. Wooden ladders flank the walls and a blazing brazier crowns the gateway. No people or creatures; leave clear space in the lower third.",
+      "lectura": "Un brasero ardiente ilumina las murallas puntiagudas que enmarcan la puerta. Seis goblins tiritan y patalean en lo alto, lanzándose pullas para sobrellevar el frío. Otros asoman a ambos lados de la entrada. El candado helado cuelga de una cadena pesada, y la madera está negra de humedad y escarcha. A cada ráfaga, las llamas se inclinan y las sombras de los centinelas recorren los tablones como manchas alargadas.",
+      "notas": "Hay cuatro goblins en las murallas y seis sobre la puerta; Sigilo CD 9 permite aproximarse sin ser visto. Forzar el candado requiere herramientas de ladrón y Destreza CD 20; una criatura pequeña puede pasar por los huecos con Acrobacias CD 20. Snubsuk lleva la llave; el éxito crea [puerta abierta], mientras que el fallo puede producir [manos entumecidas-1], ruido y alarma.",
+      "musica": "noche", "motivos": ["sigilo", "tension"], "efectos": ["viento", "puerta"], "ambiente": "dim",
+      "etiquetas": ["puerta sellada", "candado congelado", "murallas puntiagudas"], "figuras": ["banda-de-goblins"]
+    },
+    {
+      "slug": "patio-de-armas", "nombre": "Patio de armas (K3)", "ciudad": "tundra", "interior": false,
+      "imagen_en": "Wide view of a snowy fortress courtyard beneath two rickety timber bridges at different heights. The upper bridge has a large central gap. Rusted iron cages hang from beams, while three empty wooden transport cages stand in the snow. Rough posts and decaying planks frame the yard under cold grey light. No people, bodies or animals; keep the lower third open.",
+      "lectura": "El patio es un enredo de madera podrida y hierro oxidado. Dos puentes crujen sobre vuestras cabezas; el más alto tiene un boquete en el centro. Una jaula gira lentamente mientras los cuervos arrancan carne a su ocupante. Debajo, un huargo gruñe con un goblin gordo a lomos. En la nieve descansan tres jaulas de madera vacías. Una cadena brilla en la muñeca izquierda del jinete cuando tira de las riendas.",
+      "notas": "El huargo carga contra los intrusos y desmonta a Snubsuk, que huye hacia K5 con la llave esposada a la muñeca. El puente de treinta pies está intacto y sin vigilancia; el de cincuenta tiene un hueco cuyos escombros se quemaron. Las jaulas de madera alojaban a los osos polares de los carros; la jaula colgante contiene un humano muerto.",
+      "musica": "noche", "motivos": ["persecucion", "batalla"], "efectos": ["rugido", "cuervo", "alas", "viento"], "ambiente": "dim",
+      "etiquetas": ["patio de armas", "jaulas", "huargo", "llave en fuga"], "figuras": ["snubsuk", "snubsuk-y-huargo"]
+    },
+    {
+      "slug": "plataformas-de-arqueros", "nombre": "Plataformas de arqueros (K4)", "ciudad": "tundra", "interior": false,
+      "imagen_en": "Wide view of elevated wooden archery platforms linked through a ramshackle mountain fortress. Snow piles along exposed edges, and warped planks sag above the courtyard. Shortbows and rough equipment rest against timber rails. Wind drives loose powder between the posts under muted winter light. Grey wood and icy blue snow dominate. No people or animals; keep the lower third clear.",
+      "lectura": "Las plataformas de tiro crujen y gimen bajo el viento. En cada una distinguís dos goblins con arcos cortos y dos lobos de pelaje escarchado. La nieve se acumula en los bordes y cae al patio en pequeños regueros. Los arqueros tienen una vista despejada del suelo bajo sus pies. Los lobos levantan el hocico entre ráfaga y ráfaga, atentos a cualquier olor que les llegue desde las pasarelas.",
+      "notas": "Cada plataforma tiene dos goblins y dos lobos. Con la alarma activa, disparan sobre los objetivos del suelo; si los pierden de vista, montan a los lobos y cambian de plataforma. Úsalos como parte de la banda o como refuerzos de la alerta.",
+      "musica": "noche", "motivos": ["amenaza", "batalla"], "efectos": ["lobos", "pasos", "viento"], "ambiente": "dim",
+      "etiquetas": ["plataforma de tiro", "lobos", "flechas"], "figuras": ["banda-de-goblins"]
+    },
+    {
+      "slug": "plataforma-y-guardian", "nombre": "Plataforma de batalla (K5)", "ciudad": "tundra", "interior": false,
+      "imagen_en": "Wide view of a thirty-foot wooden battle tower connected by bridges to snowy ridgelines. Empty iron cages hang beneath its platform beside a heavy rope-and-pulley lifting rig. Snow blankets closed hatches above the machinery. Weathered beams and dangling cables dominate the composition, lit by cold diffuse mountain light. No people, creatures or humanoid figures; leave the lower third open.",
+      "lectura": "La torre de batalla domina el fuerte, unida por puentes a las crestas nevadas. De ella cuelgan jaulas vacías y, debajo, un gigante de metal con cabeza de yelmo. Permanece inmóvil, suspendido de cuerdas y poleas como una marioneta abandonada. La nieve cubre las escotillas del aparejo. Al mirar sus antebrazos distinguís marcas grabadas en el metal. Las cuerdas crujen con el viento, pero el constructo no hace el menor movimiento.",
+      "notas": "El jefe habla a la tribu desde esta plataforma; las escotillas permiten acceder al aparejo de carga. El guardián procede de Ythryn, tiene casi dos mil años y conserva un máximo de vitalidad reducido a 80. El amuleto de la Aguja Perdida de Netheril permite activarlo y vincularlo; comprender las poleas exige Inteligencia CD 15. Bajarlo puede conceder [guardián vinculado] o un desafío aliado.",
+      "musica": "mina", "motivos": ["misterio", "esperanza"], "efectos": ["viento", "hielo-cruje"], "ambiente": "dim",
+      "etiquetas": ["torre de batalla", "constructo colgado", "poleas", "amuleto necesario"], "figuras": ["guardian-del-escudo"]
+    },
+    {
+      "slug": "chozas-de-curanderos", "nombre": "Chozas de los curanderos (K6)", "ciudad": "tundra", "interior": false,
+      "imagen_en": "Wide view of six conical hide-and-bark tents arranged around a continuously burning brazier on a snow-covered wooden platform. Timber frames, tethering posts and worn tent flaps surround the central fire. Soot marks the hides, and faint smoke drifts across crusted snow. Warm amber firelight contrasts with the cold blue surroundings. No people or animals; leave the lower third clear.",
+      "lectura": "Seis tiendas cónicas de piel y corteza forman un círculo alrededor de un brasero que arde sin descanso. De cada cabaña os llega olor a humo y a leche de cabra. Los animales patean el suelo helado, atados a postes entre mantas y utensilios. Las llamas iluminan las costuras de las tiendas, mientras el viento sacude los bordes de las pieles. Bajo el crepitar del fuego se oyen voces bajas que apenas alcanzáis a distinguir.",
+      "notas": "Cada choza aloja a un curandero con ropa de invierno, kit y cabra montesa como mascota y montura. Manafek vive en la más oriental, adivina con sangre de cuervo y conoce el disfraz del jefe; prefiere chantajearlo a arriesgarse a disputar el liderazgo. Los curanderos evitan combatir, pero un gnomo o la revelación del secreto pueden provocar hostilidad.",
+      "musica": "culto", "motivos": ["misterio", "tension"], "efectos": ["hogar", "cuervo", "viento"], "ambiente": "dim",
+      "etiquetas": ["curanderos", "brasero", "cabras", "secreto conocido"], "figuras": ["manafek", "goblins-karkolohk"]
+    },
+    {
+      "slug": "paseo-de-perdicion", "nombre": "Paseo de la perdición (K7)", "ciudad": "tundra", "interior": false,
+      "imagen_en": "Wide view of a twenty-foot timber walkway projecting along a sheer mountain precipice. Spiked rails carry shredded ribbons and bare goblin skulls. Repeated repairs patch warped planks above a hundred-and-fifty-foot drop to ice-covered rocks. Blowing snow and cold grey light obscure the far slope. No living creatures or people; keep the lower third uncluttered to emphasize the abyss.",
+      "lectura": "Una pasarela de madera se aferra al borde del abismo. Sus barandillas de púas están adornadas con cintas rotas y cráneos de goblin, limpios hasta el hueso. El viento la hace gemir y sacude los retales como dedos que os llaman. Más allá, la nada: ciento cincuenta pies de caída hasta las rocas heladas. Los tablones muestran remiendos sobre remiendos, y desde el extremo exterior os llega un crujido largo.",
+      "notas": "Los condenados deben saltar o morir a espada de sus parientes. Más de 200 libras sobre la mitad exterior rompen la pasarela; Agilidad CD 16 permite saltar a salvo y quedar tumbado junto a la pendiente. El fallo supone una caída de 150 pies y [herido-6], potencialmente mortal; repartir el peso o usar cuerdas evita el colapso.",
+      "musica": "noche", "motivos": ["tension", "horror"], "efectos": ["viento", "cuervo"], "ambiente": "dim",
+      "etiquetas": ["pasarela", "precipicio", "colapso", "ejecución"], "figuras": ["pasarela-de-perdicion"]
+    },
+    {
+      "slug": "chozas-de-goblins", "nombre": "Chozas de goblins (K8)", "ciudad": "tundra", "interior": false,
+      "imagen_en": "Wide view of ramshackle goblin huts fixed to a frozen cliff by rough timber stilts, fifteen to twenty feet above a narrow plank path. Rope ladders sway beneath doorways, and stone chimneys release thin smoke. Hide and bark patch gaps in the walls. Muted brown timber contrasts with blue ice. No people or animals; keep the lower third clear.",
+      "lectura": "Las chozas cuelgan de la roca como nidos de pájaros, sostenidas por pilotes y unidas al camino por escaleras de cuerda. Cada ráfaga las hace balancearse sobre el vacío. Por las entradas veis pieles y cortezas tapando las grietas, y algunas chimeneas de piedra echan un humo triste. Desde el interior llegan voces agudas mezcladas con conversaciones de adultos. El frío se cuela entre los tablones del camino que tenéis bajo los pies.",
+      "notas": "Cada cabaña alberga un adulto y 1d6 niños no combatientes. Si el fuerte es atacado, los residentes recogen las escaleras; escalar el acantilado helado exige Atletismo CD 15. Atacar a las familias puede provocar un levantamiento general y consecuencias morales.",
+      "musica": "pueblo", "motivos": ["tension"], "efectos": ["viento", "pasos"], "ambiente": "dim",
+      "etiquetas": ["chapas de goblins", "familias", "escaleras de cuerda"], "figuras": ["goblins-karkolohk"]
+    },
+    {
+      "slug": "vestibulo-del-homenaje", "nombre": "Vestíbulo de la torre del homenaje (K9)", "ciudad": "tundra", "interior": true,
+      "imagen_en": "Wide interior view of a draughty wooden fortress vestibule. A heavy double door stands to the south with a thick timber crossbar and a small peephole. Rough plank walls, worn floorboards and frost-filled gaps frame the narrow defensive passage. Dim cold light enters through cracks, softened by traces of smoke. No people or creatures; leave the lower third clear.",
+      "lectura": "El vestíbulo es un pasillo frío y ventoso. Cuatro goblins envueltos en pieles vigilan la puerta doble del sur. Un pesado travesaño de madera descansa junto a sus soportes, preparado para cerrar el paso. El aire huele a humo y a animales mojados. Las corrientes silban entre las tablas de las paredes y os rozan los tobillos. Una pequeña mirilla permite observar el otro lado sin abrir las hojas.",
+      "notas": "Con la alarma, los guardias atrancan la puerta sur hasta que el jefe ordene abrirla. Derribarla una vez asegurada requiere un ariete u otra arma de asedio. Es un punto de estrangulamiento para defender el fuerte.",
+      "musica": "noche", "motivos": ["tension", "batalla"], "efectos": ["viento", "pasos", "puerta"], "ambiente": "dim",
+      "etiquetas": ["vestíbulo", "travesaño", "punto de estrangulamiento"], "figuras": ["banda-de-goblins"]
+    },
+    {
+      "slug": "barracones-de-guardia", "nombre": "Barracones de guardia (K10)", "ciudad": "tundra", "interior": true,
+      "imagen_en": "Wide interior view of empty guard barracks inside a crude mountain keep. Ragged mangy hides lie piled on hammocks made from old fishing nets. Damp wooden walls and rough beams enclose an untidy sleeping space, with frost gathering in dark corners. Faint winter light reveals muted browns, dirty greys and faded netting. No people or animals; keep the lower third clear.",
+      "lectura": "Los barracones son un revoltijo de pieles raídas sobre hamacas hechas con redes de pesca viejas. Nadie duerme aquí cuando llegáis. Os recibe un olor a humedad y a pescado podrido, tan persistente que parece pegado a la madera. Las redes cuelgan flojas entre los soportes y crujen cuando una corriente atraviesa la estancia. El frío se ha instalado también aquí dentro; las mantas amontonadas apenas prometen un poco de abrigo.",
+      "notas": "Los barracones están vacíos al llegar. Si el comedor se usa, su guardia solitario se retira aquí. No hay tesoro reseñable, pero la estancia sirve como escondite o lugar de emboscada.",
+      "musica": "noche", "motivos": ["sigilo"], "efectos": ["viento", "pasos"], "ambiente": "dark",
+      "etiquetas": ["barracón vacío", "hamacas", "escondite"], "figuras": []
+    },
+    {
+      "slug": "comedor", "nombre": "Comedor (K11)", "ciudad": "tundra", "interior": true,
+      "imagen_en": "Wide interior view of a filthy goblin dining hall with a low banquet table and no chairs. Fish bones, spoiled meat and scraps litter both tabletop and floor. An eastern door has a heavy crossbar and a peephole set at goblin height. Smoky firelight gives the rough timber a sickly amber cast. No people or animals; keep the lower third clear.",
+      "lectura": "El comedor está ocupado por una mesa baja cubierta de espinas de pescado, carne podrida y desechos. No hay sillas: los goblins se sientan en el suelo, donde se acumulan más restos de comida. El hedor es espeso y os obliga a respirar con cuidado. Una puerta al este, sellada con un travesaño, tiene una mirilla a altura de goblin. La luz del fuego tiembla sobre la grasa y los huesos.",
+      "notas": "Los diplomáticos esperan a que Spellix se disfrace y sirven cabra cocida unos diez minutos después. Puede entregar la nota de paz para el Consejo de Bryn Shander o pedir escolta para huir; los goblins interpretan la fuga como secuestro y atacan, mientras él solo se defiende. Cuando no se usa la sala, un goblin guarda la puerta este y abre a conocidos; forzarla desde el otro lado exige Atletismo CD 22. Durante el banquete el guardia se retira a K10.",
+      "musica": "taberna", "motivos": ["tension", "esperanza"], "efectos": ["hogar", "puerta", "multitud"], "ambiente": "dim",
+      "etiquetas": ["comedor", "festín de cabra", "nota de paz", "puerta sellada"], "figuras": ["spellix-bosquerrom", "goblins-karkolohk"]
+    },
+    {
+      "slug": "aposentos-del-jefe", "nombre": "Aposentos del jefe (K12)", "ciudad": "tundra", "interior": true,
+      "imagen_en": "Wide interior view of a cramped chief's chamber behind a timber door fitted with three bolts. Mirrors, scattered metal components, worn winter clothing and crude goblin possessions crowd the room. A partly hanging goblin disguise includes leather and mechanical mouth pieces. Oily surfaces catch faint warm light amid cold shadows. No people or creatures; leave the lower third open.",
+      "lectura": "La puerta tiene tres cerrojos. Al otro lado, el aposento huele a aceite, a pieles y a metal. Hay espejos, piezas mecánicas y ropa de abrigo entre los trastos. Un disfraz de goblin queda a medio colgar, con piezas que parecen encajar unas sobre otras. El contraste entre esos mecanismos y el resto de la habitación os hace deteneros. Alguien ha vivido aquí mucho tiempo fingiendo ser otro, protegido por una puerta cerrada.",
+      "notas": "Usa la lectura cuando el disfraz esté a la vista; si Spellix ya lo lleva, presenta a un jefe goblin corpulento, desaseado y autoritario. Forzar la puerta exige Fuerza CD 15; Spellix necesita un minuto para vestirse y gana tiempo charlando en goblin. Sorprenderlo a medio disfrazar puede crear [Yarb-Gnock desenmascarado] y provocar un motín.",
+      "musica": "noche", "motivos": ["misterio", "tension"], "efectos": ["puerta", "pasos"], "ambiente": "dim",
+      "etiquetas": ["aposentos", "disfraz", "tres cerrojos", "secreto al descubierto"], "figuras": ["spellix-bosquerrom"]
+    }
+  ],
+  "pnj": [
+    {
+      "slug": "spellix-bosquerrom", "nombre": "Spellix Bosquerrom, «Yarb-Gnock»", "papel": "Gnomo de roca que gobierna a los goblins bajo un disfraz; antagonista o aliado potencial.", "ciudad": "tundra",
+      "aspecto_en": "Full-body portrait of an adult rock gnome of small stature wearing a bulky goblin disguise assembled from leather, fur and metal components. His mechanical mouth looks worn and squeaks when moving. Frayed winter clothes wrap his compact frame. Tired, paranoid eyes peer from the disguise, and one hand nervously adjusts a concealed fastening. Cold muted colours, no background figures.",
+      "presentacion": "Veis a un jefe goblin corpulento, desaseado y envuelto en ropa de abrigo gastada. Al mover la boca, un pequeño rechinar metálico se mezcla con su voz autoritaria. Sus ojos cansados os examinan de uno en uno, atentos a cada mirada que dirigís hacia su rostro. Huele a piel y a aceite. Cuando una pregunta le incomoda, tropieza con las palabras antes de recuperar el tono de mando.",
+      "caracter": "Astuto, paternalista, nervioso y paranoico; habla común y goblin con autoridad y tartamudea cuando miente.", "quiere": "Mantener el disfraz, mejorar la vida de la tribu y abrir la caja-huevo; puede buscar la paz o la fuga.", "sabe": "Conoce las incursiones, el guardián del escudo, a Manafek y el secreto de su propio gobierno.", "desafio": "spellix-en-combate"
+    },
+    {
+      "slug": "manafek", "nombre": "Manafek", "papel": "Curandera y adivina goblin que conoce la identidad del jefe.", "ciudad": "tundra",
+      "aspecto_en": "Full-body portrait of an elderly goblin healer, small and wiry, wrapped in ragged winter furs. Her deeply lined face carries a patient, calculating expression. Raven blood stains her fingers and the edges of her sleeves. A worn healer's kit hangs at her side, with a raven perched nearby. Muted earth colours and cold reflected snow light.",
+      "presentacion": "La anciana goblin levanta unas manos manchadas de sangre de cuervo. Su mirada se demora en vosotros con una paciencia incómoda, como si esperara a que revelaseis algo sin daros cuenta. Las pieles raídas rozan la nieve junto a sus pies. Desde la tienda os llega olor a humo y a cabra. Cuando habla, sus palabras parecen una adivinanza que podría acabar convirtiéndose en amenaza.",
+      "caracter": "Sabia, calculadora y paciente; habla en acertijos y amenazas veladas.", "quiere": "Chantajear a Spellix; quizá sucederlo si muere, aunque duda de que la tribu la elija.", "sabe": "Yarb-Gnock es un gnomo disfrazado y su posición depende de ocultarlo.", "desafio": null
+    },
+    {
+      "slug": "snubsuk", "nombre": "Snubsuk", "papel": "Guardián del patio, jinete de huargo y portador de la llave principal.", "ciudad": "tundra",
+      "aspecto_en": "Full-body portrait of an adult overweight goblin wrapped in thick, shabby winter furs. A heavy key dangles from a chain shackled to his left wrist. His broad face wears an exaggerated swagger undermined by nervous eyes. Snow clings to his boots and coat hem. Show his entire stocky silhouette, with worn riding gear and a cold grey palette.",
+      "presentacion": "El goblin gordo os mira desde su montura y ensancha el pecho bajo un montón de pieles. En su muñeca izquierda, una cadena esposada sostiene una llave pesada que golpea contra el metal con cada movimiento. Su voz pretende sonar amenazadora, aunque sus ojos siguen inquietos los movimientos del huargo. El animal gruñe; el jinete aprieta las piernas y tira de las riendas con una seguridad poco convincente.",
+      "caracter": "Fanfarrón mientras está montado; llorón, cobarde y huidizo al separarse del huargo.", "quiere": "Sobrevivir y conservar su montura y la llave.", "sabe": "Cómo funciona la puerta principal y los horarios de guardia.", "desafio": "snubsuk-y-huargo"
+    },
+    {
+      "slug": "gromingorn", "nombre": "Gromin'gorn", "papel": "Gigante de escarcha noble que busca su prueba ancestral.", "ciudad": "tundra",
+      "aspecto_en": "Full-body portrait of an adult frost giant noblewoman with a towering, powerful build and long white hair. Heavy furs and ice armour cover her frame. She grips a ten-foot frozen chain ending in a massive anvil. Her expression is proud, stern and unwelcoming. Wind catches her hair against a pale snowy background; emphasize the entire silhouette and immense scale.",
+      "presentacion": "La gigante se alza ante vosotros con el cabello blanco sacudido por el viento. Sus pieles rozan una armadura de hielo, y la cadena que sostiene termina en un yunque capaz de aplastaros. Os observa con un orgullo duro, sin curiosidad ni cortesía. Cuando habla, su voz grave atraviesa el vendaval. Cada palabra parece exigir una respuesta inmediata, y sus manos no aflojan la presa sobre el metal.",
+      "caracter": "Grave, orgullosa y directa; no negocia si cree que le niegan su prueba ancestral.", "quiere": "Obtener el cuerno si lo ve y ganar el reconocimiento de sus antepasados para aspirar a liderar su tribu.", "sabe": "Conoce los caminos de montaña y las tribus de gigantes.", "desafio": "gigante-gromingorn"
+    },
+    {
+      "slug": "goblins-karkolohk", "nombre": "Goblins de Karkolohk", "papel": "Habitantes, guardias, curanderos y familias del fuerte.", "ciudad": "tundra",
+      "aspecto_en": "Full-body character study of a small adult goblin from a snowbound mountain fortress. Ragged cold-weather clothing and patched furs cover a lean frame. Pointed ears, sharp features and wary eyes emerge above a worn collar. A simple shortbow and practical scraps of equipment suggest guard duty. Show an opportunistic expression, weathered textures and muted winter colours.",
+      "presentacion": "Los goblins os observan desde sus pieles raídas, pendientes de vuestras manos y de vuestro equipo. Unos hablan demasiado alto; otros intercambian miradas antes de acercarse al fuego. El olor a humo se mezcla con el de la ropa húmeda. Desde las chozas llegan voces infantiles, mientras los guardias conservan los arcos al alcance. Entre las pullas y los murmullos percibís el mismo cansancio: hambre, frío y miedo al jefe.",
+      "caracter": "Oportunistas, habladores y crueles con los débiles; se amotinan si perciben debilidad.", "quiere": "Comida, calor y seguridad; obedecen a Yarb-Gnock por miedo.", "sabe": "Rumores del fuerte, rutas de carros y ubicación de prisioneros.", "desafio": "banda-de-goblins"
+    }
+  ],
+  "desafios": [
+    {
+      "slug": "banda-de-goblins", "nombre": "Banda de goblins de Karkolohk", "nivel": 1,
+      "poderio": [{"nivel": "origin", "aspecto": "Guardias goblins y lobos del fuerte"}], "roles": ["Adversario", "Merodeador"],
+      "aspecto_en": "Full-body group portrait of small goblin guards in ragged winter furs, carrying shortbows and crude knives. Lean wolves with frost in their coats stand beside them. Their hunched postures suggest cold, suspicion and opportunism. Worn leather, grey fur and dirty snow create a muted palette. Show complete silhouettes and simple equipment against an unobtrusive mountain backdrop.",
+      "descripcion": "Los defensores aprovechan sus números, las alturas y las rutas entre plataformas. Son peligrosos cuando hay alarma, pero su lealtad se deshace si se sienten en desventaja.",
+      "limites": [{"nombre": "dispersada", "valor": 4, "consecuencia": "La banda se dispersa; los supervivientes pueden intentar una traición o pedir soborno."}],
+      "etiquetas": ["goblin", "arco corto", "números", "oportunista", "ventisca-1"],
+      "rasgos": [{"nombre": "Alarma del fuerte", "descripcion": "Con la alarma activa, las descargas de flechas infligen herido-2 en lugar de herido-1."}],
+      "amenazas": [
+        {"nombre": "Descarga de flechas", "descripcion": "Disparan desde posiciones elevadas.", "consecuencias": ["Inflige [herido-1], o [herido-2] si hay alarma activa."]},
+        {"nombre": "Carga con cuchillos", "descripcion": "Rodean a un objetivo y acometen de cerca.", "consecuencias": ["Inflige [herido-1] y [asustado-1]."]},
+        {"nombre": "Huida y traición", "descripcion": "Se retiran y vuelven por la espalda o exigen un soborno.", "consecuencias": ["Crea [goblins dispersos]."]}
+      ],
+      "secretos": [{"nombre": "Lealtad frágil", "descripcion": "Aceptan sobornos, adulación y traiciones; son cobardes en desventaja y detestan a los gnomos."}]
+    },
+    {
+      "slug": "snubsuk-y-huargo", "nombre": "Snubsuk y su huargo", "nivel": 1,
+      "poderio": [{"nivel": "origin", "aspecto": "Jinete goblin sobre un huargo"}], "roles": ["Adversario", "Bruto"],
+      "aspecto_en": "Full-body portrait of a broad, shaggy worg carrying an overweight goblin in ragged winter furs. The rider grips his reins awkwardly, with a heavy gate key chained to his left wrist. The beast bares its teeth and lowers its head to charge. Snow dusts their complete silhouettes; contrast the rider's brittle swagger with the mount's predatory strength.",
+      "descripcion": "El guardián del patio depende de su montura para intimidar. La carga del huargo lo derriba de la silla y deja la llave en manos de un fugitivo.",
+      "limites": [{"nombre": "herido", "valor": 4, "consecuencia": "La pareja queda fuera de combate."}, {"nombre": "desmontado", "valor": 2, "consecuencia": "Snubsuk cae y huye sin luchar hacia K5."}],
+      "etiquetas": ["huargo", "goblin gordo", "llave de la puerta", "cobarde"],
+      "rasgos": [{"nombre": "Llave esposada", "descripcion": "La llave cuelga de una cadena esposada a su muñeca izquierda; inmovilizarlo permite quitársela."}],
+      "amenazas": [
+        {"nombre": "Carga del huargo", "descripcion": "La montura se abalanza contra los intrusos.", "consecuencias": ["Inflige [herido-2] y [derribado-1]."]},
+        {"nombre": "Snubsuk huye", "descripcion": "Desmontado, corre hacia la plataforma principal con la llave.", "consecuencias": ["Crea [llave en fuga]."]},
+        {"nombre": "Mordisco", "descripcion": "El huargo cierra las mandíbulas sobre su presa.", "consecuencias": ["Inflige [herido-1] y [sangrando-1]."]}
+      ],
+      "secretos": [{"nombre": "Valor prestado", "descripcion": "Separado del huargo, Snubsuk huye sin combatir."}]
+    },
+    {
+      "slug": "gigante-gromingorn", "nombre": "Gromin'gorn, gigante de escarcha", "nivel": 4,
+      "poderio": [{"nivel": "greatness", "aspecto": "Fuerza titánica de una noble gigante de escarcha"}], "roles": ["Adversario", "Bruto"],
+      "aspecto_en": "Full-body depiction of a powerful frost giant noblewoman with long white hair, heavy winter furs and angular ice armour. She swings an immense anvil from a ten-foot frozen chain held in both hands. Her proud face is set in cold determination. Icy blue and weathered grey dominate; show the entire figure and weapon against windblown snow.",
+      "descripcion": "Gromin'gorn busca el reconocimiento de los espíritus ancestrales. Puede tomar el cuerno de explosión por la prueba que le permitirá aspirar al mando de su tribu.",
+      "limites": [{"nombre": "herido", "valor": 6, "consecuencia": "Queda derrotada en combate."}, {"nombre": "convencida", "valor": 4, "consecuencia": "Abandona la hostilidad y acepta la resolución de su prueba."}],
+      "etiquetas": ["gigante de escarcha", "cadena con yunque", "fuerza titánica", "sangre noble", "resistente al frío"], "rasgos": [],
+      "amenazas": [
+        {"nombre": "Golpe de cadena", "descripcion": "Blande a dos manos la cadena y el yunque.", "consecuencias": ["Inflige [herido-3]."]},
+        {"nombre": "Barrido", "descripcion": "La cadena barre a quienes estén a su alcance.", "consecuencias": ["Inflige [derribado-1] a todos los Héroes en alcance."]},
+        {"nombre": "Reclamar el cuerno", "descripcion": "Intenta arrebatar el cuerno visible a su portador.", "consecuencias": ["Crea [cuerno en disputa]."]}
+      ],
+      "secretos": [{"nombre": "Prueba ancestral", "descripcion": "Entregarle el cuerno puede apaciguarla, crear [prueba superada] y convertirla en aliada ocasional."}]
+    },
+    {
+      "slug": "guardian-del-escudo", "nombre": "Guardián del escudo antiguo", "nivel": 4,
+      "poderio": [{"nivel": "greatness", "aspecto": "Constructo protector de la antigua Ythryn"}], "roles": ["Bruto", "Apoyo"],
+      "aspecto_en": "Full-body depiction of an ancient nine-foot Netherese shield guardian with a helmet-shaped head and heavy articulated metal limbs. Its forearms bear engraved wizard seals. Age, damage and frost mark the armour plates. Thick lifting ropes support its inert body like an abandoned marionette. Use subdued iron, tarnished bronze and cold blue highlights, showing the complete construct and its protective mass.",
+      "descripcion": "Este superviviente de Ythryn tiene casi dos mil años y daños que reducen su vitalidad máxima a 80. Los goblins lo colgaron como espantapájaros al no poder reactivarlo. Puede proteger a quien porte su amuleto.",
+      "limites": [{"nombre": "herido", "valor": 6, "consecuencia": "El constructo queda fuera de combate."}, {"nombre": "desactivado", "valor": 3, "consecuencia": "Queda inerte y deja de actuar."}],
+      "etiquetas": ["constructo nezherino", "antebrazos sellados", "vinculado al amuleto", "lento", "inerte sin amuleto"],
+      "rasgos": [{"nombre": "Vínculo protector", "descripcion": "Requiere su amuleto para activarse y obedecer; comprender el aparejo para bajarlo exige Inteligencia CD 15."}],
+      "amenazas": [
+        {"nombre": "Puñetazo", "descripcion": "Descarga su puño metálico sobre un enemigo.", "consecuencias": ["Inflige [herido-3]."]},
+        {"nombre": "Escudo protector", "descripcion": "Interpone su cuerpo para proteger a un aliado si está vinculado a un Héroe.", "consecuencias": ["Reduce un estado de un aliado."]},
+        {"nombre": "Impacto de escudo", "descripcion": "Golpea con su masa protectora.", "consecuencias": ["Inflige [herido-2] y [aturdido-1]."]}
+      ],
+      "secretos": [{"nombre": "Amuleto perdido", "descripcion": "El amuleto se encuentra en la Aguja Perdida de Netheril; sin él permanece inerte. Las poleas permiten devolverlo al suelo."}]
+    },
+    {
+      "slug": "spellix-en-combate", "nombre": "Spellix Bosquerrom / Yarb-Gnock", "nivel": 2,
+      "poderio": [{"nivel": "adventure", "aspecto": "Hechicero gnomo oculto bajo la identidad del jefe"}], "roles": ["Adversario", "Controlador"],
+      "aspecto_en": "Full-body portrait of a small rock gnome sorcerer in a bulky, shabby goblin disguise made of fur, hide and metal. A mechanical jaw frames his tired, watchful eyes. He holds a translucent ice longsword, with a frost dagger near his other hand. Frayed winter clothing and nervous posture reveal strain beneath his assumed authority. Cold blue magic illuminates worn textures.",
+      "descripcion": "El jefe es un gnomo que lleva años gobernando mediante un disfraz. Sus armas de hielo, su teleportación y la regeneración gélida le permiten resistir mientras intenta mantener su secreto. Si escapa con los Héroes, lucha solo en defensa propia.",
+      "limites": [{"nombre": "herido", "valor": 5, "consecuencia": "Cae; solo muere si comienza su siguiente turno a cero sin poder regenerarse."}, {"nombre": "convencido", "valor": 4, "consecuencia": "Acepta un acuerdo compatible con la paz o su fuga."}, {"nombre": "desenmascarado", "valor": 3, "consecuencia": "Su identidad queda expuesta y puede desencadenar un motín."}],
+      "etiquetas": ["gnomo disfrazado de goblin", "mago de roca", "regeneración gélida", "paso brumoso", "armas de hielo", "percepción aguda"],
+      "rasgos": [{"nombre": "Regeneración gélida", "descripcion": "Con frío extremo cura herido-2 al inicio de su turno; recibir daño de fuego suspende la regeneración hasta el turno siguiente. Solo muere si empieza su turno a cero sin poder regenerarse."}],
+      "amenazas": [
+        {"nombre": "Espada larga de hielo", "descripcion": "Ataca con una hoja helada.", "consecuencias": ["Inflige [herido-2] y [helado-1]."]},
+        {"nombre": "Daga helada a distancia", "descripcion": "Lanza un arma de hielo contra un objetivo alejado.", "consecuencias": ["Inflige [herido-1] y [helado-1]."]},
+        {"nombre": "Paso brumoso", "descripcion": "Se teletransporta a un lugar visible.", "consecuencias": ["Crea [Yarb-Gnock desvanecido]."]},
+        {"nombre": "Regeneración gélida", "descripcion": "El frío extremo restaña sus heridas al inicio del turno si el fuego no lo impide.", "consecuencias": ["Cura [herido-2]."]}
+      ],
+      "secretos": [{"nombre": "Un minuto de ventaja", "descripcion": "Necesita un minuto para ponerse el disfraz y conversa a través de la puerta para ganar tiempo."}, {"nombre": "El secreto del jefe", "descripcion": "Manafek conoce su identidad y sopesa chantajearlo; si la tribu lo descubre, puede matarlo."}, {"nombre": "Fuego", "descripcion": "El daño de fuego suspende su regeneración hasta el turno siguiente."}]
+    },
+    {
+      "slug": "hachas-voladoras", "nombre": "Hachas de batalla voladoras", "nivel": 1,
+      "poderio": [{"nivel": "origin", "aspecto": "Seis armas animadas que protegen el tesoro"}], "roles": ["Adversario", "Merodeador"],
+      "aspecto_en": "Full-length depiction of six animated battleaxes hovering in a loose defensive formation, each weapon entirely visible. Cold iron heads and worn wooden hafts catch pale blue reflected light. Fine frost edges the blades, and their differing angles suggest sudden aerial movement. Use a simple frozen-stone backdrop with no wielders, people or creatures, emphasizing the complete shapes of the weapons.",
+      "descripcion": "Seis hachas de batalla animadas atacan al abrir el cofre del cuerno en J5. Rodean a los intrusos con golpes aéreos y acoso constante.",
+      "limites": [{"nombre": "dispersada", "valor": 4, "consecuencia": "Las armas quedan destruidas, inmovilizadas o desactivadas."}],
+      "etiquetas": ["hacha voladora", "enjambre", "guardián del tesoro"],
+      "rasgos": [{"nombre": "Guardianes del cofre", "descripcion": "Se activan al abrir el cofre de J5; cerrarlo o inmovilizar las armas puede desactivarlas."}],
+      "amenazas": [{"nombre": "Golpe aéreo", "descripcion": "Las hachas atacan desde el aire.", "consecuencias": ["Inflige [herido-2]."]}, {"nombre": "Acoso", "descripcion": "Giran alrededor del objetivo y dificultan su atención.", "consecuencias": ["Inflige [asustado-1] y [distraído-1]."]}],
+      "secretos": [{"nombre": "Armas dominadas", "descripcion": "Si se dominan, pueden conceder la etiqueta de mochila [hacha voladora aliada]."}]
+    },
+    {
+      "slug": "pasarela-de-perdicion", "nombre": "Pasarela de la perdición", "nivel": 2,
+      "poderio": [], "roles": ["Obstáculo", "Peligro"],
+      "aspecto_en": "Wide depiction of an unstable timber execution walkway jutting over a hundred-and-fifty-foot mountain drop. Rotten boards and overlapping repairs bend near the outer end. Spiked rails carry shredded ribbons and bare goblin skulls. Jagged frozen rocks wait far below through windblown snow. Cold grey daylight exposes the dangerous structure; no people, animals or living creatures appear anywhere.",
+      "descripcion": "La pasarela de ejecución está mal construida y ha sido reparada muchas veces. Su extremo exterior se rompe si soporta más de 200 libras. El precipicio termina en rocas heladas.",
+      "limites": [{"nombre": "colapso", "valor": 1, "consecuencia": "El extremo se rompe y cae por la ladera, poniendo en peligro a todos los que estén encima."}],
+      "etiquetas": ["madera podrida", "viento", "precipicio", "peso límite"],
+      "rasgos": [{"nombre": "Carga excesiva", "descripcion": "Más de 200 libras en la mitad exterior provocan el colapso; distribuir el peso o usar cuerdas permite evitarlo."}],
+      "amenazas": [{"nombre": "Crujido", "descripcion": "El extremo cede; Agilidad CD 16 permite saltar y quedar tumbado junto a la pendiente.", "consecuencias": ["Con fallo, caída de 150 pies e [herido-6], o muerte si no hay salvación."]}, {"nombre": "Caída", "descripcion": "El cuerpo impacta contra las rocas heladas del fondo.", "consecuencias": ["Inflige [herido-6]."]}],
+      "secretos": [{"nombre": "Repartir la carga", "descripcion": "El peligro depende del peso en el extremo exterior; las cuerdas y la distribución del peso pueden evitarlo."}]
+    }
+  ],
+  "objetos": [
+    {"slug": "cuerno-de-explosion", "nombre": "Cuerno de explosión", "etiqueta": "cuerno de explosión", "descripcion": "Objeto de mochila que produce un estruendo mediante una acción concreta. Llevarlo visible atrae la reclamación de Gromin'gorn; la ficha lo relaciona con J4 y con el cofre de J5.", "imagen_en": "Isolated magical blasting horn resting on a plain neutral surface, its broad mouth and worn fittings rimed with frost. Cold blue highlights emphasize the hollow opening and weathered material, without inscriptions or surrounding props."},
+    {"slug": "llave-de-oro", "nombre": "Llave de oro", "etiqueta": "llave de oro", "descripcion": "Equivale a 25 po en el original; puede traducirse en un favor menor o en [oro en llaves].", "imagen_en": "Isolated golden key with a broad bow and simple toothed bit, worn from handling. Soft neutral light reveals warm metal against a plain dark background, with no lettering, hands or extra objects."},
+    {"slug": "hacha-voladora-aliada", "nombre": "Hacha voladora dominada", "etiqueta": "hacha voladora aliada", "descripcion": "Una de las seis armas animadas del cofre de J5, utilizable como etiqueta de mochila si se consigue dominarla.", "imagen_en": "Isolated animated battleaxe hovering horizontally, its complete iron blade and wooden haft visible. A faint cold highlight follows the sharpened edge against a plain background, with no wielder or additional weapons."},
+    {"slug": "llave-plateada", "nombre": "Llave plateada", "etiqueta": "llave plateada", "descripcion": "Cuelga del aro de J5 junto a cuatro llaves de hierro y abre el cofre de J4. Su valor original es de 2 po.", "imagen_en": "Isolated long silver key with a simple iron-age profile and a narrow toothed bit. Pale cool light reveals scratches and traces of frost against a neutral background, with no text or hands."},
+    {"slug": "flecha-elfica", "nombre": "Flecha élfica", "etiqueta": "flecha élfica", "descripcion": "Munición mágica de un solo uso encontrada en el tesoro de J5.", "imagen_en": "Isolated elven arrow shown in full, with a slender straight shaft, delicate pale fletching and a finely shaped metal point. Subtle cold light emphasizes careful craftsmanship against a plain background, without text."},
+    {"slug": "buho-nival-congelado", "nombre": "Búho nival muerto y congelado", "etiqueta": "búho nival congelado", "descripcion": "Curiosidad del tesoro de J5 que puede servir como componente mágico.", "imagen_en": "Isolated dead snowy owl, rigid with cold, white feathers compressed and dusted with frost. Show the complete small body resting naturally on a neutral surface, with subdued blue light and no gore."},
+    {"slug": "escama-dragon-blanco", "nombre": "Escama de joven dragón blanco", "etiqueta": "escama de dragón blanco", "descripcion": "Escama reluciente de J5, apropiada como material para rituales de frío.", "imagen_en": "Isolated scale from a young white dragon, pearly and slightly translucent along its sharp edges. Fine ridges catch icy blue highlights against a dark neutral surface, with no creature, lettering or surrounding props."},
+    {"slug": "piedra-cumbre-kelvin", "nombre": "Piedra de la Cumbre Kelvin", "etiqueta": "piedra de la Cumbre Kelvin", "descripcion": "Piedra del tamaño de un puño encontrada en J5; posible pista o componente.", "imagen_en": "Isolated fist-sized mountain stone with a rough angular surface and small crystalline inclusions. A light dusting of frost catches cold diffuse illumination against a plain neutral backdrop, without markings or hands."},
+    {"slug": "amuleto-del-guardian", "nombre": "Amuleto del guardián del escudo", "etiqueta": "amuleto del guardián", "descripcion": "Procede de la Aguja Perdida de Netheril. Permite rastrear, activar y controlar al constructo de K5, que se vincula a su portador.", "imagen_en": "Isolated ancient Netherese guardian amulet on a worn cord, fashioned from weathered metal with restrained geometric detailing. Cold highlights reveal age and careful craftsmanship against a plain dark background, with no readable text."},
+    {"slug": "caja-huevo-ilicida", "nombre": "Caja metálica con forma de huevo", "etiqueta": "caja-huevo ilícida", "descripcion": "Cayó de un nautiloide ilícido y fue encontrada hace dos días. Abrirla obsesiona a Spellix y conecta esta sección con Id Ascendiente.", "imagen_en": "Isolated egg-shaped metal container with smooth alien contours and a tightly sealed seam. Cold reflected light glides across its unfamiliar surface against a neutral background, suggesting strange craftsmanship without exposing any contents or readable markings."},
+    {"slug": "nota-piel-conejo", "nombre": "Tira de piel de conejo con nota", "etiqueta": "nota de paz", "descripcion": "Nota formal en común firmada por Yarb-Gnock, destinada al Consejo de Portavoces de las Diez Ciudades y entregable en el Salón del Consejo de Bryn Shander.", "imagen_en": "Isolated rolled strip of rabbit hide, pale inner surface turned outward and soft fur visible along its edges. A simple tie holds the small scroll closed against a neutral background, with no readable text."},
+    {"slug": "kit-de-curandero", "nombre": "Kit de curandero", "etiqueta": "kit de curandero", "descripcion": "Cada curandero de K6 dispone de uno.", "imagen_en": "Isolated worn healer's kit in a patched leather pouch, opened to show folded bandages and simple practical implements. Soft firelight reveals rough textures against a plain background, with no hands or labels."},
+    {"slug": "cuerno-de-alarma", "nombre": "Cuerno de alarma goblin", "etiqueta": "cuerno de alarma", "descripcion": "Los centinelas lo usan para alertar a toda la fortaleza.", "imagen_en": "Isolated crude goblin signal horn with a worn leather carrying loop, weathered mouthpiece and frost along its rim. Muted brown and ivory tones stand against a simple neutral background, with no inscriptions."},
+    {"slug": "cabra-montesa", "nombre": "Cabra montesa", "etiqueta": "cabra montesa", "descripcion": "Los curanderos la usan como mascota y montura, además de obtener leche. No es un desafío en esta ficha.", "imagen_en": "Full-body isolated mountain goat with a shaggy winter coat, curved horns and sturdy hooves. A simple tether hangs loosely at its neck. Cold soft light defines its complete silhouette against a neutral background without people."}
+  ],
+  "ayudas": [
+    {
+      "slug": "nota-de-paz", "titulo": "Nota de Yarb-Gnock al Consejo", "tipo": "carta",
+      "texto": "Al Consejo de Portavoces de las Diez Ciudades:\n\nLos goblins de Karkolohk nos comprometemos a no atacar a los viajeros ni a las caravanas mientras dure el tratado de paz con las Diez Ciudades.\n\nHaced llegar esta declaración al Salón del Consejo de Bryn Shander.\n\nFirmado: Yarb-Gnock, jefe de Karkolohk.",
+      "fondo_en": "Blank unrolled strip of rabbit hide, pale scraped inner surface with uneven edges and a narrow fringe of fur. Soft neutral lighting, ample empty writing space, no text, symbols or illustrations."
+    },
+    {
+      "slug": "esquema-de-poleas", "titulo": "Esquema del aparejo del guardián", "tipo": "mapa",
+      "texto": "PLATAFORMA DE BATALLA (K5)\n↓\nESCOTILLAS DE ACCESO AL APAREJO\n↓\nSISTEMA DE CUERDAS Y POLEAS PARA CARGAS PESADAS\n↓\nGUARDIÁN DEL ESCUDO SUSPENDIDO\n↓\nSUELO\n\nEl aparejo permite bajar el constructo. Para activarlo y controlarlo hace falta su amuleto.",
+      "fondo_en": "Blank rough parchment sheet for a mechanical sketch, with lightly worn corners and a fibrous cream surface. Even soft illumination leaves the centre fully empty, without text, diagrams, symbols or decorative borders."
+    }
+  ],
+  "hitos": [
+    "Entregar la cabeza de Yarb-Gnock a Markham Southwell y obtener un favor en Bryn Shander.",
+    "Firmar la paz y entregar la nota al Consejo: [tratado Karkolohk-Diez Ciudades]; los goblins no asaltan caravanas mientras dure el acuerdo.",
+    "Ayudar a Spellix a huir pese a la persecución goblin y ganar [aliado gnomo].",
+    "Desenmascarar al jefe y afrontar el motín, el chantaje o la posible ejecución: [Yarb-Gnock desenmascarado].",
+    "Activar y recuperar al guardián del escudo: [guardián vinculado] y conexión con la Aguja Perdida de Netheril.",
+    "Recuperar el tesoro de J5 y dar uso a sus objetos como etiquetas de mochila o hitos de Gesta.",
+    "Apaciguar a Gromin'gorn entregándole el cuerno: [prueba superada] y posible alianza ocasional.",
+    "Sobrevivir a la caída del paseo de la perdición: [superviviente de la caída], además de [herido-6].",
+    "Rescatar a un prisionero vivo, si lo hay, y obtener un favor y [deuda de vida]."
+  ],
+  "relojes": []
+}

@@ -1,644 +1,1194 @@
 {
-  "seccion": "07-caer-konig",
-  "titulo": "Caer-Konig: Los Invisibles",
-  "escenas": [
+ "seccion": "07-caer-konig",
+ "titulo": "Caer-Konig: Los Invisibles",
+ "escenas": [
+  {
+   "slug": "caer-konig-y-trovus",
+   "nombre": "Caer-Konig y el encuentro con Trovus",
+   "ciudad": "caer-konig",
+   "interior": false,
+   "imagen_en": "A wide view of a terraced lakeside village rising like an amphitheatre above frozen Lac Dinneshere. Stone and timber houses crowd the white slope, broken piers jut from the ice, and ruined fortress stones hide under snow beneath Kelvin’s summit. Blue-grey winter light, a dark blue banner with a white ascending fish. No people or creatures; leave the lower third open.",
+   "lectura": "Camináis entre casas que ascienden por la ladera en filas apretadas. Abajo, el hielo aprisiona los muelles y ha retorcido sus tablones; arriba, la nieve apenas deja reconocer las piedras de una fortaleza antigua. Los pocos vecinos que encontráis llevan el rostro hundido en sus bufandas y pasan sin detenerse. Al acercaros a un ventisquero, la nieve se sacude. Una figura se incorpora con una botella vacía en la mano y os exige que os identifiquéis. Cuando baja la bufanda, descubrís unas escamas plateadas. La voz pierde enseguida su amenaza: el desconocido se presenta como Trovus, portavoz de Caer-Konig.",
+   "notas": "Trovus ha vuelto a dormirse durante una patrulla tras beber demasiado y ofrece acompañar a los Héroes a la posada. Explica los robos, que nadie ha visto a los responsables y que la ciudad no puede pagar una investigación; si nadie lo interrumpe, cuenta viejas hazañas. Su herencia dracónica explica su resistencia al frío. El asentamiento nació como campamento de montañeros y sus ruinas recuerdan la fragilidad de cualquier refugio.",
+   "musica": "pueblo",
+   "motivos": [
+    "misterio",
+    "tension"
+   ],
+   "efectos": [
+    "viento",
+    "hielo-cruje",
+    "pasos"
+   ],
+   "ambiente": "dim",
+   "etiquetas": [
+    "pueblo aislado",
+    "muelles destrozados",
+    "ruinas bajo la nieve",
+    "desconfianza hacia los forasteros"
+   ],
+   "figuras": [
+    "trovus"
+   ]
+  },
+  {
+   "slug": "anzuelo-sedal-y-plomo",
+   "nombre": "Anzuelo, Sedal y Plomo",
+   "ciudad": "caer-konig",
+   "interior": true,
+   "imagen_en": "A wide interior view of an amber-lit tavern with a small table of tiny ale mugs by the door, worn surfaces and frost-veiled windows. Warm interior light contrasts with blue cold outside. Wooden beams and stone fireplace. No people or creatures; leave the lower third open.",
+   "lectura": "Al abrir la puerta, os recibe una bocanada de aire caliente que huele a cerveza. Junto a la entrada hay pequeñas jarras dispuestas sobre una mesa, como una invitación que nadie espera que rechacéis. El rumor del local parece más firme que cualquier promesa de buen tiempo. Por las ventanas empañadas apenas distinguís el blanco de la calle. Aquí el invierno queda reducido, durante unos instantes, al frío que aún lleváis en las manos. Una primera bebida os espera antes de que hayáis decidido dónde sentaros.",
+   "notas": "Glen ofrece una pequeña cerveza gratis: el «anzuelo». Los Héroes pueden conocer la desesperación local y confirmar el robo de las dos cabras. La cerveza procede de los enanos del valle y Jarthra la transporta, un vínculo que permite cuestionar los prejuicios contra ellos. Si se juega un concurso de bebida, excederse produce [ebrio-2], sin convertirlo en una pista obligatoria.",
+   "musica": "taberna",
+   "motivos": [
+    "esperanza"
+   ],
+   "efectos": [
+    "taberna-sfx",
+    "hogar",
+    "viento"
+   ],
+   "ambiente": "dim",
+   "etiquetas": [
+    "primera cerveza de cortesía",
+    "refugio de los vecinos",
+    "cerveza del valle enano"
+   ],
+   "figuras": [
+    "glen-korr"
+   ]
+  },
+  {
+   "slug": "expediciones-allendhelor",
+   "nombre": "Expediciones Allendhelor",
+   "ciudad": "caer-konig",
+   "interior": true,
+   "imagen_en": "A wide interior view of a travel outfitter packed with ropes, blankets and expedition gear. A closed wooden shed for two sleds and a snow-protected dog kennel stand beside it. Cold blue light outside, practical worn materials inside. No people or creatures; leave the lower third open.",
+   "lectura": "Encontráis un comercio donde casi todo parece escogido por su capacidad para manteneros con vida. Cuerdas enrolladas, mantas y útiles de viaje ocupan el espacio disponible, lejos de cualquier lujo. A un lado del edificio se levanta una caseta cerrada; desde la perrera cercana os llegan ladridos y el roce de patas sobre la madera. La nieve se acumula contra las paredes exteriores. Mirando hacia la montaña, comprendéis que conseguir equipo aquí puede ser la diferencia entre seguir un rastro y convertiros vosotros mismos en una nueva desaparición.",
+   "notas": "Atenas Veloz dirige el negocio con Jarthra Farzassh. Hay dos trineos y doce perros sanos, seis por trineo. Atenas sale cada vez menos por sus articulaciones doloridas y prefiere recomendar a Jarthra, que conoce bien los alrededores de la Cumbre de Kelvin. Su contratación supone un servicio modesto por jornada, representable mediante [guía contratado: Jarthra] a cambio de provisiones o un favor equivalente. Aquí desaparecieron las 25 perlas talladas.",
+   "musica": "pueblo",
+   "motivos": [],
+   "efectos": [
+    "perros",
+    "pasos",
+    "viento"
+   ],
+   "ambiente": "dim",
+   "etiquetas": [
+    "equipo de expedición",
+    "dos trineos disponibles",
+    "doce perros sanos",
+    "experiencia de montaña"
+   ],
+   "figuras": [
+    "atenas-veloz",
+    "jarthra-farzassh"
+   ]
+  },
+  {
+   "slug": "la-luz-del-norte",
+   "nombre": "La Luz del Norte y las hermanas Shorard",
+   "ciudad": "caer-konig",
+   "interior": true,
+   "imagen_en": "A wide interior view of an inn at the eastern end of a village, with an empty hook above the door. A nearly deserted common room, comfortable chairs and warm kitchen light with steam from hot food. Cold blue outside, warm amber inside. No people or creatures; leave the lower third open.",
+   "lectura": "Sobre la entrada veis un gancho vacío, demasiado visible contra la fachada oscura. Dentro apenas hay huéspedes. Una joven alza la mirada y recibe a Trovus con esa mezcla de cariño y reproche que reserváis a quien vuelve a cometer el mismo error. Lo conduce a una silla y pide algo caliente a la cocina. Poco después aparece otra mujer con un cuenco humeante y una expresión mucho menos indulgente. El olor de la sopa os alcanza mientras la conversación vuelve a la desaparición de la linterna y al silencio imposible de unos ladrones a los que nadie ha visto.",
+   "notas": "Allie atiende y limpia; Cori compra provisiones y cocina. Allie atribuye las huellas a enanos hambrientos del valle, aunque no entiende la ausencia de ruido ni el robo de objetos sin utilidad alimenticia; Cori rechaza esa explicación. Si aceptan investigar, Allie enseña las débiles huellas de atrás. Las hermanas ofrecen comida, camas y cerveza por devolver la linterna; si rechazan, los robos continúan hasta que los duergar abandonan su búsqueda de chardalyn en la localidad.",
+   "musica": "taberna",
+   "motivos": [
+    "misterio",
+    "esperanza"
+   ],
+   "efectos": [
+    "hogar",
+    "pasos",
+    "viento"
+   ],
+   "ambiente": "dim",
+   "etiquetas": [
+    "gancho sin linterna",
+    "sopa caliente",
+    "hospitalidad a cambio de ayuda",
+    "huellas detrás de la posada"
+   ],
+   "figuras": [
+    "allie-shorard",
+    "cori-shorard",
+    "trovus"
+   ]
+  },
+  {
+   "slug": "el-rastro-hacia-la-cumbre-de-kelvin",
+   "nombre": "El rastro hacia la Cumbre de Kelvin",
+   "ciudad": "caer-konig",
+   "interior": false,
+   "imagen_en": "A wide view of boot depressions nearly filled with snow behind an inn, then sled runners and huge prints farther on. Wind-scoured foothills, white relief without clear landmarks, dark mountain horizon. Cold blue-grey winter light. No people or creatures; leave the lower third open.",
+   "lectura": "Tras la posada, las huellas parecen pequeños hundimientos en una superficie que el viento intenta alisar. Os inclináis sobre ellas y seguís su dirección hacia la montaña, pero cada paso hace más difícil distinguirlas de cualquier irregularidad del terreno. Más allá de las últimas construcciones, el pueblo deja de protegeros del aire. La nieve corre a ras de suelo y se os engancha al abrigo. Frente a vosotros se extiende un paisaje donde una pisada puede desaparecer en minutos y donde incluso una marcha corta exige saber con claridad hacia dónde queréis regresar.",
+   "notas": "El rastro viejo desaparece a unos quince metros de la posada; a la mañana siguiente aparecen huellas frescas de un único explorador duergar. A unos 400 metros del pueblo terminan junto a pisadas de ogro y surcos de trineo. Una acción de rastreo con [conocimiento de gigantes], [rastreador] o similares identifica las pisadas y crea [rastro de ogro identificado]; un fallo deja [origen incierto] y consume tiempo. Cada hora de búsqueda requiere orientación de la Compañía: éxito, [puesto localizado]; fallo, una hora perdida y avance del desafío ambiental. Jarthra aporta su conocimiento local.",
+   "musica": "camino",
+   "motivos": [
+    "misterio",
+    "tension"
+   ],
+   "efectos": [
+    "viento",
+    "pasos"
+   ],
+   "ambiente": "dim",
+   "etiquetas": [
+    "rastro medio borrado",
+    "huellas de botas enanas",
+    "surcos de trineo",
+    "viento sin refugio"
+   ],
+   "figuras": [
+    "estribaciones-barridas-invierno",
+    "jarthra-farzassh"
+   ]
+  },
+  {
+   "slug": "aproximacion-al-puesto-avanzado",
+   "nombre": "Aproximación al puesto avanzado",
+   "ciudad": "caer-konig",
+   "interior": false,
+   "imagen_en": "A wide view of an austere fortress excavated into a crescent-shaped slope. Double stone doors, a clear snowy incline, an independent bunker with loopholes and barred openings to the north. Frozen stream bed and grated culvert to the northeast. No people or creatures; leave the lower third open.",
+   "lectura": "La nieve termina revelando unas líneas demasiado rectas para pertenecer a la montaña. Una construcción de piedra sobresale de la ladera; el resto parece hundirse en ella. Dos grandes hojas de piedra cierran la entrada, precedida por una pendiente blanca sin abrigo. Separado del edificio principal, un búnker cubierto de nieve ofrece aspilleras hacia el acceso. También distinguís aberturas enrejadas en la pared norte y el cauce inmóvil de un arroyo que desaparece bajo la fortaleza. Todo el conjunto parece pensado para observar el exterior sin ofreceros una buena vista de lo que guarda dentro.",
+   "notas": "Brojk vigila desde O1 y Urthhild desde O3; están aburridos y cansados, pero las luces o una aproximación evidente los alertan. Urthhild da la alarma y corre a O2; necesita dos momentos de acción para levantar el puente, de modo que los Héroes pueden interrumpirla. Una aproximación sigilosa pegada al acantilado norte, detrás del búnker y bajo las ventanas, permite alcanzar el cauce sin ser detectados: éxito, [fuera de la vista de los centinelas]; fallo, [alarma en el puesto]. El puesto sirve para abastecer y dar descanso a las partidas de búsqueda de chardalyn.",
+   "musica": "camino",
+   "motivos": [
+    "sigilo",
+    "amenaza"
+   ],
+   "efectos": [
+    "viento",
+    "pasos",
+    "hielo-cruje"
+   ],
+   "ambiente": "dim",
+   "etiquetas": [
+    "pendiente expuesta",
+    "aspilleras dominantes",
+    "cauce congelado",
+    "acantilado norte protector"
+   ],
+   "figuras": [
+    "duergar-del-puesto"
+   ]
+  },
+  {
+   "slug": "o1-bunker",
+   "nombre": "O1. Búnker",
+   "ciudad": "caer-konig",
+   "interior": true,
+   "imagen_en": "A wide view of a carved rock block about four and a half metres tall, with rough edges and narrow loopholes. Dark functional interior with a stairway descending into a tunnel. Cold stone and iron fittings. No people or creatures; leave the lower third open.",
+   "lectura": "De cerca, el búnker parece una sola roca a la que hubieran arrancado todo lo que sobraba. Las aspilleras cortan sus paredes como heridas rectas y dejan muy poco espacio para mirar hacia dentro. La piedra no ofrece decoración alguna. Si conseguís acceder, os recibe una oscuridad fría y un hueco que desciende hacia el subsuelo. El silencio de esa salida resulta tan inquietante como las aberturas que dominan la nieve: este lugar tiene una comunicación con la fortaleza que desde fuera no podíais ver.",
+   "notas": "Brojk lleva una ballesta pesada además de sus armas habituales y ataca a cualquier amenaza visible; puede incorporarse a la defensa de O2 y liberar al ogro. El túnel está a unos seis metros bajo tierra, tiene metro y medio de altura y una escalera de seis metros en cada extremo; su salida norte está en O4. Permite acceder a la armería y moverse entre ambas defensas, pero obliga a avanzar agachados.",
+   "musica": "mina",
+   "motivos": [
+    "sigilo",
+    "tension"
+   ],
+   "efectos": [
+    "viento",
+    "pasos"
+   ],
+   "ambiente": "dark",
+   "etiquetas": [
+    "cobertura de aspilleras",
+    "sin iluminación",
+    "túnel bajo tierra",
+    "paso agachado"
+   ],
+   "figuras": [
+    "duergar-del-puesto"
+   ]
+  },
+  {
+   "slug": "o2-alcazar-principal",
+   "nombre": "O2. Alcázar principal",
+   "ciudad": "caer-konig",
+   "interior": true,
+   "imagen_en": "A wide interior view of heavy stone doors and a nine-metre deep pit. A wooden drawbridge about six metres across, chains and pulleys, a bare room with a frozen well, three iron cages and a sled still gripping ice. No people or creatures; leave the lower third open.",
+   "lectura": "Las hojas de piedra dejan paso a un vacío que corta la entrada. Un puente de madera cruza el foso, sujeto a cadenas que se pierden hacia su mecanismo. Más allá distinguís una sala desnuda, un pozo y tres jaulas alineadas contra una pared. De una de ellas llega un olor agrio, seguido de un aullido. En la oscuridad se mueve una figura enorme, con carne semicongelada y una cuenca ocular vacía. Cerca, dos cabras se agitan tras otros barrotes. Junto a la pared descansa un trineo al que todavía se aferra el hielo del último viaje.",
+   "notas": "Las puertas exteriores no están cerradas con llave. Brojk y Urthhild, si siguen disponibles, liberan al ogro zombi para luchar; encerrado no puede dañar a nadie, libre obedece a los duergar. Estos se repliegan hacia O5 cuando estén claramente heridos —orientativamente [herido-2]— y dejan al ogro cubriendo su retirada. Una jaula está vacía; las cabras robadas iban a servir de comida. El pozo baja unos tres metros hasta una cisterna. El foso y el puente se resuelven con su desafío específico.",
+   "musica": "mina",
+   "motivos": [
+    "horror",
+    "tension",
+    "amenaza"
+   ],
+   "efectos": [
+    "pasos",
+    "hielo-cruje",
+    "puerta"
+   ],
+   "ambiente": "dark",
+   "etiquetas": [
+    "foso tras la entrada",
+    "puente levadizo",
+    "jaulas de hierro",
+    "paredes del pozo heladas",
+    "oscuridad interior"
+   ],
+   "figuras": [
+    "ogro-zombi-de-tiro",
+    "duergar-del-puesto",
+    "foso-puente-levadizo"
+   ]
+  },
+  {
+   "slug": "o3-atalaya",
+   "nombre": "O3. Atalaya",
+   "ciudad": "caer-konig",
+   "interior": true,
+   "imagen_en": "A wide interior view of a large almost empty room with snow in the corners, frost on stone and three rectangular barred windows one and a half metres tall. Wind moves between the bars. No people or creatures; leave the lower third open.",
+   "lectura": "Al entrar sentís una corriente que atraviesa toda la habitación. La nieve ha encontrado camino hasta las esquinas y la escarcha reviste las paredes con una costra pálida. Tres aberturas enrejadas ofrecen una vista limpia de la pendiente exterior. Desde aquí, cualquier luz que os hubiese acompañado habría destacado contra la nieve. Los barrotes dejan entrar el viento, pero el espacio entre ellos es demasiado estrecho para pasar. Fuera queda el terreno abierto; dentro, una estancia sin comodidad alguna y una salida hacia el corazón del puesto.",
+   "notas": "Urthhild permanece aquí dando pisotones para combatir el frío, salvo que haya acudido a levantar el puente o a defender O2. Doblar los barrotes requiere fuerza extraordinaria, herramientas o una etiqueta apropiada; éxito, [hueco para una persona pequeña], que aún debe pasar con dificultad; fallo, [ruido de metal] y alerta si quedan enemigos capaces de oírlo. No es una abertura suficiente para cualquier Héroe por defecto.",
+   "musica": "mina",
+   "motivos": [
+    "sigilo",
+    "tension"
+   ],
+   "efectos": [
+    "viento",
+    "pasos"
+   ],
+   "ambiente": "dim",
+   "etiquetas": [
+    "vista despejada de la ladera",
+    "ventanas enrejadas",
+    "corriente helada",
+    "escarcha en las paredes"
+   ],
+   "figuras": [
+    "duergar-del-puesto"
+   ]
+  },
+  {
+   "slug": "o4-armeria",
+   "nombre": "O4. Armería",
+   "ciudad": "caer-konig",
+   "interior": true,
+   "imagen_en": "A wide view of a dim room with piles of equipment against the walls. An open hatch at the south end, darkness beneath its frame, dull metal stacked with ropes and utensils. Worn stone floor and cold air. No people or creatures; leave the lower third open.",
+   "lectura": "Vuestra luz revela una habitación donde el equipo ocupa los bordes y deja libre el centro. El metal devuelve reflejos apagados; las cuerdas y los utensilios se amontonan con la misma falta de ceremonia que todo lo demás en esta fortaleza. En el extremo sur hay una escotilla abierta. Os acercáis y veis una escalera que baja hacia una franja de oscuridad más estrecha. El aire que sube de allí huele a tierra fría y piedra, y cualquier pequeño ruido parece viajar con demasiada facilidad por el hueco.",
+   "notas": "Contiene dos cotas de escamas de talla enana, dos escudos de acero, tres picos de guerra, nueve jabalinas, dos equipos de escalada y cuatro equipos de cocina. Se convierten en etiquetas de mochila según su uso y talla. La escalera baja seis metros al túnel de metro y medio de altura que comunica con O1. Saquear sin precaución puede advertir a los defensores, pero encontrar el equipo no necesita una acción incierta si hay tiempo para mirar.",
+   "musica": "mina",
+   "motivos": [
+    "misterio"
+   ],
+   "efectos": [
+    "pasos"
+   ],
+   "ambiente": "dark",
+   "etiquetas": [
+    "equipo militar enano",
+    "escotilla abierta",
+    "ruta al búnker",
+    "sin iluminación"
+   ],
+   "figuras": []
+  },
+  {
+   "slug": "o5-cuello-de-botella",
+   "nombre": "O5. Cuello de Botella",
+   "ciudad": "caer-konig",
+   "interior": true,
+   "imagen_en": "A wide view of a stone inner passage with facing doors and a lever mechanism. Iron slots in floor and ceiling; the western sector can be separated by grates. Cold dark stone and worn metal. No people or creatures; leave the lower third open.",
+   "lectura": "El paso os obliga a medir cómo avanzáis y cuánto espacio dejáis entre vosotros. La piedra desnuda devuelve cualquier roce de vuestro equipo. Cerca de las puertas, el suelo y el techo presentan líneas estrechas que interrumpen su superficie. Una palanca destaca contra el muro, con el metal gastado allí donde lo sujetan las manos. Al otro lado continúa la fortaleza, pero algo en la disposición del lugar os hace pensar en una mandíbula abierta: podéis cruzarla, aunque quizá alguien esté esperando el momento de cerrarla.",
+   "notas": "Nildar investiga cualquier ruido fuerte aquí y, una vez alertado, espera junto a la palanca hasta que pueda aislar a un intruso en la parte occidental. Accionarla hace salir barras desde suelo y techo en las puertas. Quien esté en el umbral puede apartarse con agilidad o quedar [atravesado-2] e [inmovilizado-3]. Solo otra activación de la palanca retrae las barras; romperlas también abre paso. Detectar el mecanismo mediante observación o conocimiento de trampas crea [trampa identificada].",
+   "musica": "mina",
+   "motivos": [
+    "tension",
+    "amenaza"
+   ],
+   "efectos": [
+    "pasos"
+   ],
+   "ambiente": "dark",
+   "etiquetas": [
+    "palanca de las rejas",
+    "ranuras en suelo y techo",
+    "paso que divide al grupo",
+    "cobertura tras los barrotes"
+   ],
+   "figuras": [
+    "nildar-solmarchito",
+    "trampa-cuello-botella"
+   ]
+  },
+  {
+   "slug": "o6-aposentos-del-comandante",
+   "nombre": "O6. Aposentos del comandante",
+   "ciudad": "caer-konig",
+   "interior": true,
+   "imagen_en": "A wide view of a stone bed and desk. Dark fragments and coloured glass on the table, crumpled charcoal-written paper, and a burlap sack filtering blue, green and red light. Cold stone room and shifting colours. No people or creatures; leave the lower third open.",
+   "lectura": "En esta habitación, incluso la cama parece pertenecer a la montaña. El escritorio de piedra está ocupado por fragmentos de cristal y una hoja arrugada. Un saco cubre algo que ilumina la tela desde dentro: primero azul, después verde y finalmente rojo. Los colores se derraman débiles sobre la mesa y alteran el aspecto de las piezas oscuras. La habitación conserva la misma dureza del resto del puesto, pero esa luz cambiante tiene algo familiar, como si un pequeño pedazo de la vida de Caer-Konig hubiese terminado aquí por equivocación.",
+   "notas": "Si los Héroes han superado O5 sin combate, sorprenden a Nildar estudiando los fragmentos; ataca al verlos. La linterna robada está bajo el saco. La carta de Durth, en runas enanas, señala el ferry congelado de Puerto Este. Hay vidrio teñido corriente y tres fragmentos de chardalyn del tamaño de dagas; son seguros de manipular y solo revelan su maleabilidad. Registrando la cama aparece una bolsa de recursos de Nildar. Capturado, amenaza en enano con el poder de su padre y una destrucción alada sobre Diez Ciudades.",
+   "musica": "mina",
+   "motivos": [
+    "misterio",
+    "tension"
+   ],
+   "efectos": [
+    "pasos"
+   ],
+   "ambiente": "dim",
+   "etiquetas": [
+    "luz azul verde y roja",
+    "fragmentos sobre el escritorio",
+    "carta en runas enanas",
+    "mobiliario de piedra"
+   ],
+   "figuras": [
+    "nildar-solmarchito"
+   ]
+  },
+  {
+   "slug": "o7-sirvientes-de-las-esporas",
+   "nombre": "O7. Sirvientes de las esporas",
+   "ciudad": "caer-konig",
+   "interior": true,
+   "imagen_en": "A wide view of a cell block with stone doors and small barred peepholes at a dwarf’s eye height. Three cells to the west and five to the south. A barred window to the northeast with snow and wind entering. No people or creatures; leave the lower third open.",
+   "lectura": "El pasillo está flanqueado por puertas de piedra con pequeñas ventanas demasiado bajas para mirar cómodamente. En la esquina noreste, otra abertura enrejada deja entrar el viento y una lengua de nieve. El olor aquí es distinto: humedad, encierro y materia que ha empezado a pudrirse. Tras las puertas del sur percibís movimientos lentos. Cuando distinguís las siluetas, veis cuerpos humanos cubiertos de crecimientos extraños. Sus gestos carecen de la urgencia de quien espera ser rescatado. Las puertas empiezan a abrirse y comprendéis que la vida que buscáis ya no está detrás de ellas.",
+   "notas": "Las tres celdas occidentales están vacías. En cada una de las cinco del sur hay un cadáver humano animado, antes habitante de Diez Ciudades o nómada reghed, secuestrado y asesinado por los duergar mediante esporas de un soberano micónido. Salen y atacan a los intrusos; se resuelven como una sola manada. No hay un soberano micónido presente. Investigar los cuerpos permite establecer [víctimas convertidas en sirvientes], pero la fuente no da nombres ni pistas familiares concretas.",
+   "musica": "noche",
+   "motivos": [
+    "horror",
+    "amenaza"
+   ],
+   "efectos": [
+    "pasos",
+    "viento"
+   ],
+   "ambiente": "dark",
+   "etiquetas": [
+    "cinco celdas ocupadas",
+    "tres celdas vacías",
+    "crecimientos fúngicos",
+    "ventana abierta al invierno"
+   ],
+   "figuras": [
+    "manada-sirvientes-esporas"
+   ]
+  },
+  {
+   "slug": "o8-aposentos-de-los-duergar",
+   "nombre": "O8. Aposentos de los duergar",
+   "ciudad": "caer-konig",
+   "interior": true,
+   "imagen_en": "A wide view of two austere northern rooms with beds, boxes and provision sacks. Combat gear within reach, no permanent lighting. Coarse cloth, dark steel and cold stone. Faint breathing in the dark. No people or creatures; leave the lower third open.",
+   "lectura": "Las habitaciones del norte contienen lo poco que sus ocupantes necesitan para seguir utilizando el puesto. Entre cajas y sacos distinguís mantas, bultos de provisiones y cuerda. El aire parece inmóvil después de las corrientes de otras salas. Un leve sonido de respiración rompe el silencio. Cerca de los lechos, el metal está dispuesto para que unas manos puedan encontrarlo sin buscar a oscuras. Si queréis pasar sin despertar a nadie, cada paso importa; incluso un saco mal apartado podría anunciar que habéis llegado hasta este rincón de la fortaleza.",
+   "notas": "Ruvik y Skorn duermen, cada uno en una habitación, con la armadura puesta y las armas y escudos cerca. Una acción silenciosa permite [durmientes inadvertidos]; el ruido los despierta y atacan. No añadas otros duergar: son dos de los cinco ocupantes originales del puesto. Hay mantas, raciones, cuerda de cáñamo y equipo básico. Un saquito contiene las 25 perlas talladas robadas. Otro guarda tres dagas, herramientas de talla de madera, aparejos de pesca y una bolsa de cuero con una poción de curación y recursos de viaje.",
+   "musica": "mina",
+   "motivos": [
+    "sigilo",
+    "tension"
+   ],
+   "efectos": [
+    "pasos"
+   ],
+   "ambiente": "dark",
+   "etiquetas": [
+    "dormidos con la armadura puesta",
+    "armas al alcance",
+    "provisiones almacenadas",
+    "bienes robados"
+   ],
+   "figuras": [
+    "duergar-del-puesto"
+   ]
+  },
+  {
+   "slug": "regreso-a-la-luz-del-norte",
+   "nombre": "Regreso a La Luz del Norte",
+   "ciudad": "caer-konig",
+   "interior": true,
+   "imagen_en": "A wide view of a warm inn with an upholstered armchair by the common area and prepared rooms. Above the door, the empty hook or the recovered lantern projecting colours onto the snow. No people or creatures; leave the lower third open.",
+   "lectura": "Cuando volvéis a la posada, el calor os alcanza antes de que terminéis de cerrar la puerta. Encontráis a Trovus vencido por el sueño en un sillón, mientras el trabajo cotidiano continúa a su alrededor. Hay una mesa que puede recibiros, un lugar donde dejar el equipo y habitaciones preparadas para apartaros del frío. La noticia de lo que habéis visto pesa más que cualquier bulto que traigáis. Durante un momento, sin embargo, podéis deteneros: habéis regresado de la montaña y todavía hay quienes os esperan al otro lado del invierno.",
+   "notas": "Allie desconoce a los duergar y se alarma al saber que se vuelven invisibles y crecen hasta el tamaño de un ogro. Ha preparado habitaciones incluso si no recuperan la linterna. Si la devuelven, añade unas jarras de cerveza. Ayuda a restituir los demás bienes a sus dueños. Esta pausa puede servir como descanso en el campamento para la Compañía según sus reglas y las condiciones de la ficción.",
+   "musica": "taberna",
+   "motivos": [
+    "esperanza",
+    "misterio"
+   ],
+   "efectos": [
+    "hogar",
+    "taberna-sfx",
+    "viento"
+   ],
+   "ambiente": "dim",
+   "etiquetas": [
+    "habitaciones preparadas",
+    "hospitalidad de las Shorard",
+    "bienes devueltos",
+    "noticias inquietantes"
+   ],
+   "figuras": [
+    "allie-shorard",
+    "cori-shorard",
+    "trovus"
+   ]
+  }
+ ],
+ "pnj": [
+  {
+   "slug": "trovus",
+   "nombre": "Trovus",
+   "papel": "Portavoz, aventurero retirado y primer contacto",
+   "ciudad": "caer-konig",
+   "aspecto_en": "A full-body portrait of an adult silver dragonborn man of unspecified age, stocky and broad-shouldered, with a weathered face and silver scales. He wears a worn scarf and a battered fur-lined coat, often holding an empty bottle. His nostalgic expression and heavy stance suggest a retired adventurer. Cold blue-grey winter light, simple snowy background.",
+   "presentacion": "Ante vosotros se incorpora una figura con una botella vacía en la mano. Cuando baja la bufanda, descubrís unas escamas plateadas. El dracónido os exige que os identifiquéis, pero su voz pierde enseguida la amenaza. Se presenta como Trovus, portavoz de Caer-Konig, y os ofrece acompañaros a la posada mientras huele a cerveza y frío.",
+   "caracter": "Afable, directo, nostálgico y dado a discursos entre hipos; mal político, buen compañero de historias.",
+   "quiere": "Proteger el pueblo y recuperar la eficacia de sus días de aventuras, aunque la bebida frustra sus patrullas.",
+   "sabe": "Qué se ha robado, que nadie ha visto a los responsables y que la ciudad no puede pagar. No conoce la identidad de los duergar.",
+   "desafio": "trovus"
+  },
+  {
+   "slug": "glen-korr",
+   "nombre": "Eglendar «Glen» Korr",
+   "papel": "Dueño de Anzuelo, Sedal y Plomo, semielfo bondadoso",
+   "ciudad": "caer-konig",
+   "aspecto_en": "A full-body portrait of a middle-aged half-elf man of unspecified age, medium build, with pointed ears visible under a thick vest and work sleeves. Warm apron, welcoming stance, ale-stained hands and a friendly smile. Amber tavern light, simple wooden background.",
+   "presentacion": "Ante vosotros distinguis un semielfo adulto de complexión media, orejas apuntadas, chaleco grueso y mangas de trabajo. Os recibe con una pequeña cerveza gratis, la «anzuelo», antes de que hayáis decidido dónde sentaros, y os invita a quedaros un rato. Su negocio depende de que siga llegando cerveza del valle.",
+   "caracter": "Acogedor, conversación fácil y buen instinto comercial.",
+   "quiere": "Que los visitantes se queden tras la primera cerveza y que siga llegando bebida del valle.",
+   "sabe": "Que le han robado dos cabras y que Jarthra trae la cerveza de los enanos.",
+   "desafio": null
+  },
+  {
+   "slug": "atenas-veloz",
+   "nombre": "Atenas Veloz",
+   "papel": "Explorador humano experimentado, dueño de Expediciones Allendhelor",
+   "ciudad": "caer-konig",
+   "aspecto_en": "A full-body portrait of an elderly human man with a weathered face, careful hands and travel clothing kept ready for the road. Stiff joints, warm layers, practical boots and a cautious smile. Grey winter light, simple shop background with ropes and blankets.",
+   "presentacion": "Ante vosotros distinguis un humano de edad avanzada, rostro curtido, manos cuidadosas y ropa de viaje conservada para salir cuando haga falta. Os recibe entre cuerdas y mantas, con humor competitivo hacia Jarthra, y os explica qué equipo hace falta para viajar. Sus articulaciones resentidas le hacen preferir quedarse al abrigo, pero conoce bien el valor de un buen guía.",
+   "caracter": "Práctico, con humor competitivo hacia Jarthra; habla desde la experiencia.",
+   "quiere": "Mantener el negocio y permanecer al abrigo más que antes.",
+   "sabe": "Equipo necesario para viajar, disponibilidad de perros y trineos, valor de Jarthra como guía y desaparición de las perlas.",
+   "desafio": null
+  },
+  {
+   "slug": "jarthra-farzassh",
+   "nombre": "Jarthra Farzassh",
+   "papel": "Enano escudo, guía de montaña y transportista de cerveza",
+   "ciudad": "caer-konig",
+   "aspecto_en": "A full-body portrait of a sturdy adult shield dwarf with a beard protected by a scarf, mountain boots and a tough coat. Robust build, practical gear, confident stance, a competitive grin and a weathered face. Cold blue-grey light, simple snowy background.",
+   "presentacion": "Ante vosotros distinguis un enano escudo adulto y robusto, barba protegida con bufanda, botas de montaña y abrigo resistente. Os ofrece sus servicios con seguridad y bromas competitivas, y conoce especialmente bien los alrededores de la Cumbre de Kelvin. Su experiencia en la montaña os puede librar de perderos en la ventisca.",
+   "caracter": "Seguro, práctico y dado a bromas competitivas con Atenas.",
+   "quiere": "Cumplir sus trabajos y conducir a sus clientes con seguridad.",
+   "sabe": "Cómo orientarse en torno a la Cumbre de Kelvin y cómo llegar a los enanos que suministran cerveza; no conoce automáticamente el puesto secreto.",
+   "desafio": null
+  },
+  {
+   "slug": "allie-shorard",
+   "nombre": "Allie Shorard",
+   "papel": "Hermana menor, recibe huéspedes y limpia La Luz del Norte; humana bondadosa",
+   "ciudad": "caer-konig",
+   "aspecto_en": "A full-body portrait of a young human woman of light build, wearing wool clothing and a work apron. Sweet expression, practical hands, warm tavern light behind her, with a gentle reproachful smile and a tidy braid. Simple wooden interior background.",
+   "presentacion": "Ante vosotros distinguis una joven de complexión ligera, ropa de lana y delantal de trabajo. Os recibe con esa mezcla de cariño y reproche que se reserva a quien vuelve a cometer el mismo error, y conduce a Trovus a una silla mientras pide algo caliente a la cocina. Conoce dónde empiezan las huellas.",
+   "caracter": "Dulce, encantadora, reprende a Trovus con familiaridad.",
+   "quiere": "Recuperar la linterna, atender a sus huéspedes y comprender los robos.",
+   "sabe": "Dónde empiezan las huellas y qué han perdido; sospecha equivocadamente de los enanos del valle. Desconoce a los duergar.",
+   "desafio": null
+  },
+  {
+   "slug": "cori-shorard",
+   "nombre": "Cori Shorard",
+   "papel": "Hermana mayor, compra provisiones y cocina; humana bondadosa",
+   "ciudad": "caer-konig",
+   "aspecto_en": "A full-body portrait of a robust older human woman in wool clothing and a thick apron, strong working hands, serious expression. Warm kitchen light, simple tavern background, with a stern no-nonsense posture and a wooden spoon. Heavy winter shawl. A heavy winter apron.",
+   "presentacion": "Ante vosotros distinguis una mujer robusta, mayor que Allie, con prendas de lana, delantal grueso y manos de trabajo. Aparece con un cuenco humeante y una expresión mucho menos indulgente, y os deja claro que la linterna solo proporciona luz de colores. No cree en la hipótesis de los enanos hambrientos.",
+   "caracter": "Seria, tajante y escéptica; ha dejado de hablar a Trovus por no resolver los robos.",
+   "quiere": "Proteger la posada y una explicación coherente.",
+   "sabe": "Que la linterna solo proporciona luz de colores y que la hipótesis de los enanos hambrientos no explica su desaparición.",
+   "desafio": null
+  },
+  {
+   "slug": "nildar-solmarchito",
+   "nombre": "Nildar Solmarchito",
+   "papel": "Hijo menor de Xardorok, comandante del puesto y antagonista",
+   "ciudad": "caer-konig",
+   "aspecto_en": "A full-body portrait of an adult duergar man, short and stocky, grey skin, functional armour, eyes absorbed by crystal fragments. Cruel fanatical expression, dark underground light, with a despising gaze and a rigid stance. Heavy boots and dark cloak. Dark leather armour.",
+   "presentacion": "Ante vosotros distinguis un duergar adulto, bajo y recio, piel gris, armadura funcional y mirada absorbida por los cristales. Estudia los fragmentos con desprecio y ataca al veros, amenazando en enano con la gloria de su padre. Su fanatismo por Xardorok lo hace impredecible y peligroso en combate. No se deja capturar fácilmente.",
+   "caracter": "Cruel, fanático y despreciativo; amenaza en enano con la gloria de su padre.",
+   "quiere": "Complacer a Xardorok y reunir chardalyn; comparte su obsesión por el material.",
+   "sabe": "La búsqueda, la fortaleza paterna, el proyecto del dragón y el futuro ataque al valle enano; guarda la carta que sitúa a Durth en Puerto Este.",
+   "desafio": "nildar-solmarchito"
+  },
+  {
+   "slug": "duergar-del-puesto",
+   "nombre": "Brojk, Urthhild, Ruvik y Skorn",
+   "papel": "Cuatro duergar subordinados a Nildar; centinelas y defensores del puesto",
+   "ciudad": "caer-konig",
+   "aspecto_en": "A full-body group portrait of four adult duergar with grey skin, stocky builds, austere armour and cloaks. One carries a heavy crossbow. Hostile disciplined expressions, cold stone background, with tired sentinel postures and watchful eyes. Dark iron weapons and shields.",
+   "presentacion": "Ante vosotros distinguis cuatro duergar adultos de piel gris, cuerpos recios, armaduras y capas austeras; Brojk porta ballesta pesada. Están hostiles y disciplinados, cansados y aburridos, y protegen el puesto con disciplina. No negocian ni se rinden voluntariamente, aunque pueden ser capturados e interrogados. Brojk vigila desde el búnker ahora.",
+   "caracter": "Hostiles y disciplinados; centinelas cansados y aburridos.",
+   "quiere": "Proteger el puesto y continuar las incursiones.",
+   "sabe": "Quién manda, para quién buscan chardalyn, el dragón en construcción y la futura ofensiva contra las minas del Valle de los Enanos.",
+   "desafio": "banda-defensora-duergar"
+  },
+  {
+   "slug": "durth",
+   "nombre": "Durth Solmarchito",
+   "papel": "Hermano mayor de Nildar, contacto ausente que opera desde el ferry de Puerto Este",
+   "ciudad": "otro",
+   "aspecto_en": "A full-body portrait suggestion of an adult duergar man; this section fixes no traits, age or equipment. Neutral grey skin, austere armour, stern expression, cold mountain light, plain background, with an air of secrecy. Dark cloak and boots. No visible heraldry.",
+   "presentacion": "Durth no aparece en esta sección; solo se le conoce por su carta en runas enanas encontrada en el puesto, que lo sitúa en el ferry congelado de Puerto Este. Su lealtad a su padre Xardorok queda clara en el documento y su paradero es una pista clave para la campaña.",
+   "caracter": "Leal a su padre Xardorok.",
+   "quiere": "Prospectar chardalyn desde el ferry congelado de Puerto Este.",
+   "sabe": "La base en el ferry y la continuación de la búsqueda.",
+   "desafio": null
+  },
+  {
+   "slug": "xardorok-solmarchito",
+   "nombre": "Xardorok Solmarchito",
+   "papel": "Padre de Nildar y Durth, señor de la fortaleza montañosa; amenaza ausente",
+   "ciudad": "otro",
+   "aspecto_en": "A full-body portrait suggestion of an adult duergar warlord; this section fixes no traits, age or equipment. Grey skin, imposing armour, obsessive gaze, cold dark light, plain background, with a commanding presence. Heavy plate and dark mantle. No fixed traits in this section.",
+   "presentacion": "Xardorok no aparece en esta sección; se le menciona como el señor que reúne chardalyn para construir un dragón y amenazar a las Diez Ciudades. Su obsesión por el material define la amenaza futura y su nombre inspira fanatismo en sus hijos y seguidores. Su fortaleza es la Columna del Mundo.",
+   "caracter": "Obsesionado con el chardalyn.",
+   "quiere": "Construir un dragón de chardalyn y destruir Diez Ciudades.",
+   "sabe": "Los planes de la fortaleza y el proyecto del dragón.",
+   "desafio": null
+  }
+ ],
+ "desafios": [
+  {
+   "slug": "trovus",
+   "nombre": "Trovus",
+   "nivel": 2,
+   "poderio": [],
+   "roles": [
+    "Adversario",
+    "Apoyo"
+   ],
+   "aspecto_en": "A full-body portrait of an adult silver dragonborn man of unspecified age, stocky and broad-shouldered, with a weathered face and silver scales. He wears a worn scarf and a battered fur-lined coat, often holding an empty bottle. His nostalgic expression and heavy stance suggest a retired adventurer. Cold blue-grey winter light, simple snowy background.",
+   "descripcion": "Portavoz de Caer-Konig, dracónido plateado retirado. Es aliado por defecto y puede convertirse en desafío por su origen de veterano; la fuente no le añade un aliento ofensivo.",
+   "limites": [
     {
-      "slug": "caer-konig-y-trovus",
-      "nombre": "Caer-Konig y el encuentro con Trovus",
-      "ciudad": "caer-konig",
-      "interior": false,
-      "imagen_en": "A wide view of a terraced lakeside village rising like an amphitheatre above frozen Lac Dinneshere. Stone and timber houses crowd the white slope, broken piers jut from the ice, and ruined fortress stones hide under snow beneath Kelvin’s summit. Blue-grey winter light, a dark blue banner with a white ascending fish. No people or creatures; leave the lower third open.",
-      "lectura": "Camináis entre casas que ascienden por la ladera en filas apretadas. Abajo, el hielo aprisiona los muelles y ha retorcido sus tablones; arriba, la nieve apenas deja reconocer las piedras de una fortaleza antigua. Los pocos vecinos que encontráis llevan el rostro hundido en sus bufandas y pasan sin detenerse. Al acercaros a un ventisquero, la nieve se sacude. Una figura se incorpora con una botella vacía en la mano y os exige que os identifiquéis. Cuando baja la bufanda, descubrís unas escamas plateadas. La voz pierde enseguida su amenaza: el desconocido se presenta como Trovus, portavoz de Caer-Konig.",
-      "notas": "Trovus ha vuelto a dormirse durante una patrulla tras beber demasiado y ofrece acompañar a los Héroes a la posada. Explica los robos, que nadie ha visto a los responsables y que la ciudad no puede pagar una investigación; si nadie lo interrumpe, cuenta viejas hazañas. Su herencia dracónica explica su resistencia al frío. El asentamiento nació como campamento de montañeros y sus ruinas recuerdan la fragilidad de cualquier refugio.",
-      "musica": "pueblo",
-      "motivos": ["misterio", "tension"],
-      "efectos": ["viento", "hielo-cruje", "pasos"],
-      "ambiente": "dim",
-      "etiquetas": ["pueblo aislado", "muelles destrozados", "ruinas bajo la nieve", "desconfianza hacia los forasteros"],
-      "figuras": ["trovus"]
+     "nombre": "herido",
+     "valor": 4,
+     "consecuencia": "Queda fuera de combate."
     },
     {
-      "slug": "anzuelo-sedal-y-plomo",
-      "nombre": "Anzuelo, Sedal y Plomo",
-      "ciudad": "caer-konig",
-      "interior": true,
-      "imagen_en": "A wide interior view of an amber-lit tavern with a small table of tiny ale mugs by the door, worn surfaces and frost-veiled windows. Warm interior light contrasts with blue cold outside. Wooden beams and stone fireplace. No people or creatures; leave the lower third open.",
-      "lectura": "Al abrir la puerta, os recibe una bocanada de aire caliente que huele a cerveza. Junto a la entrada hay pequeñas jarras dispuestas sobre una mesa, como una invitación que nadie espera que rechacéis. El rumor del local parece más firme que cualquier promesa de buen tiempo. Por las ventanas empañadas apenas distinguís el blanco de la calle. Aquí el invierno queda reducido, durante unos instantes, al frío que aún lleváis en las manos. Una primera bebida os espera antes de que hayáis decidido dónde sentaros.",
-      "notas": "Glen ofrece una pequeña cerveza gratis: el «anzuelo». Los Héroes pueden conocer la desesperación local y confirmar el robo de las dos cabras. La cerveza procede de los enanos del valle y Jarthra la transporta, un vínculo que permite cuestionar los prejuicios contra ellos. Si se juega un concurso de bebida, excederse produce [ebrio-2], sin convertirlo en una pista obligatoria.",
-      "musica": "taberna",
-      "motivos": ["esperanza"],
-      "efectos": ["taberna-sfx", "hogar", "viento"],
-      "ambiente": "dim",
-      "etiquetas": ["primera cerveza de cortesía", "refugio de los vecinos", "cerveza del valle enano"],
-      "figuras": ["glen-korr"]
-    },
-    {
-      "slug": "expediciones-allendhelor",
-      "nombre": "Expediciones Allendhelor",
-      "ciudad": "caer-konig",
-      "interior": true,
-      "imagen_en": "A wide interior view of a travel outfitter packed with ropes, blankets and expedition gear. A closed wooden shed for two sleds and a snow-protected dog kennel stand beside it. Cold blue light outside, practical worn materials inside. No people or creatures; leave the lower third open.",
-      "lectura": "Encontráis un comercio donde casi todo parece escogido por su capacidad para manteneros con vida. Cuerdas enrolladas, mantas y útiles de viaje ocupan el espacio disponible, lejos de cualquier lujo. A un lado del edificio se levanta una caseta cerrada; desde la perrera cercana os llegan ladridos y el roce de patas sobre la madera. La nieve se acumula contra las paredes exteriores. Mirando hacia la montaña, comprendéis que conseguir equipo aquí puede ser la diferencia entre seguir un rastro y convertiros vosotros mismos en una nueva desaparición.",
-      "notas": "Atenas Veloz dirige el negocio con Jarthra Farzassh. Hay dos trineos y doce perros sanos, seis por trineo. Atenas sale cada vez menos por sus articulaciones doloridas y prefiere recomendar a Jarthra, que conoce bien los alrededores de la Cumbre de Kelvin. Su contratación supone un servicio modesto por jornada, representable mediante [guía contratado: Jarthra] a cambio de provisiones o un favor equivalente. Aquí desaparecieron las 25 perlas talladas.",
-      "musica": "pueblo",
-      "motivos": [],
-      "efectos": ["perros", "pasos", "viento"],
-      "ambiente": "dim",
-      "etiquetas": ["equipo de expedición", "dos trineos disponibles", "doce perros sanos", "experiencia de montaña"],
-      "figuras": ["atenas-veloz", "jarthra-farzassh"]
-    },
-    {
-      "slug": "la-luz-del-norte",
-      "nombre": "La Luz del Norte y las hermanas Shorard",
-      "ciudad": "caer-konig",
-      "interior": true,
-      "imagen_en": "A wide interior view of an inn at the eastern end of a village, with an empty hook above the door. A nearly deserted common room, comfortable chairs and warm kitchen light with steam from hot food. Cold blue outside, warm amber inside. No people or creatures; leave the lower third open.",
-      "lectura": "Sobre la entrada veis un gancho vacío, demasiado visible contra la fachada oscura. Dentro apenas hay huéspedes. Una joven alza la mirada y recibe a Trovus con esa mezcla de cariño y reproche que reserváis a quien vuelve a cometer el mismo error. Lo conduce a una silla y pide algo caliente a la cocina. Poco después aparece otra mujer con un cuenco humeante y una expresión mucho menos indulgente. El olor de la sopa os alcanza mientras la conversación vuelve a la desaparición de la linterna y al silencio imposible de unos ladrones a los que nadie ha visto.",
-      "notas": "Allie atiende y limpia; Cori compra provisiones y cocina. Allie atribuye las huellas a enanos hambrientos del valle, aunque no entiende la ausencia de ruido ni el robo de objetos sin utilidad alimenticia; Cori rechaza esa explicación. Si aceptan investigar, Allie enseña las débiles huellas de atrás. Las hermanas ofrecen comida, camas y cerveza por devolver la linterna; si rechazan, los robos continúan hasta que los duergar abandonan su búsqueda de chardalyn en la localidad.",
-      "musica": "taberna",
-      "motivos": ["misterio", "esperanza"],
-      "efectos": ["hogar", "pasos", "viento"],
-      "ambiente": "dim",
-      "etiquetas": ["gancho sin linterna", "sopa caliente", "hospitalidad a cambio de ayuda", "huellas detrás de la posada"],
-      "figuras": ["allie-shorard", "cori-shorard", "trovus"]
-    },
-    {
-      "slug": "el-rastro-hacia-la-cumbre-de-kelvin",
-      "nombre": "El rastro hacia la Cumbre de Kelvin",
-      "ciudad": "caer-konig",
-      "interior": false,
-      "imagen_en": "A wide view of boot depressions nearly filled with snow behind an inn, then sled runners and huge prints farther on. Wind-scoured foothills, white relief without clear landmarks, dark mountain horizon. Cold blue-grey winter light. No people or creatures; leave the lower third open.",
-      "lectura": "Tras la posada, las huellas parecen pequeños hundimientos en una superficie que el viento intenta alisar. Os inclináis sobre ellas y seguís su dirección hacia la montaña, pero cada paso hace más difícil distinguirlas de cualquier irregularidad del terreno. Más allá de las últimas construcciones, el pueblo deja de protegeros del aire. La nieve corre a ras de suelo y se os engancha al abrigo. Frente a vosotros se extiende un paisaje donde una pisada puede desaparecer en minutos y donde incluso una marcha corta exige saber con claridad hacia dónde queréis regresar.",
-      "notas": "El rastro viejo desaparece a unos quince metros de la posada; a la mañana siguiente aparecen huellas frescas de un único explorador duergar. A unos 400 metros del pueblo terminan junto a pisadas de ogro y surcos de trineo. Una acción de rastreo con [conocimiento de gigantes], [rastreador] o similares identifica las pisadas y crea [rastro de ogro identificado]; un fallo deja [origen incierto] y consume tiempo. Cada hora de búsqueda requiere orientación de la Compañía: éxito, [puesto localizado]; fallo, una hora perdida y avance del desafío ambiental. Jarthra aporta su conocimiento local.",
-      "musica": "camino",
-      "motivos": ["misterio", "tension"],
-      "efectos": ["viento", "pasos"],
-      "ambiente": "dim",
-      "etiquetas": ["rastro medio borrado", "huellas de botas enanas", "surcos de trineo", "viento sin refugio"],
-      "figuras": ["estribaciones-barridas-invierno", "jarthra-farzassh"]
-    },
-    {
-      "slug": "aproximacion-al-puesto-avanzado",
-      "nombre": "Aproximación al puesto avanzado",
-      "ciudad": "caer-konig",
-      "interior": false,
-      "imagen_en": "A wide view of an austere fortress excavated into a crescent-shaped slope. Double stone doors, a clear snowy incline, an independent bunker with loopholes and barred openings to the north. Frozen stream bed and grated culvert to the northeast. No people or creatures; leave the lower third open.",
-      "lectura": "La nieve termina revelando unas líneas demasiado rectas para pertenecer a la montaña. Una construcción de piedra sobresale de la ladera; el resto parece hundirse en ella. Dos grandes hojas de piedra cierran la entrada, precedida por una pendiente blanca sin abrigo. Separado del edificio principal, un búnker cubierto de nieve ofrece aspilleras hacia el acceso. También distinguís aberturas enrejadas en la pared norte y el cauce inmóvil de un arroyo que desaparece bajo la fortaleza. Todo el conjunto parece pensado para observar el exterior sin ofreceros una buena vista de lo que guarda dentro.",
-      "notas": "Brojk vigila desde O1 y Urthhild desde O3; están aburridos y cansados, pero las luces o una aproximación evidente los alertan. Urthhild da la alarma y corre a O2; necesita dos momentos de acción para levantar el puente, de modo que los Héroes pueden interrumpirla. Una aproximación sigilosa pegada al acantilado norte, detrás del búnker y bajo las ventanas, permite alcanzar el cauce sin ser detectados: éxito, [fuera de la vista de los centinelas]; fallo, [alarma en el puesto]. El puesto sirve para abastecer y dar descanso a las partidas de búsqueda de chardalyn.",
-      "musica": "camino",
-      "motivos": ["sigilo", "amenaza"],
-      "efectos": ["viento", "pasos", "hielo-cruje"],
-      "ambiente": "dim",
-      "etiquetas": ["pendiente expuesta", "aspilleras dominantes", "cauce congelado", "acantilado norte protector"],
-      "figuras": ["duergar-del-puesto"]
-    },
-    {
-      "slug": "o1-bunker",
-      "nombre": "O1. Búnker",
-      "ciudad": "caer-konig",
-      "interior": true,
-      "imagen_en": "A wide view of a carved rock block about four and a half metres tall, with rough edges and narrow loopholes. Dark functional interior with a stairway descending into a tunnel. Cold stone and iron fittings. No people or creatures; leave the lower third open.",
-      "lectura": "De cerca, el búnker parece una sola roca a la que hubieran arrancado todo lo que sobraba. Las aspilleras cortan sus paredes como heridas rectas y dejan muy poco espacio para mirar hacia dentro. La piedra no ofrece decoración alguna. Si conseguís acceder, os recibe una oscuridad fría y un hueco que desciende hacia el subsuelo. El silencio de esa salida resulta tan inquietante como las aberturas que dominan la nieve: este lugar tiene una comunicación con la fortaleza que desde fuera no podíais ver.",
-      "notas": "Brojk lleva una ballesta pesada además de sus armas habituales y ataca a cualquier amenaza visible; puede incorporarse a la defensa de O2 y liberar al ogro. El túnel está a unos seis metros bajo tierra, tiene metro y medio de altura y una escalera de seis metros en cada extremo; su salida norte está en O4. Permite acceder a la armería y moverse entre ambas defensas, pero obliga a avanzar agachados.",
-      "musica": "mina",
-      "motivos": ["sigilo", "tension"],
-      "efectos": ["viento", "pasos"],
-      "ambiente": "dark",
-      "etiquetas": ["cobertura de aspilleras", "sin iluminación", "túnel bajo tierra", "paso agachado"],
-      "figuras": ["duergar-del-puesto"]
-    },
-    {
-      "slug": "o2-alcazar-principal",
-      "nombre": "O2. Alcázar principal",
-      "ciudad": "caer-konig",
-      "interior": true,
-      "imagen_en": "A wide interior view of heavy stone doors and a nine-metre deep pit. A wooden drawbridge about six metres across, chains and pulleys, a bare room with a frozen well, three iron cages and a sled still gripping ice. No people or creatures; leave the lower third open.",
-      "lectura": "Las hojas de piedra dejan paso a un vacío que corta la entrada. Un puente de madera cruza el foso, sujeto a cadenas que se pierden hacia su mecanismo. Más allá distinguís una sala desnuda, un pozo y tres jaulas alineadas contra una pared. De una de ellas llega un olor agrio, seguido de un aullido. En la oscuridad se mueve una figura enorme, con carne semicongelada y una cuenca ocular vacía. Cerca, dos cabras se agitan tras otros barrotes. Junto a la pared descansa un trineo al que todavía se aferra el hielo del último viaje.",
-      "notas": "Las puertas exteriores no están cerradas con llave. Brojk y Urthhild, si siguen disponibles, liberan al ogro zombi para luchar; encerrado no puede dañar a nadie, libre obedece a los duergar. Estos se repliegan hacia O5 cuando estén claramente heridos —orientativamente [herido-2]— y dejan al ogro cubriendo su retirada. Una jaula está vacía; las cabras robadas iban a servir de comida. El pozo baja unos tres metros hasta una cisterna. El foso y el puente se resuelven con su desafío específico.",
-      "musica": "mina",
-      "motivos": ["horror", "tension", "amenaza"],
-      "efectos": ["pasos", "hielo-cruje", "puerta"],
-      "ambiente": "dark",
-      "etiquetas": ["foso tras la entrada", "puente levadizo", "jaulas de hierro", "paredes del pozo heladas", "oscuridad interior"],
-      "figuras": ["ogro-zombi-de-tiro", "duergar-del-puesto", "foso-puente-levadizo"]
-    },
-    {
-      "slug": "o3-atalaya",
-      "nombre": "O3. Atalaya",
-      "ciudad": "caer-konig",
-      "interior": true,
-      "imagen_en": "A wide interior view of a large almost empty room with snow in the corners, frost on stone and three rectangular barred windows one and a half metres tall. Wind moves between the bars. No people or creatures; leave the lower third open.",
-      "lectura": "Al entrar sentís una corriente que atraviesa toda la habitación. La nieve ha encontrado camino hasta las esquinas y la escarcha reviste las paredes con una costra pálida. Tres aberturas enrejadas ofrecen una vista limpia de la pendiente exterior. Desde aquí, cualquier luz que os hubiese acompañado habría destacado contra la nieve. Los barrotes dejan entrar el viento, pero el espacio entre ellos es demasiado estrecho para pasar. Fuera queda el terreno abierto; dentro, una estancia sin comodidad alguna y una salida hacia el corazón del puesto.",
-      "notas": "Urthhild permanece aquí dando pisotones para combatir el frío, salvo que haya acudido a levantar el puente o a defender O2. Doblar los barrotes requiere fuerza extraordinaria, herramientas o una etiqueta apropiada; éxito, [hueco para una persona pequeña], que aún debe pasar con dificultad; fallo, [ruido de metal] y alerta si quedan enemigos capaces de oírlo. No es una abertura suficiente para cualquier Héroe por defecto.",
-      "musica": "mina",
-      "motivos": ["sigilo", "tension"],
-      "efectos": ["viento", "pasos"],
-      "ambiente": "dim",
-      "etiquetas": ["vista despejada de la ladera", "ventanas enrejadas", "corriente helada", "escarcha en las paredes"],
-      "figuras": ["duergar-del-puesto"]
-    },
-    {
-      "slug": "o4-armeria",
-      "nombre": "O4. Armería",
-      "ciudad": "caer-konig",
-      "interior": true,
-      "imagen_en": "A wide view of a dim room with piles of equipment against the walls. An open hatch at the south end, darkness beneath its frame, dull metal stacked with ropes and utensils. Worn stone floor and cold air. No people or creatures; leave the lower third open.",
-      "lectura": "Vuestra luz revela una habitación donde el equipo ocupa los bordes y deja libre el centro. El metal devuelve reflejos apagados; las cuerdas y los utensilios se amontonan con la misma falta de ceremonia que todo lo demás en esta fortaleza. En el extremo sur hay una escotilla abierta. Os acercáis y veis una escalera que baja hacia una franja de oscuridad más estrecha. El aire que sube de allí huele a tierra fría y piedra, y cualquier pequeño ruido parece viajar con demasiada facilidad por el hueco.",
-      "notas": "Contiene dos cotas de escamas de talla enana, dos escudos de acero, tres picos de guerra, nueve jabalinas, dos equipos de escalada y cuatro equipos de cocina. Se convierten en etiquetas de mochila según su uso y talla. La escalera baja seis metros al túnel de metro y medio de altura que comunica con O1. Saquear sin precaución puede advertir a los defensores, pero encontrar el equipo no necesita una acción incierta si hay tiempo para mirar.",
-      "musica": "mina",
-      "motivos": ["misterio"],
-      "efectos": ["pasos"],
-      "ambiente": "dark",
-      "etiquetas": ["equipo militar enano", "escotilla abierta", "ruta al búnker", "sin iluminación"],
-      "figuras": []
-    },
-    {
-      "slug": "o5-cuello-de-botella",
-      "nombre": "O5. Cuello de Botella",
-      "ciudad": "caer-konig",
-      "interior": true,
-      "imagen_en": "A wide view of a stone inner passage with facing doors and a lever mechanism. Iron slots in floor and ceiling; the western sector can be separated by grates. Cold dark stone and worn metal. No people or creatures; leave the lower third open.",
-      "lectura": "El paso os obliga a medir cómo avanzáis y cuánto espacio dejáis entre vosotros. La piedra desnuda devuelve cualquier roce de vuestro equipo. Cerca de las puertas, el suelo y el techo presentan líneas estrechas que interrumpen su superficie. Una palanca destaca contra el muro, con el metal gastado allí donde lo sujetan las manos. Al otro lado continúa la fortaleza, pero algo en la disposición del lugar os hace pensar en una mandíbula abierta: podéis cruzarla, aunque quizá alguien esté esperando el momento de cerrarla.",
-      "notas": "Nildar investiga cualquier ruido fuerte aquí y, una vez alertado, espera junto a la palanca hasta que pueda aislar a un intruso en la parte occidental. Accionarla hace salir barras desde suelo y techo en las puertas. Quien esté en el umbral puede apartarse con agilidad o quedar [atravesado-2] e [inmovilizado-3]. Solo otra activación de la palanca retrae las barras; romperlas también abre paso. Detectar el mecanismo mediante observación o conocimiento de trampas crea [trampa identificada].",
-      "musica": "mina",
-      "motivos": ["tension", "amenaza"],
-      "efectos": ["pasos"],
-      "ambiente": "dark",
-      "etiquetas": ["palanca de las rejas", "ranuras en suelo y techo", "paso que divide al grupo", "cobertura tras los barrotes"],
-      "figuras": ["nildar-solmarchito", "trampa-cuello-botella"]
-    },
-    {
-      "slug": "o6-aposentos-del-comandante",
-      "nombre": "O6. Aposentos del comandante",
-      "ciudad": "caer-konig",
-      "interior": true,
-      "imagen_en": "A wide view of a stone bed and desk. Dark fragments and coloured glass on the table, crumpled charcoal-written paper, and a burlap sack filtering blue, green and red light. Cold stone room and shifting colours. No people or creatures; leave the lower third open.",
-      "lectura": "En esta habitación, incluso la cama parece pertenecer a la montaña. El escritorio de piedra está ocupado por fragmentos de cristal y una hoja arrugada. Un saco cubre algo que ilumina la tela desde dentro: primero azul, después verde y finalmente rojo. Los colores se derraman débiles sobre la mesa y alteran el aspecto de las piezas oscuras. La habitación conserva la misma dureza del resto del puesto, pero esa luz cambiante tiene algo familiar, como si un pequeño pedazo de la vida de Caer-Konig hubiese terminado aquí por equivocación.",
-      "notas": "Si los Héroes han superado O5 sin combate, sorprenden a Nildar estudiando los fragmentos; ataca al verlos. La linterna robada está bajo el saco. La carta de Durth, en runas enanas, señala el ferry congelado de Puerto Este. Hay vidrio teñido corriente y tres fragmentos de chardalyn del tamaño de dagas; son seguros de manipular y solo revelan su maleabilidad. Registrando la cama aparece una bolsa de recursos de Nildar. Capturado, amenaza en enano con el poder de su padre y una destrucción alada sobre Diez Ciudades.",
-      "musica": "mina",
-      "motivos": ["misterio", "tension"],
-      "efectos": ["pasos"],
-      "ambiente": "dim",
-      "etiquetas": ["luz azul verde y roja", "fragmentos sobre el escritorio", "carta en runas enanas", "mobiliario de piedra"],
-      "figuras": ["nildar-solmarchito"]
-    },
-    {
-      "slug": "o7-sirvientes-de-las-esporas",
-      "nombre": "O7. Sirvientes de las esporas",
-      "ciudad": "caer-konig",
-      "interior": true,
-      "imagen_en": "A wide view of a cell block with stone doors and small barred peepholes at a dwarf’s eye height. Three cells to the west and five to the south. A barred window to the northeast with snow and wind entering. No people or creatures; leave the lower third open.",
-      "lectura": "El pasillo está flanqueado por puertas de piedra con pequeñas ventanas demasiado bajas para mirar cómodamente. En la esquina noreste, otra abertura enrejada deja entrar el viento y una lengua de nieve. El olor aquí es distinto: humedad, encierro y materia que ha empezado a pudrirse. Tras las puertas del sur percibís movimientos lentos. Cuando distinguís las siluetas, veis cuerpos humanos cubiertos de crecimientos extraños. Sus gestos carecen de la urgencia de quien espera ser rescatado. Las puertas empiezan a abrirse y comprendéis que la vida que buscáis ya no está detrás de ellas.",
-      "notas": "Las tres celdas occidentales están vacías. En cada una de las cinco del sur hay un cadáver humano animado, antes habitante de Diez Ciudades o nómada reghed, secuestrado y asesinado por los duergar mediante esporas de un soberano micónido. Salen y atacan a los intrusos; se resuelven como una sola manada. No hay un soberano micónido presente. Investigar los cuerpos permite establecer [víctimas convertidas en sirvientes], pero la fuente no da nombres ni pistas familiares concretas.",
-      "musica": "noche",
-      "motivos": ["horror", "amenaza"],
-      "efectos": ["pasos", "viento"],
-      "ambiente": "dark",
-      "etiquetas": ["cinco celdas ocupadas", "tres celdas vacías", "crecimientos fúngicos", "ventana abierta al invierno"],
-      "figuras": ["manada-sirvientes-esporas"]
-    },
-    {
-      "slug": "o8-aposentos-de-los-duergar",
-      "nombre": "O8. Aposentos de los duergar",
-      "ciudad": "caer-konig",
-      "interior": true,
-      "imagen_en": "A wide view of two austere northern rooms with beds, boxes and provision sacks. Combat gear within reach, no permanent lighting. Coarse cloth, dark steel and cold stone. Faint breathing in the dark. No people or creatures; leave the lower third open.",
-      "lectura": "Las habitaciones del norte contienen lo poco que sus ocupantes necesitan para seguir utilizando el puesto. Entre cajas y sacos distinguís mantas, bultos de provisiones y cuerda. El aire parece inmóvil después de las corrientes de otras salas. Un leve sonido de respiración rompe el silencio. Cerca de los lechos, el metal está dispuesto para que unas manos puedan encontrarlo sin buscar a oscuras. Si queréis pasar sin despertar a nadie, cada paso importa; incluso un saco mal apartado podría anunciar que habéis llegado hasta este rincón de la fortaleza.",
-      "notas": "Ruvik y Skorn duermen, cada uno en una habitación, con la armadura puesta y las armas y escudos cerca. Una acción silenciosa permite [durmientes inadvertidos]; el ruido los despierta y atacan. No añadas otros duergar: son dos de los cinco ocupantes originales del puesto. Hay mantas, raciones, cuerda de cáñamo y equipo básico. Un saquito contiene las 25 perlas talladas robadas. Otro guarda tres dagas, herramientas de talla de madera, aparejos de pesca y una bolsa de cuero con una poción de curación y recursos de viaje.",
-      "musica": "mina",
-      "motivos": ["sigilo", "tension"],
-      "efectos": ["pasos"],
-      "ambiente": "dark",
-      "etiquetas": ["dormidos con la armadura puesta", "armas al alcance", "provisiones almacenadas", "bienes robados"],
-      "figuras": ["duergar-del-puesto"]
-    },
-    {
-      "slug": "regreso-a-la-luz-del-norte",
-      "nombre": "Regreso a La Luz del Norte",
-      "ciudad": "caer-konig",
-      "interior": true,
-      "imagen_en": "A wide view of a warm inn with an upholstered armchair by the common area and prepared rooms. Above the door, the empty hook or the recovered lantern projecting colours onto the snow. No people or creatures; leave the lower third open.",
-      "lectura": "Cuando volvéis a la posada, el calor os alcanza antes de que terminéis de cerrar la puerta. Encontráis a Trovus vencido por el sueño en un sillón, mientras el trabajo cotidiano continúa a su alrededor. Hay una mesa que puede recibiros, un lugar donde dejar el equipo y habitaciones preparadas para apartaros del frío. La noticia de lo que habéis visto pesa más que cualquier bulto que traigáis. Durante un momento, sin embargo, podéis deteneros: habéis regresado de la montaña y todavía hay quienes os esperan al otro lado del invierno.",
-      "notas": "Allie desconoce a los duergar y se alarma al saber que se vuelven invisibles y crecen hasta el tamaño de un ogro. Ha preparado habitaciones incluso si no recuperan la linterna. Si la devuelven, añade unas jarras de cerveza. Ayuda a restituir los demás bienes a sus dueños. Esta pausa puede servir como descanso en el campamento para la Compañía según sus reglas y las condiciones de la ficción.",
-      "musica": "taberna",
-      "motivos": ["esperanza", "misterio"],
-      "efectos": ["hogar", "taberna-sfx", "viento"],
-      "ambiente": "dim",
-      "etiquetas": ["habitaciones preparadas", "hospitalidad de las Shorard", "bienes devueltos", "noticias inquietantes"],
-      "figuras": ["allie-shorard", "cori-shorard", "trovus"]
+     "nombre": "desarmado",
+     "valor": 3,
+     "consecuencia": "Pierde su arma o equipo característico."
     }
-  ],
-  "pnj": [
+   ],
+   "etiquetas": [
+    "veterano de aventuras",
+    "fuerza dracónica",
+    "resiste el frío",
+    "borracho habitual"
+   ],
+   "rasgos": [],
+   "amenazas": [
     {
-      "slug": "trovus",
-      "nombre": "Trovus",
-      "papel": "Portavoz, aventurero retirado y primer contacto",
-      "ciudad": "caer-konig",
-      "aspecto_en": "A full-body portrait of an adult silver dragonborn man of unspecified age, stocky and broad-shouldered, with a weathered face and silver scales. He wears a worn scarf and a battered fur-lined coat, often holding an empty bottle. His nostalgic expression and heavy stance suggest a retired adventurer. Cold blue-grey winter light, simple snowy background.",
-      "presentacion": "Ante vosotros se incorpora una figura con una botella vacía en la mano. Cuando baja la bufanda, descubrís unas escamas plateadas. El dracónido os exige que os identifiquéis, pero su voz pierde enseguida la amenaza. Se presenta como Trovus, portavoz de Caer-Konig, y os ofrece acompañaros a la posada mientras huele a cerveza y frío.",
-      "caracter": "Afable, directo, nostálgico y dado a discursos entre hipos; mal político, buen compañero de historias.",
-      "quiere": "Proteger el pueblo y recuperar la eficacia de sus días de aventuras, aunque la bebida frustra sus patrullas.",
-      "sabe": "Qué se ha robado, que nadie ha visto a los responsables y que la ciudad no puede pagar. No conoce la identidad de los duergar.",
-      "desafio": "trovus"
+     "nombre": "Golpe impulsivo",
+     "descripcion": "Golpea sin calcular la fuerza.",
+     "consecuencias": [
+      "Inflige [magullado-2]"
+     ]
     },
     {
-      "slug": "glen-korr",
-      "nombre": "Eglendar «Glen» Korr",
-      "papel": "Dueño de Anzuelo, Sedal y Plomo, semielfo bondadoso",
-      "ciudad": "caer-konig",
-      "aspecto_en": "A full-body portrait of a middle-aged half-elf man of unspecified age, medium build, with pointed ears visible under a thick vest and work sleeves. Warm apron, welcoming stance, ale-stained hands and a friendly smile. Amber tavern light, simple wooden background.",
-      "presentacion": "Ante vosotros distinguis un semielfo adulto de complexión media, orejas apuntadas, chaleco grueso y mangas de trabajo. Os recibe con una pequeña cerveza gratis, la «anzuelo», antes de que hayáis decidido dónde sentaros, y os invita a quedaros un rato. Su negocio depende de que siga llegando cerveza del valle.",
-      "caracter": "Acogedor, conversación fácil y buen instinto comercial.",
-      "quiere": "Que los visitantes se queden tras la primera cerveza y que siga llegando bebida del valle.",
-      "sabe": "Que le han robado dos cabras y que Jarthra trae la cerveza de los enanos.",
-      "desafio": null
-    },
-    {
-      "slug": "atenas-veloz",
-      "nombre": "Atenas Veloz",
-      "papel": "Explorador humano experimentado, dueño de Expediciones Allendhelor",
-      "ciudad": "caer-konig",
-      "aspecto_en": "A full-body portrait of an elderly human man with a weathered face, careful hands and travel clothing kept ready for the road. Stiff joints, warm layers, practical boots and a cautious smile. Grey winter light, simple shop background with ropes and blankets.",
-      "presentacion": "Ante vosotros distinguis un humano de edad avanzada, rostro curtido, manos cuidadosas y ropa de viaje conservada para salir cuando haga falta. Os recibe entre cuerdas y mantas, con humor competitivo hacia Jarthra, y os explica qué equipo hace falta para viajar. Sus articulaciones resentidas le hacen preferir quedarse al abrigo, pero conoce bien el valor de un buen guía.",
-      "caracter": "Práctico, con humor competitivo hacia Jarthra; habla desde la experiencia.",
-      "quiere": "Mantener el negocio y permanecer al abrigo más que antes.",
-      "sabe": "Equipo necesario para viajar, disponibilidad de perros y trineos, valor de Jarthra como guía y desaparición de las perlas.",
-      "desafio": null
-    },
-    {
-      "slug": "jarthra-farzassh",
-      "nombre": "Jarthra Farzassh",
-      "papel": "Enano escudo, guía de montaña y transportista de cerveza",
-      "ciudad": "caer-konig",
-      "aspecto_en": "A full-body portrait of a sturdy adult shield dwarf with a beard protected by a scarf, mountain boots and a tough coat. Robust build, practical gear, confident stance, a competitive grin and a weathered face. Cold blue-grey light, simple snowy background.",
-      "presentacion": "Ante vosotros distinguis un enano escudo adulto y robusto, barba protegida con bufanda, botas de montaña y abrigo resistente. Os ofrece sus servicios con seguridad y bromas competitivas, y conoce especialmente bien los alrededores de la Cumbre de Kelvin. Su experiencia en la montaña os puede librar de perderos en la ventisca.",
-      "caracter": "Seguro, práctico y dado a bromas competitivas con Atenas.",
-      "quiere": "Cumplir sus trabajos y conducir a sus clientes con seguridad.",
-      "sabe": "Cómo orientarse en torno a la Cumbre de Kelvin y cómo llegar a los enanos que suministran cerveza; no conoce automáticamente el puesto secreto.",
-      "desafio": null
-    },
-    {
-      "slug": "allie-shorard",
-      "nombre": "Allie Shorard",
-      "papel": "Hermana menor, recibe huéspedes y limpia La Luz del Norte; humana bondadosa",
-      "ciudad": "caer-konig",
-      "aspecto_en": "A full-body portrait of a young human woman of light build, wearing wool clothing and a work apron. Sweet expression, practical hands, warm tavern light behind her, with a gentle reproachful smile and a tidy braid. Simple wooden interior background.",
-      "presentacion": "Ante vosotros distinguis una joven de complexión ligera, ropa de lana y delantal de trabajo. Os recibe con esa mezcla de cariño y reproche que se reserva a quien vuelve a cometer el mismo error, y conduce a Trovus a una silla mientras pide algo caliente a la cocina. Conoce dónde empiezan las huellas.",
-      "caracter": "Dulce, encantadora, reprende a Trovus con familiaridad.",
-      "quiere": "Recuperar la linterna, atender a sus huéspedes y comprender los robos.",
-      "sabe": "Dónde empiezan las huellas y qué han perdido; sospecha equivocadamente de los enanos del valle. Desconoce a los duergar.",
-      "desafio": null
-    },
-    {
-      "slug": "cori-shorard",
-      "nombre": "Cori Shorard",
-      "papel": "Hermana mayor, compra provisiones y cocina; humana bondadosa",
-      "ciudad": "caer-konig",
-      "aspecto_en": "A full-body portrait of a robust older human woman in wool clothing and a thick apron, strong working hands, serious expression. Warm kitchen light, simple tavern background, with a stern no-nonsense posture and a wooden spoon. Heavy winter shawl. A heavy winter apron.",
-      "presentacion": "Ante vosotros distinguis una mujer robusta, mayor que Allie, con prendas de lana, delantal grueso y manos de trabajo. Aparece con un cuenco humeante y una expresión mucho menos indulgente, y os deja claro que la linterna solo proporciona luz de colores. No cree en la hipótesis de los enanos hambrientos.",
-      "caracter": "Seria, tajante y escéptica; ha dejado de hablar a Trovus por no resolver los robos.",
-      "quiere": "Proteger la posada y una explicación coherente.",
-      "sabe": "Que la linterna solo proporciona luz de colores y que la hipótesis de los enanos hambrientos no explica su desaparición.",
-      "desafio": null
-    },
-    {
-      "slug": "nildar-solmarchito",
-      "nombre": "Nildar Solmarchito",
-      "papel": "Hijo menor de Xardorok, comandante del puesto y antagonista",
-      "ciudad": "caer-konig",
-      "aspecto_en": "A full-body portrait of an adult duergar man, short and stocky, grey skin, functional armour, eyes absorbed by crystal fragments. Cruel fanatical expression, dark underground light, with a despising gaze and a rigid stance. Heavy boots and dark cloak. Dark leather armour.",
-      "presentacion": "Ante vosotros distinguis un duergar adulto, bajo y recio, piel gris, armadura funcional y mirada absorbida por los cristales. Estudia los fragmentos con desprecio y ataca al veros, amenazando en enano con la gloria de su padre. Su fanatismo por Xardorok lo hace impredecible y peligroso en combate. No se deja capturar fácilmente.",
-      "caracter": "Cruel, fanático y despreciativo; amenaza en enano con la gloria de su padre.",
-      "quiere": "Complacer a Xardorok y reunir chardalyn; comparte su obsesión por el material.",
-      "sabe": "La búsqueda, la fortaleza paterna, el proyecto del dragón y el futuro ataque al valle enano; guarda la carta que sitúa a Durth en Puerto Este.",
-      "desafio": "nildar-solmarchito"
-    },
-    {
-      "slug": "duergar-del-puesto",
-      "nombre": "Brojk, Urthhild, Ruvik y Skorn",
-      "papel": "Cuatro duergar subordinados a Nildar; centinelas y defensores del puesto",
-      "ciudad": "caer-konig",
-      "aspecto_en": "A full-body group portrait of four adult duergar with grey skin, stocky builds, austere armour and cloaks. One carries a heavy crossbow. Hostile disciplined expressions, cold stone background, with tired sentinel postures and watchful eyes. Dark iron weapons and shields.",
-      "presentacion": "Ante vosotros distinguis cuatro duergar adultos de piel gris, cuerpos recios, armaduras y capas austeras; Brojk porta ballesta pesada. Están hostiles y disciplinados, cansados y aburridos, y protegen el puesto con disciplina. No negocian ni se rinden voluntariamente, aunque pueden ser capturados e interrogados. Brojk vigila desde el búnker ahora.",
-      "caracter": "Hostiles y disciplinados; centinelas cansados y aburridos.",
-      "quiere": "Proteger el puesto y continuar las incursiones.",
-      "sabe": "Quién manda, para quién buscan chardalyn, el dragón en construcción y la futura ofensiva contra las minas del Valle de los Enanos.",
-      "desafio": "banda-defensora-duergar"
-    },
-    {
-      "slug": "durth",
-      "nombre": "Durth Solmarchito",
-      "papel": "Hermano mayor de Nildar, contacto ausente que opera desde el ferry de Puerto Este",
-      "ciudad": "otro",
-      "aspecto_en": "A full-body portrait suggestion of an adult duergar man; this section fixes no traits, age or equipment. Neutral grey skin, austere armour, stern expression, cold mountain light, plain background, with an air of secrecy. Dark cloak and boots. No visible heraldry.",
-      "presentacion": "Durth no aparece en esta sección; solo se le conoce por su carta en runas enanas encontrada en el puesto, que lo sitúa en el ferry congelado de Puerto Este. Su lealtad a su padre Xardorok queda clara en el documento y su paradero es una pista clave para la campaña.",
-      "caracter": "Leal a su padre Xardorok.",
-      "quiere": "Prospectar chardalyn desde el ferry congelado de Puerto Este.",
-      "sabe": "La base en el ferry y la continuación de la búsqueda.",
-      "desafio": null
-    },
-    {
-      "slug": "xardorok-solmarchito",
-      "nombre": "Xardorok Solmarchito",
-      "papel": "Padre de Nildar y Durth, señor de la fortaleza montañosa; amenaza ausente",
-      "ciudad": "otro",
-      "aspecto_en": "A full-body portrait suggestion of an adult duergar warlord; this section fixes no traits, age or equipment. Grey skin, imposing armour, obsessive gaze, cold dark light, plain background, with a commanding presence. Heavy plate and dark mantle. No fixed traits in this section.",
-      "presentacion": "Xardorok no aparece en esta sección; se le menciona como el señor que reúne chardalyn para construir un dragón y amenazar a las Diez Ciudades. Su obsesión por el material define la amenaza futura y su nombre inspira fanatismo en sus hijos y seguidores. Su fortaleza es la Columna del Mundo.",
-      "caracter": "Obsesionado con el chardalyn.",
-      "quiere": "Construir un dragón de chardalyn y destruir Diez Ciudades.",
-      "sabe": "Los planes de la fortaleza y el proyecto del dragón.",
-      "desafio": null
+     "nombre": "Forcejeo para inmovilizar",
+     "descripcion": "Agarra e inmoviliza al oponente.",
+     "consecuencias": [
+      "Inflige [sujeto-2]"
+     ]
     }
-  ],
-  "desafios": [
+   ],
+   "secretos": [
     {
-      "slug": "trovus",
-      "nombre": "Trovus",
-      "nivel": 2,
-      "poderio": [],
-      "roles": ["Adversario", "Apoyo"],
-      "aspecto_en": "A full-body portrait of an adult silver dragonborn man of unspecified age, stocky and broad-shouldered, with a weathered face and silver scales. He wears a worn scarf and a battered fur-lined coat, often holding an empty bottle. His nostalgic expression and heavy stance suggest a retired adventurer. Cold blue-grey winter light, simple snowy background.",
-      "descripcion": "Portavoz de Caer-Konig, dracónido plateado retirado. Es aliado por defecto y puede convertirse en desafío por su origen de veterano; la fuente no le añade un aliento ofensivo.",
-      "limites": [
-        {"nombre": "herido", "valor": 4, "consecuencia": "Queda fuera de combate."},
-        {"nombre": "desarmado", "valor": 3, "consecuencia": "Pierde su arma o equipo característico."}
-      ],
-      "etiquetas": ["veterano de aventuras", "fuerza dracónica", "resiste el frío", "borracho habitual"],
-      "rasgos": [],
-      "amenazas": [
-        {"nombre": "Golpe impulsivo", "descripcion": "Golpea sin calcular la fuerza.", "consecuencias": ["Inflige [magullado-2]"]},
-        {"nombre": "Forcejeo para inmovilizar", "descripcion": "Agarra e inmoviliza al oponente.", "consecuencias": ["Inflige [sujeto-2]"]}
-      ],
-      "secretos": [{"nombre": "Aliado por defecto", "descripcion": "Es aliado por defecto; su estado posible es [ebrio-2] si excede la bebida. No tiene aliento ofensivo desarrollado por la fuente."}]
-    },
-    {
-      "slug": "banda-defensora-duergar",
-      "nombre": "Banda defensora duergar",
-      "nivel": 1,
-      "poderio": [],
-      "roles": ["Adversario", "Apoyo"],
-      "aspecto_en": "A full-body group portrait of four adult duergar with grey skin, stocky builds, austere armour and cloaks. One carries a heavy crossbow. Hostile disciplined expressions, cold stone background, with tired sentinel postures and watchful eyes. Dark iron weapons and shields.",
-      "descripcion": "Cuatro duergar del puesto, de los cinco totales; el quinto, Nildar, tiene ficha propia. Brojk añade ballesta pesada. Cada duergar corresponde al tramo de dificultad inicial de la conversión.",
-      "limites": [
-        {"nombre": "herido", "valor": 4, "consecuencia": "Queda fuera de combate."},
-        {"nombre": "capturado", "valor": 4, "consecuencia": "Queda capturado e interrogable."}
-      ],
-      "etiquetas": ["invisibilidad", "agrandamiento", "visión en la oscuridad", "armaduras y escudos", "defensa coordinada", "ballesta de Brojk", "dormidos-2"],
-      "rasgos": [],
-      "amenazas": [
-        {"nombre": "Agrandarse y cerrar el paso", "descripcion": "Se agranda y cierra el paso al intruso.", "consecuencias": ["Crea [duergar de tamaño ogro]", "Inflige [golpeado-3]"]},
-        {"nombre": "Disparar desde cobertura o atacar en grupo", "descripcion": "Dispara desde cobertura o ataca en grupo.", "consecuencias": ["Inflige [herido-2]", "Aplica [avance detenido-2]"]},
-        {"nombre": "Pedir ayuda y desaparecer", "descripcion": "Pide ayuda y desaparece al verse aislado.", "consecuencias": ["Crea [refuerzos alertados]", "Crea [posición del enemigo desconocida]"]},
-        {"nombre": "Liberar al ogro y replegarse", "descripcion": "Libera al ogro y se repliega al quedar heridos.", "consecuencias": ["Elimina [ogro encerrado]", "Crea [retirada hacia O5]"]}
-      ],
-      "secretos": [{"nombre": "Debilidades y secretos", "descripcion": "Antes del combate procuran agrandarse. La invisibilidad no elimina sus pisadas ni el ruido que hagan. No aceptan pactos ni se rinden voluntariamente. Una acción de intimidación contra un cautivo puede alcanzar el límite convencido 3 para obtener información: éxito, [testimonio sobre Xardorok]; fallo, [prisionero desafiante]. Revelan el mando de Nildar, el dragón que Xardorok forja en su fortaleza de montaña y el uso previsto del puesto como base contra las minas del Valle de los Enanos una vez destruida Diez Ciudades."}]
-    },
-    {
-      "slug": "nildar-solmarchito",
-      "nombre": "Nildar Solmarchito",
-      "nivel": 1,
-      "poderio": [],
-      "roles": ["Adversario", "Controlador"],
-      "aspecto_en": "A full-body portrait of an adult duergar man, short and stocky, grey skin, functional armour, eyes absorbed by crystal fragments. Cruel fanatical expression, dark underground light, with a despising gaze and a rigid stance. Heavy boots and dark cloak. Dark leather armour.",
-      "descripcion": "Duergar, comandante del puesto y antagonista. Sin mejoras de criatura indicadas por la fuente.",
-      "limites": [
-        {"nombre": "herido", "valor": 3, "consecuencia": "Queda fuera de combate."},
-        {"nombre": "capturado", "valor": 3, "consecuencia": "Queda capturado."},
-        {"nombre": "convencido", "valor": 3, "consecuencia": "Responde al interrogatorio."}
-      ],
-      "etiquetas": ["invisibilidad", "agrandamiento", "visión en la oscuridad", "armadura enana", "conoce el puesto", "fanatismo por Xardorok"],
-      "rasgos": [],
-      "amenazas": [
-        {"nombre": "Aguardar junto a la palanca de O5", "descripcion": "Aguarda junto a la palanca y activa el Cuello de Botella.", "consecuencias": ["Activa «Cuello de Botella»", "Crea [Compañía dividida]"]},
-        {"nombre": "Agrandarse y atacar", "descripcion": "Se agranda y ataca al intruso cercano.", "consecuencias": ["Crea [tamaño de ogro]", "Inflige [herido-3]"]},
-        {"nombre": "Pedir refuerzos y ocultarse", "descripcion": "Pide refuerzos y se oculta.", "consecuencias": ["Crea [alarma interior]", "Crea [Nildar invisible]"]},
-        {"nombre": "Escapar", "descripcion": "Intenta escapar con los medios disponibles.", "consecuencias": ["Crea [Nildar fugitivo]"]}
-      ],
-      "secretos": [{"nombre": "Debilidades y secretos", "descripcion": "Puede ser sorprendido en su escritorio si no oye el combate. Su deseo de engrandecer a su padre lo lleva a alardear del terror con alas de dragón. Un interrogatorio exitoso obtiene los secretos generales de los duergar; un fallo puede provocar [insultos y amenazas], sin inventar información falsa ni hacer desaparecer la carta. Su huida utiliza ogro y trineo solo si están disponibles. No tiene Poderío de Grandeza."}]
-    },
-    {
-      "slug": "ogro-zombi-de-tiro",
-      "nombre": "Ogro zombi de tiro",
-      "nivel": 2,
-      "poderio": [],
-      "roles": ["Bruto", "Obstáculo"],
-      "aspecto_en": "A full-body portrait of an enslaved ogre zombie with semi-frozen dead flesh and an empty eye socket, used to pull a sled. Enormous, clumsy and persistent. Cold blue-grey light, snowy background.",
-      "descripcion": "Un zombi ogro esclavizado por los duergar, utilizado para tirar del trineo.",
-      "limites": [
-        {"nombre": "destruido", "valor": 4, "consecuencia": "El zombi queda destruido."},
-        {"nombre": "inmovilizado", "valor": 3, "consecuencia": "Queda inmovilizado."}
-      ],
-      "etiquetas": ["fuerza de ogro", "carne muerta semicongelada", "obediencia a los duergar", "enorme y torpe", "persistencia de no muerto", "encerrado en una jaula"],
-      "rasgos": [],
-      "amenazas": [
-        {"nombre": "Golpear con todo su peso", "descripcion": "Golpea con todo su peso.", "consecuencias": ["Inflige [magullado-3]", "Crea [equipo desparramado]"]},
-        {"nombre": "Bloquear la retirada", "descripcion": "Bloquea la retirada de los duergar.", "consecuencias": ["Crea [paso obstruido]", "Inflige [sujeto-2]"]},
-        {"nombre": "Embestir junto al foso", "descripcion": "Embiste junto al foso.", "consecuencias": ["Inflige [derribado-2]"]}
-      ],
-      "secretos": [{"nombre": "Debilidades y secretos", "descripcion": "Dentro de su jaula no puede hacer daño. Impedir que lo liberen, cerrar una barrera o aprovechar su torpeza puede evitar enfrentarlo directamente. No confundir su condición de esclavo con una lealtad negociable: en la fuente combate del lado duergar. No se añade una vulnerabilidad mágica que el texto no menciona."}]
-    },
-    {
-      "slug": "manada-sirvientes-esporas",
-      "nombre": "Manada de sirvientes de esporas",
-      "nivel": 1,
-      "poderio": [],
-      "roles": ["Adversario"],
-      "aspecto_en": "A full-body group portrait of five animated human corpses covered in fungal growths, former inhabitants of the Ten Towns or Reghed nomads. Slow, blind-sensed, mindless. Cold damp cell background.",
-      "descripcion": "Cinco sirvientes humanos de esporas, basados en guerreros tribales modificados; son plantas animadas con restos humanos.",
-      "limites": [
-        {"nombre": "deshechos", "valor": 4, "consecuencia": "Quedan deshechos."},
-        {"nombre": "contenidos", "valor": 3, "consecuencia": "Quedan contenidos."}
-      ],
-      "etiquetas": ["cinco cuerpos animados", "crecimientos fúngicos", "avance lento", "sentido ciego cercano", "sin lenguaje ni voluntad propia", "inmunes al miedo y al encantamiento"],
-      "rasgos": [],
-      "amenazas": [
-        {"nombre": "Salir de las celdas y rodear", "descripcion": "Salen de las celdas y rodean a los intrusos.", "consecuencias": ["Crea [salida ocupada]", "Inflige [acorralado-2]"]},
-        {"nombre": "Golpear con movimientos mecánicos", "descripcion": "Golpean con movimientos mecánicos.", "consecuencias": ["Inflige [herido-2]", "Aplica [paso bloqueado]"]},
-        {"nombre": "Seguir al intruso cercano", "descripcion": "Siguen al intruso cercano sin depender de sus ojos.", "consecuencias": ["Elimina [oculto solo por oscuridad]", "Inflige [sujeto-2]"]}
-      ],
-      "secretos": [{"nombre": "Debilidades y secretos", "descripcion": "Caminan aproximadamente seis metros en el tiempo en que una persona corriente recorre más; su sentido ciego alcanza unos nueve metros y no perciben más allá. No pueden ser cegados, hechizados, asustados ni paralizados. Carecen de coordinación táctica de manada. Encerrarlos o mantenerse fuera de su alcance evita la lucha. La fuente no les atribuye contagio, nube tóxica ni ataque de esporas."}]
-    },
-    {
-      "slug": "estribaciones-barridas-invierno",
-      "nombre": "Estribaciones barridas por el invierno",
-      "nivel": 2,
-      "poderio": [],
-      "roles": ["Obstáculo", "Peligro"],
-      "aspecto_en": "A wide view of wind-scoured mountain foothills with uniform snow, few landmarks and a dark horizon. Cold blue-grey light, blowing snow. No people or creatures; leave the lower third open.",
-      "descripcion": "Rastreo interrumpido por nieve y viento; búsquedas de una hora y posible encuentro de zonas salvajes. Desafío ambiental propuesto, sin criatura ni dificultad de criatura asignada.",
-      "limites": [
-        {"nombre": "ruta resuelta", "valor": 3, "consecuencia": "La ruta queda resuelta."},
-        {"nombre": "refugio alcanzado", "valor": 3, "consecuencia": "Se alcanza el refugio."}
-      ],
-      "etiquetas": ["huellas borradas", "viento cortante", "nieve uniforme", "pocos puntos de referencia", "exposición prolongada"],
-      "rasgos": [],
-      "amenazas": [
-        {"nombre": "Borrar las últimas referencias", "descripcion": "El viento borra las últimas referencias.", "consecuencias": ["Inflige [perdidos-2]", "Consume una hora de búsqueda"]},
-        {"nombre": "Calar las prendas", "descripcion": "El frío cala las prendas durante la marcha.", "consecuencias": ["Inflige [helado-2]"]},
-        {"nombre": "Prolongar la búsqueda", "descripcion": "Prolongar la búsqueda sin orientación.", "consecuencias": ["Tras dos fallos horarios introduce [encuentro de zonas salvajes]"]}
-      ],
-      "secretos": [{"nombre": "Debilidades y secretos", "descripcion": "Jarthra, ropa adecuada, perros, trineos y una ruta de retorno aportan etiquetas pertinentes. No aplicar frío automáticamente ignorando la protección. Volver al pueblo o alcanzar abrigo permite tratar los estados conforme a la ficción; no resuelve por sí solo dónde está el puesto."}]
-    },
-    {
-      "slug": "foso-puente-levadizo",
-      "nombre": "Foso y puente levadizo",
-      "nivel": 2,
-      "poderio": [],
-      "roles": ["Obstáculo", "Peligro"],
-      "aspecto_en": "A wide view of a nine-metre deep stone pit and a wooden drawbridge with chains and pulleys. Dark cold light, sheer walls. No people or creatures; leave the lower third open.",
-      "descripcion": "Foso de nueve metros de profundidad en O2, puente de madera y mecanismo de cadenas; sin dificultad de criatura. Conversión ambiental propuesta.",
-      "limites": [
-        {"nombre": "paso asegurado", "valor": 3, "consecuencia": "El paso queda asegurado."},
-        {"nombre": "mecanismo inutilizado", "valor": 3, "consecuencia": "El mecanismo queda inutilizado."}
-      ],
-      "etiquetas": ["caída profunda", "puente levadizo", "cadenas y poleas", "borde tras las puertas"],
-      "rasgos": [],
-      "amenazas": [
-        {"nombre": "Urthhild tira del mecanismo", "descripcion": "Urthhild tira del mecanismo sin interrupción.", "consecuencias": ["Crea [puente levantándose]", "Crea [puente alzado]"]},
-        {"nombre": "Perder pie junto al borde", "descripcion": "Se pierde pie junto al borde.", "consecuencias": ["Inflige [caída-herido-4]", "Crea [atrapado en el foso]"]},
-        {"nombre": "Cruzar mientras se eleva", "descripcion": "Se cruza mientras el puente se eleva.", "consecuencias": ["Inflige [desequilibrado-2]", "Aplica [Compañía dividida]"]}
-      ],
-      "secretos": [{"nombre": "Debilidades y secretos", "descripcion": "La amenaza de elevarse necesita un defensor operando el mecanismo; no se activa sola. Interrumpirlo, asegurar el puente con equipo o cruzar por el cauce y la cisterna cambia la situación. Escalar exige medios apropiados; una cuerda asegurada crea [ruta de ascenso]."}]
-    },
-    {
-      "slug": "trampa-cuello-botella",
-      "nombre": "Trampa del Cuello de Botella",
-      "nivel": 2,
-      "poderio": [],
-      "roles": ["Obstáculo"],
-      "aspecto_en": "A wide view of a narrow stone passage with iron bars rising from floor and ceiling, and a worn lever on the wall. Dark, no natural light. No people or creatures; leave the lower third open.",
-      "descripcion": "Barreras de hierro accionadas con palanca en O5; sin dificultad de criatura. Conversión de obstáculo propuesta.",
-      "limites": [
-        {"nombre": "mecanismo neutralizado", "valor": 3, "consecuencia": "El mecanismo queda neutralizado."},
-        {"nombre": "barrera rota", "valor": 4, "consecuencia": "La barrera queda rota."}
-      ],
-      "etiquetas": ["barras desde suelo y techo", "activación manual", "huecos demasiado estrechos", "cobertura considerable", "hierro resistente"],
-      "rasgos": [],
-      "amenazas": [
-        {"nombre": "Activarse con alguien en el umbral", "descripcion": "Se activa con alguien en el umbral.", "consecuencias": ["Inflige [atravesado-2]", "Inflige [inmovilizado-3]"]},
-        {"nombre": "Encerrar a quien avanza primero", "descripcion": "Encierra a quien avanza primero.", "consecuencias": ["Crea [Héroe aislado al oeste]", "Aplica [Compañía dividida]"]},
-        {"nombre": "Dar abrigo a los defensores", "descripcion": "Da abrigo a los defensores que atacan entre barras.", "consecuencias": ["Crea [enemigo protegido por rejas]"]}
-      ],
-      "secretos": [{"nombre": "Debilidades y secretos", "descripcion": "La palanca retrae las barras; también se pueden destruir mediante fuerza o herramientas que afecten al hierro. Romper una sección basta para abrir ese paso, sin destruir todo el mecanismo. Veneno y ataques puramente mentales no dañan el metal. Si nadie acciona la palanca, la trampa no ataca."}]
+     "nombre": "Aliado por defecto",
+     "descripcion": "Es aliado por defecto; su estado posible es [ebrio-2] si excede la bebida. No tiene aliento ofensivo desarrollado por la fuente."
     }
-  ],
-  "objetos": [
+   ]
+  },
+  {
+   "slug": "banda-defensora-duergar",
+   "nombre": "Banda defensora duergar",
+   "nivel": 1,
+   "poderio": [],
+   "roles": [
+    "Adversario",
+    "Apoyo"
+   ],
+   "aspecto_en": "A full-body group portrait of four adult duergar with grey skin, stocky builds, austere armour and cloaks. One carries a heavy crossbow. Hostile disciplined expressions, cold stone background, with tired sentinel postures and watchful eyes. Dark iron weapons and shields.",
+   "descripcion": "Cuatro duergar del puesto, de los cinco totales; el quinto, Nildar, tiene ficha propia. Brojk añade ballesta pesada. Cada duergar corresponde al tramo de dificultad inicial de la conversión.",
+   "limites": [
     {
-      "slug": "linterna-luz-del-norte",
-      "nombre": "Linterna de La Luz del Norte",
-      "etiqueta": "linterna de luz cambiante",
-      "descripcion": "En O6, cubierta por un saco. Mochila [linterna de luz cambiante]: ilumina alternando azul, verde y rojo; no tiene otro efecto mágico. Devolverla recupera el símbolo de la posada y favorece la relación con las Shorard.",
-      "imagen_en": "An isolated lantern covered by a burlap sack, projecting faint blue, green and red light through the fabric. Worn metal and glass, neutral dark background."
+     "nombre": "herido",
+     "valor": 4,
+     "consecuencia": "Queda fuera de combate."
     },
     {
-      "slug": "cabras-de-glen",
-      "nombre": "Dos cabras de Glen",
-      "etiqueta": "cabras rescatadas",
-      "descripcion": "En O2, vivas y nerviosas, destinadas a servir de alimento. Etiqueta de historia [cabras rescatadas]; requieren traslado de vuelta, no se convierten en equipo sin dueño.",
-      "imagen_en": "An isolated pair of nervous goats with worn rope halters, standing on cold stone. Thick winter coats, alert expressions, neutral background."
-    },
-    {
-      "slug": "perlas-talladas-allendhelor",
-      "nombre": "Veinticinco perlas talladas",
-      "etiqueta": "perlas recuperadas de Allendhelor",
-      "descripcion": "En un saco de O8, propiedad de Expediciones Allendhelor. Etiqueta [perlas recuperadas de Allendhelor]; su devolución proporciona [gratitud de los proveedores]. No asignarles una equivalencia monetaria exacta.",
-      "imagen_en": "An isolated small leather sack spilling twenty-five carved pearls of varying sizes. Soft ivory sheen, neutral dark background, simple studio lighting."
-    },
-    {
-      "slug": "carta-de-durth",
-      "nombre": "Carta de Durth",
-      "etiqueta": "Durth opera desde el ferry de Puerto Este",
-      "descripcion": "En el escritorio de O6, carboncillo sobre papel arrugado, runas enanas. Etiqueta de historia [Durth opera desde el ferry de Puerto Este]. Puede entregarse como ayuda a los jugadores con su paráfrasis. Hay que leer enano o conseguir una traducción.",
-      "imagen_en": "An isolated crumpled sheet of paper covered in dwarven runes, written in charcoal. Worn edges, dark ink on rough paper, neutral background."
-    },
-    {
-      "slug": "fragmentos-chardalyn",
-      "nombre": "Tres trozos de chardalyn del tamaño de dagas",
-      "etiqueta": "fragmentos de chardalyn maleable",
-      "descripcion": "En O6, mezclados con vidrio corriente teñido. Mochila [fragmentos de chardalyn maleable]. Son material de artesanía, no tres armas terminadas. No contienen magia y es seguro tocarlos. La identificación solo revela su maleabilidad y utilidad para fabricar objetos.",
-      "imagen_en": "An isolated trio of dagger-sized dark chardalyn fragments beside ordinary coloured glass shards. Crystalline facets, matte dark mineral, neutral background."
-    },
-    {
-      "slug": "vidrio-teñido-ordinario",
-      "nombre": "Vidrio teñido ordinario",
-      "etiqueta": "muestras confundidas con chardalyn",
-      "descripcion": "[muestras confundidas con chardalyn]. Revela que Nildar recoge objetos interesantes sin identificar siempre correctamente su naturaleza.",
-      "imagen_en": "An isolated handful of ordinary coloured glass fragments in blue, green and red. Smooth broken edges, no crystalline structure, neutral background."
-    },
-    {
-      "slug": "bolsa-de-nildar",
-      "nombre": "Bolsa de Nildar",
-      "etiqueta": "reserva para gastos de expedición",
-      "descripcion": "Oculta en la cama de O6. Mochila [reserva para gastos de expedición], útil para obtener suministros o sufragar servicios modestos según la ficción; sustituye al dinero de la fuente.",
-      "imagen_en": "An isolated leather purse hidden among stone bedding, slightly open and showing coins and small supplies. Worn leather, neutral background."
-    },
-    {
-      "slug": "armeria-del-puesto",
-      "nombre": "Armería de O4",
-      "etiqueta": "armería del puesto",
-      "descripcion": "Dos [cota de escamas de talla enana], dos [escudo de acero], tres [pico de guerra], nueve [jabalina], dos [equipo de escalada] y cuatro [equipo de cocina]. Respetar cantidad, talla y capacidad de transporte al repartir etiquetas de mochila.",
-      "imagen_en": "An isolated stockpile of dwarven-scale armour, steel shields, war picks, javelins, climbing gear and cooking kits stacked against a stone wall. Dark metal and worn leather, neutral background."
-    },
-    {
-      "slug": "provisiones-del-puesto",
-      "nombre": "Provisiones de O8",
-      "etiqueta": "provisiones del puesto",
-      "descripcion": "[mantas], [raciones], [cuerda de cáñamo] y [equipo básico de viaje], sin cantidades indicadas por la fuente. En otro saco, tres [daga], [herramientas de talla de madera] y [aparejos de pesca]. La bolsa de cuero añade [recursos para reabastecerse].",
-      "imagen_en": "An isolated collection of blankets, rations, hemp rope and basic travel gear beside a small sack with daggers, woodcarving tools and fishing tackle. Worn cloth and leather, neutral background."
-    },
-    {
-      "slug": "pocion-de-curacion",
-      "nombre": "Poción de curación",
-      "etiqueta": "poción de curación",
-      "descripcion": "En la bolsa de cuero de O8. Mochila consumible [poción de curación]. Al beberla, consumir la etiqueta y reducir en dos niveles un estado de lesión física que una curación mágica pueda aliviar. No devuelve la vida a los cautivos ni elimina cualquier condición.",
-      "imagen_en": "An isolated small leather flask of healing potion with a stopper, resting inside a leather pouch. Glass glint, muted colours, neutral background."
-    },
-    {
-      "slug": "trineos-y-perros",
-      "nombre": "Trineos y perros de Allendhelor",
-      "etiqueta": "trineo de perros",
-      "descripcion": "Dos trineos, doce perros, seis por tiro. Etiquetas [trineo de perros] y [tiro de seis perros], disponibles mediante trato. Son animales sanos y equipo de viaje; no se convierten en una manada hostil.",
-      "imagen_en": "An isolated wooden snow sled with leather harnesses, surrounded by six friendly sled dogs in thick winter coats. Practical worn runners and bundled traces, soft cold light, neutral snowy background."
-    },
-    {
-      "slug": "trineo-de-carga",
-      "nombre": "Trineo del puesto",
-      "etiqueta": "trineo de carga",
-      "descripcion": "En O2, [trineo de carga]. Lo arrastra el ogro zombi mientras siga bajo control duergar; recuperarlo no entrega automáticamente ese control a los Héroes.",
-      "imagen_en": "An isolated heavy cargo sled with frost still clinging to its runners, abandoned against a stone wall. Worn wood and iron fittings, cold light, neutral background."
-    },
-    {
-      "slug": "huellas-y-testimonio",
-      "nombre": "Huellas y testimonio",
-      "etiqueta": "pistas de la operación duergar",
-      "descripcion": "[pisadas enanas sin testigos], [explorador que no entró en las casas], [rastro de ogro y trineo] y [testimonio sobre el dragón de Xardorok] permiten reconstruir la operación. Un esquema de los dos rastros y una relación de los bienes robados pueden darse como ayudas de investigación.",
-      "imagen_en": "An isolated set of investigation notes with sketches of boot prints, sled runners and an ogre’s tracks, laid on rough paper. No readable text, neutral background."
+     "nombre": "capturado",
+     "valor": 4,
+     "consecuencia": "Queda capturado e interrogable."
     }
-  ],
-  "ayudas": [
+   ],
+   "etiquetas": [
+    "invisibilidad",
+    "agrandamiento",
+    "visión en la oscuridad",
+    "armaduras y escudos",
+    "defensa coordinada",
+    "ballesta de Brojk",
+    "dormidos-2"
+   ],
+   "rasgos": [],
+   "amenazas": [
     {
-      "slug": "carta-de-durth",
-      "titulo": "Carta de Durth",
-      "tipo": "nota",
-      "texto": "Nildar: he establecido mi base en el ferry inmovilizado por el hielo de Puerto Este. Desde aquí sigo reuniendo chardalyn. Que padre llegue a dominar esta tierra sumida en la oscuridad. Durth.",
-      "fondo_en": "A blank sheet of rough ivory parchment with worn corners, faint fold marks and natural fibres, resting flat under soft side lighting. No text, letters, symbols, illustrations or ink marks anywhere."
+     "nombre": "Agrandarse y cerrar el paso",
+     "descripcion": "Se agranda y cierra el paso al intruso.",
+     "consecuencias": [
+      "Crea [duergar de tamaño ogro]",
+      "Inflige [golpeado-3]"
+     ]
     },
     {
-      "slug": "esquema-de-rastros",
-      "titulo": "Esquema de los rastros y bienes robados",
-      "tipo": "mapa",
-      "texto": "Tras la posada de La Luz del Norte se distinguen huellas viejas que desaparecen a unos quince metros. A la mañana siguiente aparecen huellas frescas de un único explorador duergar que inspeccionó las calles sin entrar en edificios. A unos 400 metros del pueblo, las huellas terminan junto a pisadas de ogro y surcos de trineo: el zombi esperó toda la noche y el explorador subió antes de ordenar la partida. Los bienes robados son: una linterna mágica de La Luz del Norte, dos cabras de Anzuelo, Sedal y Plomo y un saco de perlas talladas de Expediciones Allendhelor.",
-      "fondo_en": "A blank sheet of rough ivory parchment with worn corners, faint fold marks and natural fibres, resting flat under soft side lighting. No text, letters, symbols, illustrations or ink marks anywhere."
+     "nombre": "Disparar desde cobertura o atacar en grupo",
+     "descripcion": "Dispara desde cobertura o ataca en grupo.",
+     "consecuencias": [
+      "Inflige [herido-2]",
+      "Aplica [avance detenido-2]"
+     ]
+    },
+    {
+     "nombre": "Pedir ayuda y desaparecer",
+     "descripcion": "Pide ayuda y desaparece al verse aislado.",
+     "consecuencias": [
+      "Crea [refuerzos alertados]",
+      "Crea [posición del enemigo desconocida]"
+     ]
+    },
+    {
+     "nombre": "Liberar al ogro y replegarse",
+     "descripcion": "Libera al ogro y se repliega al quedar heridos.",
+     "consecuencias": [
+      "Elimina [ogro encerrado]",
+      "Crea [retirada hacia O5]"
+     ]
     }
-  ],
-  "hitos": [
-    "Recuperar los bienes robados y devolverlos a sus dueños.",
-    "Descubrir el puesto avanzado de los duergar y neutralizarlo.",
-    "Rescatar o vengar a los cautivos de las celdas.",
-    "Obtener la carta de Durth y seguir la pista del ferry de Puerto Este.",
-    "Ganarse la confianza y la hospitalidad de Caer-Konig.",
-    "Interrogar a Nildar y revelar la amenaza del dragón de chardalyn.",
-    "Asegurar una ruta segura por la Cumbre de Kelvin con Jarthra."
-  ],
-  "relojes": []
+   ],
+   "secretos": [
+    {
+     "nombre": "Debilidades y secretos",
+     "descripcion": "Antes del combate procuran agrandarse. La invisibilidad no elimina sus pisadas ni el ruido que hagan. No aceptan pactos ni se rinden voluntariamente. Una acción de intimidación contra un cautivo puede alcanzar el límite convencido 3 para obtener información: éxito, [testimonio sobre Xardorok]; fallo, [prisionero desafiante]. Revelan el mando de Nildar, el dragón que Xardorok forja en su fortaleza de montaña y el uso previsto del puesto como base contra las minas del Valle de los Enanos una vez destruida Diez Ciudades."
+    }
+   ]
+  },
+  {
+   "slug": "nildar-solmarchito",
+   "nombre": "Nildar Solmarchito",
+   "nivel": 1,
+   "poderio": [],
+   "roles": [
+    "Adversario",
+    "Controlador"
+   ],
+   "aspecto_en": "A full-body portrait of an adult duergar man, short and stocky, grey skin, functional armour, eyes absorbed by crystal fragments. Cruel fanatical expression, dark underground light, with a despising gaze and a rigid stance. Heavy boots and dark cloak. Dark leather armour.",
+   "descripcion": "Duergar, comandante del puesto y antagonista. Sin mejoras de criatura indicadas por la fuente.",
+   "limites": [
+    {
+     "nombre": "herido",
+     "valor": 3,
+     "consecuencia": "Queda fuera de combate."
+    },
+    {
+     "nombre": "capturado",
+     "valor": 3,
+     "consecuencia": "Queda capturado."
+    },
+    {
+     "nombre": "convencido",
+     "valor": 3,
+     "consecuencia": "Responde al interrogatorio."
+    }
+   ],
+   "etiquetas": [
+    "invisibilidad",
+    "agrandamiento",
+    "visión en la oscuridad",
+    "armadura enana",
+    "conoce el puesto",
+    "fanatismo por Xardorok"
+   ],
+   "rasgos": [],
+   "amenazas": [
+    {
+     "nombre": "Aguardar junto a la palanca de O5",
+     "descripcion": "Aguarda junto a la palanca y activa el Cuello de Botella.",
+     "consecuencias": [
+      "Activa «Cuello de Botella»",
+      "Crea [Compañía dividida]"
+     ]
+    },
+    {
+     "nombre": "Agrandarse y atacar",
+     "descripcion": "Se agranda y ataca al intruso cercano.",
+     "consecuencias": [
+      "Crea [tamaño de ogro]",
+      "Inflige [herido-3]"
+     ]
+    },
+    {
+     "nombre": "Pedir refuerzos y ocultarse",
+     "descripcion": "Pide refuerzos y se oculta.",
+     "consecuencias": [
+      "Crea [alarma interior]",
+      "Crea [Nildar invisible]"
+     ]
+    },
+    {
+     "nombre": "Escapar",
+     "descripcion": "Intenta escapar con los medios disponibles.",
+     "consecuencias": [
+      "Crea [Nildar fugitivo]"
+     ]
+    }
+   ],
+   "secretos": [
+    {
+     "nombre": "Debilidades y secretos",
+     "descripcion": "Puede ser sorprendido en su escritorio si no oye el combate. Su deseo de engrandecer a su padre lo lleva a alardear del terror con alas de dragón. Un interrogatorio exitoso obtiene los secretos generales de los duergar; un fallo puede provocar [insultos y amenazas], sin inventar información falsa ni hacer desaparecer la carta. Su huida utiliza ogro y trineo solo si están disponibles. No tiene Poderío de Grandeza."
+    }
+   ]
+  },
+  {
+   "slug": "ogro-zombi-de-tiro",
+   "nombre": "Ogro zombi de tiro",
+   "nivel": 2,
+   "poderio": [],
+   "roles": [
+    "Bruto",
+    "Obstáculo"
+   ],
+   "aspecto_en": "A full-body portrait of an enslaved ogre zombie with semi-frozen dead flesh and an empty eye socket, used to pull a sled. Enormous, clumsy and persistent. Cold blue-grey light, snowy background.",
+   "descripcion": "Un zombi ogro esclavizado por los duergar, utilizado para tirar del trineo.",
+   "limites": [
+    {
+     "nombre": "destruido",
+     "valor": 4,
+     "consecuencia": "El zombi queda destruido."
+    },
+    {
+     "nombre": "inmovilizado",
+     "valor": 3,
+     "consecuencia": "Queda inmovilizado."
+    }
+   ],
+   "etiquetas": [
+    "fuerza de ogro",
+    "carne muerta semicongelada",
+    "obediencia a los duergar",
+    "enorme y torpe",
+    "persistencia de no muerto",
+    "encerrado en una jaula"
+   ],
+   "rasgos": [],
+   "amenazas": [
+    {
+     "nombre": "Golpear con todo su peso",
+     "descripcion": "Golpea con todo su peso.",
+     "consecuencias": [
+      "Inflige [magullado-3]",
+      "Crea [equipo desparramado]"
+     ]
+    },
+    {
+     "nombre": "Bloquear la retirada",
+     "descripcion": "Bloquea la retirada de los duergar.",
+     "consecuencias": [
+      "Crea [paso obstruido]",
+      "Inflige [sujeto-2]"
+     ]
+    },
+    {
+     "nombre": "Embestir junto al foso",
+     "descripcion": "Embiste junto al foso.",
+     "consecuencias": [
+      "Inflige [derribado-2]"
+     ]
+    }
+   ],
+   "secretos": [
+    {
+     "nombre": "Debilidades y secretos",
+     "descripcion": "Dentro de su jaula no puede hacer daño. Impedir que lo liberen, cerrar una barrera o aprovechar su torpeza puede evitar enfrentarlo directamente. No confundir su condición de esclavo con una lealtad negociable: en la fuente combate del lado duergar. No se añade una vulnerabilidad mágica que el texto no menciona."
+    }
+   ]
+  },
+  {
+   "slug": "manada-sirvientes-esporas",
+   "nombre": "Manada de sirvientes de esporas",
+   "nivel": 1,
+   "poderio": [],
+   "roles": [
+    "Adversario"
+   ],
+   "aspecto_en": "A full-body group portrait of five animated human corpses covered in fungal growths, former inhabitants of the Ten Towns or Reghed nomads. Slow, blind-sensed, mindless. Cold damp cell background.",
+   "descripcion": "Cinco sirvientes humanos de esporas, basados en guerreros tribales modificados; son plantas animadas con restos humanos.",
+   "limites": [
+    {
+     "nombre": "deshechos",
+     "valor": 4,
+     "consecuencia": "Quedan deshechos."
+    },
+    {
+     "nombre": "contenidos",
+     "valor": 3,
+     "consecuencia": "Quedan contenidos."
+    }
+   ],
+   "etiquetas": [
+    "cinco cuerpos animados",
+    "crecimientos fúngicos",
+    "avance lento",
+    "sentido ciego cercano",
+    "sin lenguaje ni voluntad propia",
+    "inmunes al miedo y al encantamiento"
+   ],
+   "rasgos": [],
+   "amenazas": [
+    {
+     "nombre": "Salir de las celdas y rodear",
+     "descripcion": "Salen de las celdas y rodean a los intrusos.",
+     "consecuencias": [
+      "Crea [salida ocupada]",
+      "Inflige [acorralado-2]"
+     ]
+    },
+    {
+     "nombre": "Golpear con movimientos mecánicos",
+     "descripcion": "Golpean con movimientos mecánicos.",
+     "consecuencias": [
+      "Inflige [herido-2]",
+      "Aplica [paso bloqueado]"
+     ]
+    },
+    {
+     "nombre": "Seguir al intruso cercano",
+     "descripcion": "Siguen al intruso cercano sin depender de sus ojos.",
+     "consecuencias": [
+      "Elimina [oculto solo por oscuridad]",
+      "Inflige [sujeto-2]"
+     ]
+    }
+   ],
+   "secretos": [
+    {
+     "nombre": "Debilidades y secretos",
+     "descripcion": "Caminan aproximadamente seis metros en el tiempo en que una persona corriente recorre más; su sentido ciego alcanza unos nueve metros y no perciben más allá. No pueden ser cegados, hechizados, asustados ni paralizados. Carecen de coordinación táctica de manada. Encerrarlos o mantenerse fuera de su alcance evita la lucha. La fuente no les atribuye contagio, nube tóxica ni ataque de esporas."
+    }
+   ]
+  },
+  {
+   "slug": "estribaciones-barridas-invierno",
+   "nombre": "Estribaciones barridas por el invierno",
+   "nivel": 2,
+   "poderio": [],
+   "roles": [
+    "Obstáculo",
+    "Peligro"
+   ],
+   "aspecto_en": "A wide view of wind-scoured mountain foothills with uniform snow, few landmarks and a dark horizon. Cold blue-grey light, blowing snow. No people or creatures; leave the lower third open.",
+   "descripcion": "Rastreo interrumpido por nieve y viento; búsquedas de una hora y posible encuentro de zonas salvajes. Desafío ambiental propuesto, sin criatura ni dificultad de criatura asignada.",
+   "limites": [
+    {
+     "nombre": "ruta resuelta",
+     "valor": 3,
+     "consecuencia": "La ruta queda resuelta."
+    },
+    {
+     "nombre": "refugio alcanzado",
+     "valor": 3,
+     "consecuencia": "Se alcanza el refugio."
+    }
+   ],
+   "etiquetas": [
+    "huellas borradas",
+    "viento cortante",
+    "nieve uniforme",
+    "pocos puntos de referencia",
+    "exposición prolongada"
+   ],
+   "rasgos": [],
+   "amenazas": [
+    {
+     "nombre": "Borrar las últimas referencias",
+     "descripcion": "El viento borra las últimas referencias.",
+     "consecuencias": [
+      "Inflige [perdidos-2]",
+      "Consume una hora de búsqueda"
+     ]
+    },
+    {
+     "nombre": "Calar las prendas",
+     "descripcion": "El frío cala las prendas durante la marcha.",
+     "consecuencias": [
+      "Inflige [helado-2]"
+     ]
+    },
+    {
+     "nombre": "Prolongar la búsqueda",
+     "descripcion": "Prolongar la búsqueda sin orientación.",
+     "consecuencias": [
+      "Tras dos fallos horarios introduce [encuentro de zonas salvajes]"
+     ]
+    }
+   ],
+   "secretos": [
+    {
+     "nombre": "Debilidades y secretos",
+     "descripcion": "Jarthra, ropa adecuada, perros, trineos y una ruta de retorno aportan etiquetas pertinentes. No aplicar frío automáticamente ignorando la protección. Volver al pueblo o alcanzar abrigo permite tratar los estados conforme a la ficción; no resuelve por sí solo dónde está el puesto."
+    }
+   ]
+  },
+  {
+   "slug": "foso-puente-levadizo",
+   "nombre": "Foso y puente levadizo",
+   "nivel": 2,
+   "poderio": [],
+   "roles": [
+    "Obstáculo",
+    "Peligro"
+   ],
+   "aspecto_en": "A wide view of a nine-metre deep stone pit and a wooden drawbridge with chains and pulleys. Dark cold light, sheer walls. No people or creatures; leave the lower third open.",
+   "descripcion": "Foso de nueve metros de profundidad en O2, puente de madera y mecanismo de cadenas; sin dificultad de criatura. Conversión ambiental propuesta.",
+   "limites": [
+    {
+     "nombre": "paso asegurado",
+     "valor": 3,
+     "consecuencia": "El paso queda asegurado."
+    },
+    {
+     "nombre": "mecanismo inutilizado",
+     "valor": 3,
+     "consecuencia": "El mecanismo queda inutilizado."
+    }
+   ],
+   "etiquetas": [
+    "caída profunda",
+    "puente levadizo",
+    "cadenas y poleas",
+    "borde tras las puertas"
+   ],
+   "rasgos": [],
+   "amenazas": [
+    {
+     "nombre": "Urthhild tira del mecanismo",
+     "descripcion": "Urthhild tira del mecanismo sin interrupción.",
+     "consecuencias": [
+      "Crea [puente levantándose]",
+      "Crea [puente alzado]"
+     ]
+    },
+    {
+     "nombre": "Perder pie junto al borde",
+     "descripcion": "Se pierde pie junto al borde.",
+     "consecuencias": [
+      "Inflige [caída-herido-4]",
+      "Crea [atrapado en el foso]"
+     ]
+    },
+    {
+     "nombre": "Cruzar mientras se eleva",
+     "descripcion": "Se cruza mientras el puente se eleva.",
+     "consecuencias": [
+      "Inflige [desequilibrado-2]",
+      "Aplica [Compañía dividida]"
+     ]
+    }
+   ],
+   "secretos": [
+    {
+     "nombre": "Debilidades y secretos",
+     "descripcion": "La amenaza de elevarse necesita un defensor operando el mecanismo; no se activa sola. Interrumpirlo, asegurar el puente con equipo o cruzar por el cauce y la cisterna cambia la situación. Escalar exige medios apropiados; una cuerda asegurada crea [ruta de ascenso]."
+    }
+   ]
+  },
+  {
+   "slug": "trampa-cuello-botella",
+   "nombre": "Trampa del Cuello de Botella",
+   "nivel": 2,
+   "poderio": [],
+   "roles": [
+    "Obstáculo"
+   ],
+   "aspecto_en": "A wide view of a narrow stone passage with iron bars rising from floor and ceiling, and a worn lever on the wall. Dark, no natural light. No people or creatures; leave the lower third open.",
+   "descripcion": "Barreras de hierro accionadas con palanca en O5; sin dificultad de criatura. Conversión de obstáculo propuesta.",
+   "limites": [
+    {
+     "nombre": "mecanismo neutralizado",
+     "valor": 3,
+     "consecuencia": "El mecanismo queda neutralizado."
+    },
+    {
+     "nombre": "barrera rota",
+     "valor": 4,
+     "consecuencia": "La barrera queda rota."
+    }
+   ],
+   "etiquetas": [
+    "barras desde suelo y techo",
+    "activación manual",
+    "huecos demasiado estrechos",
+    "cobertura considerable",
+    "hierro resistente"
+   ],
+   "rasgos": [],
+   "amenazas": [
+    {
+     "nombre": "Activarse con alguien en el umbral",
+     "descripcion": "Se activa con alguien en el umbral.",
+     "consecuencias": [
+      "Inflige [atravesado-2]",
+      "Inflige [inmovilizado-3]"
+     ]
+    },
+    {
+     "nombre": "Encerrar a quien avanza primero",
+     "descripcion": "Encierra a quien avanza primero.",
+     "consecuencias": [
+      "Crea [Héroe aislado al oeste]",
+      "Aplica [Compañía dividida]"
+     ]
+    },
+    {
+     "nombre": "Dar abrigo a los defensores",
+     "descripcion": "Da abrigo a los defensores que atacan entre barras.",
+     "consecuencias": [
+      "Crea [enemigo protegido por rejas]"
+     ]
+    }
+   ],
+   "secretos": [
+    {
+     "nombre": "Debilidades y secretos",
+     "descripcion": "La palanca retrae las barras; también se pueden destruir mediante fuerza o herramientas que afecten al hierro. Romper una sección basta para abrir ese paso, sin destruir todo el mecanismo. Veneno y ataques puramente mentales no dañan el metal. Si nadie acciona la palanca, la trampa no ataca."
+    }
+   ]
+  }
+ ],
+ "objetos": [
+  {
+   "slug": "linterna-luz-del-norte",
+   "nombre": "Linterna de La Luz del Norte",
+   "etiqueta": "linterna de luz cambiante",
+   "descripcion": "En O6, cubierta por un saco. Mochila [linterna de luz cambiante]: ilumina alternando azul, verde y rojo; no tiene otro efecto mágico. Devolverla recupera el símbolo de la posada y favorece la relación con las Shorard.",
+   "imagen_en": "An isolated lantern covered by a burlap sack, projecting faint blue, green and red light through the fabric. Worn metal and glass, neutral dark background."
+  },
+  {
+   "slug": "cabras-de-glen",
+   "nombre": "Dos cabras de Glen",
+   "etiqueta": "cabras rescatadas",
+   "descripcion": "En O2, vivas y nerviosas, destinadas a servir de alimento. Etiqueta de historia [cabras rescatadas]; requieren traslado de vuelta, no se convierten en equipo sin dueño.",
+   "imagen_en": "An isolated pair of nervous goats with worn rope halters, standing on cold stone. Thick winter coats, alert expressions, neutral background."
+  },
+  {
+   "slug": "perlas-talladas-allendhelor",
+   "nombre": "Veinticinco perlas talladas",
+   "etiqueta": "perlas recuperadas de Allendhelor",
+   "descripcion": "En un saco de O8, propiedad de Expediciones Allendhelor. Etiqueta [perlas recuperadas de Allendhelor]; su devolución proporciona [gratitud de los proveedores]. No asignarles una equivalencia monetaria exacta.",
+   "imagen_en": "An isolated small leather sack spilling twenty-five carved pearls of varying sizes. Soft ivory sheen, neutral dark background, simple studio lighting."
+  },
+  {
+   "slug": "carta-de-durth",
+   "nombre": "Carta de Durth",
+   "etiqueta": "Durth opera desde el ferry de Puerto Este",
+   "descripcion": "En el escritorio de O6, carboncillo sobre papel arrugado, runas enanas. Etiqueta de historia [Durth opera desde el ferry de Puerto Este]. Puede entregarse como ayuda a los jugadores con su paráfrasis. Hay que leer enano o conseguir una traducción.",
+   "imagen_en": "An isolated crumpled sheet of paper covered in dwarven runes, written in charcoal. Worn edges, dark ink on rough paper, neutral background."
+  },
+  {
+   "slug": "fragmentos-chardalyn",
+   "nombre": "Tres trozos de chardalyn del tamaño de dagas",
+   "etiqueta": "fragmentos de chardalyn maleable",
+   "descripcion": "En O6, mezclados con vidrio corriente teñido. Mochila [fragmentos de chardalyn maleable]. Son material de artesanía, no tres armas terminadas. No contienen magia y es seguro tocarlos. La identificación solo revela su maleabilidad y utilidad para fabricar objetos.",
+   "imagen_en": "An isolated trio of dagger-sized dark chardalyn fragments beside ordinary coloured glass shards. Crystalline facets, matte dark mineral, neutral background."
+  },
+  {
+   "slug": "vidrio-tenido-ordinario",
+   "nombre": "Vidrio teñido ordinario",
+   "etiqueta": "muestras confundidas con chardalyn",
+   "descripcion": "[muestras confundidas con chardalyn]. Revela que Nildar recoge objetos interesantes sin identificar siempre correctamente su naturaleza.",
+   "imagen_en": "An isolated handful of ordinary coloured glass fragments in blue, green and red. Smooth broken edges, no crystalline structure, neutral background."
+  },
+  {
+   "slug": "bolsa-de-nildar",
+   "nombre": "Bolsa de Nildar",
+   "etiqueta": "reserva para gastos de expedición",
+   "descripcion": "Oculta en la cama de O6. Mochila [reserva para gastos de expedición], útil para obtener suministros o sufragar servicios modestos según la ficción; sustituye al dinero de la fuente.",
+   "imagen_en": "An isolated leather purse hidden among stone bedding, slightly open and showing coins and small supplies. Worn leather, neutral background."
+  },
+  {
+   "slug": "armeria-del-puesto",
+   "nombre": "Armería de O4",
+   "etiqueta": "armería del puesto",
+   "descripcion": "Dos [cota de escamas de talla enana], dos [escudo de acero], tres [pico de guerra], nueve [jabalina], dos [equipo de escalada] y cuatro [equipo de cocina]. Respetar cantidad, talla y capacidad de transporte al repartir etiquetas de mochila.",
+   "imagen_en": "An isolated stockpile of dwarven-scale armour, steel shields, war picks, javelins, climbing gear and cooking kits stacked against a stone wall. Dark metal and worn leather, neutral background."
+  },
+  {
+   "slug": "provisiones-del-puesto",
+   "nombre": "Provisiones de O8",
+   "etiqueta": "provisiones del puesto",
+   "descripcion": "[mantas], [raciones], [cuerda de cáñamo] y [equipo básico de viaje], sin cantidades indicadas por la fuente. En otro saco, tres [daga], [herramientas de talla de madera] y [aparejos de pesca]. La bolsa de cuero añade [recursos para reabastecerse].",
+   "imagen_en": "An isolated collection of blankets, rations, hemp rope and basic travel gear beside a small sack with daggers, woodcarving tools and fishing tackle. Worn cloth and leather, neutral background."
+  },
+  {
+   "slug": "pocion-de-curacion",
+   "nombre": "Poción de curación",
+   "etiqueta": "poción de curación",
+   "descripcion": "En la bolsa de cuero de O8. Mochila consumible [poción de curación]. Al beberla, consumir la etiqueta y reducir en dos niveles un estado de lesión física que una curación mágica pueda aliviar. No devuelve la vida a los cautivos ni elimina cualquier condición.",
+   "imagen_en": "An isolated small leather flask of healing potion with a stopper, resting inside a leather pouch. Glass glint, muted colours, neutral background."
+  },
+  {
+   "slug": "trineos-y-perros",
+   "nombre": "Trineos y perros de Allendhelor",
+   "etiqueta": "trineo de perros",
+   "descripcion": "Dos trineos, doce perros, seis por tiro. Etiquetas [trineo de perros] y [tiro de seis perros], disponibles mediante trato. Son animales sanos y equipo de viaje; no se convierten en una manada hostil.",
+   "imagen_en": "An isolated wooden snow sled with leather harnesses, surrounded by six friendly sled dogs in thick winter coats. Practical worn runners and bundled traces, soft cold light, neutral snowy background."
+  },
+  {
+   "slug": "trineo-de-carga",
+   "nombre": "Trineo del puesto",
+   "etiqueta": "trineo de carga",
+   "descripcion": "En O2, [trineo de carga]. Lo arrastra el ogro zombi mientras siga bajo control duergar; recuperarlo no entrega automáticamente ese control a los Héroes.",
+   "imagen_en": "An isolated heavy cargo sled with frost still clinging to its runners, abandoned against a stone wall. Worn wood and iron fittings, cold light, neutral background."
+  },
+  {
+   "slug": "huellas-y-testimonio",
+   "nombre": "Huellas y testimonio",
+   "etiqueta": "pistas de la operación duergar",
+   "descripcion": "[pisadas enanas sin testigos], [explorador que no entró en las casas], [rastro de ogro y trineo] y [testimonio sobre el dragón de Xardorok] permiten reconstruir la operación. Un esquema de los dos rastros y una relación de los bienes robados pueden darse como ayudas de investigación.",
+   "imagen_en": "An isolated set of investigation notes with sketches of boot prints, sled runners and an ogre’s tracks, laid on rough paper. No readable text, neutral background."
+  }
+ ],
+ "ayudas": [
+  {
+   "slug": "carta-de-durth",
+   "titulo": "Carta de Durth",
+   "tipo": "nota",
+   "texto": "Nildar: he establecido mi base en el ferry inmovilizado por el hielo de Puerto Este. Desde aquí sigo reuniendo chardalyn. Que padre llegue a dominar esta tierra sumida en la oscuridad. Durth.",
+   "fondo_en": "A blank sheet of rough ivory parchment with worn corners, faint fold marks and natural fibres, resting flat under soft side lighting. No text, letters, symbols, illustrations or ink marks anywhere."
+  },
+  {
+   "slug": "esquema-de-rastros",
+   "titulo": "Esquema de los rastros y bienes robados",
+   "tipo": "mapa",
+   "texto": "Tras la posada de La Luz del Norte se distinguen huellas viejas que desaparecen a unos quince metros. A la mañana siguiente aparecen huellas frescas de un único explorador duergar que inspeccionó las calles sin entrar en edificios. A unos 400 metros del pueblo, las huellas terminan junto a pisadas de ogro y surcos de trineo: el zombi esperó toda la noche y el explorador subió antes de ordenar la partida. Los bienes robados son: una linterna mágica de La Luz del Norte, dos cabras de Anzuelo, Sedal y Plomo y un saco de perlas talladas de Expediciones Allendhelor.",
+   "fondo_en": "A blank sheet of rough ivory parchment with worn corners, faint fold marks and natural fibres, resting flat under soft side lighting. No text, letters, symbols, illustrations or ink marks anywhere."
+  }
+ ],
+ "hitos": [
+  "Recuperar los bienes robados y devolverlos a sus dueños.",
+  "Descubrir el puesto avanzado de los duergar y neutralizarlo.",
+  "Rescatar o vengar a los cautivos de las celdas.",
+  "Obtener la carta de Durth y seguir la pista del ferry de Puerto Este.",
+  "Ganarse la confianza y la hospitalidad de Caer-Konig.",
+  "Interrogar a Nildar y revelar la amenaza del dragón de chardalyn.",
+  "Asegurar una ruta segura por la Cumbre de Kelvin con Jarthra."
+ ],
+ "relojes": []
 }

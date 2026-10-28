@@ -1,0 +1,214 @@
+{
+  "seccion": "24-cueva-berserkers",
+  "titulo": "La Cueva de los Berserkers",
+  "escenas": [
+    {
+      "slug": "berserker-enjaulado", "nombre": "Z8. Berserker enjaulado", "ciudad": "tundra", "interior": false,
+      "imagen_en": "Wide establishing view of a narrow upper ledge above a frozen abyss. A heavy timber cage with bolted iron door and thick metal fittings stands against jagged grey rock. Snow gathers around its base under indirect winter light. Cold blue and charcoal palette, windblown powder, no people or creatures. Leave the lower third uncluttered.",
+      "lectura": "Sobre la cornisa superior del abismo, una jaula de vigas gruesas y herrajes de hierro contiene a un hombre que no deja de pasear. Sus ojos asesinos siguen cada movimiento y en la mano empuña una jabalina de una sustancia negra y cristalina. La piel de sus manos y rostro está ennegrecida por la congelación y sus labios sangran por el frío. No responde a vuestras palabras: solo os devuelve una mirada llena de odio.",
+      "notas": "Conserva una jabalina y 60 puntos de vida del original; su mangual y otras dos jabalinas cayeron al abismo. Agarra a quien alcance y lo apuñala después; liberado, ataca a la criatura más cercana y no parlamenta. Los gnolls esperan a que se debilite para matarlo y comérselo; demorarse en la Fisura puede traer seis cazadores, con un 20 % de posibilidades de llevar presa para un festín en Z2. Aprovechar su animadversión hacia Chyzka facilita el tránsito, aunque siguen amenazando Diez Ciudades.",
+      "musica": "valle", "motivos": ["tension", "amenaza"], "efectos": ["viento", "pasos"], "ambiente": "dim",
+      "etiquetas": ["abismo", "jaula de hierro", "berserker enjaulado", "frío extremo"], "figuras": ["berserker-cautivo", "frio-extremo"]
+    },
+    {
+      "slug": "portico-cabeza-oso", "nombre": "Entrada: cabeza de oso", "ciudad": "tundra", "interior": false,
+      "imagen_en": "Wide establishing view of a cave mouth cut into a snowbound grey cliff. A weathered wooden portal roughly carved as an open bear head frames a completely dark tunnel. Deep snowbanks surround the heavy timber supports. Pale winter light, muted blue shadows and rough brown wood, no people or creatures. Keep the lower third open and uncluttered.",
+      "lectura": "Alrededor de la boca de la cueva se alza un destartalado pórtico de madera, toscamente tallado con forma de cabeza de oso con la boca abierta. La nieve se amontona al pie del acantilado gris y el túnel que se abre más allá está sumido en la oscuridad. Al observar las gruesas piezas de madera, comprendéis que el pórtico es más robusto de lo que parece a primera vista.",
+      "notas": "Dañar el pórtico alerta a las dos crías: una llega por Q3 y otra rodea por el tobogán de Q4. No persiguen fuera de la cueva; vigilan varias horas desde afloramientos sobre la entrada. Los berserkers llevan antorchas; quienes no vean en la oscuridad necesitan luz propia.",
+      "musica": "camino", "motivos": ["amenaza", "sigilo"], "efectos": ["viento", "pasos"], "ambiente": "dim",
+      "etiquetas": ["pórtico de cabeza de oso", "entrada de cueva", "túnel oscuro", "acantilado nevado"], "figuras": ["portico-oso", "gelym-tyzar", "frio-extremo"]
+    },
+    {
+      "slug": "camino-congelado", "nombre": "Q1. Camino congelado", "ciudad": "tundra", "interior": false,
+      "imagen_en": "Wide establishing view of a winding raised causeway approaching a dark cave in a grey cliff. Fresh human footprints cross its snowy surface. Steep slopes on both sides drop into a soft snow filled ravine, with a small eastern opening near the bottom. Diffuse winter light and icy blue shadows, no people. Leave the lower third clear.",
+      "lectura": "Una calzada elevada cubierta de nieve serpentea hacia la boca de la cueva de los berserkers. Las huellas indican claramente que al menos cuatro humanos han ido y venido desde la última ventisca. A ambos lados, la calzada se desploma en pendientes empinadas que caen veinte pies a un barranco nevado. El viento silba entre la roca y arrastra nieve sobre el camino, pero todavía podéis distinguir el rastro de las pisadas.",
+      "notas": "Un rumor, el encargo de un goliat hombre oso o del rey Gunvald Halraggson pueden conducir hasta aquí; el anillo de un berserker muerto teletransporta al grupo a Q1. Examinar con éxito el acantilado permite descubrir una abertura al este, cerca del fondo del barranco. Es el extremo del tobogán que asciende hasta Q4.",
+      "musica": "camino", "motivos": ["misterio", "ventisca-m"], "efectos": ["viento", "pasos"], "ambiente": "dim",
+      "etiquetas": ["calzada nevada", "barranco", "huellas", "tobogán", "frío extremo"], "figuras": ["tobogan-piedra", "frio-extremo"]
+    },
+    {
+      "slug": "cascarones-celdas", "nombre": "Q3. Cascarones en celdas", "ciudad": "tundra", "interior": true,
+      "imagen_en": "Wide establishing view of a vaulted cavern twenty feet high, reached by a short icy ramp. A natural stone pillar supports a ceiling crowded with icicles. Two northern alcoves have rusty iron doors, fallen chains, locks and keys. Large pale blue white eggshell fragments lie inside. Unlit cold stone, no people or creatures. Keep the lower third uncluttered.",
+      "lectura": "Tras el pórtico, una rampa helada asciende cinco pies hasta una cámara de veinte pies de altura adornada con carámbanos. Un pilar natural sostiene el techo abovedado. Dos nichos en el muro norte tienen puertas de hierro oxidado; sus cadenas, candados y llaves yacen en el suelo. Dentro de cada celda hay fragmentos de cáscara de un huevo blanco azulado, tan grande como un mediano. Cada movimiento resuena bajo la bóveda.",
+      "notas": "Examinar las cáscaras con conocimientos de naturaleza revela que son de dragón blanco y eclosionaron hace unos tres años. Un ruido fuerte, incluidas puertas y cadenas, alerta a Gelym y Tyzar. Una cría ataca de frente y la otra llega por detrás mediante el tobogán.",
+      "musica": "mina", "motivos": ["misterio", "sigilo"], "efectos": ["hielo-cruje", "puerta"], "ambiente": "dark",
+      "etiquetas": ["celdas de hierro", "cáscaras de huevo", "carámbanos", "rampa helada"], "figuras": ["gelym-tyzar"]
+    },
+    {
+      "slug": "guarida-crias", "nombre": "Q4. Conducto de residuos", "ciudad": "tundra", "interior": true,
+      "imagen_en": "Wide establishing view inside a cramped unfurnished cavern with an eight foot ceiling. A steep roughly carved stone chute opens in the southwest corner, its edges stained with old blood and filth. A small pile of coins and salvaged objects rests against the eastern wall. Deep darkness, cold grey rock, no people or creatures. Leave the lower third uncluttered.",
+      "lectura": "Esta cueva de ocho pies de altura no está amueblada ni iluminada. Un agujero en la esquina suroeste es la boca de un conducto abierto que apesta a sangre y suciedad. Las manchas cubren la piedra a su alrededor y un pequeño montón de tesoros se acumula contra la pared oriental. Si sus habitantes siguen aquí, distinguís a dos crías de dragón blanco acurrucadas juntas: levantan la cabeza hacia vosotros y se preparan para atacar.",
+      "notas": "Gelym y Tyzar atacan a cualquier intruso si no han sido atraídos a otra zona. El tobogán mide veinticinco pies y exige trepar con éxito sin magia ni equipo; fallar por cinco o más provoca una caída al barranco sobre nieve blanda. La sangre del matadero y los residuos se vierten por él; el tesoro está al este.",
+      "musica": "mina", "motivos": ["bestia", "batalla"], "efectos": ["rugido", "alas"], "ambiente": "dark",
+      "etiquetas": ["guarida de dragón", "sangre y suciedad", "tobogán", "oscuridad", "tesoro"], "figuras": ["gelym-tyzar", "tobogan-piedra"]
+    },
+    {
+      "slug": "brasero-llama-fria", "nombre": "Q5. Brasero de la llama fría", "ciudad": "tundra", "interior": true,
+      "imagen_en": "Wide establishing view of a frost coated cavern with a twelve foot ceiling hung with hundreds of icicles. A three foot stone brazier grows directly from the floor against the rear wall, holding a flickering cold blue flame. White smoke curls above it without a defined figure. Blue light, silver frost, no people. Keep the lower third open.",
+      "lectura": "Cientos de carámbanos se aferran al techo de doce pies de altura de esta cámara cubierta de escarcha, bañada por una luz azul parpadeante. La fuente de la luz es una llama azul que crepita en un brasero de piedra de tres pies que brota del suelo contra la pared del fondo. El humo blanco que se eleva sobre él se cohesiona cada pocos segundos en la forma de una mujer, pero la imagen es fugaz.",
+      "notas": "El brasero, regalo de Auril, mantiene inmortales a los berserkers de Q3 a Q8 y sus túneles; ninguna otra criatura recibe protección. Detectar magia revela abjuración poderosa: el brasero no puede moverse ni dañarse y el agua no apaga la llama. Disipar magia la extingue una hora y moldear piedra para siempre; los berserkers no perciben automáticamente el apagado.",
+      "musica": "auril", "motivos": ["misterio", "horror"], "efectos": ["viento", "hielo-cruje"], "ambiente": "dim",
+      "etiquetas": ["llama fría", "brasero de piedra", "humo en forma de mujer", "magia de abjuración"], "figuras": ["brasero-frio"]
+    },
+    {
+      "slug": "matadero-helado", "nombre": "Q6. Matadero", "ciudad": "tundra", "interior": true,
+      "imagen_en": "Wide establishing view of an icy cavern used as a slaughterhouse. Pink and dark red stains spread through the ice. A stripped snowy owlbear carcass lies beside a stone tray holding butcher tools. Metal hooks pierce one frozen wall. Rough rock, slick ice, deep unlit shadows and muted crimson accents, no people or living creatures. Leave the lower third uncluttered.",
+      "lectura": "El hielo de esta cueva está teñido de rosa y rojo con la sangre de numerosas muertes. En el centro, junto a una bandeja de piedra con herramientas de carnicero, yace la carcasa desollada de un oso lechuza, eviscerado y despojado de carne. A lo largo de una pared, ganchos de metal perforan el hielo. Un hombre corpulento con armadura de cuero empapada de sangre cuelga cadáveres para que se desangren. Sus extremidades y su cara sin nariz están ennegrecidas por la congelación.",
+      "notas": "El berserker acaba de descuartizar un oso lechuza nival atraído a la cueva. Sus armas están al alcance y ataca en cuanto ve intrusos. Mientras arda Q5, solo puede ser derrotado si se le atrae fuera de la zona protegida.",
+      "musica": "mina", "motivos": ["horror", "batalla-oscura"], "efectos": ["pasos", "rugido"], "ambiente": "dim",
+      "etiquetas": ["matadero", "sangre", "hielo teñido", "berserker", "oso lechuza"], "figuras": ["berserkers-cueva"]
+    },
+    {
+      "slug": "almacen-carne", "nombre": "Q7. Almacén de carne", "ciudad": "tundra", "interior": true,
+      "imagen_en": "Wide establishing view of a bare stone cavern used for cold storage. Shallow trenches cut into the floor are packed with clean snow and neatly prepared haunches of polar bear and elk meat. Frost edges the rough walls. Unlit recesses, subdued grey and white palette with muted red meat, no people or creatures. Leave the lower third clear.",
+      "lectura": "Las zanjas poco profundas excavadas en el suelo de piedra están llenas de nieve. En ellas descansan ancas limpias de carne procedente de varias bestias, entre ellas osos polares y alces. La cueva conserva las provisiones en un frío constante; el silencio solo se rompe con el crujido de la nieve bajo vuestros pies. La carne parece fresca y es segura para cocinar y comer.",
+      "notas": "Hay ochenta libras de carne fresca que los berserkers comparten con las crías. Puede cocinarse o cambiarse en Diez Ciudades por favores y provisiones. Su valor de referencia es cinco piezas de plata por libra.",
+      "musica": "mina", "motivos": [], "efectos": ["pasos"], "ambiente": "dark",
+      "etiquetas": ["almacén de carne", "nieve", "provisiones"], "figuras": []
+    },
+    {
+      "slug": "dormitorio-fisura", "nombre": "Q8. Dormitorio", "ciudad": "tundra", "interior": true,
+      "imagen_en": "Wide establishing view of a frost rimmed sleeping cavern with a ten foot ceiling. A narrow wooden plank coated in ice bridges a deep fissure in the approach tunnel. Four low bedding piles covered in animal hides line the northwest wall, beside an empty wooden bucket. Cold unlit stone, grey and brown palette, no people. Keep the lower third uncluttered.",
+      "lectura": "Esta cámara de diez pies de altura, bordeada de escarcha, se encuentra más allá de una fisura de diez pies de profundidad. Un tablón de madera cubierto de escarcha cubre el hueco en el túnel más transitado que conduce a esta zona. Cuatro camastros cubiertos de pieles yacen en el suelo cerca de la pared noroeste. Junto a ellos hay un cubo de madera, usado como orinal, que ahora está vacío.",
+      "notas": "Los cuatro camastros sugieren hasta cuatro ocupantes. El tablón sirve de puente sobre la fisura y puede recuperarse. No hay más objetos valiosos a simple vista; la cámara ofrece un refugio precario frente al frío.",
+      "musica": "noche", "motivos": ["tension"], "efectos": ["viento", "pasos"], "ambiente": "dark",
+      "etiquetas": ["dormitorio helado", "camastros", "fisura", "refugio"], "figuras": []
+    }
+  ],
+  "pnj": [
+    {
+      "slug": "berserker-cautivo", "nombre": "Berserker enjaulado", "papel": "Berserker de chardalyn capturado por los gnolls de la Fisura de las Carcajadas.", "ciudad": "tundra",
+      "aspecto_en": "Full body portrait of an adult human male berserker, broad and powerful beneath battered hide armor and heavy winter furs. His hands and face are blackened by frostbite, his cracked lips bleeding. He grips a single black crystalline javelin and stares with murderous intensity. Rigid predatory posture, harsh cold light, neutral background.",
+      "presentacion": "Veis a un hombre que recorre sin descanso el espacio de su jaula. La armadura de piel roza las vigas y la jabalina de cristal negro permanece firme en su mano. Sus labios agrietados sangran y la congelación le ha ennegrecido el rostro. Cuando os acercáis, sus ojos siguen vuestros brazos con una atención asesina. A vuestras palabras responde únicamente el silencio.",
+      "caracter": "Odio silencioso; no parlamenta y ataca sin miedo ni remordimiento.", "quiere": "Matar a cualquier criatura a su alcance y escapar para seguir matando.", "sabe": "Nada útil que esté dispuesto a comunicar; liberado no distingue aliados de enemigos.", "desafio": "berserker-enjaulado"
+    },
+    {
+      "slug": "gelym-tyzar", "nombre": "Gelym y Tyzar", "papel": "Dos crías de dragón blanco que vigilan la cueva mientras los berserkers cazan.", "ciudad": "tundra",
+      "aspecto_en": "Full body portrait of two young white dragons curled close together, their compact muscular bodies covered in pale icy scales. Folded wings, sharp claws, long tails and watchful predatory eyes define their silhouettes. Frost dusts their backs in place of clothing. One raises its head defensively beside a few scattered coins. Cold light, neutral rocky background.",
+      "presentacion": "Al dirigir la luz hacia el fondo, distinguís dos cuerpos blancos acurrucados uno junto al otro. Las escamas devuelven reflejos fríos y una respiración pesada llena el espacio bajo el techo. Dos cabezas se levantan hacia vosotros; las alas se separan de los costados y las garras buscan apoyo en la piedra. No hay curiosidad en sus ojos, solo la atención de dos depredadores que defienden su guarida.",
+      "caracter": "Bestiales y territoriales; atacan a intrusos y no persiguen a quienes salen de la cueva.", "quiere": "Defender la guarida, alimentarse y acumular tesoro.", "sabe": "Las rutas de la cueva, el acceso por el tobogán y el olor de los berserkers.", "desafio": "crias-dragon-blanco"
+    },
+    {
+      "slug": "berserkers-cueva", "nombre": "Berserkers de chardalyn de la cueva", "papel": "Humanos escindidos de la Tribu del Oso, corrompidos por chardalyn y devotos de Auril.", "ciudad": "tundra",
+      "aspecto_en": "Full body portrait of adult human berserkers with robust builds, blood soaked leather armor and rough winter furs. Frostbite blackens their faces and extremities, and their lips are cracked. One has lost his nose. They carry torches, black crystalline javelins and a chardalyn flail. Hateful eyes and unsettling rigid grins, cold cavern lighting.",
+      "presentacion": "La luz de las antorchas descubre figuras humanas robustas, envueltas en cuero manchado de sangre. Veis rostros y manos ennegrecidos por el frío, labios abiertos por las grietas y armas de cristal negro siempre cerca. Ninguno os ofrece una palabra. Sus miradas permanecen fijas en vosotros; cuando comprendéis que las heridas no bastan para derribarlos, una sonrisa rígida les deforma la boca.",
+      "caracter": "Silencio lleno de odio; no parlamentan y sonríen con rictus al revelarse su inmortalidad.", "quiere": "Servir a la Doncella de Escarcha, cazar, alimentar a las crías y defender la guarida.", "sabe": "Los pasadizos, las rutas de caza y la protección del brasero.", "desafio": "banda-berserkers"
+    },
+    {
+      "slug": "familia-nabira", "nombre": "Familia de Nabira Moarskull", "papel": "Familia de la pescadora asesinada por los gnolls y destinataria del anzuelo recuperado.", "ciudad": "easthaven",
+      "aspecto_en": "Full body group portrait of a northern human fishing family: an adult son and daughter with their families, including young granddaughter Ahmi. Practical layered wool, worn winter coats, mittens and sturdy boots suit a frozen lakeside town. The adults look subdued and attentive; the child appears sorrowful. A small fishing hook is the visual focus, soft cold light.",
+      "presentacion": "Ante vosotros está la familia de Nabira: un hijo y una hija adultos, acompañados por los suyos. Entre ellos veis a Ahmi, cuya cercanía al cumpleaños no logra borrar la tristeza por su abuela. Al mostrar el anzuelo, las miradas se detienen en él y las voces se vuelven más suaves. Para ellos, ese pequeño objeto guarda mucho más que el recuerdo de una jornada de pesca.",
+      "caracter": "Agradecidos por recuperar el anzuelo; hablan desde el duelo, especialmente por la tristeza de Ahmi.", "quiere": "Honrar la memoria de Nabira y animar a Ahmi.", "sabe": "El valor sentimental del anzuelo; pueden reunir 50 piezas de oro si el grupo insiste en cobrar.", "desafio": null
+    }
+  ],
+  "desafios": [
+    {
+      "slug": "berserker-enjaulado", "nombre": "Berserker enjaulado", "nivel": 2, "poderio": [{"nivel": "adventure", "aspecto": "Furia de chardalyn tras los barrotes"}], "roles": ["Adversario", "Bruto"],
+      "aspecto_en": "Full body view of a powerful adult human captive behind thick wooden beams and iron fittings. Frostbitten black hands grip a dark crystalline javelin. Battered hide armor and winter furs cover his broad body; cracked lips and murderous eyes show unrelenting hatred. He reaches between the bars toward the viewer, cold snow reflected light.",
+      "descripcion": "Los gnolls lo mantienen cautivo hasta que se debilite lo suficiente para matarlo y comérselo. Conserva una jabalina; su mangual y dos jabalinas cayeron al abismo. En el original le quedan 60 puntos de vida.",
+      "limites": [{"nombre": "herido", "valor": 4, "consecuencia": "El berserker queda derrotado."}], "etiquetas": ["berserker de chardalyn", "enjaulado", "jabalina de chardalyn", "odio"],
+      "rasgos": [{"nombre": "Odio sin palabras", "descripcion": "No parlamenta ni distingue aliados cuando es liberado."}],
+      "amenazas": [
+        {"nombre": "Agarre entre barrotes", "descripcion": "Atrapa a quien se ponga a su alcance.", "consecuencias": ["Impone [agarrado-2]"]},
+        {"nombre": "Apuñalamiento", "descripcion": "En su siguiente turno apuñala a la víctima que haya agarrado.", "consecuencias": ["Inflige [herido-3]"]},
+        {"nombre": "Liberación", "descripcion": "Ataca a la criatura más cercana sin miedo ni remordimiento.", "consecuencias": ["Crea [berserker liberado]"]}
+      ], "secretos": [{"nombre": "Cerrojo exterior", "descripcion": "No puede alcanzar el cerrojo desde dentro de la jaula."}]
+    },
+    {
+      "slug": "banda-berserkers", "nombre": "Berserkers de chardalyn de la cueva", "nivel": 3, "poderio": [{"nivel": "adventure", "aspecto": "Banda protegida por la llama de Auril"}], "roles": ["Adversario", "Bruto"],
+      "aspecto_en": "Full body group of robust adult human berserkers wearing blood stained leather armor beneath rough winter furs. Blackened frostbitten faces, cracked lips and damaged hands contrast with pale cavern ice. They hold black crystalline javelins and flails, with torches casting harsh light. Their expressions combine silent hatred with rigid unnatural smiles, ready to charge.",
+      "descripcion": "Esta banda procede de una escisión de la Tribu del Oso. La magia demoníaca de la chardalyn les arrebató la humanidad y ahora sirven a Auril. La llama fría los protege dentro de Q3 a Q8 y los túneles que las unen.",
+      "limites": [{"nombre": "herido", "valor": 4, "consecuencia": "La banda queda derrotada si no cuenta con la protección de la llama; con ella permanece en herido-3."}],
+      "etiquetas": ["berserker de chardalyn", "armadura de cuero", "jabalina de chardalyn", "mangual de chardalyn", "adorador de Auril", "sin miedo"],
+      "rasgos": [{"nombre": "Inmortalidad del brasero", "descripcion": "Mientras arda la llama, un golpe que los derrotaría los deja en [herido-3]; sonríen con rictus. Ninguna otra criatura recibe este beneficio."}],
+      "amenazas": [
+        {"nombre": "Ataque con chardalyn", "descripcion": "Golpean con sus armas de cristal negro.", "consecuencias": ["Inflige [herido-3]"]},
+        {"nombre": "Carga implacable", "descripcion": "Se lanzan contra los intrusos y no retroceden.", "consecuencias": ["Crea [sin retirada]"]},
+        {"nombre": "Beneficio del brasero", "descripcion": "Resisten un golpe que debería acabar con ellos mientras arde Q5.", "consecuencias": ["Quedan en [herido-3] en lugar de caer"]}
+      ], "secretos": [{"nombre": "Mortales fuera de la protección", "descripcion": "Fuera de la cueva pierden el beneficio; apagar la llama también los vuelve mortales. No parlamentan."}]
+    },
+    {
+      "slug": "crias-dragon-blanco", "nombre": "Crías de dragón blanco, Gelym y Tyzar", "nivel": 2, "poderio": [{"nivel": "adventure", "aspecto": "Manada de dos depredadores alados"}], "roles": ["Adversario", "Merodeador"],
+      "aspecto_en": "Full body view of two white dragon wyrmlings, compact muscular predators with pale scales, sharp teeth, broad wings and long tails. One crouches ready to spring while the other opens its wings beside a rough stone chute. Frost hangs around their jaws, eyes fixed on intruders. Cold blue light emphasizes their scales against dark cavern rock.",
+      "descripcion": "Las dos crías comparten la cueva con los berserkers y acumulan un pequeño tesoro en Q4. El ruido fuerte las atrae mediante una maniobra de flanqueo. Atacan a cualquier criatura que entre en su guarida.",
+      "limites": [{"nombre": "herido", "valor": 5, "consecuencia": "Las crías quedan derrotadas."}], "etiquetas": ["cría de dragón blanco", "alas", "aliento de hielo", "vuelo", "depredador"],
+      "rasgos": [{"nombre": "Defensa en pareja", "descripcion": "Al dañar el pórtico o hacer ruido fuerte en Q3, una cría llega de frente y la otra por el tobogán."}],
+      "amenazas": [
+        {"nombre": "Aliento de hielo", "descripcion": "Exhalan un cono de frío.", "consecuencias": ["Inflige [herido-3]", "Impone [helado-2]"]},
+        {"nombre": "Mordisco y garras", "descripcion": "Desgarran a la presa cercana.", "consecuencias": ["Inflige [herido-2]"]},
+        {"nombre": "Emboscada por el tobogán", "descripcion": "Una cría rodea a los intrusos y se abalanza desde atrás.", "consecuencias": ["Crea [atacados por detrás]", "Impone [tumbado-1]"]}
+      ], "secretos": [{"nombre": "Límite territorial", "descripcion": "No persiguen a quienes huyen fuera. Se posan sobre la entrada y vigilan varias horas antes de volver; les gusta acumular tesoro."}]
+    },
+    {
+      "slug": "portico-oso", "nombre": "Pórtico de la cabeza de oso", "nivel": 2, "poderio": [{"nivel": "origin", "aspecto": "Estructura de madera sorprendentemente robusta"}], "roles": ["Obstáculo"],
+      "aspecto_en": "Wide view of a weathered timber portal roughly carved into an open mouthed bear head around a cave entrance. Thick supports and dense wooden joints reveal unexpected strength beneath the shabby surface. Snow packs the base, dark stone rises behind it and a black tunnel opens through the mouth. Cold winter light, no people or creatures.",
+      "descripcion": "La estructura parece destartalada, pero es sólida. Dañarla produce ruido suficiente para alertar a las dos crías de Q4.",
+      "limites": [{"nombre": "herido", "valor": 5, "consecuencia": "El pórtico queda destruido."}], "etiquetas": ["pórtico de madera", "cabeza de oso", "robusto"],
+      "rasgos": [{"nombre": "Inmunidades", "descripcion": "Es inmune al veneno y al daño psíquico."}],
+      "amenazas": [
+        {"nombre": "Madera resquebrajada", "descripcion": "Se resquebraja al recibir golpes y hiere a quien lo daña.", "consecuencias": ["Inflige [herido-2]"]},
+        {"nombre": "Ruido de alarma", "descripcion": "El daño atrae a una cría de frente y a otra por el tobogán.", "consecuencias": ["Crea [crías alertadas]", "Desencadena la llegada de Gelym y Tyzar"]}
+      ], "secretos": [{"nombre": "Resistencia finita", "descripcion": "Puede destruirse con suficiente daño; su resistencia original es CA 15 y 75 puntos de vida."}]
+    },
+    {
+      "slug": "tobogan-piedra", "nombre": "Tobogán de piedra", "nivel": 1, "poderio": [{"nivel": "origin", "aspecto": "Pendiente helada sobre el barranco"}], "roles": ["Peligro", "Obstáculo"],
+      "aspecto_en": "Cutaway environmental view of a steep twenty five foot stone chute roughly carved through dark rock. Ice, old blood and grime stain its sloping surface. The upper opening leads into a low cavern, while the lower mouth overlooks a ravine filled with soft snow. Cold grey and white palette, no people or creatures, clear readable terrain.",
+      "descripcion": "Este conducto conecta Q4 con el barranco al este de la calzada. Los berserkers vierten por él sangre del matadero y residuos humanos. Su ángulo pronunciado dificulta el tránsito.",
+      "limites": [{"nombre": "herido", "valor": 3, "consecuencia": "Quien alcanza este límite por los daños de la caída queda derrotado; el conducto no se destruye por ello."}], "etiquetas": ["tobogán de piedra", "hielo", "barranco"],
+      "rasgos": [{"nombre": "Paso escarpado", "descripcion": "Sin magia ni equipo se requiere una prueba con etiquetas pertinentes para subir o bajar; referencia original: Atletismo CD 15."}],
+      "amenazas": [
+        {"nombre": "Caída al barranco", "descripcion": "Resbalar lleva hasta la nieve del barranco.", "consecuencias": ["Inflige [herido-2]", "Impone [tumbado-1]", "Impone [empapado-1]"]},
+        {"nombre": "Tránsito sin equipo", "descripcion": "Un fallo por cinco o más al ascender o descender provoca la caída.", "consecuencias": ["Desencadena Caída al barranco"]}
+      ], "secretos": [{"nombre": "Tránsito asegurado", "descripcion": "Con magia o equipo de escalada no requiere prueba. La nieve blanda amortigua la caída."}]
+    },
+    {
+      "slug": "brasero-frio", "nombre": "Brasero de la llama fría", "nivel": 3, "poderio": [{"nivel": "greatness", "aspecto": "Don de Auril que impide morir a sus berserkers"}], "roles": ["Peligro", "Apoyo"],
+      "aspecto_en": "Environmental portrait of a three foot stone brazier growing seamlessly from a cavern floor against the rear wall. A vivid blue flame burns without fuel, illuminating thick frost and hanging icicles. White smoke briefly suggests a woman's silhouette before dissolving into curling wisps. Ancient rough stone, icy silver and blue palette, no physical people present.",
+      "descripcion": "Auril otorgó este brasero a sus devotos de chardalyn. Su aura de abjuración protege a los berserkers dentro de Q3 a Q8 y sus túneles. El humo adopta fugazmente forma de mujer.",
+      "limites": [{"nombre": "extinguido", "valor": 2, "consecuencia": "La llama se apaga y los berserkers pierden su protección; la duración depende del medio empleado."}], "etiquetas": ["brasero de piedra", "llama fría", "magia de abjuración", "humo en forma de mujer"],
+      "rasgos": [{"nombre": "Piedra inalterable al daño", "descripcion": "No es un objeto separable: no puede moverse ni dañarse. El agua y la sofocación no apagan la llama."}],
+      "amenazas": [
+        {"nombre": "Quemadura de frío", "descripcion": "El primer contacto directo con la llama en un turno causa frío.", "consecuencias": ["Inflige [herido-2]", "Impone [helado-2]"]},
+        {"nombre": "Protección de los berserkers", "descripcion": "Mientras arda, los berserkers de la zona protegida no pueden ser derrotados; ninguna otra criatura se beneficia.", "consecuencias": ["Un golpe que los haría caer los deja en [herido-3]"]},
+        {"nombre": "Apagado temporal", "descripcion": "Disipar magia apaga la llama durante una hora; después se reaviva.", "consecuencias": ["Crea [brasero apagado (una hora)]", "Elimina temporalmente la protección"]},
+        {"nombre": "Apagado permanente", "descripcion": "Moldear piedra altera el brasero y extingue la llama para siempre.", "consecuencias": ["Crea [brasero destruido]", "Elimina permanentemente la protección"]}
+      ], "secretos": [{"nombre": "Apagado inadvertido", "descripcion": "Los berserkers no perciben automáticamente cuándo se apaga la llama. Detectar magia revela una poderosa aura de abjuración."}]
+    },
+    {
+      "slug": "frio-extremo", "nombre": "Frío extremo del valle", "nivel": 2, "poderio": [{"nivel": "adventure", "aspecto": "Frío y ventiscas en torno al refugio"}], "roles": ["Peligro"],
+      "aspecto_en": "Wide environmental view of a frozen tundra beneath a sheer grey cliff. Wind drives dense snow across a raised path and down into a white ravine. Ice grips exposed stone and obscures distant terrain. Dim winter light, desaturated blue, grey and white palette, no people or creatures. The image should convey penetrating cold and disorientation.",
+      "descripcion": "El frío extremo y las ventiscas amenazan los alrededores de la cueva. La exposición entumece y dificulta orientarse en la tundra.",
+      "limites": [{"nombre": "helado", "valor": 6, "consecuencia": "La exposición al frío derrota a quien alcanza este límite."}], "etiquetas": ["ventisca", "frío extremo", "tundra"],
+      "rasgos": [{"nombre": "Exposición invernal", "descripcion": "La intemperie puede imponer [helado-2], [perdido-2] y [empapado-2]."}],
+      "amenazas": [
+        {"nombre": "Frío hasta los huesos", "descripcion": "El viento y la exposición enfrían el cuerpo.", "consecuencias": ["Impone [helado-2]"]},
+        {"nombre": "Desorientación", "descripcion": "La ventisca borra las referencias del terreno.", "consecuencias": ["Impone [perdido-2]"]}
+      ], "secretos": [{"nombre": "Abrigo y descanso", "descripcion": "La cueva, el fuego, la ropa de abrigo y descansar en un campamento mitigan los estados."}]
+    }
+  ],
+  "objetos": [
+    {"slug": "jabalina-cautivo", "nombre": "Jabalina del berserker enjaulado", "etiqueta": "jabalina de chardalyn", "descripcion": "Arma de cristal negro que conserva el cautivo. Intenta usarla contra quienes agarre entre los barrotes.", "imagen_en": "Isolated black crystalline javelin with a jagged faceted point and dark slender shaft. Cold highlights reveal translucent mineral edges, practical brutal craftsmanship, neutral background, no text or hands."},
+    {"slug": "armas-abismo", "nombre": "Mangual y dos jabalinas perdidos", "etiqueta": "armas de chardalyn", "descripcion": "El mangual y dos jabalinas del cautivo cayeron al abismo. Son una pista de su procedencia.", "imagen_en": "Isolated group of a dark crystalline flail and two black javelins, lying together on pale snow. Faceted mineral surfaces catch cold light, battered practical weapon shapes, no text or people."},
+    {"slug": "anillo-berserker", "nombre": "Anillo de berserker muerto", "etiqueta": "anillo de chardalyn", "descripcion": "Quitado a un berserker muerto; su rutina teletransporta a los Héroes al camino congelado de Q1.", "imagen_en": "Isolated ring made of dark chardalyn, its black crystalline surface showing subtle angular facets. Cool reflected light outlines the band against a plain pale background, no inscription, text or hands."},
+    {"slug": "anzuelo-pescador", "nombre": "Anzuelo de la delicia del pescador", "etiqueta": "anzuelo de la delicia del pescador", "descripcion": "Recuerdo de Nabira Moarskull recuperable en la Fisura. Puede devolverse a su familia en Puerto Este como regalo de cumpleaños para Ahmi; si se insiste en cobrar, reúnen 50 piezas de oro.", "imagen_en": "Isolated small fishing hook, carefully presented as a treasured keepsake. Worn metal curves catch soft cool light against a neutral background, simple practical fishing equipment, no lettering or hands."},
+    {"slug": "cascaras-dragon", "nombre": "Cáscaras de huevo de dragón blanco", "etiqueta": "huevos de dragón blanco eclosionados hace tres años", "descripcion": "Fragmentos blanco azulados de dos huevos del tamaño de un mediano. Un examen exitoso de naturaleza revela la especie y la fecha aproximada de eclosión, y concede esta etiqueta de historia.", "imagen_en": "Isolated collection of large curved eggshell fragments, pale white with a bluish cast and rough broken edges. Thick mineral looking shells rest on neutral grey stone, cold light, no text."},
+    {"slug": "bolsa-monedas", "nombre": "Monedas del tesoro de las crías", "etiqueta": "bolsa de monedas", "descripcion": "Pila contra la pared este de Q4: 96 monedas de plata y 331 de cobre. Comparte el tesoro con las herramientas, el catalejo y el pergamino.", "imagen_en": "Isolated small pile of worn silver and copper coins, mixed sizes with indistinct weathered surfaces. Cold highlights contrast with warm copper patina on a neutral stone background, no readable text."},
+    {"slug": "herramientas-ladron", "nombre": "Herramientas de ladrón", "etiqueta": "herramientas de ladrón", "descripcion": "Juego completo guardado en una billetera de cuero cosida del tesoro de Q4. Sirve para forzar cerraduras y desactivar trampas.", "imagen_en": "Isolated stitched leather tool wallet opened to reveal a complete set of fine lockpicks, small probes and delicate metal tools. Worn brown leather, cold steel highlights, neutral background, no text."},
+    {"slug": "catalejo-roto", "nombre": "Catalejo roto", "etiqueta": "catalejo roto", "descripcion": "Parte del tesoro de Q4, con valor aproximado de 250 piezas de oro. Puede repararse y resultar útil para vigilancia.", "imagen_en": "Isolated broken handheld spyglass with a visibly damaged lens and worn telescoping metal tubes. Practical aged construction, cold highlights on the glass, plain neutral background, no text or hands."},
+    {"slug": "pergamino-apertura", "nombre": "Pergamino de apertura", "etiqueta": "pergamino de apertura", "descripcion": "Pergamino de conjuro encontrado en el tesoro de Q4. Su rutina permite abrir cerraduras o puertas.", "imagen_en": "Isolated aged parchment scroll partly unfurled, with curled edges and faint abstract arcane marks that form no readable writing. Soft cool illumination, simple neutral background, no hands or additional objects."},
+    {"slug": "carne-fresca", "nombre": "Carne fresca", "etiqueta": "carne fresca", "descripcion": "Ochenta libras de carne segura para cocinar, almacenadas en nieve en Q7. Incluye oso polar y alce; puede cambiarse por favores o provisiones en Diez Ciudades, con referencia de cinco piezas de plata por libra.", "imagen_en": "Isolated clean prepared haunches of meat resting in fresh white snow inside a shallow stone trough. Muted red flesh, frost around the edges, cold storage lighting, no people or text."},
+    {"slug": "antorchas-berserkers", "nombre": "Antorchas de los berserkers", "etiqueta": "antorcha", "descripcion": "Los berserkers las llevan como fuente de luz para recorrer la cueva oscura.", "imagen_en": "Isolated practical wooden torch with a tightly wrapped combustible head and a small warm flame. Rough worn handle, orange light against a neutral grey background, no hands or text."},
+    {"slug": "tablon-dormitorio", "nombre": "Tablón de madera del dormitorio", "etiqueta": "tablón helado", "descripcion": "Tablón cubierto de escarcha que sirve de puente sobre la fisura de diez pies de profundidad del acceso a Q8.", "imagen_en": "Isolated long rough wooden plank coated with frost and thin patches of ice. Worn grain and squared ends remain visible beneath white crystals, cool light, neutral background, no text."}
+  ],
+  "ayudas": [
+    {"slug": "pergamino-apertura", "titulo": "Pergamino de apertura", "tipo": "nota", "texto": "Pergamino de apertura\n\nRutina: abrir cerraduras o puertas.", "fondo_en": "Blank aged parchment sheet with gently curled edges, subtle creases and pale uneven fibers. Cool neutral light, generous empty central space, no letters, symbols, writing or decorative illustrations."}
+  ],
+  "hitos": [
+    "Liberar la cueva de los berserkers y eliminar su amenaza para Diez Ciudades.",
+    "Ayudar a la Tribu del Oso a recuperar su refugio y cumplir el encargo del goliat hombre oso o del rey Gunvald Halraggson.",
+    "Devolver el anzuelo de Nabira Moarskull a su familia y ofrecer a Ahmi un regalo de cumpleaños.",
+    "Apagar temporalmente el brasero con disipar magia o extinguirlo para siempre con moldear piedra.",
+    "Evitar o derrotar a Gelym y Tyzar y recuperar su tesoro."
+  ],
+  "relojes": []
+}

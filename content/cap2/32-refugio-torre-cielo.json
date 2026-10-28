@@ -1,0 +1,297 @@
+{
+  "seccion": "32-refugio-torre-cielo",
+  "titulo": "Refugio Torre del Cielo",
+  "escenas": [
+    {
+      "slug": "calzada-de-piedra",
+      "nombre": "Calzada de piedra",
+      "ciudad": "otro",
+      "interior": false,
+      "imagen_en": "Wide establishing view of a narrow stone causeway hugging the northwestern face of a fifteen-thousand-foot mountain. Low clouds obscure the summit, snow clings to grey rock, and distant empty perches overlook a sheer abyss. Cold diffuse light, slate grey and icy white palette. No people or creatures. Leave the lower third clear.",
+      "lectura": "La calzada de piedra se aferra a la ladera como una cicatriz blanca. Ascendéis por un camino de tres metros de ancho mientras las nubes se cierran y se abren sobre vuestras cabezas. En lo alto, seis grifos vigilan la cima con una paciencia que no promete nada bueno. Su vista atraviesa la niebla. Cada paso os acerca a un refugio que ya sabe que venís, aunque no sepa quiénes sois. El viento corta la respiración y la montaña parece inclinarse para empujaros hacia el abismo.",
+      "notas": "Los seis grifos chillan al descubrir desconocidos y los goliats se arman; un Héroe del clan puede evitar la alarma presentándose. Los grifos combatirán si atacan el refugio. Para el viaje por los pasos aplica la tormenta de montaña, con helado-1, perdido-2 y empapado-2 según corresponda.",
+      "musica": "camino",
+      "motivos": ["amenaza", "ventisca-m"],
+      "efectos": ["viento", "pasos", "alas"],
+      "ambiente": "dim",
+      "etiquetas": ["calzada de piedra", "grifos vigilantes", "nubes bajas", "montaña de quince mil pies"],
+      "figuras": ["grifos-manada", "tormenta-columna-mundo"]
+    },
+    {
+      "slug": "barricada-y-caudillo",
+      "nombre": "Barricada y caudillo",
+      "ciudad": "otro",
+      "interior": false,
+      "imagen_en": "Wide view of a mountain fortress entrance blocked by a ten-foot barricade of timber and stone. A crude thick wooden gate bristles with metal blades, with a higher rocky guard ledge beyond. Snow gathers in crevices beneath a clouded sky. Cold mountain light, dark timber and grey stone. No people or creatures. Keep the lower third clear.",
+      "lectura": "Seis grifos giran sobre vosotros y chillan al acercaros. Al final de la entrada se alza una barricada de madera y piedra, de tres metros de alto, con una puerta tosca reforzada con cuchillas de metal. Por los huecos veis una figura descomunal con armadura de cuero, empuñando un hacha enorme. Más arriba, cinco siluetas igual de imponentes montan guardia en la cornisa. La figura tras la puerta os mira sin moverse. Su voz, cuando llega, es grave y no deja espacio para la duda.",
+      "notas": "Arn recibe a los Héroes del clan y sus acompañantes; a los demás exige la capa blanca de Ogolai, aunque deban matarlo o forzarlo a entregarla. Dos barras de madera de quinientas libras sellan la puerta y las cuchillas impiden escalar: entrar sin permiso desencadena un ataque, con nueve guerreros en la tercera ronda y seis grifos en la quinta, o antes si Arn silba. Restaurar la vista de Kaniaka permite que ella lo convenza para reunirse con Ogolai en el refugio o en terreno neutral; Arn relata su versión del juego de pelota de cabra y del grifo muerto en su nido. Ogolai exige curar a sus aarakocra heridos: la mediación debe limitar los séquitos y puede proponer un enemigo común para resolver el feudo.",
+      "musica": "pueblo",
+      "motivos": ["tension", "amenaza"],
+      "efectos": ["viento", "alas", "puerta"],
+      "ambiente": "dim",
+      "etiquetas": ["barricada con cuchillas", "Arn en guardia", "grifos en círculo", "refuerzos en la tercera y quinta ronda", "capa blanca exigida"],
+      "figuras": ["arn-puno-petreo", "goliats-akannathi", "grifos-manada"]
+    },
+    {
+      "slug": "pasarela-elevada",
+      "nombre": "Pasarela elevada",
+      "ciudad": "otro",
+      "interior": false,
+      "imagen_en": "Wide view of a ten-foot-high rocky outcrop inside a mountain stronghold approach, reached by rough stone stairs. A large empty nest containing mountain goat bones occupies one corner. Two crudely hewn tunnels open in the rear wall. Windblown snow, grey rock and pale cold light. No people or creatures. Leave open space in the lower third.",
+      "lectura": "Cinco goliats montan guardia sobre un afloramiento rocoso de tres metros, con escaleras que conducen a su cima. A un lado descansa un nido grande y vacío; al fondo, dos túneles toscamente labrados se adentran en la montaña. Los guardianes no hablan: se limitan a observar con la misma fijeza que la roca sobre la que se apoyan. El viento aúlla entre los túneles y arrastra copos de nieve por la cornisa. Aquí la montaña ya no es un paisaje: es una fortaleza.",
+      "notas": "Los cinco guardianes son guerreros goliats y defienden el acceso. El nido solo contiene huesos de cabras montesas sin valor; los dos túneles conducen al interior.",
+      "musica": "pueblo",
+      "motivos": ["tension"],
+      "efectos": ["viento", "pasos"],
+      "ambiente": "dim",
+      "etiquetas": ["pasarela elevada", "cinco guardianes", "nido vacío", "túneles interiores"],
+      "figuras": ["goliats-akannathi"]
+    },
+    {
+      "slug": "cueva-del-caudillo",
+      "nombre": "Cueva del caudillo",
+      "ciudad": "otro",
+      "interior": true,
+      "imagen_en": "Wide interior of a twelve-foot-high family cave, with a crackling central fire and hunting trophies lining the walls. Mountain beast skulls and hides hang above private side alcoves containing sleeping mats. A folded white yeti-fur cloak rests beside the hearth. Warm amber firelight against cold grey stone. No people or animals. Leave the lower third clear.",
+      "lectura": "El fuego crepita en el centro de una cueva de casi cuatro metros de altura cuyas paredes están forradas con trofeos de caza: cráneos y pieles de criaturas de la montaña. Junto al fuego se sienta una anciana goliat de largos cabellos blancos, envuelta en una capa de piel de yeti. A su lado, un felino del tamaño de un tigre, de pelaje blanco, se agacha sin apartar la vista de vosotros. En las alcobas laterales distinguís colchonetas, y el calor del hogar apenas alcanza los rincones.",
+      "notas": "Kaniaka, madre de Harad, es ciega, escucha con atención y desea el fin del feudo; curarla concede deuda de Kaniaka y su mediación ante Arn. Harad, esposo de Arn, duerme hasta que habláis con ella: ataca si habéis matado a sus familiares, pero ante otras ofensas intenta provocar el primer golpe por honor. El gato solo combate para proteger a Kaniaka.",
+      "musica": "pueblo",
+      "motivos": ["misterio", "esperanza"],
+      "efectos": ["hogar", "pasos", "rugido"],
+      "ambiente": "dim",
+      "etiquetas": ["cueva familiar", "fuego crepitante", "trofeos de caza", "Kaniaka ciega", "Harad protector"],
+      "figuras": ["kaniaka-stormcrow", "harad-cloudstrider", "gato-de-los-riscos"]
+    },
+    {
+      "slug": "santuario-mente-espiritu",
+      "nombre": "Santuario de mente y espíritu",
+      "ciudad": "otro",
+      "interior": true,
+      "imagen_en": "Wide interior of a ten-foot-high mountain cave containing an eight-foot standing stone carved with dwarven runes. Nearby, a sloping ramp with carved footholds descends into a five-foot-wide shaft. Torches cast soft amber light across rough grey walls, leaving deep shadows around the sacred monolith. Quiet contemplative atmosphere, no people or creatures. Keep the lower third clear.",
+      "lectura": "En el centro de una cueva de tres metros de altura se alza una piedra de casi dos metros y medio cubierta de runas. Cerca, una rampa con puntos de apoyo tallados desciende hacia un conducto estrecho. Los goliats acuden aquí cuando buscan claridad de mente y espíritu. El aire es frío y quieto, y las runas parecen brillar levemente bajo la luz de las antorchas. Si os detenéis a leerlas, descubriréis una historia sobre visión y liderazgo entre las grandes aves depredadoras del Valle.",
+      "notas": "Las runas están en enano y la piedra irradia transmutación. Una hora de oración o meditación concede el dado de piedra rúnica de mente, utilizable durante veinticuatro horas; consulta el objeto para sus condiciones. El conducto desciende a la cueva de los grifos.",
+      "musica": "pueblo",
+      "motivos": ["misterio"],
+      "efectos": ["hogar", "pasos"],
+      "ambiente": "dim",
+      "etiquetas": ["piedra rúnica", "santuario de mente", "conducto a S6", "aura de transmutación"],
+      "figuras": []
+    },
+    {
+      "slug": "cueva-de-grifos",
+      "nombre": "Cueva de los grifos",
+      "ciudad": "otro",
+      "interior": true,
+      "imagen_en": "Wide view of a fifteen-foot-high mountain cave with four huge empty griffon nests, three clustered centrally and one to the north. A broad northern opening frames jagged peaks beneath storm clouds. A side alcove contains an oversized quilt. Wind stirs loose feathers in cold blue daylight, grey and straw-gold palette. No people or creatures. Leave the lower third clear.",
+      "lectura": "El suelo cae más de cuatro metros hasta una cueva de altura semejante. Cuatro nidos de grifo ocupan el espacio: tres agrupados en el centro y uno al norte, donde un adulto duerme profundamente. El viento entra por una amplia abertura y agita sus plumas; más allá se ven los picos de las montañas y nubes de tormenta. En el borde de la abertura, una mujer goliat habla en voz baja con un joven grifo que se apoya en ella. «No os acerquéis más», advierte. «Este joven tiene miedo de volar y su madre intenta descansar.»",
+      "notas": "Rahi permite ayudar a la cría tras una persuasión difícil; calmarla exige manejo de animales, y un fallo provoca un intento de mordisco y la orden de retirarse. La madre defiende a Rahi y a su cría; Rahi puede llamar a dos grifos que llegan en la tercera ronda. Ganarse su confianza abre a un Héroe goliat un año de aprendizaje, terminado con una prueba de doma: el éxito crea un vínculo de por vida y un hito de Gesta, aunque el grifo solo será montable al tercer año.",
+      "musica": "pueblo",
+      "motivos": ["bestia", "esperanza"],
+      "efectos": ["viento", "alas"],
+      "ambiente": "dim",
+      "etiquetas": ["cueva de grifos", "grifo dormido", "joven con miedo a volar", "Rahi cuidadora", "abertura a la montaña"],
+      "figuras": ["rahi-sonadora-cielo", "grifo-joven", "madre-grifo", "grifos-manada"]
+    },
+    {
+      "slug": "santuario-fuerza-honor",
+      "nombre": "Santuario de fuerza y honor",
+      "ciudad": "otro",
+      "interior": true,
+      "imagen_en": "Wide interior of a twelve-foot-high cave with an eight-foot runic standing stone at its centre. Behind it, a five-foot-wide sloping chute with carved footholds climbs toward an upper cavern. Torches illuminate dwarven inscriptions and rough grey rock with warm amber highlights. Solemn mountain sanctuary, no people or creatures. Leave uncluttered space in the lower third.",
+      "lectura": "En el centro de una cueva de casi cuatro metros de altura se alza otra piedra cubierta de runas. Detrás, un tobogán con puntos de apoyo tallados asciende hacia una caverna superior. La piedra es una de las dos sagradas del refugio y los goliats rezan junto a ella cuando buscan fuerza física y victoria en el combate y la competencia. Las runas, en enano, hablan de gloria y honor en la batalla, pero advierten que la gloria solo llega a quien se desafía con rivales dignos.",
+      "notas": "La piedra irradia transmutación y concede su dado de fuerza tras una hora de oración o meditación, con las condiciones descritas en el objeto. El tobogán conduce a S9; si los guerreros siguen allí, llegan sus vítores.",
+      "musica": "pueblo",
+      "motivos": ["heroica"],
+      "efectos": ["hogar", "pasos", "multitud"],
+      "ambiente": "dim",
+      "etiquetas": ["piedra rúnica", "santuario de fuerza", "tobogán a S9", "aura de transmutación"],
+      "figuras": []
+    },
+    {
+      "slug": "pasadizo-de-tallas",
+      "nombre": "Pasadizo de las tallas",
+      "ciudad": "otro",
+      "interior": true,
+      "imagen_en": "Wide view along a roughly hewn stone passage sloping gently southward. Both walls carry weathered relief carvings depicting mountain settlement, griffon taming, wars, clan conflict and a giant polar bear. Mounted torches cast warm flickering light over cold grey rock, revealing successive layers of carving. No living people or creatures. Leave the lower third open.",
+      "lectura": "El pasadizo se inclina suavemente hacia el sur y las antorchas iluminan tallas que cubren ambas paredes. La saga comienza al norte: goliats domesticando la montaña, cavando hogares y convirtiendo a los grifos salvajes en compañeros de caza. Más al sur aparecen guerras contra los orcos, cuando Torre del Cielo y Perdición de las Sierpes luchaban juntos. Las tallas del último siglo narran el agriamiento de esa amistad: grifos muertos y escaramuzas en las laderas. Las más recientes muestran goliats solitarios persiguiendo a un oso polar gigante y a un clan cada vez más pequeño luchando contra un invierno sin fin.",
+      "notas": "Una prueba de historia permite fechar las primeras tallas hace unos cuatrocientos años y reconocer las últimas como muy recientes. Se pueden copiar o memorizar para apoyar la mediación; muestran el feudo y la amenaza de Oyaminartok.",
+      "musica": "pueblo",
+      "motivos": ["misterio"],
+      "efectos": ["pasos", "hogar"],
+      "ambiente": "dim",
+      "etiquetas": ["pasadizo tallado", "historia del clan", "feudo narrado", "Oyaminartok"],
+      "figuras": []
+    },
+    {
+      "slug": "cueva-del-festin",
+      "nombre": "Cueva del festín",
+      "ciudad": "otro",
+      "interior": true,
+      "imagen_en": "Wide interior of a fifteen-foot-high feasting cavern centred on a long rectangular fire pit. Meat roasts on a heavy grate while smoke gathers beneath the stone ceiling. Large heavy rocks lie near the southern wall, ready for a strength contest. Warm orange firelight, soot-black shadows and grey stone. No people or creatures. Keep the lower third clear.",
+      "lectura": "Una hoguera larga y rectangular calienta una cueva de más de cuatro metros de altura y llena el aire con el aroma de la carne asándose. Dos goliats se tienen en pie cerca de la pared sur, con los brazos extendidos y una gran roca en cada mano; sus músculos tiemblan y sus mandíbulas están apretadas. Siete más vitorean y agitan ancas de carne cocida. Cuando os ven, dejan de aplaudir. La competencia termina cuando ambos dejan caer las rocas, y los nueve os miran fijamente.",
+      "notas": "Sin un goliat del clan, los guerreros ordenan marcharse y atacan si los intrusos se niegan; la cueva estará vacía si han acudido a la barricada. Ganar su concurso concede respeto Akannathi y puede llevar a la amistad si no se ha ofendido al clan. Cada minuto se prueba atletismo con dificultad inicialmente baja y creciente; quien falla deja caer las piedras y queda eliminado.",
+      "musica": "taberna",
+      "motivos": ["duelo", "tension"],
+      "efectos": ["hogar", "multitud"],
+      "ambiente": "dim",
+      "etiquetas": ["cueva del festín", "concurso de rocas", "nueve guerreros", "fuego y carne"],
+      "figuras": ["goliats-akannathi"]
+    },
+    {
+      "slug": "cueva-comunal",
+      "nombre": "Cueva comunal",
+      "ciudad": "otro",
+      "interior": true,
+      "imagen_en": "Wide interior of a communal mountain cave, with fur blankets and sleeping mats arranged around a smoky central fire. A northern alcove contains mixed coins, gemstones, a bone statuette, a delicate gold cage with electrum filigree and a grey glass vial. Warm amber light fades into grey stone shadows. No people or creatures. Leave the lower third clear.",
+      "lectura": "Mantas y colchonetas de piel forman un círculo áspero alrededor de un fuego humeante. En una alcoba al norte, tres jóvenes goliats juegan en medio de una pila de monedas y piedras preciosas. El clan acumula aquí sus tesoros, aunque los goliats apenas los usan salvo para comprar comida o alojamiento en Diez Ciudades u otros asentamientos. Los jóvenes miden entre poco más de un metro y metro y medio; entre sus risas y el tintineo de las monedas, el refugio muestra una calma distinta.",
+      "notas": "Los tres niños no son combatientes y robar el tesoro enfrenta al clan con los Héroes. Representa su valor como favores, etiquetas de mochila e hitos de Gesta: incluye gemas, una estatuilla de Gruumsh, una jaula ornamental y una poción de forma gaseosa.",
+      "musica": "pueblo",
+      "motivos": [],
+      "efectos": ["hogar", "multitud"],
+      "ambiente": "dim",
+      "etiquetas": ["cueva comunal", "fuego humeante", "jóvenes goliats", "tesoro del clan"],
+      "figuras": ["jovenes-goliats"]
+    }
+  ],
+  "pnj": [
+    {
+      "slug": "gant-hermandad-arcana", "nombre": "Gant", "papel": "Miembro de la Hermandad Arcana que comparte conocimientos sobre Netheril.", "ciudad": "otro",
+      "aspecto_en": "Full-body portrait of a humanoid wizard of unspecified age and ancestry, wearing layered winter robes and a practical heavy cloak. An unadorned book rests beneath one arm, gloved hands held close against the cold. Reserved expression, restrained posture and muted charcoal fabrics. Keep physical features understated, with no elaborate insignia or distinctive invented magical equipment.",
+      "presentacion": "Ante vosotros, las capas de abrigo apenas dejan entrever la ropa de un mago. Gant guarda una pausa antes de hablar, como si midiera qué merece explicación. Cuando mencionáis Netheril, su tono pierde parte de la reserva: no os ofrece una ruta hacia la ciudad perdida, sino conocimientos que considera comunes. En su voz, los nombres de otros miembros de la Hermandad reciben matices bastante menos neutrales.",
+      "caracter": "Reservado; comparte lo que considera conocimiento común con voz contenida.", "quiere": "No se especifica en la ficha.",
+      "sabe": "No dispone de información útil para localizar la ciudad perdida. Conoce los magos gobernantes de Netheril, su caída hace más de mil años, la magia aprendida de elfos y Pergaminos de Nether, los phaerimm y la arrogancia de Karsus al romper la Urdimbre. Describe a Avaricia como tiflin albina prometedora, a Dzaan como Mago Rojo de Thay que busca la Urdimbre para su orden, a Nass Lantomir como un don nadie y a Vellynne Harpell como admitida por influencia familiar.", "desafio": null
+    },
+    {
+      "slug": "arn-puno-petreo", "nombre": "Arn Puño Pétreo Akannathi", "papel": "Jefe del Refugio Torre del Cielo y rival de Ogolai.", "ciudad": "otro",
+      "aspecto_en": "Full-body portrait of an adult male goliath chieftain, exceptionally tall and massively built, with stone-grey skin and a stern weathered face. He wears leather armour over practical mountain winter layers and holds an enormous axe. Broad grounded stance, uncompromising gaze, cold light catching worn leather and pale snow dust. His expression suggests impatience and unquestioned authority.",
+      "presentacion": "Tras la puerta reforzada distinguís un cuerpo que parece llenar el paso entero. La armadura de cuero cruje cuando el goliat acomoda el enorme hacha entre las manos. No necesita levantarla para que reparéis en su filo. Os observa uno a uno y deja que el viento ocupe el silencio. Cuando habla, su voz grave atraviesa la madera: cada palabra suena como una condición que espera ver cumplida.",
+      "caracter": "Orgulloso, desconfiado e impaciente con la diplomacia; responde a la agresión con agresión y utiliza a otros como herramientas.", "quiere": "Conseguir la capa blanca de Ogolai, debilitar a su rival y mantener su autoridad.", "sabe": "Su versión del feudo, dónde está Kaniaka y cómo convocar refuerzos. Solo acepta una reunión con Ogolai si Kaniaka recupera la vista y lo insta; admite el refugio o terreno neutral, aunque prefiere el refugio.", "desafio": "arn-caudillo"
+    },
+    {
+      "slug": "kaniaka-stormcrow", "nombre": "Kaniaka Stormcrow Akannathi", "papel": "Anciana ciega, madre de Harad e influencia decisiva sobre Arn.", "ciudad": "otro",
+      "aspecto_en": "Full-body portrait of an elderly female goliath, with a withered powerful frame, long white hair and blind unfocused eyes. She sits wrapped in a thick white yeti-fur cloak over simple mountain clothing. One hand rests near the hearth, her head tilted attentively toward approaching footsteps. Weathered stone-grey features, guarded but receptive expression, warm firelight against cold cave shadows.",
+      "presentacion": "La anciana vuelve la cabeza hacia vosotros antes de que habléis. El fuego dibuja reflejos en sus cabellos blancos y en la piel de yeti que le cubre los hombros, pero sus ojos no siguen vuestro movimiento. A su lado, un gran felino blanco vigila cada paso. Kaniaka escucha el roce de vuestras botas sobre la piedra; su silencio parece una pregunta y, también, una oportunidad de responder con cuidado.",
+      "caracter": "Desconfiada, pero dispuesta a escuchar; oído agudo y persuasión suave.", "quiere": "Recuperar la vista y ver terminar el conflicto con Peña de Perdición de las Sierpes.", "sabe": "La historia y relaciones del clan; tiene tanta influencia como Arn y puede convencerlo de reunirse con Ogolai tras recuperar la visión.", "desafio": null
+    },
+    {
+      "slug": "harad-cloudstrider", "nombre": "Harad Cloudstrider Akannathi", "papel": "Guerrero, esposo de Arn e hijo protector de Kaniaka.", "ciudad": "otro",
+      "aspecto_en": "Full-body portrait of an adult male goliath warrior with a broad muscular frame, stone-grey skin and a tense protective expression. He carries a great axe and wears rugged leather and fur-lined mountain clothing suitable for freezing caves. His shoulders are squared toward an unseen intruder, feet planted firmly. Warm hearth light reveals worn equipment and tightly controlled anger.",
+      "presentacion": "Unos pasos pesados resuenan desde la alcoba y un goliat aparece con un gran hacha. Mira primero a Kaniaka y después a vosotros; la forma en que se coloca entre ambos deja clara su prioridad. Sus dedos se cierran sobre el mango y su voz adquiere un filo áspero. Aun así, contiene el arma: parece esperar una respuesta, un gesto o el error que justifique descargarla.",
+      "caracter": "Protector, iracundo y sujeto a su honor; ante intrusos que ofenden a Kaniaka procura provocar el primer golpe.", "quiere": "Proteger a su madre y castigar a los intrusos.", "sabe": "El estado del refugio y la posición de su familia. Los goliats muertos a manos de intrusos son su sangre.", "desafio": "harad-guerrero"
+    },
+    {
+      "slug": "rahi-sonadora-cielo", "nombre": "Rahi Soñadora del Cielo Akannathi", "papel": "Guía espiritual y cuidadora principal de los grifos.", "ciudad": "otro",
+      "aspecto_en": "Full-body portrait of an adult female goliath with a strong mountain warrior build, stone-grey skin and a calm attentive face. She wears practical fur-lined winter garments and sturdy leather boots. One open hand extends in a gentle calming gesture, the other holds a folded oversized quilt. Wind brushes her clothing, with pale mountain daylight and a watchful protective expression.",
+      "presentacion": "Junto a la abertura de la cueva, una mujer goliat habla tan bajo que el viento casi se lleva sus palabras. Su mano permanece cerca del joven grifo, sin obligarlo a moverse. Cuando os descubre, os detiene con una mirada firme y un gesto pequeño. La paciencia con la que trata al animal contrasta con la precisión de su advertencia: aquí cada paso vuestro puede alterar una confianza difícil de conseguir.",
+      "caracter": "Desconfía de los extraños y no tolera intrusiones; suave con los grifos y receptiva a quien demuestra saber calmarlos.", "quiere": "Que la cría supere su miedo a volar y enseñar la doma a goliats dignos.", "sabe": "Cría y doma de grifos, manejo de animales y medicina. Puede llamar a dos grifos de las laderas cercanas.", "desafio": null
+    },
+    {
+      "slug": "jovenes-goliats", "nombre": "Jóvenes goliats", "papel": "Tres niños no combatientes que juegan junto al tesoro comunal.", "ciudad": "otro",
+      "aspecto_en": "Full-body group portrait of three young goliath children, each roughly four to five feet tall, with sturdy youthful builds and stone-grey skin. They wear simple warm hide clothing and fur-lined boots, kneeling or crouching around a few coins and polished stones. Playful expressions, relaxed hands and warm hearth lighting convey a communal mountain childhood without weapons or armour.",
+      "presentacion": "Las risas os llegan desde la alcoba antes de que distingáis a los tres niños. Incluso sentados entre monedas y piedras brillantes, sus cuerpos robustos anuncian la talla que alcanzarán algún día. Una gema pasa de mano en mano y varias monedas tintinean sobre la roca. Al reparar en vosotros, el juego vacila un instante; ante el humo del hogar, su curiosidad conserva todavía el ritmo despreocupado de la infancia.",
+      "caracter": "Juguetones y ajenos a las responsabilidades de los guerreros.", "quiere": "Jugar.", "sabe": "Poco; la ficha no les atribuye información concreta.", "desafio": null
+    },
+    {
+      "slug": "grifo-joven", "nombre": "Grifo joven", "papel": "Cría de menos de un año que teme volar.", "ciudad": "otro",
+      "aspecto_en": "Full-body portrait of a juvenile griffon less than one year old, combining a young eagle's head and wings with a small lionlike body. Soft immature feathers and oversized cautious paws suggest unfinished growth. It huddles low beside a folded mountain quilt, wings held close, eyes anxious and curious. Cold cave daylight, natural tawny and pale feather tones.",
+      "presentacion": "El joven grifo se aprieta contra Rahi y recoge las alas cuando el viento entra por la abertura. Ante vosotros mueve el pico con inquietud; sus patas buscan apoyo sobre la piedra y su mirada evita el vacío. Todavía no tiene el aplomo de los adultos que habéis visto en la montaña. Si os acercáis, cada movimiento parece pesar más que una palabra, y su respiración se vuelve rápida.",
+      "caracter": "Asustadizo; puede morder si no se le calma, pero también encariñarse con quien lo ayude.", "quiere": "Seguridad y superar su miedo a volar.", "sabe": "No aplicable.", "desafio": "grifos-manada"
+    },
+    {
+      "slug": "madre-grifo", "nombre": "Madre del grifo joven", "papel": "Grifo adulto que descansa en el nido septentrional y protege a su cría.", "ciudad": "otro",
+      "aspecto_en": "Full-body portrait of an adult mother griffon with a powerful lion body, eagle head, hooked beak and broad folded wings. She rests curled in a large straw nest, one sharp eye partly open. Dense feathers shift in cold mountain air, strong talons visible at the nest edge. Natural tawny fur, pale feathers and a quietly protective expression.",
+      "presentacion": "En el nido septentrional, el grifo adulto duerme con las alas recogidas y el cuerpo hundido entre las ramas. El aire de la montaña le agita las plumas. Al mirar hacia su cría, advertís lo cerca que quedan el pico y las garras de cualquier camino de aproximación. Su descanso llena la cueva de una calma vigilada: un movimiento amenazador podría convertir esa quietud en una defensa feroz.",
+      "caracter": "Protectora; ataca ante amenazas contra ella, su cría o Rahi.", "quiere": "Descansar y proteger a su cría.", "sabe": "No aplicable.", "desafio": "grifos-manada"
+    },
+    {
+      "slug": "ogolai-ausente", "nombre": "Ogolai", "papel": "Jefe ausente de Peña de Perdición de las Sierpes y rival de Arn.", "ciudad": "otro",
+      "aspecto_en": "Full-body conceptual portrait of an adult goliath clan leader in a white cloak over practical heavy mountain winter clothing. Broad powerful build and stone-grey skin, with facial features deliberately understated because the source supplies no detailed appearance. Neutral standing pose, simple cold grey backdrop and restrained expression. The white cloak is the sole distinctive identifying object.",
+      "presentacion": "El nombre de Ogolai os llega envuelto en las exigencias de Arn. Aunque el jefe rival no está aquí, su capa blanca parece ocupar un lugar en cada condición que escucháis. Al hablar del feudo, notáis que la historia conserva huecos: hay otra voz al otro lado de la montaña. Para reunir a ambos clanes tendréis que escucharla y encontrar algo más firme que el orgullo sobre lo que apoyar la paz.",
+      "caracter": "No descrito en esta ficha; debe consultarse Peña de Perdición de las Sierpes.", "quiere": "Para aceptar la reunión exige que los Héroes curen a los aarakocra heridos de su refugio; querrá llevar un séquito de guerreros.", "sabe": "Una versión del feudo distinta de la de Arn.", "desafio": null
+    }
+  ],
+  "desafios": [
+    {
+      "slug": "goliats-akannathi", "nombre": "Goliats Akannathi (banda)", "nivel": 2,
+      "poderio": [{"nivel": "adventure", "aspecto": "banda de guerreros de fuerza sobrehumana"}], "roles": ["Adversario", "Bruto"],
+      "aspecto_en": "Full-body group portrait of mountain goliath warriors, five to nine towering adults with muscular stone-grey bodies. They wear rugged leather armour, layered winter hides and heavy boots, carrying great axes or large throwing stones. Stoic faces and competitive stances convey disciplined clan loyalty. Cold mountain light, weathered equipment, grey rock backdrop and restrained natural colours.",
+      "descripcion": "Defensores del clan en grupos de cinco a nueve. Desconfían de los intrusos y respetan la fuerza demostrada en una competición.",
+      "limites": [{"nombre": "herido", "valor": 4, "consecuencia": "La banda queda fuera de combate."}, {"nombre": "convencido", "valor": 3, "consecuencia": "La banda cede ante los argumentos o reconoce el respeto ganado."}],
+      "etiquetas": ["fuerza sobrehumana", "lanzador de rocas", "resistente al frío", "competitivo", "furioso-2"], "rasgos": [],
+      "amenazas": [{"nombre": "Lanza una roca", "descripcion": "Arrojan grandes piedras contra el enemigo.", "consecuencias": ["Inflige [herido-3] o [derribado-2]."]}, {"nombre": "Carga con hacha", "descripcion": "Avanzan con toda su fuerza y descargan sus armas.", "consecuencias": ["Inflige [herido-4]."]}, {"nombre": "Grito de desafío", "descripcion": "Retan e intimidan a los intrusos.", "consecuencias": ["Crea [provocado].", "Inflige [intimidado-2]."]}],
+      "secretos": [{"nombre": "Respeto por la fuerza", "descripcion": "Vencer en el concurso de rocas puede convertirlos en aliados si no se ha ofendido al clan."}]
+    },
+    {
+      "slug": "grifos-manada", "nombre": "Grifos (manada)", "nivel": 2,
+      "poderio": [{"nivel": "adventure", "aspecto": "depredadores alados que vigilan el refugio"}], "roles": ["Adversario", "Merodeador"],
+      "aspecto_en": "Full-body depiction of mountain griffons with powerful lion bodies, eagle heads, hooked beaks and broad feathered wings. Sharp talons grip a rocky perch while another creature spreads its wings. Dense tawny fur and pale feathers withstand icy mountain wind. Alert eyes and protective postures, cold grey-blue daylight, no riders, natural rugged alpine setting.",
+      "descripcion": "Los grifos vigilan el refugio y ayudan a defenderlo si es atacado. En la cueva, la madre protege a su cría y a Rahi.",
+      "limites": [{"nombre": "herido", "valor": 4, "consecuencia": "La manada queda fuera de combate o deja de sostener el ataque."}],
+      "etiquetas": ["vuelo", "garras afiladas", "vista aguda", "leal a Rahi", "alerta-2"],
+      "rasgos": [{"nombre": "Refuerzos alados", "descripcion": "Rahi puede llamar a dos grifos de las laderas, que llegan en la tercera ronda. En la barricada se unen seis en la quinta ronda, o cuando Arn los convoca con un silbido."}],
+      "amenazas": [{"nombre": "Picotazo", "descripcion": "Golpean con su pico curvo.", "consecuencias": ["Inflige [herido-3]."]}, {"nombre": "Zarpazo", "descripcion": "Sus garras derriban a la presa.", "consecuencias": ["Inflige [herido-2] y [caído-2]."]}, {"nombre": "Chillido de alarma", "descripcion": "Avisan a los defensores de la presencia de extraños.", "consecuencias": ["Alerta a los goliats.", "Crea [descubierto]."]}],
+      "secretos": [{"nombre": "Protección y calma", "descripcion": "En S6 no atacan mientras Rahi, la madre y la cría estén a salvo; ayudar a la cría permite calmarlos."}]
+    },
+    {
+      "slug": "gato-de-los-riscos", "nombre": "Gato de los riscos", "nivel": 1,
+      "poderio": [{"nivel": "origin", "aspecto": "felino domesticado protector"}], "roles": ["Adversario", "Merodeador"],
+      "aspecto_en": "Full-body portrait of a large white mountain cat the size of a tiger, crouched low beside a stone hearth. Thick winter fur covers a powerful feline frame, with broad paws, sharp claws and watchful eyes. Its ears angle toward approaching footsteps, posture defensive rather than hunting. Warm firelight touches white fur against a dark grey cave background.",
+      "descripcion": "Felino blanco domesticado que acompaña a Kaniaka. Observa a los extraños y solo ataca para defenderla.",
+      "limites": [{"nombre": "herido", "valor": 3, "consecuencia": "El gato queda fuera de combate."}], "etiquetas": ["sigiloso", "garras", "leal a Kaniaka"], "rasgos": [],
+      "amenazas": [{"nombre": "Zarpazo defensivo", "descripcion": "Interpone sus garras ante quien amenace a Kaniaka.", "consecuencias": ["Inflige [herido-2]."]}],
+      "secretos": [{"nombre": "Defensor leal", "descripcion": "No inicia hostilidades; dejar a Kaniaka a salvo evita su ataque."}]
+    },
+    {
+      "slug": "arn-caudillo", "nombre": "Arn Puño Pétreo Akannathi", "nivel": 4,
+      "poderio": [{"nivel": "adventure", "aspecto": "caudillo goliat con autoridad sobre guerreros y grifos"}], "roles": ["Adversario", "Bruto", "Apoyo"],
+      "aspecto_en": "Full-body portrait of an exceptionally tall adult male goliath chieftain with a massive muscular frame and stone-grey skin. Leather armour covers thick practical winter layers. He grips an enormous axe beside a rough bladed wooden gate, face stern and impatient. Broad planted feet, commanding posture, cold mountain daylight and muted grey, brown and white colours.",
+      "descripcion": "Arn controla el paso al refugio y exige la capa blanca de su rival. Su orgullo y el apoyo del clan hacen peligrosa cualquier entrada por la fuerza.",
+      "limites": [{"nombre": "herido", "valor": 5, "consecuencia": "Arn queda fuera de combate."}, {"nombre": "convencido", "valor": 4, "consecuencia": "Arn acepta la propuesta si se han cumplido sus condiciones narrativas."}], "etiquetas": ["jefe del clan", "gran hacha", "voz de trueno", "orgulloso", "furioso-2"], "rasgos": [],
+      "amenazas": [{"nombre": "Golpe de hacha", "descripcion": "Descarga su enorme arma contra un adversario.", "consecuencias": ["Inflige [herido-4]."]}, {"nombre": "Silbido de refuerzos", "descripcion": "Convoca a los defensores del refugio.", "consecuencias": ["Crea [refuerzos goliats]."]}, {"nombre": "Desafío", "descripcion": "Su voz exige sumisión o una respuesta temeraria.", "consecuencias": ["Inflige [intimidado-2] o crea [provocado]."]}],
+      "secretos": [{"nombre": "La influencia de Kaniaka", "descripcion": "Solo acepta reunirse con Ogolai si Kaniaka recupera la vista y lo insta. Respeta la fuerza y la victoria; la capa blanca compra el paso, pero no sustituye esa condición para la reunión."}]
+    },
+    {
+      "slug": "harad-guerrero", "nombre": "Harad Cloudstrider Akannathi", "nivel": 3,
+      "poderio": [{"nivel": "adventure", "aspecto": "guerrero goliat que protege a su familia"}], "roles": ["Adversario", "Bruto"],
+      "aspecto_en": "Full-body portrait of an adult male goliath warrior emerging from a sleeping alcove with a great axe. His muscular stone-grey body is wrapped in rugged leather and thick mountain winter clothing. A tense jaw and protective stance convey controlled fury. Warm cave firelight catches the axe edge, with dark stone shadows and a simple practical appearance.",
+      "descripcion": "Esposo de Arn e hijo de Kaniaka, se enfrenta a los intrusos que amenazan a su familia. Si han matado goliats para entrar, despierta y ataca.",
+      "limites": [{"nombre": "herido", "valor": 4, "consecuencia": "Harad queda fuera de combate."}, {"nombre": "convencido", "valor": 3, "consecuencia": "Harad abandona la confrontación y escucha."}], "etiquetas": ["hacha de guerra", "honor de sangre", "protector de Kaniaka", "iracundo-2"], "rasgos": [],
+      "amenazas": [{"nombre": "Carga", "descripcion": "Se abalanza con el hacha sobre una amenaza.", "consecuencias": ["Inflige [herido-3]."]}, {"nombre": "Provocación", "descripcion": "Busca que el intruso ataque primero.", "consecuencias": ["Inflige [orgullo herido-2].", "Incita al objetivo a iniciar la violencia."]}],
+      "secretos": [{"nombre": "Honor de sangre", "descripcion": "Ante quienes han ofendido a Kaniaka sin derramar sangre, su honor le impide dar el primer golpe y recurre a provocaciones."}]
+    },
+    {
+      "slug": "tormenta-columna-mundo", "nombre": "Tormenta de la Columna del Mundo", "nivel": 2,
+      "poderio": [{"nivel": "adventure", "aspecto": "tormenta que vuelve traicioneros los pasos de montaña"}], "roles": ["Obstáculo", "Peligro"],
+      "aspecto_en": "Wide depiction of a violent alpine storm across narrow mountain passes, with wind-driven snow obscuring jagged peaks and fragile ice covering dark water. Exposed grey rock vanishes into white mist, while precarious ledges disappear around steep cliffs. Cold blue-white palette, low visibility and harsh diffuse light. No people, creatures or structures, emphasizing environmental danger.",
+      "descripcion": "Viajar entre los puestos goliat exige afrontar los pasos más duros del Valle. La ventisca, el hielo fino y la falta de referencias amenazan con agotar y extraviar al grupo.",
+      "limites": [{"nombre": "agotado", "valor": 4, "consecuencia": "El viaje queda interrumpido por el agotamiento; el grupo debe detenerse y buscar protección."}], "etiquetas": ["ventisca", "hielo fino", "desorientación", "helado-2", "perdido-2", "empapado-2"], "rasgos": [],
+      "amenazas": [{"nombre": "Ventisca", "descripcion": "La nieve y el viento borran las referencias del camino.", "consecuencias": ["Inflige [helado-2] y [perdido-2]."]}, {"nombre": "Hielo fino", "descripcion": "El hielo cede y empapa a quienes lo cruzan.", "consecuencias": ["Inflige [empapado-3]."]}, {"nombre": "Desorientación", "descripcion": "Los pasos y las cumbres dejan de ser reconocibles.", "consecuencias": ["Crea [extraviado]."]}],
+      "secretos": [{"nombre": "Rutas seguras", "descripcion": "Los goliats y grifos conocen rutas seguras; un Héroe goliat del clan puede guiar al grupo."}]
+    }
+  ],
+  "objetos": [
+    {"slug": "piedra-mente-espiritu", "nombre": "Piedra rúnica de mente y espíritu", "etiqueta": "dado de piedra rúnica (mente)", "descripcion": "Monolito de S5 con runas enanas sobre visión y liderazgo de las grandes aves y aura de transmutación. Un humanoide que ore o medite una hora obtiene un d6 para sumar a una prueba de Sabiduría o Carisma durante las siguientes veinticuatro horas; puede decidir después del d20, antes de saber el resultado. Se pierde al usarlo y no se obtiene otro de esta piedra durante diez días.", "imagen_en": "Isolated eight-foot grey standing stone carved with dwarven runes, rough mountain texture and subtle warm torch highlights. Sacred but unadorned, showing weathered grooves and a stable broad base against a neutral background."},
+    {"slug": "piedra-fuerza-honor", "nombre": "Piedra rúnica de fuerza y honor", "etiqueta": "dado de piedra rúnica (fuerza)", "descripcion": "Monolito de S7 con runas enanas sobre gloria, honor y rivales dignos; irradia transmutación. Un humanoide que ore o medite una hora obtiene un d6 para sumar a Fuerza o a un ataque con arma durante veinticuatro horas, incluso después del d20 pero antes de conocer el éxito. Se consume al usarlo; no puede obtener otro de esta piedra durante diez días.", "imagen_en": "Isolated tall grey runic standing stone, eight feet high, with deeply incised dwarven inscriptions and rugged natural edges. Warm torchlight reveals the carved surface, solemn mountain craftsmanship, neutral plain background without surrounding cave scenery."},
+    {"slug": "capa-blanca-ogolai", "nombre": "Capa blanca de Ogolai", "etiqueta": "capa blanca de Ogolai", "descripcion": "Prueba de victoria o cesión del jefe rival que Arn exige como precio de paso. No sustituye la recuperación de Kaniaka y su mediación para que Arn acepte reunirse con Ogolai.", "imagen_en": "An isolated heavy white mountain cloak sized for a towering goliath, thick practical fabric with weathered folds and a simple fastening. Soft cold light, visible textile texture, plain neutral background, no wearer or lettering."},
+    {"slug": "tesoro-del-clan", "nombre": "Tesoro del clan", "etiqueta": "tesoro del clan", "descripcion": "Monedas mixtas y gemas guardadas en S10, junto a una estatuilla de Gruumsh, una jaula ornamental y una poción. Su valor se representa mediante favores, etiquetas de mochila e hitos de Gesta; robarlo enfrenta al clan con los Héroes.", "imagen_en": "Isolated small treasure heap of mixed gold, silver and copper coins with eye agates, moonstones and an amethyst. Rough mountain stone beneath, warm firelight on metal and polished gems, neutral background without people."},
+    {"slug": "gemas-del-clan", "nombre": "Gemas del clan", "etiqueta": "mochila: gemas del clan", "descripcion": "Ágatas oculares, piedras lunares y una amatista del tesoro comunal. La ficha ofrece un total incompatible con su desglose, por lo que no se fija una cantidad; representan valor y posibles favores.", "imagen_en": "Isolated collection of polished eye agates, pale luminous moonstones and one violet amethyst on a plain dark surface. Soft warm reflections reveal natural mineral patterns and rounded edges, no jewellery settings or text."},
+    {"slug": "estatuilla-de-gruumsh", "nombre": "Estatuilla de Gruumsh", "etiqueta": "mochila: estatuilla de Gruumsh", "descripcion": "Estatuilla de hueso del tesoro del clan en la cueva comunal.", "imagen_en": "Isolated small bone statuette depicting Gruumsh, carved with rugged simple tools, ivory tones and worn edges. Soft side lighting reveals the bone grain and sculpted silhouette against a plain neutral background, no lettering."},
+    {"slug": "jaula-ornamental", "nombre": "Jaula ornamental", "etiqueta": "mochila: jaula ornamental", "descripcion": "Jaula de oro con filigrana de electrum guardada entre los tesoros del clan.", "imagen_en": "Isolated empty ornamental gold cage with delicate electrum filigree, fine curling metalwork and a small hinged door. Warm highlights distinguish yellow gold from paler electrum, plain dark background, no bird or lettering."},
+    {"slug": "pocion-forma-gaseosa", "nombre": "Poción de forma gaseosa", "etiqueta": "mochila: poción de forma gaseosa", "descripcion": "Poción en un frasco de cristal gris que permite atravesar grietas y barreras durante un tiempo corto.", "imagen_en": "Isolated small grey glass potion vial with a simple stopper, cloudy translucent contents suggesting drifting mist. Subtle cold reflections on thick glass, practical fantasy craftsmanship, plain neutral background without labels or writing."},
+    {"slug": "tallas-akannathi", "nombre": "Tallas del clan Akannathi", "etiqueta": "historia del clan Akannathi", "descripcion": "Pista que también aporta feudo goliat. Las tallas recorren cuatrocientos años de asentamiento, doma de grifos, alianza, enemistad y lucha contra el invierno; copiarlas o memorizarlas ayuda en la mediación.", "imagen_en": "Isolated fragment of grey stone wall relief showing mountain dwellings, griffons, allied warriors and a giant polar bear in successive carved scenes. Raking warm light reveals tool marks and weathered grooves, no written captions."}
+  ],
+  "ayudas": [
+    {"slug": "croquis-del-refugio", "titulo": "Croquis del Refugio Torre del Cielo", "tipo": "mapa", "texto": "REFUGIO TORRE DEL CIELO\nS1. Calzada de piedra: acceso por la ladera.\nS2. Barricada y caudillo: puerta del refugio.\nS3. Pasarela elevada: escaleras, nido vacío y dos túneles interiores.\nS4. Cueva del caudillo: hogar y alcobas familiares.\nS5. Santuario de mente y espíritu: un conducto desciende a S6.\nS6. Cueva de los grifos: cuatro nidos y abertura al norte.\nS7. Santuario de fuerza y honor: un tobogán asciende a S9.\nS8. Pasadizo de las tallas: la saga se lee de norte a sur.\nS9. Cueva del festín: hoguera rectangular y espacio para concursos.\nS10. Cueva comunal: colchonetas y alcoba septentrional.\nEsquema de áreas; no representa distancias ni conexiones que no se hayan comprobado.", "fondo_en": "Blank rough parchment sheet suitable for a hand-drawn cave map, irregular worn edges and faint creases. Pale warm surface with generous empty central space, no marks, symbols, letters or existing map lines."},
+    {"slug": "copia-de-tallas", "titulo": "La saga tallada de los Akannathi", "tipo": "nota", "texto": "De norte a sur, las tallas muestran:\nGoliats que abren hogares y túneles en la montaña.\nGrifos salvajes convertidos en compañeros de caza.\nGuerras contra los orcos: Torre del Cielo y Perdición de las Sierpes combaten juntos.\nLa amistad se rompe: grifos muertos y escaramuzas en las laderas.\nGoliats solitarios persiguen a un oso polar gigante.\nEl clan mengua mientras resiste un invierno sin fin.", "fondo_en": "Blank sheet of coarse pale paper prepared for a charcoal rubbing of stone carvings, slightly uneven fibres and worn corners. Soft neutral lighting, unobstructed central surface, no drawings, symbols or text."},
+    {"slug": "viaje-por-montana", "titulo": "Viaje por la Columna del Mundo", "tipo": "nota", "texto": "Los pasos entre los refugios goliat exigen el viaje más duro del Valle.\nEl frío, la pérdida del camino y la humedad pueden dejaros helado-1, perdido-2 y empapado-2.\nLa tormenta puede agravar el frío y la desorientación a helado-2 y perdido-2; el hielo fino puede dejaros empapado-3.\nLos goliats y los grifos conocen rutas seguras. Un compañero goliat del clan puede guiar al grupo.", "fondo_en": "Blank practical travel note on thick weathered paper, creased for folding and lightly scuffed around the edges. Cool diffuse lighting reveals paper fibres, broad empty writing area, no lettering, symbols or illustrations."}
+  ],
+  "hitos": [
+    "Restaurar la vista de Kaniaka, obtener deuda de Kaniaka y un favor del clan.",
+    "Conseguir que Arn y Ogolai se reúnan, cumpliendo las condiciones de ambos y manteniendo pequeños sus séquitos.",
+    "Mediar en el fin del feudo y proponer una causa común contra Auril, Arveiaturace o Xardorok Solmarchito.",
+    "Ganar el concurso de rocas y obtener respeto Akannathi, que puede convertirse en amistad goliat.",
+    "Ayudar a la cría a superar su miedo y obtener confianza de Rahi.",
+    "Como Héroe goliat, completar un año de aprendizaje y superar la prueba de doma para vincularse a un grifo de por vida; será montable al tercer año."
+  ],
+  "relojes": []
+}

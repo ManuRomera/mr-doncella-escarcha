@@ -84,7 +84,7 @@ def npc_actor(d,kind,sec):
  actors.append({'_id':uid('actor/'+s),'name':d['nombre'],'type':'litm-npc','folder':F(folder),'img':asset(f'{base}/{s}-portrait.webp',f'{base}/{s}.webp' if has(f'{base}/{s}.webp') else 'assets/scenes/portada.webp'),'system':sysd,
   'prototypeToken':{'name':d['nombre'],'actorLink':kind=='pnj','disposition':0 if kind=='pnj' else -1,'lockRotation':True,'texture':{'src':tok},'width':3,'height':3},
   'ownership':{'default':0},'flags':fl(s,tipo=kind,seccion=sec)})
-order=0;hitos=[];relojes=[]
+order=0;hitos=[];relojes=[];vistas=set()  # slugs de escena ya usados: la misma escena puede salir en dos secciones
 CAPS={'cap1':'Cap. 1 · Diez Ciudades','cap2':'Cap. 2 · El Valle del Viento Helado','cap3':'Cap. 3 · Sol Marchito','cap4':'Cap. 4 · La Luz de la Destrucción','cap5':'Cap. 5 · La Morada de Auril','cap6':'Cap. 6 · Las Cavernas del Hambre','cap7':'Cap. 7 · La Perdición de Ythryn'}
 def chap_folders(cap):
  if cap=='cap1':return 'manual','escenas'  # ids estables de la fase 1
@@ -115,11 +115,14 @@ for src in sorted(ROOT.glob('content/cap*/*.json')):
  # Lecturas: un diario por sección, una página por escena
  lect=[]
  for i,e in enumerate(J.get('escenas',[])):
+  img=e['slug']
+  if img in vistas:e['slug']=f"{img}-{sec[:2]}"
+  vistas.add(e['slug'])
   body=(f"<blockquote><p>{esc(e['lectura'])}</p></blockquote><h3>Para el Narrador</h3><p>{esc(e.get('notas',''))}</p>"
    +(f"<p><strong>Etiquetas de escena:</strong> {marks(', '.join('['+esc(t)+']' for t in e.get('etiquetas',[])))}</p>" if e.get('etiquetas') else ''))
   body=marks(body)
   pid=uid(f'lectura/{sec}/{e["slug"]}');lect.append({'_id':pid,'name':e['nombre'],'type':'text','sort':i*1000,'title':{'show':True,'level':1},'text':{'format':1,'content':body}})
-  jid=uid('lecturas/'+sec);bg=asset(f"assets/scenes/{e['slug']}.webp",f"assets/scenes/ciudad-{e.get('ciudad')}.webp" if has(f"assets/scenes/ciudad-{e.get('ciudad')}.webp") else 'assets/scenes/portada.webp')
+  jid=uid('lecturas/'+sec);bg=asset(f"assets/scenes/{img}.webp",f"assets/scenes/ciudad-{e.get('ciudad')}.webp" if has(f"assets/scenes/ciudad-{e.get('ciudad')}.webp") else 'assets/scenes/portada.webp')
   th=bg.replace('/scenes/','/thumbs/')
   scenes.append({'_id':uid('scene/'+e['slug']),'name':e['nombre'],'folder':F(fe),'width':1920,'height':1080,'padding':0,'grid':{'type':0,'size':100},'background':{'src':bg},'thumb':th,
    'tokenVision':False,'fog':{'exploration':False},'navigation':False,'sort':order,'flags':{MOD:{'slug':e['slug'],'seccion':sec,'direction':{'journalId':jid,'pageId':pid}}}})
