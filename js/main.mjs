@@ -7,6 +7,7 @@ const esc = s => foundry.utils.escapeHTML?.(String(s)) ?? String(s).replace(/[&<
 
 Hooks.once("init", () => {
   game.settings.register(MOD, "importada", { scope: "world", config: false, type: Boolean, default: false });
+  game.settings.register(MOD, "version", { scope: "world", config: false, type: String, default: "" });
 });
 
 /* ---------- Importación ---------- */
@@ -30,10 +31,41 @@ export async function importarAventura({ confirmar = false } = {}) {
   }
   ui.notifications.info("La Rima: importando la aventura…");
   const adv = (await pack.getDocuments())[0];
-  await adv.import({ dialog: false });
+  // Los héroes y la Compañía ya importados son de los jugadores: al reimportar no se sobrescriben.
+  const respetarHeroes = data => {
+    const suyo = d => d.flags?.[MOD]?.tipo === "heroe" || d.flags?.[MOD]?.slug === "compania";
+    if (data.toUpdate.Actor) data.toUpdate.Actor = data.toUpdate.Actor.filter(d => !suyo(d));
+  };
+  await adv.import({ dialog: false, preImport: [respetarHeroes] });
+  // Diarios de la aventura que una versión nueva ya no trae (p. ej. ayudas retiradas)
+  const vigentes = new Set(adv.journal.map(j => j.id));
+  const sobran = game.journal.filter(j => j.flags?.[MOD] && !vigentes.has(j.id)).map(j => j.id);
+  if (sobran.length) await JournalEntry.deleteDocuments(sobran);
+  await limpiarCarpetas();
   await game.settings.set(MOD, "importada", true);
+  await game.settings.set(MOD, "version", game.modules.get(MOD).version);
   await game.scenes.find(s => s.getFlag(MOD, "slug") === "ciudad-bryn-shander")?.activate();
   ui.notifications.info("La Rima: aventura importada. Empieza por el diario «Diez Ciudades» del Manual del Narrador.");
+}
+
+/** Tras reimportar una versión con otra organización, las carpetas antiguas de la aventura quedan vacías: se borran. */
+async function limpiarCarpetas() {
+  const nuestra = f => String(f.flags?.[MOD]?.slug ?? "").startsWith("folder-");
+  for (let vacias; (vacias = game.folders.filter(f => nuestra(f) && !f.contents.length && !f.children.length)).length;)
+    await Folder.deleteDocuments(vacias.map(f => f.id));
+}
+/** Mundo importado con una versión anterior: ofrece reimportar (nuevas secciones, carpetas, textos revisados). */
+async function ofrecerActualizacion() {
+  const ahora = game.modules.get(MOD).version, antes = game.settings.get(MOD, "version") || "0.2.0";
+  if (!foundry.utils.isNewerVersion(ahora, antes)) return;
+  const ok = await DialogV2.confirm({
+    window: { title: "La Rima se ha actualizado", icon: "fa-solid fa-snowflake" },
+    content: `<p>Hay una versión nueva de la aventura (${esc(antes)} → ${esc(ahora)}): contenido nuevo, carpetas por capítulo y lugar y textos revisados.</p>
+      <p>¿Reimportarla ahora? Se <b>sobrescriben</b> los documentos de la aventura que hayas cambiado (fichas de desafíos, diarios…); los héroes y la Compañía que ya tengas, y lo que hayas creado tú, no se tocan. Puedes hacerlo más tarde desde Ajustes → «Importar la aventura».</p>`,
+    yes: { label: "Reimportar", icon: "fa-solid fa-file-import" }, no: { label: "Más tarde" }, rejectClose: false
+  });
+  if (ok) await importarAventura();
+  else await game.settings.set(MOD, "version", ahora);  // no volver a preguntar por esta versión
 }
 
 /* ---------- MR- Dirección ---------- */
@@ -102,5 +134,5 @@ Hooks.once("ready", async () => {
   const otroGM = game.users.activeGM && game.users.activeGM !== game.user;
   if (game.user.isGM && !otroGM && !game.settings.get(MOD, "importada") && mundoVacio()) {
     try { await importarAventura(); } catch (e) { console.error(`${MOD} | importación automática fallida`, e); }
-  }
+  } else if (game.user.isGM && !otroGM && game.settings.get(MOD, "importada")) ofrecerActualizacion();
 });

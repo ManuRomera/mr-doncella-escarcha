@@ -146,12 +146,6 @@
    "prompt": "Full body creature or figure illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. Full body portrait of a well built human man around thirty, with olive skin, dark hair in a ponytail and no facial hair. His intense blue eyes resemble a frozen lake. He wears an elegant southern sailor waistcoat, matching trousers and boots, without coat, gloves or scarf. A translucent ice blade forms in one bare hand; his smile is calmly courteous. Isolated on genuine transparent background, no floor, no scenery, no shadow."
   },
   {
-   "id": "ayuda-contrato-de-hlin",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: An empty sheet of rough parchment with worn edges and faint folds, resting flat under soft neutral light. The central surface is clear and unmarked, with no text, symbols or illustrations. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
-  },
-  {
    "id": "ayuda-itinerario-de-torrga",
    "tipo": "escena",
    "size": "1024x1536",
@@ -165,12 +159,6 @@
   },
   {
    "id": "ayuda-cartel-de-recompensa-de-luskan",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: An empty sheet of rough parchment with worn edges and faint folds, resting flat under soft neutral light. The central surface is clear and unmarked, with no text, symbols or illustrations. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
-  },
-  {
-   "id": "ayuda-mapa-de-diez-ciudades",
    "tipo": "escena",
    "size": "1024x1536",
    "prompt": "Top-down flat view of a blank physical document filling the frame: An empty sheet of rough parchment with worn edges and faint folds, resting flat under soft neutral light. The central surface is clear and unmarked, with no text, symbols or illustrations. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
@@ -368,18 +356,6 @@
    "prompt": "Top-down flat view of a blank physical document filling the frame: Blank worn cream paper with softly frayed edges, subtle water stains and faint fold marks, laid flat under soft light. Empty writing area, no text, no symbols, no drawings. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
   },
   {
-   "id": "ayuda-mapa-de-bremen",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: Blank worn cream paper with softly frayed edges, subtle water stains and faint fold marks, laid flat under soft light. Empty writing area, no text, no symbols, no drawings. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
-  },
-  {
-   "id": "ayuda-heraldica-de-bremen",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: An empty weathered wooden heraldic display board with a simple carved border and a pale prepared surface. Isolated frontal view, frost on the edges, no lettering, no symbols or painted design. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
-  },
-  {
    "id": "bryn-shander-la-villa-amurallada",
    "tipo": "escena",
    "size": "1536x1024",
@@ -534,12 +510,6 @@
    "tipo": "escena",
    "size": "1024x1024",
    "prompt": "Square vignette illustration of a hazard, no people: A disciplined northern town militia represented by fur clad soldiers and weathered veterans carrying crossbows and shields. Heavy winter layers cover practical fighting gear; their guarded expressions and tight formation convey resolve. Full body group illustration beside timber gate defences, cold blue daylight and subdued leather, wool and iron colours."
-  },
-  {
-   "id": "ayuda-mapa-de-bryn-shander",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: A blank sheet of weathered parchment for a northern town map, with worn corners, faint creases and a clean central surface. No text, symbols, buildings or lettering, soft neutral illumination. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
   },
   {
    "id": "la-taberna-y-la-propuesta-de-hlin",
@@ -800,19 +770,7 @@
    "prompt": "Top-down flat view of a blank physical document filling the frame: A blank sheet of rough ivory parchment with worn corners, faint fold marks and natural fibres, resting flat under soft side lighting. No text, letters, symbols, illustrations or ink marks anywhere. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
   },
   {
-   "id": "ayuda-plano-caer",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: A blank sheet of rough ivory parchment with worn corners, faint fold marks and natural fibres, resting flat under soft side lighting. No text, letters, symbols, illustrations or ink marks anywhere. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
-  },
-  {
    "id": "ayuda-rumores-subida",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: A blank sheet of rough ivory parchment with worn corners, faint fold marks and natural fibres, resting flat under soft side lighting. No text, letters, symbols, illustrations or ink marks anywhere. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
-  },
-  {
-   "id": "ayuda-ferry-viajes",
    "tipo": "escena",
    "size": "1024x1536",
    "prompt": "Top-down flat view of a blank physical document filling the frame: A blank sheet of rough ivory parchment with worn corners, faint fold marks and natural fibres, resting flat under soft side lighting. No text, letters, symbols, illustrations or ink marks anywhere. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
@@ -968,36 +926,6 @@
    "prompt": "Full body creature or figure illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. Full body portrait of a dragon shaped construct made of dark chardalyn crystal, with angular wings and a siege weapon silhouette. It flies above snowy settlements. Cold light on faceted black crystal, no rider. Isolated on genuine transparent background, no floor, no scenery, no shadow."
   },
   {
-   "id": "ayuda-mapa-del-valle",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: An empty parchment map sheet with worn edges and faint folds, resting flat under soft neutral light. The central surface is clear and unmarked, with no text, symbols or illustrations. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
-  },
-  {
-   "id": "ayuda-ficha-de-viaje",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: An empty sheet of rough parchment with worn edges and faint folds, resting flat under soft neutral light. The central surface is clear and unmarked, with no text, symbols or illustrations. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
-  },
-  {
-   "id": "ayuda-tarjetas-de-secretos",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: An empty set of small cards on rough parchment with worn edges, resting flat under soft neutral light. The surfaces are clear and unmarked, with no text or illustrations. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
-  },
-  {
-   "id": "ayuda-registro-de-la-aurora",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: An empty sheet of rough parchment with worn edges and faint folds, resting flat under soft neutral light. The central surface is clear and unmarked, with no text, symbols or illustrations. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
-  },
-  {
-   "id": "ayuda-nota-del-atentado",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: An empty sheet of rough parchment with worn edges and faint folds, resting flat under soft neutral light. The central surface is clear and unmarked, with no text, symbols or illustrations. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
-  },
-  {
    "id": "llegada-a-una-villa-bajo-la-aurora",
    "tipo": "escena",
    "size": "1536x1024",
@@ -1092,12 +1020,6 @@
    "tipo": "escena",
    "size": "1024x1536",
    "prompt": "Top-down flat view of a blank physical document filling the frame: A blank sheet of rough parchment with worn edges and faint folds, resting flat under soft neutral light. Empty writing area, no text, no symbols, no illustrations. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
-  },
-  {
-   "id": "ayuda-codigo-de-los-copos",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: An empty weathered wooden board with a simple carved border and a pale prepared surface. Isolated frontal view, frost on the edges, no lettering, no symbols or painted design. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
   },
   {
    "id": "caer-konig-y-trovus",
@@ -1274,12 +1196,6 @@
    "prompt": "Top-down flat view of a blank physical document filling the frame: A blank sheet of rough ivory parchment with worn corners, faint fold marks and natural fibres, resting flat under soft side lighting. No text, letters, symbols, illustrations or ink marks anywhere. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
   },
   {
-   "id": "ayuda-esquema-de-rastros",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: A blank sheet of rough ivory parchment with worn corners, faint fold marks and natural fibres, resting flat under soft side lighting. No text, letters, symbols, illustrations or ink marks anywhere. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
-  },
-  {
    "id": "pueblo-y-lago-inmovil",
    "tipo": "escena",
    "size": "1536x1024",
@@ -1434,18 +1350,6 @@
    "tipo": "token",
    "size": "1024x1536",
    "prompt": "Full body creature or figure illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. A full-body group portrait of up to thirteen winter-clad villagers with spears and a veteran leader. Determined defenders, scarce supplies, cold blue-grey light, snowy village. Isolated on genuine transparent background, no floor, no scenery, no shadow."
-  },
-  {
-   "id": "ayuda-emblema-refugio-dougan",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: An empty painted wooden signboard with a weathered frame, hanging flat, soft cold light. No text, symbols or figures. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
-  },
-  {
-   "id": "ayuda-runa-hielo",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: An isolated sheet of rough paper with a blank area for a hand-drawn rune, worn corners, soft side lighting. No text, letters, symbols, illustrations or ink marks anywhere. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
   },
   {
    "id": "llegada-y-ejecucion-publica",
@@ -1706,18 +1610,6 @@
    "prompt": "Top-down flat view of a blank physical document filling the frame: A frosted window pane with faint white scratches forming short words, cold blue light, no other marks. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
   },
   {
-   "id": "ayuda-mapa-duergar-enano",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: A rough parchment map with inked mountain routes and settlement marks, worn corners and fold lines, no readable labels. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
-  },
-  {
-   "id": "ayuda-mapa-territorios-pesqueros",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: A painted map on a wooden board showing a lake and three fishing territories, faded colours and old varnish, no readable text. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
-  },
-  {
    "id": "muelles-y-casa-de-nimsy",
    "tipo": "escena",
    "size": "1536x1024",
@@ -1887,18 +1779,6 @@
   },
   {
    "id": "ayuda-titulo-de-la-desvencijada",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: Blank worn cream paper with softly frayed edges, subtle water stains and faint fold marks, laid flat under soft light. Empty writing area, no text, no symbols, no drawings. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
-  },
-  {
-   "id": "ayuda-heraldica-de-bosque-solitario",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: An empty weathered wooden heraldic display board with a simple carved border and a pale prepared surface. Isolated frontal view, frost on the edges, no lettering, no symbols or painted design. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
-  },
-  {
-   "id": "ayuda-testimonio-del-arbusto",
    "tipo": "escena",
    "size": "1024x1536",
    "prompt": "Top-down flat view of a blank physical document filling the frame: Blank worn cream paper with softly frayed edges, subtle water stains and faint fold marks, laid flat under soft light. Empty writing area, no text, no symbols, no drawings. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
@@ -2126,12 +2006,6 @@
    "prompt": "Top-down flat view of a blank physical document filling the frame: A blank sheet of rough ivory parchment with worn corners, faint fold marks and natural fibres, resting flat under soft side lighting. No text, letters, symbols, illustrations or ink marks anywhere. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
   },
   {
-   "id": "ayuda-esquema-del-itinerario",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: A blank sheet of rough ivory parchment with worn corners, faint fold marks and natural fibres, resting flat under soft side lighting. No text, letters, symbols, illustrations or ink marks anywhere. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
-  },
-  {
    "id": "villa-salon-hidromiel",
    "tipo": "escena",
    "size": "1536x1024",
@@ -2316,18 +2190,6 @@
    "tipo": "escena",
    "size": "1024x1024",
    "prompt": "Square vignette illustration of a hazard, no people: Atmospheric hazard illustration of an ancient stone burial niche disturbed beneath a massive slab. A pearl and a slender wand lie near human bones and faded fabric, while indistinct spectral shadows gather like troubled dreams above the stone. No physical guardian appears. Cold grey, dusty brown and faint ghostly blue light convey a funerary curse rather than an attacking creature."
-  },
-  {
-   "id": "ayuda-caminos-buenaguamiel",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: Blank practical travel note on a small sheet of rough cream paper, lightly creased with weathered edges and faint water stains. Overhead view, no text, symbols, route lines or handwriting. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
-  },
-  {
-   "id": "ayuda-copia-pictogramas",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: Blank sheet of coarse drawing paper with a softly textured surface and lightly dusty edges, laid flat for copying ancient wall images. Muted ivory colour, no text, pictograms, lines or marks. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
   },
   {
    "id": "termalaine-pregon",
@@ -2534,12 +2396,6 @@
    "prompt": "Top-down flat view of a blank physical document filling the frame: A blank small sheet of coarse pale paper with slightly curled corners and faint winter moisture stains, simple northern town notice material, no text or symbols. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
   },
   {
-   "id": "ayuda-rastros-mina",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: A blank piece of rough cream paper with lightly smudged edges and a few traces of grey stone dust, suitable for field notes, no text, no drawn map. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
-  },
-  {
    "id": "ayuda-cancion-capa-roja",
    "tipo": "escena",
    "size": "1024x1536",
@@ -2550,12 +2406,6 @@
    "tipo": "escena",
    "size": "1024x1536",
    "prompt": "Top-down flat view of a blank physical document filling the frame: A blank sheet of plain household paper, gently worn at the folds with a warm ivory surface and ample empty space, soft lamplight, no text or decorative marks. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
-  },
-  {
-   "id": "ayuda-llamada-cristal",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: A blank narrow sheet of pale paper with faint cool mineral reflections, subtle worn edges and a simple unmarked surface for a private message, no writing or symbols. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
   },
   {
    "id": "valle-bajo-aurora",
@@ -3230,12 +3080,6 @@
    "prompt": "Square vignette illustration of a hazard, no people: Environmental portrait of a three foot stone brazier growing seamlessly from a cavern floor against the rear wall. A vivid blue flame burns without fuel, illuminating thick frost and hanging icicles. White smoke briefly suggests a woman's silhouette before dissolving into curling wisps. Ancient rough stone, icy silver and blue palette, no physical people present."
   },
   {
-   "id": "ayuda-pergamino-apertura",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: Blank aged parchment sheet with gently curled edges, subtle creases and pale uneven fibers. Cool neutral light, generous empty central space, no letters, symbols, writing or decorative illustrations. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
-  },
-  {
    "id": "calzada-nevada",
    "tipo": "escena",
    "size": "1536x1024",
@@ -3740,12 +3584,6 @@
    "prompt": "Top-down flat view of a blank physical document filling the frame: Blank unrolled strip of rabbit hide, pale scraped inner surface with uneven edges and a narrow fringe of fur. Soft neutral lighting, ample empty writing space, no text, symbols or illustrations. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
   },
   {
-   "id": "ayuda-esquema-de-poleas",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: Blank rough parchment sheet for a mechanical sketch, with lightly worn corners and a fibrous cream surface. Even soft illumination leaves the centre fully empty, without text, diagrams, symbols or decorative borders. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
-  },
-  {
    "id": "acercamiento-aguja",
    "tipo": "escena",
    "size": "1536x1024",
@@ -3888,66 +3726,6 @@
    "tipo": "token",
    "size": "1024x1536",
    "prompt": "Full body creature or figure illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. Full view of a hostile amorphous mass of magical corrosive ectoplasm spreading across fractured stone beneath a golden crystal disc. Its glossy dark surface bulges into unstable lobes, with translucent magical highlights and faint fumes suggesting corrosive contact. Damaged runes frame the background. Cold grey masonry and restrained gold reflections, no humanoid anatomy, entire environmental creature visible. Isolated on genuine transparent background, no floor, no scenery, no shadow."
-  },
-  {
-   "id": "ayuda-maravillas-magicas-netheril",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: Blank ancient scholarly book spread with brittle cream pages and faded leather binding, margins suitable for illustrations, soft cold light and light age stains, no text or symbols. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
-  },
-  {
-   "id": "ayuda-misterios-phaerimm",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: Blank ancient manuscript spread on yellowed paper with irregular edges, a dark worn binding and broad empty margins, restrained archaeological lighting, no writing, diagrams or symbols. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
-  },
-  {
-   "id": "ayuda-magos-hondonada",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: Blank thick historical volume opened to yellowed paper, heavily worn leather binding, softly creased pages and ample empty writing space, diffuse light, no text or illustrations. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
-  },
-  {
-   "id": "ayuda-guia-ajamar",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: Blank ancient book spread with softly yellowed pages, faint decorative border impressions and a worn leather spine, generous empty space, gentle light, no writing or symbols. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
-  },
-  {
-   "id": "ayuda-mente-sin-trabas",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: Blank aged scholarly folio with pale stained paper, irregular page edges and generous empty areas for future diagrams, worn binding, cold diffuse light, no text or images. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
-  },
-  {
-   "id": "ayuda-pergaminos-sabreyl",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: Blank ancient manuscript book with delicate cream paper and a worn leather cover, broad clean margins intended for careful scholarly copying, soft lighting, no script or symbols. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
-  },
-  {
-   "id": "ayuda-sombra-sustancia",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: Blank arcane research volume opened on aged ivory paper, subtle water stains and a cracked dark binding, ample clear space for notes, cold illumination, no writing or symbols. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
-  },
-  {
-   "id": "ayuda-aqui-yace-rey",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: Blank old novel opened to yellowed pages with softened corners and an understated leather cover, simple margins and even diffuse light, no text, symbols or illustrations. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
-  },
-  {
-   "id": "ayuda-ventatost",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: Blank historical book spread with weathered parchment pages, faded brown leather and faint age marks, broad empty margins and soft archaeological lighting, no writing or illustrations. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
-  },
-  {
-   "id": "ayuda-pergamino-dorado",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: Blank thin sheet of gold-leaf paper, gently curled at the edges with a delicate stamped texture, lying flat under diffuse light, no text, runes or illustrations. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
   },
   {
    "id": "ayuda-mensaje-camara-runas",
@@ -4346,24 +4124,6 @@
    "prompt": "Square vignette illustration of a hazard, no people: Wide depiction of a violent alpine storm across narrow mountain passes, with wind-driven snow obscuring jagged peaks and fragile ice covering dark water. Exposed grey rock vanishes into white mist, while precarious ledges disappear around steep cliffs. Cold blue-white palette, low visibility and harsh diffuse light. No people, creatures or structures, emphasizing environmental danger."
   },
   {
-   "id": "ayuda-croquis-del-refugio",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: Blank rough parchment sheet suitable for a hand-drawn cave map, irregular worn edges and faint creases. Pale warm surface with generous empty central space, no marks, symbols, letters or existing map lines. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
-  },
-  {
-   "id": "ayuda-copia-de-tallas",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: Blank sheet of coarse pale paper prepared for a charcoal rubbing of stone carvings, slightly uneven fibres and worn corners. Soft neutral lighting, unobstructed central surface, no drawings, symbols or text. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
-  },
-  {
-   "id": "ayuda-viaje-por-montana",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: Blank practical travel note on thick weathered paper, creased for folding and lightly scuffed around the edges. Cool diffuse lighting reveals paper fibres, broad empty writing area, no lettering, symbols or illustrations. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
-  },
-  {
    "id": "vista-y-aproximacion",
    "tipo": "escena",
    "size": "1536x1024",
@@ -4470,12 +4230,6 @@
    "tipo": "escena",
    "size": "1024x1024",
    "prompt": "Square vignette illustration of a hazard, no people: Environmental wide view of a brutal snowstorm sweeping steep mountain slopes in the Spine of the World. Blowing snow erases tracks and obscures jagged cliffs, while an unstable mass of snow hangs above a narrow route. Ice glazed stone and deep drifts dominate a nearly monochrome blue white palette. Diffuse grey daylight offers little visibility. No people or creatures."
-  },
-  {
-   "id": "ayuda-esquema-de-las-cuevas",
-   "tipo": "escena",
-   "size": "1024x1536",
-   "prompt": "Top-down flat view of a blank physical document filling the frame: Blank rough parchment for a schematic cave map, pale worn surface, faint natural creases, slightly uneven edges, ample empty central space, soft neutral lighting, no writing, no symbols, no drawn routes. The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols."
   },
   {
    "id": "ayuda-advertencia-del-tunel",

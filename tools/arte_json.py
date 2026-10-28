@@ -5,6 +5,8 @@ import json
 ROOT=Path(__file__).resolve().parents[1];cfg=json.loads((ROOT/'docs/arte.json').read_text());have={i['id'] for i in cfg['imagenes']}
 S="Wide 3:2 environment establishing shot, no people or characters, room in the lower third for standing figures. "
 T=("Full body character illustration, head and feet fully visible with generous padding, three quarter pose, readable distinctive silhouette. ","Isolated on genuine transparent background, no floor, no scenery, no shadow.")
+O=json.loads((ROOT/'content/oficial.json').read_text());NOAYUDA=set(O['descartar'])|set(O['ayudas'])
+cfg['imagenes']=[i for i in cfg['imagenes'] if not (i['id'].startswith('ayuda-') and i['id'][6:] in NOAYUDA)];have={i['id'] for i in cfg['imagenes']}
 add=lambda i:(cfg['imagenes'].append(i),have.add(i['id'])) if i['id'] not in have else None
 for f in sorted(ROOT.glob('content/cap*/*.json')):
  J=json.loads(f.read_text())
@@ -16,5 +18,7 @@ for f in sorted(ROOT.glob('content/cap*/*.json')):
   if set(d.get('roles',[]))&{'Peligro','Obstáculo'}:
    add({'id':'peligro-'+d['slug'],'tipo':'escena','size':'1024x1024','prompt':'Square vignette illustration of a hazard, no people: '+d['aspecto_en']});continue
   add({'id':'desafio-'+d['slug'],'tipo':'token','size':'1024x1536','prompt':T[0].replace('character','creature or figure')+d['aspecto_en']+' '+T[1]})
- for a in J.get('ayudas',[]):add({'id':'ayuda-'+a['slug'],'tipo':'escena','size':'1024x1536','prompt':'Top-down flat view of a blank physical document filling the frame: '+a['fondo_en']+' The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols.'})
+ for a in J.get('ayudas',[]):
+  if a['slug'] in NOAYUDA:continue  # descartada o sustituida por un mapa/escudo del libro
+  add({'id':'ayuda-'+a['slug'],'tipo':'escena','size':'1024x1536','prompt':'Top-down flat view of a blank physical document filling the frame: '+a['fondo_en']+' The central 70% must be EMPTY and clean for handwriting to be added later. Absolutely no writing, letters, runes or symbols.'})
 (ROOT/'docs/arte.json').write_text(json.dumps(cfg,ensure_ascii=False,indent=1));print(len(cfg['imagenes']),'imágenes en la lista')

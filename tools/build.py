@@ -102,6 +102,7 @@ def town_scene(s,folder):
   'cues':[{'label':'','icon':'wave-square','sound':{'flag':[MOD,'slug',x]}} for x in ['viento','campana','perros']],'ambient':'dim','figures':[],'handouts':[],'notes':'','thumb':PRE+f'assets/thumbs/ciudad-{s}.webp'})
  order+=1
 CUR={}
+O=json.loads((ROOT/'content/oficial.json').read_text());DESC=set(O['descartar'])  # imágenes del libro y ayudas que no valen
 for src in sorted(ROOT.glob('content/cap*/*.json')):
  cap=src.parent.name;nc=int(cap[3:]);sec=src.stem;ns=int(sec.split('-')[0]);J=json.loads(src.read_text());title=J.get('titulo',sec)
  sa=fold(f'actor/{sec}',title,'Actor',fold(f'actor/{cap}',CAPS[cap],'Actor',sort=nc),ns)
@@ -120,6 +121,8 @@ for src in sorted(ROOT.glob('content/cap*/*.json')):
    head,_,body=p.partition('\n')
    if head.strip().lower().startswith('páginas de la fuente'):continue
    pages.append({'_id':uid(f'manual/{sec}/{i}'),'name':head.strip(),'type':'text','sort':i*1000,'title':{'show':True,'level':1},'text':{'format':1,'content':md(body)}})
+ pages=[{'_id':uid(f'plano/{sec}/{n}'),'name':O['nombres'][n],'type':'image','src':PRE+f'assets/oficial/{n}.webp','sort':-1000+k}
+  for k,n in enumerate(O['planos'].get(sec,[]))]+pages
  journals.append({'_id':uid('manual/'+sec),'name':title,'folder':F(fm),'pages':pages,'ownership':{'default':0},'flags':fl('manual-'+sec)})
  dmap={d['slug']:d for d in J.get('desafios',[])}
  hitos+=[{'id':uid(f'hito/{sec}/{h}')[:10],'label':f"{title}: {h.split(':')[0].strip()}"} for h in J.get('hitos',[]) if isinstance(h,str)]
@@ -150,11 +153,13 @@ for src in sorted(ROOT.glob('content/cap*/*.json')):
    'ambient':e.get('ambiente'),'figures':[{'ref':{'flag':[MOD,'slug',alias.get(f,f)]},'label':''} for f in dict.fromkeys(e.get('figuras',[]))],'handouts':[],'notes':e.get('notas',''),'thumb':th})
   order+=1
  if lect:journals.append({'_id':uid('lecturas/'+sec),'name':'Lecturas · '+title,'folder':F(flec),'pages':lect,'ownership':{'default':0},'flags':fl('lecturas-'+sec)})
- for a in J.get('ayudas',[]):
+ J['ayudas']=[a for a in J.get('ayudas',[]) if a['slug'] not in DESC]
+ for a in J['ayudas']:
   if 'ayuda/'+a['slug'] in seen:continue
   seen.add('ayuda/'+a['slug'])
   pg=([{'_id':uid('ayuda-img/'+a['slug']),'name':a['titulo'],'type':'image','src':PRE+f"assets/handouts/{a['slug']}.webp",'sort':0}] if has(f"assets/handouts/{a['slug']}.webp") else [])
-  pg.append({'_id':uid('ayuda/'+a['slug']),'name':a['titulo']+' (texto)','type':'text','sort':1000,'text':{'format':1,'content':''.join(f'<p>{esc(x)}</p>' for x in a['texto'].split('\n') if x.strip())}})
+  if a['slug'] in O['ayudas']:pg=[{'_id':uid('ayuda-img/'+a['slug']),'name':a['titulo'],'type':'image','src':PRE+f"assets/oficial/{O['ayudas'][a['slug']]}.webp",'sort':0}]  # mapa o escudo del libro: sin texto
+  else:pg.append({'_id':uid('ayuda/'+a['slug']),'name':a['titulo']+' (texto)','type':'text','sort':1000,'text':{'format':1,'content':''.join(f'<p>{esc(x)}</p>' for x in a['texto'].split('\n') if x.strip())}})
   journals.append({'_id':uid('ayuda/'+a['slug']),'name':'Ayuda · '+a['titulo'],'folder':F(fold(f'journal/{sec}/ayudas',title,'JournalEntry',fay,ns)),'pages':pg,'ownership':{'default':0},'flags':fl(a['slug'],seccion=sec)})
  # Las ayudas de la sección, a mano en el menú «Ayudas» de cada escena de la barra
  for d in direction[d0:]:d['handouts']=[{'ref':{'flag':[MOD,'slug',a['slug']]},'label':a['titulo']} for a in J.get('ayudas',[])]

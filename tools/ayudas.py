@@ -30,6 +30,8 @@ def compose(a):
  mask=mask.filter(ImageFilter.GaussianBlur(.6));bg.paste(Image.new('RGB',bg.size,(38,30,24)),mask=mask)
  out=ROOT/f"assets/handouts/{a['slug']}.webp";out.parent.mkdir(parents=True,exist_ok=True);bg.save(out,'WEBP',quality=86);return True
 n=0
+O=json.loads((ROOT/'content/oficial.json').read_text());NOAYUDA=set(O['descartar'])|set(O['ayudas'])
 for f in sorted(ROOT.glob('content/cap*/*.json')):
- for a in json.loads(f.read_text()).get('ayudas',[]):n+=compose(a)
+ for a in json.loads(f.read_text()).get('ayudas',[]):
+  if a['slug'] not in NOAYUDA:n+=compose(a)
 print(n,'ayudas compuestas')

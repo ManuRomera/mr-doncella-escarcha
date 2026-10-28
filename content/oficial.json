@@ -1,0 +1,214 @@
+{
+ "_nota": "Imágenes sacadas del PDF de la aventura (tools/oficial.py → assets/oficial/<nombre>.webp). 'xref' = número de objeto de imagen en el PDF. 'ayudas': ayudas que se sustituyen por la imagen. 'planos': planos del Narrador, primera página del manual de la sección. 'descartar': ayudas que no son un documento de la ficción (notas para el Narrador, resúmenes) y no se montan.",
+ "imagenes": {
+  "valle": 414,
+  "mapa-bremen": 116,
+  "mapa-bryn-shander": 141,
+  "mapa-caer-dineval": 155,
+  "mapa-caer-konig": 186,
+  "mapa-refugio-dougan": 210,
+  "mapa-puerto-este": 236,
+  "mapa-buenaguamiel": 276,
+  "mapa-bosque-solitario": 296,
+  "mapa-targos": 327,
+  "mapa-termalaine": 349,
+  "escudo-bremen": 112,
+  "escudo-bryn-shander": 128,
+  "escudo-caer-dineval": 151,
+  "escudo-caer-konig": 182,
+  "escudo-refugio-dougan": 206,
+  "escudo-puerto-este": 228,
+  "escudo-buenaguamiel": 272,
+  "escudo-bosque-solitario": 1181,
+  "escudo-termalaine": 345,
+  "plano-alcazar-caer-dineval": 166,
+  "plano-puesto-duergar": 198,
+  "plano-cabana-gigante": 222,
+  "plano-cavernas-caldero": 250,
+  "plano-ayuntamiento-puerto-este": 1178,
+  "plano-guarida-verbeeg": 268,
+  "plano-tumba-elfica": 309,
+  "plano-cumbre-kelvin": 331,
+  "plano-mina-termalaine": 361,
+  "plano-campana-angajuk": 418,
+  "plano-cabana-negra": 428,
+  "plano-fisura-carcajadas": 448,
+  "plano-cueva-berserkers": 458,
+  "plano-duquesa-oscura": 464,
+  "plano-id-ascendente": 485,
+  "plano-concilio-jarls": 510,
+  "plano-karkolohk": 520,
+  "plano-aguja-perdida": 532,
+  "plano-campamento-reghed": 550,
+  "plano-fin-de-la-fiesta": 562,
+  "plano-refugio-torre-cielo": 576,
+  "plano-pena-perdicion-sierpes": 596
+ },
+ "ayudas": {
+  "mapa-del-valle": "valle",
+  "mapa-de-diez-ciudades": "valle",
+  "mapa-de-bremen": "mapa-bremen",
+  "heraldica-de-bremen": "escudo-bremen",
+  "mapa-de-bryn-shander": "mapa-bryn-shander",
+  "plano-caer": "plano-alcazar-caer-dineval",
+  "emblema-refugio-dougan": "escudo-refugio-dougan",
+  "heraldica-de-bosque-solitari": "escudo-bosque-solitario",
+  "heraldica-de-bosque-solitario": "escudo-bosque-solitario",
+  "croquis-del-refugio": "plano-refugio-torre-cielo",
+  "esquema-de-las-cuevas": "plano-pena-perdicion-sierpes"
+ },
+ "planos": {
+  "04-bremen": [
+   "mapa-bremen"
+  ],
+  "05-bryn-shander": [
+   "mapa-bryn-shander"
+  ],
+  "06-caer-dineval": [
+   "mapa-caer-dineval",
+   "plano-alcazar-caer-dineval"
+  ],
+  "07-caer-konig": [
+   "mapa-caer-konig",
+   "plano-puesto-duergar"
+  ],
+  "08-refugio-dougan": [
+   "mapa-refugio-dougan",
+   "plano-cabana-gigante"
+  ],
+  "09-puerto-este": [
+   "mapa-puerto-este",
+   "plano-cavernas-caldero",
+   "plano-ayuntamiento-puerto-este"
+  ],
+  "10-buenaguamiel": [
+   "mapa-buenaguamiel",
+   "plano-guarida-verbeeg"
+  ],
+  "11-bosque-solitario": [
+   "mapa-bosque-solitario",
+   "plano-tumba-elfica"
+  ],
+  "12-targos": [
+   "mapa-targos",
+   "plano-cumbre-kelvin"
+  ],
+  "13-termalaine": [
+   "mapa-termalaine",
+   "plano-mina-termalaine"
+  ],
+  "01-diez-ciudades": [
+   "valle"
+  ],
+  "20-valle-viento-helado": [
+   "valle"
+  ],
+  "21-campana-angajuk": [
+   "plano-campana-angajuk"
+  ],
+  "22-cabana-negra": [
+   "plano-cabana-negra"
+  ],
+  "23-fisura-carcajadas": [
+   "plano-fisura-carcajadas"
+  ],
+  "24-cueva-berserkers": [
+   "plano-cueva-berserkers"
+  ],
+  "25-duquesa-oscura": [
+   "plano-duquesa-oscura"
+  ],
+  "26-id-ascendente": [
+   "plano-id-ascendente"
+  ],
+  "27-concilio-jarls": [
+   "plano-concilio-jarls"
+  ],
+  "28-karkolohk": [
+   "plano-karkolohk"
+  ],
+  "29-aguja-perdida": [
+   "plano-aguja-perdida"
+  ],
+  "30-campamento-reghed": [
+   "plano-campamento-reghed"
+  ],
+  "31-fin-de-la-fiesta": [
+   "plano-fin-de-la-fiesta"
+  ],
+  "32-refugio-torre-cielo": [
+   "plano-refugio-torre-cielo"
+  ],
+  "33-pena-perdicion-sierpes": [
+   "plano-pena-perdicion-sierpes"
+  ]
+ },
+ "descartar": [
+  "ficha-de-viaje",
+  "tarjetas-de-secretos",
+  "registro-de-la-aurora",
+  "nota-del-atentado",
+  "codigo-de-los-copos",
+  "contrato-de-hlin",
+  "ferry-viajes",
+  "esquema-de-rastros",
+  "runa-hielo",
+  "mapa-duergar-enano",
+  "mapa-territorios-pesqueros",
+  "caminos-buenaguamiel",
+  "copia-pictogramas",
+  "testimonio-del-arbusto",
+  "esquema-del-itinerario",
+  "rastros-mina",
+  "llamada-cristal",
+  "pergamino-apertura",
+  "esquema-de-poleas",
+  "maravillas-magicas-netheril",
+  "misterios-phaerimm",
+  "magos-hondonada",
+  "guia-ajamar",
+  "mente-sin-trabas",
+  "pergaminos-sabreyl",
+  "sombra-sustancia",
+  "aqui-yace-rey",
+  "ventatost",
+  "pergamino-dorado",
+  "copia-de-tallas",
+  "viaje-por-montana"
+ ],
+ "nombres": {
+  "valle": "Mapa del Valle del Viento Helado",
+  "mapa-bremen": "Mapa de Bremen",
+  "mapa-bryn-shander": "Mapa de Bryn Shander",
+  "mapa-caer-dineval": "Mapa de Caer-Dineval",
+  "mapa-caer-konig": "Mapa de Caer-Konig",
+  "mapa-refugio-dougan": "Mapa del Refugio de Dougan",
+  "mapa-puerto-este": "Mapa de Puerto Este",
+  "mapa-buenaguamiel": "Mapa de Buenaguamiel",
+  "mapa-bosque-solitario": "Mapa de Bosque Solitario",
+  "mapa-targos": "Mapa de Targos",
+  "mapa-termalaine": "Mapa de Termalaine",
+  "plano-alcazar-caer-dineval": "Plano del alcázar de Caer-Dineval",
+  "plano-puesto-duergar": "Plano del puesto avanzado duergar",
+  "plano-cabana-gigante": "Plano de la cabaña del gigante de escarcha",
+  "plano-cavernas-caldero": "Plano de las Cavernas del Caldero",
+  "plano-ayuntamiento-puerto-este": "Plano del ayuntamiento de Puerto Este",
+  "plano-guarida-verbeeg": "Plano de la guarida de los verbeeg",
+  "plano-tumba-elfica": "Plano de la tumba élfica",
+  "plano-cumbre-kelvin": "Plano de la Cumbre de Kelvin",
+  "plano-mina-termalaine": "Plano de la mina de gemas",
+  "plano-campana-angajuk": "Plano de la Campana de Angajuk",
+  "plano-cabana-negra": "Plano de la Cabaña Negra",
+  "plano-fisura-carcajadas": "Plano de la Fisura de las Carcajadas",
+  "plano-cueva-berserkers": "Plano de la Cueva de los Berserkers",
+  "plano-duquesa-oscura": "Plano de la Duquesa Oscura",
+  "plano-id-ascendente": "Plano de Id Ascendente",
+  "plano-concilio-jarls": "Plano del Concilio de los Jarls",
+  "plano-karkolohk": "Plano de Karkolohk",
+  "plano-aguja-perdida": "Plano de la Aguja Perdida de Netheril",
+  "plano-campamento-reghed": "Plano del campamento reghed",
+  "plano-fin-de-la-fiesta": "Plano del Fin de la Fiesta",
+  "plano-refugio-torre-cielo": "Plano del Refugio de la Torre del Cielo",
+  "plano-pena-perdicion-sierpes": "Plano de la Peña Perdición de Sierpes"
+ }
+}
