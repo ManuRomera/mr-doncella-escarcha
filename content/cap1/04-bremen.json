@@ -125,9 +125,9 @@
         "habitación revuelta",
         "trozo de hielo negro",
         "amuleto tiflin",
-        "recuerdo de Huarwar",
-        "confianza de Cora",
-        "sospecha de Cora"
+        "recuerdo de huarwar",
+        "confianza de cora",
+        "sospecha de cora"
       ],
       "figuras": [
         "cora-mulphoon"
@@ -166,8 +166,8 @@
       "ciudad": "bremen",
       "interior": false,
       "imagen_en": "Wide establishing view of Bremen’s fishing docks at dusk. Flickering lanterns illuminate tied rowing boats, taut frozen ropes and a wooden bucket of caught fish. Fine snow falls across the old planks while the lake reflects a metallic blue grey glow. Low village roofs dissolve into the evening haze. No people or creatures. Leave the lower third open.",
-      "lectura": "El sol se ha quedado en un rasgo pálido sobre el lago cuando volvéis al muelle. Grynsk está allí, con las manos metidas bajo las axilas y la barba rígida de hielo. Cuenta los peces con la mirada antes de que hayáis atado el bote. Detrás de él, Tali espera con el cuaderno apretado contra el pecho y una expresión que no acierta a disimular. El viento trae olor a madera mojada y a pescado. Por un momento, nadie dice nada; solo crujen las cuerdas y el hielo se queja bajo los botes.",
-      "notas": "Grynsk paga las truchas, aunque regatea; firmeza o persuasión evitan una paga rebajada. Tali recompensa las notas útiles con el pergamino de amistad animal, su bolsa y su favor; sin notas no hay recompensa. La promesa del plesiosaurio devuelve la pesca, su muerte permite a Ravisin sustituirlo y una retirada solo aplaza la amenaza. Cora puede acudir si investigaron a Huarwar.",
+      "lectura": "El sol se ha quedado en un trazo pálido sobre el lago cuando volvéis al muelle. Grynsk está allí, con las manos metidas bajo las axilas y la barba rígida de hielo. Cuenta los peces con la mirada antes de que hayáis atado el bote. Detrás de él, Tali espera con el cuaderno apretado contra el pecho y una expresión que no acierta a disimular. El viento trae olor a madera mojada y a pescado. Por un momento, nadie dice nada; solo crujen las cuerdas y el hielo se queja bajo los botes.",
+      "notas": "Grynsk paga las truchas, aunque regatea; firmeza o persuasión evitan una paga rebajada. Tali recompensa las notas útiles con el pergamino para calmar animales, su bolsa y su favor; sin notas no hay recompensa. La promesa del plesiosaurio devuelve la pesca, su muerte permite a Ravisin sustituirlo y una retirada solo aplaza la amenaza. Cora puede acudir si investigaron a Huarwar.",
       "musica": "lago",
       "motivos": [
         "esperanza"
@@ -197,7 +197,7 @@
     {
       "slug": "dorbulgruf-pizarrascara",
       "nombre": "Dorbulgruf Pizarrascara",
-      "papel": "Portavoz de Bremen y líder de la comunidad; anciano enano escudo de alineamiento legal bueno",
+      "papel": "Portavoz de Bremen y líder de la comunidad; anciano enano escudo honrado y bondadoso",
       "ciudad": "bremen",
       "aspecto_en": "Full body portrait of a very elderly shield dwarf, sparse white beard, weathered skin, clouded wandering eyes and knotted hands resting on a walking stick. Heavy fur coat, reinforced boots and layered blankets convey the severe northern winter. His posture is stooped and his expression courteous but confused. Soft hearth light catches muted brown and ivory textures.",
       "presentacion": "Veis a un enano tan anciano que hasta su barba blanca parece haberse vuelto escasa. Bajo las pieles y las mantas, sus manos nudosas buscan el apoyo de un bastón. Os saluda con una cortesía pausada, pero la mirada se le pierde antes de terminar la frase. Repite un nombre, calla y parece esperar que vuestra paciencia le devuelva el hilo.",
@@ -209,7 +209,7 @@
     {
       "slug": "grynsk-brocaberilo",
       "nombre": "Grynsk Brocaberilo",
-      "papel": "dueño de los dos botes de remos y patrón de pesca; plebeyo enano escudo",
+      "papel": "dueño de los dos botes de remos y patrón de pesca; pescador enano escudo",
       "ciudad": "bremen",
       "aspecto_en": "Full body portrait of a short, stocky shield dwarf fishing patron, broad nose and long frost tangled beard beneath a grey hood. Thick patched winter clothing, heavy boots and rough fisherman’s hands suggest years on frozen docks. He grips a stiff mooring rope, scowling impatiently. Cold grey light, weathered wool and leather, guarded greedy expression.",
       "presentacion": "Os llega primero el olor a pescado, sebo y cerveza. Bajo una capucha gris asoma una nariz ancha y una barba larga, endurecida por la escarcha. El enano golpea el suelo con las botas mientras os mide con impaciencia. Tiene las manos de quien conoce las cuerdas y los remos; cuando habláis, frunce el ceño como si cada palabra le costara dinero.",
@@ -221,7 +221,7 @@
     {
       "slug": "tali",
       "nombre": "Tali",
-      "papel": "investigador semielfo de la vida animal, explorador y patrono de la misión; neutral bueno",
+      "papel": "investigador semielfo de la vida animal, explorador y patrono de la misión; bondadoso",
       "ciudad": "bremen",
       "aspecto_en": "Full body portrait of an androgynous adult half elf researcher, slender build, pale skin, fine features and tied dark hair. A thick scarf and many pocketed travelling coat protect against the northern cold; fingerless gloves hold a worn notebook and charcoal. Attentive eyes and an eager, compassionate expression reveal scientific curiosity. Muted earth colours with soft wintry lighting.",
       "presentacion": "Entre los abrigos gruesos distinguís una figura delgada, de rasgos finos, con el pelo oscuro recogido y una bufanda que casi le oculta la boca. Unos guantes sin dedos sujetan cuaderno y carboncillo. Os pide que uséis su nombre: Tali. Su voz es suave, pero al hablar del lago las preguntas se atropellan y la preocupación se mezcla con una curiosidad imposible de disimular.",
@@ -233,7 +233,7 @@
     {
       "slug": "cora-mulphoon",
       "nombre": "Cora Mulphoon",
-      "papel": "posadera de Los Tesoros Enterrados y madre de Huarwar; humana neutral buena",
+      "papel": "posadera de Los Tesoros Enterrados y madre de Huarwar; humana bondadosa",
       "ciudad": "bremen",
       "aspecto_en": "Full body portrait of a middle aged human innkeeper, brown hair pinned back, round tired face and red hands from washing dishes. A clean apron covers patched woollen winter clothing and practical boots. She dries her hands on the apron, offering an anxious, overly bright smile. Warm hearth light, worn fabric textures and a maternal yet exhausted expression.",
       "presentacion": "Os recibe una mujer de cara redonda y pelo castaño recogido. El delantal está limpio, aunque la lana que asoma debajo muestra remiendos; sus manos, rojas de fregar, no dejan de moverse. Os ofrece una sonrisa demasiado amplia y se disculpa antes de que hayáis pedido nada. Cuando vuestra mirada alcanza el retrato de su hijo, la voz se le queda pequeña.",
@@ -474,7 +474,7 @@
       "secretos": [
         {
           "nombre": "Debilidades y vías de resolución",
-          "descripcion": "fuego, ropa seca, refugio y una buena Compañía; los botes robustos aguantan mejor que el Cabra Puntiaguda; seguir la costa y pescar para distraerse reduce el riesgo; un descanso en el campamento junto al fuego permite reducir [helado-X] y [agotado-X]."
+          "descripcion": "fuego, ropa seca, refugio y una buena Compañía; los botes robustos aguantan mejor que el Cabra Puntiaguda; seguir la costa y pescar para distraerse reduce el riesgo; un descanso en el campamento junto al fuego permite reducir los estados de frío y agotamiento."
         }
       ]
     },
@@ -514,7 +514,7 @@
         "viento cortante",
         "nieve horizontal",
         "visibilidad nula",
-        "frío de Auril",
+        "frío de auril",
         "noche interminable",
         "helado-1",
         "helado-2",
@@ -616,7 +616,7 @@
       "secretos": [
         {
           "nombre": "Debilidades y vías de resolución",
-          "descripcion": "se pesca con [pesca] o [paciencia]; no es un monstruo, solo un pez grande; una red o un golpe rápido la inmovilizan; su carne quita [hambriento-X] si se cocina."
+          "descripcion": "se pesca con [pesca] o [paciencia]; no es un monstruo, solo un pez grande; una red o un golpe rápido la inmovilizan; su carne cocinada permite reducir el estado de hambre."
         }
       ]
     },
@@ -674,10 +674,10 @@
         },
         {
           "nombre": "Humillar a los forasteros",
-          "descripcion": "[rencor de Targos] o [rencor de Termalaine]; los pescadores hablarán mal de los Héroes en su villa.",
+          "descripcion": "[rencor de targos] o [rencor de termalaine]; los pescadores hablarán mal de los Héroes en su villa.",
           "consecuencias": [
-            "Aplica [rencor de Targos]",
-            "Aplica [rencor de Termalaine]"
+            "Aplica [rencor de targos]",
+            "Aplica [rencor de termalaine]"
           ]
         }
       ],
@@ -693,7 +693,7 @@
     {
       "slug": "cuaderno-de-tali",
       "nombre": "Cuaderno de Tali",
-      "etiqueta": "cuaderno de Tali",
+      "etiqueta": "cuaderno de tali",
       "descripcion": "cuaderno de tapas gastadas, con hojas en blanco y una lista de preguntas sobre tamaño, atributos físicos y naturaleza de la criatura. Etiqueta de mochila o documento para los jugadores. Es la herramienta para tomar notas; si se llena, se convierte en [notas del monstruo].",
       "imagen_en": "A worn field notebook with weathered covers, blank cream pages and a charcoal pencil tucked into the binding. Isolated object on a neutral background, soft cold light, no readable writing."
     },
@@ -706,29 +706,29 @@
     },
     {
       "slug": "pergamino-de-amistad-animal",
-      "nombre": "Pergamino de amistad animal",
-      "etiqueta": "pergamino de amistad animal",
+      "nombre": "Pergamino para calmar animales",
+      "etiqueta": "pergamino para calmar animales",
       "descripcion": "pergamino enrollado y sellado con un cordel verde; etiqueta de mochila, un uso. Permite calmar o ganar como aliado a un animal pequeño o mediano durante una escena; no convence al plesiosaurio si este ya desconfía, porque su conciencia es obra de otra magia.",
       "imagen_en": "A rolled parchment scroll bound with green cord, simple sealed fold and softly worn edges. Isolated magical travel object on a neutral background, warm parchment tones, no visible lettering."
     },
     {
       "slug": "bolsa-de-tali",
       "nombre": "Bolsa de Tali",
-      "etiqueta": "bolsa de Tali",
+      "etiqueta": "bolsa de tali",
       "descripcion": "bolsa de viaje con provisiones, aceite y calderilla suficiente para unos días; etiqueta de mochila. Es la recompensa material de Tali, además de su favor.",
       "imagen_en": "A practical travelling bag containing wrapped provisions, a small oil flask and a few humble coins. Worn leather and coarse cloth, isolated on a neutral background, realistic winter expedition equipment."
     },
     {
       "slug": "bote-carnero-robusto",
       "nombre": "Bote Carnero Robusto",
-      "etiqueta": "bote Carnero Robusto",
+      "etiqueta": "bote carnero robusto",
       "descripcion": "bote de remos sano, de madera gruesa, con dos remos y tres aparejos de pesca; etiqueta de historia o de mochila. Aguanta bien los golpes y no hace agua; sirve para cuatro personas y su equipo.",
       "imagen_en": "A sturdy thick timber rowing boat with two wooden oars and three sets of fishing tackle. Entire vessel isolated against a neutral background, sound planking and practical weathered construction."
     },
     {
       "slug": "bote-cabra-puntiaguda",
       "nombre": "Bote Cabra Puntiaguda",
-      "etiqueta": "bote Cabra Puntiaguda",
+      "etiqueta": "bote cabra puntiaguda",
       "descripcion": "bote de remos con una marca de mordisco en el casco; etiqueta de historia o de mochila. Está [dañado]: hace agua si se fuerza, y una embestida o un bloque de hielo pueden hundirlo. Necesita reparación antes de un viaje largo.",
       "imagen_en": "A weathered wooden rowing boat with a jagged bite mark torn from its hull and damaged planking. Entire boat isolated against a neutral background, frost edged timber, no people."
     },
@@ -743,7 +743,7 @@
       "slug": "trozo-de-hielo-negro",
       "nombre": "Trozo de hielo negro",
       "etiqueta": "trozo de hielo negro",
-      "descripcion": "fragmento de hielo oscuro como el carbón, frío incluso a través de los guantes; etiqueta de historia o de mochila. Es la pista que explica el cambio de Huarwar y los amuletos de los tiflin. Quien lo lleva mucho tiempo siente susurros y sueños de nieve; el Narrador puede crear [hielo negro] como etiqueta de escena o [corrupto-1] si se abuse de él.",
+      "descripcion": "fragmento de hielo oscuro como el carbón, frío incluso a través de los guantes; etiqueta de historia o de mochila. Es la pista que explica el cambio de Huarwar y los amuletos de los tiflin. Quien lo lleva mucho tiempo siente susurros y sueños de nieve; el Narrador puede crear [hielo negro] como etiqueta de escena o [corrupto-1] si se abusa de él.",
       "imagen_en": "A coal black shard of ice held visually apart from all surroundings, sharp uneven edges and a chilling glassy sheen. Isolated on a neutral background, faint frost crystals, no lettering."
     },
     {
@@ -756,35 +756,35 @@
     {
       "slug": "mapa-de-bremen",
       "nombre": "Mapa de Bremen",
-      "etiqueta": "mapa de Bremen",
+      "etiqueta": "mapa de bremen",
       "descripcion": "mapa dibujado a mano con el muelle, la posada, las cinco tabernas, el río Shaengarne y el lago; etiqueta de historia o documento para los jugadores. Ayuda a orientarse en la villa y a planificar la salida al lago.",
       "imagen_en": "A hand drawn village map showing a dock, inn, five taverns, winding river and broad lake. Worn paper, simple ink lines, isolated object, no readable text or invented landmarks."
     },
     {
       "slug": "heraldica-de-bremen",
       "nombre": "Heráldica de Bremen",
-      "etiqueta": "heráldica de Bremen",
+      "etiqueta": "heráldica de bremen",
       "descripcion": "un círculo dorado sobre campo blanco, una banda azul horizontal hacia la izquierda y un triángulo azul claro hacia la derecha; etiqueta de historia. El círculo representa los tesoros hallados en el río, la banda es el Shaengarne, el triángulo es Maer Dualdon y el blanco es la nieve. Sirve para decorar una escena o identificar un edificio oficial.",
       "imagen_en": "A heraldic emblem on white ground: a golden circle, a horizontal blue band extending left and a pale blue triangle extending right. Isolated painted plaque, weathered surface, no lettering."
     },
     {
       "slug": "paga-de-grynsk",
       "nombre": "Paga de Grynsk",
-      "etiqueta": "paga de Grynsk",
+      "etiqueta": "paga de grynsk",
       "descripcion": "calderilla y unas monedas de escaso valor, más un favor menor si el grupo le ha salvado la temporada; etiqueta de mochila. No es una fortuna, pero cubre comida y alojamiento unos días.",
       "imagen_en": "A modest handful of low value coins in a simple cloth purse, enough for basic meals and lodging. Isolated object on a neutral background, worn metal and rough fabric."
     },
     {
       "slug": "favor-de-tali",
       "nombre": "Favor de Tali",
-      "etiqueta": "favor de Tali",
+      "etiqueta": "favor de tali",
       "descripcion": "etiqueta de historia o de Compañía. Tali queda en deuda con los Héroes y puede compartir sus contactos, sus notas o su ayuda en futuras investigaciones del valle.",
       "imagen_en": "A symbolic still life of a worn researcher notebook and charcoal resting beside a travel bag, representing gratitude and future assistance. Isolated on a neutral background, no text."
     },
     {
       "slug": "confianza-de-cora",
       "nombre": "Confianza de Cora",
-      "etiqueta": "confianza de Cora",
+      "etiqueta": "confianza de cora",
       "descripcion": "etiqueta de historia. Cora ofrece cobijo, sopa caliente y todo lo que sabe sobre Huarwar; si se pierde, la posada se cierra a los Héroes.",
       "imagen_en": "A symbolic still life of a steaming bowl of fish soup beside a folded wool blanket, representing an innkeeper’s trust and shelter. Isolated on a neutral background, warm light."
     }

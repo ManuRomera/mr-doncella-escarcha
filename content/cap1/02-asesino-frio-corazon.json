@@ -202,7 +202,7 @@
     {
       "slug": "hlin-matatrols",
       "nombre": "Hlin Matatrols",
-      "papel": "cazarrecompensas retirada, patrona de la misión y posible aliada recurrente. En el original se llama Hlin Trollbane.",
+      "papel": "cazarrecompensas retirada, patrona de la misión y posible aliada recurrente.",
       "ciudad": "otro",
       "aspecto_en": "Full body portrait of an elderly shield dwarf woman, stocky and weather beaten, with grey braided hair and a deep scar across her nose. She wears a worn fur coat without armour, with a battleaxe and handaxe at her belt. Knotted hands hold a dark wooden pipe. Her alert gaze and tight expression suggest dry humour and stubborn decency.",
       "presentacion": "Veis a una enana de pelo gris trenzado que os estudia por encima de una pipa oscura. El olor del tabaco se mezcla con el de sus pieles gastadas. Una cicatriz le cruza la nariz y dos hachas cuelgan de su cinto. Cuando os señala una silla, su mirada despierta deja claro que espera respuestas breves y útiles.",
@@ -341,7 +341,7 @@
         },
         {
           "nombre": "Regeneración gélida",
-          "descripcion": "Reduce el estado herido en un nivel al inicio de su turno si hace frío. El fuego anula la regeneración hasta el siguiente turno; según la ficha, solo muere si empieza su turno a 0 y no puede regenerarse. La ficha no traduce ese 0 a un límite de estado."
+          "descripcion": "Reduce el estado herido en un nivel al inicio de su turno si hace frío. El fuego anula la regeneración hasta el siguiente turno; solo muere si empieza su turno a 0 y no puede regenerarse."
         }
       ],
       "amenazas": [

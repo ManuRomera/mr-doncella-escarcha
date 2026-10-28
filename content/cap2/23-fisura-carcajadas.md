@@ -82,7 +82,7 @@ La Fisura de las Carcajadas es un abismo en las estribaciones de la Columna del 
 
 - **Lugar e imagen**: cámara de 2,4 metros casi vacía; cajas podridas y sacos rotos esparcidos; suelo de piedra; oscuridad.
 - **Lectura**: "Cajas podridas y sacos rotos se esparcen por el suelo de esta cámara casi vacía. Los gnolls traen aquí los suministros que arrebatan a los viajeros masacrados entre Diez Ciudades y el valle, y los devoran. Ya no queda nada salvo los contenedores que los transportaban. Ante vosotros solo hay madera deteriorada, tela rasgada y piedra desnuda. El eco de vuestras botas parece demasiado grande en un lugar tan despojado."
-- **Qué ocurre**: Los gnolls toman suministros de viajeros masacrados que van y vienen de Diez Ciudades y los consumen aquí. Solo quedan los contenedores. No hay tesoro indicado.
+- **Qué ocurre**: Los gnolls toman suministros de viajeros masacrados que van y vienen de Diez Ciudades y los consumen aquí. Solo quedan los contenedores. No queda tesoro.
 - **Etiquetas de escena**: [almacén vacío], [cajas rotas], [suministros agotados]
 - **Ambiente sonoro**: eco, viento.
 
@@ -110,7 +110,7 @@ La Fisura de las Carcajadas es un abismo en las estribaciones de la Columna del 
 
 ### Nabira Moarskull (fallecida)
 
-- **Papel**: pescadora de Puerto Este, víctima de Chyzka. · **Aspecto**: desconocido; solo queda su caña de pescar. · **Carácter y voz**: no consta. · **Quiere**: (en vida) pescar y vivir. · **Sabe**: los pesqueros de Puerto Este. · **Si se convierte en desafío**: no combate (muerta). Su caña y su anzuelo son pistas y recompensa.
+- **Papel**: pescadora de Puerto Este, víctima de Chyzka. · **Aspecto**: su caña de pescar es el recuerdo que queda de ella. · **Carácter y voz**: paciente y práctica; en vida hablaba con calma de su oficio. · **Quiere**: (en vida) pescar y vivir. · **Sabe**: los pesqueros de Puerto Este. · **Si se convierte en desafío**: no combate (muerta). Su caña y su anzuelo son pistas y recompensa.
 
 ## Desafíos
 
@@ -186,6 +186,3 @@ La Fisura de las Carcajadas es un abismo en las estribaciones de la Columna del 
 - **Cueva de los Berserkers** (archivo 24): el prisionero de Z8 es un berserker de chardalyn; su ficha y desarrollo continúan allí.
 - **Diez Ciudades**: los suministros de Z7 provienen de viajeros masacrados entre las ciudades y el valle.
 
-## Páginas de la fuente
-
-122–124

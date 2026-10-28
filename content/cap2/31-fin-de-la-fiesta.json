@@ -3,272 +3,1127 @@
   "titulo": "El Fin de la Fiesta",
   "escenas": [
     {
-      "slug": "acercamiento-cortavientos", "nombre": "Acercamiento al Cortavientos", "ciudad": "otro", "interior": false,
+      "slug": "acercamiento-cortavientos",
+      "nombre": "Acercamiento al Cortavientos",
+      "ciudad": "otro",
+      "interior": false,
       "imagen_en": "Wide establishing view of an Arctic coastal prison carved into a blade-shaped rock above a frozen sea. A central arrow-slit tower rises between four corner watchtowers. Below, a wooden crane and tall scaffold cling to the northern cliff beside a dock. Cold mist, grey stone, white snow, faint window light. No people or creatures. Keep the lower third open.",
       "lectura": "Sobre un acantilado que domina el Mar de Hielo Móvil se alza una fortaleza tallada en una roca en forma de cuchilla. Una torre central sobresale entre cuatro torres menores; por sus saeteras se filtran débiles luces. Distinguís guardias en las alturas. Al norte, un muelle y una grúa de madera se aferran al pie del risco, unidos a la prisión por un alto andamio. Al sur, un sendero alcanza la entrada. El viento aúlla y la bruma desdibuja los muros.",
-      "notas": "Hay tres guardias por torre; resuelve su detección con una sola comprobación colectiva favorecida por la vigilancia, no una por guardia. Si detectan algo extraño, uno baja a avisar y los demás mantienen sus puestos. La ventisca puede dificultar la llegada si el clima empeora.",
-      "musica": "valle", "motivos": ["amenaza", "ventisca-m"], "efectos": ["viento", "hielo-cruje", "cuerno"], "ambiente": "dim", "etiquetas": ["acantilado", "bruma", "viento aullante", "fortaleza de piedra"], "figuras": ["guardias-alianza", "ventisca-cortavientos"]
+      "notas": "Hay tres guardias por torre; los intentos de pasar inadvertidos afrontan [vigilancia coordinada] como etiqueta en contra y se resuelven para el grupo en conjunto. Si detectan algo extraño, uno baja a avisar y los demás mantienen sus puestos. La ventisca puede dificultar la llegada si el clima empeora.",
+      "musica": "valle",
+      "motivos": [
+        "amenaza",
+        "ventisca-m"
+      ],
+      "efectos": [
+        "viento",
+        "hielo-cruje",
+        "cuerno"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "acantilado",
+        "bruma",
+        "viento aullante",
+        "fortaleza de piedra"
+      ],
+      "figuras": [
+        "guardias-alianza",
+        "ventisca-cortavientos"
+      ]
     },
     {
-      "slug": "entrada-guardia", "nombre": "Entrada y salas de guardia (R3)", "ciudad": "otro", "interior": true,
+      "slug": "entrada-guardia",
+      "nombre": "Entrada y salas de guardia",
+      "ciudad": "otro",
+      "interior": true,
       "imagen_en": "Wide interior of a thirty-foot stone entrance corridor in an Arctic fortress prison. Reinforced iron doors frame both ends, with red fabric bearing a golden crown displayed beside the checkpoint. Bare stone flooring, practical furnishings, cold light beyond the doorway and steady interior illumination. Heavy locks suggest strict security. No people or creatures. Leave clear floor across the lower third.",
       "lectura": "Golpeáis la puerta y, tras la espera, el hierro se abre para mostrar un pasillo de unos nueve metros. Tres guardias os reciben con túnicas que muestran una corona dorada sobre campo rojo. Sus instrucciones son claras: debéis entregar las armas y someteros a un registro. Las puertas y vuestros pasos devuelven ecos secos contra la piedra. Cuando terminan, os indican que los acompañéis a la sala de reuniones; allí os recibirá el alcaide.",
-      "notas": "Los guardias confiscan las armas y registran a los visitantes; ocultar una daga exige superar el registro. Los animales van a R5 y necesitan comida aportada por sus dueños. Refugio o entrevista son razones legítimas; sin una explicación satisfactoria, Marta devuelve las pertenencias y expulsa al grupo.",
-      "musica": "pueblo", "motivos": ["tension"], "efectos": ["puerta", "pasos"], "ambiente": "light", "etiquetas": ["entrada fortificada", "guardias alerta", "confiscación"], "figuras": ["guardias-alianza"]
+      "notas": "Los guardias confiscan las armas y registran a los visitantes; ocultar una daga es arriesgado: el éxito crea [arma oculta]; el fallo supone su confiscación y [bajo sospecha-2]. Los animales van a los establos y necesitan comida aportada por sus dueños. Refugio o entrevista son razones legítimas; sin una explicación satisfactoria, Marta devuelve las pertenencias y expulsa al grupo.",
+      "musica": "pueblo",
+      "motivos": [
+        "tension"
+      ],
+      "efectos": [
+        "puerta",
+        "pasos"
+      ],
+      "ambiente": "light",
+      "etiquetas": [
+        "entrada fortificada",
+        "guardias alerta",
+        "confiscación"
+      ],
+      "figuras": [
+        "guardias-alianza"
+      ]
     },
     {
-      "slug": "muelle-ascensor", "nombre": "Muelle, ascensor y grúa (R1-R2)", "ciudad": "otro", "interior": false,
+      "slug": "muelle-ascensor",
+      "nombre": "Muelle, ascensor y grúa",
+      "ciudad": "otro",
+      "interior": false,
       "imagen_en": "Wide view of a wooden dock at the foot of a sheer Arctic cliff. A wooden crane supports a ten-foot cubic lift cabin with a retractable door, beside a one-hundred-sixty-foot scaffold climbing the rock face. Dark seawater, drifting frost, weathered timbers and iron fittings under diffuse polar light. No people, animals or creatures. Keep the lower third spacious and unobstructed.",
-      "lectura": "El muelle se aferra a la base del acantilado, donde las olas golpean la roca bajo el viento. Una grúa de madera domina el andamio que trepa unos cuarenta y nueve metros hasta la prisión. De ella cuelga una cabina hueca y cuadrada, de unos tres metros de lado, cerrada por una puerta retráctil. El trayecto de subida o bajada dura un minuto. Por aquí llegan los barcos cargados de suministros y prisioneros.",
-      "notas": "La grúa se maneja mediante una palanca de hierro en la sala de guardia norte de R3. La puerta retráctil de la cabina queda en el lado opuesto a la grúa. Los barcos de abastecimiento pueden ofrecer pasaje a la isla de Auril o fuera del Lejano Norte.",
-      "musica": "lago", "motivos": [], "efectos": ["viento", "lago-sfx"], "ambiente": "dim", "etiquetas": ["muelle", "ascensor de madera", "acantilado"], "figuras": []
+      "lectura": "Ante vosotros, el muelle se aferra a la base del acantilado, donde las olas golpean la roca bajo el viento. Una grúa de madera domina el andamio que trepa unos cincuenta metros hasta la prisión. De ella cuelga una cabina hueca y cuadrada, de unos tres metros de lado, cerrada por una puerta retráctil. El trayecto de subida o bajada dura un minuto. Por aquí llegan los barcos cargados de suministros y prisioneros.",
+      "notas": "La grúa se maneja mediante una palanca de hierro en la sala de guardia norte de la entrada norte. La puerta retráctil de la cabina queda en el lado opuesto a la grúa. Los barcos de abastecimiento pueden ofrecer pasaje a la isla de Auril o fuera del Lejano Norte.",
+      "musica": "lago",
+      "motivos": [],
+      "efectos": [
+        "viento",
+        "lago-sfx"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "muelle",
+        "ascensor de madera",
+        "acantilado"
+      ],
+      "figuras": []
     },
     {
-      "slug": "servicios-aposentos", "nombre": "Hospital, establos, comedor y cocina (R4-R8)", "ciudad": "otro", "interior": true,
+      "slug": "servicios-aposentos",
+      "nombre": "Hospital, establos, comedor y cocina",
+      "ciudad": "otro",
+      "interior": true,
       "imagen_en": "Wide architectural view through connected stone service rooms in a magically heated Arctic prison. Show an infirmary with twelve beds, a dining area with long benches, and a kitchen with an iron stove and water pump. Nearby doorways suggest guest quarters and stables. Orderly supplies, warm illumination, practical military austerity. No people or animals. Leave the lower third uncluttered.",
-      "lectura": "Al avanzar por las dependencias de servicio, el frío cede ante un calor mágico constante. Pasáis junto a un hospital con una docena de camas y unos establos reservados a los animales de carga. En el comedor, mesas y bancos esperan al siguiente turno del personal, que cena cada cuatro horas. Desde la cocina llegan el sonido de las ollas y las voces de quienes preparan la comida. Todo sigue una rutina militar, regular y cuidadosamente mantenida.",
-      "notas": "El hospital guarda suministros para veinte kits de curandero y seis cocineros se turnan en R8, junto a despensa, cámara fría y dormitorio. De los diez aposentos de R7, tres pertenecen a Voss, Jil y Kriv; los siete libres pueden alojar visitantes. Marta concede refugio hasta dos días y dos noches, con tres comidas diarias; los visitantes alimentan a sus propios animales.",
-      "musica": "pueblo", "motivos": ["esperanza"], "efectos": ["hogar", "pasos", "perros"], "ambiente": "light", "etiquetas": ["calor mágico", "servicio", "aposentos libres"], "figuras": ["cocineros-prision", "voss-anderton", "jil-torbo", "kriv-norixius"]
+      "lectura": "Al avanzar por las dependencias de servicio, el frío cede ante un calor mágico constante. Pasáis junto a un hospital con una docena de camas y unos establos reservados a los animales de carga. En el comedor, mesas y bancos esperan al siguiente turno del personal. Desde la cocina llegan el sonido de las ollas y las voces de quienes preparan la comida. Todo sigue una rutina militar, regular y cuidadosamente mantenida.",
+      "notas": "El hospital guarda suministros para veinte kits de curandero y seis cocineros se turnan en la cocina, junto a despensa, cámara fría y dormitorio. De los diez aposentos de los aposentos de los consejeros, tres pertenecen a Voss, Jil y Kriv; los siete libres pueden alojar visitantes. Marta concede refugio hasta dos días y dos noches, con tres comidas diarias; los visitantes alimentan a sus propios animales. El personal come por turnos cada cuatro horas.",
+      "musica": "pueblo",
+      "motivos": [
+        "esperanza"
+      ],
+      "efectos": [
+        "hogar",
+        "pasos",
+        "perros"
+      ],
+      "ambiente": "light",
+      "etiquetas": [
+        "calor mágico",
+        "servicio",
+        "aposentos libres"
+      ],
+      "figuras": [
+        "cocineros-prision",
+        "voss-anderton",
+        "jil-torbo",
+        "kriv-norixius"
+      ]
     },
     {
-      "slug": "torres-armeria", "nombre": "Torres de vigilancia y armería (R9-R10)", "ciudad": "otro", "interior": true,
+      "slug": "torres-armeria",
+      "nombre": "Torres de vigilancia y armería",
+      "ciudad": "otro",
+      "interior": true,
       "imagen_en": "Wide interior view of a triangular stone watchtower opening toward an armoury. A wooden stair climbs to a sealed iron roof hatch; narrow arrow slits admit icy light. Wooden racks and chests hold halberds, swords, pikes, crossbows and bolts in meticulous order. Grey stone and dark wood contrast with polished metal. No people or creatures. Keep the lower third open.",
-      "lectura": "Las torres de vigilancia tienen planta triangular y dos alturas, comunicadas por una escalera de madera. Arriba, una escotilla de hierro sellada por magia da acceso a las almenas. En la armería, estantes y cofres guardan armas cuidadosamente ordenadas: hojas de acero, largas astas y ballestas con sus virotes. Entre ellas flota una criatura de ojos mágicos. Su atención recorre el inventario como si cada pieza fuese parte de un tesoro que no piensa compartir.",
+      "lectura": "Al entrar, veis las torres de vigilancia: tienen planta triangular y dos alturas, comunicadas por una escalera de madera. Arriba, una escotilla de hierro sellada por magia da acceso a las almenas. En la armería, estantes y cofres guardan armas cuidadosamente ordenadas: hojas de acero, largas astas y ballestas con sus virotes. Entre ellas flota una criatura de ojos mágicos. Su atención recorre el inventario como si cada pieza fuese parte de un tesoro que no piensa compartir.",
       "notas": "Cada torre tiene tres guardias preparados para el frío. La armería contiene veinte alabardas, quince espadas largas, quince cortas, diez picas, diez ballestas pesadas, cinco ligeras y cientos de virotes. El espectador reconoce al personal, ataca a desconocidos y nunca abandona la sala; otra escotilla lleva al techo.",
-      "musica": "noche", "motivos": ["amenaza", "misterio"], "efectos": ["viento", "pasos"], "ambiente": "dim", "etiquetas": ["torre de vigilancia", "armería", "espectador"], "figuras": ["guardias-alianza", "espectador-armeria"]
+      "musica": "noche",
+      "motivos": [
+        "amenaza",
+        "misterio"
+      ],
+      "efectos": [
+        "viento",
+        "pasos"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "torre de vigilancia",
+        "armería",
+        "espectador"
+      ],
+      "figuras": [
+        "guardias-alianza",
+        "espectador-armeria"
+      ]
     },
     {
-      "slug": "patios-ejercicio", "nombre": "Patios de ejercicio (R11)", "ciudad": "otro", "interior": false,
+      "slug": "patios-ejercicio",
+      "nombre": "Patios de ejercicio",
+      "ciudad": "otro",
+      "interior": false,
       "imagen_en": "Wide view of an empty exercise yard enclosed by the stone walls of an Arctic prison. Windblown snow drifts over paving slabs beneath a corner watchtower, with narrow observation openings overlooking the ground. Cold pale daylight, muted grey masonry, white powder and hard geometric shadows convey strict supervision. No people or creatures. Leave the lower third clear for foreground use.",
-      "lectura": "El patio se abre entre muros de piedra, con las losas apenas visibles bajo la nieve que arrastra el viento. Desde la torre de la esquina se domina cada rincón del recinto. Cuando el tiempo permite salir, los prisioneros toman aquí el aire, solos o en pequeños grupos, siempre bajo estrecha vigilancia. El roce de las cadenas y los pasos sobre la nieve acompañan un ejercicio medido, sin un instante fuera de la mirada de los guardias.",
+      "lectura": "Salís a un patio cercado por muros de piedra. Bajo vuestras botas, las losas apenas asoman entre las ráfagas de nieve que arrastra el viento. Al levantar la vista veis la torre de la esquina, desde donde se domina todo el recinto. El frío os alcanza de inmediato, sin el abrigo de los corredores interiores. Vuestros pasos crujen sobre la nieve y el viento lleva el tintineo de las cadenas entre los muros.",
       "notas": "El acceso está controlado y depende del clima. Los guardias vigilan desde el suelo y desde la torre de la esquina; cualquier interacción con los reclusos ocurre bajo su mirada.",
-      "musica": "valle", "motivos": ["tension"], "efectos": ["viento", "pasos"], "ambiente": "dim", "etiquetas": ["patio", "nieve flotante", "vigilancia"], "figuras": ["guardias-alianza", "prisioneros-genericos"]
+      "musica": "valle",
+      "motivos": [
+        "tension"
+      ],
+      "efectos": [
+        "viento",
+        "pasos"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "patio",
+        "nieve flotante",
+        "vigilancia"
+      ],
+      "figuras": [
+        "guardias-alianza",
+        "prisioneros-genericos"
+      ]
     },
     {
-      "slug": "sala-reuniones", "nombre": "Sala de reuniones (R12)", "ciudad": "otro", "interior": true,
+      "slug": "sala-reuniones",
+      "nombre": "Sala de reuniones",
+      "ciudad": "otro",
+      "interior": true,
       "imagen_en": "Wide interior of a restrained stone meeting room in a remote Arctic prison. A long rectangular table has one chair on one long side and three opposite it. A stair leads to an iron ceiling hatch sealed by magic. Plain walls, austere furniture and steady magical lighting create an official atmosphere. No people or creatures. Leave the lower third free of clutter.",
-      "lectura": "Una mesa larga y rectangular ocupa la sala. A un lado hay una única silla; enfrente, otras tres esperan a quienes deban hacer las preguntas. La disposición deja poco margen para olvidar dónde estáis. Una escalera asciende hasta una escotilla de hierro en el techo, sellada por magia. Aquí se celebran las reuniones con el alcaide y las entrevistas con los reclusos, que comparecen esposados. Los pasos y las cadenas resuenan con nitidez entre las paredes.",
-      "notas": "Marta permanece presente durante las entrevistas con prisioneros. Todos los reclusos llegan esposados. La escotilla del techo está protegida por una cerradura arcana.",
-      "musica": "pueblo", "motivos": ["tension"], "efectos": ["puerta", "pasos"], "ambiente": "light", "etiquetas": ["sala de reuniones", "escotilla sellada", "prisioneros esposados"], "figuras": ["marta-marthannis", "guardias-alianza"]
+      "lectura": "Una mesa larga y rectangular ocupa la sala. A un lado hay una única silla; enfrente, otras tres esperan a quienes deban hacer las preguntas. La disposición deja poco margen para olvidar dónde estáis. Una escalera asciende hasta una escotilla de hierro en el techo, sellada por magia. Al acercaros a las sillas, veis cómo su distribución separa al interrogado de sus visitantes. Los pasos y las cadenas resuenan con nitidez entre las paredes.",
+      "notas": "Marta permanece presente durante las entrevistas con prisioneros. Todos los reclusos llegan esposados. La escotilla del techo está protegida por una sello mágico.",
+      "musica": "pueblo",
+      "motivos": [
+        "tension"
+      ],
+      "efectos": [
+        "puerta",
+        "pasos"
+      ],
+      "ambiente": "light",
+      "etiquetas": [
+        "sala de reuniones",
+        "escotilla sellada",
+        "prisioneros esposados"
+      ],
+      "figuras": [
+        "marta-marthannis",
+        "guardias-alianza"
+      ]
     },
     {
-      "slug": "almacen-letrinas", "nombre": "Almacén y letrinas (R13-R14)", "ciudad": "otro", "interior": true,
+      "slug": "almacen-letrinas",
+      "nombre": "Almacén y letrinas",
+      "ciudad": "otro",
+      "interior": true,
       "imagen_en": "Wide view of two adjoining utility chambers inside a stone prison. The storeroom holds neatly stacked wooden crates and containers of essential supplies; the adjacent latrine contains twelve plain wooden waste buckets. Worn stone floors, utilitarian doors and subdued steady light suggest repetitive institutional routine. Brown timber against grey walls. No people or creatures. Keep the lower third visually clear.",
-      "lectura": "Las cajas y los contenedores del almacén se acumulan en un orden práctico, pensado para sostener meses de aislamiento. Hay artículos de primera necesidad suficientes para seis meses de funcionamiento. En la habitación contigua, una docena de cubos de madera cumple la función de letrinas. El olor y el chapoteo rompen la sobriedad de estas dependencias. Cada mañana, por lo general, los prisioneros reciben la orden de sacar los cubos y deshacerse de los desechos.",
+      "lectura": "Os abrís paso entre cajas y contenedores colocados en un orden práctico. La madera ocupa buena parte del almacén, dejando pasillos entre las reservas de artículos de primera necesidad. Al acercaros a la habitación contigua, el olor os anuncia las letrinas antes de que veáis los cubos: una docena de recipientes de madera alineados sobre la piedra. El eco de vuestros pasos y algún chapoteo rompen el silencio de estas dependencias de servicio.",
       "notas": "El almacén sostiene seis meses de actividad de la prisión. Los guardias organizan el vaciado diario de las letrinas por los reclusos; esta rutina permite situar encuentros de servicio sin alterar los protocolos de custodia.",
-      "musica": "pueblo", "motivos": [], "efectos": ["pasos", "chapuzon"], "ambiente": "light", "etiquetas": ["almacén", "letrinas", "rutina"], "figuras": ["guardias-alianza", "prisioneros-genericos"]
+      "musica": "pueblo",
+      "motivos": [],
+      "efectos": [
+        "pasos",
+        "chapuzon"
+      ],
+      "ambiente": "light",
+      "etiquetas": [
+        "almacén",
+        "letrinas",
+        "rutina"
+      ],
+      "figuras": [
+        "guardias-alianza",
+        "prisioneros-genericos"
+      ]
     },
     {
-      "slug": "panoptico-celdas", "nombre": "Hexágono, panóptico y celdas (R15-R17)", "ciudad": "otro", "interior": true,
+      "slug": "panoptico-celdas",
+      "nombre": "Hexágono, panóptico y celdas",
+      "ciudad": "otro",
+      "interior": true,
       "imagen_en": "Wide architectural view of a hexagonal prison corridor surrounding a central observation tower and a ring of barred cells. The central space has dim adjustable magical illumination, while the cells remain unlit. Iron bunks and plain waste buckets sit behind bars, with austere stone surfaces and deep shadows. No people or creatures. Preserve an open lower third and emphasize controlled sightlines.",
-      "lectura": "El corredor hexagonal permite recorrer las salas exteriores sin cruzar el panóptico. Más adentro, las puertas enrejadas de las celdas miran hacia el centro de vigilancia, desde donde se controla su apertura. Tras los barrotes apenas distinguís literas de hierro y cubos: las celdas carecen de luz. Un campo antimágico permanente cubre cada una y suprime toda magia salvo la de artefactos o deidades. Los pasos de los guardias y alguna respiración contenida interrumpen el silencio.",
-      "notas": "Hay veinticuatro celdas de una o dos plazas; 4d12 determina la población actual. Los números van del 6 al 299 y no se reutilizan; para entrevistar a Gant se solicita al Prisionero 237. Los perfiles posibles incluyen nobles esclavistas o conspiradores, espías, asesinos, aventureros, magos y líderes de ladrones, siempre sin equipo; comen en las celdas.",
-      "musica": "noche", "motivos": ["tension", "misterio"], "efectos": ["pasos", "puerta"], "ambiente": "dark", "etiquetas": ["panóptico", "celdas", "campo antimágico", "oscuridad", "prisioneros numerados"], "figuras": ["guardias-alianza", "prisioneros-genericos", "vaelish-gant", "prisioneros-amotinados"]
+      "lectura": "Recorréis un pasillo hexagonal que bordea la sala central. A través de las rejas distinguís literas de hierro y cubos de madera, casi perdidos en la oscuridad de las celdas. La luz del panóptico apenas llega hasta el interior. Oís pasos de guardias y alguna respiración contenida; cada ruido parece viajar hasta el centro de vigilancia. Los barrotes os separan de hombres y mujeres vestidos con las mismas túnicas de recluso.",
+      "notas": "Hay veinticuatro celdas de una o dos plazas; 4d12 determina la población actual. Los números van del 6 al 299 y no se reutilizan; para entrevistar a Gant se solicita al Prisionero 237. Los perfiles posibles incluyen nobles esclavistas o conspiradores, espías, asesinos, buscadores de fortuna, magos y líderes de ladrones, siempre sin equipo; comen en las celdas. Las puertas se abren desde la consola. Cada celda suprime toda magia salvo la de artefactos o deidades.",
+      "musica": "noche",
+      "motivos": [
+        "tension",
+        "misterio"
+      ],
+      "efectos": [
+        "pasos",
+        "puerta"
+      ],
+      "ambiente": "dark",
+      "etiquetas": [
+        "panóptico",
+        "celdas",
+        "campo antimágico",
+        "oscuridad",
+        "prisioneros numerados"
+      ],
+      "figuras": [
+        "guardias-alianza",
+        "prisioneros-genericos",
+        "vaelish-gant",
+        "prisioneros-amotinados"
+      ]
     },
     {
-      "slug": "centro-vigilancia", "nombre": "Centro de vigilancia (R18)", "ciudad": "otro", "interior": true,
+      "slug": "centro-vigilancia",
+      "nombre": "Centro de vigilancia",
+      "ciudad": "otro",
+      "interior": true,
       "imagen_en": "Wide view of a hexagonal stone control room at the base of a prison tower. A spiral staircase rises beside narrow arrow slits. A large magical console bolted to the floor carries twenty-four switches, a master switch, a brass light dial and a bronze speaking projection. Fifty sets of shackles hang nearby. No people or creatures. Leave the lower third open.",
-      "lectura": "La sala hexagonal ocupa la base de la torre central. Siete guardias observan las celdas por estrechas ranuras mientras una escalera de caracol asciende hacia las plantas superiores. En el centro, una consola mágica atornillada al suelo reúne interruptores, un dial de latón y una protuberancia de bronce. Desde aquí se abren las celdas, se regula la luz del panóptico y se transmite la voz a toda la prisión. Cincuenta juegos de esposas cuelgan al alcance de la mano.",
-      "notas": "La consola tiene veinticuatro interruptores de celda, uno maestro, dial de luz y altavoz; cada función requiere una acción y ajustar la luz puede ser más rápido. Dañarla hasta inutilizarla desactiva sus propiedades: la ficha la describe como objeto grande, CA 15, 18 puntos de resistencia e inmune a veneno y daño psíquico. Durante la alerta, Marta y los refuerzos convergen aquí.",
-      "musica": "noche", "motivos": ["tension"], "efectos": ["pasos", "puerta"], "ambiente": "dim", "etiquetas": ["consola mágica", "centro de mando", "esposas"], "figuras": ["guardias-alianza", "marta-marthannis"]
+      "lectura": "Entráis en una sala hexagonal al pie de la torre central. Siete guardias observan las celdas por estrechas ranuras, junto a una escalera de caracol que asciende hacia las plantas superiores. Ante vosotros, una consola atornillada al suelo reúne filas de interruptores, un dial de latón y una protuberancia de bronce. Cincuenta juegos de esposas cuelgan cerca. Oís los clics de los mandos y el eco de las voces entre las paredes de piedra.",
+      "notas": "La consola tiene veinticuatro interruptores de celda, uno maestro, un dial de luz y un altavoz. Sus mandos se manipulan al alcance de la mano. Tiene el límite destrozada 4: al alcanzarlo, todas sus funciones se desactivan. Los venenos y los ataques contra la mente no la afectan. Durante la alerta, Marta y los refuerzos convergen aquí.",
+      "musica": "noche",
+      "motivos": [
+        "tension"
+      ],
+      "efectos": [
+        "pasos",
+        "puerta"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "consola mágica",
+        "centro de mando",
+        "esposas"
+      ],
+      "figuras": [
+        "guardias-alianza",
+        "marta-marthannis"
+      ]
     },
     {
-      "slug": "barracones-guardias", "nombre": "Barracones de guardias (R19)", "ciudad": "otro", "interior": true,
+      "slug": "barracones-guardias",
+      "nombre": "Barracones de guardias",
+      "ciudad": "otro",
+      "interior": true,
       "imagen_en": "Wide interior of a crowded yet orderly stone barracks in an Arctic prison. Wooden bunk beds fill the room, with unlocked storage cabinets beneath them and armour and weapons placed within easy reach. Narrow arrow slits overlook three directions. Adjustable magical illumination falls on wool blankets, dark timber and metal fittings. No people or creatures. Keep clear space in the lower third.",
-      "lectura": "Las literas de madera llenan los barracones, con armarios sin llave encajados debajo y el equipo dispuesto cerca de cada cama. Cuando no hay alerta, cincuenta guardias descansan aquí sin armas ni armadura. Sus ronquidos se mezclan con el leve tintineo del metal al alcance de la mano. Las saeteras permiten observar el norte, el oeste y el sur. La luz mágica puede atenuarse con una palabra, dejando las filas de camas en una penumbra de descanso vigilado.",
-      "notas": "Dos tercios de los setenta y cinco guardias descansan aquí; veinticinco están de servicio. Necesitan diez minutos para ponerse la armadura antes de dirigirse a R18 durante una alerta. La palabra «luces» regula la iluminación.",
-      "musica": "noche", "motivos": ["sigilo"], "efectos": ["pasos"], "ambiente": "dim", "etiquetas": ["barracones", "guardias durmiendo", "armadura al alcance"], "figuras": ["guardias-alianza"]
+      "lectura": "Os adentráis entre filas de literas de madera. Bajo ellas veis armarios sencillos; junto a las camas, armas y armaduras quedan al alcance de quienes descansan. Los ronquidos se mezclan con algún roce de mantas y el leve tintineo del metal. Por las saeteras distinguís la claridad fría del exterior. La luz de la estancia cae sobre la madera gastada y deja sombras entre los lechos, donde vuestros pasos resultan especialmente nítidos.",
+      "notas": "Dos tercios de los setenta y cinco guardias descansan aquí; veinticinco están de servicio. Necesitan diez minutos para ponerse la armadura antes de dirigirse a el centro de vigilancia durante una alerta. La palabra «luces» regula la iluminación. Fuera de una alerta descansan aquí cincuenta guardias sin armas ni armadura.",
+      "musica": "noche",
+      "motivos": [
+        "sigilo"
+      ],
+      "efectos": [
+        "pasos"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "barracones",
+        "guardias durmiendo",
+        "armadura al alcance"
+      ],
+      "figuras": [
+        "guardias-alianza"
+      ]
     },
     {
-      "slug": "salon-absolucion", "nombre": "Salón de la Absolución (R29)", "ciudad": "otro", "interior": true,
+      "slug": "salon-absolucion",
+      "nombre": "Salón de la Absolución",
+      "ciudad": "otro",
+      "interior": true,
       "imagen_en": "Wide interior of an elevated council hall in a remote stone prison tower. A long gently curved table is surrounded by eleven chairs, each bearing the banner of a Lords' Alliance member. Alliance emblems decorate the walls and narrow windows admit cold polar light. Formal, austere atmosphere with grey stone and muted heraldic colours. No people or creatures. Leave the lower third uncluttered.",
-      "lectura": "El salón se encuentra unos treinta y siete metros por encima del techo de la prisión. Una mesa larga y ligeramente curvada ocupa el centro, rodeada de once sillas con los estandartes de los miembros de la Alianza de los Señores. La luz entra por ventanas estrechas y el viento se deja oír al otro lado. Aquí el Consejo de Absolución sopesa las peticiones de libertad condicional. La silla central corresponde al alcaide, cuyo voto puede resolver un empate.",
+      "lectura": "Al entrar en el salón, veis una mesa larga y ligeramente curvada rodeada de once sillas. Cada una lleva el estandarte de un miembro de la Alianza de los Señores. Reconocéis sus emblemas también en las paredes. La luz fría penetra por ventanas estrechas; detrás del cristal, el viento mantiene un rumor constante. Vuestros pasos resuenan mientras os acercáis a la mesa, bajo las telas inmóviles que presiden la sala.",
       "notas": "Uno o más consejeros deben recomendar una conmutación y cada recluso solo puede ser considerado una vez al año. Los candidatos comparecen esposados y pueden influir en los miembros antes de votar. Voss sopesa las consecuencias, Jil suele votar a favor y Kriv siempre en contra; en alerta máxima el consejo se refugia aquí.",
-      "musica": "pueblo", "motivos": ["tension"], "efectos": ["viento", "pasos"], "ambiente": "light", "etiquetas": ["salón de la absolución", "consejo", "voto de desempate"], "figuras": ["marta-marthannis", "voss-anderton", "jil-torbo", "kriv-norixius"]
+      "musica": "pueblo",
+      "motivos": [
+        "tension"
+      ],
+      "efectos": [
+        "viento",
+        "pasos"
+      ],
+      "ambiente": "light",
+      "etiquetas": [
+        "salón de la absolución",
+        "consejo",
+        "voto de desempate"
+      ],
+      "figuras": [
+        "marta-marthannis",
+        "voss-anderton",
+        "jil-torbo",
+        "kriv-norixius"
+      ]
     },
     {
-      "slug": "aposentos-alcaide", "nombre": "Aposentos del alcaide (R21)", "ciudad": "otro", "interior": true,
+      "slug": "aposentos-alcaide",
+      "nombre": "Aposentos del alcaide",
+      "ciudad": "otro",
+      "interior": true,
       "imagen_en": "Wide interior of a comfortable warden's bedroom inside an Arctic stone fortress. A locked wooden chest stands near practical wardrobes and a writing desk. Soft adjustable magical light warms the room, contrasting with the prison's austerity. Closed storage conceals all valuables, and no hidden compartment is visible. Muted red textiles, gold accents and dark timber. No people or creatures. Keep the lower third open.",
       "lectura": "Los aposentos del alcaide ofrecen una comodidad poco habitual entre estos muros. La luz mágica ilumina el dormitorio, sus armarios y un escritorio, y puede regularse con una palabra. Un cofre de madera permanece cerrado con llave. El silencio de la estancia contrasta con el paso de guardias y el cierre de puertas que habéis oído en otras salas. Aquí, tras los mismos muros que contienen a los reclusos, hay espacio para una intimidad cuidadosamente guardada.",
-      "notas": "«Vaudra» regula la luz; el anillo de Marta lleva siete llaves para cofre, armarios y cajón del despacho. El cofre, difícil de forzar, contiene suministros de calígrafo, un saco de monedas y un alfiler de los Arpistas; una tapa secreta oculta la varita de atadura. Vlax posee a Marta una o dos veces diarias durante una o dos horas: solo habla enano y no usa sus conjuros preparados. Marta rechaza viajar a las criptas de Brawnanvil en Gauntlgrym porque no quiere perderlo; guardias y consejo conocen la posesión.",
-      "musica": "noche", "motivos": ["misterio"], "efectos": ["hogar"], "ambiente": "light", "etiquetas": ["aposentos del alcaide", "cofre cerrado", "secreto arpista", "espíritu enano"], "figuras": ["marta-marthannis", "vlax-brawnanvil"]
+      "notas": "«Vaudra» regula la luz; el anillo de Marta lleva siete llaves para cofre, armarios y cajón del despacho. El cofre, difícil de forzar, contiene suministros de calígrafo, un saco de monedas y un alfiler de los Arpistas; una tapa secreta oculta la varita de atadura. Vlax posee a Marta una o dos veces diarias durante una o dos horas: solo habla enano y no usa sus magia habitual. Marta rechaza viajar a las criptas de Brawnanvil en Gauntlgrym porque no quiere perderlo; guardias y consejo conocen la posesión. Forzar el cofre con herramientas exige alcanzar [cerradura vencida-4] mediante varias acciones o recurrir a Poderío de Aventura o Grandeza.",
+      "musica": "noche",
+      "motivos": [
+        "misterio"
+      ],
+      "efectos": [
+        "hogar"
+      ],
+      "ambiente": "light",
+      "etiquetas": [
+        "aposentos del alcaide",
+        "cofre cerrado",
+        "secreto arpista",
+        "espíritu enano"
+      ],
+      "figuras": [
+        "marta-marthannis",
+        "vlax-brawnanvil"
+      ]
     },
     {
-      "slug": "despacho-alcaide", "nombre": "Despacho del alcaide (R22)", "ciudad": "otro", "interior": true,
+      "slug": "despacho-alcaide",
+      "nombre": "Despacho del alcaide",
+      "ciudad": "otro",
+      "interior": true,
       "imagen_en": "Wide interior of a prison warden's stone office. Five locked wooden filing cabinets line the eastern wall, facing a central desk with a closed side drawer holding accounting books. Ordered paper bundles suggest cargo manifests, transfer orders and prisoner records without readable writing. Quiet steady magical light, brown wood and grey masonry. No people or creatures. Leave the lower third clear.",
-      "lectura": "Cinco armarios de madera cerrados con llave ocupan la pared oriental. En el centro, un escritorio guarda diez libros de contabilidad en un cajón lateral. Estos muebles contienen la memoria de la prisión: manifiestos de carga, órdenes de traslado, nombres, crímenes, sentencias y conmutaciones. También se conservan certificados de defunción, reducidos a causas naturales, accidentales o no naturales, sin más detalles. Entre el papel y la madera cerrada, cada expediente resume una vida sometida al registro.",
-      "notas": "Marta posee las llaves de los armarios y del cajón. Sus cerraduras son más fáciles de forzar que la del cofre de R21. Los registros permiten investigar a Gant y a otros reclusos pasados o presentes, sin añadir datos que la ficha no proporciona.",
-      "musica": "noche", "motivos": ["misterio", "sigilo"], "efectos": ["puerta", "pasos"], "ambiente": "light", "etiquetas": ["archivo", "registros", "certificados de defunción"], "figuras": ["marta-marthannis"]
+      "lectura": "Entráis en un despacho dominado por cinco armarios de madera, todos cerrados con llave, junto a la pared oriental. Un escritorio ocupa el centro y os deja un paso estrecho entre los muebles. Veis un cajón lateral cerrado. La luz quieta destaca las vetas de la madera y los bordes de las cerraduras. Aquí apenas llegan las voces de la prisión: oís sobre todo vuestros pasos y el crujido del mobiliario al acercaros.",
+      "notas": "Marta posee las llaves de los armarios y del cajón. Sus cerraduras son más fáciles de forzar que la del cofre de los aposentos del alcaide. Los registros permiten investigar a Gant y a otros reclusos pasados o presentes, según lo que conste en sus expedientes. Con herramientas y tiempo, las cerraduras se abren sin tirada; con prisa o peligro, un fallo hace perder tiempo y puede alertar a los guardias.",
+      "musica": "noche",
+      "motivos": [
+        "misterio",
+        "sigilo"
+      ],
+      "efectos": [
+        "puerta",
+        "pasos"
+      ],
+      "ambiente": "light",
+      "etiquetas": [
+        "archivo",
+        "registros",
+        "certificados de defunción"
+      ],
+      "figuras": [
+        "marta-marthannis"
+      ]
     },
     {
-      "slug": "tejado-torre", "nombre": "Tejado de la torre (R23)", "ciudad": "otro", "interior": false,
+      "slug": "tejado-torre",
+      "nombre": "Tejado de la torre",
+      "ciudad": "otro",
+      "interior": false,
       "imagen_en": "Wide view of an empty flat rooftop atop a prison tower, high above an Arctic sea. Three six-foot protective walls stand to the north, southwest and southeast. A wooden drawbridge forms a potential airship mooring platform. Windblown frost coats stone and timber beneath a bleak polar sky. Distant water lies far below. No people, creatures or aircraft. Keep the lower third open.",
-      "lectura": "El viento golpea sin tregua la azotea plana de la torre. Estáis unos cuarenta y tres metros por encima del techo de la prisión y unos noventa sobre el mar. Tres paredes de casi dos metros ofrecen una protección parcial al norte, al suroeste y al sureste. Un puente levadizo de madera puede bajarse para formar un punto de amarre para dirigibles. No hay guardias aquí; el mar y los tejados quedan muy abajo.",
-      "notas": "Subir o bajar el puente requiere una acción. Si los vigías detectan una aeronave o amenaza aérea, avisan a la guarnición y Marta sale con ropa de clima frío para recibirla o afrontarla. La exposición puede activar el desafío de la ventisca.",
-      "musica": "valle", "motivos": ["ventisca-m"], "efectos": ["viento", "lago-sfx"], "ambiente": "dim", "etiquetas": ["tejado", "muelle de dirigibles", "exposición"], "figuras": ["marta-marthannis", "ventisca-cortavientos"]
+      "lectura": "El viento golpea sin tregua la azotea plana de la torre. Estáis unos cuarenta metros por encima del techo de la prisión y unos noventa sobre el mar. Tres paredes de casi dos metros ofrecen una protección parcial al norte, al suroeste y al sureste. Un puente levadizo de madera puede bajarse para formar un punto de amarre para dirigibles. No hay guardias aquí; el mar y los tejados quedan muy abajo.",
+      "notas": "Subir o bajar el puente exige manejar su mecanismo. Si los vigías detectan una aeronave o amenaza aérea, avisan a la guarnición y Marta sale con ropa de clima frío para recibirla o afrontarla. La exposición puede activar el desafío de la ventisca.",
+      "musica": "valle",
+      "motivos": [
+        "ventisca-m"
+      ],
+      "efectos": [
+        "viento",
+        "lago-sfx"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "tejado",
+        "muelle de dirigibles",
+        "exposición"
+      ],
+      "figuras": [
+        "marta-marthannis",
+        "ventisca-cortavientos"
+      ]
     },
     {
-      "slug": "alerta-maxima", "nombre": "Alerta máxima", "ciudad": "otro", "interior": true,
+      "slug": "alerta-maxima",
+      "nombre": "Alerta máxima",
+      "ciudad": "otro",
+      "interior": true,
       "imagen_en": "Wide view along the central corridors of an Arctic stone prison during an emergency. Continuous magical flames cast a vivid red glow across reinforced doors, barred openings and the approach to a central control tower. Ordered architecture becomes ominous under crimson reflections and deep shadows. No people or creatures, no visible action figures. Keep the lower third open and emphasize urgent lighting.",
       "lectura": "La palabra «maristo» rompe el aire y un cuerno retumba por toda la prisión. Su llamada se prolonga durante un minuto, mientras las llamas que iluminan los pasillos adquieren un tono rojizo. Oís pasos apresurados, equipo que se recoge y armaduras que chocan al ajustarse. Las órdenes comienzan a circular entre puertas y escaleras. El edificio entero cambia de ritmo: los puestos se refuerzan y cada acceso parece formar parte de una misma respuesta.",
-      "notas": "Solo Marta activa la alerta; la justifican revueltas, fugas, barcos desconocidos, dragones o ataques. Los guardias de R19 se arman y marchan a R18, donde Marta dirige la guarnición; el consejo sube a R29. Marta y todos los guardias obtienen visión de lo invisible mientras dura la alerta.",
-      "musica": "noche", "motivos": ["amenaza", "persecucion"], "efectos": ["cuerno", "pasos", "puerta"], "ambiente": "dim", "etiquetas": ["alerta máxima", "luces rojas", "cuerno de alerta"], "figuras": ["marta-marthannis", "guardias-alianza", "voss-anderton", "jil-torbo", "kriv-norixius"]
+      "notas": "Solo Marta activa la alerta; la justifican revueltas, fugas, barcos desconocidos, dragones o ataques. Los guardias de los barracones se arman y marchan a el centro de vigilancia, donde Marta dirige la guarnición; el consejo sube a el salón de la Absolución. Marta y todos los guardias obtienen capacidad de percibir lo invisible mientras dura la alerta.",
+      "musica": "noche",
+      "motivos": [
+        "amenaza",
+        "persecucion"
+      ],
+      "efectos": [
+        "cuerno",
+        "pasos",
+        "puerta"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "alerta máxima",
+        "luces rojas",
+        "cuerno de alerta"
+      ],
+      "figuras": [
+        "marta-marthannis",
+        "guardias-alianza",
+        "voss-anderton",
+        "jil-torbo",
+        "kriv-norixius"
+      ]
     },
     {
-      "slug": "encuentro-prisionero-237", "nombre": "Encuentro con el Prisionero 237", "ciudad": "otro", "interior": true,
+      "slug": "encuentro-prisionero-237",
+      "nombre": "Encuentro con el Prisionero 237",
+      "ciudad": "otro",
+      "interior": true,
       "imagen_en": "Wide interior of a prison interview room prepared for a restrained inmate. One isolated chair faces three chairs across a long rectangular table, with iron restraints resting on the tabletop. Bare stone walls and a sealed ceiling hatch frame the setting. Cool steady light and subdued brown wood create a formal, tense atmosphere. No people or creatures. Leave the lower third open.",
       "lectura": "Ante vosotros está el Prisionero 237, Vaelish Gant. La túnica de recluso y las cadenas no han rebajado la seguridad con la que os observa. Habla con voz engolada, como si siguiera siendo el hombre de mayor autoridad de la sala. Pronto conduce la conversación hacia su libertad: promete riquezas y objetos mágicos si conseguís llevarlo a salvo a la Torre de Huéspedes del Arcano, en Luskan. Parece convencido de que acabaréis reconociendo la sensatez de su propuesta.",
-      "notas": "Puede entrevistarse en R12 con Marta presente, o localizarse en su celda de R17; la imagen corresponde a R12. Entrega la pista de la ciudad netheriliana bajo el glaciar Reghed si ve la carta de Duvessa Shane o si lo liberan; preguntar por la Hermandad despierta sus sospechas. Está sin libro ni componentes y no puede usar magia en su celda. Su recompensa es una promesa; una fuga provoca alerta, persecución y enemistad de la Alianza.",
-      "musica": "noche", "motivos": ["misterio", "tension"], "efectos": ["pasos", "puerta"], "ambiente": "dim", "etiquetas": ["prisionero 237", "mago abjurador", "encadenado", "informante"], "figuras": ["vaelish-gant", "marta-marthannis", "guardias-alianza"]
+      "notas": "Puede entrevistarse en la sala de reuniones con Marta presente, o localizarse en su celda de las celdas; la imagen corresponde a la sala de reuniones. Entrega la pista de la ciudad netheriliana bajo el glaciar Reghed si ve la carta de Duvessa Shane o si lo liberan; preguntar por la Hermandad despierta sus sospechas. Está sin libro ni componentes y no puede usar magia en su celda. Su recompensa es una promesa; una fuga provoca alerta, persecución y enemistad de la Alianza.",
+      "musica": "noche",
+      "motivos": [
+        "misterio",
+        "tension"
+      ],
+      "efectos": [
+        "pasos",
+        "puerta"
+      ],
+      "ambiente": "dim",
+      "etiquetas": [
+        "prisionero 237",
+        "mago abjurador",
+        "encadenado",
+        "informante"
+      ],
+      "figuras": [
+        "vaelish-gant",
+        "marta-marthannis",
+        "guardias-alianza"
+      ]
     }
   ],
   "pnj": [
     {
-      "slug": "vaelish-gant", "nombre": "Vaelish Gant (Prisionero 237)", "papel": "Prisionero e informante potencial de la Hermandad Arcana.", "ciudad": "otro",
+      "slug": "vaelish-gant",
+      "nombre": "Vaelish Gant (Prisionero 237)",
+      "papel": "Prisionero e informante potencial de la Hermandad Arcana.",
+      "ciudad": "otro",
       "aspecto_en": "Full-body portrait of an adult human male wizard imprisoned in an Arctic fortress. Lean build, sharp attentive features and an imperious expression despite plain institutional clothing. He wears a hoodless, pocketless prison robe, simple cloth underlayers and laceless leather slippers. Iron shackles bind his wrists and ankles. No spellbook or component pouch. His raised chin conveys calculating pride.",
       "presentacion": "Veis a un hombre cuya postura intenta desmentir el peso de las cadenas. La bata de prisionero carece de capucha y bolsillos; sus zapatillas de cuero rozan la piedra al moverse. Cuando levanta la barbilla para hablaros, la voz engolada llena el silencio. Os estudia con una seguridad intacta, dispuesto a convertir vuestras preguntas en una negociación por su libertad.",
-      "caracter": "Pomposo, legal malvado y confabulador; habla con afectación y nunca duda de ser el más inteligente de la sala.", "quiere": "Recuperar la libertad y llegar a Luskan; promete recompensas en la Torre de Huéspedes del Arcano.", "sabe": "Oyó a sus superiores planear una expedición para encontrar una ciudad netheriliana bajo el glaciar Reghed. Creó una red de protección en Bryn Shander e intentó desestabilizar Diez Ciudades sin autorización de la Hermandad. El Consejo de Oradores lo condenó a perpetuidad para evitar la ira de la organización; Gant cree que esta lo ha abandonado. Comparte la pista de la expedición ante la carta de Duvessa o a cambio de ser liberado.", "desafio": "gant-abjurador"
+      "caracter": "Pomposo, legal malvado y confabulador; habla con afectación y nunca duda de ser el más inteligente de la sala.",
+      "quiere": "Recuperar la libertad y llegar a Luskan; promete recompensas en la Torre de Huéspedes del Arcano.",
+      "sabe": "Oyó a sus superiores planear una expedición para encontrar una ciudad netheriliana bajo el glaciar Reghed. Creó una red de protección en Bryn Shander e intentó desestabilizar Diez Ciudades sin autorización de la Hermandad. El Consejo de Oradores lo condenó a perpetuidad para evitar la ira de la organización; Gant cree que esta lo ha abandonado. Comparte la pista de la expedición ante la carta de Duvessa o a cambio de ser liberado.",
+      "desafio": "gant-abjurador"
     },
     {
-      "slug": "marta-marthannis", "nombre": "Marta Marthannis", "papel": "Alcaide, maga y miembro secreto de los Arpistas.", "ciudad": "otro",
+      "slug": "marta-marthannis",
+      "nombre": "Marta Marthannis",
+      "papel": "Alcaide, maga y miembro secreto de los Arpistas.",
+      "ciudad": "otro",
       "aspecto_en": "Full-body portrait of an adult human woman serving as warden of an Arctic prison. Upright composed stance, measured gaze and calm facial features. She wears a red robe with gold trim over practical warm layers, sturdy boots and a ring carrying seven tiny keys. Her hands rest quietly, suggesting disciplined magical authority rather than theatrical display. Muted stone background.",
       "presentacion": "Os recibe una mujer de túnica roja ribeteada en oro. Su expresión permanece tranquila mientras escucha el motivo de vuestra visita, y el pequeño roce de siete llaves diminutas acompaña el movimiento de su mano. La voz es firme y mesurada. Ante vosotros parece tan acostumbrada a las exigencias de la prisión como a mantener la calma frente a quienes llegan de fuera.",
-      "caracter": "Legal buena, tranquila e imperturbable; habla común, dracónico, enano y orco. Bajo el control de Vlax se vuelve malhumorada, habla solo enano y bebe.", "quiere": "Mantener encerrados a los peores criminales y conservar el contacto con Vlax, por lo que se niega a viajar a Gauntlgrym.", "sabe": "Conoce los registros, la seguridad y la palabra de alerta «maristo». Oculta su pertenencia a los Arpistas, pero ha comunicado su posesión a guardias y consejo. Las criptas de Brawnanvil, bajo el Monte Caldhora en Gauntlgrym, permitirían despedir al espíritu.", "desafio": "marta-alcaide"
+      "caracter": "Legal buena, tranquila e imperturbable; habla común, dracónico, enano y orco. Bajo el control de Vlax se vuelve malhumorada, habla solo enano y bebe.",
+      "quiere": "Mantener encerrados a los peores criminales y conservar el contacto con Vlax, por lo que se niega a viajar a Gauntlgrym.",
+      "sabe": "Conoce los registros, la seguridad y la palabra de alerta «maristo». Oculta su pertenencia a los Arpistas, pero ha comunicado su posesión a guardias y consejo. Las criptas de Brawnanvil, bajo el Monte Caldhora en Gauntlgrym, permitirían despedir al espíritu.",
+      "desafio": "marta-alcaide"
     },
     {
-      "slug": "vlax-brawnanvil", "nombre": "Vlax Brawnanvil", "papel": "Espíritu de enano escudo que posee a Marta.", "ciudad": "otro",
+      "slug": "vlax-brawnanvil",
+      "nombre": "Vlax Brawnanvil",
+      "papel": "Espíritu de enano escudo que posee a Marta.",
+      "ciudad": "otro",
       "aspecto_en": "Full-body depiction of an adult human female prison warden during possession by a shield dwarf spirit. She wears the same red robe with gold trim, warm underlayers, boots and seven-key ring. Her shoulders are tense, brow furrowed and expression irritable, with a plain drinking cup in hand. Depict only the living host; the dwarf has no separate visible body.",
       "presentacion": "Reconocéis la túnica roja y el anillo de llaves de Marta, pero su gesto ha cambiado. La serenidad deja paso a un ceño malhumorado y una voz que solo emplea el enano. Os encontráis ante el mismo cuerpo y una presencia distinta. Su atención al alcohol y sus maneras temperamentales revelan la intervención de Vlax, el espíritu con el que comparte su intimidad.",
-      "caracter": "Legal bueno, malhumorado y temperamental, aficionado a cerveza y licores; durante la posesión solo habla enano.", "quiere": "Reunirse con sus parientes en el más allá, en Gauntlgrym.", "sabe": "Accede a lo que Marta sabe mientras la posee. Toma el control una o dos veces al día durante una o dos horas, sin poder usar los conjuros preparados de ella.", "desafio": null
+      "caracter": "Legal bueno, malhumorado y temperamental, aficionado a cerveza y licores; durante la posesión solo habla enano.",
+      "quiere": "Reunirse con sus parientes en el más allá, en Gauntlgrym.",
+      "sabe": "Accede a lo que Marta sabe mientras la posee. Toma el control una o dos veces al día durante una o dos horas, sin poder usar los magia habitual de ella.",
+      "desafio": null
     },
     {
-      "slug": "voss-anderton", "nombre": "Voss Anderton", "papel": "Representante de Neverwinter en el Consejo de Absolución.", "ciudad": "otro",
+      "slug": "voss-anderton",
+      "nombre": "Voss Anderton",
+      "papel": "Representante de Neverwinter en el Consejo de Absolución.",
+      "ciudad": "otro",
       "aspecto_en": "Full-body portrait of an adult human male councillor representing Neverwinter in a remote Arctic prison. Average build, sober face and a carefully attentive gaze. Formal layered clothing suitable for heated stone chambers, a heavy winter cloak and plain boots convey restrained official dignity. He holds a simple prisoner file and stands with precise, economical posture. No weapons or ornate regalia.",
       "presentacion": "Voss os dedica una mirada seria antes de escuchar. Sus movimientos son contenidos y su voz da a cada palabra un peso preciso, como si revisara una cláusula. El frío del exterior queda en la ropa de abrigo; aquí su atención pertenece al procedimiento. Ante vuestras razones, parece dispuesto a medir consecuencias y sentencias con la misma paciencia, sin apresurarse a mostrar aprobación.",
-      "caracter": "Legal neutral, serio y preciso; vota con la cabeza y emplea un lenguaje jurídico.", "quiere": "Sopesar cuidadosamente las ramificaciones de cada conmutación.", "sabe": "Conoce los procedimientos de libertad condicional y la consideración anual de cada recluso.", "desafio": null
+      "caracter": "Legal neutral, serio y preciso; vota con la cabeza y emplea un lenguaje jurídico.",
+      "quiere": "Sopesar cuidadosamente las ramificaciones de cada conmutación.",
+      "sabe": "Conoce los procedimientos de libertad condicional y la consideración anual de cada recluso.",
+      "desafio": null
     },
     {
-      "slug": "jil-torbo", "nombre": "Jil Torbo", "papel": "Representante de Puerta de Baldur en el Consejo de Absolución.", "ciudad": "otro",
+      "slug": "jil-torbo",
+      "nombre": "Jil Torbo",
+      "papel": "Representante de Puerta de Baldur en el Consejo de Absolución.",
+      "ciudad": "otro",
       "aspecto_en": "Full-body portrait of an adult halfling woman serving as a prison councillor. Short stature, practical build, tired eyes and a humourless expression caught before a deep sigh. She wears restrained formal clothes beneath a thick winter cloak, with sturdy small boots and a plain file tucked under one arm. Her posture suggests impatience with repetitive official business. No weapons.",
       "presentacion": "La consejera mediana os escucha con el gesto de quien conoce demasiado bien esta rutina. No sonríe, y un suspiro profundo marca el instante en que su paciencia empieza a agotarse. Su ropa de abrigo parece más práctica que ceremonial. Sin embargo, al exponeros a su juicio, no encontráis una negativa inmediata: deja espacio para oír vuestra versión antes de decidir.",
-      "caracter": "Neutral, sin sentido del humor; detesta su trabajo y suspira cuando pierde la paciencia. Suele dar el beneficio de la duda y votar a favor de conmutaciones.", "quiere": "Cumplir con su deber sin demasiadas complicaciones.", "sabe": "Conoce los procedimientos de libertad condicional.", "desafio": null
+      "caracter": "Neutral, sin sentido del humor; detesta su trabajo y suspira cuando pierde la paciencia. Suele dar el beneficio de la duda y votar a favor de conmutaciones.",
+      "quiere": "Cumplir con su deber sin demasiadas complicaciones.",
+      "sabe": "Conoce los procedimientos de libertad condicional.",
+      "desafio": null
     },
     {
-      "slug": "kriv-norixius", "nombre": "Kriv Norixius", "papel": "Representante de Vado de la Daga en el Consejo de Absolución.", "ciudad": "otro",
+      "slug": "kriv-norixius",
+      "nombre": "Kriv Norixius",
+      "papel": "Representante de Vado de la Daga en el Consejo de Absolución.",
+      "ciudad": "otro",
       "aspecto_en": "Full-body portrait of an adult silver-blooded dragonborn male councillor. Tall solid build, silver-toned scales, draconic muzzle and an uncompromising expression. Formal layered garments, a thick winter cloak and sturdy boots suit service in a remote Arctic prison. He holds official papers close to his body and stands rigidly upright, projecting diligence and severe judgement. No weapons or invented insignia.",
       "presentacion": "Las escamas plateadas del dracónido recogen la luz fría de la sala. Kriv se mantiene erguido y os escucha con una severidad que apenas cambia al oír circunstancias atenuantes. Su voz transmite la intención de cumplir impecablemente su cometido. Frente a él, cada argumento parece tener que atravesar una convicción ya asentada: los criminales deben permanecer entre los muros de esta prisión.",
-      "caracter": "Legal bueno, diligente y sin compasión por los criminales; vota siempre contra las conmutaciones.", "quiere": "Impresionar a la duquesa de Vado de la Daga mediante un trabajo impecable.", "sabe": "Conoce los procedimientos de libertad condicional.", "desafio": null
+      "caracter": "Legal bueno, diligente y sin compasión por los criminales; vota siempre contra las conmutaciones.",
+      "quiere": "Impresionar a la duquesa de Vado de la Daga mediante un trabajo impecable.",
+      "sabe": "Conoce los procedimientos de libertad condicional.",
+      "desafio": null
     },
     {
-      "slug": "guardias-alianza", "nombre": "Guardias de la Alianza", "papel": "Guarnición de setenta y cinco veteranos.", "ciudad": "otro",
+      "slug": "guardias-alianza",
+      "nombre": "Guardias de la Alianza",
+      "papel": "Guarnición de setenta y cinco veteranos.",
+      "ciudad": "otro",
       "aspecto_en": "Full-body portrait of a representative adult human veteran guarding an Arctic prison. Sturdy experienced build, weathered features and alert eyes. Chain mail lies beneath a red tabard displaying a golden crown, with heavy cold-weather layers, gloves and boots. A halberd is held in a disciplined stance, and a heavy crossbow rests nearby. Practical equipment, restrained military bearing.",
       "presentacion": "Las túnicas rojas con coronas doradas os permiten reconocer a la guarnición de inmediato. Bajo ellas asoman malla y ropa preparada para el frío. Sus voces pueden quejarse del invierno interminable mientras juegan a las cartas o afilan armas, pero al acercaros recuperan la atención del puesto. Hablan de los presos por sus números, con la familiaridad de una rutina de custodia.",
-      "caracter": "Disciplinados y veteranos; se quejan del invierno, juegan a las cartas y afilan sus armas durante la rutina.", "quiere": "Mantener el orden y la seguridad de la prisión.", "sabe": "Reconocen los números de los reclusos y los protocolos de custodia. Saben que Vlax posee a Marta y se han acostumbrado a ello.", "desafio": "banda-guardias"
+      "caracter": "Disciplinados y veteranos; se quejan del invierno, juegan a las cartas y afilan sus armas durante la rutina.",
+      "quiere": "Mantener el orden y la seguridad de la prisión.",
+      "sabe": "Reconocen los números de los reclusos y los protocolos de custodia. Saben que Vlax posee a Marta y se han acostumbrado a ello.",
+      "desafio": "banda-guardias"
     },
     {
-      "slug": "espectador-armeria", "nombre": "Espectador de la armería", "papel": "Guardián que reconoce al personal y protege el inventario.", "ciudad": "otro",
+      "slug": "espectador-armeria",
+      "nombre": "Espectador de la armería",
+      "papel": "Guardián que reconoce al personal y protege el inventario.",
+      "ciudad": "otro",
       "aspecto_en": "Full-body creature portrait of a hovering spectator guarding a prison armoury. A rounded monstrous body bears a large central eye, a toothy mouth and smaller magical eyes on flexible stalks. Its vigilant gaze turns toward an unseen intruder while it floats above the stone floor. Racks of mundane steel weapons frame the background. Cold highlights, unsettling anatomy, no humanoid attendants.",
       "presentacion": "Entre los estantes de armas distinguís una criatura flotante. Sus ojos mágicos se orientan hacia vosotros y recorren el espacio sin la menor señal de sorpresa. No os dirige una palabra. Alrededor, las hojas y las astas permanecen ordenadas como un tesoro bajo custodia. La quietud de su cuerpo contrasta con aquella vigilancia insistente, que parece decidir si vuestra presencia tiene permiso.",
-      "caracter": "No habla; trata las armas como un tesoro y ataca a quien no reconoce.", "quiere": "Proteger el inventario de la armería sin abandonar la sala.", "sabe": "Reconoce a todo el personal de la prisión a la vista.", "desafio": "guardian-espectador"
+      "caracter": "No habla; trata las armas como un tesoro y ataca a quien no reconoce.",
+      "quiere": "Proteger el inventario de la armería sin abandonar la sala.",
+      "sabe": "Reconoce a todo el personal de la prisión a la vista.",
+      "desafio": "guardian-espectador"
     },
     {
-      "slug": "cocineros-prision", "nombre": "Cocineros de la prisión", "papel": "Seis trabajadores no combatientes que preparan las comidas por turnos.", "ciudad": "otro",
+      "slug": "cocineros-prision",
+      "nombre": "Cocineros de la prisión",
+      "papel": "Seis trabajadores no combatientes que preparan las comidas por turnos.",
+      "ciudad": "otro",
       "aspecto_en": "Full-body portrait of an adult prison cook of unspecified ancestry in a magically heated Arctic fortress kitchen. Practical average build, plain work clothes and a worn apron over layered garments, with sturdy shoes. A simple cooking utensil serves as the identifying object. Neutral focused expression, functional styling, iron stove and stone wall suggested behind the figure. No weapons or invented insignia.",
       "presentacion": "El delantal y las manos ocupadas con los utensilios os indican quién mantiene en marcha las comidas. Entre el calor de la estufa de hierro y el ruido de las ollas, el trabajo sigue su turno. Son seis quienes se reparten esta tarea. Al pasar por la cocina, percibís una parte de la prisión regida por horarios de servicio y provisiones.",
-      "caracter": "La ficha no concreta temperamento ni voz; su presencia se centra en el trabajo cotidiano.", "quiere": "Preparar las comidas de la prisión.", "sabe": "La ficha no les atribuye información específica.", "desafio": null
+      "caracter": "Prácticos y atareados; hablan con frases breves mientras cocinan.",
+      "quiere": "Preparar las comidas de la prisión.",
+      "sabe": "Conocen los turnos de cocina, las raciones y las provisiones de la despensa.",
+      "desafio": null
     },
     {
-      "slug": "prisioneros-genericos", "nombre": "Prisioneros de El Fin de la Fiesta", "papel": "Reclusos de perfiles variados identificados por números.", "ciudad": "otro",
+      "slug": "prisioneros-genericos",
+      "nombre": "Prisioneros de El Fin de la Fiesta",
+      "papel": "Reclusos de perfiles variados identificados por números.",
+      "ciudad": "otro",
       "aspecto_en": "Full-body portrait of an adult humanoid prisoner of unspecified ancestry in an Arctic fortress. Plain hoodless robe without pockets, simple cloth undergarments and laceless leather slippers. Iron shackles secure wrists and ankles for movement outside the cell. No armour, weapons, jewellery or personal equipment. Restrained posture and a guarded expression suggest confinement without implying any particular crime or personal history.",
       "presentacion": "Veis una bata sin capucha ni bolsillos y unas zapatillas de cuero sin cordones. Fuera de la celda, las esposas de muñecas y tobillos obligan a medir cada paso. El roce de hierro acompaña el movimiento bajo la mirada de los guardias. Aquí apenas circulan nombres: un número basta para llamar a cada recluso, y el aislamiento limita lo que unos conocen de otros.",
-      "caracter": "Variable según el perfil elegido; la ficha no fija una voz común.", "quiere": "Sobrevivir al encierro o escapar.", "sabe": "Saben poco entre sí debido al protocolo de números. Pueden ser nobles, espías, asesinos, aventureros, lanzadores de conjuros o líderes de ladrones.", "desafio": "prisioneros-amotinados"
+      "caracter": "Reservados y cautelosos al hablar; adapta su tono al perfil elegido.",
+      "quiere": "Sobrevivir al encierro o escapar.",
+      "sabe": "Saben poco entre sí debido al protocolo de números. Pueden ser nobles, espías, asesinos, buscadores de fortuna, practicantes de magia o líderes de ladrones.",
+      "desafio": "prisioneros-amotinados"
     }
   ],
   "desafios": [
     {
-      "slug": "banda-guardias", "nombre": "Guardias de la Alianza (banda)", "nivel": 2,
-      "poderio": [], "roles": ["Adversario", "Apoyo"],
+      "slug": "banda-guardias",
+      "nombre": "Guardias de la Alianza (banda)",
+      "nivel": 2,
+      "poderio": [],
+      "roles": [
+        "Adversario",
+        "Apoyo"
+      ],
       "aspecto_en": "Full-body group depiction of veteran guards in an Arctic prison. Red tabards with golden crowns cover chain mail and thick winter clothing. Halberds and heavy crossbows define their equipment; disciplined spacing and alert expressions convey coordinated resistance. Weathered faces, practical boots and gloves, grey stone backdrop. Include a contrast of ready equipment and folded off-duty armour without adding distinctive named individuals.",
-      "descripcion": "La guarnición cuenta con setenta y cinco veteranos, de los que cincuenta descansan en R19 y veinticinco están de servicio. Actúan como bandas coordinadas y pueden pedir refuerzos disponibles.",
-      "limites": [{"nombre": "herido", "valor": 5, "consecuencia": "La banda queda fuera de combate."}, {"nombre": "desmoralizado", "valor": 4, "consecuencia": "La banda pierde la voluntad de mantener la oposición."}],
-      "etiquetas": ["armadura de malla", "alabarda", "ballesta pesada", "disciplinados", "veteranos"],
-      "rasgos": [{"nombre": "Turno de descanso", "descripcion": "En los barracones están sin armadura y necesitan diez minutos para equiparse."}, {"nombre": "Alerta máxima", "descripcion": "Durante la alerta obtienen visión de lo invisible y se concentran en R18 bajo el mando de Marta."}],
-      "amenazas": [{"nombre": "Línea de escudos", "descripcion": "Cierran filas y atacan a un Héroe.", "consecuencias": ["Inflige [herido-2]."]}, {"nombre": "Disparo de ballestas", "descripcion": "Cubren a distancia los accesos.", "consecuencias": ["Inflige [herido-3]."]}, {"nombre": "Cuerno de alerta", "descripcion": "Avisan al resto de la prisión; Marta puede activar el protocolo mágico.", "consecuencias": ["Crea la etiqueta de historia [alerta máxima]."]}, {"nombre": "Refuerzos", "descripcion": "Llaman a compañeros disponibles.", "consecuencias": ["Añade otra banda de guardias si quedan efectivos disponibles."]}],
-      "secretos": [{"nombre": "Dependencia del mando", "descripcion": "Dependen del alcaide y de la consola; confían en los campos antimágicos para contener a los presos."}, {"nombre": "Sorpresa en los barracones", "descripcion": "Sin armadura y descansando son vulnerables a la sorpresa."}]
+      "descripcion": "La guarnición cuenta con setenta y cinco veteranos, de los que cincuenta descansan en los barracones y veinticinco están de servicio. Actúan como bandas coordinadas y pueden pedir refuerzos disponibles.",
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 5,
+          "consecuencia": "La banda queda fuera de combate."
+        },
+        {
+          "nombre": "desmoralizado",
+          "valor": 4,
+          "consecuencia": "La banda pierde la voluntad de mantener la oposición."
+        }
+      ],
+      "etiquetas": [
+        "armadura de malla",
+        "alabarda",
+        "ballesta pesada",
+        "disciplinados",
+        "veteranos"
+      ],
+      "rasgos": [
+        {
+          "nombre": "Turno de descanso",
+          "descripcion": "En los barracones están sin armadura y necesitan diez minutos para equiparse."
+        },
+        {
+          "nombre": "Alerta máxima",
+          "descripcion": "Durante la alerta obtienen capacidad de percibir lo invisible y se concentran en el centro de vigilancia bajo el mando de Marta."
+        }
+      ],
+      "amenazas": [
+        {
+          "nombre": "Línea de escudos",
+          "descripcion": "Cierran filas y atacan a un Héroe.",
+          "consecuencias": [
+            "Inflige [herido-2]."
+          ]
+        },
+        {
+          "nombre": "Disparo de ballestas",
+          "descripcion": "Cubren a distancia los accesos.",
+          "consecuencias": [
+            "Inflige [herido-3]."
+          ]
+        },
+        {
+          "nombre": "Cuerno de alerta",
+          "descripcion": "Avisan al resto de la prisión; Marta puede activar el protocolo mágico.",
+          "consecuencias": [
+            "Crea la etiqueta de historia [alerta máxima]."
+          ]
+        },
+        {
+          "nombre": "Refuerzos",
+          "descripcion": "Llaman a compañeros disponibles.",
+          "consecuencias": [
+            "Añade otra banda de guardias si quedan efectivos disponibles."
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Dependencia del mando",
+          "descripcion": "Dependen del alcaide y de la consola; confían en los campos antimágicos para contener a los presos."
+        },
+        {
+          "nombre": "Sorpresa en los barracones",
+          "descripcion": "Sin armadura y descansando son vulnerables a la sorpresa."
+        }
+      ]
     },
     {
-      "slug": "guardian-espectador", "nombre": "Espectador de la armería", "nivel": 2,
-      "poderio": [], "roles": ["Adversario", "Controlador"],
+      "slug": "guardian-espectador",
+      "nombre": "Espectador de la armería",
+      "nivel": 2,
+      "poderio": [],
+      "roles": [
+        "Adversario",
+        "Controlador"
+      ],
       "aspecto_en": "Full-body portrait of a spectator floating inside a stone armoury. Its round monstrous body displays a prominent central eye, a broad biting mouth and small magical eyes on flexible stalks. Each eye watches a different approach between weapon racks. Cold reflected steel light outlines the creature's suspended form. Protective, possessive posture suggests a guardian treating mundane weapons as treasure.",
       "descripcion": "El espectador custodia la armería sin salir de ella. Reconoce al personal a la vista y ataca a cualquiera que no identifique.",
-      "limites": [{"nombre": "herido", "valor": 4, "consecuencia": "El guardián queda fuera de combate."}, {"nombre": "cegado", "valor": 3, "consecuencia": "Queda neutralizada su vigilancia visual."}],
-      "etiquetas": ["flotante", "ojos mágicos", "guardián", "inmune a sorpresa"],
-      "rasgos": [{"nombre": "Custodia inmóvil", "descripcion": "No abandona la armería y trata las armas como tesoro."}],
-      "amenazas": [{"nombre": "Rayo paralizante", "descripcion": "Uno de sus ojos inmoviliza al intruso.", "consecuencias": ["Inflige [paralizado-2]."]}, {"nombre": "Rayo de miedo", "descripcion": "Su mirada siembra terror.", "consecuencias": ["Inflige [asustado-3]."]}, {"nombre": "Rayo de daño", "descripcion": "Descarga energía contra un objetivo.", "consecuencias": ["Inflige [herido-3]."]}, {"nombre": "Mordisco", "descripcion": "Muerde a quien se acerca.", "consecuencias": ["Inflige [herido-2]."]}],
-      "secretos": [{"nombre": "Reconocimiento del personal", "descripcion": "Distingue al personal a simple vista; su ámbito de custodia termina en la puerta de la armería."}]
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 4,
+          "consecuencia": "El guardián queda fuera de combate."
+        },
+        {
+          "nombre": "cegado",
+          "valor": 3,
+          "consecuencia": "Queda neutralizada su vigilancia visual."
+        }
+      ],
+      "etiquetas": [
+        "flotante",
+        "ojos mágicos",
+        "guardián",
+        "inmune a sorpresa"
+      ],
+      "rasgos": [
+        {
+          "nombre": "Custodia inmóvil",
+          "descripcion": "No abandona la armería y trata las armas como tesoro."
+        }
+      ],
+      "amenazas": [
+        {
+          "nombre": "Rayo paralizante",
+          "descripcion": "Uno de sus ojos inmoviliza al intruso.",
+          "consecuencias": [
+            "Inflige [paralizado-2]."
+          ]
+        },
+        {
+          "nombre": "Rayo de miedo",
+          "descripcion": "Su mirada siembra terror.",
+          "consecuencias": [
+            "Inflige [asustado-3]."
+          ]
+        },
+        {
+          "nombre": "Rayo de daño",
+          "descripcion": "Descarga energía contra un objetivo.",
+          "consecuencias": [
+            "Inflige [herido-3]."
+          ]
+        },
+        {
+          "nombre": "Mordisco",
+          "descripcion": "Muerde a quien se acerca.",
+          "consecuencias": [
+            "Inflige [herido-2]."
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Reconocimiento del personal",
+          "descripcion": "Distingue al personal a simple vista; su ámbito de custodia termina en la puerta de la armería."
+        }
+      ]
     },
     {
-      "slug": "gant-abjurador", "nombre": "Vaelish Gant", "nivel": 1,
-      "poderio": [{"nivel": "adventure", "aspecto": "mago abjurador de la Hermandad Arcana"}], "roles": ["Adversario", "Controlador"],
+      "slug": "gant-abjurador",
+      "nombre": "Vaelish Gant",
+      "nivel": 1,
+      "poderio": [
+        {
+          "nivel": "adventure",
+          "aspecto": "mago abjurador de la Hermandad Arcana"
+        }
+      ],
+      "roles": [
+        "Adversario",
+        "Controlador"
+      ],
       "aspecto_en": "Full-body portrait of an adult human male abjuration wizard reduced to a numbered prisoner. Lean frame, intelligent eyes, sharp features and a pompous raised chin. A plain hoodless prison robe, laceless slippers and wrist and ankle shackles replace scholarly equipment. Show no spellbook or material components. His confident expression and carefully controlled stance suggest ambition surviving confinement. Neutral stone background.",
-      "descripcion": "El Prisionero 237 es un mago abjurador de quinto nivel, pomposo y conspirador. Su magia está anulada dentro de la celda y fuera de ella sigue limitada por la falta de libro y componentes.",
-      "limites": [{"nombre": "herido", "valor": 3, "consecuencia": "Gant queda fuera de combate."}, {"nombre": "convencido", "valor": 3, "consecuencia": "Cede en la disputa planteada."}],
-      "etiquetas": ["mago abjurador", "pomposo", "sin componentes", "encadenado"],
-      "rasgos": [{"nombre": "Preso sin equipo", "descripcion": "No posee libro de conjuros ni componentes materiales; no uses amenazas que requieran recursos de los que carece."}],
-      "amenazas": [{"nombre": "Agarre electrizante", "descripcion": "Fuera del campo antimágico descarga electricidad por contacto.", "consecuencias": ["Inflige [herido-2].", "El objetivo no puede realizar reacciones."]}, {"nombre": "Sugestión", "descripcion": "Intenta imponer una propuesta por magia si puede satisfacer sus requisitos.", "consecuencias": ["Inflige [convencido-2]."]}, {"nombre": "Rayo relampagueante", "descripcion": "Fuera del campo antimágico lanza una descarga si dispone de los requisitos necesarios.", "consecuencias": ["Inflige [herido-3]."]}],
-      "secretos": [{"nombre": "Campo antimágico", "descripcion": "Dentro de su celda no puede lanzar magia."}, {"nombre": "Información negociable", "descripcion": "La carta de Duvessa Shane o su liberación bastan para que revele la expedición al glaciar Reghed; considera que la Hermandad lo ha abandonado."}]
+      "descripcion": "El Prisionero 237 es un mago abjurador de gran experiencia, pomposo y conspirador. Su magia está anulada dentro de la celda y fuera de ella sigue limitada por la falta de libro y componentes.",
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 3,
+          "consecuencia": "Gant queda fuera de combate."
+        },
+        {
+          "nombre": "convencido",
+          "valor": 3,
+          "consecuencia": "Cede en la disputa planteada."
+        }
+      ],
+      "etiquetas": [
+        "mago abjurador",
+        "pomposo",
+        "sin componentes",
+        "encadenado"
+      ],
+      "rasgos": [
+        {
+          "nombre": "Preso sin equipo",
+          "descripcion": "No posee libro de magia ni componentes materiales; no uses amenazas que requieran recursos de los que carece."
+        }
+      ],
+      "amenazas": [
+        {
+          "nombre": "Contacto eléctrico",
+          "descripcion": "Fuera del campo antimágico descarga electricidad por contacto.",
+          "consecuencias": [
+            "Inflige [herido-2].",
+            "Crea la etiqueta [reacción entorpecida]."
+          ]
+        },
+        {
+          "nombre": "Influencia mental",
+          "descripcion": "Intenta imponer una propuesta por magia si puede satisfacer sus requisitos.",
+          "consecuencias": [
+            "Inflige [convencido-2]."
+          ]
+        },
+        {
+          "nombre": "Descarga de relámpagos",
+          "descripcion": "Fuera del campo antimágico lanza una descarga si dispone de los requisitos necesarios.",
+          "consecuencias": [
+            "Inflige [herido-3]."
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Campo antimágico",
+          "descripcion": "Dentro de su celda no puede hacer magia."
+        },
+        {
+          "nombre": "Información negociable",
+          "descripcion": "La carta de Duvessa Shane o su liberación bastan para que revele la expedición al glaciar Reghed; considera que la Hermandad lo ha abandonado."
+        }
+      ]
     },
     {
-      "slug": "marta-alcaide", "nombre": "Marta Marthannis, alcaide", "nivel": 1,
-      "poderio": [{"nivel": "adventure", "aspecto": "maga de alto nivel y alcaide de la prisión"}], "roles": ["Controlador", "Apoyo"],
+      "slug": "marta-alcaide",
+      "nombre": "Marta Marthannis, alcaide",
+      "nivel": 1,
+      "poderio": [
+        {
+          "nivel": "adventure",
+          "aspecto": "maga poderosa y alcaide de la prisión"
+        }
+      ],
+      "roles": [
+        "Controlador",
+        "Apoyo"
+      ],
       "aspecto_en": "Full-body portrait of an adult human female mage warden, calm and resolute in a red robe edged with gold. Warm practical layers and sturdy boots suit an Arctic fortress. A ring bears seven miniature keys, and her steady gaze suggests command over a disciplined institution. Hands poised for protective magic, without inventing a specific spell effect. Plain stone background, restrained warm highlights.",
-      "descripcion": "Marta es una aliada que normalmente no combate; usa este perfil solo si los Héroes se enfrentan a ella. La ficha la presenta como maga de alto nivel con Poderío Aventura; el nivel operativo 1 permite completar el esquema sin alterar sus límites.",
-      "limites": [{"nombre": "herido", "valor": 5, "consecuencia": "Marta queda fuera de combate."}, {"nombre": "convencido", "valor": 4, "consecuencia": "Marta acepta el argumento o la petición en disputa."}],
-      "etiquetas": ["maga", "alcaide", "imperturbable", "Arpistas"],
-      "rasgos": [{"nombre": "Mando de la prisión", "descripcion": "Solo ella activa la alerta mágica con «maristo»; dirige a la guarnición desde R18 y obtiene visión de lo invisible durante el protocolo."}],
-      "amenazas": [{"nombre": "Abjuraciones", "descripcion": "Emplea su magia de abjuración para protegerse y contener la oposición; la ficha no concreta conjuros ni estados adicionales.", "consecuencias": ["Protege su posición y dificulta la acción enfrentada mediante abjuración."]}],
-      "secretos": [{"nombre": "Posesión de Vlax", "descripcion": "Una o dos veces al día, durante una o dos horas, Vlax la controla: solo habla enano, bebe, se vuelve malhumorada y no puede usar sus conjuros preparados."}, {"nombre": "Arpista secreta", "descripcion": "Su alfiler revela una afiliación que mantiene oculta. Rechaza el viaje a Gauntlgrym que permitiría despedir a Vlax."}]
+      "descripcion": "Marta es una aliada que normalmente no combate. Si los Héroes se enfrentan a ella, su magia protectora y su mando sobre la guarnición la convierten en una oposición formidable.",
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 5,
+          "consecuencia": "Marta queda fuera de combate."
+        },
+        {
+          "nombre": "convencido",
+          "valor": 4,
+          "consecuencia": "Marta acepta el argumento o la petición en disputa."
+        }
+      ],
+      "etiquetas": [
+        "maga",
+        "alcaide",
+        "imperturbable",
+        "Arpistas"
+      ],
+      "rasgos": [
+        {
+          "nombre": "Mando de la prisión",
+          "descripcion": "Solo ella activa la alerta mágica con «maristo»; dirige a la guarnición desde el centro de vigilancia y obtiene capacidad de percibir lo invisible durante el protocolo."
+        }
+      ],
+      "amenazas": [
+        {
+          "nombre": "Abjuraciones",
+          "descripcion": "Teje barreras mágicas para protegerse y contener la oposición.",
+          "consecuencias": [
+            "Protege su posición y dificulta la acción enfrentada mediante abjuración."
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Posesión de Vlax",
+          "descripcion": "Una o dos veces al día, durante una o dos horas, Vlax la controla: solo habla enano, bebe, se vuelve malhumorada y no puede usar sus magia habitual."
+        },
+        {
+          "nombre": "Arpista secreta",
+          "descripcion": "Su alfiler revela una afiliación que mantiene oculta. Rechaza el viaje a Gauntlgrym que permitiría despedir a Vlax."
+        }
+      ]
     },
     {
-      "slug": "prisioneros-amotinados", "nombre": "Prisioneros amotinados (banda)", "nivel": 2,
-      "poderio": [], "roles": ["Adversario", "Bruto"],
+      "slug": "prisioneros-amotinados",
+      "nombre": "Prisioneros amotinados (banda)",
+      "nivel": 2,
+      "poderio": [],
+      "roles": [
+        "Adversario",
+        "Bruto"
+      ],
       "aspecto_en": "Full-body group depiction of desperate adult humanoid prisoners in plain hoodless robes without pockets and laceless leather slippers. Wrist and ankle restraints remain visible; improvised chains and wooden waste buckets serve as crude implements. No armour or proper weapons. Varied guarded faces and crowded positioning convey dependence on numbers. Bare stone prison background, tense muted lighting, no distinctive invented identities.",
       "descripcion": "Un grupo de reclusos desesperados intenta imponerse por número durante una revuelta. Sin equipo ni armadura, recurre a cadenas y cubos y sigue sujeto a los campos antimágicos.",
-      "limites": [{"nombre": "herido", "valor": 4, "consecuencia": "La banda queda fuera de combate."}, {"nombre": "dispersos", "valor": 3, "consecuencia": "La revuelta pierde cohesión y el grupo se dispersa."}],
-      "etiquetas": ["desesperados", "esposados", "sin armadura"], "rasgos": [{"nombre": "Fuerza del número", "descripcion": "Dependen de mantenerse juntos y carecen de equipo apropiado."}],
-      "amenazas": [{"nombre": "Cadenas y cubos", "descripcion": "Golpean con lo que tienen a mano.", "consecuencias": ["Inflige [herido-2]."]}, {"nombre": "Forzar una puerta", "descripcion": "Empujan juntos para abrir una vía de fuga.", "consecuencias": ["Crea la etiqueta de historia [puerta forzada]."]}, {"nombre": "Rendición o huida", "descripcion": "Al verse superados dejan de resistir o escapan.", "consecuencias": ["Crea la etiqueta de historia [prisioneros sometidos]."]}],
-      "secretos": [{"nombre": "Desarmados y contenidos", "descripcion": "No tienen armadura y la magia de sus miembros queda suprimida dentro de los campos antimágicos."}]
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 4,
+          "consecuencia": "La banda queda fuera de combate."
+        },
+        {
+          "nombre": "dispersos",
+          "valor": 3,
+          "consecuencia": "La revuelta pierde cohesión y el grupo se dispersa."
+        }
+      ],
+      "etiquetas": [
+        "desesperados",
+        "esposados",
+        "sin armadura"
+      ],
+      "rasgos": [
+        {
+          "nombre": "Fuerza del número",
+          "descripcion": "Dependen de mantenerse juntos y carecen de equipo apropiado."
+        }
+      ],
+      "amenazas": [
+        {
+          "nombre": "Cadenas y cubos",
+          "descripcion": "Golpean con lo que tienen a mano.",
+          "consecuencias": [
+            "Inflige [herido-2]."
+          ]
+        },
+        {
+          "nombre": "Forzar una puerta",
+          "descripcion": "Empujan juntos para abrir una vía de fuga.",
+          "consecuencias": [
+            "Crea la etiqueta de historia [puerta forzada]."
+          ]
+        },
+        {
+          "nombre": "Rendición o huida",
+          "descripcion": "Al verse superados dejan de resistir o escapan.",
+          "consecuencias": [
+            "Crea la etiqueta de historia [prisioneros sometidos]."
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Desarmados y contenidos",
+          "descripcion": "No tienen armadura y la magia de sus miembros queda suprimida dentro de los campos antimágicos."
+        }
+      ]
     },
     {
-      "slug": "ventisca-cortavientos", "nombre": "Ventisca del Cortavientos", "nivel": 2,
-      "poderio": [], "roles": ["Peligro", "Obstáculo"],
+      "slug": "ventisca-cortavientos",
+      "nombre": "Ventisca del Cortavientos",
+      "nivel": 2,
+      "poderio": [],
+      "roles": [
+        "Peligro",
+        "Obstáculo"
+      ],
       "aspecto_en": "Wide environmental depiction of a lethal Arctic blizzard sweeping a blade-shaped coastal rock and fortress approach. Dense snow erases the path, rime encases exposed tools and railings, and violent wind drives white sheets across dark stone. Almost no visibility beyond nearby surfaces, steel-grey sky and icy blue shadows. No people, creatures or bodies. Emphasize exposure and the distant possibility of shelter.",
       "descripcion": "El clima extremo azota el Cortavientos y deja sin visibilidad a quienes permanecen expuestos. El frío amenaza tanto a los viajeros como a su equipo.",
-      "limites": [{"nombre": "congelado", "valor": 6, "consecuencia": "Al alcanzarse este límite se resuelve el desafío por congelación de quienes lo sufren."}],
-      "etiquetas": ["ventisca", "frío extremo", "visibilidad nula"], "rasgos": [{"nombre": "Exposición", "descripcion": "Afecta a quienes permanecen fuera sin refugio; la ropa de clima frío reduce el daño."}],
-      "amenazas": [{"nombre": "Frío penetrante", "descripcion": "El frío alcanza a quien carece de abrigo.", "consecuencias": ["Inflige [helado-2]."]}, {"nombre": "Desorientación", "descripcion": "La nieve borra referencias y caminos.", "consecuencias": ["Inflige [perdido-2]."]}, {"nombre": "Equipo congelado", "descripcion": "El hielo se forma sobre armas y herramientas.", "consecuencias": ["Crea la etiqueta [arma congelada]."]}],
-      "secretos": [{"nombre": "Refugio preparado", "descripcion": "La fortaleza ofrece protección y los guardias cuentan con equipo para el frío."}]
+      "limites": [
+        {
+          "nombre": "congelado",
+          "valor": 6,
+          "consecuencia": "Al alcanzarse este límite se resuelve el desafío por congelación de quienes lo sufren."
+        }
+      ],
+      "etiquetas": [
+        "ventisca",
+        "frío extremo",
+        "visibilidad nula"
+      ],
+      "rasgos": [
+        {
+          "nombre": "Exposición",
+          "descripcion": "Afecta a quienes permanecen fuera sin refugio; la ropa de clima frío reduce el daño."
+        }
+      ],
+      "amenazas": [
+        {
+          "nombre": "Frío penetrante",
+          "descripcion": "El frío alcanza a quien carece de abrigo.",
+          "consecuencias": [
+            "Inflige [helado-2]."
+          ]
+        },
+        {
+          "nombre": "Desorientación",
+          "descripcion": "La nieve borra referencias y caminos.",
+          "consecuencias": [
+            "Inflige [perdido-2]."
+          ]
+        },
+        {
+          "nombre": "Equipo congelado",
+          "descripcion": "El hielo se forma sobre armas y herramientas.",
+          "consecuencias": [
+            "Crea la etiqueta [arma congelada]."
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Refugio preparado",
+          "descripcion": "La fortaleza ofrece protección y los guardias cuentan con equipo para el frío."
+        }
+      ]
     }
   ],
   "objetos": [
-    {"slug": "varita-atadura", "nombre": "Varita de atadura", "etiqueta": "varita de atadura", "descripcion": "Etiqueta de mochila para atar o contener; oculta en el compartimento secreto de la tapa del cofre de Marta.", "imagen_en": "An isolated binding wand, a slender polished magical implement with restrained metal fittings, lying horizontally against a neutral background. Subtle warm highlights, carefully rendered wood grain, no lettering or hands."},
-    {"slug": "alfiler-arpistas", "nombre": "Alfiler de capa de los Arpistas", "etiqueta": "alfiler de los Arpistas", "descripcion": "Alfiler de plata del cofre de Marta; pista de su afiliación y posible contacto con los Arpistas.", "imagen_en": "An isolated silver cloak pin bearing the Harpers emblem, displayed on a neutral dark background. Fine metal craftsmanship, cool reflected highlights, visible clasp, modest scale, no lettering, hands or additional jewellery."},
-    {"slug": "monedas-prision", "nombre": "Saco de monedas de la prisión", "etiqueta": "saco de monedas de la prisión", "descripcion": "Saco del cofre, descrito como setecientas cincuenta piezas de oro. Se usa como etiqueta de mochila para favores, sobornos o pagos a capitanes, sin contabilidad exacta.", "imagen_en": "An isolated sturdy cloth sack partially open to reveal gold coins, with a simple tied cord and worn folds. Neutral background, warm metallic reflections, no readable inscriptions, hands or exact count implied."},
-    {"slug": "suministros-caligrafo", "nombre": "Suministros de calígrafo", "etiqueta": "suministros de calígrafo", "descripcion": "Material de escritura guardado en el cofre del alcaide, utilizable como etiqueta de mochila.", "imagen_en": "An isolated calligrapher's supply set with pens, ink bottles and carefully arranged writing tools in a modest case. Neutral background, dark ink and warm wood tones, no written words or hands."},
-    {"slug": "kit-curandero", "nombre": "Suministros médicos", "etiqueta": "kit de curandero", "descripcion": "R4 dispone de material para veinte kits de curandero; etiqueta de mochila cuya rutina permite estabilizar heridas.", "imagen_en": "An isolated practical healer's kit opened to display clean rolled bandages and simple medical supplies in a durable pouch. Neutral background, soft white cloth and muted leather tones, no labels or hands."},
-    {"slug": "alabarda-armeria", "nombre": "Alabarda", "etiqueta": "alabarda", "descripcion": "Una de las veinte alabardas no mágicas de R10. Poseerla sin permiso dentro de la prisión es ilegal.", "imagen_en": "An isolated mundane halberd shown in full, with a long wooden shaft and practical steel axe blade, spike and hook. Neutral background, realistic wear and restrained highlights, no runes or hands."},
-    {"slug": "espada-larga", "nombre": "Espada larga", "etiqueta": "espada larga", "descripcion": "Una de las quince espadas largas de R10; etiqueta de mochila ilegal dentro de la prisión sin autorización.", "imagen_en": "An isolated mundane longsword with straight steel blade, simple crossguard and leather-wrapped grip. Full object visible against a neutral background, modest institutional craftsmanship, light wear, no magical glow, inscriptions or hands."},
-    {"slug": "espada-corta", "nombre": "Espada corta", "etiqueta": "espada corta", "descripcion": "Una de las quince espadas cortas no mágicas de la armería, sujeta a la prohibición de armas.", "imagen_en": "An isolated mundane shortsword with a compact straight steel blade and plain leather grip. Practical military construction on a neutral background, subtle wear, full object visible, no runes, decoration or hands."},
-    {"slug": "pica-armeria", "nombre": "Pica", "etiqueta": "pica", "descripcion": "Una de las diez picas no mágicas de R10; su posesión sin permiso es ilegal en la prisión.", "imagen_en": "An isolated long wooden pike with a narrow utilitarian steel spearhead and reinforced socket. Entire weapon visible diagonally on a neutral background, realistic timber grain, restrained metal highlights, no hands or text."},
-    {"slug": "ballesta-pesada", "nombre": "Ballesta pesada", "etiqueta": "ballesta pesada", "descripcion": "Una de las diez ballestas pesadas de R10; hay cientos de virotes disponibles. Su posesión está prohibida sin autorización.", "imagen_en": "An isolated heavy crossbow with substantial wooden stock, steel bow and visible tensioning mechanism, accompanied by a few plain bolts. Neutral background, practical military finish, no magical elements, inscriptions or hands."},
-    {"slug": "ballesta-ligera", "nombre": "Ballesta ligera", "etiqueta": "ballesta ligera", "descripcion": "Una de las cinco ballestas ligeras no mágicas de R10, con acceso a los virotes almacenados; prohibida sin permiso.", "imagen_en": "An isolated light crossbow with compact wooden stock, simple steel bow and taut string, alongside a plain bolt. Neutral background, functional craftsmanship and slight wear, full object visible, no lettering or hands."},
-    {"slug": "carta-duvessa", "nombre": "Carta de Duvessa Shane", "etiqueta": "carta de Duvessa Shane", "descripcion": "Etiqueta de historia que, mostrada a Gant, consigue la información sobre la expedición. La ficha no reproduce el contenido de la carta.", "imagen_en": "An isolated folded letter on modest parchment, its contents concealed and no readable writing visible. Soft creases and slightly worn edges suggest travel. Neutral background, subdued warm paper tones, no invented heraldry or hands."},
-    {"slug": "llaves-alcaide", "nombre": "Siete llaves del alcaide", "etiqueta": "llaves del alcaide", "descripcion": "Etiqueta de historia: anillo con siete llaves diminutas que abre el cofre, los cinco armarios y el cajón del despacho.", "imagen_en": "An isolated ring carrying seven tiny metal keys of subtly differing shapes. Fine practical workmanship, cool metallic highlights and a neutral background, every key distinguishable, no decorative symbols, text or hands."},
-    {"slug": "cofre-alcaide", "nombre": "Cofre cerrado del alcaide", "etiqueta": "cofre cerrado del alcaide", "descripcion": "Cofre de madera cerrado con llave en R21; contiene los suministros de calígrafo, monedas y alfiler. La tapa oculta la varita de atadura.", "imagen_en": "An isolated closed wooden chest with a sturdy metal lock, plain hinges and carefully fitted lid. No secret compartment visible. Neutral background, warm timber grain, restrained highlights, no lettering or hands."}
+    {
+      "slug": "varita-atadura",
+      "nombre": "Varita de atadura",
+      "etiqueta": "varita de atadura",
+      "descripcion": "Etiqueta de mochila para atar o contener; oculta en el compartimento secreto de la tapa del cofre de Marta.",
+      "imagen_en": "An isolated binding wand, a slender polished magical implement with restrained metal fittings, lying horizontally against a neutral background. Subtle warm highlights, carefully rendered wood grain, no lettering or hands."
+    },
+    {
+      "slug": "alfiler-arpistas",
+      "nombre": "Alfiler de capa de los Arpistas",
+      "etiqueta": "alfiler de los Arpistas",
+      "descripcion": "Alfiler de plata del cofre de Marta; pista de su afiliación y posible contacto con los Arpistas.",
+      "imagen_en": "An isolated silver cloak pin bearing the Harpers emblem, displayed on a neutral dark background. Fine metal craftsmanship, cool reflected highlights, visible clasp, modest scale, no lettering, hands or additional jewellery."
+    },
+    {
+      "slug": "monedas-prision",
+      "nombre": "Saco de monedas de la prisión",
+      "etiqueta": "saco de monedas de la prisión",
+      "descripcion": "Saco de monedas guardado en el cofre de Marta; etiqueta de mochila [saco de monedas de la prisión] para favores, sobornos o pagos a capitanes.",
+      "imagen_en": "An isolated sturdy cloth sack partially open to reveal gold coins, with a simple tied cord and worn folds. Neutral background, warm metallic reflections, no readable inscriptions, hands or exact count implied."
+    },
+    {
+      "slug": "suministros-caligrafo",
+      "nombre": "Suministros de calígrafo",
+      "etiqueta": "suministros de calígrafo",
+      "descripcion": "Material de escritura guardado en el cofre del alcaide, utilizable como etiqueta de mochila.",
+      "imagen_en": "An isolated calligrapher's supply set with pens, ink bottles and carefully arranged writing tools in a modest case. Neutral background, dark ink and warm wood tones, no written words or hands."
+    },
+    {
+      "slug": "kit-curandero",
+      "nombre": "Suministros médicos",
+      "etiqueta": "kit de curandero",
+      "descripcion": "el hospital dispone de material para veinte kits de curandero; etiqueta de mochila cuya rutina permite estabilizar heridas.",
+      "imagen_en": "An isolated practical healer's kit opened to display clean rolled bandages and simple medical supplies in a durable pouch. Neutral background, soft white cloth and muted leather tones, no labels or hands."
+    },
+    {
+      "slug": "alabarda-armeria",
+      "nombre": "Alabarda",
+      "etiqueta": "alabarda",
+      "descripcion": "Una de las veinte alabardas no mágicas de la armería. Poseerla sin permiso dentro de la prisión es ilegal.",
+      "imagen_en": "An isolated mundane halberd shown in full, with a long wooden shaft and practical steel axe blade, spike and hook. Neutral background, realistic wear and restrained highlights, no runes or hands."
+    },
+    {
+      "slug": "espada-larga",
+      "nombre": "Espada larga",
+      "etiqueta": "espada larga",
+      "descripcion": "Una de las quince espadas largas de la armería; etiqueta de mochila ilegal dentro de la prisión sin autorización.",
+      "imagen_en": "An isolated mundane longsword with straight steel blade, simple crossguard and leather-wrapped grip. Full object visible against a neutral background, modest institutional craftsmanship, light wear, no magical glow, inscriptions or hands."
+    },
+    {
+      "slug": "espada-corta",
+      "nombre": "Espada corta",
+      "etiqueta": "espada corta",
+      "descripcion": "Una de las quince espadas cortas no mágicas de la armería, sujeta a la prohibición de armas.",
+      "imagen_en": "An isolated mundane shortsword with a compact straight steel blade and plain leather grip. Practical military construction on a neutral background, subtle wear, full object visible, no runes, decoration or hands."
+    },
+    {
+      "slug": "pica-armeria",
+      "nombre": "Pica",
+      "etiqueta": "pica",
+      "descripcion": "Una de las diez picas no mágicas de la armería; su posesión sin permiso es ilegal en la prisión.",
+      "imagen_en": "An isolated long wooden pike with a narrow utilitarian steel spearhead and reinforced socket. Entire weapon visible diagonally on a neutral background, realistic timber grain, restrained metal highlights, no hands or text."
+    },
+    {
+      "slug": "ballesta-pesada",
+      "nombre": "Ballesta pesada",
+      "etiqueta": "ballesta pesada",
+      "descripcion": "Una de las diez ballestas pesadas de la armería; hay cientos de virotes disponibles. Su posesión está prohibida sin autorización.",
+      "imagen_en": "An isolated heavy crossbow with substantial wooden stock, steel bow and visible tensioning mechanism, accompanied by a few plain bolts. Neutral background, practical military finish, no magical elements, inscriptions or hands."
+    },
+    {
+      "slug": "ballesta-ligera",
+      "nombre": "Ballesta ligera",
+      "etiqueta": "ballesta ligera",
+      "descripcion": "Una de las cinco ballestas ligeras no mágicas de la armería, con acceso a los virotes almacenados; prohibida sin permiso.",
+      "imagen_en": "An isolated light crossbow with compact wooden stock, simple steel bow and taut string, alongside a plain bolt. Neutral background, functional craftsmanship and slight wear, full object visible, no lettering or hands."
+    },
+    {
+      "slug": "carta-duvessa",
+      "nombre": "Carta de Duvessa Shane",
+      "etiqueta": "carta de Duvessa Shane",
+      "descripcion": "Etiqueta de historia que, mostrada a Gant, consigue la información sobre la expedición.",
+      "imagen_en": "An isolated folded letter on modest parchment, its contents concealed and no readable writing visible. Soft creases and slightly worn edges suggest travel. Neutral background, subdued warm paper tones, no invented heraldry or hands."
+    },
+    {
+      "slug": "llaves-alcaide",
+      "nombre": "Siete llaves del alcaide",
+      "etiqueta": "llaves del alcaide",
+      "descripcion": "Etiqueta de historia: anillo con siete llaves diminutas que abre el cofre, los cinco armarios y el cajón del despacho.",
+      "imagen_en": "An isolated ring carrying seven tiny metal keys of subtly differing shapes. Fine practical workmanship, cool metallic highlights and a neutral background, every key distinguishable, no decorative symbols, text or hands."
+    },
+    {
+      "slug": "cofre-alcaide",
+      "nombre": "Cofre cerrado del alcaide",
+      "etiqueta": "cofre cerrado del alcaide",
+      "descripcion": "Cofre de madera cerrado con llave en los aposentos del alcaide; contiene los suministros de calígrafo, monedas y alfiler. La tapa oculta la varita de atadura.",
+      "imagen_en": "An isolated closed wooden chest with a sturdy metal lock, plain hinges and carefully fitted lid. No secret compartment visible. Neutral background, warm timber grain, restrained highlights, no lettering or hands."
+    }
   ],
   "ayudas": [
-    {"slug": "expediente-gant", "titulo": "Extracto del expediente del Prisionero 237", "tipo": "nota", "texto": "EL FIN DE LA FIESTA\nARCHIVO DE PRISIONEROS — EXTRACTO\n\nNúmero de identificación: 237.\nNombre: Vaelish Gant.\nAfiliación: Hermandad Arcana.\nHechos: establecimiento de una red de protección en Bryn Shander e intento de desestabilizar la economía de Diez Ciudades.\nAutoridad que dictó la condena: Consejo de Oradores.\nSentencia: cadena perpetua.", "fondo_en": "A blank institutional prisoner record sheet on plain aged paper, with restrained ruled divisions and generous writing space. Slight handling wear, neutral cream tones, no text, numbers, seals or illustrations."},
-    {"slug": "indice-registros", "titulo": "Índice de los registros de la prisión", "tipo": "nota", "texto": "EL FIN DE LA FIESTA\nREGISTROS CONSERVADOS EN EL DESPACHO DEL ALCAIDE\n\nManifiestos de carga y entregas.\nÓrdenes de transferencia.\nArchivos de prisioneros: nombres, crímenes, sentencias y conmutaciones.\nCertificados de defunción: causa natural, accidental o no natural. No se incluyen detalles de la causa.", "fondo_en": "A blank administrative inventory sheet on utilitarian parchment, lightly creased with ample central writing space and simple ruled margins. Muted beige paper, no text, signatures, official seals or decorative symbols."}
+    {
+      "slug": "expediente-gant",
+      "titulo": "Extracto del expediente del Prisionero 237",
+      "tipo": "nota",
+      "texto": "EL FIN DE LA FIESTA\nARCHIVO DE PRISIONEROS — EXTRACTO\n\nNúmero de identificación: 237.\nNombre: Vaelish Gant.\nAfiliación: Hermandad Arcana.\nHechos: establecimiento de una red de protección en Bryn Shander e intento de desestabilizar la economía de Diez Ciudades.\nAutoridad que dictó la condena: Consejo de Oradores.\nSentencia: cadena perpetua.",
+      "fondo_en": "A blank institutional prisoner record sheet on plain aged paper, with restrained ruled divisions and generous writing space. Slight handling wear, neutral cream tones, no text, numbers, seals or illustrations."
+    },
+    {
+      "slug": "indice-registros",
+      "titulo": "Índice de los registros de la prisión",
+      "tipo": "nota",
+      "texto": "EL FIN DE LA FIESTA\nREGISTROS CONSERVADOS EN EL DESPACHO DEL ALCAIDE\n\nManifiestos de carga y entregas.\nÓrdenes de transferencia.\nArchivos de prisioneros: nombres, crímenes, sentencias y conmutaciones.\nCertificados de defunción: causa natural, accidental o no natural.",
+      "fondo_en": "A blank administrative inventory sheet on utilitarian parchment, lightly creased with ample central writing space and simple ruled margins. Muted beige paper, no text, signatures, official seals or decorative symbols."
+    }
   ],
   "hitos": [
     "Obtener de Gant la pista de la expedición de la Hermandad Arcana a una ciudad netheriliana bajo el glaciar Reghed; ganar la etiqueta de historia [pista: ciudad netheriliana].",

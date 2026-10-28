@@ -22,7 +22,7 @@
       "ambiente": "dim",
       "etiquetas": [
         "buhardilla caliente",
-        "galletas de Nimsy",
+        "galletas de nimsy",
         "pasados que nadie pregunta",
         "madera imprescindible"
       ],
@@ -38,7 +38,7 @@
       "interior": true,
       "imagen_en": "Small carving shop facing the docks, shelves with curved knives, fine needles, colored inks and wax blocks. Sparse light over carefully ordered tools, frosted windows and ivory dust. A tidy counter and a reserved shopkeeper. Cold blue window light with warm tool tones. No people. Leave the lower third open.",
       "lectura": "Desde los muelles veis una tienda pequeña cuyo escaparate conserva un orden casi obstinado. Al entrar, encontráis cuchillos curvos, agujas finísimas, ceras y tintas que aportan una variedad de colores inesperada entre tanto blanco y gris. Cada herramienta tiene un lugar preciso. El olor de la cera se mezcla con el del agua fría que llega de fuera. Tras el mostrador, la dueña os deja mirar sin acosaros con preguntas. Si habláis de personas o de tiempos pasados, sus respuestas se acortan. Solo al recordar a alguien ya muerto parece concederse un instante de afecto. Advertís que aquí resulta más sencillo comprar una hoja afilada que obtener una confidencia.",
-      "notas": "Iriskree vende herramientas de talla, tintas y cera como etiquetas de mochila. Es una asesina retirada; ganarse su confianza requiere discreción y presionarla puede crear [indiscretos ante Iriskree].",
+      "notas": "Iriskree vende herramientas de talla, tintas y cera como etiquetas de mochila. Es una asesina retirada; ganarse su confianza requiere discreción y presionarla puede crear [indiscretos ante iriskree].",
       "musica": "pueblo",
       "motivos": [
         "misterio"
@@ -64,7 +64,7 @@
       "interior": true,
       "imagen_en": "Warm low ceilinged wooden tavern, tables marked by tankards, drying winter clothes and fogged windows. Shadowed corners where more is heard than seen. Amber hearth light, wet wool textures, crowded but intimate atmosphere. No people. Leave the lower third open.",
       "lectura": "Al abrir la puerta os alcanza una mezcla de calor, bebida y lana húmeda. Las conversaciones compiten por imponerse unas a otras. Oís relatos de capturas imposibles, árboles gigantescos y peligros que parecen crecer con cada repetición. Entre una carcajada y la siguiente, alguna voz baja de tono, como si acabara de recordar que está hablando demasiado. La tabernera se mueve de mesa en mesa con discreción, sirviendo y recogiendo sin interrumpir ninguna historia. Si buscáis noticias, tendréis muchas oportunidades de escuchar. Distinguir una exageración de una indiscreción será más difícil, y no sois los únicos que prestan atención a las palabras ajenas.",
-      "notas": "Pescadores y leñadores cuentan historias; pueden surgir rumores generales de Diez Ciudades. Escuchar con paciencia puede dar [rumor por contrastar]; contrastar con testigos produce [testimonio fiable]. Una indiscreción puede crear [Danae conoce vuestro secreto]. Danae Xotal reúne información para Szass Tam y no revela su condición por una conversación corriente.",
+      "notas": "Pescadores y leñadores cuentan historias; pueden surgir rumores generales de Diez Ciudades. Escuchar con paciencia puede dar [rumor por contrastar]; contrastar con testigos produce [testimonio fiable]. Una indiscreción puede crear [danae conoce vuestro secreto]. Danae Xotal reúne información para Szass Tam y no revela su condición por una conversación corriente.",
       "musica": "taberna",
       "motivos": [
         "misterio"
@@ -92,7 +92,7 @@
       "interior": true,
       "imagen_en": "Old snow battered inn facade and a common room filled with stacked timber. Dusty stairs, dark beams, opaque windows, no heat and two winters of neglect. A place that could become a home again. Cold grey light, weathered wood and dust. No people. Leave the lower third open.",
       "lectura": "Ante vosotros se levanta una posada que parece justificar su nombre con cada tabla. La nieve se acumula en los salientes y las ventanas no ofrecen el resplandor de un hogar. Dentro, donde debería haber mesas y viajeros, encontráis madera apilada. El silencio deja oír vuestros pasos con una claridad incómoda. Las vigas de la sala común atraen vuestra mirada cuando recordáis lo que se cuenta del último propietario. Aun así, podéis imaginar otro sonido aquí: una chimenea encendida, una puerta que se abre para recibir huéspedes, conversaciones al final de un viaje. El edificio conserva esa posibilidad, enterrada bajo polvo, trabajo pendiente y una muerte sin aclarar.",
-      "notas": "DeGrootz apareció ahorcado hace dos años; algunos creen que viejos «amigos» lo asesinaron y fingieron el suicidio, pero es una sospecha. El pueblo usa el edificio como almacén y acepta que alguien lo restaure. Si Nimsy lo entrega, concede [propiedad de La Desvencijada].",
+      "notas": "DeGrootz apareció ahorcado hace dos años; algunos creen que viejos «amigos» lo asesinaron y fingieron el suicidio, pero es una sospecha. El pueblo usa el edificio como almacén y acepta que alguien lo restaure. Si Nimsy lo entrega, concede [propiedad de la desvencijada].",
       "musica": "pueblo",
       "motivos": [
         "misterio",
@@ -260,7 +260,7 @@
       "interior": true,
       "imagen_en": "Narrow corridor ending at an oval mirror about two meters high and one wide, fixed to a wall. Ornate stone frame; silver flashes when the mechanism is active. Cool stone passage and pale reflected light. No people. Leave the lower third open.",
       "lectura": "El corredor se estrecha hasta dejaros frente a un espejo alto, incrustado en un marco de piedra. En la penumbra, vuestro reflejo parece ocupar una puerta que conduce a otro pasadizo. Cuando el dial alimenta su magia, el borde se enciende con pequeños destellos plateados. Recordáis la promesa grabada junto a la luna llena y empezáis a comprender por qué los cazadores nunca sorprendían a su presa. Este objeto permite mirar mucho más allá de la tumba. Aun así, no descubrís juntas ni soportes que permitan llevároslo: la superficie está unida al muro como una parte inseparable del edificio.",
-      "notas": "Activo, funciona como instrumento de visión remota; el alce está vinculado a él y espía a cazadores y leñadores que conoce. La muerte del alce o el vínculo de otro usuario termina su control. El adhesivo soberano impide desmontarlo intacto; romperlo destruye su magia para siempre. El éxito obtiene [visión del objetivo]; los obstáculos de ocultación pueden producir [visión velada].",
+      "notas": "Activo, funciona como instrumento de visión remota; el alce está vinculado a él y espía a cazadores y leñadores que conoce. La muerte del alce o el vínculo de otro usuario termina su control. El adhesivo mágico inseparable impide desmontarlo intacto; romperlo destruye su magia para siempre. El éxito obtiene [visión del objetivo]; los obstáculos de ocultación pueden producir [visión velada].",
       "musica": "mina",
       "motivos": [
         "misterio"
@@ -365,7 +365,7 @@
       "presentacion": "Tras el mostrador, la dueña os deja mirar sin acosaros con preguntas. Si habláis de personas o de tiempos pasados, sus respuestas se acortan. Solo al recordar a alguien ya muerto parece concederse un instante de afecto. Advertís que aquí resulta más sencillo comprar una hoja afilada que obtener una confidencia.",
       "caracter": "reservada, pocas palabras; recuerda con afecto a conocidos fallecidos",
       "quiere": "ejercer su oficio y mantener su pasado en privado",
-      "sabe": "técnicas de talla y un pasado criminal que no comparte; la fuente no le adjudica pistas sobre Ravisin",
+      "sabe": "técnicas de talla y un pasado criminal que no comparte",
       "desafio": "iriskree-violencia-de-una-vida-anterior"
     },
     {
@@ -387,9 +387,9 @@
       "ciudad": "lonelywood",
       "aspecto_en": "No living portrait is available; show a memory image of a retired male woodcutter, rough winter clothing, axe leaning beside him, weathered hands and a quiet thoughtful face. Muted firelight and sawdust tones, somber nostalgic atmosphere, no supernatural elements.",
       "presentacion": "Antes de entrar, recordáis lo que se cuenta: un leñador retirado que compró la posada y acabó ahorcado en su sala común. Algunos creen que viejos «amigos» lo asesinaron y fingieron el suicidio. El edificio conserva esa posibilidad, enterrada bajo polvo y trabajo pendiente.",
-      "caracter": "sin datos verificables",
-      "quiere": "no aplicable",
-      "sabe": "la fuente no establece revelaciones suyas",
+      "caracter": "hombre de pocas palabras, acostumbrado al trabajo duro; evócalo con una voz pausada",
+      "quiere": "en vida, sacar adelante su posada tras retirarse de la tala",
+      "sabe": "conocía el oficio de leñador y las tareas cotidianas de su posada",
       "desafio": null
     },
     {
@@ -423,8 +423,8 @@
       "ciudad": "lonelywood",
       "aspecto_en": "Still life of a slowly decomposing female druid corpse in a stone tomb, cold slowed decay, tattered winter garments, blue berry stains on teeth, resting beneath a heavy stone lid. Pale grey and cold blue palette, hushed funerary atmosphere, no animation or supernatural glow.",
       "presentacion": "Apartar la pesada tapa libera un hedor de putrefacción y revela a Vurnis. Su cuerpo se ha conservado por el frío; los dientes manchados de azul recuerdan a los de su gemela. Solo el examen médico o la comunicación con los muertos pueden revelar qué le ocurrió y cuándo murió.",
-      "caracter": "no descritos",
-      "quiere": "no se establece una voluntad póstuma",
+      "caracter": "austera y devota de Auril; al evocar su voz, usa un tono seco y contenido",
+      "quiere": "en vida, servir a Auril y practicar los ritos de la escarcha",
       "sabe": "mediante comunicación con los muertos puede revelar que cazadores la mataron cerca de Bosque Solitario",
       "desafio": null
     },
@@ -501,7 +501,7 @@
       "secretos": [
         {
           "nombre": "Debilidades y vías de resolución",
-          "descripcion": "guía animal, huellas seguidas con cuidado, ropa adecuada y refugio. La fuente no establece una ventisca, hielo fino ni agua helada en este recorrido: introdúcelos solo si otra circunstancia de campaña los exige."
+          "descripcion": "guía animal, huellas seguidas con cuidado, ropa adecuada y refugio. Introduce ventiscas, hielo fino o agua helada solo si las circunstancias de campaña lo exigen."
         }
       ]
     },
@@ -572,7 +572,7 @@
       "secretos": [
         {
           "nombre": "Debilidades y vías de resolución",
-          "descripcion": "necesita espacio para su mejor carga; es difícil derribarlo. Es malvado por disposición propia y sirve voluntariamente a Ravisin. El espejo explica su ventaja, pero solo puede usarlo mientras está activo y vinculado. Su habla druídica no implica que entienda común."
+          "descripcion": "necesita espacio para su mejor carga; es difícil derribarlo. Es malvado por disposición propia y sirve voluntariamente a Ravisin. El espejo le permite vigilar a sus presas y preparar emboscadas, pero solo puede usarlo mientras está activo y vinculado. Su habla druídica no implica que entienda común."
         }
       ]
     },
@@ -627,7 +627,7 @@
       "secretos": [
         {
           "nombre": "Debilidades y vías de resolución",
-          "descripcion": "solo existe una. Su disolución dura veinticuatro horas y no levanta la condena; vuelve en otro lugar del bosque. La fuente no ofrece un procedimiento para redimirla."
+          "descripcion": "solo existe una. Su disolución dura veinticuatro horas y no levanta la condena; vuelve en otro lugar del bosque."
         }
       ]
     },
@@ -791,11 +791,11 @@
         }
       ],
       "etiquetas": [
-        "devota de Auril",
+        "devota de auril",
         "rayo de luna",
         "despierta bestias y plantas",
         "preparada tras el sarcófago",
-        "venganza por Vurnis"
+        "venganza por vurnis"
       ],
       "rasgos": [],
       "amenazas": [
@@ -891,7 +891,7 @@
       "secretos": [
         {
           "nombre": "Debilidades y vías de resolución",
-          "descripcion": "es un aliado potencial, no un enemigo automático. Órdenes claras evitan errores; un disfraz evita alarma. No añadas maldiciones o poderes no descritos a partir de un bloque ausente. Si alcanza su límite de destrucción, se convierte en polvo definitivamente."
+          "descripcion": "es un aliado potencial, no un enemigo automático. Órdenes claras evitan errores; un disfraz evita alarma. No añadas maldiciones o poderes austera y devota de Auril; al evocar su voz, usa un tono seco y contenido a partir de un bloque ausente. Si alcanza su límite de destrucción, se convierte en polvo definitivamente."
         }
       ]
     },
@@ -927,7 +927,7 @@
         "ramas móviles",
         "bayas azules",
         "habla común",
-        "teme a Ravisin",
+        "teme a ravisin",
         "pánico al fuego"
       ],
       "rasgos": [],
@@ -1003,17 +1003,17 @@
         },
         {
           "nombre": "Corta la conversación y busca salida",
-          "descripcion": "crea [puerta cerrada]; impone [sin ayuda de Iriskree].",
+          "descripcion": "crea [puerta cerrada]; impone [sin ayuda de iriskree].",
           "consecuencias": [
             "Crea [puerta cerrada]",
-            "Impone [sin ayuda de Iriskree]"
+            "Impone [sin ayuda de iriskree]"
           ]
         }
       ],
       "secretos": [
         {
           "nombre": "Debilidades y vías de resolución",
-          "descripcion": "quiere conservar su retiro, no organizar una matanza. La discreción y una salida digna favorecen una resolución social. La fuente no describe armas envenenadas concretas en la tienda."
+          "descripcion": "quiere conservar su retiro, no organizar una matanza. La discreción y una salida digna favorecen una resolución social."
         }
       ]
     },
@@ -1056,9 +1056,9 @@
       "amenazas": [
         {
           "nombre": "Obtiene una confidencia peligrosa",
-          "descripcion": "crea [secreto en manos de Danae]; inflige [comprometido-2].",
+          "descripcion": "crea [secreto en manos de danae]; inflige [comprometido-2].",
           "consecuencias": [
-            "Crea [secreto en manos de Danae]",
+            "Crea [secreto en manos de danae]",
             "Inflige [comprometido-2]"
           ]
         },
@@ -1082,7 +1082,7 @@
       "secretos": [
         {
           "nombre": "Debilidades y vías de resolución",
-          "descripcion": "su afiliación es desconocida en las Diez Ciudades. Las desapariciones anteriores son un hecho, pero esta fuente no identifica víctimas ni detalla métodos. No toda persona curiosa se convierte automáticamente en objetivo de Szass Tam."
+          "descripcion": "su afiliación es desconocida en las Diez Ciudades. Sus anteriores objetivos han desaparecido. No toda persona curiosa se convierte automáticamente en objetivo de Szass Tam."
         }
       ]
     }
@@ -1091,14 +1091,14 @@
     {
       "slug": "emblema-de-bosque-solitario",
       "nombre": "Emblema de Bosque Solitario",
-      "etiqueta": "emblema de Bosque Solitario",
+      "etiqueta": "emblema de bosque solitario",
       "descripcion": "Campo verde bosque con dos triángulos blancos estrechos, uno descendente desde arriba y otro ascendente desde abajo, casi tocándose. Representan un carámbano y un cuerno de marfil. Las tallas antiguas de dragón, león y cabra remiten a la quimera heráldica de la familia sembiana fundadora, procedente de Urmlaspyr.",
       "imagen_en": "A heraldic emblem on a forest green field with two narrow white triangles, one descending from above and one ascending from below, almost touching. Isolated painted plaque, weathered surface, no lettering."
     },
     {
       "slug": "galletas-de-nimsy",
       "nombre": "Galletas de Nimsy",
-      "etiqueta": "galletas de Nimsy",
+      "etiqueta": "galletas de nimsy",
       "descripcion": "Galletas recién horneadas con forma de mediano; etiqueta de mochila o detalle de hospitalidad, sin efecto curativo automático. Nimsy también las lleva al Consejo.",
       "imagen_en": "A plate of small freshly baked halfling shaped cookies, golden brown, simple domestic pastry. Isolated on a neutral background, warm light, no text."
     },
@@ -1133,7 +1133,7 @@
     {
       "slug": "titulo-de-la-desvencijada",
       "nombre": "Título de La Desvencijada",
-      "etiqueta": "título de La Desvencijada",
+      "etiqueta": "título de la desvencijada",
       "descripcion": "Etiqueta de historia de la Compañía que puede convertirse en [posada restaurada] mediante trabajo y recursos. El título puede entregarse como ayuda escrita.",
       "imagen_en": "A folded parchment deed tied with simple cord, representing property of an old inn, isolated on a neutral background, no readable text."
     },
@@ -1155,7 +1155,7 @@
       "slug": "espejo-de-observacion-lunar",
       "nombre": "Espejo de observación lunar",
       "etiqueta": "espejo de observación lunar",
-      "descripcion": "Recurso fijo de E7, con rutina de visión remota mientras el símbolo lleno está iluminado. Requiere vínculo personal; otro vínculo o la muerte del alce cancelan el suyo. Destruirlo termina la magia; no puede sacarse entero por estar adherido con pegamento soberano.",
+      "descripcion": "Recurso fijo de E7, con rutina de visión remota mientras el símbolo lleno está iluminado. Requiere vínculo personal; otro vínculo o la muerte del alce cancelan el suyo. Destruirlo termina la magia; no puede sacarse entero por estar adherido con una sustancia mágica que no permite separarlo intacto.",
       "imagen_en": "An oval mirror fixed in an ornate stone frame, silver flashes along the edge, isolated object study, no people, no text."
     },
     {
@@ -1169,14 +1169,14 @@
       "slug": "puntas-de-flecha-plateadas",
       "nombre": "Puntas de flecha plateadas",
       "etiqueta": "puntas de flecha plateadas",
-      "descripcion": "Mochila; material aprovechable para fabricar o reparar munición; no se afirma que sean de plata maciza ni mágicas.",
+      "descripcion": "Mochila; material aprovechable para fabricar o reparar munición; de acabado plateado y sin propiedades mágicas.",
       "imagen_en": "Six silver colored arrowheads with simple barbs, arranged in a row, isolated on a neutral background, no text."
     },
     {
       "slug": "taza-del-pez-alado",
       "nombre": "Taza del pez alado",
       "etiqueta": "taza del pez alado",
-      "descripcion": "Mochila; pieza de madera con ese grabado; recuerdo o indicio cultural sin función mágica establecida.",
+      "descripcion": "Mochila; pieza de madera con ese grabado; recuerdo o indicio cultural sin función mágica.",
       "imagen_en": "A small wooden cup carved with a winged fish motif, weathered surface, isolated on a neutral background, no text."
     },
     {
@@ -1190,7 +1190,7 @@
       "slug": "bayas-azules-comestibles",
       "nombre": "Bayas azules comestibles",
       "etiqueta": "bayas azules comestibles",
-      "descripcion": "Mochila de provisiones normales; la fuente genera entre dos y cuarenta, con dos dados de veinte. Pueden compartirse con permiso del arbusto si se le deja vivir. Manchan los dientes.",
+      "descripcion": "Mochila de provisiones normales; hay entre dos y cuarenta; tira dos dados de veinte para determinar la cantidad. Pueden compartirse con permiso del arbusto si se le deja vivir. Manchan los dientes.",
       "imagen_en": "A small handful of glossy blue berries with a faint frost, isolated on a neutral background, no text."
     },
     {
@@ -1211,7 +1211,7 @@
       "slug": "pocion-de-vitalidad",
       "nombre": "Poción de vitalidad",
       "etiqueta": "vigor restaurador",
-      "descripcion": "Mochila consumible. Su rutina elimina [agotado] y ayuda a recuperarse de estados de veneno o enfermedad, según su naturaleza; permite aprovechar mejor una recuperación posterior. La duración y los detalles no figuran en el fragmento: fija su alcance antes de consumirla y no la conviertas en resurrección ni curación ilimitada.",
+      "descripcion": "Mochila consumible. Su efecto elimina los estados de agotamiento y ayuda a recuperarse de estados de veneno o enfermedad, según su naturaleza; permite aprovechar mejor una recuperación posterior. Fija su duración y alcance antes de consumirla y no la conviertas en resurrección ni curación ilimitada.",
       "imagen_en": "A small glass vial filled with warm amber liquid, cork stopper, isolated on a neutral background, no text."
     }
   ],

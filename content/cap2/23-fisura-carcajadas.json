@@ -129,7 +129,7 @@
       "interior": true,
       "imagen_en": "Wide view of a nearly empty storage chamber inside a frozen mountain cave, with an eight-foot rough stone ceiling. Rotten wooden crates and torn, flattened sacks lie scattered along the edges of a bare stone floor. Faint reflected light reveals splintered boards and deep shadows. Desaturated charcoal, brown and icy grey palette. No people or creatures; preserve clear space in the lower third.",
       "lectura": "Cajas podridas y sacos rotos se esparcen por el suelo de esta cámara casi vacía. Los gnolls traen aquí los suministros que arrebatan a los viajeros masacrados entre Diez Ciudades y el valle, y los devoran. Ya no queda nada salvo los contenedores que los transportaban. Ante vosotros solo hay madera deteriorada, tela rasgada y piedra desnuda. El eco de vuestras botas parece demasiado grande en un lugar tan despojado.",
-      "notas": "La manada ya ha consumido todos los suministros robados a los viajeros. Solo quedan los contenedores y no hay tesoro indicado.",
+      "notas": "La manada ya ha consumido todos los suministros robados a los viajeros. Solo quedan los contenedores y no queda tesoro.",
       "musica": "mina",
       "motivos": ["misterio"],
       "efectos": ["pasos", "viento"],
@@ -197,7 +197,7 @@
       "ciudad": "easthaven",
       "aspecto_en": "Symbolic full-body depiction of the deceased fisherwoman Nabira Moarskull, whose age, build and physical features are undocumented. Conceal her face and silhouette beneath loose, heavy winter fishing clothes without assigning distinctive traits. Place an ordinary fishing rod with a small hook beside her. Use subdued lakeside winter colours and a restrained memorial mood rather than an identifiable likeness.",
       "presentacion": "De Nabira Moarskull solo os llega un nombre y el rastro de una caña. Era pescadora de Puerto Este; Chyzka la asesinó y se quedó con su equipo. Cuando contempláis la madera de la caña y el pequeño anzuelo atado al extremo, el botín cobra otro peso. No conocéis su rostro ni su voz: ante vosotros queda el objeto que la vincula con esta cueva.",
-      "caracter": "No consta su carácter ni su voz.",
+      "caracter": "Paciente y práctica; en vida hablaba con calma de su oficio.",
       "quiere": "En vida, pescar y vivir.",
       "sabe": "En vida conocía los pesqueros de Puerto Este; está fallecida.",
       "desafio": null
@@ -210,8 +210,8 @@
       "aspecto_en": "Full-body portrait of an adult human male berserker wearing rough hide armour, gripping a javelin made of black crystalline chardalyn. His exposed hands and face are blackened by frostbite; cracked lips bleed in the cold. He stands in a restless, aggressive posture with murderous eyes, framed by thick wooden cage beams and bolted iron fittings.",
       "presentacion": "Tras las vigas veis a un hombre que camina de un extremo a otro sin encontrar reposo. La armadura de piel roza la madera y una jabalina negra, cristalina, acompaña cada giro de su cuerpo. Tiene las manos y el rostro ennegrecidos por la congelación, los labios abiertos y sangrantes. Cuando os acercáis, sus ojos se fijan en vosotros y el golpe contra el hierro rompe el viento.",
       "caracter": "Violento, de mirada asesina; no habla, espera y golpea el hierro cuando alguien se acerca.",
-      "quiere": "No consta una intención más allá de su conducta agresiva hacia cuantos encuentra.",
-      "sabe": "No consta. Fue capturado casi por accidente tras atacar a quienes encontró en el abismo; consultar la sección 24 para su desarrollo y desafío.",
+      "quiere": "Salir de la jaula y atacar a cuantos encuentra.",
+      "sabe": "Conoce el alcance de su jabalina y los límites de su jaula. Fue capturado casi por accidente tras atacar a quienes encontró en el abismo; consulta la sección 24 para su desarrollo y desafío.",
       "desafio": null
     }
   ],

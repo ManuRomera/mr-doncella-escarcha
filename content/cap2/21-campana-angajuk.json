@@ -9,13 +9,32 @@
       "interior": false,
       "imagen_en": "Wide establishing view of an empty frozen wilderness swallowed by a blinding blue snowstorm. Swirling snow erases shallow tracks almost immediately. Cracked ice and wind-bent trees emerge faintly through the whiteout, with deep drifts concealing the terrain. Cold blue, slate grey and chalk white palette, diffuse twilight. No people or creatures. Keep the lower third open for overlays.",
       "lectura": "El viento os corta la cara y la nieve os ciega. Entre los remolinos apenas distinguís unas huellas que se borran al instante y dos ojos azul pálido que os observan desde debajo de la nieve. El silencio se rompe solo con el crujido del hielo y un gruñido grave. No sabéis si hay uno o varios, ni si os han visto ya. La ventisca os empuja hacia la nada, y cada paso cuesta el doble. Algo se mueve a vuestra izquierda, y el olor a carne fría llega antes que el peligro.",
-      "notas": "Tira 1d6: 1–3 aparecen 1d4 yetis; 4–5, un yeti abominable; 6, un yeti inmaduro perdido. Enfrenta percepción a sigilo, con ventaja por el camuflaje de nieve; los yetis detectan presas por el olfato. Los adultos guardan cabezas de humanoides como trofeos, mientras que el pequeño puede calmarse con comida o compasión. Los Héroes pueden huir, esconderse, combatir o ayudar a la cría.",
+      "notas": "Tira 1d6: 1–3 aparecen 1d4 yetis; 4–5, un yeti abominable; 6, un yeti inmaduro perdido. Los yetis se esconden bajo la nieve y detectan presas por el olfato. Al intentar descubrirlos o pasar inadvertidos ante ellos, [camuflaje de nieve] y [olfato agudo] cuentan como etiquetas en contra cuando corresponda. Un fallo puede crear [yeti emboscado] o infligir [asustado-2]. Los adultos guardan cabezas de humanoides como trofeos, mientras que el pequeño puede calmarse con comida o compasión. Los Héroes pueden huir, esconderse, combatir o ayudar a la cría.",
       "musica": "camino",
-      "motivos": ["ventisca-m", "bestia", "tension"],
-      "efectos": ["ventisca", "viento", "hielo-cruje", "rugido"],
+      "motivos": [
+        "ventisca-m",
+        "bestia",
+        "tension"
+      ],
+      "efectos": [
+        "ventisca",
+        "viento",
+        "hielo-cruje",
+        "rugido"
+      ],
       "ambiente": "dim",
-      "etiquetas": ["ventisca", "nieve profunda", "visibilidad nula", "yeti emboscado"],
-      "figuras": ["yeti-del-valle", "yeti-abominable", "yeti-inmaduro", "ventisca-del-valle"]
+      "etiquetas": [
+        "ventisca",
+        "nieve profunda",
+        "visibilidad nula",
+        "yeti emboscado"
+      ],
+      "figuras": [
+        "yeti-del-valle",
+        "yeti-abominable",
+        "yeti-inmaduro",
+        "ventisca-del-valle"
+      ]
     },
     {
       "slug": "embarcadero-congelado",
@@ -24,12 +43,22 @@
       "interior": false,
       "imagen_en": "Wide view of an empty wooden jetty extending ten feet over black seawater, its planks encased in glossy ice under a grey sky. A rowing boat is frozen against the dock. Beyond it, a white sheet of sea ice leads toward an ice-covered natural rock arch. Salt-stained timber, charcoal water and muted silver light. No people or creatures; leave the lower third uncluttered.",
       "lectura": "El muelle de madera se extiende apenas tres metros sobre el agua negra, cubierto de una costra de hielo que refleja la luz gris del cielo. Un bote de remos yace atascado contra el embarcadero, inútil, congelado en su lugar. Más allá, la superficie del mar se ha endurecido en un manto blanco que se extiende hasta el arco rocoso. El viento huele a sal y a algas muertas. Cada paso sobre el hielo es un desafío: un resbalón y acabaréis en el agua helada.",
-      "notas": "El muelle es resbaladizo y una caída al agua impone empapado-2 y helado-2. No hace falta liberar el bote: se puede caminar sobre el hielo hasta la campana de A3.",
+      "notas": "El muelle es resbaladizo y una caída al agua impone [empapado-2] y [helado-2]. No hace falta liberar el bote: se puede caminar sobre el hielo hasta la campana.",
       "musica": "lago",
-      "motivos": ["tension"],
-      "efectos": ["chapuzon", "hielo-cruje", "viento"],
+      "motivos": [
+        "tension"
+      ],
+      "efectos": [
+        "chapuzon",
+        "hielo-cruje",
+        "viento"
+      ],
       "ambiente": "dim",
-      "etiquetas": ["embarcadero congelado", "hielo resbaladizo", "mar de hielo"],
+      "etiquetas": [
+        "embarcadero congelado",
+        "hielo resbaladizo",
+        "mar de hielo"
+      ],
       "figuras": []
     },
     {
@@ -39,13 +68,27 @@
       "interior": true,
       "imagen_en": "Wide interior view of a low domed stone hut overlooking an icy bay through a swollen half-open door. Dead barnacles and ice cling to the doorway and rusty hinges. Thick frost coats a simple bed, knitted blanket and empty hearth containing worm-eaten firewood. Still grey daylight, cold stone textures and subdued brown timber. No people, ghosts or creatures. Leave the lower third clear.",
       "lectura": "La cabaña de piedra, abovedada y baja, da a la bahía como un animal dormido. La puerta, hinchada y cubierta de hielo y percebes muertos, cuelga entreabierta sobre bisagras oxidadas. Dentro, una escarcha gruesa cubre todo: la cama, la manta de punto, el hogar vacío. El aire está quieto y huele a piedra húmeda. En el hogar aún hay leña, aunque roída por gusanos. Es un refugio humilde, pero esta noche puede salvaros del frío.",
-      "notas": "Anga vivió aquí para visitar a Angajuk, pero la cabaña lleva décadas vacía. La leña infestada de gusanos es segura de quemar: hay seis paquetes de treinta libras, suficientes para tres días. El refugio permite descansar en el campamento y encontrar pistas sobre Anga.",
+      "notas": "Anga vivió aquí para visitar a Angajuk, pero la cabaña lleva décadas vacía. La leña infestada de gusanos es segura de quemar: hay seis paquetes de quince kilogramos, suficientes para tres días. El refugio permite descansar en el campamento y encontrar pistas sobre Anga.",
       "musica": "noche",
-      "motivos": ["misterio", "esperanza"],
-      "efectos": ["hogar", "puerta", "viento"],
+      "motivos": [
+        "misterio",
+        "esperanza"
+      ],
+      "efectos": [
+        "hogar",
+        "puerta",
+        "viento"
+      ],
       "ambiente": "dim",
-      "etiquetas": ["cabaña de Anga", "refugio", "leña", "escarcha"],
-      "figuras": ["anga-druida"]
+      "etiquetas": [
+        "cabaña de Anga",
+        "refugio",
+        "leña",
+        "escarcha"
+      ],
+      "figuras": [
+        "anga-druida"
+      ]
     },
     {
       "slug": "campana-de-angajuk",
@@ -53,14 +96,31 @@
       "ciudad": "tundra",
       "interior": false,
       "imagen_en": "Wide establishing view of a short empty wooden pier on a frozen grey sea. A ten-foot timber post supports a copper bell one foot across, with its rope and clapper clearly visible. Ice rims the pilings and a heavy overcast horizon stretches beyond an icy rock arch. Weathered wood, oxidized copper, pale ice and slate water. No people or animals. Keep the lower third open.",
-      "lectura": "Un poste de madera de tres metros sostiene una campana de cobre de unos treinta centímetros de diámetro. La cuerda y el badajo esperan vuestra mano. El mar se extiende, gris y pesado, hasta el horizonte de hielo. El viento arrastra un graznido lejano. Cuando hagáis sonar la campana, el sonido resonará sobre el agua y algo vendrá: primero las sombras en el cielo, después una presencia enorme bajo la superficie. La paciencia será vuestra mejor arma.",
-      "notas": "La campana atrae a tres buitres gigantes que atacan salvo que reciban carne; Angajuk llega treinta minutos después con 1d4 narvales o delfines. Habla común con voz profunda y debe ganarse su confianza mediante un pulpo, la amistad de sus compañeros o su defensa frente a los cazadores. Si acepta el destino, lleva a ocho criaturas medianas con equipo y hasta mil libras de carga a la isla; si rechaza la petición, se sumerge y se aleja.",
+      "lectura": "Ante vosotros, un poste de madera de tres metros sostiene una campana de cobre de unos 0,3 metros de diámetro. Veis la cuerda colgando junto al badajo, sobre las tablas del corto muelle. El hielo rodea los apoyos y el mar gris se pierde bajo un cielo pesado. Os llega un graznido lejano entre las ráfagas de viento. La superficie oscura apenas se mueve junto a la madera; más allá distinguís el arco rocoso cubierto de hielo. La cuerda queda a vuestro alcance.",
+      "notas": "La campana atrae a tres buitres gigantes que atacan salvo que reciban carne; Angajuk llega treinta minutos después con 1d4 narvales o delfines. Habla común con voz profunda; los Héroes deben ganarse su confianza mediante un pulpo, la amistad de sus compañeros o su defensa frente a los cazadores. Si acepta el destino, lleva a ocho pasajeros con equipo y hasta quinientos kilogramos de carga a la isla; si rechaza la petición, se sumerge y se aleja.",
       "musica": "lago",
-      "motivos": ["misterio", "amenaza"],
-      "efectos": ["campana", "alas", "chapuzon", "viento"],
+      "motivos": [
+        "misterio",
+        "amenaza"
+      ],
+      "efectos": [
+        "campana",
+        "alas",
+        "chapuzon",
+        "viento"
+      ],
       "ambiente": "dim",
-      "etiquetas": ["campana de cobre", "muelle", "mar de hielo", "buitres gigantes"],
-      "figuras": ["buitres-gigantes", "angajuk-ballena", "narvales-y-delfines"]
+      "etiquetas": [
+        "campana de cobre",
+        "muelle",
+        "mar de hielo",
+        "buitres gigantes"
+      ],
+      "figuras": [
+        "buitres-gigantes",
+        "angajuk-ballena",
+        "narvales-y-delfines"
+      ]
     },
     {
       "slug": "agujero-en-hielo",
@@ -68,14 +128,28 @@
       "ciudad": "tundra",
       "interior": false,
       "imagen_en": "Wide view of an empty opening in thick sea ice beneath an ice-covered rock arch. Dark cold water ripples between freshly fractured white edges, with suspended sea spray catching the grey daylight. A short weathered landing stands nearby, ready for boarding. Vast frozen bay, silver mist and deep navy water, quiet and expectant. No people, whales or other creatures. Leave the lower third open.",
-      "lectura": "El hielo se rompe con un estruendo sordo y del agujero emerge un chorro de agua de mar. Un ojo antiguo y oscuro os mira desde la superficie, y el lomo de la ballena se eleva como una isla. El bote atado a su espalda se asienta a vuestra altura, invitándoos a subir. Cuando la ballena se sumerja, una burbuja mágica envolverá la embarcación, y respiraréis bajo el agua como si estuvierais en tierra firme. El mar oscuro espera.",
+      "lectura": "Oís un estruendo sordo y veis cómo se abre el hielo. Del agujero brota un chorro de agua de mar que os salpica con gotas heladas. Un ojo antiguo y oscuro os mira desde la superficie, mientras el lomo de la ballena se eleva como una isla. Sobre su espalda distinguís un bote sujeto con cuerdas. La embarcación queda a vuestra altura y se mece suavemente. Os llega el resoplido de Angajuk entre los crujidos de los bordes del agujero y el chapoteo del agua negra.",
       "notas": "Angajuk se asienta para permitir el embarque y, al sumergirse, activa la burbuja submarina del bote. Permite respirar cómodamente, deja salir a sus ocupantes y no permite que nada entre desde fuera. La burbuja es mágica e indisoluble, y el viaje evita a los espías de Auril.",
       "musica": "lago",
-      "motivos": ["esperanza", "misterio"],
-      "efectos": ["hielo-rompe", "chapuzon", "lago-sfx"],
+      "motivos": [
+        "esperanza",
+        "misterio"
+      ],
+      "efectos": [
+        "hielo-rompe",
+        "chapuzon",
+        "lago-sfx"
+      ],
       "ambiente": "dim",
-      "etiquetas": ["agujero en el hielo", "burbuja submarina", "Angajuk"],
-      "figuras": ["angajuk-ballena", "narvales-y-delfines"]
+      "etiquetas": [
+        "agujero en el hielo",
+        "burbuja submarina",
+        "Angajuk"
+      ],
+      "figuras": [
+        "angajuk-ballena",
+        "narvales-y-delfines"
+      ]
     },
     {
       "slug": "caza-de-ballenas",
@@ -83,14 +157,31 @@
       "ciudad": "tundra",
       "interior": false,
       "imagen_en": "Wide view of an empty icy whale anchorage beneath a frozen natural rock arch. Four heavy oil barrels stand on scraped sea ice beside an open water hole, with rolling tracks leading from the shore. A short wooden pier and copper bell sit in the background. Harsh grey light, dark oily stains, brown staves and blue-white ice. No people or creatures. Keep the lower third clear.",
-      "lectura": "Antes de que la ballena aparezca, llegan otros. Hombres vestidos para el frío, con barriles pesados que ruedan sobre el hielo. Su líder, de pelo gris, os sonríe y os ofrece una parte del botín: ámbar gris, el tesoro del estómago de un cachalote. Pero su plan es verter aceite en el agua y envenenar todo lo que viva en ella. El hielo cruje bajo sus botas mientras esperan vuestra respuesta, y el tiempo se acorta.",
+      "lectura": "Veis acercarse a varios hombres abrigados hasta el cuello que empujan barriles sobre el hielo. Oís el roce de la madera y el crujido bajo sus botas, mientras os alcanza un olor a aceite rancio. El hombre de pelo gris que los encabeza os sonríe y os ofrece una parte del ámbar gris que busca en la ballena. Sus acompañantes detienen los barriles cerca del agujero. Entre las ráfagas distinguís sus voces ásperas; las miradas vuelven hacia vosotros mientras el hombre espera vuestra respuesta.",
       "notas": "Este encuentro opcional sucede poco después de la llegada de los Héroes y antes de la aparición de Angajuk. Jendren Uruth y cuatro matones de Aguas Profundas traen cuatro barriles de aceite para contaminar el agujero y ofrecen una parte igual del ámbar gris. Defender a la ballena gana su confianza; los barriles también pueden incendiarse.",
       "musica": "lago",
-      "motivos": ["tension", "amenaza", "batalla"],
-      "efectos": ["viento", "pasos", "hielo-cruje"],
+      "motivos": [
+        "tension",
+        "amenaza",
+        "batalla"
+      ],
+      "efectos": [
+        "viento",
+        "pasos",
+        "hielo-cruje"
+      ],
       "ambiente": "dim",
-      "etiquetas": ["cazadores de ballenas", "barriles de aceite", "contaminación", "oferta de ámbar gris"],
-      "figuras": ["jendren-uruth", "cazadores-balleneros", "angajuk-ballena"]
+      "etiquetas": [
+        "cazadores de ballenas",
+        "barriles de aceite",
+        "contaminación",
+        "oferta de ámbar gris"
+      ],
+      "figuras": [
+        "jendren-uruth",
+        "cazadores-balleneros",
+        "angajuk-ballena"
+      ]
     }
   ],
   "pnj": [
@@ -103,7 +194,7 @@
       "presentacion": "Sentís cómo el agua se levanta antes de distinguir su silueta. Un lomo oscuro, surcado de cicatrices, rompe la superficie junto a vosotros, y un ojo antiguo se detiene en vuestras caras. Sobre su espalda descansa un bote. Cuando os habla, su voz profunda resuena en la madera y en el hielo, con la calma de quien lleva dos siglos escuchando el mar.",
       "caracter": "Sereno, paciente e inteligente; habla común con voz profunda, resonante y de leve eco.",
       "quiere": "Pulpos, compañía de narvales y delfines, y seguridad para su fondeadero.",
-      "sabe": "La ubicación de la isla de la Doncella de Hielo, rutas bajo el hielo e historias de Anga y su magia.",
+      "sabe": "La ubicación de la isla de la Doncella de la Escarcha, rutas bajo el hielo e historias de Anga y su magia.",
       "desafio": null
     },
     {
@@ -161,108 +252,490 @@
       "nombre": "Yeti",
       "nivel": 2,
       "poderio": [],
-      "roles": ["Merodeador", "Bruto"],
+      "roles": [
+        "Merodeador",
+        "Bruto"
+      ],
       "aspecto_en": "Full-body portrait of an adult yeti crouching in deep snow, its powerful limbs covered in dense white fur. Pale blue eyes peer from a snow-dusted face above sharp teeth, and long claws press into the ice. Broad muscular build and a predatory, watchful expression. Blowing snow obscures its outline in cold blue twilight, emphasizing natural camouflage.",
       "descripcion": "Depredador que se oculta bajo la nieve y localiza presas por el olfato. Pueden aparecer entre uno y cuatro. Los adultos que devoran humanoides conservan sus cabezas como trofeos.",
-      "limites": [{"nombre": "herido", "valor": 4, "consecuencia": "El yeti queda fuera de combate."}, {"nombre": "congelado", "valor": 3, "consecuencia": "El frío lo inmoviliza y lo deja fuera del enfrentamiento."}],
-      "etiquetas": ["camuflaje de nieve", "olfato agudo", "pelaje blanco", "garras afiladas", "helado-1"],
-      "rasgos": [{"nombre": "Camuflaje y olfato", "descripcion": "Tiene ventaja al ocultarse en la nieve y detecta presas por el olor."}, {"nombre": "Aura fría", "descripcion": "Posee el estado propio helado-1."}],
-      "amenazas": [{"nombre": "Emboscada bajo la nieve", "descripcion": "Surge de su escondite cuando la presa se acerca.", "consecuencias": ["Crea [yeti emboscado]", "Inflige [asustado-2]"]}, {"nombre": "Garras", "descripcion": "Desgarra con sus garras afiladas.", "consecuencias": ["Inflige [herido-2]"]}, {"nombre": "Mirada heladora", "descripcion": "Fija una mirada sobrenaturalmente fría en su presa.", "consecuencias": ["Inflige [paralizado-2] o [helado-3]"]}],
-      "secretos": [{"nombre": "Miedo al fuego", "descripcion": "El fuego le hace perder camuflaje de nieve y sufrir asustado-2."}, {"nombre": "Crías apaciguables", "descripcion": "Un ejemplar joven puede calmarse con comida."}]
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 4,
+          "consecuencia": "El yeti queda fuera de combate."
+        },
+        {
+          "nombre": "congelado",
+          "valor": 3,
+          "consecuencia": "El frío lo inmoviliza y lo deja fuera del enfrentamiento."
+        }
+      ],
+      "etiquetas": [
+        "camuflaje de nieve",
+        "olfato agudo",
+        "pelaje blanco",
+        "garras afiladas",
+        "helado-1"
+      ],
+      "rasgos": [
+        {
+          "nombre": "Camuflaje y olfato",
+          "descripcion": "[camuflaje de nieve] cuenta como etiqueta a favor al ocultarse; [olfato agudo] le permite detectar presas por el olor."
+        },
+        {
+          "nombre": "Aura fría",
+          "descripcion": "Posee el estado propio [helado-1]."
+        }
+      ],
+      "amenazas": [
+        {
+          "nombre": "Emboscada bajo la nieve",
+          "descripcion": "Surge de su escondite cuando la presa se acerca.",
+          "consecuencias": [
+            "Crea [yeti emboscado]",
+            "Inflige [asustado-2]"
+          ]
+        },
+        {
+          "nombre": "Garras",
+          "descripcion": "Desgarra con sus garras afiladas.",
+          "consecuencias": [
+            "Inflige [herido-2]"
+          ]
+        },
+        {
+          "nombre": "Mirada heladora",
+          "descripcion": "Fija una mirada sobrenaturalmente fría en su presa.",
+          "consecuencias": [
+            "Inflige [paralizado-2] o [helado-3]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Miedo al fuego",
+          "descripcion": "El fuego le hace perder [camuflaje de nieve] y sufrir [asustado-2]."
+        },
+        {
+          "nombre": "Crías apaciguables",
+          "descripcion": "Un ejemplar joven puede calmarse con comida."
+        }
+      ]
     },
     {
       "slug": "yeti-abominable",
       "nombre": "Yeti abominable",
       "nivel": 4,
-      "poderio": [{"nivel": "greatness", "aspecto": "Tamaño enorme, fuerza brutal y aliento helado devastador."}],
-      "roles": ["Bruto", "Controlador"],
+      "poderio": [
+        {
+          "nivel": "greatness",
+          "aspecto": "Tamaño enorme, fuerza brutal y aliento helado devastador."
+        }
+      ],
+      "roles": [
+        "Bruto",
+        "Controlador"
+      ],
       "aspecto_en": "Full-body portrait of an immense abominable yeti towering over snowdrifts, with massive shoulders, powerful clawed hands and thick ice-caked white fur. Pale eyes burn through a curtain of snow, while freezing breath spills from its open jaws. One hand grips a rough rock. Brutal predatory expression, storm-blue lighting and a monumental silhouette against the empty frozen wilderness.",
       "descripcion": "Una bestia enorme que aprovecha la ventisca para ocultarse y encontrar presas por el olfato. Su aliento congela un área entera. Conserva cabezas de humanoides devorados como trofeos macabros.",
-      "limites": [{"nombre": "herido", "valor": 6, "consecuencia": "La bestia queda fuera de combate."}, {"nombre": "congelado", "valor": 4, "consecuencia": "Queda inmovilizada por el frío."}],
-      "etiquetas": ["enorme", "camuflaje de nieve", "olfato agudo", "aliento helado", "fuerza brutal", "helado-2"],
-      "rasgos": [{"nombre": "Aura fría", "descripcion": "Posee el estado propio helado-2."}, {"nombre": "Cazador de nieve", "descripcion": "Se oculta bajo la nieve con ventaja y detecta presas por el olfato."}],
-      "amenazas": [{"nombre": "Aliento helado", "descripcion": "Exhala frío sobre una zona.", "consecuencias": ["Inflige [helado-4] a todos en el área"]}, {"nombre": "Garras", "descripcion": "Golpea con fuerza brutal.", "consecuencias": ["Inflige [herido-3]"]}, {"nombre": "Lanza rocas", "descripcion": "Arroja una roca contra una presa distante.", "consecuencias": ["Inflige [herido-2] a distancia"]}, {"nombre": "Muerde cabezas", "descripcion": "Exhibe su costumbre de guardar cabezas como trofeos.", "consecuencias": ["Crea [trofeo macabro]", "Inflige [aterrorizado-2]"]}],
-      "secretos": [{"nombre": "Vulnerable al fuego", "descripcion": "El fuego le hace perder camuflaje de nieve; si recibe daño de fuego sufre asustado-2."}]
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 6,
+          "consecuencia": "La bestia queda fuera de combate."
+        },
+        {
+          "nombre": "congelado",
+          "valor": 4,
+          "consecuencia": "Queda inmovilizada por el frío."
+        }
+      ],
+      "etiquetas": [
+        "enorme",
+        "camuflaje de nieve",
+        "olfato agudo",
+        "aliento helado",
+        "fuerza brutal",
+        "helado-2"
+      ],
+      "rasgos": [
+        {
+          "nombre": "Aura fría",
+          "descripcion": "Posee el estado propio [helado-2]."
+        },
+        {
+          "nombre": "Cazador de nieve",
+          "descripcion": "[camuflaje de nieve] cuenta como etiqueta a favor al ocultarse; [olfato agudo] le permite detectar presas por el olor."
+        }
+      ],
+      "amenazas": [
+        {
+          "nombre": "Aliento helado",
+          "descripcion": "Exhala frío sobre una zona.",
+          "consecuencias": [
+            "Inflige [helado-4] a todos en el área"
+          ]
+        },
+        {
+          "nombre": "Garras",
+          "descripcion": "Golpea con fuerza brutal.",
+          "consecuencias": [
+            "Inflige [herido-3]"
+          ]
+        },
+        {
+          "nombre": "Lanza rocas",
+          "descripcion": "Arroja una roca contra una presa distante.",
+          "consecuencias": [
+            "Inflige [herido-2] a distancia"
+          ]
+        },
+        {
+          "nombre": "Muerde cabezas",
+          "descripcion": "Exhibe su costumbre de guardar cabezas como trofeos.",
+          "consecuencias": [
+            "Crea [trofeo macabro]",
+            "Inflige [aterrorizado-2]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Vulnerable al fuego",
+          "descripcion": "El fuego le hace perder [camuflaje de nieve]; si recibe daño de fuego sufre [asustado-2]."
+        }
+      ]
     },
     {
       "slug": "yeti-inmaduro",
       "nombre": "Yeti inmaduro",
       "nivel": 1,
       "poderio": [],
-      "roles": ["Adversario"],
+      "roles": [
+        "Adversario"
+      ],
       "aspecto_en": "Full-body portrait of a young yeti lost in a snowstorm, smaller and rounder than an adult but still equipped with sharp little claws. Thick white fur blends into the surrounding drifts. Its pale eyes and hunched posture show confusion and distress rather than hunting intent. Snow clings to its muzzle and limbs under soft blue-grey winter light.",
       "descripcion": "Una cría separada de sus padres y perdida entre la nieve. Puede calmarse con comida o compasión y convertirse en aliada.",
-      "limites": [{"nombre": "herido", "valor": 3, "consecuencia": "La cría queda fuera de combate."}],
-      "etiquetas": ["joven", "perdido", "camuflaje de nieve"],
-      "rasgos": [{"nombre": "Cría perdida", "descripcion": "No combate si se la calma con comida o compasión."}],
-      "amenazas": [{"nombre": "Garras", "descripcion": "Se defiende con sus garras.", "consecuencias": ["Inflige [herido-1]"]}, {"nombre": "Llanto de cría", "descripcion": "Su llanto resuena entre las ráfagas de nieve.", "consecuencias": ["Crea [señuelo en la ventisca]", "Inflige [confundido-1]"]}],
-      "secretos": [{"nombre": "Aliado posible", "descripcion": "Ayudarlo puede otorgar la etiqueta de aliado yeti huérfano y un hito de Gesta."}]
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 3,
+          "consecuencia": "La cría queda fuera de combate."
+        }
+      ],
+      "etiquetas": [
+        "joven",
+        "perdido",
+        "camuflaje de nieve"
+      ],
+      "rasgos": [
+        {
+          "nombre": "Cría perdida",
+          "descripcion": "No combate si se la calma con comida o compasión."
+        }
+      ],
+      "amenazas": [
+        {
+          "nombre": "Garras",
+          "descripcion": "Se defiende con sus garras.",
+          "consecuencias": [
+            "Inflige [herido-1]"
+          ]
+        },
+        {
+          "nombre": "Llanto de cría",
+          "descripcion": "Su llanto resuena entre las ráfagas de nieve.",
+          "consecuencias": [
+            "Crea [señuelo en la ventisca]",
+            "Inflige [confundido-1]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Aliado posible",
+          "descripcion": "Ayudarlo puede otorgar la etiqueta de aliado [yeti huérfano] y un hito de Gesta."
+        }
+      ]
     },
     {
       "slug": "buitres-gigantes",
       "nombre": "Banda de buitres gigantes",
       "nivel": 1,
       "poderio": [],
-      "roles": ["Merodeador"],
+      "roles": [
+        "Merodeador"
+      ],
       "aspecto_en": "Full-body group portrait of three giant vultures on icy coastal rocks, their complete wings and clawed feet visible. Heavy hooked beaks, bare wrinkled heads and dark ragged feathers suggest scavengers hardened by the cold. One spreads its broad wings while the others lean forward aggressively. Grey sea light, charcoal plumage and pale frost create a stark northern palette.",
       "descripcion": "Tres carroñeros gigantes acuden al sonido de la campana. Atacan en grupo, pero una ofrenda de carne evita el combate.",
-      "limites": [{"nombre": "herido", "valor": 3, "consecuencia": "La banda queda derrotada."}],
-      "etiquetas": ["volador", "carroñero", "agresivo en grupo"],
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 3,
+          "consecuencia": "La banda queda derrotada."
+        }
+      ],
+      "etiquetas": [
+        "volador",
+        "carroñero",
+        "agresivo en grupo"
+      ],
       "rasgos": [],
-      "amenazas": [{"nombre": "Picotazo", "descripcion": "Atacan con sus picos curvos.", "consecuencias": ["Inflige [herido-2]"]}, {"nombre": "Roba comida", "descripcion": "Arrebatan las provisiones a su alcance.", "consecuencias": ["Elimina la etiqueta de mochila [carne]"]}, {"nombre": "Acoso", "descripcion": "Revolotean y hostigan a los Héroes.", "consecuencias": ["Inflige [asustado-1]"]}],
-      "secretos": [{"nombre": "Carne o retirada", "descripcion": "Se calman al recibir carne y huyen si reciben herido-2 o más."}]
+      "amenazas": [
+        {
+          "nombre": "Picotazo",
+          "descripcion": "Atacan con sus picos curvos.",
+          "consecuencias": [
+            "Inflige [herido-2]"
+          ]
+        },
+        {
+          "nombre": "Roba comida",
+          "descripcion": "Arrebatan las provisiones a su alcance.",
+          "consecuencias": [
+            "Elimina la etiqueta de mochila [carne]"
+          ]
+        },
+        {
+          "nombre": "Acoso",
+          "descripcion": "Revolotean y hostigan a los Héroes.",
+          "consecuencias": [
+            "Inflige [asustado-1]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Carne o retirada",
+          "descripcion": "Se calman al recibir carne y huyen si reciben [herido-2] o más."
+        }
+      ]
     },
     {
       "slug": "jendren-ballenero",
       "nombre": "Jendren Uruth",
       "nivel": 1,
       "poderio": [],
-      "roles": ["Adversario", "Apoyo"],
+      "roles": [
+        "Adversario",
+        "Apoyo"
+      ],
       "aspecto_en": "Full-body portrait of an older human whaling leader with grey hair, weathered features and a calculating merchant's smile. Thick winter garments and heavy boots protect him against coastal frost. He carries a practical weapon and rests a gloved hand on a wooden oil barrel. Upright confident stance, cold grey light, restrained brown leather and wool textures.",
       "descripcion": "Jendren dirige a cuatro matones de Aguas Profundas. Intenta reclutar a los Héroes ofreciéndoles una parte igual del ámbar gris antes de verter aceite en el agua.",
-      "limites": [{"nombre": "herido", "valor": 4, "consecuencia": "Jendren queda fuera de combate."}],
-      "etiquetas": ["líder", "cazador de ballenas", "armado", "astuto"],
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 4,
+          "consecuencia": "Jendren queda fuera de combate."
+        }
+      ],
+      "etiquetas": [
+        "líder",
+        "cazador de ballenas",
+        "armado",
+        "astuto"
+      ],
       "rasgos": [],
-      "amenazas": [{"nombre": "Recluta", "descripcion": "Ofrece una parte del botín para obtener apoyo.", "consecuencias": ["Crea [oferta de ámbar gris]"]}, {"nombre": "Ataca", "descripcion": "Usa su arma contra quien se oponga.", "consecuencias": ["Inflige [herido-2]"]}, {"nombre": "Vierte aceite", "descripcion": "Contamina el agua del fondeadero.", "consecuencias": ["Inflige [contaminado-3] al agua"]}],
-      "secretos": [{"nombre": "Codicia negociable", "descripcion": "Se puede negociar con él; se rinde si su banda cae."}]
+      "amenazas": [
+        {
+          "nombre": "Recluta",
+          "descripcion": "Ofrece una parte del botín para obtener apoyo.",
+          "consecuencias": [
+            "Crea [oferta de ámbar gris]"
+          ]
+        },
+        {
+          "nombre": "Ataca",
+          "descripcion": "Usa su arma contra quien se oponga.",
+          "consecuencias": [
+            "Inflige [herido-2]"
+          ]
+        },
+        {
+          "nombre": "Vierte aceite",
+          "descripcion": "Contamina el agua del fondeadero.",
+          "consecuencias": [
+            "Inflige [contaminado-3] al agua"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Codicia negociable",
+          "descripcion": "Se puede negociar con él; se rinde si su banda cae."
+        }
+      ]
     },
     {
       "slug": "banda-cazadores-ballenas",
       "nombre": "Banda de cazadores de ballenas",
       "nivel": 2,
       "poderio": [],
-      "roles": ["Adversario", "Bruto"],
+      "roles": [
+        "Adversario",
+        "Bruto"
+      ],
       "aspecto_en": "Full-body group portrait of five human whalers from a southern port, led by an older grey-haired man. Rugged men in heavy winter clothing carry practical weapons and stand beside four wooden oil barrels on sea ice. Frost marks their boots and coats. Greedy, hard expressions and compact group posture under flat grey coastal light, brown wool and dark iron.",
       "descripcion": "El conjunto de la banda suma cinco humanos: Jendren y sus cuatro acompañantes. Traen cuatro barriles de aceite para envenenar a las criaturas del fondeadero. Usa este perfil para resolver al grupo, evitando contar a Jendren como un sexto cazador.",
-      "limites": [{"nombre": "herido", "valor": 5, "consecuencia": "La banda queda derrotada y sus miembros huyen o se rinden."}],
-      "etiquetas": ["armados", "en grupo", "cazadores de ballenas", "resistentes al frío"],
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 5,
+          "consecuencia": "La banda queda derrotada y sus miembros huyen o se rinden."
+        }
+      ],
+      "etiquetas": [
+        "armados",
+        "en grupo",
+        "cazadores de ballenas",
+        "resistentes al frío"
+      ],
       "rasgos": [],
-      "amenazas": [{"nombre": "Vierten aceite", "descripcion": "Vacían los barriles por el agujero del hielo.", "consecuencias": ["Inflige [contaminado-3] al agua", "Crea [agua envenenada]"]}, {"nombre": "Ataque en grupo", "descripcion": "Golpean coordinados con sus armas.", "consecuencias": ["Inflige [herido-2]"]}, {"nombre": "Reclutan", "descripcion": "Prometen compartir el ámbar gris.", "consecuencias": ["Crea [oferta de ámbar gris]"]}],
-      "secretos": [{"nombre": "Rendición", "descripcion": "Se rinden si Jendren cae o si se les ofrece una parte del botín."}, {"nombre": "Aceite inflamable", "descripcion": "El aceite puede incendiarse y crear en llamas."}]
+      "amenazas": [
+        {
+          "nombre": "Vierten aceite",
+          "descripcion": "Vacían los barriles por el agujero del hielo.",
+          "consecuencias": [
+            "Inflige [contaminado-3] al agua",
+            "Crea [agua envenenada]"
+          ]
+        },
+        {
+          "nombre": "Ataque en grupo",
+          "descripcion": "Golpean coordinados con sus armas.",
+          "consecuencias": [
+            "Inflige [herido-2]"
+          ]
+        },
+        {
+          "nombre": "Reclutan",
+          "descripcion": "Prometen compartir el ámbar gris.",
+          "consecuencias": [
+            "Crea [oferta de ámbar gris]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Rendición",
+          "descripcion": "Se rinden si Jendren cae o si se les ofrece una parte del botín."
+        },
+        {
+          "nombre": "Aceite inflamable",
+          "descripcion": "El aceite puede incendiarse y crear [en llamas]."
+        }
+      ]
     },
     {
       "slug": "ventisca-del-valle",
       "nombre": "Ventisca del Valle",
       "nivel": 2,
       "poderio": [],
-      "roles": ["Peligro", "Obstáculo"],
+      "roles": [
+        "Peligro",
+        "Obstáculo"
+      ],
       "aspecto_en": "Environmental illustration of a violent blizzard sweeping across frozen tundra. Dense white snow fills the air, obscuring the horizon and burying the ground beneath deep wind-driven drifts. Jagged ice and bent trees barely emerge from the storm. Cold blue shadows, cutting grey light and a sense of disorientation. No people, animals or buildings, only the overwhelming winter weather.",
-      "descripcion": "La nieve cegadora y el viento cortante convierten el desplazamiento en un peligro. Sin refugio, el frío extremo impone helado-1 por turno.",
-      "limites": [{"nombre": "furiosa", "valor": 4, "consecuencia": "La ventisca alcanza su máxima furia."}],
-      "etiquetas": ["viento cortante", "nieve cegadora", "frío extremo"],
-      "rasgos": [{"nombre": "Exposición", "descripcion": "Impone helado-1 por turno a quien permanezca sin refugio."}],
-      "amenazas": [{"nombre": "Congela", "descripcion": "El frío penetra las defensas de los viajeros.", "consecuencias": ["Inflige [helado-2]"]}, {"nombre": "Desorienta", "descripcion": "La nieve borra las referencias del camino.", "consecuencias": ["Inflige [perdido-2]"]}, {"nombre": "Sepulta", "descripcion": "Las acumulaciones de nieve atrapan a los viajeros.", "consecuencias": ["Inflige [enterrado-3]"]}],
-      "secretos": [{"nombre": "Protección contra el frío", "descripcion": "Refugio, fuego y ropa de abrigo contrarrestan sus efectos; la cabaña o una fogata permiten aliviar la exposición."}]
+      "descripcion": "La nieve cegadora y el viento cortante convierten el desplazamiento en un peligro. Sin refugio, el frío extremo impone [helado-1] por turno.",
+      "limites": [
+        {
+          "nombre": "furiosa",
+          "valor": 4,
+          "consecuencia": "La ventisca alcanza su máxima furia."
+        }
+      ],
+      "etiquetas": [
+        "viento cortante",
+        "nieve cegadora",
+        "frío extremo"
+      ],
+      "rasgos": [
+        {
+          "nombre": "Exposición",
+          "descripcion": "Impone [helado-1] por turno a quien permanezca sin refugio."
+        }
+      ],
+      "amenazas": [
+        {
+          "nombre": "Congela",
+          "descripcion": "El frío penetra las defensas de los viajeros.",
+          "consecuencias": [
+            "Inflige [helado-2]"
+          ]
+        },
+        {
+          "nombre": "Desorienta",
+          "descripcion": "La nieve borra las referencias del camino.",
+          "consecuencias": [
+            "Inflige [perdido-2]"
+          ]
+        },
+        {
+          "nombre": "Sepulta",
+          "descripcion": "Las acumulaciones de nieve atrapan a los viajeros.",
+          "consecuencias": [
+            "Inflige [enterrado-3]"
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Protección contra el frío",
+          "descripcion": "Refugio, fuego y ropa de abrigo contrarrestan sus efectos; la cabaña o una fogata permiten aliviar la exposición."
+        }
+      ]
     }
   ],
   "objetos": [
-    {"slug": "lena-de-cabana", "nombre": "Leña de la cabaña", "etiqueta": "leña (reserva para 3 días)", "descripcion": "Etiqueta de mochila: seis paquetes de treinta libras. Aunque infestada de gusanos, es segura de quemar y permite descansar en el campamento.", "imagen_en": "Six bundles of worm-eaten firewood, each bound for carrying, isolated against a neutral background. Rough split timber, small boreholes and traces of frost, practical fuel stored in an abandoned northern cabin."},
-    {"slug": "manta-de-punto", "nombre": "Manta de punto", "etiqueta": "manta gruesa", "descripcion": "Manta de la cama de Anga, cubierta de escarcha; etiqueta de mochila.", "imagen_en": "An isolated thick knitted blanket folded loosely, its coarse wool loops clearly visible beneath a light coating of frost. Muted natural wool colour, worn edges, soft diffuse light and neutral background."},
-    {"slug": "campana-de-cobre", "nombre": "Campana de cobre", "etiqueta": "campana de Angajuk", "descripcion": "Campana de unos treinta centímetros de diámetro, con cuerda y badajo, suspendida de un poste de tres metros. Su sonido atrae a Angajuk y a tres buitres gigantes.", "imagen_en": "An isolated weathered copper bell one foot across, with its clapper and hanging rope visible. Dull reddish metal, greenish patina and small frost deposits, softly lit against a neutral background."},
-    {"slug": "pulpo-capturado", "nombre": "Pulpo capturado", "etiqueta": "pulpo fresco", "descripcion": "Ofrenda de comida con la que se puede ganar la confianza de Angajuk; etiqueta de mochila.", "imagen_en": "An isolated freshly caught octopus with eight loosely curled arms and visible suckers. Wet mottled skin reflects cold soft light, natural sea colours, simple neutral background, no tools or hands."},
-    {"slug": "ambar-gris-crudo", "nombre": "Ámbar gris crudo", "etiqueta": "ámbar gris (crudo)", "descripcion": "Bulto ceroso de unos sesenta centímetros, valioso para perfumistas y magos. Figura como posible botín al defender a Angajuk de los cazadores.", "imagen_en": "An isolated raw lump of ambergris about two feet long, with an irregular waxy surface and muted grey tones. Subtle cracks and uneven texture, soft studio lighting against a plain background."},
-    {"slug": "barriles-de-aceite", "nombre": "Barriles de aceite", "etiqueta": "barriles de aceite", "descripcion": "Cuatro barriles que los cazadores pretenden vaciar en el agujero para contaminar el agua. El aceite puede incendiarse; etiqueta de mochila o escena.", "imagen_en": "Four isolated heavy wooden oil barrels with dark iron hoops and greasy stains around their bungs. Frost dusts the staves, practical maritime construction, cold diffuse lighting and a plain neutral background."},
-    {"slug": "bote-de-angajuk", "nombre": "Bote de Angajuk", "etiqueta": "bote de Angajuk", "descripcion": "Embarcación atada al lomo de Angajuk para ocho criaturas medianas con equipo y hasta mil libras de carga. Al sumergirse queda rodeada por una burbuja mágica indisoluble: permite respirar y salir, pero nada entra desde fuera.", "imagen_en": "An isolated wooden passenger boat with securing ropes, enclosed within a clear magical air bubble. Simple weathered planks and open seating space, cool underwater illumination, entire hull visible against a neutral blue background."}
+    {
+      "slug": "lena-de-cabana",
+      "nombre": "Leña de la cabaña",
+      "etiqueta": "leña (reserva para 3 días)",
+      "descripcion": "Etiqueta de mochila: seis paquetes de quince kilogramos. Aunque infestada de gusanos, es segura de quemar y permite descansar en el campamento.",
+      "imagen_en": "Six bundles of worm-eaten firewood, each bound for carrying, isolated against a neutral background. Rough split timber, small boreholes and traces of frost, practical fuel stored in an abandoned northern cabin."
+    },
+    {
+      "slug": "manta-de-punto",
+      "nombre": "Manta de punto",
+      "etiqueta": "manta gruesa",
+      "descripcion": "Manta de la cama de Anga, cubierta de escarcha; etiqueta de mochila.",
+      "imagen_en": "An isolated thick knitted blanket folded loosely, its coarse wool loops clearly visible beneath a light coating of frost. Muted natural wool colour, worn edges, soft diffuse light and neutral background."
+    },
+    {
+      "slug": "campana-de-cobre",
+      "nombre": "Campana de cobre",
+      "etiqueta": "campana de Angajuk",
+      "descripcion": "Campana de unos 0,3 metros de diámetro, con cuerda y badajo, suspendida de un poste de tres metros. Su sonido atrae a Angajuk y a tres buitres gigantes.",
+      "imagen_en": "An isolated weathered copper bell one foot across, with its clapper and hanging rope visible. Dull reddish metal, greenish patina and small frost deposits, softly lit against a neutral background."
+    },
+    {
+      "slug": "pulpo-capturado",
+      "nombre": "Pulpo capturado",
+      "etiqueta": "pulpo fresco",
+      "descripcion": "Ofrenda de comida con la que se puede ganar la confianza de Angajuk; etiqueta de mochila.",
+      "imagen_en": "An isolated freshly caught octopus with eight loosely curled arms and visible suckers. Wet mottled skin reflects cold soft light, natural sea colours, simple neutral background, no tools or hands."
+    },
+    {
+      "slug": "ambar-gris-crudo",
+      "nombre": "Ámbar gris crudo",
+      "etiqueta": "ámbar gris (crudo)",
+      "descripcion": "Bulto ceroso de unos 0,6 metros, valioso para perfumistas y magos. Figura como posible botín al defender a Angajuk de los cazadores.",
+      "imagen_en": "An isolated raw lump of ambergris about two feet long, with an irregular waxy surface and muted grey tones. Subtle cracks and uneven texture, soft studio lighting against a plain background."
+    },
+    {
+      "slug": "barriles-de-aceite",
+      "nombre": "Barriles de aceite",
+      "etiqueta": "barriles de aceite",
+      "descripcion": "Cuatro barriles que los cazadores pretenden vaciar en el agujero para contaminar el agua. El aceite puede incendiarse; etiqueta de mochila o escena.",
+      "imagen_en": "Four isolated heavy wooden oil barrels with dark iron hoops and greasy stains around their bungs. Frost dusts the staves, practical maritime construction, cold diffuse lighting and a plain neutral background."
+    },
+    {
+      "slug": "bote-de-angajuk",
+      "nombre": "Bote de Angajuk",
+      "etiqueta": "bote de Angajuk",
+      "descripcion": "Embarcación atada al lomo de Angajuk para ocho pasajeros con equipo y hasta quinientos kilogramos de carga. Al sumergirse queda rodeada por una burbuja mágica indisoluble: permite respirar y salir, pero nada entra desde fuera.",
+      "imagen_en": "An isolated wooden passenger boat with securing ropes, enclosed within a clear magical air bubble. Simple weathered planks and open seating space, cool underwater illumination, entire hull visible against a neutral blue background."
+    }
   ],
   "ayudas": [],
   "hitos": [

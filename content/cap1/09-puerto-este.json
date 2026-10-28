@@ -9,7 +9,7 @@
    "interior": false,
    "imagen_en": "A wide establishing view of a snow-packed town square before a two-storey adobe town hall with a domed roof and flag. A stake burns at the center, straw and orange firelight under a steel-grey sky. The town shield shows a snowflake over brown and dark blue fields divided by a white tower. No people or creatures; leave the lower third open.",
    "lectura": "Al acercaros al Ayuntamiento, encontráis una plaza apretada de abrigos y sombreros blancos de nieve. En el centro arde una estaca. El hombre atado a ella lleva una mordaza y desaparece entre las llamas antes de que podáis alcanzar el círculo de antorchas. No oís una súplica. Quienes están delante se arriman al fuego y extienden las manos hacia su calor. El viento os trae olor a paja quemada. Entre los corrillos se abre paso una mujer con un abrigo bien cortado y un gorro de piel; os observa con la atención de quien está calculando si puede confiaros un trabajo.",
-   "notas": "Dzaan, Mago Rojo de Thay, fue reconocido pese a su disfraz, detenido y condenado por asesinar a aventureros del valle que había contratado para una expedición; Waylen ordenó quemarlo e Imdra presenta la ejecución como disuasión. Imdra explica que cuatro pescadores buscaban aguas menos disputadas en una costa difícil por los témpanos y puede prestar un bote para cuatro personas de talla humana o un esquife de un mástil para ocho, que exige experiencia náutica; hay que arrastrarlos hasta aguas abiertas. No puede ofrecer pago ordinario; por petición promete elegir entre dos objetos confiscados a Dzaan. El grupo puede negociar el encargo con [persuasión], [empatía] o [autoridad]; éxito: [barco prestado] y [recompensa pactada]; fallo: [sospecha de Imdra] y [sin apoyo municipal].",
+   "notas": "Dzaan, Mago Rojo de Thay, fue reconocido pese a su disfraz, detenido y condenado por asesinar a un grupo de exploradores del valle que había contratado para una expedición; Waylen ordenó quemarlo e Imdra presenta la ejecución como disuasión. Imdra explica que cuatro pescadores buscaban aguas menos disputadas en una costa difícil por los témpanos y puede prestar un bote para cuatro personas de talla humana o un esquife de un mástil para ocho, que exige experiencia náutica; hay que arrastrarlos hasta aguas abiertas. No puede ofrecer pago ordinario; por petición promete elegir entre dos objetos confiscados a Dzaan. El grupo puede negociar el encargo con [persuasión], [empatía] o [autoridad]; éxito: [barco prestado] y [recompensa pactada]; fallo: [sospecha de imdra] y [sin apoyo municipal].",
    "musica": "pueblo",
    "motivos": [
     "tension",
@@ -40,7 +40,7 @@
    "interior": true,
    "imagen_en": "A wide view of a coastal barge trapped in lake ice at the end of a wooden pier, with a small aft cabin, trampled snow and a door with splintered ice. Inside are four bedrolls, rations and a rolled map. Cold blue light, weathered wood and frozen water dominate. No people or creatures; leave the lower third open.",
    "lectura": "Desde el muelle veis que el lago ha cerrado su presa alrededor del casco. El ferry permanece quieto, sin balancearse siquiera cuando el viento golpea su cabina. La nieve conserva pequeñas depresiones que llegan hasta la embarcación y vuelven a alejarse. Al subir, las tablas crujen bajo vuestras botas con una claridad incómoda. El hielo de la puerta de popa está roto; nadie ha echado una cerradura. Dentro distinguís sacos de dormir, paquetes de comida y un rollo de pergamino. El espacio parece vacío, pero ese silencio no os permite saber si está desocupado.",
-   "notas": "El servicio a Caer-Dineval y Caer-Konig está suspendido por decreto hasta el deshielo; Scython, propietario, pasa el tiempo en la Trucha Húmeda. Buscar rastros con etiquetas de rastreo revela de uno a cuatro recorridos de botas enanas hechos durante las últimas veinticuatro horas: éxito [rastro duergar identificado]; fallo [pisadas confusas], sin revelar aún cantidad ni antigüedad. La cabina mide aproximadamente tres metros de lado. Durth está solo inicialmente; oye la cubierta y se vuelve invisible en una esquina trasera, atacando si lo descubren o intentan llevarse el mapa. Al quedar seriamente herido, se encoge y sale por un agujero de unos diez centímetros situado a metro y medio sobre el hielo y a igual distancia del muelle; escapa hacia la fortaleza paterna y abandona a los demás. Klaska, Ossyl y Zublorr vuelven media hora después de abordar los Héroes, sin chardalyn nuevo, y atacan a intrusos; si hallan a Durth muerto o ausente, abandonan el ferry definitivamente. Registrar la cabina es una acción con [investigación] o [rastreo]; éxito [rastro duergar identificado] y [mapa recuperado]; fallo [pisadas confusas] y [mapa no hallado]; Interrogar a un duergar capturado exige [intimidación], [coacción] o [influencia mágica]; éxito [planes de Xardorok revelados]; fallo [prisioneros herméticos].",
+   "notas": "El servicio a Caer-Dineval y Caer-Konig está suspendido por decreto hasta el deshielo; Scython, propietario, pasa el tiempo en la Trucha Húmeda. Buscar rastros con etiquetas de rastreo revela de uno a cuatro recorridos de botas enanas hechos durante las últimas veinticuatro horas: éxito [rastro duergar identificado]; fallo [pisadas confusas], sin revelar aún cantidad ni antigüedad. La cabina mide aproximadamente tres metros de lado. Durth está solo inicialmente; oye la cubierta y se vuelve invisible en una esquina trasera, atacando si lo descubren o intentan llevarse el mapa. Al quedar seriamente herido, se encoge y sale por un agujero de unos diez centímetros situado a metro y medio sobre el hielo y a igual distancia del muelle; escapa hacia la fortaleza paterna y abandona a los demás. Klaska, Ossyl y Zublorr vuelven media hora después de abordar los Héroes, sin chardalyn nuevo, y atacan a intrusos; si hallan a Durth muerto o ausente, abandonan el ferry definitivamente. Registrar la cabina es una acción con [investigación] o [rastreo]; éxito [rastro duergar identificado] y [mapa recuperado]; fallo [pisadas confusas] y [mapa no hallado]; Interrogar a un duergar capturado exige [intimidación], [coacción] o [influencia mágica]; éxito [planes de xardorok revelados]; fallo [prisioneros herméticos].",
    "musica": "lago",
    "motivos": [
     "sigilo",
@@ -73,7 +73,7 @@
    "interior": true,
    "imagen_en": "A wide interior view of a large lakeside tavern with two common rooms on either side of a central double fireplace, dark wood, worn benches and warm light over rising steam. Fishermen and dock workers crowd the tables. Amber firelight, brown wood and cold blue window light. No people or creatures; leave the lower third open.",
    "lectura": "Antes de abrir la puerta ya oís el estrépito de la sala. Dentro, el calor os golpea la cara y convierte la nieve de vuestros hombros en gotas. Dos hogares comparten el gran cuerpo de una chimenea central; en torno a ellos se acumulan bancos, jarras y conversaciones que se pisan unas a otras. Buscáis un hueco entre pescadores y gente de los muelles mientras el viento queda reducido a un silbido tras la madera. Aquí las noticias se cuentan en voz alta, se exageran y se discuten antes de llegar al fondo de una jarra.",
-   "notas": "Nymetra Myskyn dirige la taberna más grande y ruidosa de la villa; defiende los sacrificios a Auril y considera el invierno una prueba de temple. Scython conversa con facilidad y conoce tres rumores de la tabla general de Diez Ciudades, que no está incluida en esta fuente: prepararlos con ese material si se dispone de él, sin presentarlos aquí como hechos nuevos. Ignora por completo a los ocupantes de su ferry y no puede identificar el destino del chardalyn robado; su casa está a pocas calles. Obtener rumores es una acción social con [tabernero], [charla] o [pregunta directa]; éxito [rumores de Diez Ciudades] y [contacto local]; fallo [charla vacía] y [sospecha de forasteros]; Provocar a Nymetra es una acción social con [desafío] o [insulto]; éxito [furia de Nymetra]; fallo [expulsión de la taberna].",
+   "notas": "Nymetra Myskyn dirige la taberna más grande y ruidosa de la villa; defiende los sacrificios a Auril y considera el invierno una prueba de temple. Scython conversa con facilidad y conoce tres rumores de la tabla general de Diez Ciudades; elígelos al preparar la sesión. Ignora por completo a los ocupantes de su ferry y no puede identificar el destino del chardalyn robado; su casa está a pocas calles. Obtener rumores es una acción social con [tabernero], [charla] o [pregunta directa]; éxito [rumores de diez ciudades] y [contacto local]; fallo [charla vacía] y [sospecha de forasteros]; Provocar a Nymetra es una acción social con [desafío] o [insulto]; éxito [furia de nymetra]; fallo [expulsión de la taberna].",
    "musica": "taberna",
    "motivos": [
     "misterio"
@@ -102,7 +102,7 @@
    "interior": true,
    "imagen_en": "A wide interior view of an aged inn back room with coloured silk hangings, lamps on beams, candles in a circle, incense smoke and windows frosting from inside. Cojines, shadows and spectral cold fill the space. Warm lamp colours against blue frost. No people or creatures; leave the lower third open.",
    "lectura": "Entráis en una habitación donde el incienso vuelve borrosos los colores de las lámparas. Las sedas cuelgan sobre un círculo de cojines y velas. Os sentáis mientras Rinaldo se recoge las mangas y pide al lago que deje hablar a su dama. Durante unos instantes solo escucháis las respiraciones de los demás invitados. Después, una línea blanca aparece en el cristal y se extiende hasta borrar la noche exterior. Una vela se apaga; luego otra. Notáis frío en las manos, aunque no se ha abierto ninguna puerta. Rinaldo os indica con un gesto que ha llegado vuestro turno de decir algo.",
-   "notas": "Bartaban regenta la posada; Rinaldo toca el violín y relata que la Dama vaga sobre el lugar donde se ahogó su marido avaro, sugiriendo que un cofre pesado hundió su barca o que el hombre volcó al ver a su esposa muerta: son versiones de una leyenda, no hechos confirmados. Invita a los Héroes que pernocten junto con otros seis huéspedes; si rehúsan, apela a la necesidad de ayuda en tiempos oscuros. Preguntar a cada Héroe cómo participa. Una acción conjunta de empatía, respeto o persuasión obtiene [espíritu receptivo]; el fallo provoca el poltergeist y la huida de los asistentes. Si colabora, responde sinceramente a tres preguntas con frases de dos a cinco palabras escritas en la escarcha, o susurra a través de Rinaldo. Una pregunta necia o cuya respuesta desconozca rompe una ventana. Conoce el culto diabólico del castillo de Caer-Dineval, los enanos grises invisibles de las tres poblaciones del lago y sus refugios en el ferry y el Descanso de Dinev, y el caldero de Maud en las cuevas. No recuerda su muerte ni el destino de su amado. Tras tres respuestas se marcha y desaparece la escarcha; Rinaldo debe completar un descanso en el campamento antes de intentarlo de nuevo. Mediar la sesión es una acción conjunta con [empatía], [respeto] o [persuasión]; éxito [espíritu receptivo] y [tres respuestas]; fallo [poltergeist] y [huéspedes en fuga]; Romper la maldición del mascarón exige [protección espiritual] o [ritual]; éxito [paranoia eliminada]; fallo [paranoia de Auril-3].",
+   "notas": "Bartaban regenta la posada; Rinaldo toca el violín y relata que la Dama vaga sobre el lugar donde se ahogó su marido avaro, sugiriendo que un cofre pesado hundió su barca o que el hombre volcó al ver a su esposa muerta: son versiones de una leyenda, no hechos confirmados. Invita a los Héroes que pernocten junto con otros seis huéspedes; si rehúsan, apela a la necesidad de ayuda en tiempos oscuros. Preguntar a cada Héroe cómo participa. Una acción conjunta de empatía, respeto o persuasión obtiene [espíritu receptivo]; el fallo provoca el poltergeist y la huida de los asistentes. Si colabora, responde sinceramente a tres preguntas con frases de dos a cinco palabras escritas en la escarcha, o susurra a través de Rinaldo. Una pregunta necia o cuya respuesta desconozca rompe una ventana. Conoce el culto diabólico del castillo de Caer-Dineval, los enanos grises invisibles de las tres poblaciones del lago y sus refugios en el ferry y el Descanso de Dinev, y el caldero de Maud en las cuevas. No recuerda su muerte ni el destino de su amado. Tras tres respuestas se marcha y desaparece la escarcha; Rinaldo debe completar un descanso en el campamento antes de intentarlo de nuevo. Mediar la sesión es una acción conjunta con [empatía], [respeto] o [persuasión]; éxito [espíritu receptivo] y [tres respuestas]; fallo [poltergeist] y [huéspedes en fuga]; Romper la maldición del mascarón exige [protección espiritual] o [ritual]; éxito [paranoia eliminada]; fallo [paranoia de auril-3].",
    "musica": "noche",
    "motivos": [
     "misterio",
@@ -135,7 +135,7 @@
    "interior": false,
    "imagen_en": "A wide view of dark water between ice floes, snow-covered cliffs about twenty-four metres high with four dark openings, three six to nine metres above the lake and one at water level. An unmanned drifting boat lies near shore. Grey cliffs, black water, white ice and pale sky. No people or creatures; leave the lower third open.",
    "lectura": "Avanzáis entre placas que rozan el casco con un ruido de cuchillos. La costa se eleva en un muro blanco y gris, perforado por cuatro aberturas oscuras. El viento sale de ellas con un lamento que parece demasiado largo para una garganta. Cerca de la orilla flota una barca sin nadie a bordo. En su fondo veis remos, aparejos y botellas vacías que ruedan cada vez que el agua la mueve. Desde ese punto, unas marcas tenues atraviesan el hielo hacia la boca más al sur. No llega olor a comida desde las cuevas; solo aire helado.",
-   "notas": "Es el Puñado de Cabezas de Jarrete: contiene cuatro remos, cuatro juegos de pesca y doce botellas vacías. Los cuatro pescadores, ebrios, siguieron un aroma de guiso hasta Maud; murieron por obra del esqueleto y fueron descuartizados para el estofado. Al terminar el registro y dirigirse hacia las cuevas aparecen dos arpías hambrientas; si una muere, la otra huye. El alcohol explica la mala decisión de las víctimas, no protege del frío: puede justificar [juicio nublado]. Navegar, arrastrar el barco y mantener el equilibrio requieren etiquetas adecuadas si existe peligro concreto; el éxito aporta [ruta segura], el fallo puede causar [empapado-2] o activar el desafío del lago. Registrar el bote es una acción con [investigación] o [rastreo]; éxito [Puñado de Cabezas de Jarrete] y [huellas hacia la cueva]; fallo [pistas confusas] y [botellas vacías]; Enfrentarse a las arpías es un desafío con [bandada de arpías]; éxito [arpías ahuyentadas]; fallo [fascinado-2] y [aislado en la orilla].",
+   "notas": "Es el Puñado de Cabezas de Jarrete: contiene cuatro remos, cuatro juegos de pesca y doce botellas vacías. Los cuatro pescadores, ebrios, siguieron un aroma de guiso hasta Maud; murieron por obra del esqueleto y fueron descuartizados para el estofado. Al terminar el registro y dirigirse hacia las cuevas aparecen dos arpías hambrientas; si una muere, la otra huye. El alcohol explica la mala decisión de las víctimas, no protege del frío: puede justificar [juicio nublado]. Navegar, arrastrar el barco y mantener el equilibrio requieren etiquetas adecuadas si existe peligro concreto; el éxito aporta [ruta segura], el fallo puede causar [empapado-2] o activar el desafío del lago. Registrar el bote es una acción con [investigación] o [rastreo]; éxito [puñado de cabezas de jarrete] y [huellas hacia la cueva]; fallo [pistas confusas] y [botellas vacías]; Enfrentarse a las arpías es un desafío con [bandada de arpías]; éxito [arpías ahuyentadas]; fallo [fascinado-2] y [aislado en la orilla].",
    "musica": "lago",
    "motivos": [
     "misterio",
@@ -167,7 +167,7 @@
    "interior": true,
    "imagen_en": "A wide interior view of ice-covered cave walls, floor and ceilings, with fifteen-metre chambers, nine-metre tunnels, bones of varied sizes in a side opening, giant carvings to the north and three frost-covered mineral columns in another cavern. Blue ice, pale moonlight and deep cold. No people or creatures; leave the lower third open.",
    "lectura": "Al internaros, descubrís que la luz resbala por las paredes como si estuvierais dentro de una piedra azulada. Vuestras pisadas buscan apoyo en un suelo que devuelve cada movimiento. El viento apaga cualquier llama pequeña que dejéis expuesta y prolonga su queja de una sala a otra. En una abertura lateral distinguís huesos de tamaños muy distintos. Más adelante, unas figuras grabadas avanzan hacia una poza, mientras tres columnas blancas se pierden en la penumbra de otra caverna. Nada aquí conserva el calor que prometía un antiguo manantial.",
-   "notas": "Las tres entradas septentrionales se alcanzan trepando por abundantes apoyos: no hace falta una acción incierta solo por subir. La entrada meridional sigue el antiguo desagüe, congelado en una capa de varios palmos. Rastrear desde ella con éxito crea [cuatro huellas humanas hasta U7]; el fallo deja [rastro perdido], sin borrar otras pistas. U2 contiene un lobo terrible hambriento: darle carne fresca evita el ataque, pero no lo domestica; puede subir o bajar los seis metros hasta su boca sin dificultad. Interpretar los grabados de U3 con historia o tradición da [rito funerario gigante comprendido]: ancianos gigantes se ahogaban en las aguas termales sagradas; fallar deja [grabados sin interpretar]. U4 no contiene criaturas ni tesoro. Los crampones anulan la dificultad ordinaria del suelo resbaladizo; el viento gime y apaga velas, pero por sí solo no hiere. Los huecos naturales dejan pasar luz lunar tenue en noches despejadas. Rastrear desde la entrada sur es una acción con [rastreo] o [investigación]; éxito [cuatro huellas humanas hasta U7]; fallo [rastro perdido]; Interpretar los grabados es una acción con [historia] o [tradición]; éxito [rito funerario gigante comprendido]; fallo [grabados sin interpretar]; Evitar al lobo es una acción con [carne fresca], [sigilo] o [intimidación]; éxito [lobo saciado]; fallo [herido-2] y [derribado-1].",
+   "notas": "Las tres entradas septentrionales se alcanzan trepando por abundantes apoyos: no hace falta una acción incierta solo por subir. La entrada meridional sigue el antiguo desagüe, congelado en una capa de varios palmos. Rastrear desde ella con éxito crea [cuatro huellas humanas hasta u7]; el fallo deja [rastro perdido], sin borrar otras pistas. U2 contiene un lobo terrible hambriento: darle carne fresca evita el ataque, pero no lo domestica; puede subir o bajar los seis metros hasta su boca sin dificultad. Interpretar los grabados de U3 con historia o tradición da [rito funerario gigante comprendido]: ancianos gigantes se ahogaban en las aguas termales sagradas; fallar deja [grabados sin interpretar]. U4 no contiene criaturas ni tesoro. Los crampones anulan la dificultad ordinaria del suelo resbaladizo; el viento gime y apaga velas, pero por sí solo no hiere. Los huecos naturales dejan pasar luz lunar tenue en noches despejadas. Rastrear desde la entrada sur es una acción con [rastreo] o [investigación]; éxito [cuatro huellas humanas hasta u7]; fallo [rastro perdido]; Interpretar los grabados es una acción con [historia] o [tradición]; éxito [rito funerario gigante comprendido]; fallo [grabados sin interpretar]; Evitar al lobo es una acción con [carne fresca], [sigilo] o [intimidación]; éxito [lobo saciado]; fallo [herido-2] y [derribado-1].",
    "musica": "mina",
    "motivos": [
     "misterio",
@@ -225,7 +225,7 @@
    "interior": true,
    "imagen_en": "A wide interior view of a three-metre ice curtain with trapped lumps behind it, and a mineral pool of turbid blue beneath a moonlit opening, with four giant silhouettes buried below the surface. Ice, blue light and ancient stone. No people or creatures; leave the lower third open.",
    "lectura": "El cauce os lleva hasta una cascada inmóvil. Dentro de su cortina se cruzan burbujas y sombras, y tras ella asoman rocas donde quedaron enganchados varios bultos. Si levantáis la vista, veis el acceso a una cámara de luz azul lechosa. Allí el hielo cubre una poza entera, y bajo la superficie aparecen formas enormes que al principio confundís con piedras. Poco a poco reconocéis brazos, costillas y cráneos. El manantial sigue guardando a quienes entraron en él para morir, pero ya no queda agua caliente que amortigüe ese recuerdo.",
-   "notas": "Las huellas dejan de distinguirse en U7. Trepar con fuerza, piolet o cuerda da [cascada escalada]. El primer fallo de alguien de talla humana o mayor rompe la capa fina y libera al extraño de agua dormido; crea [cascada rota] y activa su desafío. Queda una subida posible pero más difícil: sin asegurarla, otro fallo causa [herido-2]. Después de neutralizar al extraño se recuperan con seguridad un equipo de explorador y un equipo de monje, lectura corregida con cautela. U8 era alimentada por un río subterráneo y desaguaba al oeste; tanto río como poza seguirán congelados hasta el fin del Invierno Eterno. Los restos de cuatro gigantes no son enemigos activos. La luna ilumina los minerales en noches claras. Trepar la cascada es una acción con [fuerza], [piolet] o [cuerda]; éxito [cascada escalada] y [equipo recuperado]; primer fallo [cascada rota] y [extraño de agua]; segundo fallo [herido-2].",
+   "notas": "Las huellas dejan de distinguirse en U7. Trepar con fuerza, piolet o cuerda da [cascada escalada]. El primer fallo de alguien de talla humana o mayor rompe la capa fina y libera al extraño de agua dormido; crea [cascada rota] y activa su desafío. Queda una subida posible pero más difícil: sin asegurarla, otro fallo causa [herido-2]. Después de neutralizar al extraño se recuperan con seguridad un equipo de explorador y un equipo de monje. U8 era alimentada por un río subterráneo y desaguaba al oeste; tanto río como poza seguirán congelados hasta el fin del Invierno Eterno. Los restos de cuatro gigantes no son enemigos activos. La luna ilumina los minerales en noches claras. Trepar la cascada es una acción con [fuerza], [piolet] o [cuerda]; éxito [cascada escalada] y [equipo recuperado]; primer fallo [cascada rota] y [extraño de agua]; segundo fallo [herido-2].",
    "musica": "mina",
    "motivos": [
     "tension",
@@ -256,7 +256,7 @@
    "interior": true,
    "imagen_en": "A wide interior view of an elevated cavern with rough lunar fissures in the ceiling, blood on ice, trout spines, humanoid remains, bird and beast bones, torn clothing, rusty weapons and a huge partially frozen giant skeleton seated in the center. Cold blue light, red-brown blood and grey bone. No people or creatures; leave the lower third open.",
    "lectura": "Subís unos peldaños irregulares y el suelo cambia de color. La sangre forma manchas oscuras sobre el hielo, recientes entre una acumulación de huesos viejos. Veis espinas de pescado entre costillas humanas, jirones de tela prendidos a hierros oxidados y cráneos demasiado pequeños junto a otros enormes. En el centro hay un esqueleto de gigante, sentado y sujeto todavía por una costra helada. Cuando os adentráis, algo cruje en su pecho. El hielo empieza a separarse de las costillas y una mano inmensa busca apoyo para levantarse.",
-   "notas": "El esqueleto se activa al entrar un intruso o al recibir daño; ofrece dos oportunidades claras de actuar antes de atacar: primero rompe el hielo y después se incorpora. Los Héroes pueden huir, preparar una defensa o golpearlo. Mató a los pescadores y solo Maud lo controla; persigue por todo el complejo, pero nunca sale de las cuevas. Los huesos de las hermanas de Maud, con quienes rompió su aquelarre, están entre su colección; la fuente no da una identificación automática. La sangre permite establecer una matanza reciente, no reconstruir por sí sola todos los detalles. Enfrentarse al esqueleto es un desafío con [esqueleto-gigante-escarcha]; éxito [gigante desmantelado]; fallo [herido-4], [derribado-2] y [retirada acosada]; Huir antes de que se levante es una acción con [sigilo] o [retirada]; éxito [escape sin combate]; fallo [acorralado-2].",
+   "notas": "El esqueleto se activa al entrar un intruso o al recibir daño; ofrece dos oportunidades claras de actuar antes de atacar: primero rompe el hielo y después se incorpora. Los Héroes pueden huir, preparar una defensa o golpearlo. Mató a los pescadores y solo Maud lo controla; persigue por todo el complejo, pero nunca sale de las cuevas. Los huesos de las hermanas de Maud, con quienes rompió su aquelarre, están entre su colección; identificarlos requiere algo más que observarlos. La sangre permite establecer una matanza reciente, no reconstruir por sí sola todos los detalles. Enfrentarse al esqueleto es un desafío con [esqueleto-gigante-escarcha]; éxito [gigante desmantelado]; fallo [herido-4], [derribado-2] y [retirada acosada]; Huir antes de que se levante es una acción con [sigilo] o [retirada]; éxito [escape sin combate]; fallo [acorralado-2].",
    "musica": "mina",
    "motivos": [
     "horror",
@@ -286,8 +286,8 @@
    "ciudad": "easthaven",
    "interior": true,
    "imagen_en": "A wide interior view of a cave with a steaming cauldron, a stone butchering block, rusty axes and human remains. Cold fissure light contrasts with cooking steam. Dark stone, pale steam and iron tools. No people or creatures; leave the lower third open.",
-   "lectura": "Al llegar a la última cámara, el olor caliente os alcanza antes de que podáis distinguir lo que hay dentro. Un gran caldero desprende vapor junto a una mesa de piedra. A su alrededor veis herramientas herrumbosas y cuatro cuerpos desollados. Una anciana envuelta en pieles raídas permanece cerca del guiso; su presencia parece demasiado tranquila para ese lugar. Mientras miráis, una luz pequeña aparece donde antes solo había oscuridad. Su resplandor recorre el bloque manchado, se detiene en los restos de los pescadores y asciende hacia el rostro de vuestra anfitriona.",
-   "notas": "Maud, saga del lago, se disfraza de anciana decrépita. Un fuego fatuo normalmente invisible ilumina su forma real cuando quiere aterrorizar a los intrusos. Si la amenazan o descubren el engaño, llama al esqueleto de U9: tarda dos oportunidades de acción en llegar si aún existe y no está ya presente. Destruido el gigante, Maud muestra su aspecto auténtico y pelea; no entrega guarida ni caldero voluntariamente. Cuando sufre [herido-3], intenta pactar: ofrece el caldero y un cofre del fondo del lago a cambio de dejarla marchar. Si se cumple el trato, cumple la entrega, con trampa: esperar hasta medianoche, recorrer aproximadamente un kilómetro y medio al norte por la costa y recoger un cofre anegado y de cerradura rota. Contiene riqueza y cuatro zarpas reptantes ocultas bajo ella; al removerla, atacan. En el guiso actual flotan órganos y carne de los pescadores: hay que tirarlo antes del transporte. El caldero vacío sigue siendo voluminoso y difícil de cargar. Enfrentarse a Maud es un desafío con [maud-cinceloseo] y [fuego-fatuo-maud]; éxito [Maud derrotada o pactada] y [caldero recuperado]; fallo [aterrorizado-3] y [herido-3]; Registrar el guiso es una acción con [investigación] o [medicina]; éxito [canibalismo confirmado] y [guiso a tirar]; fallo [nausea] y [duda].",
+   "lectura": "Al llegar a la última cámara, el olor caliente os alcanza antes de que podáis distinguir lo que hay dentro. Un gran caldero desprende vapor junto a una mesa de piedra. A su alrededor veis herramientas herrumbrosas y cuatro cuerpos desollados. Una anciana envuelta en pieles raídas permanece cerca del guiso; su presencia parece demasiado tranquila para ese lugar. Mientras miráis, una luz pequeña aparece donde antes solo había oscuridad. Su resplandor recorre el bloque manchado, se detiene en los restos de los pescadores y asciende hacia el rostro de vuestra anfitriona.",
+   "notas": "Maud, saga del lago, se disfraza de anciana decrépita. Un fuego fatuo normalmente invisible ilumina su forma real cuando quiere aterrorizar a los intrusos. Si la amenazan o descubren el engaño, llama al esqueleto de U9: tarda dos oportunidades de acción en llegar si aún existe y no está ya presente. Destruido el gigante, Maud muestra su aspecto auténtico y pelea; no entrega guarida ni caldero voluntariamente. Cuando sufre [herido-3], intenta pactar: ofrece el caldero y un cofre del fondo del lago a cambio de dejarla marchar. Si se cumple el trato, cumple la entrega, con trampa: esperar hasta medianoche, recorrer aproximadamente un kilómetro y medio al norte por la costa y recoger un cofre anegado y de cerradura rota. Contiene riqueza y cuatro zarpas reptantes ocultas bajo ella; al removerla, atacan. En el guiso actual flotan órganos y carne de los pescadores: hay que tirarlo antes del transporte. El caldero vacío sigue siendo voluminoso y difícil de cargar. Enfrentarse a Maud es un desafío con [maud-cinceloseo] y [fuego-fatuo-maud]; éxito [maud derrotada o pactada] y [caldero recuperado]; fallo [aterrorizado-3] y [herido-3]; Registrar el guiso es una acción con [investigación] o [medicina]; éxito [canibalismo confirmado] y [guiso a tirar]; fallo [nausea] y [duda].",
    "musica": "mina",
    "motivos": [
     "horror",
@@ -321,7 +321,7 @@
    "interior": true,
    "imagen_en": "A wide interior view of a two-storey adobe town hall with wooden floors and doors, local oil paintings, low lanterns, a reception room dominated by a stuffed trout, offices with desks and files, and a spokesperson's desk under a chair carved with the town shield. Warm lantern light, brown wood and cold drafts. No people or creatures; leave the lower third open.",
    "lectura": "Entráis en un edificio que huele a aceite de lámpara, madera y ropa mojada. En las paredes cuelgan pinturas de una vida menos oscura: barcas, paisajes y calles de la villa. Una enorme trucha disecada domina la recepción. Más allá encontráis mesas de trabajo, archivos y asientos gastados por la espera. La luz es escasa incluso en el despacho del portavoz, donde una silla con el escudo de Puerto Este preside una mesa común. Las puertas parecen sólidas, pero no veis cerraduras en las interiores. Los tapices amortiguan los ecos sin detener el frío.",
-   "notas": "T1 tiene un panorama de la villa al norte y al sur la trucha de metro y medio «El Gran Jarrete», capturada en el verano de 1479 CV. Una pintura vertical de barcas oculta la puerta secreta noreste a T3; desde T3, un tapiz de montaña la tapa al noroeste. Buscar deliberadamente en esas paredes la encuentra sin incertidumbre. T2 tiene escritorios, archivadores y asientos para visitantes. T3 es el lugar de negociación con Waylen y de su captura zhentarim. T4 guarda un equipo completo de abrigo; T5 contiene retrete, lavabo, toallero, cubo y fregona. Las puertas exteriores pueden atrancarse por dentro; las demás de estas plantas no tienen cerradura. El mapa municipal 1.11 sirve también para otras villas. Buscar puertas secretas es una acción con [investigación] o [percepción]; éxito [puerta secreta T1–T3] y [paso oculto]; fallo [pared común]; Negociar con Waylen es una acción social con [persuasión], [negociación] o [argumentos sólidos]; éxito [acuerdo mejorado] y [respaldo material de Puerto Este]; fallo [oferta inicial] y [endeudamiento municipal].",
+   "notas": "T1 tiene un panorama de la villa al norte y al sur la trucha de metro y medio «El Gran Jarrete», capturada en el verano de 1479 CV. Una pintura vertical de barcas oculta la puerta secreta noreste a T3; desde T3, un tapiz de montaña la tapa al noroeste. Buscar deliberadamente en esas paredes la encuentra sin incertidumbre. T2 tiene escritorios, archivadores y asientos para visitantes. T3 es el lugar de negociación con Waylen y de su captura zhentarim. T4 guarda un equipo completo de abrigo; T5 contiene retrete, lavabo, toallero, cubo y fregona. Las puertas exteriores pueden atrancarse por dentro; las demás de estas plantas no tienen cerradura. El mapa municipal 1.11 sirve también para otras villas. Buscar puertas secretas es una acción con [investigación] o [percepción]; éxito [puerta secreta t1–t3] y [paso oculto]; fallo [pared común]; Negociar con Waylen es una acción social con [persuasión], [negociación] o [argumentos sólidos]; éxito [acuerdo mejorado] y [respaldo material de puerto este]; fallo [oferta inicial] y [endeudamiento municipal].",
    "musica": "pueblo",
    "motivos": [
     "misterio"
@@ -351,7 +351,7 @@
    "interior": true,
    "imagen_en": "A wide interior view of a dim room with a black winged demonic figure about two and a half metres tall, splinters of hull in its back, a balcony stair, a small hand winch and another stair down to a dungeon. Dark chardalyn, cold light and black stone. No people or creatures; leave the lower third open.",
    "lectura": "La luz de las linternas descubre una figura negra más alta que cualquiera de vosotros. Tiene alas y una expresión feroz, pero los restos de madera que sobresalen de su espalda revelan que estuvo unida a un barco. Arriba distinguís un balcón y el brazo de una grúa; otra escalera desciende hacia la roca. Al acercaros, el brillo del material parece tragarse la claridad en lugar de devolverla. El frío de esta sala no resulta más intenso que el de las demás, aunque os cuesta apartar la mirada de la cabeza tallada.",
-   "notas": "Aventureros recuperaron el mascarón del lago mediante telequinesis hace unos meses; la recompensa les decepcionó. Waylen lo almacena apartado y prohíbe tocarlo; pesa unos 450 kg. Conocimiento de chardalyn permite reconocer el material; historia especializada, favorecida por haberse criado en el valle, identifica a Errtu, balor que aterrorizó la región hace más de un siglo: éxito [efigie de Errtu identificada]; fallo [origen incierto]. Percepción sagrada revela [objeto profanado]. El contacto puede causar [paranoia de Auril-3]: el afectado cree que casi todos los vecinos pertenecen a un culto secreto de la diosa. Una acción de resistencia espiritual evita el estado; romper maldiciones lo elimina. Prolongar el contacto puede agravarlo, previa advertencia del Narrador. Solo quienes participaron en la sesión de Rinaldo ven además a una mujer escuálida, empapada, de pelo blanco que oculta la cara, aparentemente atada al mascarón; si mantienen distancia, solloza; si salen sin hablarle y vuelven, ya no está. Acercarse a poco más de un brazo revela la calavera sonriente, disuelve las cuerdas e inicia su ataque aterrador. Seriamente herida, intenta poseer a un Héroe para salir por el norte, romper el hielo del lago y ahogarlo, golpeando a quienes lo impidan. Si la derrotan, un grito acompaña su retorno definitivo al lago. No introducir esta aparición si el mascarón ya ha sido destruido. Identificar el material es una acción con [conocimiento de chardalyn] o [historia del valle]; éxito [efigie de Errtu identificada]; fallo [origen incierto]; Resistir la corrupción es una acción con [resistencia espiritual] o [voluntad]; éxito [paranoia evitada]; fallo [paranoia de Auril-3]; Enfrentarse al fantasma es un desafío con [fantasma-dama-blanca]; éxito [fantasma desterrado]; fallo [poseído-4] y [ahogándose-3].",
+   "notas": "Unos exploradores recuperaron el mascarón del lago alzándolo con magia hace unos meses; la recompensa les decepcionó. Waylen lo almacena apartado y prohíbe tocarlo; pesa unos 450 kg. Conocimiento de chardalyn permite reconocer el material; historia especializada, favorecida por haberse criado en el valle, identifica a Errtu, balor que aterrorizó la región hace más de un siglo: éxito [efigie de errtu identificada]; fallo [origen incierto]. Percepción sagrada revela [objeto profanado]. El contacto puede causar [paranoia de auril-3]: el afectado cree que casi todos los vecinos pertenecen a un culto secreto de la diosa. Una acción de resistencia espiritual evita el estado; romper maldiciones lo elimina. Prolongar el contacto puede agravarlo, previa advertencia del Narrador. Solo quienes participaron en la sesión de Rinaldo ven además a una mujer escuálida, empapada, de pelo blanco que oculta la cara, aparentemente atada al mascarón; si mantienen distancia, solloza; si salen sin hablarle y vuelven, ya no está. Acercarse a poco más de un brazo revela la calavera sonriente, disuelve las cuerdas e inicia su ataque aterrador. Seriamente herida, intenta poseer a un Héroe para salir por el norte, romper el hielo del lago y ahogarlo, golpeando a quienes lo impidan. Si la derrotan, un grito acompaña su retorno definitivo al lago. No introducir esta aparición si el mascarón ya ha sido destruido. Identificar el material es una acción con [conocimiento de chardalyn] o [historia del valle]; éxito [efigie de errtu identificada]; fallo [origen incierto]; Resistir la corrupción es una acción con [resistencia espiritual] o [voluntad]; éxito [paranoia evitada]; fallo [paranoia de auril-3]; Enfrentarse al fantasma es un desafío con [fantasma-dama-blanca]; éxito [fantasma desterrado]; fallo [poseído-4] y [ahogándose-3].",
    "musica": "culto",
    "motivos": [
     "horror",
@@ -410,7 +410,7 @@
    "interior": true,
    "imagen_en": "A wide interior view of dusty shelves, armchairs and footstools, with a red leather book whose yellow pages show dried blood, plus six small rented rooms, four empty, one full of containers and one furnished as a study. Warm lantern light, dust and old paper. No people or creatures; leave the lower third open.",
    "lectura": "Subís desde la sala de descanso hasta una biblioteca modesta. Los estantes tienen más polvo que libros memorables, y unos sillones invitan a leer al abrigo de las lámparas. Entre los lomos apagados destaca un volumen de cuero rojo. Cuando lo abrís, veis manchas oscuras en los bordes amarillentos de las páginas, aunque sus líneas parecen contener solamente poemas. En los cuartos cercanos encontráis puertas de espacios alquilados: detrás de una hay cajas y barriles; detrás de otra, dos sillas acolchadas y un escritorio que ocupa casi toda la habitación.",
-   "notas": "Diez minutos de búsqueda en T14 bastan para hallar el libro de Dzaan; un empleado lo confundió con una antología al guardar sus bienes confiscados. La escritura ilusoria termina cinco días después de su ejecución; disiparla revela antes el grimorio. Su contenido y conversión figuran en objetos. T15 dispone de seis habitaciones de alquiler: cuatro sin uso, una con cajas y barriles que resultan vacíos al examinarlos, y un despacho acogedor con dos sillones y una novela romántica inacabada, Perdida en unos ojos color lavanda, en un cajón sin cerrar. La fuente no atribuye la novela ni identifica al inquilino. Buscar en la biblioteca es una acción con [investigación] o [tiempo]; éxito [grimorio de Dzaan] y [antología aparente]; fallo [estantes polvorientos]; Examinar las habitaciones es una acción con [exploración] o [percepción]; éxito [habitaciones de alquiler] y [novela inacabada]; fallo [puertas cerradas].",
+   "notas": "Diez minutos de búsqueda en T14 bastan para hallar el libro de Dzaan; un empleado lo confundió con una antología al guardar sus bienes confiscados. La escritura ilusoria termina cinco días después de su ejecución; disiparla revela antes el grimorio. Consulta su contenido y usos en objetos. T15 dispone de seis habitaciones de alquiler: cuatro sin uso, una con cajas y barriles que resultan vacíos al examinarlos, y un despacho acogedor con dos sillones y una novela romántica inacabada, Perdida en unos ojos color lavanda, en un cajón sin cerrar. Buscar en la biblioteca es una acción con [investigación] o [tiempo]; éxito [grimorio de dzaan] y [antología aparente]; fallo [estantes polvorientos]; Examinar las habitaciones es una acción con [exploración] o [percepción]; éxito [habitaciones de alquiler] y [novela inacabada]; fallo [puertas cerradas].",
    "musica": "pueblo",
    "motivos": [
     "misterio"
@@ -437,7 +437,7 @@
    "interior": true,
    "imagen_en": "A wide interior view of a stone staircase lined with boards, a rock-cut dungeon, a round table with worn cards, iron doors with small peepholes and a sturdy oak chair with shackles. Cold stone, iron and dim lantern light. No people or creatures; leave the lower third open.",
    "lectura": "Al bajar dejáis atrás la madera de las plantas superiores y entráis en una oscuridad de roca. Las puertas son de hierro, con pequeñas mirillas que se cierran desde fuera. En la sala de guardia hay una mesa redonda y una baraja tan usada que sus bordes casi han perdido el color. Desde aquí, cualquier golpe en una celda parece llenar todo el sótano. Más allá encontráis una silla robusta provista de grilletes, un cubo y una fregona. El lugar no necesita más adornos para que comprendáis cuál es su función.",
-   "notas": "T16 comunica con la mazmorra. En T17 suelen estar cuatro guardias jugando a Apuesta de los Tres Dragones; escuchar antes de entrar permite oír quejas por el frío y preocupación por el próximo sorteo de sacrificios. Uno lleva ocho llaves de hierro para todas las celdas. Las puertas tienen mirillas de unos trece centímetros con postigos de hierro. Abrirlas mediante ganzúas desde fuera y etiquetas de cerrajería obtiene [celda abierta]; fallar deja [cerradura intacta] y, si importa el tiempo, [demora peligrosa]. Una persona sola no las derriba por fuerza ordinaria. T20 es la sala donde Waylen interroga. La fuente llama T18 a la cárcel al remitir a ella, pero imprime T19 en su encabezado y T20 para interrogatorios; esta ficha conserva T18/T19: cárcel para evitar inventar una sala omitida. Escuchar antes de entrar es una acción con [sigilo] o [percepción]; éxito [quejas por el frío] y [sorteo de sacrificios]; fallo [guardias alerta]; Abrir una celda es una acción con [cerrajería] o [ganzúas]; éxito [celda abierta]; fallo [cerradura intacta] y [demora peligrosa]; Interrogar con autoridad es una acción social con [autoridad] o [intimidación]; éxito [información útil]; fallo [silencio de la guardia].",
+   "notas": "T16 comunica con la mazmorra. En T17 suelen estar cuatro guardias jugando a Apuesta de los Tres Dragones; escuchar antes de entrar permite oír quejas por el frío y preocupación por el próximo sorteo de sacrificios. Uno lleva ocho llaves de hierro para todas las celdas. Las puertas tienen mirillas de unos trece centímetros con postigos de hierro. Abrirlas mediante ganzúas desde fuera y etiquetas de cerrajería obtiene [celda abierta]; fallar deja [cerradura intacta] y, si importa el tiempo, [demora peligrosa]. Una persona sola no las derriba por fuerza ordinaria. T20 es la sala donde Waylen interroga. T19 es la cárcel. Escuchar antes de entrar es una acción con [sigilo] o [percepción]; éxito [quejas por el frío] y [sorteo de sacrificios]; fallo [guardias alerta]; Abrir una celda es una acción con [cerrajería] o [ganzúas]; éxito [celda abierta]; fallo [cerradura intacta] y [demora peligrosa]; Interrogar con autoridad es una acción social con [autoridad] o [intimidación]; éxito [información útil]; fallo [silencio de la guardia].",
    "musica": "pueblo",
    "motivos": [
     "tension",
@@ -467,7 +467,7 @@
    "interior": true,
    "imagen_en": "A wide interior view of a negotiation desk, a cauldron under guard in a room, a northern entrance with a mooring post, ropes over snow and tracks of a dragged load. Warm lantern light against cold blue night outside. No people or creatures; leave the lower third open.",
    "lectura": "Ante vosotros, el caldero parece demasiado grande para la habitación donde han decidido guardarlo. El portavoz explica cuánto puede cambiar la vida de la villa y pide tiempo para reunir lo prometido. Cuando la luz exterior se apaga, el edificio se vacía poco a poco y cada ruido llega más lejos. Desde el norte oís el crujido de nieve compactada y el roce de una cuerda contra la madera. Os encontráis en un lugar lleno de puertas abiertas, pasillos poco iluminados y personas que creen saber quién tiene derecho a estar allí.",
-   "notas": "Waylen ofrece una recompensa de gran valor en gemas por el caldero: [respaldo material de Puerto Este]. Regatear con argumentos sólidos da [acuerdo mejorado], que puede duplicar el valor del respaldo; fallar mantiene la oferta inicial. Nadie local puja por encima. Necesita endeudarse y reunirlo en cuarenta y ocho horas; exige entretanto depositar el caldero en T17, vigilado por los cuatro guardias o por los propios Héroes. En un día Prudence informa a Naerth mediante su serpiente voladora. Esa noche llegan tres matones y un pico de hacha domesticado, que atan al poste norte. Sin intervención, Prudence y los matones toman a Waylen como rehén en T3, fuerzan la rendición de los guardias, los encierran con él, atan el caldero al ave y arrojan las llaves a un banco de nieve. Viajan sin detenerse hasta Los Brazos de Luskan, en Targos. Tienen órdenes estrictas de no matar: sus ataques causan incapacitación. Sus huellas desaparecen por el viento entre una y cuatro horas después. Si los Héroes llegan de madrugada, oyen los golpes de los presos; más tarde encuentran a Imdra y guardias tratando de abrir las celdas. Waylen, humillado tras casi tres años de confianza en Prudence, recuerda su supuesta «familia» de Targos. Allí ella ocupa una habitación privada de la posada; Naerth ya tiene el caldero y no lo entrega sin resistencia. Negociar la recompensa es una acción social con [persuasión] o [argumentos sólidos]; éxito [acuerdo mejorado]; fallo [oferta inicial]; Vigilar el caldero es una acción con [vigilancia] o [guardia]; éxito [robo impedido]; fallo [Waylen rehén] y [caldero rumbo a Targos]; Perseguir a la banda es una acción con [rastreo] o [montura]; éxito [rastro seguido]; fallo [rastro borrado] y [conexión con Targos].",
+   "notas": "Waylen ofrece una recompensa de gran valor en gemas por el caldero: [respaldo material de puerto este]. Regatear con argumentos sólidos da [acuerdo mejorado], que puede duplicar el valor del respaldo; fallar mantiene la oferta inicial. Nadie local puja por encima. Necesita endeudarse y reunirlo en cuarenta y ocho horas; exige entretanto depositar el caldero en T17, vigilado por los cuatro guardias o por los propios Héroes. En un día Prudence informa a Naerth mediante su serpiente voladora. Esa noche llegan tres matones y un pico de hacha domesticado, que atan al poste norte. Sin intervención, Prudence y los matones toman a Waylen como rehén en T3, fuerzan la rendición de los guardias, los encierran con él, atan el caldero al ave y arrojan las llaves a un banco de nieve. Viajan sin detenerse hasta Los Brazos de Luskan, en Targos. Tienen órdenes estrictas de no matar: sus ataques causan incapacitación. Sus huellas desaparecen por el viento entre una y cuatro horas después. Si los Héroes llegan de madrugada, oyen los golpes de los presos; más tarde encuentran a Imdra y guardias tratando de abrir las celdas. Waylen, humillado tras casi tres años de confianza en Prudence, recuerda su supuesta «familia» de Targos. Allí ella ocupa una habitación privada de la posada; Naerth ya tiene el caldero y no lo entrega sin resistencia. Negociar la recompensa es una acción social con [persuasión] o [argumentos sólidos]; éxito [acuerdo mejorado]; fallo [oferta inicial]; Vigilar el caldero es una acción con [vigilancia] o [guardia]; éxito [robo impedido]; fallo [waylen rehén] y [caldero rumbo a targos]; Perseguir a la banda es una acción con [rastreo] o [montura]; éxito [rastro seguido]; fallo [rastro borrado] y [conexión con targos].",
    "musica": "noche",
    "motivos": [
     "tension",
@@ -503,7 +503,7 @@
    "interior": true,
    "imagen_en": "A wide view of a half-open northern entrance, a demonic mask broken into black blocks, rough sacks, small tracks leading to the tundra and snow gradually covering the trail. Cold blue night light and scattered black fragments. No people or creatures; leave the lower third open.",
    "lectura": "La villa duerme detrás de ventanas cerradas. En torno al Ayuntamiento, el viento barre líneas de nieve contra los escalones y deja al descubierto unas pisadas pequeñas. Desde dentro llega un golpe seco, después otro, como si alguien picara piedra. Cuando alcanzáis la sala del mascarón, su silueta ya no está entera: el negro de las alas y del rostro se reparte por el suelo. Las linternas siguen ardiendo con normalidad. Ese detalle hace que la violencia reciente resulte todavía más extraña, como si el edificio no hubiera tenido tiempo de advertir lo ocurrido.",
-   "notas": "Usar esta lectura al sorprender el robo; si ya terminó, omitir los golpes. Si siguen activos, Durth y sus tres compañeros entran de noche por el norte mientras Waylen y casi toda la población duermen en sus casas. Destrozan T6; los cuatro guardias de T17 intervienen y, sin ayuda, mueren. Cada saqueador carga hasta cinco fragmentos de unos nueve kilos por saco y todos parten hacia la fortaleza de Xardorok. Ajustar la composición a supervivientes: no resucitar a Durth ni restituir una banda desmantelada. Las huellas duran entre una y cuatro horas. Si el rastro se borra, el ferry estará vaciado, incluido el mapa, y no ofrece la ruta de escape. Al día siguiente Waylen solicita la recuperación, promete favores por cada fragmento y advierte que no deben tocarse directamente. Una hora de preguntas con persuasión obtiene [contacto: Scython]; fallar no da información útil. Scython aporta otros rumores, pero no conoce a los ladrones ni su destino. No convertir este rodeo en una pista falsa que garantice encontrar la fortaleza. Sorprender el robo es una acción con [sigilo] o [alerta]; éxito [robo interrumpido] y [guardias salvados]; fallo [mascarón hecho fragmentos] y [guardia en peligro]; Seguir el rastro es una acción con [rastreo] o [percepción]; éxito [rastro seguido] y [ruta de escape]; fallo [rastro borrado] y [ferry vaciado]; Interrogar a los duergar capturados es una acción con [intimidación] o [influencia mágica]; éxito [planes de Xardorok revelados]; fallo [prisioneros herméticos].",
+   "notas": "Usar esta lectura al sorprender el robo; si ya terminó, omitir los golpes. Si siguen activos, Durth y sus tres compañeros entran de noche por el norte mientras Waylen y casi toda la población duermen en sus casas. Destrozan T6; los cuatro guardias de T17 intervienen y, sin ayuda, mueren. Cada saqueador carga hasta cinco fragmentos de unos nueve kilos por saco y todos parten hacia la fortaleza de Xardorok. Ajustar la composición a supervivientes: no resucitar a Durth ni restituir una banda desmantelada. Las huellas duran entre una y cuatro horas. Si el rastro se borra, el ferry estará vaciado, incluido el mapa, y no ofrece la ruta de escape. Al día siguiente Waylen solicita la recuperación, promete favores por cada fragmento y advierte que no deben tocarse directamente. Una hora de preguntas con persuasión obtiene [contacto: scython]; fallar no da información útil. Scython aporta otros rumores, pero no conoce a los ladrones ni su destino. No convertir este rodeo en una pista falsa que garantice encontrar la fortaleza. Sorprender el robo es una acción con [sigilo] o [alerta]; éxito [robo interrumpido] y [guardias salvados]; fallo [mascarón hecho fragmentos] y [guardia en peligro]; Seguir el rastro es una acción con [rastreo] o [percepción]; éxito [rastro seguido] y [ruta de escape]; fallo [rastro borrado] y [ferry vaciado]; Interrogar a los duergar capturados es una acción con [intimidación] o [influencia mágica]; éxito [planes de xardorok revelados]; fallo [prisioneros herméticos].",
    "musica": "noche",
    "motivos": [
     "amenaza",
@@ -600,10 +600,10 @@
    "papel": "propietario y barquero del ferry",
    "ciudad": "easthaven",
    "aspecto_en": "A full-body portrait of an adult man of unspecified folk, with a body used to ropes, a sailor's coat and an easy smile. His stance is relaxed and cheerful, with weathered hands and winter clothing. Cold lake light frames him.",
-   "presentacion": "Ante vosotros distinguís adulto de pueblo no especificado en esta sección, cuerpo acostumbrado a los cabos, abrigo de marinero y sonrisa fácil. El frío vuelve visibles vuestras respiraciones y acentúa cada pausa. Al acercaros, podéis apreciar el desgaste de la ropa y los pequeños gestos que delatan su ánimo. Durante un instante, el silencio os permite medir la distancia y decidir cómo presentaros.",
+   "presentacion": "Ante vosotros distinguís adulto de cuerpo acostumbrado a los cabos, abrigo de marinero y sonrisa fácil. El frío vuelve visibles vuestras respiraciones y acentúa cada pausa. Al acercaros, podéis apreciar el desgaste de la ropa y los pequeños gestos que delatan su ánimo. Durante un instante, el silencio os permite medir la distancia y decidir cómo presentaros.",
    "caracter": "hablador, alegre, afortunado y de buen corazón",
    "quiere": "compañía mientras no puede navegar",
-   "sabe": "tres rumores generales, no incluidos aquí; desconoce tanto los polizones como el chardalyn robado",
+   "sabe": "tres rumores de la tabla general de Diez Ciudades; desconoce tanto los polizones como el chardalyn robado",
    "desafio": "capitan-ferry"
   },
   {
@@ -636,9 +636,9 @@
    "papel": "espíritu del lago, informante durante la sesión y amenaza en T6",
    "ciudad": "easthaven",
    "aspecto_en": "A full-body portrait of an adult woman of unspecified folk, emaciated, in soaked clothes, with long white hair hiding her face; after the deception, a smiling skull. Her expression shifts between grief and hostility. Cold lake light and spectral mist.",
-   "presentacion": "Ante vosotros distinguís mujer adulta de pueblo no precisado, demacrada, ropa empapada, pelo blanco largo; tras el engaño, calavera sonriente. El frío vuelve visibles vuestras respiraciones y acentúa cada pausa. Al acercaros, podéis apreciar el desgaste de la ropa y los pequeños gestos que delatan su ánimo. Durante un instante, el silencio os permite medir la distancia y decidir cómo presentaros.",
+   "presentacion": "Ante vosotros distinguís mujer adulta demacrada, ropa empapada, pelo blanco largo; tras el engaño, calavera sonriente. El frío vuelve visibles vuestras respiraciones y acentúa cada pausa. Al acercaros, podéis apreciar el desgaste de la ropa y los pequeños gestos que delatan su ánimo. Durante un instante, el silencio os permite medir la distancia y decidir cómo presentaros.",
    "caracter": "respuestas breves, dolor y hostilidad imprevisibles; susurros por boca de Rinaldo",
-   "quiere": "la fuente no fija una motivación general; en T6 busca llevar una víctima al lago",
+   "quiere": "llevar una víctima al lago en T6",
    "sabe": "culto diabólico, escondites duergar y caldero; ignora o ha olvidado su propia historia",
    "desafio": "fantasma-dama-blanca"
   },
@@ -660,7 +660,7 @@
    "papel": "empleada municipal y espía zhentarim, infiltrada desde hace casi tres años",
    "ciudad": "easthaven",
    "aspecto_en": "A full-body portrait of an adult woman of unspecified folk in administrative clothing under a discreet coat, with measured gestures. Her expression is professionally trustworthy but secretly loyal to her organization. Municipal light and winter clothing.",
-   "presentacion": "Ante vosotros distinguís adulta de pueblo no especificado, ropa administrativa bajo un abrigo discreto, gestos medidos. El frío vuelve visibles vuestras respiraciones y acentúa cada pausa. Al acercaros, podéis apreciar el desgaste de la ropa y los pequeños gestos que delatan su ánimo. Durante un instante, el silencio os permite medir la distancia y decidir cómo presentaros.",
+   "presentacion": "Ante vosotros distinguís adulta con ropa administrativa bajo un abrigo discreto, gestos medidos. El frío vuelve visibles vuestras respiraciones y acentúa cada pausa. Al acercaros, podéis apreciar el desgaste de la ropa y los pequeños gestos que delatan su ánimo. Durante un instante, el silencio os permite medir la distancia y decidir cómo presentaros.",
    "caracter": "confianza profesional aparente, lealtad secreta a la organización",
    "quiere": "hacer llegar el caldero a Naerth",
    "sabe": "rutinas del Ayuntamiento y oportunidad del robo; guarda una serpiente voladora mensajera en su cabaña cercana",
@@ -674,8 +674,8 @@
    "aspecto_en": "A full-body portrait of an adult human man, bound and gagged, in travel clothes blackened by the pyre, his identity previously hidden by disguise. His expression is silent and unresisting. Firelight and smoke.",
    "presentacion": "Ante vosotros distinguís adulto humano, atado y amordazado; ropa de viaje ennegrecida por la hoguera, identidad antes encubierta por disfraz. El frío vuelve visibles vuestras respiraciones y acentúa cada pausa. Al acercaros, podéis apreciar el desgaste de la ropa y los pequeños gestos que delatan su ánimo. Durante un instante, el silencio os permite medir la distancia y decidir cómo presentaros.",
    "caracter": "no habla ni forcejea durante la escena",
-   "quiere": "sus objetivos no se desarrollan aquí",
-   "sabe": "conocimientos arcanos de su grimorio; la fuente no permite interrogarlo tras la ejecución",
+   "quiere": "preservar sus conocimientos arcanos",
+   "sabe": "conocimientos arcanos de su grimorio; muerto en la hoguera, ya no puede responder preguntas",
    "desafio": null
   },
   {
@@ -684,10 +684,10 @@
    "papel": "portavoz de Targos y beneficiario del robo del caldero",
    "ciudad": "targos",
    "aspecto_en": "A full-body portrait of an adult man of unspecified folk in a rich coat, with a calculating bearing and contained voice. His expression is controlled and self-interested. Cold winter light and wealthier fabrics frame him.",
-   "presentacion": "Ante vosotros distinguís adulto de pueblo y físico sin describir aquí, propuesta visual de abrigo rico y porte calculador; voz contenida. El frío vuelve visibles vuestras respiraciones y acentúa cada pausa. Al acercaros, podéis apreciar el desgaste de la ropa y los pequeños gestos que delatan su ánimo. Durante un instante, el silencio os permite medir la distancia y decidir cómo presentaros.",
+   "presentacion": "Ante vosotros distinguís adulto con abrigo rico y porte calculador; voz contenida. El frío vuelve visibles vuestras respiraciones y acentúa cada pausa. Al acercaros, podéis apreciar el desgaste de la ropa y los pequeños gestos que delatan su ánimo. Durante un instante, el silencio os permite medir la distancia y decidir cómo presentaros.",
    "caracter": "calculador y contenido; quiere el caldero y no lo cede sin resistencia",
    "quiere": "el caldero, recibir informes y controlar el alimento entre ciudades",
-   "sabe": "la red de Prudence y el robo; no combate en esta ficha",
+   "sabe": "la red de Prudence y el robo",
    "desafio": null
   },
   {
@@ -696,7 +696,7 @@
    "papel": "líder duergar que pretende destruir Diez Ciudades",
    "ciudad": "otro",
    "aspecto_en": "A full-body portrait of an adult grey dwarf with grey skin, mountain fortress clothing, severe expression and a low voice. His stance is commanding and cold. Dark stone and winter light frame him.",
-   "presentacion": "Ante vosotros distinguís duergar adulto, propuesta visual de piel gris y ropas de fortaleza montañesa, severidad y voz baja. El frío vuelve visibles vuestras respiraciones y acentúa cada pausa. Al acercaros, podéis apreciar el desgaste de la ropa y los pequeños gestos que delatan su ánimo. Durante un instante, el silencio os permite medir la distancia y decidir cómo presentaros.",
+   "presentacion": "Ante vosotros distinguís duergar adulto, piel gris y ropas de fortaleza montañesa, severidad y voz baja. El frío vuelve visibles vuestras respiraciones y acentúa cada pausa. Al acercaros, podéis apreciar el desgaste de la ropa y los pequeños gestos que delatan su ánimo. Durante un instante, el silencio os permite medir la distancia y decidir cómo presentaros.",
    "caracter": "severo y ambicioso; quiere conquistar el valle",
    "quiere": "destruir Diez Ciudades con su dragón de chardalyn",
    "sabe": "la forja alimentada por un corazón de dragón rojo y el proyecto del dragón; no combate aquí",
@@ -708,7 +708,7 @@
    "papel": "hijo de Xardorok que manda el puesto cercano a la Cumbre de Kelvin",
    "ciudad": "otro",
    "aspecto_en": "A full-body portrait of an adult grey dwarf with grey skin, mountain fortress clothing, severe expression and a low voice. His stance is commanding and cold. Dark stone and winter light frame him.",
-   "presentacion": "Ante vosotros distinguís duergar adulto, propuesta visual de piel gris y ropas de fortaleza montañesa, severidad y voz baja. El frío vuelve visibles vuestras respiraciones y acentúa cada pausa. Al acercaros, podéis apreciar el desgaste de la ropa y los pequeños gestos que delatan su ánimo. Durante un instante, el silencio os permite medir la distancia y decidir cómo presentaros.",
+   "presentacion": "Ante vosotros distinguís duergar adulto, piel gris y ropas de fortaleza montañesa, severidad y voz baja. El frío vuelve visibles vuestras respiraciones y acentúa cada pausa. Al acercaros, podéis apreciar el desgaste de la ropa y los pequeños gestos que delatan su ánimo. Durante un instante, el silencio os permite medir la distancia y decidir cómo presentaros.",
    "caracter": "severo y reservado; manda el puesto cercano a la Cumbre de Kelvin",
    "quiere": "servir a Xardorok y reunir recursos",
    "sabe": "la ubicación del puesto al nordeste de la Cumbre de Kelvin; no combate aquí",
@@ -738,7 +738,7 @@
     "Merodeador"
    ],
    "aspecto_en": "A full-body portrait of an adult grey dwarf, compact, wearing a dark coat, with a hard gaze and discreet travel gear. His expression is cautious, arrogant under pressure and threatening. Cold winter light and snow suit his stern presence.",
-   "descripcion": "duergar maestro de la mente, hijo mayor vivo de Xardorok. Su presencia condiciona el ferry, el mapa y el chardalyn.",
+   "descripcion": "duergar maestro de la mente, hijo mayor vivo de Xardorok. Su presencia afecta a el ferry, el mapa y el chardalyn.",
    "limites": [
     {
      "nombre": "herido",
@@ -769,10 +769,10 @@
    "amenazas": [
     {
      "nombre": "Atacar desde el rincón invisible",
-     "descripcion": "inflige [herido-2]; crea [posición de Durth incierta].",
+     "descripcion": "inflige [herido-2]; crea [posición de durth incierta].",
      "consecuencias": [
       "Inflige [herido-2]",
-      "Crea [posición de Durth incierta]"
+      "Crea [posición de durth incierta]"
      ]
     },
     {
@@ -784,10 +784,10 @@
     },
     {
      "nombre": "Escaparse al quedar con [herido-3]",
-     "descripcion": "crea [tamaño diminuto]; si no bloquean el agujero, [Durth rumbo a la fortaleza].",
+     "descripcion": "crea [tamaño diminuto]; si no bloquean el agujero, [durth rumbo a la fortaleza].",
      "consecuencias": [
       "Crea [tamaño diminuto]",
-      "Crea [Durth rumbo a la fortaleza]"
+      "Crea [durth rumbo a la fortaleza]"
      ]
     }
    ],
@@ -808,7 +808,7 @@
     "Merodeador"
    ],
    "aspecto_en": "A full-body group portrait of three grey dwarf seekers with compact muscular builds, grey skin and hard suspicious faces. Heavy winter layers cover practical armour, with mining tools and dark metal weapons. Their crouched stances suggest raiders in snow. Muted iron, ash and brown tones.",
-   "descripcion": "tres duergar tratados como un solo desafío. Su presencia condiciona el ferry, el mapa y el chardalyn.",
+   "descripcion": "tres duergar tratados como un solo desafío. Su presencia afecta a el ferry, el mapa y el chardalyn.",
    "limites": [
     {
      "nombre": "heridos",
@@ -853,16 +853,16 @@
     },
     {
      "nombre": "Llenar los sacos y retirarse",
-     "descripcion": "crea [chardalyn en camino a Xardorok]; retira el mapa y pertenencias del ferry.",
+     "descripcion": "crea [chardalyn en camino a xardorok]; retira el mapa y pertenencias del ferry.",
      "consecuencias": [
-      "Crea [chardalyn en camino a Xardorok]"
+      "Crea [chardalyn en camino a xardorok]"
      ]
     }
    ],
    "secretos": [
     {
      "nombre": "Debilidades y secretos",
-     "descripcion": "abandonan el barco si Durth falta o ha muerto. Una acción con coacción creíble sobre Durth o influencia mágica puede alcanzar «doblegados» y obtener [planes de Xardorok revelados]; el fallo mantiene [prisioneros herméticos]."
+     "descripcion": "abandonan el barco si Durth falta o ha muerto. Una acción con coacción creíble sobre Durth o influencia mágica puede alcanzar «doblegados» y obtener [planes de xardorok revelados]; el fallo mantiene [prisioneros herméticos]."
     }
    ]
   },
@@ -876,7 +876,7 @@
     "Merodeador"
    ],
    "aspecto_en": "A full-body portrait of two hungry harpies with ragged wings, sharp talons and gaunt birdlike bodies. Their expressions are desperate and predatory. Cold lake light, grey feathers and icy rocks.",
-   "descripcion": "dos arpías hambrientas en el lago. Su presencia condiciona el registro del bote.",
+   "descripcion": "dos arpías hambrientas en el lago. Su presencia afecta a el registro del bote.",
    "limites": [
     {
      "nombre": "heridas",
@@ -932,7 +932,7 @@
     "Merodeador"
    ],
    "aspecto_en": "A full-body portrait of a huge terrible wolf with matted grey fur, enormous fangs and powerful limbs. Its expression is hungry and feral. Cold cave light and ice frame its crouched stance.",
-   "descripcion": "un lobo terrible hambriento en U2. Su presencia condiciona las entradas de las cuevas.",
+   "descripcion": "un lobo terrible hambriento en U2. Su presencia afecta a las entradas de las cuevas.",
    "limites": [
     {
      "nombre": "herido",
@@ -993,7 +993,7 @@
     "Merodeador"
    ],
    "aspecto_en": "A full-body portrait of a water weird emerging from broken ice, a serpentine body of translucent water with glowing eyes and grasping tendrils. Its form is fluid and cold. Blue light and shattered ice surround it.",
-   "descripcion": "un extraño de agua dormido tras la cascada. Su presencia condiciona U7 y el equipo atrapado.",
+   "descripcion": "un extraño de agua dormido tras la cascada. Su presencia afecta a U7 y el equipo atrapado.",
    "limites": [
     {
      "nombre": "dispersado",
@@ -1061,7 +1061,7 @@
     "Bruto"
    ],
    "aspecto_en": "A full-body portrait of a huge frost giant skeleton, partially frozen, with massive bones and ice clinging to its ribs. Its expression is an empty skeletal grin. Cold blue light and ancient cave stone frame it.",
-   "descripcion": "un esqueleto de gigante de la escarcha, apéndice C. Su presencia condiciona U9 y U10.",
+   "descripcion": "un esqueleto de gigante de la escarcha. Su presencia afecta a U9 y U10.",
    "limites": [
     {
      "nombre": "desmantelado",
@@ -1127,7 +1127,7 @@
     "Controlador"
    ],
    "aspecto_en": "A full-body portrait of an apparent hunched old woman in tattered furs; in truth grey-violet skin, bulging eyes that barely blink and straight black hair braided with phalanges. Her expression is false hospitality hiding a cackle. Cold cave light and steam.",
-   "descripcion": "saga del lago, cocinera caníbal y dueña del caldero. Su presencia condiciona U10.",
+   "descripcion": "saga del lago, cocinera caníbal y dueña del caldero. Su presencia afecta a U10.",
    "limites": [
     {
      "nombre": "herida",
@@ -1203,7 +1203,7 @@
     "Apoyo"
    ],
    "aspecto_en": "An environmental portrait of a will-o'-wisp, a small glowing spectral light drifting in a dark cave. Its cold light reveals hidden shapes. Blue-white glow and deep shadow.",
-   "descripcion": "un fuego fatuo que acompaña a Maud. Su presencia condiciona U10.",
+   "descripcion": "un fuego fatuo que acompaña a Maud. Su presencia afecta a U10.",
    "limites": [
     {
      "nombre": "disipado",
@@ -1250,7 +1250,7 @@
    "secretos": [
     {
      "nombre": "Debilidades y secretos",
-     "descripcion": "la revelación súbita es parte de la emboscada; prepararse para ella o impedir ver a Maud evita esa ventaja concreta."
+     "descripcion": "la revelación súbita es parte de la emboscada; prepararse para ella o impedir ver a Maud impide que la sorpresa cuente como etiqueta en contra."
     }
    ]
   },
@@ -1264,7 +1264,7 @@
     "Merodeador"
    ],
    "aspecto_en": "A close environmental view of four animated crawling claws hidden beneath treasure in a flooded chest. Small bony hands with dirty nails reach outward. Dark water, broken lock and tarnished coins frame them.",
-   "descripcion": "cuatro zarpas reptantes escondidas bajo la riqueza del cofre. Su presencia condiciona el pacto de Maud.",
+   "descripcion": "cuatro zarpas reptantes escondidas bajo la riqueza del cofre. Su presencia afecta a el pacto de Maud.",
    "limites": [
     {
      "nombre": "aplastadas",
@@ -1320,7 +1320,7 @@
     "Controlador"
    ],
    "aspecto_en": "An environmental portrait of an invisible poltergeist in a séance room, with overturned furniture, frost-covered windows and scattered candles. Cold blue light and broken glass. No visible body.",
-   "descripcion": "un poltergeist, variante del espectro. Su presencia condiciona la sesión de la Dama Blanca.",
+   "descripcion": "un poltergeist, variante del espectro. Su presencia afecta a la sesión de la Dama Blanca.",
    "limites": [
     {
      "nombre": "expulsado",
@@ -1377,7 +1377,7 @@
     "Controlador"
    ],
    "aspecto_en": "A full-body portrait of a spectral woman with soaked white hair hiding her face, appearing beside a demonic mask; when approached, her face becomes a smiling skull. Cold blue light, black chardalyn and spectral mist.",
-   "descripcion": "un fantasma en T6, distinto modo de aparición del mismo espíritu. Su presencia condiciona T6.",
+   "descripcion": "un fantasma en T6, distinto modo de aparición del mismo espíritu. Su presencia afecta a T6.",
    "limites": [
     {
      "nombre": "desterrado",
@@ -1452,7 +1452,7 @@
     "Merodeador"
    ],
    "aspecto_en": "A full-body group portrait of three human thugs in winter clothing, a discreetly dressed infiltrator and a domesticated axe beak. Their expressions are professional and ruthless. Cold night light, ropes and snow frame the scene.",
-   "descripcion": "tres matones humanos, Prudence sin bloque individual y un pico de hacha domesticado; la serpiente voladora es mensajera, no un combatiente adicional. Su presencia condiciona el robo del caldero.",
+   "descripcion": "tres matones humanos, Prudence sin bloque individual y un pico de hacha domesticado; la serpiente voladora es mensajera, no un combatiente adicional. Su presencia afecta a el robo del caldero.",
    "limites": [
     {
      "nombre": "incapacitados",
@@ -1483,9 +1483,9 @@
    "amenazas": [
     {
      "nombre": "Acorralar al portavoz",
-     "descripcion": "crea [Waylen rehén]; impone [guardias coaccionados-3].",
+     "descripcion": "crea [waylen rehén]; impone [guardias coaccionados-3].",
      "consecuencias": [
-      "Crea [Waylen rehén]",
+      "Crea [waylen rehén]",
       "Impone [guardias coaccionados-3]"
      ]
     },
@@ -1506,16 +1506,16 @@
     },
     {
      "nombre": "Poner en marcha al ave",
-     "descripcion": "crea [caldero rumbo a Targos]; tras una a cuatro horas desaparece [rastro de arrastre].",
+     "descripcion": "crea [caldero rumbo a targos]; tras una a cuatro horas desaparece [rastro de arrastre].",
      "consecuencias": [
-      "Crea [caldero rumbo a Targos]"
+      "Crea [caldero rumbo a targos]"
      ]
     }
    ],
    "secretos": [
     {
      "nombre": "Debilidades y secretos",
-     "descripcion": "liberar al rehén rompe su principal ventaja. Soltar las cuerdas o detener al ave ataca «fuga impedida». La supuesta familia de Prudence conduce a Targos aunque desaparezcan las huellas."
+     "descripcion": "liberar al rehén elimina la etiqueta a favor [rehén amenazado]. Soltar las cuerdas o detener al ave ataca «fuga impedida». La supuesta familia de Prudence conduce a Targos aunque desaparezcan las huellas."
     }
    ]
   },
@@ -1529,7 +1529,7 @@
     "Apoyo"
    ],
    "aspecto_en": "A full-body portrait of four municipal guards in winter militiamen gear, with simple weapons and determined but fearful expressions. Their posture suggests defenders of the town hall. Cold stone and lantern light.",
-   "descripcion": "cuatro guerreros tribales en T17 o vigilando el caldero; la villa puede reunir hasta 150 soldados del mismo origen. Su presencia condiciona el Ayuntamiento.",
+   "descripcion": "cuatro milicianos en T17 o vigilando el caldero; la villa puede reunir hasta 150 soldados. Su presencia afecta a el Ayuntamiento.",
    "limites": [
     {
      "nombre": "heridos",
@@ -1597,7 +1597,7 @@
     "Apoyo"
    ],
    "aspecto_en": "A full-body group portrait of veteran militiamen in sturdy winter gear, with coordinated stances and experienced expressions. Their equipment is resistant and well maintained. Cold light and town background.",
-   "descripcion": "doce veteranos disponibles en la villa; Imdra también usa el origen veterano. Agrupar solo a quienes estén presentes. Su presencia condiciona el orden municipal.",
+   "descripcion": "doce veteranos disponibles en la villa; Imdra comparte sus capacidades marciales. Agrupar solo a quienes estén presentes. Su presencia afecta a el orden municipal.",
    "limites": [
     {
      "nombre": "heridos",
@@ -1666,7 +1666,7 @@
     "Bruto"
    ],
    "aspecto_en": "A full-body portrait of a robust white dragonborn woman in thick work clothes and apron, with pale scales and a furious expression. Her stance is aggressive and protective of her tavern. Warm firelight and cold air.",
-   "descripcion": "una berserker dracónida de ascendencia blanca. Su presencia condiciona la Trucha Húmeda.",
+   "descripcion": "una tabernera dracónida de ascendencia blanca y furia temible. Su presencia afecta a la Trucha Húmeda.",
    "limites": [
     {
      "nombre": "herida",
@@ -1722,7 +1722,7 @@
     "Merodeador"
    ],
    "aspecto_en": "A full-body portrait of an adult sailor in a mariner's coat, with an easy smile and weathered hands. His expression is affable and defensive only if attacked. Cold dock light and rope details.",
-   "descripcion": "Scython, capitán de bandidos. Su presencia condiciona el ferry y los rumores.",
+   "descripcion": "Scython, marinero experimentado capaz de defenderse. Su presencia afecta a el ferry y los rumores.",
    "limites": [
     {
      "nombre": "herido",
@@ -1764,7 +1764,7 @@
    "secretos": [
     {
      "nombre": "Debilidades y secretos",
-     "descripcion": "es buena persona y suele preferir hablar. No usar su origen de estadísticas como prueba de una vida criminal que la fuente no establece."
+     "descripcion": "es buena persona y suele preferir hablar. Su capacidad para pelear no implica una vida criminal."
     }
    ]
   },
@@ -1777,7 +1777,7 @@
     "Peligro"
    ],
    "aspecto_en": "A wide environmental view of a frozen lake between ice floes, with dark water, uneven ice and a snowy shore beneath high cliffs. Cold blue light and windblown snow. No people or creatures.",
-   "descripcion": "navegación entre témpanos, frío y peligro de ahogamiento. Su presencia condiciona el lago.",
+   "descripcion": "navegación entre témpanos, frío y peligro de ahogamiento. Su presencia afecta a el lago.",
    "limites": [
     {
      "nombre": "travesía asegurada",
@@ -1841,7 +1841,7 @@
     "Obstáculo"
    ],
    "aspecto_en": "A full-body portrait of a massive demonic figurehead of black chardalyn, winged and fierce, with hull splinters in its back. It is not alive. Cold light is swallowed by its surface. Black crystal and dark stone.",
-   "descripcion": "objeto de chardalyn demoníaco en T6; nivel ambiental propuesto. Su presencia condiciona T6 y el robo.",
+   "descripcion": "objeto de chardalyn demoníaco en T6. Su presencia afecta a T6 y el robo.",
    "limites": [
     {
      "nombre": "desmantelado",
@@ -1871,16 +1871,16 @@
    "amenazas": [
     {
      "nombre": "Corromper al contacto directo",
-     "descripcion": "inflige [paranoia de Auril-3] si no se resiste espiritualmente.",
+     "descripcion": "inflige [paranoia de auril-3] si no se resiste espiritualmente.",
      "consecuencias": [
-      "Inflige [paranoia de Auril-3]"
+      "Inflige [paranoia de auril-3]"
      ]
     },
     {
      "nombre": "Mantener el contacto",
-     "descripcion": "agrava [paranoia de Auril] un nivel; crea [desconfianza entre aliados].",
+     "descripcion": "agrava [paranoia de auril] un nivel; crea [desconfianza entre aliados].",
      "consecuencias": [
-      "Agrava [paranoia de Auril]",
+      "Agrava [paranoia de auril]",
       "Crea [desconfianza entre aliados]"
      ]
     },
@@ -1895,7 +1895,7 @@
    "secretos": [
     {
      "nombre": "Debilidades y secretos",
-     "descripcion": "veneno y ataques a la mente no dañan el objeto. Herramientas pesadas y el cabrestante permiten manipularlo; guantes, envolturas y recipientes evitan contacto directo si se usan eficazmente. Aislarlo contiene el peligro; romperlo no limpia los fragmentos. La purificación exige una capacidad espiritual pertinente, cuya existencia no se garantiza en la fuente."
+     "descripcion": "veneno y ataques a la mente no dañan el objeto. Herramientas pesadas y el cabrestante permiten manipularlo; guantes, envolturas y recipientes evitan contacto directo si se usan eficazmente. Aislarlo contiene el peligro; romperlo no limpia los fragmentos. La purificación exige una capacidad espiritual pertinente."
     }
    ]
   }
@@ -1926,7 +1926,7 @@
    "slug": "equipo-monje",
    "nombre": "Equipo de monje",
    "etiqueta": "equipo de monje",
-   "descripcion": "bulto recuperado en U7, aprovechable en acciones acordes a su uso; la lectura «monje» corrige una palabra corrupta del texto.",
+   "descripcion": "bulto recuperado en U7, aprovechable en acciones acordes a su uso.",
    "imagen_en": "A bundled kit of simple robes, sandals and travel tools, isolated on a neutral background under soft oblique light."
   },
   {
@@ -1938,8 +1938,8 @@
   },
   {
    "slug": "pergamino-bola-fuego",
-   "nombre": "Pergamino de bola de fuego en tubo de cobre",
-   "etiqueta": "pergamino de bola de fuego",
+   "nombre": "Pergamino de explosión ígnea en tubo de cobre",
+   "etiqueta": "pergamino de explosión ígnea",
    "descripcion": "mochila de un uso; rutina para liberar una explosión de fuego en un área, propuesta [abrasado-3] sobre objetivos expuestos y [material inflamable ardiendo]. Se consume al emplearlo.",
    "imagen_en": "An isolated copper tube containing a rolled parchment scroll, with sealed ends and faint magical glow, on a neutral background under soft light."
   },
@@ -1975,7 +1975,7 @@
    "slug": "carta-puesto-duergar",
    "nombre": "Carta del puesto duergar",
    "etiqueta": "carta del puesto duergar",
-   "descripcion": "posible ayuda y gancho de «Los Invisibles». Esta fuente menciona la carta, pero no reproduce su texto; no inventar una transcripción atribuida al libro.",
+   "descripcion": "posible ayuda y gancho de «Los Invisibles». Úsala para conducir a los Héroes hasta el ferry.",
    "imagen_en": "An isolated folded letter with a broken wax seal, on a neutral background under soft light, no visible text."
   },
   {
@@ -2020,13 +2020,13 @@
   "Informe sobre los pescadores: completar la investigación y elegir el pergamino o la bolsa.",
   "Maud derrotada: desaparece la depredadora y queda el caldero.",
   "Maud liberada: entrega el caldero y el cofre trampeado, pero sobrevive en el lago.",
-  "Caldero compartido: obtener [comunidad alimentada] y [gratitud de Puerto Este].",
-  "Robo zhentarim impedido: caldero y portavoz a salvo, [confianza del Ayuntamiento].",
-  "Duergar detenidos: conservar el mapa y obtener [advertencia sobre el dragón] y [ruta a El Azote del Sol].",
+  "Caldero compartido: obtener [comunidad alimentada] y [gratitud de puerto este].",
+  "Robo zhentarim impedido: caldero y portavoz a salvo, [confianza del ayuntamiento].",
+  "Duergar detenidos: conservar el mapa y obtener [advertencia sobre el dragón] y [ruta a el azote del sol].",
   "Fragmentos devueltos: Waylen concede [favor por recuperación de chardalyn].",
   "La Dama: una sesión exitosa concede información; vencerla en T6 la devuelve al lago.",
   "Salvar a un anfitrión poseído puede ser un hito de una Gesta vinculada al cuidado o al valor.",
-  "Descubrir y neutralizar el mascarón profanado sin caer en [paranoia de Auril-3]."
+  "Descubrir y neutralizar el mascarón profanado sin caer en [paranoia de auril-3]."
  ],
  "relojes": []
 }

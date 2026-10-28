@@ -1,53 +1,53 @@
 # El Valle del Viento Helado
 
 ## Resumen para el Narrador
-El Valle del Viento Helado es una tundra helada al norte de la Espina del Mundo, atrapada en el invierno eterno de Auril: los vientos catabáticos del glaciar Reghed barren la región, el sol no se alza y la aurora anuncia un invierno sin fin. En este paisaje sobreviven las comunidades de Diez Ciudades, los nómadas Reghed, los enanos Battlehammer y los goliats, pescando, cazando, minando y comerciando aceite de ballena. Los Héroes, ya con reputación en Diez Ciudades, salen a explorar localizaciones dispersas, aceptar misiones y afrontar encuentros salvajes. El capítulo es un sandbox para Héroes de nivel 4 o superior: el Narrador decide qué encuentros y misiones aparecen y a qué ritmo. El frío, la ventisca, el hielo fino y el agua helada son desafíos constantes; la crueldad de Auril se manifiesta en la aurora, los sacrificios y las criaturas corrompidas por la chardalyn.
+El Valle del Viento Helado es una tundra helada al norte de la Espina del Mundo, atrapada en el invierno eterno de Auril: los vientos catabáticos del glaciar Reghed barren la región, el sol no se alza y la aurora anuncia un invierno sin fin. En este paisaje sobreviven las comunidades de Diez Ciudades, los nómadas Reghed, los enanos Battlehammer y los goliats, pescando, cazando, minando y comerciando aceite de ballena. Los Héroes, ya con reputación en Diez Ciudades, salen a explorar localizaciones dispersas, aceptar misiones y afrontar encuentros salvajes. El capítulo ofrece exploración abierta para Héroes curtidos: el Narrador decide qué encuentros y misiones aparecen y a qué ritmo. El frío, la ventisca, el hielo fino y el agua helada son desafíos constantes; la crueldad de Auril se manifiesta en la aurora, los sacrificios y las criaturas corrompidas por la chardalyn.
 
 ## Ganchos y cómo empieza
-Los Héroes llegan a este capítulo cuando ya tienen reputación en Diez Ciudades. A nivel 3, los PNJs comparten con ellos las grandes historias del valle; los jugadores deciden cuáles investigar. El Narrador puede elegir las historias o sortearlas, y puede usar cualquiera o todas las misiones para atraer a los Héroes.
+Los Héroes llegan a este capítulo cuando ya tienen reputación en Diez Ciudades. Cuando empiezan a hacerse un nombre, los PNJ comparten con ellos las grandes historias del valle; los jugadores deciden cuáles investigar. El Narrador puede elegir las historias o sortearlas, y puede usar cualquiera o todas las misiones para atraer a los Héroes.
 
-Progresión sugerida: los Héroes suben de nivel tras dos o tres sesiones explorando el valle; tras neutralizar las amenazas de dos o tres lugares peligrosos; o tras una hazaña extraordinaria, como poner fin a la disputa entre los clanes goliath o sobrevivir a un encuentro cercano con Arveiaturace. A partir del nivel 7, ya no deberían ganar niveles por exploración ni por encuentros aleatorios; dirígelos entonces a los lugares de los capítulos 5 a 7.
+Progresión sugerida: los Héroes alcanzan un hito tras dos o tres sesiones explorando el valle; tras neutralizar las amenazas de dos o tres lugares peligrosos; o tras una hazaña extraordinaria, como poner fin a la disputa entre los clanes goliath o sobrevivir a un encuentro cercano con Arveiaturace. Cuando los Héroes ya sean veteranos con temas de Aventura, la exploración y los encuentros ocasionales proporcionan favores y reputación; las grandes gestas los esperan en la isla de Auril, las cuevas de hielo y Ythryn.
 
-Frecuencia de encuentros: el Narrador decide si y cuándo ocurren; uno o dos por sesión suele bastar. Si duda, tira 1d8 en la tabla de número de encuentros. Para jugar un encuentro, tira dos d20 de distinto color: el primero es el dado de encuentro, el segundo el dado de ventisca. Consulta la tabla de encuentros aleatorios con el primero; suma 1 al segundo y, si el total supera la tirada del encuentro, este ocurre durante una ventisca que empieza 1d4 horas antes y termina 1d4 horas después. Las dificultades asumen Héroes de 4.º, 5.º o 6.º nivel.
+Frecuencia de encuentros: el Narrador decide si y cuándo ocurren; uno o dos por sesión suele bastar. Si duda, tira 1d8 en la tabla de número de encuentros. Para jugar un encuentro, tira dos d20 de distinto color: el primero es el dado de encuentro, el segundo el dado de ventisca. Consulta la tabla de encuentros aleatorios con el primero; suma 1 al segundo y, si el total supera la tirada del encuentro, este ocurre durante una ventisca que empieza 1d4 horas antes y termina 1d4 horas después. Las dificultades orientan al Narrador para un grupo de Héroes curtidos.
 
 ### Grandes historias en Diez Ciudades
 Pueden darse como rumores o convertirse en ganchos. No son verdades probadas hasta que la investigación lo confirme.
 
 | d20 | Historia |
 | --- | --- |
-| 1-2 | La Doncella de Hielo vive en una isla brumosa del Mar de Hielo Móvil; una ballena extraña con un bote en el lomo conoce su paradero y se puede llamar en la Campana de Angajuk. |
+| 1-2 | La Doncella de la Escarcha vive en una isla brumosa del Mar de Hielo Móvil; una ballena extraña con un bote en el lomo conoce su paradero y se puede llamar en la Campana de Angajuk. |
 | 3-4 | Una vieja cabaña negra, posiblemente embrujada, donde un gnomo llamado Cobre realiza experimentos mágicos en Bryn Shander (Casa del Señor de la Mañana). |
-| 5-6 | Nabira Moarskull, pescadora de Easthaven, tenía un anzuelo encantado; unos gnolls la mataron y lo robaron; los cazadores los rastrearon hasta una grieta helada. |
+| 5-6 | Nabira Moarskull, pescadora de Puerto Este, tenía un anzuelo encantado; unos gnolls la mataron y lo robaron; los cazadores los rastrearon hasta una grieta helada. |
 | 7-8 | Un barco pirata congelado en el hielo al noroeste de Bremen, con posible tesoro en su bodega. |
 | 9-10 | Un cometa cayó al sur de Diez Ciudades; algunas personas reciben mensajes mentales en un idioma desconocido (Habla Profunda). |
 | 11-12 | Los jarls gigantes se reunían en una colina al oeste; sus tronos siguen allí (Concilio de los Jarls). |
 | 13-14 | Los goblins merodean la tundra y el Sendero de los Diez; tramperos encontraron su fortaleza en las montañas (Karkolohk). |
-| 15-16 | Un mago quemado en Easthaven admitió pertenecer a la Hermandad Arcana; Vaelish Gant, preso en Revel's End, podría saber más (El Fin de la Fiesta). |
+| 15-16 | Un mago quemado en Puerto Este admitió pertenecer a la Hermandad Arcana; Vaelish Gant, preso en Revel's End, podría saber más (El Fin de la Fiesta). |
 | 17 | Los nómadas Reghed conocen cada secreto del valle; siguen a las manadas de renos. |
 | 18 | Algunos culpan a la Hermandad Arcana del invierno eterno; Vaelish Gant está detrás de todo, según este rumor. |
 | 19-20 | Dos clanes goliath enfrentados en la Espina del Mundo podrían unirse si alguien de Diez Ciudades los ayuda (Refugio de la Torre del Cielo y Peña de la Perdición de las Sierpes). |
 
 ### Misiones del valle
-- **Adquisición de aceite de ballena** (Campana de Angajuk): Helka Jaggerath, comerciante semielfa de Bryn Shander, contrata guardaespaldas para viajar a la Campana de Angajuk y persuadir al cachalote Angajuk para que lleve a los balleneros del Mar de Hielo Móvil. Cada barril pesa 50 libras y cuesta 25 po; Helka tiene 300 po para seis barriles y 150 po para los Héroes. La expedición dura unos diez días si Angajuk coopera. Helka advierte de no revelar que los barriles contienen aceite de ballena; dirá que es aceite de pescado.
-- **Cabezas de gnoll** (Sima de las Risas): Trovus, portavoz dracónido de Caer-Konig, ofrece 10 po por cada cabeza de gnoll traída de la Sima de Cacareo.
-- **El camino de Yselm** (Concilio de los Jarls): Yselm Colmillo Sangriento, druida de escarcha humano y antiguo nómada de la Tribu Tigre, se presenta como guía por 25 po y lleva a los Héroes a Jarlmoot. Es adoradora secreta de Auril y, si los Héroes superan los desafíos de Reggaryarva, los traiciona junto a un lobo invernal enviado por la Doncella de Escarcha; ambos luchan hasta la muerte.
+- **Adquisición de aceite de ballena** (Campana de Angajuk): Helka Jaggerath, comerciante semielfa de Bryn Shander, contrata guardaespaldas para viajar a la Campana de Angajuk y persuadir al cachalote Angajuk para que lleve a los balleneros del Mar de Hielo Móvil. Cada barril pesa 25 kg. Helka lleva [fondos para seis barriles] y ofrece [bolsa de monedas] a los Héroes. La expedición dura unos diez días si Angajuk coopera. Helka advierte de no revelar que los barriles contienen aceite de ballena; dirá que es aceite de pescado.
+- **Cabezas de gnoll** (Sima de las Risas): Trovus, portavoz dracónido de Caer-Konig, ofrece [pequeña bolsa de monedas] por cada cabeza de gnoll traída de la Sima de las Risas.
+- **El camino de Yselm** (Concilio de los Jarls): Yselm Colmillo Sangriento, druida de escarcha humano y antiguo nómada de la Tribu Tigre, se presenta como guía por [bolsa de monedas] y lleva a los Héroes a Concilio de los Jarls. Es adoradora secreta de Auril y, si los Héroes superan los desafíos de Reggaryarva, los traiciona junto a un lobo invernal enviado por la Doncella de la Escarcha; ambos luchan hasta la muerte.
 - **Caníbales de la Tribu del Lobo**: Aluka, un hombre lobo en forma humana, avisa de que el campamento de Sangra Grisgir recurre al canibalismo. Los caníbales se han comido perros y ancianos; incluso los niños. Si los Héroes actúan rápido pueden salvar a Honeybee Littlebucket, un mediano trampero que atrapa liebres para la tribu.
-- **La caza del Yeti Rojo** (Aguja Perdida de Netheril): un cazador llamado Mylbor Tafferac apuesta 300 po a que mata al Yeti Rojo antes que los Héroes. La búsqueda lleva accidentalmente al descubrimiento de la Aguja Perdida; al volver, el yeti ya está muerto a manos de Mylbor.
-- **Estofado de huesos de dragón** (Peña de la Perdición de las Sierpes): Dannika Graysteel pide huesos de dragón blanco; ofrece el primer lote gratis (equivalente a una poción de resistencia al frío). Consumirlo causa locura: codicia y paranoia de dragón, curable solo con restauración mayor o magia similar.
-- **El fin de la paz** (Karkolohk): un mensajero goblin llevaba una declaración de paz del jefe Yarb-Gnock a Duvessa Shane. El sheriff Markham Southwell ofrece 300 po por la cabeza del jefe. En Karkolohk, la declaración puede ser sincera o una estratagema para que Yarb-Gnock escape; el Narrador decide.
+- **La caza del Yeti Rojo** (Aguja Perdida de Netheril): un cazador llamado Mylbor Tafferac apuesta [pago generoso] a que mata al Yeti Rojo antes que los Héroes. La búsqueda lleva accidentalmente al descubrimiento de la Aguja Perdida; al volver, el yeti ya está muerto a manos de Mylbor.
+- **Estofado de huesos de dragón** (Peña de la Perdición de las Sierpes): Dannika Graysteel pide huesos de dragón blanco; ofrece el primer lote gratis (equivalente a una poción de resistencia al frío). Consumirlo causa locura: codicia y paranoia de dragón, curable solo con magia capaz de sanar una mente corrompida.
+- **El fin de la paz** (Karkolohk): un mensajero goblin llevaba una declaración de paz del jefe Yarb-Gnock a Duvessa Shane. El sheriff Markham Southwell ofrece [pago generoso] por la cabeza del jefe. En Karkolohk, la declaración puede ser sincera o una estratagema para que Yarb-Gnock escape; el Narrador decide.
 - **Un problema de tamaño goliath** (Refugio de la Torre del Cielo): Kwan el Monolito Akannathi, guerrera goliath adicta al juego y ladrona arrepentida, pide ayuda para volver al Refugio de la Torre del Cielo y convencer a Arn, jefe del clan Akannathi, de unir a los clanes goliath contra el invierno eterno. Ofrece una figurita de maravilloso poder (Cuervo Plateado) robada.
 - **Provisiones para Macreadus** (Cabaña Negra): Cobre Rompepomos, gnomo acólito de Lathander en la Casa del Señor de la Mañana de Bryn Shander, pide llevar provisiones a Macreadus, que construye un dispositivo para acabar con la Rima Eterna. No hay recompensa monetaria, pero Mishann ofrece curación gratuita al completar la misión.
-- **Ron cero** (La Duquesa Oscura): los taberneros de Bremen ofrecen precio justo más 150 po por bebidas alcohólicas del barco pirata congelado; no hay ron, pero otros tesoros superan la recompensa.
-- **Señal de socorro**: cuatro habitantes de Diez Ciudades sensibles a lo psíquico oyen un mensaje en Habla Profunda que no entienden. Ofrecen 250 po por investigar su fuente y silenciarla. Son Vedda Starsprit, Nars Beldrun, Telvaster Hangingbell y Kaska Lang.
-- **Tras las rejas** (El Fin de la Fiesta): Duvessa Shane pide interrogar a Vaelish Gant en Revel's End sobre la Hermandad Arcana en Diez Ciudades; recompensa de 250 po si se obtiene información útil, más una carta para solicitar reducción de condena. Si no hay información, hay que avisar al director de una posible fuga.
+- **Ron cero** (La Duquesa Oscura): los taberneros de Bremen ofrecen precio justo más [bolsa de monedas] por bebidas alcohólicas del barco pirata congelado; no hay ron, pero otros tesoros superan la recompensa.
+- **Señal de socorro**: cuatro habitantes de Diez Ciudades sensibles a lo psíquico oyen un mensaje en Habla Profunda que no entienden. Ofrecen [pago generoso] por investigar su fuente y silenciarla. Son Vedda Starsprit, Nars Beldrun, Telvaster Hangingbell y Kaska Lang.
+- **Tras las rejas** (El Fin de la Fiesta): Duvessa Shane pide interrogar a Vaelish Gant en Revel's End sobre la Hermandad Arcana en Diez Ciudades; recompensa de [pago generoso] si se obtiene información útil, más una carta para solicitar reducción de condena. Si no hay información, hay que avisar al director de una posible fuga.
 
 ## Escenas
 
 ### El valle bajo la aurora de Auril
 - **Lugar e imagen**: tundra blanca y gris bajo un cielo oscuro, aurora verde-azulada sobre el horizonte, glaciares al este como muros de prisión, picos nevados al sur, mar de hielo al norte y oeste, viento levantando nieve, sin figuras humanas.
-- **Lectura**: El viento os encuentra antes que cualquier camino. Bajo la aurora, el valle parece un cuenco de hielo y piedra: glaciares al este, montañas al sur, mar agitado al norte. La nieve se acumula en montículos que borran huellas y promesas. Aquí la gente sigue a los renos, pesca en lagos traicioneros, cava en busca de hierro y se aferra a villas que apenas contienen el frío. A pesar de todo, los Héroes se atreven a cruzar este paisaje, porque más allá de Diez Ciudades hay rumores, misiones y peligros que nadie puede ignorar mucho tiempo.
+- **Lectura**: El viento os azota la cara antes de que encontréis un camino. Bajo la aurora verde y azul, distinguís un cuenco inmenso de hielo y piedra: glaciares al este, montañas al sur y mar helado hacia el norte. La nieve salta entre las rocas y cubre las marcas que dejáis atrás. El aire os reseca la garganta; hasta el cuero de vuestras correas cruje con cada paso. A vuestra espalda quedan las luces de Diez Ciudades. Delante, las ráfagas borran el horizonte y os obligan a entornar los ojos para distinguir por dónde seguir.
 - **Qué ocurre**: El capítulo no tiene un único hilo; los Héroes eligen rumores y misiones, y el Narrador sitúa encuentros salvajes según el ritmo. Las villas, los lagos, la tundra y las montañas son el tablero. El frío extremo y la ventisca son amenazas constantes; las comunidades distantes exigen viajes largos y planificación.
-- **Etiquetas de escena**: [invierno eterno], [aurora de Auril], [viento catabático], [tundra], [aislamiento], [comunidades duras].
+- **Etiquetas de escena**: [invierno eterno], [aurora de auril], [viento catabático], [tundra], [aislamiento], [comunidades duras].
 - **Ambiente sonoro**: viento aullante, crujido de hielo, nieve sobre roca, silencio entre ráfagas.
 
 ### Lagos helados y pesca
@@ -59,8 +59,8 @@ Pueden darse como rumores o convertirse en ganchos. No son verdades probadas has
 
 ### Senderos, cargas y combustible
 - **Lugar e imagen**: senda de nieve entre lomas sin árboles, surcos de patines, postes medio enterrados, cobertizo, leña apilada, recipientes de aceite, trineo vacío; paleta blanca, parda y gris.
-- **Lectura**: El camino se distingue por los surcos y por una nieve algo más pisada. Fuera de esa franja, cada paso parece hundirse en un blanco sin fondo. La madera está apilada con cuidado; los recipientes de aceite se guardan cerca de la puerta. Nada de lo que da calor parece abundante. Antes de continuar tendréis que decidir qué lleváis, cómo lo transportáis y dónde podréis deteneros.
-- **Qué ocurre**: La mayoría viaja a pie; para cargas mayores se usan trineos tirados por perros o picos de hacha domesticados. Los perros necesitan parar después de cada hora de tiro. La escasez de árboles obliga a obtener madera en las laderas de la Columna del Mundo o en Bosque Solitario; Buenagamiel, Bosque Solitario y Termalaine queman leña de bosques cercanos. En las demás villas la madera es demasiado valiosa para el fuego y se usa aceite de ballena en lámparas y hornillos, procedente de balleneros del Mar de Hielo Móvil.
+- **Lectura**: El camino se distingue por los surcos y por una nieve algo más pisada. Fuera de esa franja, cada paso parece hundirse en un blanco sin fondo. La madera está apilada con cuidado; los recipientes de aceite se guardan cerca de la puerta. Nada de lo que da calor parece abundante. Al mirar vuestra carga, calculáis qué podéis llevar y buscáis con la vista algún lugar donde deteneros.
+- **Qué ocurre**: La mayoría viaja a pie; para cargas mayores se usan trineos tirados por perros o picos de hacha domesticados. Los perros necesitan parar después de cada hora de tiro. La escasez de árboles obliga a obtener madera en las laderas de la Espina del Mundo o en Bosque Solitario; Buenaguamiel, Bosque Solitario y Termalaine queman leña de bosques cercanos. En las demás villas la madera es demasiado valiosa para el fuego y se usa aceite de ballena en lámparas y hornillos, procedente de balleneros del Mar de Hielo Móvil.
 - **Etiquetas de escena**: [nieve profunda], [viento sin barreras], [combustible valioso], [huellas entre villas], [trineo de carga].
 - **Ambiente sonoro**: patines raspando, cuero tensándose, pasos hundidos, viento rasante, tintineo de arneses.
 
@@ -73,7 +73,7 @@ Pueden darse como rumores o convertirse en ganchos. No son verdades probadas has
 
 ### Encuentro en zonas salvajes
 - **Lugar e imagen**: tundra abierta con ventisqueros, nieve aplanada por el viento, cielo oscuro; ninguna figura humana; posibles huellas o siluetas lejanas.
-- **Lectura**: La nieve se extiende sin marcas fiables y el viento borra cualquier rastro en minutos. A lo lejos, algo se mueve o quizás es solo nieve arrastrada. En este valle, cada viaje puede convertirse en un encuentro: criaturas que luchan por sobrevivir, espíritus, depredadores o pueblos que reclaman su territorio. La ventisca puede caer en cualquier momento y convertir un camino conocido en una trampa.
+- **Lectura**: Avanzáis por una extensión de nieve sin marcas fiables. El viento os llena los oídos y borra a vuestra espalda el rastro de las botas. A lo lejos distinguís algo que se mueve; cuando intentáis fijar la mirada, una ráfaga levanta una cortina blanca entre vosotros y aquella silueta. Bajo los pies, la costra cruje y cede a intervalos. Os detenéis a escuchar. Entre dos golpes de viento llega un sonido lejano, demasiado breve para reconocerlo.
 - **Qué ocurre**: Sirve para jugar encuentros aleatorios. Tirar 1d8 para el número de encuentros en un día; luego, para cada encuentro, tirar d20 de encuentro y d20 de ventisca. La tabla de encuentros aleatorios es la siguiente:
 
 | d20 | Encuentro | Dificultad |
@@ -106,7 +106,7 @@ Si el encuentro ocurre durante ventisca, los yetis siempre aparecen en ventisca 
 
 ### Ventisca y frío extremo
 - **Lugar e imagen**: cortina blanca sobre la tundra, visibilidad reducida a unos pasos, nieve horizontal, figuras apenas visibles; sin refugio en la composición.
-- **Lectura**: La ventisca no anuncia su llegada con claridad: primero el viento cambia, luego la nieve se vuelve horizontal y el mundo se reduce a unos pasos. El frío deja de ser incómodo y se convierte en una amenaza que busca cada hueco de la ropa. Perder el camino es tan fácil como perder el sentido del tiempo. Cada decisión —seguir, acampar, buscar abrigo— puede marcar la diferencia entre una etapa difícil y una tragedia.
+- **Lectura**: Notáis que el viento cambia y la nieve empieza a golpearos de lado. En unos instantes solo distinguís a quienes caminan más cerca; el resto del valle desaparece detrás de una blancura agitada. El frío se cuela por las costuras y os muerde los dedos bajo los guantes. Cuando os volvéis, apenas reconocéis vuestras propias huellas. Tenéis que acercaros para oír vuestras voces, mientras la ropa y las correas restallan sin descanso.
 - **Qué ocurre**: La ventisca comienza 1d4 horas antes del encuentro y termina 1d4 horas después de resolverse. El frío extremo inflige [helado-2] y puede aumentar por acumulación; la desorientación inflige [perdido-2] y crea [ruta borrada]; caer en hielo o agua inflige [empapado-2] y, si se queda bajo el agua, [ahogándose-2]. La ropa invernal seca protege del frío ordinario, las raquetas ayudan en nieve profunda y los crampones evitan resbalones. Una parada protegida y un descanso en el campamento con abrigo, combustible y cuidados permiten recuperarse.
 - **Etiquetas de escena**: [ventisca], [frío extremo], [visibilidad nula], [nieve acumulada], [exposición].
 - **Ambiente sonoro**: aullido constante, nieve golpeando, silencio amortiguado, respiración forzada.
@@ -114,58 +114,58 @@ Si el encuentro ocurre durante ventisca, los yetis siempre aparecen en ventisca 
 ## Personajes no jugadores
 
 ### Helka Jaggerath
-- **Papel**: comerciante de aceite de ballena en Bryn Shander. · **Aspecto**: semielfa; edad y complexión no especificadas; ropa de comerciante de invierno adecuada al valle. · **Carácter y voz**: práctica y calculadora; avisa de no decir la verdad a Angajuk. · **Quiere**: comprar seis barriles de aceite de ballena y llevarlos a salvo a Bryn Shander. · **Sabe**: cómo funciona el trato con Angajuk y los balleneros. · **Si se convierte en desafío**: no combate; contacto de la misión de aceite de ballena.
+- **Papel**: comerciante de aceite de ballena en Bryn Shander. · **Aspecto**: semielfa; ropa de comerciante de invierno adecuada al valle. · **Carácter y voz**: práctica y calculadora; avisa de no decir la verdad a Angajuk. · **Quiere**: comprar seis barriles de aceite de ballena y llevarlos a salvo a Bryn Shander. · **Sabe**: cómo funciona el trato con Angajuk y los balleneros. · **Si se convierte en desafío**: no combate; contacto de la misión de aceite de ballena.
 
 ### Trovus
-- **Papel**: portavoz dracónido de Caer-Konig. · **Aspecto**: dracónido; edad, color de escamas y complexión no especificados; abrigo grueso y capucha adaptada. · **Carácter y voz**: práctico; preocupado por los gnolls. · **Quiere**: 10 po por cabeza de gnoll. · **Sabe**: la Sima de Cacareo alberga gnolls. · **Si se convierte en desafío**: no combate; contacto del encargo de cabezas de gnoll.
+- **Papel**: portavoz dracónido de Caer-Konig. · **Aspecto**: dracónido; abrigo grueso y capucha adaptada. · **Carácter y voz**: práctico; preocupado por los gnolls. · **Quiere**: eliminar los gnolls; ofrece [pequeña bolsa de monedas] por las cabezas entregadas. · **Sabe**: la Sima de las Risas alberga gnolls. · **Si se convierte en desafío**: no combate; contacto del encargo de cabezas de gnoll.
 
 ### Yselm Colmillo Sangriento
-- **Papel**: druida de escarcha humano, antigua nómada de la Tribu Tigre y guía. · **Aspecto**: humana; edad y complexión no especificadas; ropa de viaje de invierno. · **Carácter y voz**: servicial en apariencia; adoradora secreta de Auril. · **Quiere**: llevar a los Héroes a su perdición por orden de un avatar de la Doncella de Escarcha. · **Sabe**: el camino a Jarlmoot y los desafíos del Concilio de los Jarls. · **Si se convierte en desafío**: nivel 3, límites herido 4 y convencido 4, etiquetas [druida de escarcha], [guía traidora], [adoradora de Auril]; amenazas: ataque con magia y un lobo invernal, [herido-3], [helado-2]; debilidad: lucha hasta la muerte.
+- **Papel**: druida de escarcha humano, antigua nómada de la Tribu Tigre y guía. · **Aspecto**: humana; ropa de viaje de invierno. · **Carácter y voz**: servicial en apariencia; adoradora secreta de Auril. · **Quiere**: llevar a los Héroes a su perdición por orden de un avatar de la Doncella de la Escarcha. · **Sabe**: el camino a Concilio de los Jarls y los desafíos del Concilio de los Jarls. · **Si se convierte en desafío**: nivel 3, límites herido 4 y convencido 4, etiquetas [druida de escarcha], [guía traidora], [adoradora de auril]; amenazas: ataque con magia y un lobo invernal, [herido-3], [helado-2]; debilidad: lucha hasta la muerte.
 
 ### Aluka
-- **Papel**: representante de la Tribu Lobo, hombre lobo en forma humana. · **Aspecto**: humano de aspecto robusto; edad y detalles no especificados. · **Carácter y voz**: preocupado y prudente; no puede arriesgarse a una guerra total. · **Quiere**: que Diez Ciudades y los Héroes se ocupen de los caníbales. · **Sabe**: la ubicación del campamento y la situación de Honeybee. · **Si se convierte en desafío**: no combate en esta ficha; aliado potencial.
+- **Papel**: representante de la Tribu Lobo, hombre lobo en forma humana. · **Aspecto**: humano de aspecto robusto. · **Carácter y voz**: preocupado y prudente; no puede arriesgarse a una guerra total. · **Quiere**: que Diez Ciudades y los Héroes se ocupen de los caníbales. · **Sabe**: la ubicación del campamento y la situación de Honeybee. · **Si se convierte en desafío**: no combate; aliado potencial.
 
 ### Mylbor Tafferac
-- **Papel**: cazador humano, gladiador. · **Aspecto**: humano; edad y complexión no especificadas; ropa de cazador de invierno. · **Carácter y voz**: competitivo y seguro; apuesta 300 po. · **Quiere**: matar al Yeti Rojo antes que los Héroes. · **Sabe**: rastreo y supervivencia (+7). · **Si se convierte en desafío**: no combate contra los Héroes en esta ficha; rival de caza.
+- **Papel**: cazador humano, gladiador. · **Aspecto**: humano; ropa de cazador de invierno. · **Carácter y voz**: competitivo y seguro; apuesta [pago generoso]. · **Quiere**: matar al Yeti Rojo antes que los Héroes. · **Sabe**: rastrear y sobrevivir en la tundra. · **Si se convierte en desafío**: no combate contra los Héroes; rival de caza.
 
 ### Dannika Graysteel
-- **Papel**: erudita. · **Aspecto**: no especificado; ropa de estudiosa adaptada al frío. · **Carácter y voz**: entusiasta y confiada en su receta. · **Quiere**: huesos de dragón blanco para hacer estofado mágico. · **Sabe**: la receta y el rumor de la Peña de la Perdición de las Sierpes. · **Si se convierte en desafío**: no combate; contacto de la misión del estofado.
+- **Papel**: erudita. · **Aspecto**: ropa de estudiosa adaptada al frío. · **Carácter y voz**: entusiasta y confiada en su receta. · **Quiere**: huesos de dragón blanco para hacer estofado mágico. · **Sabe**: la receta y el rumor de la Peña de la Perdición de las Sierpes. · **Si se convierte en desafío**: no combate; contacto de la misión del estofado.
 
 ### Yarb-Gnock
-- **Papel**: jefe goblin de Karkolohk. · **Aspecto**: goblin; edad y detalles no especificados. · **Carácter y voz**: no descritos; sus intenciones son ambiguas. · **Quiere**: negociar la paz o escapar de Karkolohk. · **Sabe**: la situación de su fortaleza y de Diez Ciudades. · **Si se convierte en desafío**: no combate directamente en esta ficha; contacto de Karkolohk.
+- **Papel**: jefe goblin de Karkolohk. · **Aspecto**: goblin. · **Carácter y voz**: cauto y evasivo; habla de paz sin dejar claras sus intenciones. · **Quiere**: negociar la paz o escapar de Karkolohk. · **Sabe**: la situación de su fortaleza y de Diez Ciudades. · **Si se convierte en desafío**: no combate directamente; contacto de Karkolohk.
 
 ### Markham Southwell
-- **Papel**: sheriff de Bryn Shander. · **Aspecto**: humano; edad y complexión no especificados; uniforme de guardia de invierno. · **Carácter y voz**: desconfiado; no cree en la declaración de paz. · **Quiere**: 300 po por la cabeza de Yarb-Gnock. · **Sabe**: los rumores sobre Karkolohk. · **Si se convierte en desafío**: no combate; contacto de la misión.
+- **Papel**: sheriff de Bryn Shander. · **Aspecto**: humano; uniforme de guardia de invierno. · **Carácter y voz**: desconfiado; no cree en la declaración de paz. · **Quiere**: la cabeza de Yarb-Gnock; ofrece [pago generoso] por ella. · **Sabe**: los rumores sobre Karkolohk. · **Si se convierte en desafío**: no combate; contacto de la misión.
 
 ### Kwan el Monolito Akannathi
-- **Papel**: guerrera goliath, adicta al juego, arrepentida. · **Aspecto**: goliath; edad y complexión no especificadas; ropa gastada. · **Carácter y voz**: avergonzada y decidida a expiar. · **Quiere**: volver al Refugio de la Torre del Cielo y unir a los clanes goliath. · **Sabe**: el camino al refugio y la situación de Arn. · **Si se convierte en desafío**: no combate; ofrece una figurita de Cuervo Plateado.
+- **Papel**: guerrera goliath, adicta al juego, arrepentida. · **Aspecto**: goliath; ropa gastada. · **Carácter y voz**: avergonzada y decidida a expiar. · **Quiere**: volver al Refugio de la Torre del Cielo y unir a los clanes goliath. · **Sabe**: el camino al refugio y la situación de Arn. · **Si se convierte en desafío**: no combate; ofrece una figurita de Cuervo Plateado.
 
 ### Cobre Rompepomos
-- **Papel**: gnomo acólito de Lathander en la Casa del Señor de la Mañana de Bryn Shander. · **Aspecto**: gnomo; edad y complexión no especificadas; ropa de acólito. · **Carácter y voz**: preocupado por Macreadus. · **Quiere**: llevar provisiones a la Cabaña Negra. · **Sabe**: la misión de Macreadus. · **Si se convierte en desafío**: no combate; contacto de la misión.
+- **Papel**: gnomo acólito de Lathander en la Casa del Señor de la Mañana de Bryn Shander. · **Aspecto**: gnomo; ropa de acólito. · **Carácter y voz**: preocupado por Macreadus. · **Quiere**: llevar provisiones a la Cabaña Negra. · **Sabe**: la misión de Macreadus. · **Si se convierte en desafío**: no combate; contacto de la misión.
 
 ### Macreadus
-- **Papel**: inventor que construye un dispositivo para acabar con la Rima Eterna. · **Aspecto**: no especificado. · **Carácter y voz**: no descritos. · **Quiere**: terminar su dispositivo. · **Sabe**: no consta en esta fuente. · **Si se convierte en desafío**: no combate; se describe en la Cabaña Negra.
+- **Papel**: inventor que construye un dispositivo para acabar con la Rima Eterna. · **Aspecto**: descríbelo con ropa de abrigo adecuada a su oficio. · **Carácter y voz**: absorbido por su trabajo; habla con fervor de sus experimentos. · **Quiere**: terminar su dispositivo. · **Sabe**: el diseño y los ajustes de su dispositivo para combatir el invierno. · **Si se convierte en desafío**: no combate; se describe en la Cabaña Negra.
 
 ### Taberneros de Bremen
-- **Papel**: empleadores de la misión del barco pirata. · **Aspecto**: no especificado. · **Carácter y voz**: lamentan la escasez de bebidas. · **Quiere**: ron y otras bebidas alcohólicas. · **Sabe**: los rumores del barco congelado. · **Si se convierte en desafío**: no combate; contacto de la misión.
+- **Papel**: empleadores de la misión del barco pirata. · **Aspecto**: descríbelo con ropa de abrigo adecuada a su oficio. · **Carácter y voz**: lamentan la escasez de bebidas. · **Quiere**: ron y otras bebidas alcohólicas. · **Sabe**: los rumores del barco congelado. · **Si se convierte en desafío**: no combate; contacto de la misión.
 
 ### Vedda Starsprit, Nars Beldrun, Telvaster Hangingbell y Kaska Lang
-- **Papel**: cuatro habitantes de Diez Ciudades sensibles a lo psíquico, mantenidos despiertos por una señal. · **Aspecto**: Vedda es una trampera fornida y paranoica de 30 años con exotropía; Nars es un carpintero alto y corpulento de 33 años de Targos; Telvaster es un joven de 25 años de una familia acomodada de Neverwinter; Kaska es una autora de 30 años que escribe una novela de misterio. · **Carácter y voz**: variados; Nars se queja de todo. · **Quiere**: dormir; ofrecen 250 po por silenciar la señal. · **Sabe**: la dirección de la que viene el mensaje, pero no su contenido (Habla Profunda). · **Si se convierte en desafío**: no combate; contacto de la misión.
+- **Papel**: cuatro habitantes de Diez Ciudades sensibles a lo psíquico, mantenidos despiertos por una señal. · **Aspecto**: Vedda es una trampera fornida y paranoica de 30 años con exotropía; Nars es un carpintero alto y corpulento de 33 años de Targos; Telvaster es un joven de 25 años de una familia acomodada de Neverwinter; Kaska es una autora de 30 años que escribe una novela de misterio. · **Carácter y voz**: variados; Nars se queja de todo. · **Quiere**: dormir; ofrecen [pago generoso] por silenciar la señal. · **Sabe**: la dirección de la que viene el mensaje, pero no su contenido (Habla Profunda). · **Si se convierte en desafío**: no combate; contacto de la misión.
 
 ### Duvessa Shane
-- **Papel**: portavoz de Bryn Shander. · **Aspecto**: no especificada; ropa de autoridad de invierno. · **Carácter y voz**: preocupada por la Hermandad Arcana. · **Quiere**: información sobre Vaelish Gant y una posible reducción de su condena. · **Sabe**: los rumores sobre agentes de la Hermandad Arcana. · **Si se convierte en desafío**: no combate; contacto de la misión.
+- **Papel**: portavoz de Bryn Shander. · **Aspecto**: ropa de autoridad de invierno. · **Carácter y voz**: preocupada por la Hermandad Arcana. · **Quiere**: información sobre Vaelish Gant y una posible reducción de su condena. · **Sabe**: los rumores sobre agentes de la Hermandad Arcana. · **Si se convierte en desafío**: no combate; contacto de la misión.
 
 ### Vaelish Gant
-- **Papel**: mago de la Hermandad Arcana, preso en Revel's End. · **Aspecto**: no especificado. · **Carácter y voz**: no descritos. · **Quiere**: no consta. · **Sabe**: posible información sobre la Hermandad Arcana en Diez Ciudades. · **Si se convierte en desafío**: no combate en esta ficha; se interroga en prisión.
+- **Papel**: mago de la Hermandad Arcana, preso en Revel's End. · **Aspecto**: descríbelo con ropa de abrigo adecuada a su oficio. · **Carácter y voz**: reservado y calculador; mide cada respuesta. · **Quiere**: mejorar su situación en prisión y obtener una reducción de condena. · **Sabe**: posible información sobre la Hermandad Arcana en Diez Ciudades. · **Si se convierte en desafío**: no combate; se interroga en prisión.
 
 ### Arn
-- **Papel**: jefe del clan Akannathi en el Refugio de la Torre del Cielo. · **Aspecto**: goliath; no especificado. · **Carácter y voz**: no descritos. · **Quiere**: no consta. · **Sabe**: la disputa entre clanes goliath. · **Si se convierte en desafío**: no combate; contacto de la misión de Kwan.
+- **Papel**: jefe del clan Akannathi en el Refugio de la Torre del Cielo. · **Aspecto**: goliath. · **Carácter y voz**: orgulloso y firme; habla con la autoridad del jefe del clan. · **Quiere**: proteger a su clan y preservar su honor durante el invierno. · **Sabe**: la disputa entre clanes goliath. · **Si se convierte en desafío**: no combate; contacto de la misión de Kwan.
 
 ### Oyaminartok
-- **Papel**: goliath licántropa capaz de adoptar forma de oso polar. · **Aspecto**: en forma humanoide, cuerpo corpulento bajo pieles de viaje; en forma de oso polar, oso blanco. · **Carácter y voz**: no descritos. · **Quiere**: no consta. · **Sabe**: no consta en esta fuente. · **Si se convierte en desafío**: no combate en estas páginas; figura buscada por una expedición.
+- **Papel**: goliath licántropa capaz de adoptar forma de oso polar. · **Aspecto**: en forma humanoide, cuerpo corpulento bajo pieles de viaje; en forma de oso polar, oso blanco. · **Carácter y voz**: prudente y serena; puede recibir amistosamente a los viajeros. · **Quiere**: sobrevivir en la tundra y ver destruidos a los berserkers de chardalyn, a quienes considera irredimibles. · **Sabe**: reconoce huellas, presas y lugares donde resguardarse en la tundra. · **Si se convierte en desafío**: no combate; figura buscada por una expedición.
 
 ### Arveiaturace
-- **Papel**: dragona blanca anciana, la Sierpe Blanca, anidada en el glaciar Reghed. · **Aspecto**: dragón blanco de gran tamaño, ojos nublados por cataratas; un cadáver congelado (Meltharond) atado a una silla de montar en su lomo. · **Carácter y voz**: tiene un sano respeto por los humanoides; habla a Meltharond como si estuviera vivo. · **Quiere**: alimentarse de reno, morsa y oso polar; no ha amenazado directamente a Diez Ciudades. · **Sabe**: no consta. · **Si se convierte en desafío**: ver Desafíos.
+- **Papel**: dragona blanca anciana, la Sierpe Blanca, anidada en el glaciar Reghed. · **Aspecto**: dragón blanco de gran tamaño, ojos nublados por cataratas; un cadáver congelado (Meltharond) atado a una silla de montar en su lomo. · **Carácter y voz**: tiene un sano respeto por los humanoides; habla a Meltharond como si estuviera vivo. · **Quiere**: alimentarse de reno, morsa y oso polar; no ha amenazado directamente a Diez Ciudades. · **Sabe**: conoce sus cazaderos y su nido en el glaciar Reghed. · **Si se convierte en desafío**: ver Desafíos.
 
 ### Enanos Battlehammer
 - **Papel**: prospectores o pescadores del clan. · **Aspecto**: enanos escudo con ropa de clima frío, gafas y raquetas de nieve; mochilas, colchas, kits de comedor y raciones; hachas de mano y ballestas ligeras. · **Carácter y voz**: sombríos pero no violentos; indiferentes. · **Quiere**: volver a casa con muestras de roca o truchas. · **Sabe**: el valle y sus minas. · **Si se convierte en desafío**: no combate; cambiar su actitud a amistosa hablando en enano.
@@ -186,10 +186,10 @@ Si el encuentro ocurre durante ventisca, los yetis siempre aparecen en ventisca 
 - **Papel**: espías y mensajeros de los druidas de escarcha. · **Aspecto**: igual que su contraparte normal, con un destello de inteligencia en los ojos. · **Carácter y voz**: neutral o malvada. · **Quiere**: espiar a los Héroes e informar a su amo. · **Sabe**: su territorio, fuentes de alimento y lugares seguros. · **Si se convierte en desafío**: ver Desafíos.
 
 ### Berserkers de chardalyn
-- **Papel**: humanos corrompidos por la chardalyn. · **Aspecto**: carne destrozada por la congelación, ropa rota de nómadas Reghed. · **Carácter y voz**: psicóticos, violentos, luchan hasta el final. · **Quiere**: violencia y chardalyn. · **Sabe**: no consta. · **Si se convierte en desafío**: ver Desafíos.
+- **Papel**: humanos corrompidos por la chardalyn. · **Aspecto**: carne destrozada por la congelación, ropa rota de nómadas Reghed. · **Carácter y voz**: psicóticos, violentos, luchan hasta el final. · **Quiere**: violencia y chardalyn. · **Sabe**: conservan vestigios de sus vidas anteriores entre los nómadas Reghed. · **Si se convierte en desafío**: ver Desafíos.
 
 ### Caminante de la luz fría
-- **Papel**: no-muerto que destaca como faro en la oscuridad. · **Aspecto**: cadáver tambaleante de nómada o habitante sacrificado. · **Carácter y voz**: silencioso y letal. · **Quiere**: matar. · **Sabe**: no consta. · **Si se convierte en desafío**: ver Desafíos.
+- **Papel**: no-muerto que destaca como faro en la oscuridad. · **Aspecto**: cadáver tambaleante de nómada o habitante sacrificado. · **Carácter y voz**: silencioso y letal. · **Quiere**: matar. · **Sabe**: en ventisca puede traer susurros de Auril y profecías de perdición. · **Si se convierte en desafío**: ver Desafíos.
 
 ### Crag cats, goliath hombre oso, kobolds, gnolls, orcos, perytones, trol, oso lechuza y gigante
 - **Papel**: criaturas del valle descritas en los encuentros aleatorios. · **Aspecto**: según su naturaleza; ropa y equipo solo cuando se indica. · **Carácter y voz**: varían de indiferentes a hostiles. · **Quiere**: sobrevivir, cazar o servir a sus amos. · **Sabe**: su territorio. · **Si se convierte en desafío**: ver Desafíos.
@@ -197,38 +197,34 @@ Si el encuentro ocurre durante ventisca, los yetis siempre aparecen en ventisca 
 ## Desafíos
 
 ### Arveiaturace, la Sierpe Blanca (nivel 5, Grandeza)
-- **Origen 5e**: dragona blanca anciana; 1 criatura.
 - **Límites**: herido 6, convencido 4.
-- **Etiquetas y estados**: [dragón blanco anciano], [aliento de hielo], [vuelo], [vista limitada a 60 pies], [olfato y oído agudos], [jinete cadáver: Meltharond], [prefiere carne de reno, morsa y oso polar].
+- **Etiquetas y estados**: [dragón blanco anciano], [aliento de hielo], [vuelo], [vista limitada a 18 m], [olfato y oído agudos], [jinete cadáver: meltharond], [prefiere carne de reno, morsa y oso polar].
 - **Amenazas y consecuencias**:
   - Aliento de hielo sobre una zona: inflige [helado-4] y [herido-3].
   - Embestida o barrido de cola: inflige [herido-3]; crea la etiqueta de historia [arrojado a la nieve].
   - Sacudir el lomo para desprender intrusos: crea la etiqueta de historia [caídos del dragón]; inflige [herido-2] por la caída.
   - Si se perturba el cadáver de Meltharond: ataca con saña; inflige [herido-4].
-- **Debilidades / secretos**: las cataratas limitan su visión a 60 pies, pero su olfato y oído siguen agudos. Prefiere la carne animal y respeta a los humanoides; no ha amenazado directamente a Diez Ciudades. Durante una ventisca queda enterrada bajo la nieve con las alas extendidas; el viento le impide volar, así que la mejor esperanza es huir y perderse en la tormenta. Si los Héroes tocan o atacan a Meltharond, el dragón intenta sacudirlos (salvación de Destreza CD 22 o caer bocabajo en un espacio desocupado a menos de 5 pies).
+- **Debilidades / secretos**: las cataratas limitan su visión a 18 m, pero su olfato y oído siguen agudos. Prefiere la carne animal y respeta a los humanoides; no ha amenazado directamente a Diez Ciudades. Durante una ventisca queda enterrada bajo la nieve con las alas extendidas; el viento le impide volar, así que la mejor esperanza es huir y perderse en la tormenta. Sacude a quienes tocan o atacan a Meltharond. Mantenerse en su lomo exige alcanzar [agarre firme-4] o recurrir al Poderío de Aventura o Grandeza; un fallo deja [derribado-2] en un espacio libre a menos de 1,5 m del dragón.
 
 ### Bestia despertada (nivel 2)
-- **Origen 5e**: bestia nativa imbuida con inteligencia 10 por un druida de escarcha; 1 criatura.
 - **Límites**: herido 3, convencido 3.
-- **Etiquetas y estados**: [inteligencia 10], [espía del druida], [habla común o druídico], [conoce el territorio].
+- **Etiquetas y estados**: [razonamiento humano], [espía del druida], [habla común o druídico], [conoce el territorio].
 - **Amenazas y consecuencias**:
   - Si es un depredador: ataque desde la distancia: inflige [herido-2].
   - Huida para informar a su amo: crea la etiqueta de historia [posición revelada].
   - Si está acorralada: suplica o negocia; ofrece [información del territorio] a cambio de seguridad.
-- **Debilidades / secretos**: comida o refugio más Persuasión grupal CD 10 la convencen para acompañar al grupo 24 horas. Una bestia malvada se une sin prueba para espiar o tender una trampa. Se retira si se daña.
+- **Debilidades / secretos**: Ofrecer comida o refugio y un trato amistoso basta para obtener su compañía durante 24 horas, sin tirada salvo con prisa o peligro. Una bestia malvada se une sin tirada para espiar o tender una trampa. Se retira si se daña.
 
 ### Berserkers de chardalyn (banda) (nivel 3)
-- **Origen 5e**: 1d4+1 berserkers humanos corrompidos.
 - **Límites**: herido 4, convencido 3.
-- **Etiquetas y estados**: [corrupción de chardalyn], [carne congelada], [psicóticos], [vestigios nómadas Reghed].
+- **Etiquetas y estados**: [corrupción de chardalyn], [carne congelada], [psicóticos], [vestigios nómadas reghed].
 - **Amenazas y consecuencias**:
   - Ataque frenético: inflige [herido-3]; luchan hasta el final.
   - Persecución sin cuartel: crea la etiqueta de historia [acorralado] o fuerza la huida.
   - Al morir el portador del anillo, su extracción provoca el teletransporte (ver debilidades).
-- **Debilidades / secretos**: uno lleva un anillo de hielo con un copo de nieve de seis puntas, símbolo de la Doncella de Escarcha. Si se le quita, el anillo desaparece y todas las criaturas en 100 pies quedan envueltas en nieve arremolinada y teletransportadas al camino helado que conduce a la Cueva de los Berserkers, sin salvación. Conservan vestigios de sus vidas anteriores. Oyaminartok los considera víctimas irredimibles de la corrupción.
+- **Debilidades / secretos**: uno lleva un anillo de hielo con un copo de nieve de seis puntas, símbolo de la Doncella de la Escarcha. Si se le quita, el anillo desaparece y todas las criaturas en 30 m quedan envueltas en nieve arremolinada y teletransportadas al camino helado que conduce a la Cueva de los Berserkers, sin posibilidad de evitar el traslado una vez activado el anillo. Conservan vestigios de sus vidas anteriores. Oyaminartok los considera víctimas irredimibles de la corrupción.
 
 ### Caminante de la luz fría (nivel 3)
-- **Origen 5e**: no-muerto de un nómada Reghed o de un habitante sacrificado.
 - **Límites**: herido 4.
 - **Etiquetas y estados**: [no-muerto], [luz fría], [faro en la oscuridad], [restos de sacrificio].
 - **Amenazas y consecuencias**:
@@ -237,66 +233,59 @@ Si el encuentro ocurre durante ventisca, los yetis siempre aparecen en ventisca 
 - **Debilidades / secretos**: su luz lo delata a gran distancia; no le importa traicionar su presencia. Se acerca directamente para matar.
 
 ### Chwinga (nivel 1)
-- **Origen 5e**: espíritu elemental; 1 criatura.
 - **Límites**: convencido 2, herido 2.
 - **Etiquetas y estados**: [espíritu elemental], [adaptativo], [regalo], [locura por ventisca].
 - **Amenazas y consecuencias**:
-  - Baya amarga (si está loco): inflige [envenenado-1] y daño de veneno.
+  - Baya amarga (si está loco): inflige [envenenado-1].
   - Soplar copos en los ojos: inflige [ciego-1].
   - Apuñalar con carámbano: inflige [herido-1].
-  - Robar objeto de 1 libra o menos: crea [objeto perdido] si supera la Percepción pasiva del Héroe.
+  - Robar un objeto de medio kilo o menos: advertirlo es una acción arriesgada; un fallo crea [objeto perdido].
 - **Debilidades / secretos**: si está cuerdo, la baya es un regalo dulce e inofensivo. Si no es el primer encuentro con un chwinga, puede dar copos que no se derriten en 24 horas o un carámbano tallado. Tras el don, un chwinga cuerdo se comporta amistosamente; uno loco desaparece, sigue robando y lanza bolas de nieve.
 
 ### Druida de escarcha y compañeros (nivel 3)
-- **Origen 5e**: druida humano adorador de Auril + 3 criaturas despertadas.
 - **Límites**: herido 4, convencido 4.
-- **Etiquetas y estados**: [druida de escarcha], [forma animal], [compañeros despertados], [rayo de luna], [malvado].
+- **Etiquetas y estados**: [druida de escarcha], [forma animal], [compañeros despertados], [luz lunar reveladora], [malvado].
 - **Amenazas y consecuencias**:
   - Ataque con magia y bestias: inflige [herido-3].
   - Frío mágico: inflige [helado-2].
-  - Rayo de luna: revela la verdadera forma de un doppelganger; crea [identidad expuesta].
+  - Luz lunar reveladora: revela la verdadera forma de un doppelganger; crea [identidad expuesta].
   - Si muere o es capturado: los compañeros huyen o luchan hasta el final.
 - **Debilidades / secretos**: aparece primero como cabra montesa o búho nival. Sus compañeros se determinan por tabla: árbol despertado (conífera), cabra montesa despertada, reno despertado con astas luminosas o morsa despertada. Busca matar a los Héroes o expulsarlos a Diez Ciudades.
 
 ### Gatos de los riscos (manada) (nivel 2)
-- **Origen 5e**: 1d4 gatos de los riscos.
 - **Límites**: herido 3.
 - **Etiquetas y estados**: [acecho], [oído y olfato], [manada coordinada].
 - **Amenazas y consecuencias**:
-  - Emboscada: inflige [sorprendido-2] a quien no supere su Sigilo.
+  - Emboscada: advertir el acecho es una acción arriesgada; un fallo inflige [sorprendido-2].
   - Ataque enfocado al miembro más débil o menos armado: inflige [herido-2].
   - Durante ventisca, rastreo sin visibilidad: crea [perseguido-2].
 - **Debilidades / secretos**: uno o dos mantienen la distancia y no atacan a un grupo superior; tres o cuatro atacan coordinados. Si mueren dos o más, los demás se retiran.
 
 ### Gigante de escarcha sobre mamut (nivel 4)
-- **Origen 5e**: 1 gigante de escarcha + 1 mamut.
 - **Límites**: herido 5 (gigante), herido 4 (mamut).
 - **Etiquetas y estados**: [gigante de escarcha], [mamut], [gran hacha], [red de caza], [lanza de mástil], [cazador].
 - **Amenazas y consecuencias**:
   - Hacha o lanza: inflige [herido-4].
   - Pisoteo del mamut: inflige [herido-3]; crea [derribado-2].
   - Red: crea [atrapado-2] y facilita la captura.
-- **Debilidades / secretos**: se puede evitar escondiéndose en la nieve y manteniendo distancia. Se le puede calmar hablando gigante con un soborno de al menos 1000 po o una historia convincente; prueba de Carisma (Engaño o Persuasión) CD 17, y si falla los intentos posteriores tienen desventaja. Considera a Arveiaturace enemigo natural y puede perdonar a quienes afirman cazarla o estar en misión del Concilio de los Jarls.
+- **Debilidades / secretos**: se puede evitar escondiéndose en la nieve y manteniendo distancia. Hablar gigante y ofrecer un [tesoro valioso] o una historia convincente permite intentar calmarlo, pero [recelo del gigante] cuenta como etiqueta en contra. Un fallo añade [desconfianza-2] a los intentos posteriores. Puede perdonar a quienes dicen cazar a Arveiaturace o servir al Concilio de los Jarls.
 
 ### Gnolls (banda) (nivel 2)
-- **Origen 5e**: 1d4+3 gnolls de la Fisura de las Carcajadas.
 - **Límites**: herido 4.
-- **Etiquetas y estados**: [hambrientos], [carcajeo], [Fisura de las Carcajadas].
+- **Etiquetas y estados**: [hambrientos], [carcajeo], [sima de las risas].
 - **Amenazas y consecuencias**:
   - Ataque en grupo: inflige [herido-3].
   - Captura: crea [llevado a la guarida].
 - **Debilidades / secretos**: el hambre anula su razón y luchan hasta ser capturados o muertos. En ventisca pierden el factor sorpresa por su carcajeo. Los capturados pueden guiar a los Héroes a su guarida para atraerlos.
 
 ### Goliaths (grupo) (nivel 2)
-- **Origen 5e**: 4 guerreros goliath.
 - **Límites**: convencido 3, herido 4.
-- **Etiquetas y estados**: [clan Akannathi o Thuunlakalaga], [competitivos], [atletas].
+- **Etiquetas y estados**: [clan akannathi o thuunlakalaga], [competitivos], [atletas].
 - **Amenazas y consecuencias**:
   - Desafío atlético fallido: crea la etiqueta de historia [deuda de carga] (el equipo perdedor carga el del ganador un día).
-- **Debilidades / secretos**: los de Torre del Cielo son indiferentes; los de Perdición de las Sierpes, amistosos. No atacan de inmediato. Competencias: sogatira (Fuerza combinada), sostenerse con las manos (Fuerza (Atletismo) grupal CD 10), arrancar arbusto (Fuerza (Atletismo) CD 20) y rodar peñascos (Fuerza (Atletismo) CD 15, 10 pies por éxito).
+- **Debilidades / secretos**: los de Torre del Cielo son indiferentes; los de Perdición de las Sierpes, amistosos. No atacan de inmediato. Compiten en sogatira mediante acciones enfrentadas; sostenerse con las manos no exige tirada salvo con prisa o peligro. Arrancar arbustos requiere alcanzar [arbusto aflojado-4] o Poderío de Aventura o Grandeza. Rodar peñascos es una acción arriesgada: cada éxito los desplaza unos 3 m; un fallo inflige [agotado-2].
 
 ### Goliath hombre oso (nivel 3)
-- **Origen 5e**: licántropo (Oyaminartok o un pariente).
 - **Límites**: herido 5, convencido 3.
 - **Etiquetas y estados**: [licántropo], [forma de oso polar o híbrida], [guía], [enemigo de los berserkers].
 - **Amenazas y consecuencias**:
@@ -304,68 +293,60 @@ Si el encuentro ocurre durante ventisca, los yetis siempre aparecen en ventisca 
 - **Debilidades / secretos**: si los Héroes parecen necesitar ayuda, asume forma híbrida y los saluda amistosamente; sirve de guía sin condiciones hasta que se valgan por sí mismos. No tiene ropa ni armas fabricadas. Insta a destruir a los berserkers de chardalyn.
 
 ### Humanos del valle (nivel 1-2)
-- **Origen 5e**: 1d6+4 nómadas Reghed o tramperos/peleteros; o 1d6+4 cazadores en el mar.
 - **Límites**: convencido 3, herido 3.
-- **Etiquetas y estados**: [tribu Oso/Alce/Tigre/Lobo], [ropa de clima frío], [territoriales], [cazadores].
+- **Etiquetas y estados**: [tribu oso/alce/tigre/lobo], [ropa de clima frío], [territoriales], [cazadores].
 - **Amenazas y consecuencias**:
   - Si son hostiles (Tigre o Lobo): ataque: inflige [herido-2].
   - Alarma: crea la etiqueta de historia [grupo señalado].
-- **Debilidades / secretos**: las tribus Oso y Alce son indiferentes; Tigre y Lobo, hostiles. Un regalo útil (provisiones, hierba de pipa) u honrar al jefe permite negociar; los Héroes con trasfondo de Forastero tienen ventaja. Hablar enano o élfico durante la negociación con orcos da desventaja, pero con nómadas no se indica. Los nómadas amistosos invitan al campamento y proporcionan comida, bebida y refugio. Los tramperos comparten rumores del valle.
+- **Debilidades / secretos**: las tribus Oso y Alce son indiferentes; Tigre y Lobo, hostiles. Un regalo útil (provisiones, hierba de pipa) u honrar al jefe permite negociar; la experiencia de los Héroes como forasteros cuenta como etiqueta a favor. Los nómadas amistosos invitan al campamento y proporcionan comida, bebida y refugio. Los tramperos comparten rumores del valle.
 
 ### Kobolds del Viento Helado (banda) (nivel 1)
-- **Origen 5e**: 2d4 kobolds.
 - **Límites**: herido 3, convencido 2.
 - **Etiquetas y estados**: [buscan un dragón], [pobres], [robo], [iglú improvisado].
 - **Amenazas y consecuencias**:
   - Robo de provisiones o tesoros: crea [provisiones perdidas].
   - Ataque con jabalinas: inflige [herido-1].
-- **Debilidades / secretos**: en ventisca se acurrucan en un iglú con fogata; si se pierden piden direcciones. Si son superados y amenazados, ofrecen pago (5 pp y 5 pc cada uno; a discreción, una poción de curación u otro objeto mágico común). De lo contrario, intentan robar.
+- **Debilidades / secretos**: en ventisca se acurrucan en un iglú con fogata; si se pierden piden direcciones. Si son superados y amenazados, ofrecen pago ([puñado de monedas]; a discreción, una poción de curación u otro objeto mágico común). De lo contrario, intentan robar.
 
 ### Manada de bestias (nivel 1-2)
-- **Origen 5e**: manadas de alces, mamuts, renos, orcas, focas o morsas.
 - **Límites**: herido 4.
 - **Etiquetas y estados**: [manada], [supervivencia], [toro protector].
 - **Amenazas y consecuencias**:
   - Si se amenaza: un toro ataca: inflige [herido-3].
   - Pisoteo o dispersión: crea [pisoteado-2] o [dispersión].
-- **Debilidades / secretos**: inicialmente indiferentes y no representan amenaza. La matanza masiva se opone por nómadas y cazadores. Donde hay manadas grandes, es probable encontrar humanos.
+- **Debilidades / secretos**: inicialmente indiferentes y no representan amenaza. Los nómadas y cazadores se oponen a la matanza masiva. Donde hay manadas grandes, es probable encontrar humanos.
 
 ### Orcos de la tribu Muchasflechas (banda) (nivel 3)
-- **Origen 5e**: jefe de guerra + ojo de Gruumsh + 6 orcos + semiogro.
 - **Límites**: herido 5.
-- **Etiquetas y estados**: [tribu Muchasflechas], [hambrientos], [Gruumsh], [cazadores de viajeros].
+- **Etiquetas y estados**: [tribu muchasflechas], [hambrientos], [gruumsh], [cazadores de viajeros].
 - **Amenazas y consecuencias**:
   - Ataque o captura para alimentar a la tribu: inflige [herido-3]; crea [capturado para la tribu].
-- **Debilidades / secretos**: se puede razonar con ellos. Actitud inicial hostil. Una ofrenda digna (canción para el jefe, dibujo de Gruumsh matando a Corellon, instrucciones para una fuente de alimento) reduce la CD a 15; sin ofrenda, la CD es 20. Hablar orco o usar la piedra orca da ventaja; hablar élfico o enano da desventaja.
+- **Debilidades / secretos**: se puede razonar con ellos. Actitud inicial hostil. Una ofrenda digna, como una canción para el jefe, un dibujo de Gruumsh matando a Corellon o indicaciones hacia comida, permite negociar con una tirada normal; un fallo crea [ofensa al jefe]. Sin ofrenda, hace falta alcanzar [confianza-4] o recurrir al Poderío de Aventura o Grandeza. Hablar orco o usar la piedra orca cuenta como etiqueta a favor; hablar élfico o enano cuenta como etiqueta en contra.
 
 ### Oso lechuza nival (nivel 2)
-- **Origen 5e**: 1 criatura.
 - **Límites**: herido 4.
 - **Etiquetas y estados**: [híbrido de búho y oso], [hambriento], [prefiere pescado], [indiferente al frío].
 - **Amenazas y consecuencias**:
   - Ataque: inflige [herido-3].
-- **Debilidades / secretos**: si se le arroja comida, la come antes de perseguir presa más escurridiza. Solo un personaje con el secreto de El que Susurra a los Osos Lechuza puede amistarlo. Puede convertirse en mascota por 9 po diarios de alimentación.
+- **Debilidades / secretos**: si se le arroja comida, la come antes de perseguir presa más escurridiza. Solo un personaje con el secreto de El que Susurra a los Osos Lechuza puede amistarlo. Puede convertirse en mascota por una [reserva diaria de alimento].
 
 ### Perytones (pareja) (nivel 2)
-- **Origen 5e**: 2 criaturas.
 - **Límites**: herido 4.
 - **Etiquetas y estados**: [pareja apareada], [cazadores de corazones], [vista aguda], [silenciosos en cielo oscuro].
 - **Amenazas y consecuencias**:
-  - Emboscada: sorprenden a quien tenga Percepción pasiva de 13 o menos.
+  - Emboscada: advertir su llegada es una acción arriesgada; un fallo deja [sorprendido-2].
   - Ataque: inflige [herido-3].
-  - Arrancar el corazón de un humanoide muerto a 5 pies o menos: crea [corazón robado] y se retiran.
+  - Arrancar el corazón de un humanoide muerto a 1,5 m o menos: crea [corazón robado] y se retiran.
 - **Debilidades / secretos**: no interrumpen el ataque hasta obtener un corazón; tras conseguirlo regresan a su nido. La hembra debe consumirlo para reproducirse.
 
 ### Trol de hielo (nivel 3)
-- **Origen 5e**: 1 criatura.
 - **Límites**: herido 5.
 - **Etiquetas y estados**: [trol de hielo], [hambriento], [sin astucia], [indiferente a ventiscas].
 - **Amenazas y consecuencias**:
   - Ataque frontal: inflige [herido-3].
-- **Debilidades / secretos**: carece de astucia y no toma precauciones; avanza impertérrito ante ventiscas y fuego. El fuego puede herirlo; no se añaden otras capacidades no descritas.
+- **Debilidades / secretos**: carece de astucia y no toma precauciones; avanza impertérrito ante ventiscas y fuego. El fuego puede herirlo.
 
 ### Ventisca y frío extremo (nivel 2)
-- **Origen 5e**: clima regional; sin criaturas.
 - **Límites**: refugio alcanzado 4, trayecto superado 3.
 - **Etiquetas y estados**: [ventisca], [frío extremo], [visibilidad nula], [nieve acumulada], [exposición].
 - **Amenazas y consecuencias**:
@@ -387,21 +368,21 @@ Si el encuentro ocurre durante ventisca, los yetis siempre aparecen en ventisca 
 | Trineo de madera | [trineo de carga]: vehículo voluminoso y pesado incluso vacío, con puesto trasero para el conductor. Requiere tiro adecuado. |
 | Tiro de perros | [perros de trineo]: transportan mercancías cuando su fuerza conjunta basta para la carga. Necesitan una parada tras cada hora de tiro; si se los fuerza, reciben [agotados-2]. |
 | Pico de hacha domesticado | [pico de hacha de carga]: transporta aproximadamente lo que una mula y se mueve por nieve gracias a sus garras extendidas. |
-| Leña | [reserva de leña]: combustible accesible sobre todo junto a los bosques de Buenagamiel, Bosque Solitario y Termalaine. |
+| Leña | [reserva de leña]: combustible accesible sobre todo junto a los bosques de Buenaguamiel, Bosque Solitario y Termalaine. |
 | Aceite de ballena | [aceite para lámparas y hornillos]: proporciona luz y calor con aparatos adecuados; vincula el abastecimiento a los balleneros del Mar de Hielo Móvil. |
 
 ### Magia y servicios
-No hay mercado de objetos poderosos ni acceso habitual a grandes prodigios. Como máximo se encuentran objetos mágicos comunes y ayuda modesta de un druida, sacerdote o mago. Se estima un profesional de cada uno de esos tres oficios por cada cien habitantes, sin censos ni inventarios concretos en esta fuente.
+No hay mercado de objetos poderosos ni acceso habitual a grandes prodigios. Como máximo se encuentran objetos mágicos comunes y ayuda modesta de un druida, sacerdote o mago. Se estima un profesional de cada uno de esos tres oficios por cada cien habitantes.
 
 - **Objeto mágico común**: etiqueta de mochila [objeto mágico común: efecto acordado], con un efecto pequeño definido antes de adquirirlo.
 - **Poción de curación**: etiqueta de mochila consumible [poción de curación]; beberla o administrarla permite tratar un estado de lesión apropiado.
 - **Servicio druídico, sacerdotal o arcano**: etiqueta de historia [servicio mágico pactado], con un efecto concreto acordado antes de usarlo; los efectos exigentes requieren compromisos mayores y cualquier ingrediente raro debe conseguirse aparte.
 
 ### Objetos, pistas y documentos destacados
-- **Anillo de la Doncella de Escarcha**: anillo mágico de hielo con un copo de nieve de seis puntas. Al quitárselo a un berserker, desaparece y teletransporta a todas las criaturas en 100 pies al camino helado hacia la Cueva de los Berserkers.
+- **Anillo de la Doncella de la Escarcha**: anillo mágico de hielo con un copo de nieve de seis puntas. Al quitárselo a un berserker, desaparece y teletransporta a todas las criaturas en 30 m al camino helado hacia la Cueva de los Berserkers.
 - **Figurita de maravilloso poder (Cuervo Plateado)**: robada por Kwan; se ofrece como recompensa por ayudarla a volver al Refugio de la Torre del Cielo.
 - **Anzuelo encantado de Nabira Moarskull**: capaz de atrapar peces mágicos; robado por gnolls y rastreado hasta una grieta helada.
-- **Estofado de hueso de dragón**: receta que otorga el beneficio de una poción de resistencia al frío, pero causa locura (codicia y paranoia de dragón), curable con restauración mayor o magia similar.
+- **Estofado de hueso de dragón**: receta que otorga el beneficio de una poción de resistencia al frío, pero causa locura (codicia y paranoia de dragón), curable con magia capaz de sanar una mente corrompida.
 - **Declaración de paz de Yarb-Gnock**: documento llevado por un mensajero goblin capturado en Bryn Shander.
 - **Carta firmada de Duvessa Shane**: notifica a Vaelish Gant que, a cambio de cooperación, se solicitará una reducción de su condena.
 - **Señal telepática en Habla Profunda**: mensaje que solo perciben personas sensibles; su fuente está en una dirección conocida por los cuatro afectados.
@@ -409,18 +390,18 @@ No hay mercado de objetos poderosos ni acceso habitual a grandes prodigios. Como
 - **Grandes historias**: pueden entregarse como ayuda a los jugadores, completa o por entradas; son noticias escuchadas, no verdades probadas.
 
 ## Desenlaces y recompensas
-- **Aceite de ballena**: Helka paga 150 po por la ayuda y compra seis barriles a 25 po cada uno. Convertir en favores: [reserva de aceite para Bryn Shander], [favor de Helka], hito si la expedición tiene éxito. No revelar la verdad a Angajuk.
-- **Cabezas de gnoll**: 10 po por cabeza, convertibles en favor de Trovus y hito.
-- **El camino de Yselm**: 25 po de guía; si los Héroes superan los desafíos de Jarlmoot, Yselm y un lobo invernal los atacan hasta la muerte. El tesoro de Reggaryarva y el hito quedan como recompensa.
+- **Aceite de ballena**: Helka ofrece [bolsa de monedas] por la ayuda y compra seis barriles. Recompensas adicionales: [reserva de aceite para bryn shander], [favor de helka], hito si la expedición tiene éxito. No revelar la verdad a Angajuk.
+- **Cabezas de gnoll**: [pequeña bolsa de monedas] por cabeza, convertibles en favor de Trovus y hito.
+- **El camino de Yselm**: [bolsa de monedas] de guía; si los Héroes superan los desafíos del Concilio de los Jarls, Yselm y un lobo invernal los atacan hasta la muerte. El tesoro de Reggaryarva y el hito quedan como recompensa.
 - **Caníbales**: salvar a Honeybee Littlebucket y resolver la amenaza; hito.
-- **Yeti Rojo**: apuesta de 300 po con Mylbor; descubrimiento accidental de la Aguja Perdida; al volver, el yeti ya está muerto. Recompensa: tesoros de la aguja.
+- **Yeti Rojo**: apuesta de [pago generoso] con Mylbor; descubrimiento accidental de la Aguja Perdida; al volver, el yeti ya está muerto. Recompensa: tesoros de la aguja.
 - **Estofado de hueso de dragón**: primer lote gratis (equivalente a poción de resistencia al frío), pero con riesgo de locura.
-- **Karkolohk**: 300 po por la cabeza de Yarb-Gnock si se sigue al sheriff; o una negociación genuina y un hito.
+- **Karkolohk**: [pago generoso] por la cabeza de Yarb-Gnock si se sigue al sheriff; o una negociación genuina y un hito.
 - **Kwan**: figurita de Cuervo Plateado robada como recompensa.
 - **Macreadus**: curación gratuita en la Casa del Señor de la Mañana al completar la misión.
-- **Ron cero**: precio justo más 150 po de incentivo; no hay ron, pero otros tesoros superan la recompensa.
-- **Señal de socorro**: 250 po por investigar y silenciar la señal.
-- **Tras las rejas**: 250 po por información útil; carta para reducción de condena; si no hay información, avisar al director.
+- **Ron cero**: precio justo más [bolsa de monedas] de incentivo; no hay ron, pero otros tesoros superan la recompensa.
+- **Señal de socorro**: [pago generoso] por investigar y silenciar la señal.
+- **Tras las rejas**: [pago generoso] por información útil; carta para reducción de condena; si no hay información, avisar al director.
 
 Progresión: como se indica en los ganchos. Resolver más encargos sigue proporcionando favores, apoyo y reputación. Recompensas apropiadas: [alojamiento ofrecido], [provisiones para la siguiente etapa], [equipo reparado], [pasaje en un barco local], [favor de los pescadores] o una etiqueta de mochila concreta.
 
@@ -433,11 +414,7 @@ Encuentros salvajes pueden otorgar botines menores: regalos del chwinga, informa
 - La disputa entre los clanes goliath (Akannathi y Thuunlakalaga) puede resolverse o agravarse.
 - La chardalyn corrompe a los berserkers; Oyaminartok los considera víctimas irredimibles.
 - Arveiaturace, la Sierpe Blanca, es la depredadora más temible del valle, pero respeta a los humanoides.
-- A partir del nivel 7, dirigir a los Héroes a los lugares de los capítulos 5 a 7.
+- Cuando los Héroes ya sean veteranos con temas de Aventura, la exploración y los encuentros ocasionales proporcionan favores y reputación; las grandes gestas los esperan en la isla de Auril, las cuevas de hielo y Ythryn.
 
-## Páginas de la fuente
-- **101**: descripción del valle, vientos, aurora, supervivencia; jugar el capítulo; avance de personajes.
-- **102**: grandes historias en Diez Ciudades.
-- **103-105**: misiones del valle.
-- **106**: encuentros en zonas salvajes; número de encuentros; jugar los encuentros; tabla de encuentros aleatorios.
-- **107-113**: descripciones de encuentros aleatorios y tablas de bestias despertadas, compañeros del druida, tribus Reghed, competiciones, manadas y orcos.
+## Referencias del valle
+Descripción del valle y su supervivencia; rumores y misiones; encuentros salvajes y tablas de criaturas y comunidades.

@@ -185,10 +185,10 @@
       "papel": "Causa divina del invierno.",
       "ciudad": "otro",
       "aspecto_en": "Full body portrait of an ageless goddess of winter, hieratic and distant, wrapped in rigid white frost and stiff white cloaks. Her pale face is unreadable; snow and ice crystals cling to her hair and shoulders. A white roc mount looms behind her. Cold blue white light, no compassion in her expression.",
-      "presentacion": "Veis una figura hierática envuelta en escarcha y capas blancas rígidas, de edad indeterminada. Sus formas no se describen en el extracto; el frío parece emanar de ella. Su montura, un roc blanco, completa la imagen. Habla poco y sus frases son breves y heladas.",
+      "presentacion": "Veis una figura hierática envuelta en escarcha y capas blancas rígidas, de edad indeterminada. El frío parece emanar de ella. Su montura, un roc blanco, completa la imagen. Habla poco y sus frases son breves y heladas.",
       "caracter": "Distante e incapaz de compasión; frases breves y heladas.",
       "quiere": "Soledad y conservación de la belleza mediante la congelación.",
-      "sabe": "Cómo mantener el sol fuera del valle y cerrar los accesos con temporales. Cada renovación la debilita y puede ser derrotada en ese estado. Sus motivos completos no figuran en este extracto.",
+      "sabe": "Cómo mantener el sol fuera del valle y cerrar los accesos con temporales. Cada renovación la debilita y puede ser derrotada en ese estado.",
       "desafio": "auril-debilitada"
     },
     {
@@ -210,9 +210,9 @@
       "ciudad": "otro",
       "aspecto_en": "Full body portrait of two sturdy adult grey dwarves in dark coats and loading harnesses, each with different crew emblems. Their practical, authoritarian stances and cold weather gear suggest organised crystal gatherers. Muted winter light and frost on dark fabric.",
       "presentacion": "Dos duergar recios, con abrigos oscuros y correajes de carga, distintos emblemas de cuadrilla. Se mueven como capataces prácticos y autoritarios, pendientes de que el cristal llegue a manos de su padre.",
-      "caracter": "Para esta adaptación, prácticos y autoritarios.",
+      "caracter": "Prácticos y autoritarios.",
       "quiere": "Poner más cristal en manos de su padre.",
-      "sabe": "Sus propias rutas y encargos; el extracto no los detalla.",
+      "sabe": "Sus propias rutas y encargos de recogida de chardalyn.",
       "desafio": "banda-recolectora-duergar"
     },
     {
@@ -259,7 +259,7 @@
       "aspecto_en": "Full body portrait of a fierce adult orc man, broad shouldered, wearing pelts and scarred armour. He appears alive despite being a spirit. Cold light, martial stance, no weapons specified. Snow around his boots.",
       "presentacion": "Un orco adulto de presencia feroz, aparentemente vivo, ancho de hombros, con pieles y cicatrices. Habla común y orco con voz áspera; su ayuda se expresa mediante [auxilio de Vokarr].",
       "caracter": "Marcial; voz áspera en común y orco.",
-      "quiere": "La fuente no lo establece; pactar cómo interpreta su auxilio.",
+      "quiere": "Prestar auxilio marcial a quien invoque su espíritu.",
       "sabe": "Que murió a manos de enanos; no atribuirle conocimiento automático del valle actual.",
       "desafio": null
     },
@@ -500,7 +500,7 @@
         "Peligro"
       ],
       "aspecto_en": "An environmental danger of thin ice and black water: a pale frozen lake surface with cracks, a fishing hole, a stranded boat and dark water below. Cold blue light, frost and treacherous footing. No figures.",
-      "descripcion": "Inmersión y ropa mojada; el hielo fino se añade como aplicación ambiental propuesta.",
+      "descripcion": "Inmersión y ropa mojada; el hielo fino puede complicar el rescate.",
       "limites": [
         {
           "nombre": "rescatado y seco",
@@ -573,7 +573,7 @@
         "Obstáculo"
       ],
       "aspecto_en": "A creature portrait of a powerful freshwater trout with a broad head and muscular body, thrashing at the end of a fishing line through a hole in the ice. Cold water, bubbles and frost. No people.",
-      "descripcion": "Una trucha por captura exitosa; su perfil no figura aquí. Nivel provisional.",
+      "descripcion": "Una trucha por captura exitosa.",
       "limites": [
         {
           "nombre": "capturada",
@@ -625,7 +625,7 @@
         "Merodeador"
       ],
       "aspecto_en": "Full body group portrait of grey dwarves in dark winter coats and loading harnesses, carrying crystal fragments and mining tools. Their organised, practical stances suggest a crystal gathering crew. Cold light on dark metal and frost.",
-      "descripcion": "Grupos duergar al mando de Durth o Nildar; cantidades sin especificar. Propuesta basada en duergar ordinarios.",
+      "descripcion": "Grupos duergar al mando de Durth o Nildar; ajustad su número a la situación.",
       "limites": [
         {
           "nombre": "herida",
@@ -694,7 +694,7 @@
         "Merodeador"
       ],
       "aspecto_en": "Full body portrait of a lean middle aged woman with a shaved head and a hook replacing her right hand, wearing a winter coat that conceals tools. Professional, sparse expression. Cold muted light.",
-      "descripcion": "Una asesina independiente enviada por Neverember contra el descendiente de Alagondar; adaptación del arquetipo de asesino.",
+      "descripcion": "Una asesina independiente enviada por Neverember contra el descendiente de Alagondar.",
       "limites": [
         {
           "nombre": "herida",
@@ -938,7 +938,7 @@
       "secretos": [
         {
           "nombre": "Debilidades y secretos",
-          "descripcion": "Una curación capaz de eliminar enfermedades retira la amenaza antes de eclosionar. La fuente no fija cuándo ocurre: preparad señales y oportunidades de respuesta."
+          "descripcion": "Una curación capaz de eliminar enfermedades retira la amenaza antes de eclosionar. Decidid cuándo eclosiona y preparad señales y oportunidades de respuesta."
         }
       ]
     },
@@ -1014,7 +1014,7 @@
         "Adversario"
       ],
       "aspecto_en": "Full body portrait of a tyrannical grey dwarf warlock in fur and forge clothes, with soot stained hands and an obsessive gaze, standing before a mountain fortress and chardalyn dragon under construction. Cold light, dark metal and frost.",
-      "descripcion": "Un brujo duergar con fortaleza y un dragón de chardalyn en construcción; perfil y efectivos no incluidos. Desafío estratégico provisional.",
+      "descripcion": "Un brujo duergar con fortaleza y un dragón de chardalyn en construcción.",
       "limites": [
         {
           "nombre": "herido",
@@ -1085,7 +1085,7 @@
         "Bruto"
       ],
       "aspecto_en": "Full body portrait of a dragon shaped construct made of dark chardalyn crystal, with angular wings and a siege weapon silhouette. It flies above snowy settlements. Cold light on faceted black crystal, no rider.",
-      "descripcion": "Un constructo con forma de dragón, destinado a destruir Diez Ciudades. Perfil no incluido; nivel provisional.",
+      "descripcion": "Un constructo con forma de dragón, destinado a destruir Diez Ciudades.",
       "limites": [
         {
           "nombre": "destruido",
@@ -1138,7 +1138,7 @@
       "secretos": [
         {
           "nombre": "Debilidades y secretos",
-          "descripcion": "La introducción no describe vulnerabilidades ni armamento concreto. Alcanzar el límite local salva una posición, pero no destruye el constructo. Evacuar y organizar refugios protege vidas aunque la criatura siga activa."
+          "descripcion": "Alcanzar el límite local salva una posición, pero no destruye el constructo. Evacuar y organizar refugios protege vidas aunque la criatura siga activa."
         }
       ]
     },
@@ -1157,7 +1157,7 @@
         "Controlador"
       ],
       "aspecto_en": "Full body portrait of a weakened winter goddess in rigid white frost and stiff cloaks, with a white roc mount. Her hieratic figure radiates cold; snow and ice crystals cling to her. A nocturnal aurora and frozen landscape surround her. No compassion in her expression.",
-      "descripcion": "Una deidad y un roc blanco como montura durante su ritual; no se desarrolla aquí un combate separado con el roc. Propuesta estratégica.",
+      "descripcion": "Una deidad y un roc blanco como montura durante su ritual. Centrad el enfrentamiento en impedir la renovación del conjuro.",
       "limites": [
         {
           "nombre": "forma vencida",
@@ -1294,7 +1294,7 @@
       "slug": "piedra-orca",
       "nombre": "Piedra orca",
       "etiqueta": "piedra de Vokarr",
-      "descripcion": "Mochila: [piedra de Vokarr]. Rutina propuesta: invocar el auxilio del caudillo como [auxilio de Vokarr] durante una situación pertinente. El extracto no indica cargas ni duración.",
+      "descripcion": "Mochila: [piedra de Vokarr]. Rutina invocar el auxilio del caudillo como [auxilio de Vokarr] durante una situación pertinente. Acordad los límites y la duración del auxilio antes de invocarlo.",
       "imagen_en": "Isolated rough stone carved with orcish markings, resting on a fur cloth. Cold light, dark grey surface and faint wear."
     },
     {
@@ -1308,7 +1308,7 @@
       "slug": "codicilo-blanco",
       "nombre": "Codicilo Blanco",
       "etiqueta": "Codicilo Blanco",
-      "descripcion": "[Codicilo Blanco], objeto transportable y documento. Compilado por seguidores fervorosos de Auril; contiene la Rima que abre el glaciar. No se incluye el poema en esta fuente.",
+      "descripcion": "[Codicilo Blanco], objeto transportable y documento. Compilado por seguidores fervorosos de Auril; contiene la Rima que abre el glaciar.",
       "imagen_en": "Isolated white bound book or scroll case resting on snow, with frost on its cover. Cold light, simple and austere."
     },
     {
@@ -1322,7 +1322,7 @@
       "slug": "orbe-de-vellynne",
       "nombre": "Orbe de Vellynne",
       "etiqueta": "orbe recuperado de Vellynne",
-      "descripcion": "[orbe recuperado de Vellynne]. Una rival se lo robó; se busca en la isla de Auril y tiene propiedades útiles. El extracto no describe esas propiedades.",
+      "descripcion": "[orbe recuperado de Vellynne]. Una rival se lo robó; se busca en la isla de Auril y tiene propiedades útiles. Concretad sus propiedades antes de que la Compañía lo utilice.",
       "imagen_en": "Isolated crystal orb with a faint inner light, resting on dark cloth. Cold light, smooth and luminous."
     },
     {
@@ -1343,7 +1343,7 @@
       "slug": "aviso-de-caer-dineval",
       "nombre": "Aviso de Caer-Dineval",
       "etiqueta": "atentado infernal anunciado",
-      "descripcion": "[atentado infernal anunciado]. Puede transmitirse oralmente o como nota de los Caballeros de la Espada Negra; texto de ayuda creado por el Narrador.",
+      "descripcion": "[atentado infernal anunciado]. Puede transmitirse oralmente o como nota de los Caballeros de la Espada Negra.",
       "imagen_en": "Isolated folded note on rough parchment with a black seal, resting on dark wood. Cold light, no readable text."
     }
   ],
@@ -1380,7 +1380,7 @@
       "slug": "nota-del-atentado",
       "titulo": "Aviso de Caer-Dineval",
       "tipo": "nota",
-      "texto": "Aviso de los Caballeros de la Espada Negra sobre un atentado infernal contra el autor fugado. Puede transmitirse oralmente o como nota; su texto es creado por el Narrador.",
+      "texto": "Aviso de los Caballeros de la Espada Negra sobre un atentado infernal contra el autor fugado. Puede transmitirse oralmente o como nota.",
       "fondo_en": "An empty sheet of rough parchment with worn edges and faint folds, resting flat under soft neutral light. The central surface is clear and unmarked, with no text, symbols or illustrations."
     }
   ],

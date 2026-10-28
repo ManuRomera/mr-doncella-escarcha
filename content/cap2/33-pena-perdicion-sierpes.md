@@ -2,7 +2,7 @@
 
 ## Resumen para el Narrador
 
-Peña Perdición de Sierpes es el asentamiento amistoso del clan goliat Thuunlakalaga, excavado en la cara norte de una montaña de 15.000 pies de la Columna del Mundo. Hace décadas, los goliats derrotaron a un dragón blanco adulto llamado Stygiarus y sus huesos aún yacen a la entrada como trofeo. El clan recibe a viajeros con comida y refugio a cambio de historias y noticias del Valle, pero guarda un amargo rencor contra el clan rival de Refugio Torre del Cielo por un viejo incidente con un grifo que hirió a su actual jefa, Ogolai. Los Héroes pueden llegar por un rumor o encargo, porque uno de ellos es goliat del clan, por una misión de Dannika Acerogris para conseguir huesos de dragón, o para mediar la enemistad entre los dos clanes. La guarida mezcla vida comunitaria (cancha de pelota de cabra, armería, túnel de iniciación, cuevas privadas y cueva del festín) con secretos: un tesoro acumulado, una aarakocra herida y cuatro chwingas curiosos que acechan entre los huesos. La aventura es social y de supervivencia: ganar confianza, probarse en el túnel, curar a la aarakocra y, si se quiere, intentar la paz entre clanes.
+Peña Perdición de Sierpes es el asentamiento amistoso del clan goliat Thuunlakalaga, excavado en la cara norte de una montaña de 4.500 metros de la Columna del Mundo. Hace décadas, los goliats derrotaron a un dragón blanco adulto llamado Stygiarus y sus huesos aún yacen a la entrada como trofeo. El clan recibe a viajeros con comida y refugio a cambio de historias y noticias del Valle, pero guarda un amargo rencor contra el clan rival de Refugio Torre del Cielo por un viejo incidente con un grifo que hirió a su actual jefa, Ogolai. Los Héroes pueden llegar por un rumor o encargo, porque uno de ellos es goliat del clan, por una misión de Dannika Acerogris para conseguir huesos de dragón, o para mediar la enemistad entre los dos clanes. La guarida mezcla vida comunitaria (cancha de pelota de cabra, armería, túnel de iniciación, cuevas privadas y cueva del festín) con secretos: un tesoro acumulado, una aarakocra herida y cuatro chwingas curiosos que acechan entre los huesos. La aventura es social y de supervivencia: ganar confianza, probarse en el túnel, curar a la aarakocra y, si se quiere, intentar la paz entre clanes.
 
 ## Ganchos y cómo empieza
 
@@ -16,8 +16,8 @@ Peña Perdición de Sierpes es el asentamiento amistoso del clan goliat Thuunlak
 
 ### Peña Perdición de Sierpes: vista y aproximación
 
-- **Lugar e imagen**: ladera nevada de una montaña de 15.000 pies de la Columna del Mundo; huesos medio enterrados de un dragón blanco; luz de antorchas en dos túneles que se adentran en la roca; escalones toscos que suben a una arena al aire libre con quince pilares de piedra; gradas heladas; cielo plomizo; viento cortante; nieve virgen.
-- **Lectura**: «La guarida se asoma al norte desde una ladera nevada. Antes de la entrada, los huesos de un dragón blanco medio enterrados en la nieve brillan con escarcha. Más allá, las antorchas parpadean en dos túneles que se adentran en la montaña. Al este, unos escalones toscos suben a una arena de piedra con pilares y gradas heladas. El aire es tan frío que corta.»
+- **Lugar e imagen**: ladera nevada de una montaña de 4.500 metros de la Columna del Mundo; huesos medio enterrados de un dragón blanco; luz de antorchas en dos túneles que se adentran en la roca; escalones toscos que suben a una arena al aire libre con quince pilares de piedra; gradas heladas; cielo plomizo; viento cortante; nieve virgen.
+- **Lectura**: «La guarida se asoma al norte desde una ladera nevada de la Columna del Mundo. Unas huellas recientes atraviesan la nieve y os conducen hacia la roca. Antes de la entrada, los huesos de un dragón blanco medio enterrados brillan con escarcha. Más allá, las antorchas parpadean en dos túneles que se adentran en la montaña. Al este, unos escalones toscos suben a una arena de piedra con pilares y gradas heladas. El aire es tan frío que corta.»
 - **Qué ocurre**: las huellas frescas de dos goliats cazadores facilitan encontrar el asentamiento. Los goliats acogen a viajeros y cambian comida y refugio por historias y noticias del Valle; rechazan a los goliats de Refugio Torre del Cielo y expulsan a los visitantes problemáticos. El viaje entre asentamientos sigue las reglas de montaña.
 - **Etiquetas de escena**: [guarida en montaña], [huesos de dragón], [acogida goliat], [ventisca]
 - **Ambiente sonoro**: viento aullante, crujido de hielo, ecos de caverna, chasquido de antorchas.
@@ -25,56 +25,56 @@ Peña Perdición de Sierpes es el asentamiento amistoso del clan goliat Thuunlak
 ### W1. Acercándose (los huesos y los chwingas)
 
 - **Lugar e imagen**: cueva de entrada con los huesos de un dragón blanco medio enterrados; luz de antorchas parpadeante; escalones al este; cuatro diminutas criaturas con máscaras pintadas entre los huesos; huellas en la nieve.
-- **Lectura**: «Seguís las huellas hasta la cueva. Los huesos del dragón yacen semienterrados, y entre ellos se mueven cuatro diminutas criaturas con máscaras pintadas. A medida que os acercáis, emergen y os observan con curiosidad.»
-- **Qué ocurre**: los huesos son los de Stygiarus, dragón blanco adulto muerto por los goliats. Cuatro chwingas acechan entre ellos y siguen al grupo mientras permanezca cerca. Cada chwinga tiene una fascinación; si un personaje la satisface una vez al día durante tres días consecutivos, el chwinga le otorga un don sobrenatural antes de partir. Los goliats conocen a los chwingas y los ignoran. Las fascinaciones son: el chwinga 1 (cara blanca con triángulo oscuro sobre un ojo) se siente atraído por personajes pequeños y trata de cabalgar sobre ellos; el chwinga 2 (dos anillos azules concéntricos alrededor de un ojo) adora las barbas y las peina con una piña; el chwinga 3 (antenas negras rizadas) se fascina por los silbidos y su reflejo, y da cabriolas cuando alguien silba o le muestra un espejo; el chwinga 4 (vestido de agujas de pino) se fija en quienes mastican con la boca abierta y trata de mirar por encima de sus gargantas. Usar los encantamientos de chwinga del apéndice C.
-- **Etiquetas de escena**: [huesos de Stygiarus], [chwingas], [fascinaciones], [don sobrenatural]
+- **Lectura**: «Seguís las huellas hasta la cueva. Los huesos del dragón yacen semienterrados, enormes y pálidos bajo la escarcha. La luz de las antorchas tiembla entre sus costillas y el viento arrastra nieve hacia la entrada. Algo se mueve entre los restos: cuatro diminutas criaturas con máscaras pintadas. A medida que os acercáis, emergen de sus escondrijos y os observan con curiosidad. Sus pequeños movimientos contrastan con la inmovilidad del gran esqueleto.»
+- **Qué ocurre**: los huesos son los de Stygiarus, dragón blanco adulto muerto por los goliats. Cuatro chwingas acechan entre ellos y siguen al grupo mientras permanezca cerca. Cada chwinga tiene una fascinación; si un personaje la satisface una vez al día durante tres días consecutivos, el chwinga le otorga un don sobrenatural antes de partir. Los goliats conocen a los chwingas y los ignoran. Las fascinaciones son: el chwinga 1 (cara blanca con triángulo oscuro sobre un ojo) se siente atraído por personajes pequeños y trata de cabalgar sobre ellos; el chwinga 2 (dos anillos azules concéntricos alrededor de un ojo) adora las barbas y las peina con una piña; el chwinga 3 (antenas negras rizadas) se fascina por los silbidos y su reflejo, y da cabriolas cuando alguien silba o le muestra un espejo; el chwinga 4 (vestido de agujas de pino) se fija en quienes mastican con la boca abierta y trata de mirar por encima de sus gargantas. El don se representa con la etiqueta de historia [don de chwinga].
+- **Etiquetas de escena**: [huesos de stygiarus], [chwingas], [fascinaciones], [don sobrenatural]
 - **Ambiente sonoro**: viento, crujido de nieve, chillidos diminutos.
 
 ### W2. Cancha de pelota de cabra
 
-- **Lugar e imagen**: arena elevada de veinte pies con quince pilares toscos de piedra de cinco a ocho pies de altura y un pie de diámetro; gradas talladas en la pared del fondo revestidas de hielo; restos de antorchas en apliques; túnel estrecho en la parte superior.
-- **Lectura**: «Quince pilares toscos de piedra se alzan en la arena. Las gradas del fondo están cubiertas de hielo, y en la parte alta se ven restos de antorchas y un túnel estrecho. Aquí los goliats se reúnen a diario para ver partidos de pelota de cabra.»
-- **Qué ocurre**: el deporte favorito de los goliats de Peña Perdición. Si los Héroes se ganan su cariño, cuatro goliats guerreros de W7 los desafían a un partido amistoso; si lo rechazan, pueden ver un juego. A los goliats no les importa apostar. Reglas: cada jugador hace una prueba de Fuerza (Atletismo) o Destreza (Acrobacias) (a su elección); se suman los totales de cada equipo; gana el mayor; en caso de empate, prórroga y todos vuelven a tirar. El túnel sobre las gradas conduce a W6.
+- **Lugar e imagen**: arena elevada de seis metros con quince pilares toscos de piedra de metro y medio a dos metros y medio de altura y treinta centímetros de diámetro; gradas talladas en la pared del fondo revestidas de hielo; restos de antorchas en apliques; túnel estrecho en la parte superior.
+- **Lectura**: «Los escalones os llevan hasta una arena elevada sobre la ladera. Quince pilares toscos de piedra se alzan ante vosotros, de distintas alturas y apenas treinta centímetros de diámetro. Las gradas del fondo están cubiertas de hielo; en la parte alta se distinguen restos de antorchas y la boca de un túnel estrecho. El viento recorre la cancha abierta. Desde aquí veis toda la cancha, expuesta al frío bajo el cielo plomizo.»
+- **Qué ocurre**: el deporte favorito de los goliats de Peña Perdición. Si los Héroes se ganan su cariño, cuatro goliats guerreros de W7 los desafían a un partido amistoso; si lo rechazan, pueden ver un juego. A los goliats no les importa apostar. El equipo intenta alcanzar [victoria-3] mediante acciones de fuerza, equilibrio y cooperación entre los pilares. Un fallo permite al rival marcar o impone [desequilibrado-1]; las apuestas se representan con [bolsa de monedas]. El túnel sobre las gradas conduce a W6.
 - **Etiquetas de escena**: [cancha de pelota], [pilares de piedra], [gradas heladas], [apuestas]
 - **Ambiente sonoro**: gritos, golpes de pelota, risas, viento.
 
 ### W3. Armería
 
-- **Lugar e imagen**: cámara cálida de tres metros de altura; fragua encendida contra la pared oeste; yunque central iluminado; barril de agua; goliat femenina sumergiendo una jabalina incandescente; herramientas y armas colgadas en la pared cercana.
-- **Lectura**: «El silbido del metal al enfriarse llena la cámara cálida. Una goliat femenina sumerge una jabalina incandescente en un barril; el yunque brilla a la luz de la fragua. En las paredes cuelgan herramientas y armas.»
+- **Lugar e imagen**: cámara cálida de tres metros de altura; fragua encendida contra la pared oeste; yunque central iluminado; barril de agua; goliat sumergiendo una jabalina incandescente; herramientas y armas colgadas en la pared cercana.
+- **Lectura**: «El silbido del metal al enfriarse llena la cámara cálida. Una goliat sumerge una jabalina incandescente en un barril de agua, del que asciende una nube de vapor. El yunque brilla a la luz de la fragua, encendida contra la pared del oeste. En las paredes cercanas cuelgan herramientas y armas. Tras el frío de la entrada, el calor del fuego os alcanza de golpe, acompañado por el olor del hierro trabajado.»
 - **Qué ocurre**: Wayani Cazador Supremo Thuunlakalaga, goliat guerrera y armera, forja con técnicas aprendidas de un herrero enano. Experta con herramientas de herrería y encantada de hablar de su trabajo. Si los Héroes parecen amistosos, los lleva a ver a Ogolai en W5. En la forja hay trece jabalinas de metal y tres grandes hachas pesadas, todas no mágicas.
 - **Etiquetas de escena**: [fragua], [armería], [jabalinas], [hachas]
 - **Ambiente sonoro**: silbido del metal, golpes de martillo, fuego crepitante.
 
 ### W4. Reptando (túnel de iniciación)
 
-- **Lugar e imagen**: caverna de quince pies de altura con el suelo elevado en el centro; un agujero de cinco pies en cada extremo de la protuberancia; runas inscritas en el exterior; anciano goliat tiñendo telas en un cubo de líquido verdoso; tres adolescentes cosiendo muñecas; decenas de muñecas viejas en nichos que miran hacia afuera.
-- **Lectura**: «El suelo de la caverna sobresale en el centro, con un agujero en cada extremo de la protuberancia, cubierta de runas. Un anciano goliat tiñe telas en un cubo verdoso mientras tres jóvenes cosen muñecas ceremoniales. Decenas de muñecas viejas miran desde los nichos.»
-- **Qué ocurre**: Demelok Caminante Nocturno Thuunlakalaga, no combatiente, ayuda a los jóvenes a hacer muñecos ceremoniales. Los tres jóvenes son Jaagrik, Kaga y Zuri, goliats guerreros desarmados y sin armadura. El túnel tallado en runas tiene dos propósitos: probar a los jóvenes en la cúspide de la adultez e impartir la sabiduría que nace de conocer el propio carácter. Un joven ofrece un símbolo de su infancia (una muñeca) y se arrastra; su familia lo espera al otro lado. Las visiones obligan a enfrentar miedos, soledad y debilidades; no todos lo logran a la primera, pero pueden reintentarlo. A los visitantes se les advierte de que no es para débiles de corazón. Mecánica: al llegar al punto medio, el personaje debe superar una tirada de salvación de Constitución CD 15 y otra de Carisma CD 15. Si una falla, no puede avanzar y debe retirarse por donde vino. Si ambas fallan, cae en coma e inconsciente durante 4d6 horas. Si ambas tienen éxito, sale por el otro lado tras haberse enfrentado y superado las visiones. Con el consentimiento de Ogolai, quien supere la prueba se considera miembro honorario del clan.
+- **Lugar e imagen**: caverna de cuatro metros y medio de altura con el suelo elevado en el centro; un agujero de metro y medio en cada extremo de la protuberancia; runas inscritas en el exterior; anciano goliat tiñendo telas en un cubo de líquido verdoso; tres adolescentes cosiendo muñecas; decenas de muñecas viejas en nichos que miran hacia afuera.
+- **Lectura**: «Al entrar, veis una protuberancia de piedra en el centro de la caverna, con un agujero en cada extremo. Las runas cubren su exterior. Un anciano goliat tiñe telas en un cubo de líquido verdoso, mientras tres jóvenes cosen muñecas ceremoniales a su lado. Decenas de muñecas viejas miran hacia fuera desde los nichos de las paredes. Más allá de las aberturas del túnel, la oscuridad y el silencio parecen ajenos al trabajo tranquilo de la cueva.»
+- **Qué ocurre**: Demelok Caminante Nocturno Thuunlakalaga, no combatiente, ayuda a los jóvenes a hacer muñecos ceremoniales. Los tres jóvenes son Jaagrik, Kaga y Zuri, goliats guerreros desarmados y sin armadura. El túnel tallado en runas tiene dos propósitos: probar a los jóvenes en la cúspide de la adultez e impartir la sabiduría que nace de conocer el propio carácter. Un joven ofrece un símbolo de su infancia (una muñeca) y se arrastra; su familia lo espera al otro lado. Las visiones obligan a enfrentar miedos, soledad y debilidades; no todos lo logran a la primera, pero pueden reintentarlo. A los visitantes se les advierte de que no es para débiles de corazón. En el punto medio, resistir el agotamiento y afrontar las visiones son acciones arriesgadas. Un éxito permite seguir; un fallo impone [bloqueado-1] y obliga a volver por la entrada. Si el iniciado insiste pese al bloqueo y vuelve a fallar, queda [inconsciente-6] durante varias horas. Superar las visiones permite salir por el otro extremo. Con el consentimiento de Ogolai, quien supere la prueba se considera miembro honorario del clan.
 - **Etiquetas de escena**: [túnel de runas], [muñecas ceremoniales], [prueba de adultez], [visiones]
 - **Ambiente sonoro**: fuego crepitante, cosido, silencio del túnel, ecos.
 
 ### W5. Salón principal (Ogolai)
 
-- **Lugar e imagen**: caverna de techo abovedado de treinta pies; pozo abierto en el centro; dos jóvenes sacando agua con cubo y cuerda; seis adultos jugando con niños; escaleras toscas a una zona elevada del sur; mujer goliat de pelo gris, muchas cicatrices y capa blanca de piel de cabra montesa; gran hacha de mango de hueso de dragón; pipa; fuego crepitante.
-- **Lectura**: «El salón es una caverna de treinta pies de techo. Un pozo se abre en el centro. Dos jóvenes sacan agua mientras adultos y niños corretean. En la zona elevada del sur, junto al fuego, una goliat de pelo gris y cicatrices muerde una pipa; a su espalda descansa una gran hacha de mango de hueso de dragón.»
-- **Qué ocurre**: aquí duermen y socializan la mayoría del clan. Al llegar hay ocho goliats guerreros (seis adultos y dos jóvenes desarmados y sin armadura) y seis niños no combatientes. Si estalla una pelea, nueve goliats guerreros más llegan desde W7. Ogolai Parteorcos Thuunlakalaga, «La Vieja Cabra», jefa del clan, saluda a los recién llegados y los invita junto al fuego; si le caen bien, los acompaña a W7 a comer. Si le preguntan por la enemistad con Torre del Cielo, explica: hace muchos veranos, en un partido de pelota de cabra, la pelota cayó cerca de un grifo de Torre del Cielo; una niña de Perdición de Sierpes fue a buscarla y el grifo la hirió gravemente; el grifo merodeó días y los cazadores lo mataron para protegerla; desde entonces los clanes están enfrentados. Ogolai es esa niña (las cicatrices del rostro lo sugieren), teme a los grifos y culpa a los de Torre del Cielo, aunque nunca lo admite. Si los Héroes se ofrecen como árbitros neutrales, Ogolai acepta reunirse con Arn Akannathi, pero solo en la cancha de cabras de Peña Perdición (sabe que Arn nunca aceptará). No ofrecerá gestos de buena voluntad y llama a Arn «muerto viviente». Si los Héroes se ganan su confianza: Goliat Desaparecido — Kapanuk, joven guerrero, se separó de su grupo de caza en una tormenta de nieve hace unos días; Ogolai solo pide que estén atentos en las montañas (podría estar en el área X28 de la fortaleza de Xardorok, capítulo 3). Pozo: principal fuente de agua potable; se baja un cubo de fuego sobre una cuerda para evitar que el agua se congele.
-- **Etiquetas de escena**: [salón principal], [pozo], [Ogolai], [enemistad con Torre del Cielo]
+- **Lugar e imagen**: caverna de techo abovedado de nueve metros; pozo abierto en el centro; dos jóvenes sacando agua con cubo y cuerda; seis adultos jugando con niños; escaleras toscas a una zona elevada del sur; mujer goliat de pelo gris, muchas cicatrices y capa blanca de piel de cabra montesa; gran hacha de mango de hueso de dragón; pipa; fuego crepitante.
+- **Lectura**: «Entráis en un salón excavado bajo un techo abovedado de nueve metros. Un pozo ocupa el centro: dos jóvenes sacan agua con un cubo y una cuerda, mientras varios adultos juegan con los niños. Unos escalones toscos llevan a la zona elevada del sur. Allí, junto al fuego, una goliat de pelo gris y numerosas cicatrices muerde una pipa, envuelta en una capa blanca. A su espalda descansa una gran hacha de mango de hueso de dragón.»
+- **Qué ocurre**: aquí duermen y socializan la mayoría del clan. Al llegar hay ocho goliats guerreros (seis adultos y dos jóvenes desarmados y sin armadura) y seis niños no combatientes. Si estalla una pelea, nueve goliats guerreros más llegan desde W7. Ogolai Parteorcos Thuunlakalaga, «La Vieja Cabra», jefa del clan, saluda a los recién llegados y los invita junto al fuego; si le caen bien, los acompaña a W7 a comer. Si le preguntan por la enemistad con Torre del Cielo, explica: hace muchos veranos, en un partido de pelota de cabra, la pelota cayó cerca de un grifo de Torre del Cielo; una niña de Perdición de Sierpes fue a buscarla y el grifo la hirió gravemente; el grifo merodeó días y los cazadores lo mataron para protegerla; desde entonces los clanes están enfrentados. Ogolai es esa niña (las cicatrices del rostro lo sugieren), teme a los grifos y culpa a los de Torre del Cielo, aunque nunca lo admite. Si los Héroes se ofrecen como árbitros neutrales, Ogolai acepta reunirse con Arn Akannathi, pero solo en la cancha de cabras de Peña Perdición (sabe que Arn nunca aceptará). No ofrecerá gestos de buena voluntad y llama a Arn «muerto viviente». Si los Héroes se ganan su confianza: Goliat Desaparecido — Kapanuk, joven guerrero, se separó de su grupo de caza en una tormenta de nieve hace unos días; Ogolai solo pide que estén atentos en las montañas (podría estar prisionero en la fortaleza de Xardorok). Pozo: principal fuente de agua potable; se baja un cubo de fuego sobre una cuerda para evitar que el agua se congele.
+- **Etiquetas de escena**: [salón principal], [pozo], [ogolai], [enemistad con Torre del Cielo]
 - **Ambiente sonoro**: charla, niños, fuego crepitante, tambor lejano.
 
 ### W6. Cuevas privadas
 
-- **Lugar e imagen**: cuevas de diez pies de altura; aposentos del jefe y de los mejores guerreros; cueva meridional con los objetos de valor del clan; cueva septentrional con un aarakocra herido y un goliat cuidador junto a una fogata.
-- **Lectura**: «Las cuevas privadas son los aposentos del jefe y de los mejores guerreros. En la cueva del norte, un goliat atiende a un aarakocra herido junto a una fogata; en la del sur, Ogolai guarda los objetos de valor del clan.»
-- **Qué ocurre**: Sikki-kree, aarakocra herida, se estrelló en una tormenta de nieve y fue rescatada por cazadores goliat; Aruk Clamatruenos Thuunlakalaga (Perspicacia +4, Medicina +4) la cuida pero no puede hacer mucho. Las heridas menores han curado, pero tiene un ala rota que requiere al menos 10 puntos de vida de curación mágica para repararse; los goliats no tienen esa magia. Ayudarla a volar de nuevo gana la gratitud de los aarakocra y el respeto de los goliats; una vez puede volar, agradece y pide permiso a Ogolai para partir. Ogolai queda en deuda, suficiente para aceptar una reunión con el jefe de Torre del Cielo si los Héroes lo solicitan. Tesoro de Ogolai: 350 po, 1.177 pp y 1.850 pc en moneda mixta; dieciséis piedras preciosas (nueve ágatas anilladas de 10 po, cuatro cornalinas de 50 po, dos espinelas de 100 po y un topacio de 500 po); un colgante de cadena de oro (25 po) incrustado con un diamante amarillo que es una gema elemental (los goliats ignoran su naturaleza mágica). La reserva se usa para miembros del clan que visitan Diez Ciudades y necesitan moneda.
+- **Lugar e imagen**: cuevas de tres metros de altura; aposentos de la jefa y de los mejores guerreros; cueva meridional con los objetos de valor del clan; cueva septentrional con una aarakocra herida y un goliat cuidador junto a una fogata.
+- **Lectura**: «Avanzáis bajo el techo de estas cuevas y dejáis atrás el bullicio de las salas comunes. En la cueva del norte, una pequeña fogata ilumina a una aarakocra herida. Un goliat permanece a su lado, entre vendas y ungüentos; una de las alas de la paciente descansa en una postura que delata la fractura. Sentís el calor del fuego al acercaros, mientras las voces os llegan amortiguadas desde las otras cavernas.»
+- **Qué ocurre**: Sikki-kree, aarakocra herida, se estrelló en una tormenta de nieve y fue rescatada por cazadores goliat; Aruk Clamatruenos Thuunlakalaga la cuida pero no puede hacer mucho. Las heridas menores han curado, pero tiene un ala rota que requiere una intervención sobrenatural capaz de reparar el hueso para sanar; los goliats no tienen esa magia. Ayudarla a volar de nuevo gana la gratitud de los aarakocra y el respeto de los goliats; una vez puede volar, agradece y pide permiso a Ogolai para partir. Ogolai queda en deuda, suficiente para aceptar una reunión con el jefe de Torre del Cielo si los Héroes lo solicitan. Tesoro de Ogolai: [bolsa de monedas]; dieciséis piedras preciosas (nueve ágatas anilladas, cuatro cornalinas, dos espinelas y un topacio); un colgante de cadena de oro incrustado con un diamante amarillo que es una gema elemental (los goliats ignoran su naturaleza mágica). La reserva se usa para miembros del clan que visitan Diez Ciudades y necesitan moneda.
 - **Etiquetas de escena**: [cuevas privadas], [aarakocra herida], [tesoro del clan], [gema elemental]
 - **Ambiente sonoro**: fuego, aleteo, murmullos, viento exterior.
 
 ### W7. Cueva del festín
 
-- **Lugar e imagen**: caverna de quince pies de techo; hoguera rectangular en el centro; tres goliats cocinando carne; joven distribuyendo cuencos de cerámica; anciano golpeando un gran tambor de piel de cabra; dos goliats luchando en el suelo; sentados sobre alfombras de lana y pieles.
-- **Lectura**: «Tres goliats cocinan carne sobre una hoguera rectangular. Un joven reparte cuencos mientras un anciano marca el ritmo en un tambor de piel de cabra. Frente a él, dos goliats se enzarzan en lucha libre. Los demás se apartan cuando los luchadores ruedan cerca.»
-- **Qué ocurre**: lugar de comidas y socialización. Normalmente alberga nueve goliats guerreros más ocho no combatientes (niños y ancianos). Los goliats se alegran si los Héroes muestran interés en la lucha libre; aunque no suelen enfrentarse a oponentes más pequeños o débiles, nunca rechazan un desafío. Ganar un combate de lucha requiere dos pruebas consecutivas de Fuerza (Atletismo). Si los Héroes se ganan el cariño del clan, los cuatro guerreros de aquí los desafían en la cancha (W2).
+- **Lugar e imagen**: caverna de cuatro metros y medio de techo; hoguera rectangular en el centro; tres goliats cocinando carne; joven distribuyendo cuencos de cerámica; anciano golpeando un gran tambor de piel de cabra; dos goliats luchando en el suelo; sentados sobre alfombras de lana y pieles.
+- **Lectura**: «Al entrar, os envuelve el olor de la carne asada. Tres goliats cocinan carne sobre una hoguera rectangular. El olor del asado llena la caverna, de techo bajo en comparación con el gran salón. Un joven reparte cuencos de cerámica mientras un anciano marca el ritmo en un tambor de piel de cabra. Frente a él, dos goliats se enzarzan en lucha libre sobre el suelo. Los demás, sentados en alfombras de lana y pieles, se apartan entre risas cuando los luchadores ruedan cerca.»
+- **Qué ocurre**: lugar de comidas y socialización. Normalmente alberga nueve goliats guerreros más ocho no combatientes (niños y ancianos). Los goliats se alegran si los Héroes muestran interés en la lucha libre; aunque no suelen enfrentarse a oponentes más pequeños o débiles, nunca rechazan un desafío. La lucha se resuelve acumulando [dominado-3] sobre el rival mediante agarres y derribos; un fallo permite al contrincante imponer [dominado-1]. Si los Héroes se ganan el cariño del clan, los cuatro guerreros de aquí los desafían en la cancha de pelota de cabra.
 - **Etiquetas de escena**: [cueva del festín], [lucha libre], [tambor], [comida]
 - **Ambiente sonoro**: tambor, risas, golpes de lucha, fuego, masticar.
 
@@ -86,7 +86,7 @@ Peña Perdición de Sierpes es el asentamiento amistoso del clan goliat Thuunlak
 
 ### Wayani Cazador Supremo Thuunlakalaga
 
-- **Papel**: armera del clan. · **Aspecto**: goliat femenina de forja, ropa de trabajo y delantal de cuero, brazos musculosos, martillo y tenazas. · **Carácter y voz**: entusiasta del oficio, habladora sobre metalurgia, amistosa. · **Quiere**: hablar de su trabajo, mostrar la forja, llevar visitantes a Ogolai. · **Sabe**: técnicas de forja enanas e inventario de la armería. · **Si se convierte en desafío**: no combate (goliat guerrera si se ve forzada).
+- **Papel**: armera del clan. · **Aspecto**: goliat de forja, ropa de trabajo y delantal de cuero, brazos musculosos, martillo y tenazas. · **Carácter y voz**: entusiasta del oficio, habladora sobre metalurgia, amistosa. · **Quiere**: hablar de su trabajo, mostrar la forja, llevar visitantes a Ogolai. · **Sabe**: técnicas de forja enanas e inventario de la armería. · **Si se convierte en desafío**: no combate (goliat guerrera si se ve forzada).
 
 ### Demelok Caminante Nocturno Thuunlakalaga
 
@@ -102,7 +102,7 @@ Peña Perdición de Sierpes es el asentamiento amistoso del clan goliat Thuunlak
 
 ### Aruk Clamatruenos Thuunlakalaga
 
-- **Papel**: cuidador de Sikki-kree. · **Aspecto**: goliat guerrero robusto, con vendas y ungüentos. · **Carácter y voz**: dedicado y preocupado. · **Quiere**: curar a la aarakocra. · **Sabe**: Medicina y el estado de Sikki-kree. · **Si se convierte en desafío**: no combate (goliat guerrero).
+- **Papel**: cuidador de Sikki-kree. · **Aspecto**: goliat guerrero robusto, con vendas y ungüentos. · **Carácter y voz**: dedicado y preocupado. · **Quiere**: curar a la aarakocra. · **Sabe**: los cuidados y el estado de Sikki-kree. · **Si se convierte en desafío**: no combate (goliat guerrero).
 
 ### Los cuatro chwingas
 
@@ -114,27 +114,25 @@ Peña Perdición de Sierpes es el asentamiento amistoso del clan goliat Thuunlak
 
 ### Kapanuk (mencionado)
 
-- **Papel**: joven guerrero desaparecido en una tormenta de nieve. · **Aspecto**: goliat joven, cazador. · **Carácter y voz**: no aparece en escena. · **Quiere**: sobrevivir y volver al clan. · **Sabe**: las montañas. · **Si se convierte en desafío**: no combate (goliat guerrero si aparece).
+- **Papel**: joven guerrero desaparecido en una tormenta de nieve. · **Aspecto**: goliat joven, cazador. · **Carácter y voz**: tenaz y atento al entorno; habla con franqueza. · **Quiere**: sobrevivir y volver al clan. · **Sabe**: las montañas. · **Si se convierte en desafío**: no combate (goliat guerrero si aparece).
 
 ## Desafíos
 
 ### Goliats guerreros de Peña Perdición (nivel 2, Poderío: Origen)
 
-- **Origen 5e**: goliats guerreros (apéndice C) del clan Thuunlakalaga.
 - **Límites**: herido 4, convencido 3
 - **Etiquetas y estados**: [goliat], [fuerza titánica], [resistencia de piedra], [armas pesadas], [ropa de abrigo], [orgulloso]
 - **Amenazas y consecuencias**:
   - Golpe de hacha: [herido-2].
-  - Lanzamiento de jabalina: [herido-1] y [derribado].
+  - Lanzamiento de jabalina: [herido-1] y [derribado-1].
   - Carga montañesa: [herido-1] y [aturdido-1].
   - Rendición por honor: si se demuestra fuerza o respeto, crea la etiqueta de historia [respeto goliat] y se retiran.
-- **Debilidades / secretos**: respetan la fuerza y el honor; no atacan a quien los trata con respeto; abandonan si el jefe lo ordena.
+- **Debilidades / secretos**: respetan la fuerza y el honor; no atacan a quien los trata con respeto; abandonan si la jefa lo ordena.
 
 ### Ogolai y la guardia de Peña Perdición (nivel 3, Poderío: Aventura)
 
-- **Origen 5e**: Ogolai, jefa goliat (apéndice C), con su guardia.
 - **Límites**: herido 5, convencida 4
-- **Etiquetas y estados**: [jefa goliat], [gran hacha de hueso de dragón], [capa de protección], [temor a los grifos], [La Vieja Cabra]
+- **Etiquetas y estados**: [jefa goliat], [gran hacha de hueso de dragón], [capa de protección], [temor a los grifos], [la vieja cabra]
 - **Amenazas y consecuencias**:
   - Golpe de hacha: [herido-3].
   - Orden de carga: crea la etiqueta de historia [refuerzos goliat] y llegan nueve goliats guerreros desde W7.
@@ -143,18 +141,16 @@ Peña Perdición de Sierpes es el asentamiento amistoso del clan goliat Thuunlak
 
 ### Túnel de runas (nivel 2, ambiental)
 
-- **Origen 5e**: túnel de iniciación con runas; tiradas de salvación CD 15 de Constitución y Carisma.
 - **Límites**: atravesado 1, bloqueado 1
 - **Etiquetas y estados**: [runas], [visiones], [soledad], [miedo]
 - **Amenazas y consecuencias**:
-  - Visión de terror: si falla una salvación, [bloqueado] y debe retirarse por donde vino.
-  - Colapso mental: si ambas fallan, [inconsciente-6] (coma de 4d6 horas).
-  - Superación: si ambas tienen éxito, crea la etiqueta de historia [iniciado] y, con el consentimiento de Ogolai, [miembro honorario].
+  - Visión de terror: si falla al afrontar las visiones, [bloqueado-1] y debe retirarse por donde vino.
+  - Colapso mental: si insiste pese al bloqueo y vuelve a fallar, [inconsciente-6] durante varias horas.
+  - Superación: si supera las visiones, crea la etiqueta de historia [iniciado] y, con el consentimiento de Ogolai, [miembro honorario].
 - **Debilidades / secretos**: no es para débiles de corazón; puede reintentarse.
 
 ### Los cuatro chwingas (nivel 1, Poderío: Origen)
 
-- **Origen 5e**: cuatro chwingas (apéndice C).
 - **Límites**: ahuyentado 3
 - **Etiquetas y estados**: [chwinga], [fascinación], [don sobrenatural]
 - **Amenazas y consecuencias**:
@@ -164,7 +160,6 @@ Peña Perdición de Sierpes es el asentamiento amistoso del clan goliat Thuunlak
 
 ### Tormenta de la Columna del Mundo (nivel 2, ambiental)
 
-- **Origen 5e**: viaje por montaña y tormentas de nieve.
 - **Límites**: superada 1
 - **Etiquetas y estados**: [ventisca], [frío extremo], [montaña], [desorientación]
 - **Amenazas y consecuencias**:
@@ -178,11 +173,11 @@ Peña Perdición de Sierpes es el asentamiento amistoso del clan goliat Thuunlak
 - **Huesos de Stygiarus**: etiqueta de historia [huesos de dragón blanco]; componente para rituales de frío y para el encargo de Dannika Acerogris.
 - **Capa de Ogolai**: etiqueta de mochila [capa de protección] (capa de protección).
 - **Gran hacha de Ogolai**: etiqueta de mochila [gran hacha de hueso de dragón].
-- **Reserva del clan (tesoro de Ogolai)**: 350 po, 1.177 pp y 1.850 pc en moneda mixta; dieciséis piedras preciosas (nueve ágatas anilladas de 10 po, cuatro cornalinas de 50 po, dos espinelas de 100 po, un topacio de 500 po); etiqueta de mochila [bolsa de gemas]. El colgante de cadena de oro (25 po) con diamante amarillo es una gema elemental: etiqueta de mochila [gema elemental de diamante amarillo], desconocida para los goliats.
+- **Reserva del clan (tesoro de Ogolai)**: [bolsa de monedas]; dieciséis piedras preciosas (nueve ágatas anilladas, cuatro cornalinas, dos espinelas, un topacio); etiqueta de mochila [bolsa de gemas]. El colgante de cadena de oro con diamante amarillo es una gema elemental: etiqueta de mochila [gema elemental de diamante amarillo], desconocida para los goliats.
 - **Armas de la forja**: trece jabalinas de metal y tres grandes hachas pesadas (no mágicas): etiqueta de mochila [armas de forja goliat].
 - **Herramientas de herrería**: etiqueta de mochila [kit de herrería].
 - **Muñecas ceremoniales**: etiqueta de historia [muñeca de iniciación]; símbolo de la adultez.
-- **Don de chwinga**: etiqueta de historia [don de chwinga] (ver «Dones sobrenaturales» en la Guía del Dungeon Master).
+- **Don de chwinga**: etiqueta de historia [don de chwinga].
 
 Los documentos que conviene dar a los jugadores son un esquema del complejo de cuevas y la advertencia sobre el túnel de iniciación.
 
@@ -200,7 +195,7 @@ Los documentos que conviene dar a los jugadores son un esquema del complejo de c
 ## Conexiones con la campaña
 
 - **Refugio Torre del Cielo**: enemistad, Arn Akannathi, negociación entre clanes.
-- **Fortaleza de Xardorok (capítulo 3)**: Kapanuk podría estar en el área X28.
+- **Fortaleza de Xardorok**: Kapanuk podría estar en sus celdas.
 - **Diez Ciudades / Dannika Acerogris**: estofado de hueso de dragón y huesos de Stygiarus.
 - **Aarakocra**: Sikki-kree y la gratitud de su pueblo.
 - **Auril y el invierno eterno**: tormentas, supervivencia y aislamiento.
@@ -208,6 +203,3 @@ Los documentos que conviene dar a los jugadores son un esquema del complejo de c
 - **Concilio de los Jarls**: contexto de los clanes goliat.
 - **Columna del Mundo**: viaje por montaña y peligros del terreno.
 
-## Páginas de la fuente
-
-167–170

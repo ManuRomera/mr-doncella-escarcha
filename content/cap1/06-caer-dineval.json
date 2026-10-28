@@ -409,7 +409,7 @@
       "presentacion": "En la cama de Kadroth veis un gato negro que apenas se molesta en levantar la cabeza. Su pelaje recoge un brillo tenue del fuego. Cuando os acercáis, entreabre los ojos, os observa un momento y vuelve a acomodar las patas bajo el cuerpo. El calor de las mantas parece interesarle mucho más que vuestra presencia.",
       "caracter": "Indiferente; ignora a todo el mundo.",
       "quiere": "Dormir.",
-      "sabe": "No se especifica información que pueda comunicar.",
+      "sabe": "Conoce el calor de las mantas y los rincones donde dormir en el dormitorio de Kadroth.",
       "desafio": null
     }
   ],

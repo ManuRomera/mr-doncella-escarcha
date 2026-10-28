@@ -349,7 +349,7 @@
    "interior": true,
    "imagen_en": "A wide view of a cell block with stone doors and small barred peepholes at a dwarf’s eye height. Three cells to the west and five to the south. A barred window to the northeast with snow and wind entering. No people or creatures; leave the lower third open.",
    "lectura": "El pasillo está flanqueado por puertas de piedra con pequeñas ventanas demasiado bajas para mirar cómodamente. En la esquina noreste, otra abertura enrejada deja entrar el viento y una lengua de nieve. El olor aquí es distinto: humedad, encierro y materia que ha empezado a pudrirse. Tras las puertas del sur percibís movimientos lentos. Cuando distinguís las siluetas, veis cuerpos humanos cubiertos de crecimientos extraños. Sus gestos carecen de la urgencia de quien espera ser rescatado. Las puertas empiezan a abrirse y comprendéis que la vida que buscáis ya no está detrás de ellas.",
-   "notas": "Las tres celdas occidentales están vacías. En cada una de las cinco del sur hay un cadáver humano animado, antes habitante de Diez Ciudades o nómada reghed, secuestrado y asesinado por los duergar mediante esporas de un soberano micónido. Salen y atacan a los intrusos; se resuelven como una sola manada. No hay un soberano micónido presente. Investigar los cuerpos permite establecer [víctimas convertidas en sirvientes], pero la fuente no da nombres ni pistas familiares concretas.",
+   "notas": "Las tres celdas occidentales están vacías. En cada una de las cinco del sur hay un cadáver humano animado, antes habitante de Diez Ciudades o nómada reghed, secuestrado y asesinado por los duergar mediante esporas de un soberano micónido. Salen y atacan a los intrusos; se resuelven como una sola manada. No hay un soberano micónido presente. Investigar los cuerpos permite establecer [víctimas convertidas en sirvientes].",
    "musica": "noche",
    "motivos": [
     "horror",
@@ -562,7 +562,7 @@
     "Apoyo"
    ],
    "aspecto_en": "A full-body portrait of an adult silver dragonborn man of unspecified age, stocky and broad-shouldered, with a weathered face and silver scales. He wears a worn scarf and a battered fur-lined coat, often holding an empty bottle. His nostalgic expression and heavy stance suggest a retired adventurer. Cold blue-grey winter light, simple snowy background.",
-   "descripcion": "Portavoz de Caer-Konig, dracónido plateado retirado. Es aliado por defecto y puede convertirse en desafío por su origen de veterano; la fuente no le añade un aliento ofensivo.",
+   "descripcion": "Portavoz de Caer-Konig, dracónido plateado retirado. Es aliado por defecto y puede convertirse en desafío por su origen de veterano.",
    "limites": [
     {
      "nombre": "herido",
@@ -601,7 +601,7 @@
    "secretos": [
     {
      "nombre": "Aliado por defecto",
-     "descripcion": "Es aliado por defecto; su estado posible es [ebrio-2] si excede la bebida. No tiene aliento ofensivo desarrollado por la fuente."
+     "descripcion": "Es aliado por defecto; su estado posible es [ebrio-2] si excede la bebida."
     }
    ]
   },
@@ -615,7 +615,7 @@
     "Apoyo"
    ],
    "aspecto_en": "A full-body group portrait of four adult duergar with grey skin, stocky builds, austere armour and cloaks. One carries a heavy crossbow. Hostile disciplined expressions, cold stone background, with tired sentinel postures and watchful eyes. Dark iron weapons and shields.",
-   "descripcion": "Cuatro duergar del puesto, de los cinco totales; el quinto, Nildar, tiene ficha propia. Brojk añade ballesta pesada. Cada duergar corresponde al tramo de dificultad inicial de la conversión.",
+   "descripcion": "Cuatro duergar del puesto, de los cinco totales; el quinto, Nildar, tiene ficha propia. Brojk añade ballesta pesada.",
    "limites": [
     {
      "nombre": "herido",
@@ -689,7 +689,7 @@
     "Controlador"
    ],
    "aspecto_en": "A full-body portrait of an adult duergar man, short and stocky, grey skin, functional armour, eyes absorbed by crystal fragments. Cruel fanatical expression, dark underground light, with a despising gaze and a rigid stance. Heavy boots and dark cloak. Dark leather armour.",
-   "descripcion": "Duergar, comandante del puesto y antagonista. Sin mejoras de criatura indicadas por la fuente.",
+   "descripcion": "Duergar, comandante del puesto y antagonista.",
    "limites": [
     {
      "nombre": "herido",
@@ -816,7 +816,7 @@
    "secretos": [
     {
      "nombre": "Debilidades y secretos",
-     "descripcion": "Dentro de su jaula no puede hacer daño. Impedir que lo liberen, cerrar una barrera o aprovechar su torpeza puede evitar enfrentarlo directamente. No confundir su condición de esclavo con una lealtad negociable: en la fuente combate del lado duergar. No se añade una vulnerabilidad mágica que el texto no menciona."
+     "descripcion": "Dentro de su jaula no puede hacer daño. Impedir que lo liberen, cerrar una barrera o aprovechar su torpeza puede evitar enfrentarlo directamente. Combate del lado duergar; su condición de esclavo no implica que su lealtad sea negociable."
     }
    ]
   },
@@ -880,7 +880,7 @@
    "secretos": [
     {
      "nombre": "Debilidades y secretos",
-     "descripcion": "Caminan aproximadamente seis metros en el tiempo en que una persona corriente recorre más; su sentido ciego alcanza unos nueve metros y no perciben más allá. No pueden ser cegados, hechizados, asustados ni paralizados. Carecen de coordinación táctica de manada. Encerrarlos o mantenerse fuera de su alcance evita la lucha. La fuente no les atribuye contagio, nube tóxica ni ataque de esporas."
+     "descripcion": "Caminan aproximadamente seis metros en el tiempo en que una persona corriente recorre más; su sentido ciego alcanza unos nueve metros y no perciben más allá. No pueden ser cegados, hechizados, asustados ni paralizados. Carecen de coordinación táctica de manada. Encerrarlos o mantenerse fuera de su alcance evita la lucha. Sus ataques no contagian ni liberan nubes tóxicas o esporas."
     }
    ]
   },
@@ -894,7 +894,7 @@
     "Peligro"
    ],
    "aspecto_en": "A wide view of wind-scoured mountain foothills with uniform snow, few landmarks and a dark horizon. Cold blue-grey light, blowing snow. No people or creatures; leave the lower third open.",
-   "descripcion": "Rastreo interrumpido por nieve y viento; búsquedas de una hora y posible encuentro de zonas salvajes. Desafío ambiental propuesto, sin criatura ni dificultad de criatura asignada.",
+   "descripcion": "Rastreo interrumpido por nieve y viento; búsquedas de una hora y posible encuentro de zonas salvajes.",
    "limites": [
     {
      "nombre": "ruta resuelta",
@@ -956,7 +956,7 @@
     "Peligro"
    ],
    "aspecto_en": "A wide view of a nine-metre deep stone pit and a wooden drawbridge with chains and pulleys. Dark cold light, sheer walls. No people or creatures; leave the lower third open.",
-   "descripcion": "Foso de nueve metros de profundidad en O2, puente de madera y mecanismo de cadenas; sin dificultad de criatura. Conversión ambiental propuesta.",
+   "descripcion": "Foso de nueve metros de profundidad en O2, puente de madera y mecanismo de cadenas.",
    "limites": [
     {
      "nombre": "paso asegurado",
@@ -1018,7 +1018,7 @@
     "Obstáculo"
    ],
    "aspecto_en": "A wide view of a narrow stone passage with iron bars rising from floor and ceiling, and a worn lever on the wall. Dark, no natural light. No people or creatures; leave the lower third open.",
-   "descripcion": "Barreras de hierro accionadas con palanca en O5; sin dificultad de criatura. Conversión de obstáculo propuesta.",
+   "descripcion": "Barreras de hierro accionadas con palanca en O5.",
    "limites": [
     {
      "nombre": "mecanismo neutralizado",
@@ -1119,7 +1119,7 @@
    "slug": "bolsa-de-nildar",
    "nombre": "Bolsa de Nildar",
    "etiqueta": "reserva para gastos de expedición",
-   "descripcion": "Oculta en la cama de O6. Mochila [reserva para gastos de expedición], útil para obtener suministros o sufragar servicios modestos según la ficción; sustituye al dinero de la fuente.",
+   "descripcion": "Oculta en la cama de O6. Mochila [reserva para gastos de expedición], útil para obtener suministros o sufragar servicios modestos según la ficción.",
    "imagen_en": "An isolated leather purse hidden among stone bedding, slightly open and showing coins and small supplies. Worn leather, neutral background."
   },
   {
@@ -1133,7 +1133,7 @@
    "slug": "provisiones-del-puesto",
    "nombre": "Provisiones de O8",
    "etiqueta": "provisiones del puesto",
-   "descripcion": "[mantas], [raciones], [cuerda de cáñamo] y [equipo básico de viaje], sin cantidades indicadas por la fuente. En otro saco, tres [daga], [herramientas de talla de madera] y [aparejos de pesca]. La bolsa de cuero añade [recursos para reabastecerse].",
+   "descripcion": "[mantas], [raciones], [cuerda de cáñamo] y [equipo básico de viaje]. En otro saco, tres [daga], [herramientas de talla de madera] y [aparejos de pesca]. La bolsa de cuero añade [recursos para reabastecerse].",
    "imagen_en": "An isolated collection of blankets, rations, hemp rope and basic travel gear beside a small sack with daggers, woodcarving tools and fishing tackle. Worn cloth and leather, neutral background."
   },
   {

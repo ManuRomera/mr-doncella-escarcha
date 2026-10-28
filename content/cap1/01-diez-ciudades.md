@@ -7,13 +7,13 @@ El invierno de Auril reduce la población, agrava la escasez y convierte viejas 
 La aventura comienza en una villa y se extiende mediante encargos y rumores; los Héroes deciden a quién ayudan y qué problemas dejan atrás.
 La reputación abre puertas, pero también despierta miedo, envidia e interés por sus recursos.
 Las ofrendas de personas, alimentos o calor, aceptadas por todos los portavoces, muestran hasta dónde llega la desesperación.
-Esta ficha convierte el marco regional: los ganchos remiten a aventuras cuyo desarrollo y criaturas no están descritos en esta fuente.
+Consulta las aventuras correspondientes para desarrollar cada gancho y preparar sus criaturas.
 
 ## Ganchos y cómo empieza
 
 Antes de jugar, el Narrador elige una villa inicial, revisa su descripción en la sección correspondiente de la campaña y acuerda con los jugadores los trasfondos, secretos, temas y Gestas de los Héroes. No hace falta memorizar las diez villas. Bryn Shander es la opción recomendada cuando no haya preferencia: es el asentamiento más cosmopolita y dispone de las comodidades más útiles para comenzar.
 
-Elegid el asentamiento o sorteádlo entre las diez entradas de esta tabla. La numeración conserva la selección al azar de la fuente; no representa dificultad.
+Elegid el asentamiento o sorteadlo entre las diez entradas de esta tabla. La numeración permite elegir al azar; no representa dificultad.
 
 | Selección | Villa | Encargo propio y conflicto inicial |
 | --- | --- | --- |
@@ -28,13 +28,13 @@ Elegid el asentamiento o sorteádlo entre las diez entradas de esta tabla. La nu
 | 9 | Targos | **Escalada**: buscar a una expedición desaparecida en las laderas de la Cima de Kelvin. |
 | 10 | Termalaine | **Una Bella Mina**: investigar los problemas de una mina de gemas cercana. |
 
-También se puede empezar, en cualquier villa, con **Asesino de Corazón Frío**, que puede desembocar en violencia, o **Espíritus de la Naturaleza**, una propuesta más ligera y sin peligros según esta introducción. Escogida la misión inicial, las otras alternativas iniciales dejan de estar disponibles como tales; los encargos locales siguen articulando la exploración posterior. La fuente remite a una apertura titulada «Abrir en frío», cuyo texto no incluye: la primera escena de esta ficha proporciona una apertura nueva y utilizable.
+También se puede empezar, en cualquier villa, con **Asesino de Corazón Frío**, que puede desembocar en violencia, o **Espíritus de la Naturaleza**, una propuesta más ligera y sin peligros. Escogida la misión inicial, las otras alternativas iniciales dejan de estar disponibles como tales; los encargos locales siguen articulando la exploración posterior. Usa la primera escena para presentar la llegada de los Héroes.
 
 Cada primera visita permite presentar el encargo propio de una villa. Si tras resolver un problema la Compañía no sabe adónde ir, ofrece un rumor de la tabla de «Objetos, pistas y documentos». Puede escogerse o sortearse; sustituye cualquier resultado cuya misión ya esté resuelta. Ningún encargo obliga a los Héroes a aceptarlo.
 
 ## Escenas
 
-Las lecturas y las consecuencias propuestas aquí son material de adaptación. No presuponen que los Héroes hayan aceptado un encargo ni revelan como ciertos los rumores.
+Presenta las escenas sin presuponer que los Héroes hayan aceptado un encargo ni revelar como ciertos los rumores.
 
 ### Llegada a una villa bajo la aurora
 
@@ -64,15 +64,15 @@ Las lecturas y las consecuencias propuestas aquí son material de adaptación. N
 
 - **Lugar e imagen**: Interior de taberna o posada de madera oscura, vigas bajas, mesas gastadas y una estufa pequeña. Botas y prendas secándose cerca del calor, cristales empañados y un mostrador con provisiones escasas. En edificios antiguos de Buenagamiel pueden aparecer tallas de dinosaurios, herencia chultana.
 - **Lectura**: Al entrar, notáis primero el alivio de que el viento deje de golpearos. El calor tarda más en alcanzar los dedos. Las ventanas están empañadas y la madera conserva olores de humo, comida y ropa húmeda. Sobre el mostrador hay menos provisiones de las que os gustaría encontrar. La estancia parece guardar cada soplo templado como si pudiera gastarse. Tenéis un momento para quitaros la nieve, mirar alrededor y escuchar. En un lugar así, una cama, una herramienta o una noticia pueden depender de la misma conversación. Lo que contéis de vuestro viaje decidirá qué os cuentan a cambio y cuánto crédito conceden a vuestra palabra.
-- **Qué ocurre**: Presenta un rumor pendiente y permite comprar, reparar o intercambiar equipo mediante favores y recursos narrativos. El tamaño del asentamiento aumenta la probabilidad de encontrar equipo habitual, incluidos útiles de pesca y trineos. La fuente distingue amabilidad, servicios y comodidad con uno a tres copos, pero no asigna aquí valores concretos a ninguna villa. Usa su descripción específica cuando esté disponible. Una buena conversación puede producir [rumor contrastado] o [hospitalidad local]; un fallo puede crear [deuda pendiente] o [palabras malinterpretadas]. La magia disponible se concreta en «Objetos, pistas y documentos».
+- **Qué ocurre**: Presenta un rumor pendiente y permite comprar, reparar o intercambiar equipo mediante favores y recursos narrativos. El tamaño del asentamiento aumenta la probabilidad de encontrar equipo habitual, incluidos útiles de pesca y trineos. Valora amabilidad, servicios y comodidad con uno a tres copos; consulta la descripción de cada villa para aplicar sus valores. Una buena conversación puede producir [rumor contrastado] o [hospitalidad local]; un fallo puede crear [deuda pendiente] o [palabras malinterpretadas]. La magia disponible se concreta en «Objetos, pistas y documentos».
 - **Etiquetas de escena**: [calor compartido], [existencias limitadas], [noticias entre villas], [refugio provisional].
 - **Ambiente sonoro**: Conversación baja, vajilla, estufa crepitando o siseo de hornillo, viento amortiguado tras las contraventanas.
 
 ### El Salón del Concejo de Bryn Shander
 
-- **Lugar e imagen**: Sala de reunión de madera y piedra dentro de una villa amurallada, mesa larga, asientos separados y ventanas estrechas bajo escarcha. Luz de lámparas sobre superficies desgastadas; mapas y marcas de uso pueden añadirse como ambientación, sin tratarlos como documentos de la fuente.
+- **Lugar e imagen**: Sala de reunión de madera y piedra dentro de una villa amurallada, mesa larga, asientos separados y ventanas estrechas bajo escarcha. Luz de lámparas sobre superficies desgastadas; añade mapas y marcas de uso como ambientación.
 - **Lectura**: Las paredes cortan el viento, pero el salón conserva una frialdad que parece venir de la piedra. Ante vosotros se extiende una mesa larga, rodeada de asientos que no forman un hogar común. Aquí cada lugar representa una villa distinta, con sus necesidades y sus agravios. Tras las ventanas, la escarcha vuelve opaca la noche. Imagináis con facilidad lo que cuesta traer comida, aceite o madera hasta esta colina. También comprendéis por qué sus murallas importan a quienes viven lejos de ellas. Si queréis pedir ayuda para más de una comunidad, tendréis que conseguir que lo que ocurre al otro lado del lago deje de parecer un problema ajeno.
-- **Qué ocurre**: Cada villa es independiente y elige a su portavoz. El Consejo se reúne con poca frecuencia en este salón para asuntos comunes y disputas entre asentamientos. Bryn Shander empezó como un puesto comercial sobre una colina; las amenazas de orcos y otros monstruos impulsaron su transformación en refugio amurallado para toda Diez Ciudades. Unir intereses mediante hechos comprobados y vínculos puede crear [acuerdo entre villas]; fallar puede generar [cada villa por su cuenta]. Una sesión concreta del Consejo es una propuesta de escena, no un acontecimiento fechado en estas páginas. No presupongas que estén presentes todos los portavoces.
+- **Qué ocurre**: Cada villa es independiente y elige a su portavoz. El Consejo se reúne con poca frecuencia en este salón para asuntos comunes y disputas entre asentamientos. Bryn Shander empezó como un puesto comercial sobre una colina; las amenazas de orcos y otros monstruos impulsaron su transformación en refugio amurallado para toda Diez Ciudades. Unir intereses mediante hechos comprobados y vínculos puede crear [acuerdo entre villas]; fallar puede generar [cada villa por su cuenta]. Decide cuándo convocar una sesión del Consejo. No presupongas que estén presentes todos los portavoces.
 - **Etiquetas de escena**: [alianza frágil], [intereses enfrentados], [refugio amurallado], [recursos disputados].
 - **Ambiente sonoro**: Viento tras ventanas, madera que cruje, ecos secos y pausas largas entre intervenciones.
 
@@ -81,43 +81,43 @@ Las lecturas y las consecuencias propuestas aquí son material de adaptación. N
 - **Lugar e imagen**: Según la ofrenda: un poste en una salida nevada de la villa; estantes de madera cargados de pescado a unos 1500 metros del caserío; o chimeneas apagadas y ventanas negras. Cielo sin luna, azules casi negros y superficies blancas apenas visibles.
 - **Lectura**: Esta noche falta algo más que la luna. El silencio pesa sobre las calles y las puertas parecen cerradas con especial cuidado. Os alcanza el frío incluso al deteneros un momento. Cerca del límite de la villa, la nieve refleja una claridad tan débil que cuesta separar el camino de la tundra. Aquí se ha preparado una ofrenda. Puede ser comida que mañana faltará en las mesas, calor al que nadie se atreve a acercarse o una vida que la comunidad ha decidido entregar. Os encontráis ante una decisión tomada antes de vuestra llegada. Todavía podéis intervenir, pero cualquier gesto tendrá testigos, consecuencias y un precio que alguien intentará cobrar.
 - **Qué ocurre**: Hace poco más de un año comenzaron los sacrificios para apaciguar a Auril y recuperar el verano. Todos los portavoces los respaldan como un mal necesario; los abandonarían si la diosa fuese apaciguada o el problema se resolviese de otra forma. En Bryn Shander, Puerto Este y Targos se sortea una víctima la noche anterior a la luna nueva; al ocaso siguiente la desnudan y atan a un poste o la expulsan a la tundra. Abundan las acusaciones de amaño, habitualmente sin actuación posterior. Otras villas ofrecen la pesca de un día en estantes a unos 1500 metros del poblado, donde la reclaman yetis y otras criaturas asociadas a la furia de Auril;
- una ilustración muestra un gato de los riscos tomando una ofrenda. Las que no pueden entregar personas ni comida prohíben encender fuego entre ocaso y alba: se comparte calor corporal y se apalea a quien incumple. Esta fuente no identifica cuáles son esas otras villas. Rescatar, persuadir, investigar un sorteo o compartir recursos puede crear [víctima a salvo], [ofrenda sustituida] o [refugio compartido]; el fallo puede activar exposición al frío, perder víveres o provocar violencia. No hay prueba aquí de que los sacrificios funcionen.
+ un gato de los riscos puede acudir a tomar una ofrenda. Las que no pueden entregar personas ni comida prohíben encender fuego entre ocaso y alba: se comparte calor corporal y se apalea a quien incumple. Consulta la descripción de cada villa para elegir su ofrenda. Rescatar, persuadir, investigar un sorteo o compartir recursos puede crear [víctima a salvo], [ofrenda sustituida] o [refugio compartido]; el fallo puede activar exposición al frío, perder víveres o provocar violencia. No presentes los sacrificios como una garantía de que termine el invierno.
 - **Etiquetas de escena**: [luna nueva], [miedo a Auril], [costumbre reciente], [presión de la comunidad]; según la variante, [fuegos prohibidos] u [ofrenda expuesta].
 - **Ambiente sonoro**: Viento desnudo, tablas que golpean, ausencia de hogares crepitando, respiraciones cercanas cuando haya presentes; música mínima.
 
 ## Personajes no jugadores
 
-Estas páginas no ofrecen retratos físicos de individuos ni conversaciones completas. Los aspectos indicados como propuesta son ayudas visuales de adaptación. Los nombres de los rumores no implican encuentros inmediatos.
+Usa los aspectos y las voces para interpretar a los personajes. Los nombres de los rumores no implican encuentros inmediatos.
 
 ### Portavoz Crannoc
 
-- **Papel**: Representante de Caer-Dineval, ausente de la vida pública. · **Aspecto**: No especificado; para ilustrarlo sin fijar datos nuevos, usar una silueta de edad y pueblo indeterminados, complexión oculta por lana y pieles. · **Carácter y voz**: No descritos; su supuesta enfermedad procede de comentarios locales. · **Quiere**: No consta en esta fuente. · **Sabe**: No se indica qué conoce de las figuras siniestras que frecuentan el castillo. · **Si se convierte en desafío**: No combate en esta ficha; el misterio remite a «Espadas Negras».
+- **Papel**: Representante de Caer-Dineval, ausente de la vida pública. · **Aspecto**: Silueta envuelta en lana y pieles que ocultan su complexión. · **Carácter y voz**: Distante y reservado; habla con frases breves y evita alargar las conversaciones. · **Quiere**: Conservar su autoridad como portavoz de Caer-Dineval. · **Sabe**: Conoce los asuntos del concejo y las necesidades cotidianas de Caer-Dineval. · **Si se convierte en desafío**: Plantea su ausencia como un misterio que conduce a «Espadas Negras».
 
 ### Trovus
 
-- **Papel**: Portavoz de Caer-Konig, necesitado de ayuda contra los ladrones invisibles. · **Aspecto**: Dracónido; edad, color de escamas y complexión no especificados. Propuesta visual: abrigo grueso y capucha adaptada a su cabeza, botas y guantes de invierno. · **Carácter y voz**: No constan; propuesta de interpretación: preguntas prácticas sobre robos y testigos, sin añadir un temperamento fijo. · **Quiere**: Atrapar a quienes roban y causan daños en los negocios locales. · **Sabe**: Su villa sufre incursiones cuyos responsables no se dejan ver; esta fuente no explica el método ni identifica a los culpables. · **Si se convierte en desafío**: No combate; contacto del encargo «Los Invisibles».
+- **Papel**: Portavoz de Caer-Konig, necesitado de ayuda contra los ladrones invisibles. · **Aspecto**: Dracónido con abrigo grueso y capucha adaptada a su cabeza, botas y guantes de invierno. · **Carácter y voz**: Práctico y directo; pregunta por los robos y los testigos. · **Quiere**: Atrapar a quienes roban y causan daños en los negocios locales. · **Sabe**: Su villa sufre incursiones cuyos responsables no se dejan ver; conoce los robos y daños denunciados por los vecinos. · **Si se convierte en desafío**: No combate; contacto del encargo «Los Invisibles».
 
 ### Portavoz Masthew
 
-- **Papel**: Representante de Termalaine que ha cerrado una mina de gemas. · **Aspecto**: Edad, pueblo y complexión no especificados; propuesta visual: ropa de lana bajo un abrigo práctico, rasgos sin fijar. · **Carácter y voz**: No descritos; puede hablar de la seguridad de los mineros como asunto urgente. · **Quiere**: Según el rumor, que se despeje la mina para poder reanudar su actividad. · **Sabe**: Se atribuye el cierre a una banda de kobolds que pone en peligro a los mineros; el rumor no detalla sus motivos. · **Si se convierte en desafío**: No combate; contacto de «Una Bella Mina».
+- **Papel**: Representante de Termalaine que ha cerrado una mina de gemas. · **Aspecto**: Ropa de lana bajo un abrigo práctico. · **Carácter y voz**: Habla con voz cansada pero firme y trata la seguridad de los mineros como un asunto urgente. · **Quiere**: Según el rumor, que se despeje la mina para poder reanudar su actividad. · **Sabe**: Se atribuye el cierre a una banda de kobolds que pone en peligro a los mineros; el rumor no detalla sus motivos. · **Si se convierte en desafío**: No combate; contacto de «Una Bella Mina».
 
 ### Oyaminartok
 
-- **Papel**: Figura buscada por una expedición vinculada a Targos. · **Aspecto**: Goliath licántropa capaz de adoptar forma de osa polar; edad, ropa y demás rasgos no descritos. Propuesta visual en forma humanoide: cuerpo corpulento bajo pieles de viaje, sin fijar marcas particulares. · **Carácter y voz**: No constan. · **Quiere**: No consta. · **Sabe**: No consta; el rumor solo sitúa su búsqueda en las laderas de la Cima de Kelvin. · **Si se convierte en desafío**: No combate en estas páginas; no se inventa un perfil hostil a partir de su condición.
+- **Papel**: Figura buscada por una expedición vinculada a Targos. · **Aspecto**: Goliath licántropa capaz de adoptar forma de osa polar; en forma humanoide, cuerpo corpulento bajo pieles de viaje. · **Carácter y voz**: Reservada y atenta al entorno; habla con calma y pocas palabras. · **Quiere**: Recorrer las montañas con libertad y encontrar alimento y refugio. · **Sabe**: Conoce los rigores de la vida en las montañas y cómo buscar abrigo durante una tormenta. · **Si se convierte en desafío**: No presupongas hostilidad por su condición de licántropa.
 
 ### Portavoces y habitantes de Diez Ciudades
 
-- **Papel**: Autoridades electas, posibles anfitriones, trabajadores y fuentes de encargos. · **Aspecto**: Procedencias, edades y complexiones variadas; capas de lana, pieles, capuchas y rostros casi ocultos al salir. Las culturas inmigrantes también perviven en edificios, estatuas y adornos. · **Carácter y voz**: La fuente destaca resistencia y pragmatismo, pero cada villa mezcla acogida, recelo y rivalidad. · **Quiere**: Sobrevivir, conservar recursos y proteger su comunidad; todos los portavoces han consentido los sacrificios. · **Sabe**: Oficios locales, dificultades de abastecimiento y rumores; no convertir a cualquier habitante en conocedor de todos los secretos regionales. · **Si se convierte en desafío**: La presión colectiva de una noche de sacrificio usa el desafío «Comunidad aferrada al sacrificio»; el trato cotidiano no requiere combate.
+- **Papel**: Autoridades electas, posibles anfitriones, trabajadores y fuentes de encargos. · **Aspecto**: Procedencias, edades y complexiones variadas; capas de lana, pieles, capuchas y rostros casi ocultos al salir. Las culturas inmigrantes también perviven en edificios, estatuas y adornos. · **Carácter y voz**: Resistentes y pragmáticos; cada villa mezcla acogida, recelo y rivalidad. · **Quiere**: Sobrevivir, conservar recursos y proteger su comunidad; todos los portavoces han consentido los sacrificios. · **Sabe**: Oficios locales, dificultades de abastecimiento y rumores; no convertir a cualquier habitante en conocedor de todos los secretos regionales. · **Si se convierte en desafío**: La presión colectiva de una noche de sacrificio usa el desafío «Comunidad aferrada al sacrificio»; el trato cotidiano no requiere combate.
 
 ### Otras figuras mencionadas
 
-- **Papel**: Enanos de Bryn Shander que buscan un cargamento; portavoz de Buenagamiel asesinado; capitán de la guardia y mago cautivo del rumor de Puerto Oeste; expedicionarios y pescadores desaparecidos, dos adolescentes de Refugio de Dougan y profesionales de la magia. · **Aspecto**: Solo consta que los contratantes son enanos; no se fijan edades, complexiones ni vestimenta individual. Como propuesta común, abrigos de lana y piel adaptados a sus oficios. · **Carácter y voz**: No especificados. · **Quiere**: Los enanos, recuperar la carga; el capitán, ayuda para otra tarea de relación incierta con el mago. Los deseos de los demás no se detallan. · **Sabe**: Únicamente lo recogido en sus respectivos rumores o servicios. · **Si se convierte en desafío**: No combate en esta ficha; las aventuras correspondientes deben aportar los datos del encuentro.
+- **Papel**: Enanos de Bryn Shander que buscan un cargamento; portavoz de Buenagamiel asesinado; capitán de la guardia y mago cautivo del rumor de Puerto Este; expedicionarios y pescadores desaparecidos, dos adolescentes de Refugio de Dougan y profesionales de la magia. · **Aspecto**: Los contratantes son enanos; viste a estas figuras con abrigos de lana y piel adaptados a sus oficios. · **Carácter y voz**: Voces marcadas por el frío y la preocupación; van al grano al pedir ayuda. · **Quiere**: Los enanos, recuperar la carga; el capitán, ayuda para otra tarea de relación incierta con el mago. Los desaparecidos buscan regresar a salvo; los profesionales de la magia, ejercer su oficio y mantener su sustento. · **Sabe**: Conocen su oficio, sus necesidades y las circunstancias que cuentan en sus respectivos rumores. · **Si se convierte en desafío**: Prepara cualquier encuentro con estas figuras consultando la aventura correspondiente.
 
 ## Desafíos
 
-Los siguientes perfiles son conversiones de peligros y presiones del marco regional. Su nivel es una propuesta para LitM: la fuente no les asigna un valor de criatura. Activa sus amenazas cuando la ficción las justifique; no inflijas todos los estados por el mero hecho de describir nieve. Las etiquetas de equipo pueden evitar que una amenaza resulte aplicable.
+Los siguientes perfiles representan peligros y presiones del marco regional. Activa sus amenazas cuando la ficción las justifique; no inflijas todos los estados por el mero hecho de describir nieve. Las etiquetas de equipo pueden evitar que una amenaza resulte aplicable.
 
-Los monstruos citados en los ganchos —incluidos los dos lobos invernales, el alce, la saga, el gigante, los kobolds, los yetis y el gato de los riscos— no reciben encuentros inventados aquí: faltan sus circunstancias y, en varios casos, su identidad exacta. Cuando se convierta su sección, los grupos se tratarán como una banda o manada y se aplicará la correspondencia de nivel indicada en el encargo.
+Prepara los encuentros con los monstruos de cada gancho consultando su aventura. Trata los grupos como una banda o manada y aplica el nivel indicado en el encargo.
 
 ### Trayecto bajo el invierno de Auril (nivel 2)
 
@@ -165,18 +165,18 @@ El equipo ordinario puede encontrarse en Diez Ciudades, con más variedad en vil
 | Par de raquetas | [raquetas de nieve]: facilitan avanzar sobre nieve profunda y evitan hundirse tanto como con botas solas. |
 | Útiles de pesca | [equipo de pesca]: permiten intentar obtener truchas donde haya acceso al agua; no garantizan captura ni seguridad. |
 | Trineo de madera | [trineo de carga]: vehículo voluminoso, pesado incluso vacío, con puesto trasero para el conductor. Requiere tiro adecuado; no puede tratarse como un pequeño objeto llevado a la espalda. |
-| Tiro de perros | [perros de trineo]: transportan mercancías y equipo cuando su fuerza conjunta basta para la carga. La fuente usa al lobo como referencia de criatura. Necesitan una parada tras cada hora de tiro; si se los fuerza, reciben [agotados-2]. No se convierten en una manada hostil por estar presentes. |
+| Tiro de perros | [perros de trineo]: transportan mercancías y equipo cuando su fuerza conjunta basta para la carga. Necesitan una parada tras cada hora de tiro; si se los fuerza, reciben [agotados-2]. No se convierten en una manada hostil por estar presentes. |
 | Pico de hacha domesticado | [pico de hacha de carga]: transporta aproximadamente lo que una mula y se mueve por nieve gracias a sus garras extendidas. No se presenta como enemigo. |
 | Leña | [reserva de leña]: combustible accesible sobre todo junto a los bosques de Buenagamiel, Bosque Solitario y Termalaine. Su consumo o pérdida depende de las etapas y escenas. |
 | Aceite de ballena | [aceite para lámparas y hornillos]: proporciona luz y calor con aparatos adecuados. Vincula el abastecimiento a los balleneros del Mar de Hielo Movedizo. |
 
 ### Magia y servicios
 
-No hay mercado de objetos poderosos ni acceso habitual a profesionales capaces de grandes prodigios. Como máximo se encuentran objetos mágicos comunes y ayuda de un druida, sacerdote o mago dentro del alcance modesto descrito por la fuente. Esta estima un individuo de cada uno de esos tres oficios por cada cien habitantes; no ofrece aquí censos, nombres ni inventarios concretos.
+No hay mercado de objetos poderosos ni acceso habitual a profesionales capaces de grandes prodigios. Como máximo se encuentran objetos mágicos comunes y ayuda de un druida, sacerdote o mago de alcance modesto. Calcula aproximadamente un individuo de cada uno de esos tres oficios por cada cien habitantes.
 
 - **Objeto mágico común**: etiqueta de mochila [objeto mágico común: efecto acordado]. Hay que definir un efecto pequeño antes de adquirirlo; no concede cualquier poder a elección durante una escena.
 - **Poción de curación**: etiqueta de mochila consumible [poción de curación]. Rutina propuesta: beberla o administrarla permite tratar un estado de lesión apropiado; acuerda su reducción con el Narrador conforme al alcance de la herida. No elimina automáticamente cualquier estado ni restaura recursos numéricos ajenos a LitM.
-- **Servicio druídico, sacerdotal o arcano**: etiqueta de historia [servicio mágico pactado], con un efecto concreto acordado antes de usarlo. Favores menores cubren ayuda sencilla; efectos más exigentes requieren compromisos mayores y cualquier ingrediente raro debe conseguirse aparte. La fuente remite a un resumen de efectos que no está incluido en este fragmento: esta ficha no inventa un catálogo ni garantiza un efecto específico. Lo no ofrecido expresamente por la sección de campaña pertinente no está disponible de un proveedor amistoso.
+- **Servicio druídico, sacerdotal o arcano**: etiqueta de historia [servicio mágico pactado], con un efecto concreto acordado antes de usarlo. Favores menores cubren ayuda sencilla; efectos más exigentes requieren compromisos mayores y cualquier ingrediente raro debe conseguirse aparte. Acuerda con el proveedor el efecto concreto antes de comprometer recursos. Lo no ofrecido expresamente por la sección de campaña pertinente no está disponible de un proveedor amistoso.
 
 ### Rumores para entregar a los jugadores
 
@@ -189,19 +189,17 @@ Esta tabla puede darse como ayuda, completa o por entradas. Sus afirmaciones son
 | 3. Caer-Dineval | Hace tiempo que no se ve a Crannoc. Se dice que está enfermo, mientras figuras inquietantes entran y salen del castillo a horas extrañas. |
 | 4. Caer-Konig | Los negocios sufren robos y destrozos sin que se vea a los responsables. Trovus, el portavoz dracónido, necesita ayuda. |
 | 5. Refugio de Dougan | Merodean lobos invernales del tamaño de caballos y más inteligentes que los lobos corrientes. La misión local implica a dos de ellos y a dos adolescentes desaparecidos. |
-| 6. Puerto Oeste, según el texto | Han capturado a un mago acusado de matar a varios Héroes. La milicia pretende quemarlo; el capitán de la guardia busca ayuda para otra tarea que quizá guarde relación con él. |
+| 6. Puerto Este | Han capturado a un mago acusado de matar a varios Héroes. La milicia pretende quemarlo; el capitán de la guardia busca ayuda para otra tarea que quizá guarde relación con él. |
 | 7. Buenagamiel | Un gigante de unos dos metros setenta mató al portavoz y robó un cargamento de hidromiel. Varias tabernas podrían quedarse sin suministro. |
 | 8. Bosque Solitario | El Alce Blanco ataca a leñadores y tramperos en cuanto los ve. Ni los mejores cazadores han logrado atraparlo o matarlo. |
 | 9. Targos | Una banda prepara una expedición a la Cima de Kelvin para buscar a Oyaminartok, una goliath que se transforma en osa polar. Todavía podría ser posible unirse. |
 | 10. Termalaine | Masthew ha cerrado una mina de gemas porque una banda de kobolds amenaza a los mineros. Se promete una recompensa a quien despeje el lugar. |
 
-**Discrepancia de topónimos**: la lista inicial sitúa «Esfuerzos y Problemas» en Puerto Este, pero el sexto rumor dice Puerto Oeste. Conserva ambas referencias al contrastar las secciones posteriores; no deduzcas de ello que exista una undécima villa o una segunda misión equivalente. La ilustración de la aurora también identifica Puerto Este.
-
-**Discrepancia temporal**: el rumor de Targos invita a incorporarse a una expedición, mientras el encargo trata de buscarla cuando ya ha desaparecido. El Narrador debe ajustar el momento en que circula la noticia; puede llegar desfasada, pero la fuente no fija esa explicación.
+Ajusta el momento en que circula el rumor de Targos: si la expedición ya ha desaparecido, presenta la invitación como una noticia desfasada.
 
 ### Lectura de los copos y otras ayudas
 
-Los copos valoran servicios y trato, no el nivel del desafío. Las puntuaciones concretas de cada villa no aparecen en estas páginas.
+Los copos valoran servicios y trato, no el nivel del desafío. Consulta las puntuaciones en la descripción de cada villa.
 
 | Criterio | Un copo | Dos copos | Tres copos |
 | --- | --- | --- | --- |
@@ -209,17 +207,17 @@ Los copos valoran servicios y trato, no el nivel del desafío. Las puntuaciones 
 | Servicios | Resulta difícil encontrar casi cualquier servicio. | La oferta es reducida. | Hay más probabilidades de encontrar lo necesario. |
 | Comodidad | Apenas un ático o cobertizo helado para dormir. | Puede haber taberna y posada con habitaciones llenas de corrientes. | Comida y bebida decentes, cama cálida. |
 
-Puede entregarse como ayuda una hoja con este código, el equipo de viaje y los rumores conocidos. No hay en la fuente cartas, diarios, contratos, listas de sorteo transcritas ni otros documentos para reproducir. Si se crean ayudas de ese tipo, deben presentarse como material nuevo del Narrador, sin añadir pruebas falsas sobre un amaño o un culpable.
+Puede entregarse como ayuda una hoja con este código, el equipo de viaje y los rumores conocidos. Si preparas cartas, diarios, contratos o listas de sorteo como ayudas, evita añadir pruebas de un amaño o un culpable sin haberlo establecido en la aventura.
 
 ## Desenlaces y recompensas
 
-La primera misión resuelta merece un **hito** vinculado a las Gestas que realmente hayan avanzado. Tras **tres misiones** completadas en este capítulo, la Compañía recibe [respeto en Diez Ciudades] entre quienes conozcan sus hazañas. Tras **cinco**, obtiene [bienvenida de héroes] en las villas a las que haya ayudado y se abren oportunidades fuera de los asentamientos. Las villas desatendidas pueden seguir ignorándola. Estas marcas adaptan la progresión de la fuente sin conceder automáticamente nuevos temas, cambiar el Poderío ni sustituir el avance propio de LitM.
+La primera misión resuelta merece un **hito** vinculado a las Gestas que realmente hayan avanzado. Tras **tres misiones** completadas en este capítulo, la Compañía recibe [respeto en Diez Ciudades] entre quienes conozcan sus hazañas. Tras **cinco**, obtiene [bienvenida de héroes] en las villas a las que haya ayudado y se abren oportunidades fuera de los asentamientos. Las villas desatendidas pueden seguir ignorándola. Estas marcas no conceden automáticamente nuevos temas, cambian el Poderío ni sustituyen el avance propio de LitM.
 
-Resolver más encargos sigue proporcionando favores, apoyo y reputación, aunque esos tres umbrales ya se hayan alcanzado. Recompensas apropiadas: [alojamiento ofrecido], [provisiones para la siguiente etapa], [equipo reparado], [pasaje en un barco local], [favor de los pescadores] o una etiqueta de mochila concreta. Son propuestas de conversión, no pagos garantizados por esta introducción; los encargos específicos determinarán quién puede ofrecerlas.
+Resolver más encargos sigue proporcionando favores, apoyo y reputación, aunque esos tres umbrales ya se hayan alcanzado. Recompensas apropiadas: [alojamiento ofrecido], [provisiones para la siguiente etapa], [equipo reparado], [pasaje en un barco local], [favor de los pescadores] o una etiqueta de mochila concreta. Elige las recompensas según lo que pueda ofrecer quien haya encargado la misión.
 
 La fama tiene consecuencias contrapuestas: algunas personas ven salvadores; otras temen la capacidad de los Héroes, envidian sus recursos o desean apropiárselos. Introduce [envidia local] o [atención indeseada] cuando las decisiones y los testigos lo justifiquen, sin borrar favores obtenidos en otra comunidad.
 
-Durante una noche de sacrificio, rescatar a alguien salva esa vida si se consigue abrigo a tiempo; no pone fin al invierno. Recuperar pescado conserva alimentos y puede atraer acusaciones. Conseguir una alternativa aceptada permite suspender la ofrenda local esa noche. Si nadie interviene, la comunidad ejecuta la práctica descrita y pierde a la persona, la comida o el calor entregados. La fuente no confirma que Auril cambie de actitud por ninguna de esas ofrendas.
+Durante una noche de sacrificio, rescatar a alguien salva esa vida si se consigue abrigo a tiempo; no pone fin al invierno. Recuperar pescado conserva alimentos y puede atraer acusaciones. Conseguir una alternativa aceptada permite suspender la ofrenda local esa noche. Si nadie interviene, la comunidad ejecuta la práctica descrita y pierde a la persona, la comida o el calor entregados. Mantén la incertidumbre sobre la respuesta de Auril a las ofrendas.
 
 El abastecimiento, un rescate y los acuerdos entre villas pueden fortalecer la alianza. El acaparamiento, las humillaciones o la indiferencia pueden agravar sus rivalidades. Un fracaso no elimina por sí mismo todos los encargos: deja consecuencias que los Héroes pueden intentar reparar.
 
@@ -228,12 +226,12 @@ El abastecimiento, un rescate y los acuerdos entre villas pueden fortalecer la a
 - **Exploración inicial**: este capítulo vincula las diez villas con sus alrededores. Los viajes hacia los confines más remotos del Valle del Viento Helado corresponden al capítulo 2 y se abren especialmente tras consolidar la reputación de la Compañía.
 - **Auril**: el invierno, la aurora y los sacrificios hacen presente su crueldad incluso cuando no aparece. La belleza del cielo debe convivir con el coste cotidiano de conservar la vida.
 - **Cooperación o ruptura**: cada villa conserva su independencia. La presión sobre pesca, madera, piedra, aceite y refugio puede convertir un encargo local en un asunto de interés común. El tribalismo creciente amenaza la supervivencia de la alianza.
-- **Refugio y exilio**: Drizzt Do’Urden se cita como ejemplo famoso de drow que encontró en la región un lugar para vivir. No aparece como contacto ni salvador en estas páginas. Los secretos de los Héroes pueden vincularlos a exiliados, fugitivos o parias, pero la mayoría de los habitantes actuales ha nacido y crecido aquí y espera morir aquí.
+- **Refugio y exilio**: Drizzt Do’Urden se cita como ejemplo famoso de drow que encontró en la región un lugar para vivir. No lo introduzcas como contacto ni salvador automático. Los secretos de los Héroes pueden vincularlos a exiliados, fugitivos o parias, pero la mayoría de los habitantes actuales ha nacido y crecido aquí y espera morir aquí.
 - **Memoria de Faerûn**: Bryn Shander conserva el papel del puesto comercial original; las villas de Maer Dualdon, Lac Dinneshere y Aguas Rojizas crecieron después. Los adornos preservan culturas inmigrantes; los dinosaurios tallados en los edificios antiguos de Buenagamiel recuerdan a sus colonos chultanos.
-- **Pistas que merecen seguimiento**: la exclusividad de los ataques en Bremen, la ausencia de Crannoc, los hurtos sin culpables visibles, la captura del mago, el asesinato del portavoz de Buenagamiel, las desapariciones y el cierre de la mina encaminan hacia secciones propias. Esta introducción no revela sus soluciones.
-- **Límites de la información**: no se asignan aquí sacrificios de comida o calor a villas concretas, ni puntuaciones de copos, ni identidades a los responsables de los misterios. Mantén esos datos abiertos hasta consultar la sección correspondiente.
+- **Pistas que merecen seguimiento**: la exclusividad de los ataques en Bremen, la ausencia de Crannoc, los hurtos sin culpables visibles, la captura del mago, el asesinato del portavoz de Buenagamiel, las desapariciones y el cierre de la mina encaminan hacia secciones propias. Consulta cada aventura para preparar sus soluciones.
+- **Preparación local**: consulta la sección de cada villa para preparar sus sacrificios, puntuaciones de copos y responsables de los misterios.
 
-## Páginas de la fuente
+## Referencias de consulta
 
 - **18**: población, oficios, construcción y vestimenta; preparación de la aventura; elección de villa inicial y diez encargos locales.
 - **19**: dos misiones iniciales generales, selección de rumores, diez rumores, progresión, reputación e historia de la fundación.

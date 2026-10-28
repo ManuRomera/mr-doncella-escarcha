@@ -11,11 +11,26 @@
       "lectura": "La guarida se asoma al norte desde una ladera nevada de la Columna del Mundo. Unas huellas recientes atraviesan la nieve y os conducen hacia la roca. Antes de la entrada, los huesos de un dragón blanco medio enterrados brillan con escarcha. Más allá, las antorchas parpadean en dos túneles que se adentran en la montaña. Al este, unos escalones toscos suben a una arena de piedra con pilares y gradas heladas. El aire es tan frío que corta.",
       "notas": "Las huellas de dos cazadores facilitan encontrar el asentamiento; aplica las reglas de viaje por montaña. El clan ofrece comida y refugio a cambio de historias y noticias, rechaza a los goliats de Torre del Cielo y expulsa a los visitantes problemáticos.",
       "musica": "camino",
-      "motivos": ["ventisca-m", "esperanza"],
-      "efectos": ["viento", "hielo-cruje", "pasos"],
+      "motivos": [
+        "ventisca-m",
+        "esperanza"
+      ],
+      "efectos": [
+        "viento",
+        "hielo-cruje",
+        "pasos"
+      ],
       "ambiente": "dim",
-      "etiquetas": ["guarida en montaña", "huesos de dragón", "acogida goliat", "ventisca"],
-      "figuras": ["goliats-del-clan", "tormenta-de-la-columna"]
+      "etiquetas": [
+        "guarida en montaña",
+        "huesos de dragón",
+        "acogida goliat",
+        "ventisca"
+      ],
+      "figuras": [
+        "goliats-del-clan",
+        "tormenta-de-la-columna"
+      ]
     },
     {
       "slug": "huesos-y-chwingas",
@@ -24,13 +39,27 @@
       "interior": true,
       "imagen_en": "Wide view of a mountain cave entrance containing the frost coated skeleton of an enormous white dragon, partly buried in windblown snow. Flickering wall torches illuminate pale ribs, deep shadows and fresh tracks leading inward. Rough stone steps rise on the eastern side. Muted blue, ivory and amber palette, intricate weathered bone textures. No people or creatures. Keep the lower third clear.",
       "lectura": "Seguís las huellas hasta la cueva. Los huesos del dragón yacen semienterrados, enormes y pálidos bajo la escarcha. La luz de las antorchas tiembla entre sus costillas y el viento arrastra nieve hacia la entrada. Algo se mueve entre los restos: cuatro diminutas criaturas con máscaras pintadas. A medida que os acercáis, emergen de sus escondrijos y os observan con curiosidad. Sus pequeños movimientos contrastan con la inmovilidad del gran esqueleto.",
-      "notas": "Los restos pertenecen a Stygiarus, un dragón blanco adulto abatido por el clan hace décadas, y sirven para el encargo de Dannika Acerogris. Los cuatro chwingas siguen al grupo mientras permanezca cerca; atender la fascinación de uno una vez al día durante tres días consecutivos concede un don del apéndice C.",
+      "notas": "Los restos pertenecen a Stygiarus, un dragón blanco adulto abatido por el clan hace décadas, y sirven para el encargo de Dannika Acerogris. Los cuatro chwingas siguen al grupo mientras permanezca cerca; atender la fascinación de uno una vez al día durante tres días consecutivos concede la etiqueta de historia [don de chwinga].",
       "musica": "valle",
-      "motivos": ["misterio", "esperanza"],
-      "efectos": ["viento", "pasos", "hielo-cruje"],
+      "motivos": [
+        "misterio",
+        "esperanza"
+      ],
+      "efectos": [
+        "viento",
+        "pasos",
+        "hielo-cruje"
+      ],
       "ambiente": "dim",
-      "etiquetas": ["huesos de Stygiarus", "chwingas", "fascinaciones", "don sobrenatural"],
-      "figuras": ["cuatro-chwingas"]
+      "etiquetas": [
+        "huesos de stygiarus",
+        "chwingas",
+        "fascinaciones",
+        "don sobrenatural"
+      ],
+      "figuras": [
+        "cuatro-chwingas"
+      ]
     },
     {
       "slug": "cancha-pelota-cabra",
@@ -38,14 +67,29 @@
       "ciudad": "otro",
       "interior": false,
       "imagen_en": "Wide view of an empty mountain sports arena raised twenty feet above the approach. Fifteen rough stone pillars, five to eight feet tall and one foot across, stand beneath a leaden sky. Ice covers spectator terraces carved into the rear rock wall. Burnt torch remnants flank a narrow upper tunnel. Blue grey stone and white frost palette. No people. Leave the lower third clear.",
-      "lectura": "Los escalones os llevan hasta una arena elevada sobre la ladera. Quince pilares toscos de piedra se alzan ante vosotros, de distintas alturas y apenas un pie de diámetro. Las gradas del fondo están cubiertas de hielo; en la parte alta se distinguen restos de antorchas y la boca de un túnel estrecho. El viento recorre la cancha abierta. Aquí los goliats se reúnen a diario para ver partidos de pelota de cabra.",
-      "notas": "Cuatro guerreros de W7 desafían amistosamente al grupo si se gana el cariño del clan; también se puede observar y apostar. Cada jugador elige una prueba de Fuerza (Atletismo) o Destreza (Acrobacias): se suman los resultados por equipo y el mayor gana; los empates requieren otra ronda completa. El túnel superior conduce a W6.",
+      "lectura": "Los escalones os llevan hasta una arena elevada sobre la ladera. Quince pilares toscos de piedra se alzan ante vosotros, de distintas alturas y apenas treinta centímetros de diámetro. Las gradas del fondo están cubiertas de hielo; en la parte alta se distinguen restos de antorchas y la boca de un túnel estrecho. El viento recorre la cancha abierta. Desde aquí veis toda la cancha, expuesta al frío bajo el cielo plomizo.",
+      "notas": "Cuatro guerreros de W7 desafían amistosamente al grupo si se gana el cariño del clan; también se puede observar y apostar. El equipo intenta alcanzar [victoria-3] mediante acciones de fuerza, equilibrio y cooperación entre los pilares. Un fallo permite al rival marcar o impone [desequilibrado-1]; las apuestas se representan con [bolsa de monedas]. El túnel superior conduce a W6.",
       "musica": "pueblo",
-      "motivos": ["duelo", "heroica"],
-      "efectos": ["viento", "multitud", "pasos"],
+      "motivos": [
+        "duelo",
+        "heroica"
+      ],
+      "efectos": [
+        "viento",
+        "multitud",
+        "pasos"
+      ],
       "ambiente": "dim",
-      "etiquetas": ["cancha de pelota", "pilares de piedra", "gradas heladas", "apuestas"],
-      "figuras": ["goliats-del-clan", "guerreros-pena-perdicion"]
+      "etiquetas": [
+        "cancha de pelota",
+        "pilares de piedra",
+        "gradas heladas",
+        "apuestas"
+      ],
+      "figuras": [
+        "goliats-del-clan",
+        "guerreros-pena-perdicion"
+      ]
     },
     {
       "slug": "armeria",
@@ -57,10 +101,20 @@
       "notas": "Wayani trabaja con técnicas aprendidas de un herrero enano y disfruta explicando su oficio. Si el grupo parece amistoso, lo conduce ante Ogolai en W5; la forja contiene trece jabalinas y tres grandes hachas pesadas, todas no mágicas.",
       "musica": "pueblo",
       "motivos": [],
-      "efectos": ["hogar", "chapuzon"],
+      "efectos": [
+        "hogar",
+        "chapuzon"
+      ],
       "ambiente": "light",
-      "etiquetas": ["fragua", "armería", "jabalinas", "hachas"],
-      "figuras": ["wayani-cazador-supremo"]
+      "etiquetas": [
+        "fragua",
+        "armería",
+        "jabalinas",
+        "hachas"
+      ],
+      "figuras": [
+        "wayani-cazador-supremo"
+      ]
     },
     {
       "slug": "tunel-iniciacion",
@@ -68,14 +122,29 @@
       "ciudad": "otro",
       "interior": true,
       "imagen_en": "Wide interior of a fifteen foot high mountain cavern. A raised central mound contains two five foot openings at opposite ends, with ancient runes carved around the tunnel entrances. Dozens of worn ceremonial dolls face outward from wall niches. Sewing materials and a bucket of green dye sit nearby. Restrained firelight, moss green and stone grey palette. No people. Leave the lower third clear.",
-      "lectura": "El suelo de la caverna sobresale en el centro y forma una protuberancia de piedra con un agujero en cada extremo. Las runas cubren su exterior. Un anciano goliat tiñe telas en un cubo de líquido verdoso, mientras tres jóvenes cosen muñecas ceremoniales a su lado. Decenas de muñecas viejas miran hacia fuera desde los nichos de las paredes. Más allá de las aberturas del túnel, la oscuridad y el silencio parecen ajenos al trabajo tranquilo de la cueva.",
-      "notas": "Demelok ayuda a Jaagrik, Kaga y Zuri a preparar las muñecas que simbolizan la infancia; la familia espera al iniciado al otro extremo. En el punto medio se requieren salvaciones de Constitución y Carisma CD 15: un fallo obliga a retroceder, dos causan un coma de 4d6 horas y dos éxitos permiten atravesar las visiones. Se puede reintentar; superar la prueba concede pertenencia honoraria solo con consentimiento de Ogolai.",
+      "lectura": "Al entrar, veis una protuberancia de piedra en el centro de la caverna, con un agujero en cada extremo. Las runas cubren su exterior. Un anciano goliat tiñe telas en un cubo de líquido verdoso, mientras tres jóvenes cosen muñecas ceremoniales a su lado. Decenas de muñecas viejas miran hacia fuera desde los nichos de las paredes. Más allá de las aberturas del túnel, la oscuridad y el silencio parecen ajenos al trabajo tranquilo de la cueva.",
+      "notas": "Demelok ayuda a Jaagrik, Kaga y Zuri a preparar las muñecas que simbolizan la infancia; la familia espera al iniciado al otro extremo. En el punto medio, resistir el agotamiento y afrontar las visiones son acciones arriesgadas. Un éxito permite seguir; un fallo impone [bloqueado-1] y obliga a volver por la entrada. Si el iniciado insiste pese al bloqueo y vuelve a fallar, queda [inconsciente-6] durante varias horas. Superar las visiones permite salir por el otro extremo. Se puede reintentar; superar la prueba concede pertenencia honoraria solo con consentimiento de Ogolai.",
       "musica": "culto",
-      "motivos": ["misterio", "tension"],
-      "efectos": ["hogar", "latido"],
+      "motivos": [
+        "misterio",
+        "tension"
+      ],
+      "efectos": [
+        "hogar",
+        "latido"
+      ],
       "ambiente": "dim",
-      "etiquetas": ["túnel de runas", "muñecas ceremoniales", "prueba de adultez", "visiones"],
-      "figuras": ["demelok-caminante-nocturno", "jaagrik-kaga-zuri", "tunel-de-runas"]
+      "etiquetas": [
+        "túnel de runas",
+        "muñecas ceremoniales",
+        "prueba de adultez",
+        "visiones"
+      ],
+      "figuras": [
+        "demelok-caminante-nocturno",
+        "jaagrik-kaga-zuri",
+        "tunel-de-runas"
+      ]
     },
     {
       "slug": "salon-principal",
@@ -83,14 +152,30 @@
       "ciudad": "otro",
       "interior": true,
       "imagen_en": "Wide view of a communal mountain hall beneath a thirty foot vaulted stone ceiling. An open well occupies the centre, with rope, water bucket and a suspended fire bucket. Rough southern steps lead to a raised hearth area containing a white mountain goat hide cloak, a pipe and a greataxe with a dragon bone haft. Warm amber against grey rock. No people. Lower third clear.",
-      "lectura": "El salón se abre en una caverna de treinta pies de techo abovedado. Un pozo ocupa el centro: dos jóvenes sacan agua con un cubo y una cuerda, mientras varios adultos juegan con los niños. Unos escalones toscos llevan a la zona elevada del sur. Allí, junto al fuego, una goliat de pelo gris y numerosas cicatrices muerde una pipa, envuelta en una capa blanca. A su espalda descansa una gran hacha de mango de hueso de dragón.",
-      "notas": "Ogolai recibe al grupo junto al fuego y, si le agrada, lo invita a comer en W7; hay ocho guerreros, dos de ellos jóvenes desarmados y sin armadura, y seis niños. Una pelea atrae a nueve guerreros de W7; el pozo se mantiene líquido bajando un cubo de fuego. Ogolai relata el ataque del grifo que originó la enemistad, ocultando que ella era la niña herida; acepta arbitraje solo en su propia cancha, no ofrece gestos y llama a Arn «muerto viviente». Si confía en el grupo, pide estar atentos a Kapanuk, perdido durante una cacería y posiblemente en X28 de la fortaleza de Xardorok.",
+      "lectura": "Entráis en un salón excavado bajo un techo abovedado de nueve metros. Un pozo ocupa el centro: dos jóvenes sacan agua con un cubo y una cuerda, mientras varios adultos juegan con los niños. Unos escalones toscos llevan a la zona elevada del sur. Allí, junto al fuego, una goliat de pelo gris y numerosas cicatrices muerde una pipa, envuelta en una capa blanca. A su espalda descansa una gran hacha de mango de hueso de dragón.",
+      "notas": "Ogolai recibe al grupo junto al fuego y, si le agrada, lo invita a comer en W7; hay ocho guerreros, dos de ellos jóvenes desarmados y sin armadura, y seis niños. Una pelea atrae a nueve guerreros de W7; el pozo se mantiene líquido bajando un cubo de fuego. Ogolai relata el ataque del grifo que originó la enemistad, ocultando que ella era la niña herida; acepta arbitraje solo en su propia cancha, no ofrece gestos y llama a Arn «muerto viviente». Si confía en el grupo, pide estar atentos a Kapanuk, perdido durante una cacería y posiblemente en la fortaleza de Xardorok.",
       "musica": "pueblo",
-      "motivos": ["tension", "esperanza"],
-      "efectos": ["hogar", "multitud", "chapuzon"],
+      "motivos": [
+        "tension",
+        "esperanza"
+      ],
+      "efectos": [
+        "hogar",
+        "multitud",
+        "chapuzon"
+      ],
       "ambiente": "light",
-      "etiquetas": ["salón principal", "pozo", "Ogolai", "enemistad con Torre del Cielo"],
-      "figuras": ["ogolai-parteorcos", "goliats-del-clan", "ogolai-y-guardia"]
+      "etiquetas": [
+        "salón principal",
+        "pozo",
+        "ogolai",
+        "enemistad con torre del cielo"
+      ],
+      "figuras": [
+        "ogolai-parteorcos",
+        "goliats-del-clan",
+        "ogolai-y-guardia"
+      ]
     },
     {
       "slug": "cuevas-privadas",
@@ -98,14 +183,29 @@
       "ciudad": "otro",
       "interior": true,
       "imagen_en": "Wide interior view of connected private mountain caves with ten foot ceilings. The northern chamber contains a resting place beside a small fire, clean bandages and ointment pots. The southern chamber holds mixed coins, banded agates, carnelians, spinels, a topaz and a gold pendant with a yellow diamond. Warm firelight fades into cool stone shadows. No people or creatures. Lower third clear.",
-      "lectura": "El techo desciende sobre estas cuevas privadas, los aposentos de la jefa y de los mejores guerreros. En la cueva del norte, una pequeña fogata ilumina a una aarakocra herida. Un goliat permanece a su lado, entre vendas y ungüentos; una de las alas de la paciente descansa en una postura que delata la fractura. Hacia el sur quedan las dependencias donde Ogolai guarda los objetos de valor del clan. Aquí las voces llegan amortiguadas desde las salas comunes.",
-      "notas": "Aruk cuida a Sikki-kree, rescatada tras estrellarse en una tormenta; sus heridas menores han curado, pero reparar el ala exige al menos 10 puntos de curación mágica que el clan no puede proporcionar. Curarla gana gratitud aarakocra, respeto goliat y una deuda de Ogolai suficiente para aceptar una reunión con Arn; Sikki-kree agradece la ayuda y pide permiso para partir. La reserva meridional financia visitas a Diez Ciudades e incluye una gema elemental cuya magia ignoran los goliats; robarla provoca ira, posible expulsión y pérdida de confianza.",
+      "lectura": "Avanzáis bajo el techo de estas cuevas y dejáis atrás el bullicio de las salas comunes. En la cueva del norte, una pequeña fogata ilumina a una aarakocra herida. Un goliat permanece a su lado, entre vendas y ungüentos; una de las alas de la paciente descansa en una postura que delata la fractura. Sentís el calor del fuego al acercaros, mientras las voces os llegan amortiguadas desde las otras cavernas.",
+      "notas": "Aruk cuida a Sikki-kree, rescatada tras estrellarse en una tormenta; sus heridas menores han curado, pero reparar el ala exige una intervención sobrenatural capaz de reparar el hueso que el clan no puede proporcionar. Curarla gana gratitud aarakocra, respeto goliat y una deuda de Ogolai suficiente para aceptar una reunión con Arn; Sikki-kree agradece la ayuda y pide permiso para partir. La reserva meridional financia visitas a Diez Ciudades e incluye una gema elemental cuya magia ignoran los goliats; robarla provoca ira, posible expulsión y pérdida de confianza.",
       "musica": "pueblo",
-      "motivos": ["esperanza", "misterio"],
-      "efectos": ["hogar", "alas", "viento"],
+      "motivos": [
+        "esperanza",
+        "misterio"
+      ],
+      "efectos": [
+        "hogar",
+        "alas",
+        "viento"
+      ],
       "ambiente": "dim",
-      "etiquetas": ["cuevas privadas", "aarakocra herida", "tesoro del clan", "gema elemental"],
-      "figuras": ["sikki-kree", "aruk-clamatruenos"]
+      "etiquetas": [
+        "cuevas privadas",
+        "aarakocra herida",
+        "tesoro del clan",
+        "gema elemental"
+      ],
+      "figuras": [
+        "sikki-kree",
+        "aruk-clamatruenos"
+      ]
     },
     {
       "slug": "cueva-del-festin",
@@ -113,14 +213,29 @@
       "ciudad": "otro",
       "interior": true,
       "imagen_en": "Wide interior of a communal feasting cavern with a fifteen foot ceiling. A rectangular central bonfire supports roasting meat, with ceramic bowls arranged nearby. Wool rugs and thick hides cover the surrounding floor, leaving a wrestling space beside a large goat skin drum. Smoke tinted stone and abundant orange firelight create a welcoming ochre and brown palette. No people. Keep the lower third clear.",
-      "lectura": "Tres goliats cocinan carne sobre una hoguera rectangular. El olor del asado llena la caverna, de techo bajo en comparación con el gran salón. Un joven reparte cuencos de cerámica mientras un anciano marca el ritmo en un tambor de piel de cabra. Frente a él, dos goliats se enzarzan en lucha libre sobre el suelo. Los demás, sentados en alfombras de lana y pieles, se apartan entre risas cuando los luchadores ruedan cerca.",
-      "notas": "Suele haber nueve guerreros y ocho no combatientes, entre niños y ancianos. Los goliats agradecen el interés por la lucha y nunca rechazan un desafío, aunque no suelen buscar oponentes menores o más débiles; ganar exige dos pruebas consecutivas de Fuerza (Atletismo). Si el clan toma cariño al grupo, cuatro guerreros proponen un partido en W2.",
+      "lectura": "Al entrar, os envuelve el olor de la carne asada. Tres goliats cocinan carne sobre una hoguera rectangular. El olor del asado llena la caverna, de techo bajo en comparación con el gran salón. Un joven reparte cuencos de cerámica mientras un anciano marca el ritmo en un tambor de piel de cabra. Frente a él, dos goliats se enzarzan en lucha libre sobre el suelo. Los demás, sentados en alfombras de lana y pieles, se apartan entre risas cuando los luchadores ruedan cerca.",
+      "notas": "Suele haber nueve guerreros y ocho no combatientes, entre niños y ancianos. Los goliats agradecen el interés por la lucha y nunca rechazan un desafío, aunque no suelen buscar oponentes menores o más débiles; La lucha se resuelve acumulando [dominado-3] sobre el rival mediante agarres y derribos; un fallo permite al contrincante imponer [dominado-1]. Si el clan toma cariño al grupo, cuatro guerreros proponen un partido en W2.",
       "musica": "taberna",
-      "motivos": ["duelo", "esperanza"],
-      "efectos": ["hogar", "multitud", "pasos"],
+      "motivos": [
+        "duelo",
+        "esperanza"
+      ],
+      "efectos": [
+        "hogar",
+        "multitud",
+        "pasos"
+      ],
       "ambiente": "light",
-      "etiquetas": ["cueva del festín", "lucha libre", "tambor", "comida"],
-      "figuras": ["goliats-del-clan", "guerreros-pena-perdicion"]
+      "etiquetas": [
+        "cueva del festín",
+        "lucha libre",
+        "tambor",
+        "comida"
+      ],
+      "figuras": [
+        "goliats-del-clan",
+        "guerreros-pena-perdicion"
+      ]
     }
   ],
   "pnj": [
@@ -181,7 +296,7 @@
       "presentacion": "Junto a la fogata distinguís una figura emplumada, recogida entre cobertores. Un ala descansa cuidadosamente sujeta; la otra se mueve apenas cuando os acercáis. El plumaje magullado y las vendas hablan de una caída terrible. Sikki-kree os observa con atención, impaciente incluso en reposo. Al mirar hacia la salida, sus ojos parecen buscar el cielo que queda más allá de la piedra y de la nieve.",
       "caracter": "Agradecida e impaciente por volver a volar.",
       "quiere": "Recuperar el vuelo y partir con permiso de Ogolai.",
-      "sabe": "Conoce los cielos y las montañas. Se estrelló durante una tormenta de nieve y los cazadores la rescataron; sus heridas menores han curado, pero el ala necesita al menos 10 puntos de curación mágica.",
+      "sabe": "Conoce los cielos y las montañas. Se estrelló durante una tormenta de nieve y los cazadores la rescataron; sus heridas menores han curado, pero el ala necesita una intervención sobrenatural capaz de reparar el hueso.",
       "desafio": null
     },
     {
@@ -193,7 +308,7 @@
       "presentacion": "El goliat que vela junto a la fogata aparta unas vendas para recibiros. Su cuerpo robusto contrasta con el cuidado con que se mueve alrededor del ala herida. Percibís el olor de los ungüentos y el calor del pequeño fuego. Cuando os explica el estado de la paciente, la preocupación se le nota en el rostro: ha hecho cuanto puede, pero sigue atento a cualquier posibilidad de ayudarla.",
       "caracter": "Dedicado y preocupado; habla con atención al estado de su paciente.",
       "quiere": "Curar a Sikki-kree.",
-      "sabe": "Tiene Perspicacia +4 y Medicina +4. Sabe que las heridas menores han sanado y que el ala requiere una curación mágica de la que el clan carece.",
+      "sabe": "Es observador y conoce el cuidado de las heridas. Sabe que las heridas menores han sanado y que el ala requiere una curación mágica de la que el clan carece.",
       "desafio": "guerreros-pena-perdicion"
     },
     {
@@ -205,7 +320,7 @@
       "presentacion": "Entre las costillas heladas asoman cuatro máscaras diminutas. Veis un triángulo oscuro, dos anillos azules, unas antenas rizadas y un vestido de agujas de pino. Las criaturas se acercan con una curiosidad descarada: una busca dónde subirse, otra examina las barbas y las demás siguen vuestros gestos con atención. Sus movimientos menudos llenan de vida los huesos del dragón, mientras los goliats pasan junto a ellas sin prestarles atención.",
       "caracter": "Traviesos y obsesivos; expresan su curiosidad con gestos.",
       "quiere": "El primero quiere cabalgar sobre personajes pequeños; el segundo peina barbas con una piña; el tercero da cabriolas ante silbidos o espejos; el cuarto mira las gargantas de quienes mastican con la boca abierta.",
-      "sabe": "Conocen el entorno de la guarida. Satisfacer la fascinación de uno una vez al día durante tres días consecutivos hace que conceda un don sobrenatural antes de partir; consulta los encantamientos del apéndice C.",
+      "sabe": "Conocen el entorno de la guarida. Satisfacer la fascinación de uno una vez al día durante tres días consecutivos hace que conceda un don sobrenatural antes de partir mediante la etiqueta de historia [don de chwinga].",
       "desafio": "chwingas-curiosos"
     },
     {
@@ -226,10 +341,10 @@
       "papel": "Joven cazador desaparecido, mencionado por Ogolai.",
       "ciudad": "otro",
       "aspecto_en": "Full body portrait of a young adult male goliath hunter with a tall, strong build and youthful, weather worn features. He wears heavy mountain furs, layered winter clothing and sturdy hide boots suitable for deep snow. A simple hunting javelin serves as his distinctive object. His alert, determined expression suggests familiarity with harsh mountain travel, without implying his present whereabouts.",
-      "presentacion": "Junto al fuego oís el nombre de Kapanuk, un joven cazador del clan. No está entre quienes os reciben: se separó de su grupo durante una tormenta de nieve hace unos días. El calor de la cueva vuelve más tangible el frío que aguarda fuera. Ogolai solo os pide que mantengáis los ojos abiertos cuando recorráis las montañas; por ahora, su ausencia es cuanto podéis conocer de él.",
-      "caracter": "No aparece en escena; la ficha no concreta su voz ni su carácter.",
+      "presentacion": "Junto al fuego oís el nombre de Kapanuk, un joven cazador del clan. No está entre quienes os reciben: se separó de su grupo durante una tormenta de nieve hace unos días. El calor de la cueva vuelve más tangible el frío que aguarda fuera. Ogolai solo os pide que mantengáis los ojos abiertos cuando recorráis las montañas.",
+      "caracter": "Tenaz y atento al entorno; habla con franqueza.",
       "quiere": "Sobrevivir y regresar al clan.",
-      "sabe": "Conoce las montañas. Su posible presencia en X28 de la fortaleza de Xardorok es información para el Narrador, no un paradero confirmado para el clan.",
+      "sabe": "Conoce las montañas. Su posible presencia en la fortaleza de Xardorok es información para el Narrador, no un paradero confirmado para el clan.",
       "desafio": "guerreros-pena-perdicion"
     }
   ],
@@ -238,112 +353,428 @@
       "slug": "guerreros-pena-perdicion",
       "nombre": "Goliats guerreros de Peña Perdición",
       "nivel": 2,
-      "poderio": [{"nivel": "origin", "aspecto": "fuerza y resistencia de los guerreros goliats"}],
-      "roles": ["Adversario", "Bruto"],
+      "poderio": [
+        {
+          "nivel": "origin",
+          "aspecto": "fuerza y resistencia de los guerreros goliats"
+        }
+      ],
+      "roles": [
+        "Adversario",
+        "Bruto"
+      ],
       "aspecto_en": "Full body portrait of a towering adult goliath mountain warrior, powerfully muscular and steady on heavy winter boots. Thick furs and layered cold weather clothing frame weathered features and a proud expression. A heavy axe and metal javelins display the clan's practical smithing. Rugged grey stone and restrained firelight emphasize endurance, immense strength and disciplined readiness rather than uncontrolled aggression.",
       "descripcion": "Guerreros del clan Thuunlakalaga, orgullosos y competitivos. No buscan atacar a quien les muestra respeto; este perfil sirve también para los PNJ guerreros si se ven forzados a combatir. Jaagrik, Kaga y Zuri y los dos jóvenes de W5 están desarmados y sin armadura: no uses con ellos las amenazas de armas mientras sigan así.",
-      "limites": [{"nombre": "herido", "valor": 4, "consecuencia": "El guerrero queda fuera de combate."}, {"nombre": "convencido", "valor": 3, "consecuencia": "Cede ante argumentos, fuerza u honor demostrados."}],
-      "etiquetas": ["goliat", "fuerza titánica", "resistencia de piedra", "armas pesadas", "ropa de abrigo", "orgulloso"],
-      "rasgos": [{"nombre": "Disciplina del clan", "descripcion": "Abandonan el enfrentamiento si su jefa lo ordena."}],
-      "amenazas": [
-        {"nombre": "Golpe de hacha", "descripcion": "Descarga un golpe con su arma pesada.", "consecuencias": ["Inflige [herido-2]."]},
-        {"nombre": "Lanzamiento de jabalina", "descripcion": "Arroja una jabalina para derribar al oponente.", "consecuencias": ["Inflige [herido-1] y [derribado-1]."]},
-        {"nombre": "Carga montañesa", "descripcion": "Carga con toda su fuerza.", "consecuencias": ["Inflige [herido-1] y [aturdido-1]."]},
-        {"nombre": "Rendición por honor", "descripcion": "Reconoce la fuerza o el respeto demostrados.", "consecuencias": ["Crea la etiqueta de historia [respeto goliat].", "Los guerreros se retiran."]}
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 4,
+          "consecuencia": "El guerrero queda fuera de combate."
+        },
+        {
+          "nombre": "convencido",
+          "valor": 3,
+          "consecuencia": "Cede ante argumentos, fuerza u honor demostrados."
+        }
       ],
-      "secretos": [{"nombre": "Fuerza y honor", "descripcion": "Respetan la fuerza y el honor, y no atacan a quien los trata con respeto."}]
+      "etiquetas": [
+        "goliat",
+        "fuerza titánica",
+        "resistencia de piedra",
+        "armas pesadas",
+        "ropa de abrigo",
+        "orgulloso"
+      ],
+      "rasgos": [
+        {
+          "nombre": "Disciplina del clan",
+          "descripcion": "Abandonan el enfrentamiento si su jefa lo ordena."
+        }
+      ],
+      "amenazas": [
+        {
+          "nombre": "Golpe de hacha",
+          "descripcion": "Descarga un golpe con su arma pesada.",
+          "consecuencias": [
+            "Inflige [herido-2]."
+          ]
+        },
+        {
+          "nombre": "Lanzamiento de jabalina",
+          "descripcion": "Arroja una jabalina para derribar al oponente.",
+          "consecuencias": [
+            "Inflige [herido-1] y [derribado-1]."
+          ]
+        },
+        {
+          "nombre": "Carga montañesa",
+          "descripcion": "Carga con toda su fuerza.",
+          "consecuencias": [
+            "Inflige [herido-1] y [aturdido-1]."
+          ]
+        },
+        {
+          "nombre": "Rendición por honor",
+          "descripcion": "Reconoce la fuerza o el respeto demostrados.",
+          "consecuencias": [
+            "Crea la etiqueta de historia [respeto goliat].",
+            "Los guerreros se retiran."
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Fuerza y honor",
+          "descripcion": "Respetan la fuerza y el honor, y no atacan a quien los trata con respeto."
+        }
+      ]
     },
     {
       "slug": "ogolai-y-guardia",
       "nombre": "Ogolai y la guardia de Peña Perdición",
       "nivel": 3,
-      "poderio": [{"nivel": "adventure", "aspecto": "autoridad de la jefa y fuerza de su guardia"}],
-      "roles": ["Adversario", "Bruto", "Apoyo"],
+      "poderio": [
+        {
+          "nivel": "adventure",
+          "aspecto": "autoridad de la jefa y fuerza de su guardia"
+        }
+      ],
+      "roles": [
+        "Adversario",
+        "Bruto",
+        "Apoyo"
+      ],
       "aspecto_en": "Full body group portrait of an older grey haired female goliath chief with scarred features, a white mountain goat cloak and a huge dragon bone hafted greataxe. Powerful goliath guards in thick winter furs stand behind her carrying heavy weapons. Her pipe and uncompromising stare reinforce authority. Warm cavern firelight highlights white hide, pale bone and weathered stone toned skin.",
       "descripcion": "Ogolai solo combate si se ve forzada, respaldada por la guardia de su clan. Su autoridad permite movilizar refuerzos y su capa le proporciona protección. El orgullo oculta el miedo a los grifos que arrastra desde niña.",
-      "limites": [{"nombre": "herido", "valor": 5, "consecuencia": "Ogolai queda fuera de combate."}, {"nombre": "convencida", "valor": 4, "consecuencia": "Acepta detener el enfrentamiento o escuchar una mediación honorable."}],
-      "etiquetas": ["jefa goliat", "gran hacha de hueso de dragón", "capa de protección", "temor a los grifos", "La Vieja Cabra"],
-      "rasgos": [{"nombre": "Capa protectora", "descripcion": "Su capa le proporciona protección."}],
-      "amenazas": [
-        {"nombre": "Golpe de hacha", "descripcion": "Ogolai descarga su gran hacha.", "consecuencias": ["Inflige [herido-3]."]},
-        {"nombre": "Orden de carga", "descripcion": "Convoca a los guerreros de la cueva del festín.", "consecuencias": ["Crea la etiqueta de historia [refuerzos goliat].", "Llegan nueve goliats guerreros desde W7."]},
-        {"nombre": "Intimidación", "descripcion": "Impone su autoridad con dureza.", "consecuencias": ["Inflige [asustado-2]."]}
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 5,
+          "consecuencia": "Ogolai queda fuera de combate."
+        },
+        {
+          "nombre": "convencida",
+          "valor": 4,
+          "consecuencia": "Acepta detener el enfrentamiento o escuchar una mediación honorable."
+        }
       ],
-      "secretos": [{"nombre": "Miedo al grifo", "descripcion": "Una amenaza de grifo le impone [aterrada-3]; no admite su miedo."}, {"nombre": "Mediación honorable", "descripcion": "No lucha si se ofrece una mediación honorable."}]
+      "etiquetas": [
+        "jefa goliat",
+        "gran hacha de hueso de dragón",
+        "capa de protección",
+        "temor a los grifos",
+        "la vieja cabra"
+      ],
+      "rasgos": [
+        {
+          "nombre": "Capa protectora",
+          "descripcion": "Su capa le proporciona protección."
+        }
+      ],
+      "amenazas": [
+        {
+          "nombre": "Golpe de hacha",
+          "descripcion": "Ogolai descarga su gran hacha.",
+          "consecuencias": [
+            "Inflige [herido-3]."
+          ]
+        },
+        {
+          "nombre": "Orden de carga",
+          "descripcion": "Convoca a los guerreros de la cueva del festín.",
+          "consecuencias": [
+            "Crea la etiqueta de historia [refuerzos goliat].",
+            "Llegan nueve goliats guerreros desde W7."
+          ]
+        },
+        {
+          "nombre": "Intimidación",
+          "descripcion": "Impone su autoridad con dureza.",
+          "consecuencias": [
+            "Inflige [asustado-2]."
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Miedo al grifo",
+          "descripcion": "Una amenaza de grifo le impone [aterrada-3]; no admite su miedo."
+        },
+        {
+          "nombre": "Mediación honorable",
+          "descripcion": "No lucha si se ofrece una mediación honorable."
+        }
+      ]
     },
     {
       "slug": "tunel-de-runas",
       "nombre": "Túnel de runas",
       "nivel": 2,
       "poderio": [],
-      "roles": ["Obstáculo", "Peligro"],
-      "aspecto_en": "Environmental view of a low initiation tunnel cut through a raised mass of cavern stone. Ancient runes cover its exterior and frame the paired openings. Worn ceremonial dolls watch from nearby niches, while darkness swallows the passage midpoint. A faint warm glow from the outer chamber contrasts with cold black stone, suggesting inward visions, solitude and confronting personal fear. No people.",
-      "descripcion": "Prueba de adultez que enfrenta al iniciado con sus miedos, soledad y debilidades. En el punto medio exige una salvación de Constitución CD 15 y otra de Carisma CD 15. Sus visiones buscan enseñar el propio carácter, y la prueba puede repetirse.",
-      "limites": [{"nombre": "atravesado", "valor": 1, "consecuencia": "El iniciado sale por el otro extremo tras superar las visiones."}, {"nombre": "bloqueado", "valor": 1, "consecuencia": "No puede avanzar y debe regresar por donde entró."}],
-      "etiquetas": ["runas", "visiones", "soledad", "miedo"],
-      "rasgos": [{"nombre": "Ofrenda de infancia", "descripcion": "El joven ofrece una muñeca como símbolo de su infancia; su familia espera al otro extremo."}],
-      "amenazas": [
-        {"nombre": "Visión de terror", "descripcion": "Si falla una de las dos salvaciones, el miedo impide continuar.", "consecuencias": ["Inflige [bloqueado-1].", "Obliga a retirarse por la entrada."]},
-        {"nombre": "Colapso mental", "descripcion": "Si falla ambas salvaciones, cae en coma.", "consecuencias": ["Inflige [inconsciente-6] durante 4d6 horas."]},
-        {"nombre": "Superación", "descripcion": "Si supera ambas salvaciones, atraviesa el túnel.", "consecuencias": ["Crea la etiqueta de historia [iniciado].", "Con consentimiento de Ogolai, concede [miembro honorario]."]}
+      "roles": [
+        "Obstáculo",
+        "Peligro"
       ],
-      "secretos": [{"nombre": "Volver a intentarlo", "descripcion": "No es para débiles de corazón, pero el fracaso no impide un nuevo intento."}]
+      "aspecto_en": "Environmental view of a low initiation tunnel cut through a raised mass of cavern stone. Ancient runes cover its exterior and frame the paired openings. Worn ceremonial dolls watch from nearby niches, while darkness swallows the passage midpoint. A faint warm glow from the outer chamber contrasts with cold black stone, suggesting inward visions, solitude and confronting personal fear. No people.",
+      "descripcion": "Rito de adultez que enfrenta al iniciado con sus miedos, soledad y debilidades. En el punto medio, resistir el agotamiento y afrontar las visiones son acciones arriesgadas. Un éxito permite seguir; un fallo impone [bloqueado-1] y obliga a volver por la entrada. Si el iniciado insiste pese al bloqueo y vuelve a fallar, queda [inconsciente-6] durante varias horas. Superar las visiones permite salir por el otro extremo. Puede volver a intentarse.",
+      "limites": [
+        {
+          "nombre": "atravesado",
+          "valor": 1,
+          "consecuencia": "El iniciado sale por el otro extremo tras superar las visiones."
+        },
+        {
+          "nombre": "bloqueado",
+          "valor": 1,
+          "consecuencia": "No puede avanzar y debe regresar por donde entró."
+        }
+      ],
+      "etiquetas": [
+        "runas",
+        "visiones",
+        "soledad",
+        "miedo"
+      ],
+      "rasgos": [
+        {
+          "nombre": "Ofrenda de infancia",
+          "descripcion": "El joven ofrece una muñeca como símbolo de su infancia; su familia espera al otro extremo."
+        }
+      ],
+      "amenazas": [
+        {
+          "nombre": "Visión de terror",
+          "descripcion": "Un fallo al resistir el agotamiento o afrontar las visiones impide continuar.",
+          "consecuencias": [
+            "Inflige [bloqueado-1].",
+            "Obliga a retirarse por la entrada."
+          ]
+        },
+        {
+          "nombre": "Colapso mental",
+          "descripcion": "Insistir pese al bloqueo y volver a fallar provoca un colapso.",
+          "consecuencias": [
+            "Inflige [inconsciente-6] durante varias horas."
+          ]
+        },
+        {
+          "nombre": "Superación",
+          "descripcion": "Superar las visiones permite atravesar el túnel.",
+          "consecuencias": [
+            "Crea la etiqueta de historia [iniciado].",
+            "Con consentimiento de Ogolai, concede [miembro honorario]."
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Volver a intentarlo",
+          "descripcion": "No es para débiles de corazón, pero el fracaso no impide un nuevo intento."
+        }
+      ]
     },
     {
       "slug": "chwingas-curiosos",
       "nombre": "Los cuatro chwingas",
       "nivel": 1,
-      "poderio": [{"nivel": "origin", "aspecto": "curiosidad y dones de espíritus diminutos"}],
-      "roles": ["Apoyo"],
+      "poderio": [
+        {
+          "nivel": "origin",
+          "aspecto": "curiosidad y dones de espíritus diminutos"
+        }
+      ],
+      "roles": [
+        "Apoyo"
+      ],
       "aspecto_en": "Full body group portrait of four tiny masked nature spirits standing among frost covered dragon bones. A white mask bears a dark eye triangle; another has concentric blue rings and a pine cone comb. Curled black antennae distinguish the third, while pine needles clothe the fourth. Their energetic, inquisitive poses suggest playful fascination rather than aggression, in pale blue winter light.",
       "descripcion": "Espíritus curiosos que siguen a los visitantes cercanos a los huesos. No combaten y los goliats los ignoran. Cada uno tiene una fascinación distinta, descrita en su ficha de PNJ.",
-      "limites": [{"nombre": "ahuyentado", "valor": 3, "consecuencia": "Los chwingas abandonan al grupo."}],
-      "etiquetas": ["chwinga", "fascinación", "don sobrenatural"],
-      "rasgos": [{"nombre": "Tres días de atención", "descripcion": "Satisfacer la fascinación de un chwinga una vez al día durante tres días consecutivos permite recibir su don antes de que parta."}],
-      "amenazas": [
-        {"nombre": "Robo juguetón", "descripcion": "Sus travesuras apartan la atención de los visitantes.", "consecuencias": ["Inflige [distraído-1]."]},
-        {"nombre": "Don sobrenatural", "descripcion": "Recompensa la atención continuada a su fascinación; consulta los dones de chwinga del apéndice C.", "consecuencias": ["Crea la etiqueta de historia [don de chwinga]."]}
+      "limites": [
+        {
+          "nombre": "ahuyentado",
+          "valor": 3,
+          "consecuencia": "Los chwingas abandonan al grupo."
+        }
       ],
-      "secretos": [{"nombre": "Sin hostilidad", "descripcion": "Se van si se les ignora o agrede; nunca combaten."}]
+      "etiquetas": [
+        "chwinga",
+        "fascinación",
+        "don sobrenatural"
+      ],
+      "rasgos": [
+        {
+          "nombre": "Tres días de atención",
+          "descripcion": "Satisfacer la fascinación de un chwinga una vez al día durante tres días consecutivos permite recibir su don antes de que parta."
+        }
+      ],
+      "amenazas": [
+        {
+          "nombre": "Robo juguetón",
+          "descripcion": "Sus travesuras apartan la atención de los visitantes.",
+          "consecuencias": [
+            "Inflige [distraído-1]."
+          ]
+        },
+        {
+          "nombre": "Don sobrenatural",
+          "descripcion": "Recompensa la atención continuada a su fascinación mediante la etiqueta de historia [don de chwinga].",
+          "consecuencias": [
+            "Crea la etiqueta de historia [don de chwinga]."
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Sin hostilidad",
+          "descripcion": "Se van si se les ignora o agrede; nunca combaten."
+        }
+      ]
     },
     {
       "slug": "tormenta-de-la-columna",
       "nombre": "Tormenta de la Columna del Mundo",
       "nivel": 2,
       "poderio": [],
-      "roles": ["Peligro", "Obstáculo"],
+      "roles": [
+        "Peligro",
+        "Obstáculo"
+      ],
       "aspecto_en": "Environmental wide view of a brutal snowstorm sweeping steep mountain slopes in the Spine of the World. Blowing snow erases tracks and obscures jagged cliffs, while an unstable mass of snow hangs above a narrow route. Ice glazed stone and deep drifts dominate a nearly monochrome blue white palette. Diffuse grey daylight offers little visibility. No people or creatures.",
       "descripcion": "Las tormentas hacen peligroso el viaje por la Columna del Mundo y entre asentamientos. El frío, la desorientación y las avalanchas amenazan a quienes avanzan sin protección. Usa las reglas de viaje por montaña.",
-      "limites": [{"nombre": "superada", "valor": 1, "consecuencia": "El grupo deja atrás el peligro de la tormenta."}],
-      "etiquetas": ["ventisca", "frío extremo", "montaña", "desorientación"],
-      "rasgos": [{"nombre": "Rastro de cazadores", "descripcion": "Las huellas frescas de dos goliats facilitan encontrar la guarida."}],
-      "amenazas": [
-        {"nombre": "Frío extremo", "descripcion": "El frío alcanza a quienes no se protejan.", "consecuencias": ["Inflige [helado-2]."]},
-        {"nombre": "Pérdida", "descripcion": "La nieve borra las referencias del camino.", "consecuencias": ["Inflige [perdido-2] y [agotado-1]."]},
-        {"nombre": "Avalancha", "descripcion": "Una masa de nieve barre la ruta.", "consecuencias": ["Inflige [herido-3] y [sepultado-2]."]}
+      "limites": [
+        {
+          "nombre": "superada",
+          "valor": 1,
+          "consecuencia": "El grupo deja atrás el peligro de la tormenta."
+        }
       ],
-      "secretos": [{"nombre": "Protección montañesa", "descripcion": "El refugio, la ropa de abrigo y los guías goliat reducen los estados."}]
+      "etiquetas": [
+        "ventisca",
+        "frío extremo",
+        "montaña",
+        "desorientación"
+      ],
+      "rasgos": [
+        {
+          "nombre": "Rastro de cazadores",
+          "descripcion": "Las huellas frescas de dos goliats facilitan encontrar la guarida."
+        }
+      ],
+      "amenazas": [
+        {
+          "nombre": "Frío extremo",
+          "descripcion": "El frío alcanza a quienes no se protejan.",
+          "consecuencias": [
+            "Inflige [helado-2]."
+          ]
+        },
+        {
+          "nombre": "Pérdida",
+          "descripcion": "La nieve borra las referencias del camino.",
+          "consecuencias": [
+            "Inflige [perdido-2] y [agotado-1]."
+          ]
+        },
+        {
+          "nombre": "Avalancha",
+          "descripcion": "Una masa de nieve barre la ruta.",
+          "consecuencias": [
+            "Inflige [herido-3] y [sepultado-2]."
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Protección montañesa",
+          "descripcion": "El refugio, la ropa de abrigo y los guías goliat reducen los estados."
+        }
+      ]
     }
   ],
   "objetos": [
-    {"slug": "huesos-de-stygiarus", "nombre": "Huesos de Stygiarus", "etiqueta": "huesos de dragón blanco", "descripcion": "Etiqueta de historia. Restos del dragón blanco adulto abatido por los goliats; sirven como componente de rituales de frío y para el encargo de Dannika Acerogris.", "imagen_en": "Isolated ancient white dragon bones, massive curved rib and weathered vertebrae coated in fine frost, pale ivory surfaces with subtle cracks, cool neutral lighting, detailed fantasy object study, no lettering."},
-    {"slug": "capa-de-ogolai", "nombre": "Capa de Ogolai", "etiqueta": "capa de protección", "descripcion": "Etiqueta de mochila. Capa blanca de piel de cabra montesa que proporciona protección a Ogolai.", "imagen_en": "Isolated white mountain goat hide cloak, thick winter fur and sturdy practical fastening, heavy natural folds, softly worn texture, neutral studio light emphasizing protective warmth, fantasy equipment illustration, no lettering."},
-    {"slug": "hacha-de-ogolai", "nombre": "Gran hacha de Ogolai", "etiqueta": "gran hacha de hueso de dragón", "descripcion": "Etiqueta de mochila. Gran hacha de Ogolai con mango de hueso de dragón blanco.", "imagen_en": "Isolated massive goliath greataxe with a pale white dragon bone haft and a heavy functional metal head, weathered grip, rugged craftsmanship, neutral lighting, detailed fantasy weapon study, no lettering."},
-    {"slug": "reserva-del-clan", "nombre": "Reserva del clan", "etiqueta": "bolsa de gemas", "descripcion": "Etiqueta de mochila. Reserva para los miembros del clan que necesitan moneda en Diez Ciudades: 350 po, 1.177 pp y 1.850 pc; nueve ágatas anilladas de 10 po, cuatro cornalinas de 50 po, dos espinelas de 100 po y un topacio de 500 po. Tomarla sin permiso enfurece a Ogolai.", "imagen_en": "Isolated mixed gold, silver and copper coins beside an open gem pouch containing nine banded agates, four carnelians, two spinels and one topaz, detailed mineral textures, warm neutral lighting, no lettering."},
-    {"slug": "gema-elemental-amarilla", "nombre": "Colgante de diamante amarillo", "etiqueta": "gema elemental de diamante amarillo", "descripcion": "Etiqueta de mochila. Colgante de cadena de oro de 25 po incrustado con un diamante amarillo que es una gema elemental. Forma parte del tesoro; los goliats desconocen su naturaleza mágica.", "imagen_en": "Isolated gold chain pendant set with a faceted yellow diamond, modest crafted gold setting, subtle natural reflections within the stone, neutral background and soft warm lighting, fantasy treasure study, no lettering."},
-    {"slug": "armas-de-forja", "nombre": "Armas de la forja", "etiqueta": "armas de forja goliat", "descripcion": "Etiqueta de mochila. Trece jabalinas de metal y tres grandes hachas pesadas, todas no mágicas, en la armería de Wayani.", "imagen_en": "Isolated armoury collection of thirteen sturdy metal javelins and three heavy goliath greataxes, practical forged steel with restrained wear, neatly arranged, warm forge reflections, detailed fantasy equipment study, no lettering."},
-    {"slug": "herramientas-de-herreria", "nombre": "Herramientas de herrería", "etiqueta": "kit de herrería", "descripcion": "Etiqueta de mochila. Herramientas del oficio de Wayani, que emplea técnicas aprendidas de un herrero enano.", "imagen_en": "Isolated smithing tool kit with a heavy hammer, iron tongs and practical metalworking implements, worn handles and soot darkened surfaces, neatly arranged under warm workshop light, detailed fantasy equipment illustration, no lettering."},
-    {"slug": "munecas-ceremoniales", "nombre": "Muñecas ceremoniales", "etiqueta": "muñeca de iniciación", "descripcion": "Etiqueta de historia. Muñecas que simbolizan la infancia y se ofrecen antes de atravesar el túnel hacia la adultez.", "imagen_en": "Isolated handmade ceremonial cloth doll, simple stitched features, green dyed fabric pieces and visibly hand sewn seams, worn soft texture, humble mountain craft, gentle neutral lighting, fantasy ritual object, no lettering."},
-    {"slug": "don-de-chwinga", "nombre": "Don de chwinga", "etiqueta": "don de chwinga", "descripcion": "Etiqueta de historia. Don sobrenatural concedido tras satisfacer la fascinación de un chwinga una vez al día durante tres días consecutivos; consulta los encantamientos del apéndice C y los Dones sobrenaturales de la Guía del Dungeon Master.", "imagen_en": "Symbolic isolated depiction of a tiny shimmering supernatural blessing, delicate pale light curling around a pine needle and snow crystal, restrained woodland magic, soft blue and gold glow, no physical container, no lettering."}
+    {
+      "slug": "huesos-de-stygiarus",
+      "nombre": "Huesos de Stygiarus",
+      "etiqueta": "huesos de dragón blanco",
+      "descripcion": "Etiqueta de historia. Restos del dragón blanco adulto abatido por los goliats; sirven como componente de rituales de frío y para el encargo de Dannika Acerogris.",
+      "imagen_en": "Isolated ancient white dragon bones, massive curved rib and weathered vertebrae coated in fine frost, pale ivory surfaces with subtle cracks, cool neutral lighting, detailed fantasy object study, no lettering."
+    },
+    {
+      "slug": "capa-de-ogolai",
+      "nombre": "Capa de Ogolai",
+      "etiqueta": "capa de protección",
+      "descripcion": "Etiqueta de mochila. Capa blanca de piel de cabra montesa que proporciona protección a Ogolai.",
+      "imagen_en": "Isolated white mountain goat hide cloak, thick winter fur and sturdy practical fastening, heavy natural folds, softly worn texture, neutral studio light emphasizing protective warmth, fantasy equipment illustration, no lettering."
+    },
+    {
+      "slug": "hacha-de-ogolai",
+      "nombre": "Gran hacha de Ogolai",
+      "etiqueta": "gran hacha de hueso de dragón",
+      "descripcion": "Etiqueta de mochila. Gran hacha de Ogolai con mango de hueso de dragón blanco.",
+      "imagen_en": "Isolated massive goliath greataxe with a pale white dragon bone haft and a heavy functional metal head, weathered grip, rugged craftsmanship, neutral lighting, detailed fantasy weapon study, no lettering."
+    },
+    {
+      "slug": "reserva-del-clan",
+      "nombre": "Reserva del clan",
+      "etiqueta": "bolsa de gemas",
+      "descripcion": "Etiqueta de mochila. Reserva para los miembros del clan que necesitan moneda en Diez Ciudades: [bolsa de monedas]; nueve ágatas anilladas, cuatro cornalinas, dos espinelas y un topacio. Tomarla sin permiso enfurece a Ogolai.",
+      "imagen_en": "Isolated mixed gold, silver and copper coins beside an open gem pouch containing nine banded agates, four carnelians, two spinels and one topaz, detailed mineral textures, warm neutral lighting, no lettering."
+    },
+    {
+      "slug": "gema-elemental-amarilla",
+      "nombre": "Colgante de diamante amarillo",
+      "etiqueta": "gema elemental de diamante amarillo",
+      "descripcion": "Etiqueta de mochila. Colgante de cadena de oro incrustado con un diamante amarillo que es una gema elemental. Forma parte del tesoro; los goliats desconocen su naturaleza mágica.",
+      "imagen_en": "Isolated gold chain pendant set with a faceted yellow diamond, modest crafted gold setting, subtle natural reflections within the stone, neutral background and soft warm lighting, fantasy treasure study, no lettering."
+    },
+    {
+      "slug": "armas-de-forja",
+      "nombre": "Armas de la forja",
+      "etiqueta": "armas de forja goliat",
+      "descripcion": "Etiqueta de mochila. Trece jabalinas de metal y tres grandes hachas pesadas, todas no mágicas, en la armería de Wayani.",
+      "imagen_en": "Isolated armoury collection of thirteen sturdy metal javelins and three heavy goliath greataxes, practical forged steel with restrained wear, neatly arranged, warm forge reflections, detailed fantasy equipment study, no lettering."
+    },
+    {
+      "slug": "herramientas-de-herreria",
+      "nombre": "Herramientas de herrería",
+      "etiqueta": "kit de herrería",
+      "descripcion": "Etiqueta de mochila. Herramientas del oficio de Wayani, que emplea técnicas aprendidas de un herrero enano.",
+      "imagen_en": "Isolated smithing tool kit with a heavy hammer, iron tongs and practical metalworking implements, worn handles and soot darkened surfaces, neatly arranged under warm workshop light, detailed fantasy equipment illustration, no lettering."
+    },
+    {
+      "slug": "munecas-ceremoniales",
+      "nombre": "Muñecas ceremoniales",
+      "etiqueta": "muñeca de iniciación",
+      "descripcion": "Etiqueta de historia. Muñecas que simbolizan la infancia y se ofrecen antes de atravesar el túnel hacia la adultez.",
+      "imagen_en": "Isolated handmade ceremonial cloth doll, simple stitched features, green dyed fabric pieces and visibly hand sewn seams, worn soft texture, humble mountain craft, gentle neutral lighting, fantasy ritual object, no lettering."
+    },
+    {
+      "slug": "don-de-chwinga",
+      "nombre": "Don de chwinga",
+      "etiqueta": "don de chwinga",
+      "descripcion": "Etiqueta de historia. Don sobrenatural concedido tras satisfacer la fascinación de un chwinga una vez al día durante tres días consecutivos mediante [don de chwinga].",
+      "imagen_en": "Symbolic isolated depiction of a tiny shimmering supernatural blessing, delicate pale light curling around a pine needle and snow crystal, restrained woodland magic, soft blue and gold glow, no physical container, no lettering."
+    }
   ],
   "ayudas": [
-    {"slug": "esquema-de-las-cuevas", "titulo": "Esquema de Peña Perdición de Sierpes", "tipo": "mapa", "texto": "PEÑA PERDICIÓN DE SIERPES\n\nW1. Entrada: huesos de Stygiarus y chwingas. Al este, escalones hacia W2.\nW2. Cancha de pelota de cabra: quince pilares y gradas. El túnel sobre las gradas conduce a W6.\nW3. Armería: fragua, yunque y armas.\nW4. Túnel de iniciación: dos aberturas, runas y muñecas ceremoniales.\nW5. Salón principal: pozo central y zona elevada al sur donde recibe Ogolai.\nW6. Cuevas privadas: aposentos de la jefa y de los mejores guerreros; cueva del norte para la aarakocra herida y cueva del sur para la reserva del clan.\nW7. Cueva del festín: hoguera rectangular, comidas y lucha libre.", "fondo_en": "Blank rough parchment for a schematic cave map, pale worn surface, faint natural creases, slightly uneven edges, ample empty central space, soft neutral lighting, no writing, no symbols, no drawn routes."},
-    {"slug": "advertencia-del-tunel", "titulo": "Advertencia del túnel de iniciación", "tipo": "nota", "texto": "El túnel no es para débiles de corazón. Quien se arrastra por él se enfrenta a sus miedos, a la soledad y a sus propias debilidades.\n\nLos jóvenes ofrecen una muñeca, símbolo de su infancia, y sus familias esperan al otro extremo. No todos logran atravesarlo a la primera. Si no podéis avanzar, regresad por donde habéis entrado: podréis volver a intentarlo. Las visiones pueden sumiros en una profunda inconsciencia.\n\nQuien supera la prueba aprende algo de su propio carácter. Solo con el consentimiento de Ogolai podrá ser reconocido como miembro honorario del clan.", "fondo_en": "Blank piece of coarse handmade paper suitable for a ritual warning, subtle fibre texture and worn edges, warm firelit tint, wide empty writing area, no text, no markings, no illustrations."}
+    {
+      "slug": "esquema-de-las-cuevas",
+      "titulo": "Esquema de Peña Perdición de Sierpes",
+      "tipo": "mapa",
+      "texto": "PEÑA PERDICIÓN DE SIERPES\n\nW1. Entrada: huesos de Stygiarus y chwingas. Al este, escalones hacia W2.\nW2. Cancha de pelota de cabra: quince pilares y gradas. El túnel sobre las gradas conduce a W6.\nW3. Armería: fragua, yunque y armas.\nW4. Túnel de iniciación: dos aberturas, runas y muñecas ceremoniales.\nW5. Salón principal: pozo central y zona elevada al sur donde recibe Ogolai.\nW6. Cuevas privadas: aposentos de la jefa y de los mejores guerreros; cueva del norte para la aarakocra herida y cueva del sur para la reserva del clan.\nW7. Cueva del festín: hoguera rectangular, comidas y lucha libre.",
+      "fondo_en": "Blank rough parchment for a schematic cave map, pale worn surface, faint natural creases, slightly uneven edges, ample empty central space, soft neutral lighting, no writing, no symbols, no drawn routes."
+    },
+    {
+      "slug": "advertencia-del-tunel",
+      "titulo": "Advertencia del túnel de iniciación",
+      "tipo": "nota",
+      "texto": "El túnel no es para débiles de corazón. Quien se arrastra por él se enfrenta a sus miedos, a la soledad y a sus propias debilidades.\n\nLos jóvenes ofrecen una muñeca, símbolo de su infancia, y sus familias esperan al otro extremo. No todos logran atravesarlo a la primera. Si no podéis avanzar, regresad por donde habéis entrado: podréis volver a intentarlo. Las visiones pueden sumiros en una profunda inconsciencia.\n\nQuien supera la prueba aprende algo de su propio carácter. Solo con el consentimiento de Ogolai podrá ser reconocido como miembro honorario del clan.",
+      "fondo_en": "Blank piece of coarse handmade paper suitable for a ritual warning, subtle fibre texture and worn edges, warm firelit tint, wide empty writing area, no text, no markings, no illustrations."
+    }
   ],
   "hitos": [
     "Ganar la confianza de Ogolai y la hospitalidad del clan, con posible acceso autorizado a su reserva.",
     "Curar el ala de Sikki-kree, obtener el respeto goliat y la gratitud de los aarakocra con un favor o [aliado aarakocra].",
-    "Encontrar a Kapanuk, posiblemente en X28 de la fortaleza de Xardorok, y obtener el favor de Ogolai como hito de Gesta.",
+    "Encontrar a Kapanuk, posiblemente en la fortaleza de Xardorok, y obtener el favor de Ogolai como hito de Gesta.",
     "Visitar ambos clanes y mediar la enemistad con Torre del Cielo; el punto de inflexión llega cuando Ogolai ofrece comida a Arn. Lograr [paz entre clanes goliat] constituye un hito de Gesta.",
     "Superar el túnel de runas y, con permiso de Ogolai, recibir [miembro honorario].",
     "Satisfacer la fascinación de un chwinga durante tres días consecutivos y recibir [don de chwinga].",
@@ -351,9 +782,21 @@
     "Conseguir huesos de Stygiarus para el encargo de Dannika Acerogris."
   ],
   "relojes": [
-    {"nombre": "Fascinación del chwinga del triángulo: días consecutivos", "segmentos": 3},
-    {"nombre": "Fascinación del chwinga de los anillos: días consecutivos", "segmentos": 3},
-    {"nombre": "Fascinación del chwinga de las antenas: días consecutivos", "segmentos": 3},
-    {"nombre": "Fascinación del chwinga de las agujas: días consecutivos", "segmentos": 3}
+    {
+      "nombre": "Fascinación del chwinga del triángulo: días consecutivos",
+      "segmentos": 3
+    },
+    {
+      "nombre": "Fascinación del chwinga de los anillos: días consecutivos",
+      "segmentos": 3
+    },
+    {
+      "nombre": "Fascinación del chwinga de las antenas: días consecutivos",
+      "segmentos": 3
+    },
+    {
+      "nombre": "Fascinación del chwinga de las agujas: días consecutivos",
+      "segmentos": 3
+    }
   ]
 }

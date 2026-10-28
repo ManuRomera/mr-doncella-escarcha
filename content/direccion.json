@@ -418,15 +418,15 @@
      "label": "Puerto Este: Maud liberada"
     },
     {
-     "id": "3c118c4592",
+     "id": "5ad6152754",
      "label": "Puerto Este: Caldero compartido"
     },
     {
-     "id": "ed8d777123",
+     "id": "43eafd022b",
      "label": "Puerto Este: Robo zhentarim impedido"
     },
     {
-     "id": "19f02a0154",
+     "id": "2fd6df521b",
      "label": "Puerto Este: Duergar detenidos"
     },
     {
@@ -442,8 +442,8 @@
      "label": "Puerto Este: Salvar a un anfitrión poseído puede ser un hito de una Gesta vinculada al cuidado o al valor."
     },
     {
-     "id": "a772e90dd6",
-     "label": "Puerto Este: Descubrir y neutralizar el mascarón profanado sin caer en [paranoia de Auril-3]."
+     "id": "3d6b13bd27",
+     "label": "Puerto Este: Descubrir y neutralizar el mascarón profanado sin caer en [paranoia de auril-3]."
     },
     {
      "id": "a0ab9b66c2",
@@ -566,8 +566,8 @@
      "label": "Termalaine: Una hermosa mina: Reconocer estos logros solo cuando encajen con las Gestas de los temas de los Héroes y la historia de la Compañía, sin avances automáticos."
     },
     {
-     "id": "993431e56e",
-     "label": "El Valle del Viento Helado: Completar con éxito la expedición de aceite y obtener [reserva de aceite para Bryn Shander] o [favor de Helka]."
+     "id": "9ccff78df1",
+     "label": "El Valle del Viento Helado: Completar con éxito la expedición de aceite y obtener [reserva de aceite para bryn shander] o [favor de helka]."
     },
     {
      "id": "d06100fdcb",
@@ -618,8 +618,8 @@
      "label": "El Valle del Viento Helado: Sobrevivir a un encuentro cercano con Arveiaturace."
     },
     {
-     "id": "b7bdd3966e",
-     "label": "El Valle del Viento Helado: Explorar el valle durante dos o tres sesiones o neutralizar amenazas de dos o tres lugares peligrosos, según la progresión elegida; desde nivel 7 estos encuentros dejan de conceder niveles."
+     "id": "93663e47be",
+     "label": "El Valle del Viento Helado: Explorar el valle durante dos o tres sesiones o neutralizar amenazas de dos o tres lugares peligrosos, según la progresión elegida; cuando los Héroes ya sean veteranos con temas de Aventura, estos encuentros proporcionan favores y reputación."
     },
     {
      "id": "7d012bab0e",
@@ -662,7 +662,7 @@
      "label": "La Cabaña Negra: Recibir la bendición de Lathander"
     },
     {
-     "id": "1430849cfb",
+     "id": "e591828286",
      "label": "La Cabaña Negra: Obtener la Bendición del Señor de la Mañana para cada Héroe que ayudó al espíritu"
     },
     {
@@ -702,8 +702,8 @@
      "label": "La Cueva de los Berserkers: Devolver el anzuelo de Nabira Moarskull a su familia y ofrecer a Ahmi un regalo de cumpleaños."
     },
     {
-     "id": "d5a2d2cc09",
-     "label": "La Cueva de los Berserkers: Apagar temporalmente el brasero con disipar magia o extinguirlo para siempre con moldear piedra."
+     "id": "6054398da9",
+     "label": "La Cueva de los Berserkers: Apagar temporalmente el brasero con deshacer el encantamiento o extinguirlo para siempre con transformar mágicamente la piedra."
     },
     {
      "id": "e7a5f1339b",
@@ -746,8 +746,8 @@
      "label": "Id Ascendente: Entregar un psicocristal y permitir la reactivación temporal de la propulsión."
     },
     {
-     "id": "271d191589",
-     "label": "Id Ascendente: Reparar el soporte vital, ganar 24 horas adicionales y crear la etiqueta de historia soporte vital estabilizado."
+     "id": "d006d206e2",
+     "label": "Id Ascendente: Reparar el soporte vital, ganar 24 horas adicionales y crear la etiqueta de historia [soporte vital estabilizado]."
     },
     {
      "id": "11220e2df9",
@@ -782,7 +782,7 @@
      "label": "Karkolohk: Entregar la cabeza de Yarb-Gnock a Markham Southwell y obtener un favor en Bryn Shander."
     },
     {
-     "id": "42917f2f3b",
+     "id": "4768347642",
      "label": "Karkolohk: Firmar la paz y entregar la nota al Consejo"
     },
     {
@@ -790,7 +790,7 @@
      "label": "Karkolohk: Ayudar a Spellix a huir pese a la persecución goblin y ganar [aliado gnomo]."
     },
     {
-     "id": "a404100cff",
+     "id": "826068d9bc",
      "label": "Karkolohk: Desenmascarar al jefe y afrontar el motín, el chantaje o la posible ejecución"
     },
     {
@@ -798,8 +798,8 @@
      "label": "Karkolohk: Activar y recuperar al guardián del escudo"
     },
     {
-     "id": "1eb1e77154",
-     "label": "Karkolohk: Recuperar el tesoro de J5 y dar uso a sus objetos como etiquetas de mochila o hitos de Gesta."
+     "id": "9e9f6864b7",
+     "label": "Karkolohk: Recuperar el tesoro del Concilio de los Jarls y dar uso a sus objetos como etiquetas de mochila o hitos de Gesta."
     },
     {
      "id": "b2ca9bd69c",
@@ -906,8 +906,8 @@
      "label": "Refugio Torre del Cielo: Ayudar a la cría a superar su miedo y obtener confianza de Rahi."
     },
     {
-     "id": "e5172b6293",
-     "label": "Refugio Torre del Cielo: Como Héroe goliat, completar un año de aprendizaje y superar la prueba de doma para vincularse a un grifo de por vida; será montable al tercer año."
+     "id": "ff4fcdc15e",
+     "label": "Refugio Torre del Cielo: Como Héroe goliat, completar un año de aprendizaje y afianzar el vínculo de por vida con un grifo mediante los cuidados aprendidos; será montable al tercer año."
     },
     {
      "id": "257d04725a",
@@ -918,8 +918,8 @@
      "label": "Peña Perdición de Sierpes: Curar el ala de Sikki-kree, obtener el respeto goliat y la gratitud de los aarakocra con un favor o [aliado aarakocra]."
     },
     {
-     "id": "81fc18cf83",
-     "label": "Peña Perdición de Sierpes: Encontrar a Kapanuk, posiblemente en X28 de la fortaleza de Xardorok, y obtener el favor de Ogolai como hito de Gesta."
+     "id": "adc4f826b2",
+     "label": "Peña Perdición de Sierpes: Encontrar a Kapanuk, posiblemente en la fortaleza de Xardorok, y obtener el favor de Ogolai como hito de Gesta."
     },
     {
      "id": "962890a842",
@@ -1922,7 +1922,7 @@
      "label": "Rumores de Diez Ciudades"
     }
    ],
-   "notes": "Cada villa es independiente y elige a su portavoz; el Consejo se reúne con poca frecuencia en este salón para asuntos comunes y disputas entre asentamientos. Bryn Shander empezó como puesto comercial sobre una colina y se convirtió en refugio amurallado para toda Diez Ciudades. Unir intereses mediante hechos comprobados y vínculos puede crear [acuerdo entre villas]; fallar puede generar [cada villa por su cuenta]. Una sesión concreta del Consejo es una propuesta de escena, no un acontecimiento fechado.",
+   "notes": "Cada villa es independiente y elige a su portavoz; el Consejo se reúne con poca frecuencia en este salón para asuntos comunes y disputas entre asentamientos. Bryn Shander empezó como puesto comercial sobre una colina y se convirtió en refugio amurallado para toda Diez Ciudades. Unir intereses mediante hechos comprobados y vínculos puede crear [acuerdo entre villas]; fallar puede generar [cada villa por su cuenta]. Decide cuándo convocar una sesión del Consejo.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/el-salon-del-concejo-de-bryn-shander.webp"
   },
   {
@@ -2012,7 +2012,7 @@
      "label": "Rumores de Diez Ciudades"
     }
    ],
-   "notes": "Hace poco más de un año comenzaron los sacrificios para apaciguar a Auril y recuperar el verano; todos los portavoces los respaldan como un mal necesario. En Bryn Shander, Puerto Este y Targos se sortea una víctima la noche anterior a la luna nueva; otras villas ofrecen la pesca de un día en estantes a unos 1500 metros del poblado; las que no pueden entregar personas ni comida prohíben encender fuego entre ocaso y alba. Rescatar, persuadir, investigar un sorteo o compartir recursos puede crear [víctima a salvo], [ofrenda sustituida] o [refugio compartido]; el fallo puede activar exposición al frío, perder víveres o provocar violencia. No hay prueba aquí de que los sacrificios funcionen.",
+   "notes": "Hace poco más de un año comenzaron los sacrificios para apaciguar a Auril y recuperar el verano; todos los portavoces los respaldan como un mal necesario. En Bryn Shander, Puerto Este y Targos se sortea una víctima la noche anterior a la luna nueva; otras villas ofrecen la pesca de un día en estantes a unos 1500 metros del poblado; las que no pueden entregar personas ni comida prohíben encender fuego entre ocaso y alba. Rescatar, persuadir, investigar un sorteo o compartir recursos puede crear [víctima a salvo], [ofrenda sustituida] o [refugio compartido]; el fallo puede activar exposición al frío, perder víveres o provocar violencia. No presentes los sacrificios como una garantía de que termine el invierno.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/la-noche-sin-luna.webp"
   },
   {
@@ -3009,7 +3009,7 @@
      "label": "Rumores de los espíritus"
     }
    ],
-   "notes": "Dannika ofrece la recompensa acordada y la linterna para estudiar un chwinga vivo y sin daño; acepta que venga por voluntad propia, ya ha buscado sin éxito en la ciudad de partida y espera cada noche en la taberna local. El frío extremo le asusta y tiene otras tareas de investigación, de modo que propone visitar otro asentamiento. Negociar con erudita, persuasión o empatía concede [trato de Dannika] y la linterna; fallar crea [desconfianza de Dannika] o reduce el pago a un favor. Las amenazas provocan [asustada-2] y pueden hacer que retire la oferta.",
+   "notes": "Dannika ofrece la recompensa acordada y la linterna para estudiar un chwinga vivo y sin daño; acepta que venga por voluntad propia, ya ha buscado sin éxito en la ciudad de partida y espera cada noche en la taberna local. El frío extremo le asusta y tiene otras tareas de investigación, de modo que propone visitar otro asentamiento. Negociar con erudita, persuasión o empatía concede [trato de dannika] y la linterna; fallar crea [desconfianza de dannika] o reduce el pago a un favor. Las amenazas provocan [asustada-2] y pueden hacer que retire la oferta.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/la-propuesta-de-dannika.webp"
   },
   {
@@ -3129,7 +3129,7 @@
      "label": "Rumores de los espíritus"
     }
    ],
-   "notes": "No hay chwingas en la ciudad de partida: cada nueva ciudad añade una posibilidad acumulada de una de cada cuatro, hasta presencia segura en la cuarta; el Narrador puede elegir directamente el asentamiento. Buscar lleva poco tiempo: la linterna encendida se vuelve verde a menos de 300 pies de un elemental, sin señalar su posición, y gasta una carga de aceite por escena. Persuasión, callejeo o empatía permiten obtener [rumor del pescador] o [avistamiento reciente], mientras fallar crea [desprecio vecinal]; insistir o ayudar también puede proporcionar el mapa. Linterna de rastreo y rastreador conceden [llama verde] y [rastro de elemental]; fallar crea [búsqueda infructuosa] y avanza el reloj o gasta aceite, y el posible [veto de Torrga] dificulta provisiones y alojamiento si se cumple la continuidad de la misión anterior.",
+   "notes": "No hay chwingas en la ciudad de partida: cada nueva ciudad añade una posibilidad acumulada de una de cada cuatro, hasta presencia segura en la cuarta; el Narrador puede elegir directamente el asentamiento. Buscar lleva poco tiempo: la linterna encendida se vuelve verde a menos de 90 metros de un elemental, sin señalar su posición, y gasta una carga de aceite por escena. Persuasión, callejeo o empatía permiten obtener [rumor del pescador] o [avistamiento reciente], mientras fallar crea [desprecio vecinal]; insistir o ayudar también puede proporcionar el mapa. Linterna de rastreo y rastreador conceden [llama verde] y [rastro de elemental]; fallar crea [búsqueda infructuosa] y avanza el reloj o gasta aceite, y el posible [veto de torrga] dificulta provisiones y alojamiento si se cumple la continuidad de la misión anterior.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/de-ciudad-en-ciudad.webp"
   },
   {
@@ -3238,7 +3238,7 @@
      "label": "Rumores de los espíritus"
     }
    ],
-   "notes": "Elva denuncia ventanas abiertas, vajilla movida y cubiertos desaparecidos; no ha visto a los culpables y sospecha de los matorrales. Empatía, paciencia o voz amable dan [confianza de Elva] y acceso al alféizar; burlarse o fallar provoca [sospecha de Elva] y [puerta cerrada]. Observador, rastreador o curiosidad revelan [rastro de chwinga] y [rastros diminutos], frente a [ventana revuelta] y [rastro confuso] al fallar. Rastrear con supervivencia o conocimiento del bosque distingue [tres rastros] y [surcos de arrastre] hacia las coníferas; fallar causa [perdido-2] o [rastro borrado por el viento], pero oído fino o percepción aguda detectan directamente el movimiento entre los árboles.",
+   "notes": "Elva denuncia ventanas abiertas, vajilla movida y cubiertos desaparecidos; no ha visto a los culpables y sospecha de los matorrales. Empatía, paciencia o voz amable dan [confianza de elva] y acceso al alféizar; burlarse o fallar provoca [sospecha de elva] y [puerta cerrada]. Observador, rastreador o curiosidad revelan [rastro de chwinga] y [rastros diminutos], frente a [ventana revuelta] y [rastro confuso] al fallar. Rastrear con supervivencia o conocimiento del bosque distingue [tres rastros] y [surcos de arrastre] hacia las coníferas; fallar causa [perdido-2] o [rastro borrado por el viento], pero oído fino o percepción aguda detectan directamente el movimiento entre los árboles.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/la-cabana-de-elva.webp"
   },
   {
@@ -3455,7 +3455,7 @@
      "label": "Rumores de los espíritus"
     }
    ],
-   "notes": "Un chwinga vivo permite cobrar y conservar la linterna; si viene libre y sin daño, Dannika añade un favor extra y ofrece sus notas o laboratorio, respetando la compañía elegida por el espíritu. Si viene capturado o herido, paga pero pierde confianza, el espíritu queda [asustado-3] y, si está herido, exige liberarlo o curarlo; sin chwinga no paga y puede prolongar el préstamo, mientras su muerte provoca horror, ninguna recompensa y posibles [deuda pendiente] o [reputación manchada]. Honestidad, persuasión o empatía conceden [trato cumplido] y [favor de Dannika]; fallar deja [deuda pendiente] o [reputación manchada], y con confianza o chwinga acompañante acepta observar sin llevárselo. Devolver los cubiertos con respeto gana la confianza de Elva, cobijo, sopa y rumores; Dannika puede volver a pedir huesos de dragón blanco para un estofado mágico, con un recibimiento condicionado por este trato.",
+   "notes": "Un chwinga vivo permite cobrar y conservar la linterna; si viene libre y sin daño, Dannika añade un favor extra y ofrece sus notas o laboratorio, respetando la compañía elegida por el espíritu. Si viene capturado o herido, paga pero pierde confianza, el espíritu queda [asustado-3] y, si está herido, exige liberarlo o curarlo; sin chwinga no paga y puede prolongar el préstamo, mientras su muerte provoca horror, ninguna recompensa y posibles [deuda pendiente] o [reputación manchada]. Honestidad, persuasión o empatía conceden [trato cumplido] y [favor de dannika]; fallar deja [deuda pendiente] o [reputación manchada], y con confianza o chwinga acompañante acepta observar sin llevárselo. Devolver los cubiertos con respeto gana la confianza de Elva, cobijo, sopa y rumores; Dannika puede volver a pedir huesos de dragón blanco para un estofado mágico, con un recibimiento condicionado por este trato.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/el-regreso-a-la-taberna.webp"
   },
   {
@@ -4258,7 +4258,7 @@
      "label": "Heráldica de Bremen"
     }
    ],
-   "notes": "Grynsk paga las truchas, aunque regatea; firmeza o persuasión evitan una paga rebajada. Tali recompensa las notas útiles con el pergamino de amistad animal, su bolsa y su favor; sin notas no hay recompensa. La promesa del plesiosaurio devuelve la pesca, su muerte permite a Ravisin sustituirlo y una retirada solo aplaza la amenaza. Cora puede acudir si investigaron a Huarwar.",
+   "notes": "Grynsk paga las truchas, aunque regatea; firmeza o persuasión evitan una paga rebajada. Tali recompensa las notas útiles con el pergamino para calmar animales, su bolsa y su favor; sin notas no hay recompensa. La promesa del plesiosaurio devuelve la pesca, su muerte permite a Ravisin sustituirlo y una retirada solo aplaza la amenaza. Cora puede acudir si investigaron a Huarwar.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/el-regreso-a-los-muelles.webp"
   },
   {
@@ -4438,7 +4438,7 @@
      "label": "Bryn Shander: lugares de referencia"
     }
    ],
-   "notes": "la villa tiene unos 1.200 habitantes y es el asentamiento más seguro del valle, aunque no el más acogedor. La portavoz Duvessa Shane habla en nombre del Consejo de Oradores y el sheriff Markham Pozosur manda la milicia: hasta 250 soldados y 20 veteranos; Las puertas se cierran al oscurecer y pasan más tiempo cerradas que abiertas. Las valoraciones locales son moderadas en amabilidad, servicios y comodidad: hay de todo, pero nada sobra; Desde aquí se viaja a Puerto Este por el Eastway (unas siete horas y media), a Caer-Dineval (diez y media), a Buenaguamiel (seis), a Targos (dos) y a Termalaine (seis); las monturas y los trineos de perros reducen esos tiempos a la mitad. No hay rivalidades declaradas con otras ciudades, pero sí rumores de sacrificios a Auril en el valle; Si los Héroes causan problemas, la milicia responde con rapidez.",
+   "notes": "la villa tiene unos 1.200 habitantes y es el asentamiento más seguro del valle, aunque no el más acogedor. La portavoz Duvessa Shane habla en nombre del Consejo de Oradores y el sheriff Markham Pozosur manda la milicia: hasta 250 soldados y 20 veteranos; Las puertas se cierran al oscurecer y pasan más tiempo cerradas que abiertas. Las valoraciones locales son moderadas en amabilidad, servicios y comodidad: hay de todo, pero nada sobra; Desde aquí se viaja a Puerto Este por el Camino del Este (unas siete horas y media), a Caer-Dineval (diez y media), a Buenaguamiel (seis), a Targos (dos) y a Termalaine (seis); las monturas y los trineos de perros reducen esos tiempos a la mitad. No hay rivalidades declaradas con otras ciudades, pero sí rumores de sacrificios a Auril en el valle; Si los Héroes causan problemas, la milicia responde con rapidez.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/bryn-shander-la-villa-amurallada.webp"
   },
   {
@@ -4524,7 +4524,7 @@
      "label": "Bryn Shander: lugares de referencia"
     }
    ],
-   "notes": "Garn el Martillo fabrica las hojas más baratas de las Diez Ciudades; los mercenarios veteranos las desprecian por su calidad poco inspiradora, y hay una broma local sobre el infeliz recién llegado que acaba armado con una hoja de Hierro Negro. Su hermana Elza vende suministros de aventura: raciones, ropa de clima frío, picos de hielo y raquetas de nieve. Si los Héroes completan la misión de Hruna, obtienen un descuento del diez por ciento en la tienda. Aquí pueden comprar el equipo necesario para el viaje o descubrir que no llevan lo suficiente.",
+   "notes": "Garn el Martillo fabrica las hojas más baratas de las Diez Ciudades; los mercenarios veteranos las desprecian por su calidad poco inspiradora, y hay una broma local sobre el infeliz recién llegado que acaba armado con una hoja de Hierro Negro. Su hermana Elza vende suministros de aventura: raciones, ropa de clima frío, picos de hielo y raquetas de nieve. Si los Héroes completan la misión de Hruna, obtienen un favor [descuento de hierro negro] en la tienda. Aquí pueden comprar el equipo necesario para el viaje o descubrir que no llevan lo suficiente.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/filos-de-hierro-negro.webp"
   },
   {
@@ -4623,7 +4623,7 @@
      "label": "Bryn Shander: lugares de referencia"
     }
    ],
-   "notes": "Mishann, una aventurera humana retirada, dirige el santuario y espera ver el sol recuperar su lugar sobre el valle. Llama a Amaunator «el Señor de la Mañana» y se enfada cuando la gente lo confunde con Lathander, al que considera un usurpador; Cobre Perilla, un gnomo de las rocas pesimista, alquila el ático y ayuda a regañadientes con las tareas; los dos discuten sin parar. Cobre lleva un traje peludo con capucha hecho por él mismo: da calor, pero lo hace parecer un osito; Si los Héroes hablan con él, les cuenta que está preocupado por Macreadus, un amigo que investiga en una cabaña vieja del valle y trata de construir un dispositivo capaz de terminar con el invierno eterno de la Doncella de Escarcha. Les pide que, si pasan cerca, se asomen a ver cómo está; Es el gancho hacia la Cabaña Negra.",
+   "notes": "Mishann, una aventurera humana retirada, dirige el santuario y espera ver el sol recuperar su lugar sobre el valle. Llama a Amaunator «el Señor de la Mañana» y se enfada cuando la gente lo confunde con Lathander, al que considera un usurpador; Cobre Perilla, un gnomo de las rocas pesimista, alquila el ático y ayuda a regañadientes con las tareas; los dos discuten sin parar. Cobre lleva un traje peludo con capucha hecho por él mismo: da calor, pero lo hace parecer un osito; Si los Héroes hablan con él, les cuenta que está preocupado por Macreadus, un amigo que investiga en una cabaña vieja del valle y trata de construir un dispositivo capaz de terminar con el invierno eterno de la Doncella de la Escarcha. Les pide que, si pasan cerca, se asomen a ver cómo está; Es el gancho hacia la Cabaña Negra.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/santuario-de-la-manana.webp"
   },
   {
@@ -4731,7 +4731,7 @@
      "label": "Bryn Shander: lugares de referencia"
     }
    ],
-   "notes": "el Mirador al Norte es el establecimiento más frecuentado por mercenarios y aventureros, y por tanto el más animado y peligroso de Bryn Shander. Su sala es el mejor lugar de las Diez Ciudades para conseguir clientes, noticias y rumores; quien pase un rato aquí escuchará al menos un rumor, que puede determinarse con la tabla de la página 18; El propietario es Scramsax, un mercenario retirado que conoce bien el ciclo de vida del aventurero. A menudo permite quedarse a crédito a quienes están entre trabajos y luego presenta una factura inflada por intereses cuando llega el siguiente pago. Quien no paga descubre que el viejo mercenario todavía sabe manejar una espada y que no acepta «más tarde» como respuesta; Aquí pueden encontrar a Hruna y sus compañeros, contratar guías o contratar problemas.",
+   "notes": "el Mirador al Norte es el establecimiento más frecuentado por mercenarios y Héroes, y por tanto el más animado y peligroso de Bryn Shander. Su sala es el mejor lugar de las Diez Ciudades para conseguir clientes, noticias y rumores; quien pase un rato aquí escuchará al menos un rumor, que puede determinarse con la tabla; El propietario es Scramsax, un mercenario retirado que conoce bien el ir y venir de los Héroes. A menudo permite quedarse a crédito a quienes están entre trabajos y luego presenta una factura inflada por intereses cuando llega el siguiente pago. Quien no paga descubre que el viejo mercenario todavía sabe manejar una espada y que no acepta «más tarde» como respuesta; Aquí pueden encontrar a Hruna y sus compañeros, contratar guías o contratar problemas.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/el-mirador-al-norte.webp"
   },
   {
@@ -4798,7 +4798,7 @@
      "label": "Bryn Shander: lugares de referencia"
     }
    ],
-   "notes": "la Vieja Mordisquitos fue capturada por el pícaro humano Kintyre y su compañero, un druida que se hacía llamar el Inconformista, en las profundidades heladas de Maer Dualdon. Scramsax la compró y la hizo disecar; Años después, un mago bromista lanzó un hechizo sobre el pez: ahora intenta morder a cualquier criatura que se acerque a menos de cinco pies. De vez en cuando, y al parecer al azar, canta una copla sobre un lugar al que le gusta ir, más arriba del río, cuya ubicación es imposible de saber y que debe yacer bajo la nieve; Si un Héroe tiene el secreto de Cazador del Anillo (apéndice B), el anillo de sello que busca puede estar atascado en la garganta del pez. Scramsax no permitirá que nadie lo manipule sin una compensación generosa y sin garantías de que el trofeo no quedará arruinado; el anillo puede recuperarse sin cirugía; La copla puede entregarse como documento a los jugadores.",
+   "notes": "la Vieja Mordisquitos fue capturada por el pícaro humano Kintyre y su compañero, un druida que se hacía llamar el Inconformista, en las profundidades heladas de Maer Dualdon. Scramsax la compró y la hizo disecar; Años después, un mago bromista lanzó un hechizo sobre el pez: ahora intenta morder a cualquier criatura que se acerque a menos de un metro y medio. De vez en cuando, y al parecer al azar, canta una copla sobre un lugar al que le gusta ir, más arriba del río, cuya ubicación es imposible de saber y que debe yacer bajo la nieve; Si un Héroe tiene el secreto de Cazador del Anillo, el anillo de sello que busca puede estar atascado en la garganta del pez. Scramsax no permitirá que nadie lo manipule sin una compensación generosa y sin garantías de que el trofeo no quedará arruinado; el anillo puede recuperarse sin cirugía; La copla puede entregarse como documento a los jugadores.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/la-vieja-mordisquitos.webp"
   },
   {
@@ -4896,7 +4896,7 @@
      "label": "Bryn Shander: lugares de referencia"
     }
    ],
-   "notes": "Hruna, Korux y Storn son mineros del clan Battlehammer; trabajan en una mina al pie de la Cumbre de Kelvin, de la que sale la mayor parte del hierro de las herrerías de las Diez Ciudades; Hruna lleva la voz cantante; perdió la oreja derecha y dos dedos por congelación. Korux casi no habla y ha perdido varios dedos y la nariz; Storn tiene un miedo terrible a los dragones blancos y no deja de mirar al cielo; Ofrecen una piedra de sangre de cincuenta piezas de oro a cada Héroe, además de la amistad de los enanos del valle. Hruna lleva una bolsa de piel de foca con seis piedras; Korux, quince piezas de oro en una bolsa forrada de piel de yeti; Storn, una cerradura de hierro oxidada que usa como amuleto y cuya llave perdió; Si los Héroes matan a los enanos y les roban, los testigos avisan a la milicia y serán arrestados a menos que huyan de la villa de inmediato. Korux puede pagar las raquetas de nieve si el grupo anda escaso; Si rechazan la misión, los enanos se marchan y buscan ayuda en otro sitio durante un par de días antes de volver a casa; Acepten o no, Hruna señala la ruta hacia la Cumbre de Kelvin: el trineo está a medio camino, en plena tundra.",
+   "notes": "Hruna, Korux y Storn son mineros del clan Battlehammer; trabajan en una mina al pie de la Cumbre de Kelvin, de la que sale la mayor parte del hierro de las herrerías de las Diez Ciudades; Hruna lleva la voz cantante; perdió la oreja derecha y dos dedos por congelación. Korux casi no habla y ha perdido varios dedos y la nariz; Storn tiene un miedo terrible a los dragones blancos y no deja de mirar al cielo; Ofrecen una piedra de sangre de gran valor a cada Héroe, además de la amistad de los enanos del valle. Hruna lleva una bolsa de piel de foca con seis piedras; Korux, una [bolsa de monedas] de cuero forrada de piel de yeti; Storn, una cerradura de hierro oxidada que usa como amuleto y cuya llave perdió; Si los Héroes matan a los enanos y les roban, los testigos avisan a la milicia y serán arrestados a menos que huyan de la villa de inmediato. Korux puede pagar las raquetas de nieve si el grupo anda escaso; Si rechazan la misión, los enanos se marchan y buscan ayuda en otro sitio durante un par de días antes de volver a casa; Acepten o no, Hruna señala la ruta hacia la Cumbre de Kelvin: el trineo está a medio camino, en plena tundra.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/la-mision-de-hruna.webp"
   },
   {
@@ -4986,7 +4986,7 @@
      "label": "Bryn Shander: lugares de referencia"
     }
    ],
-   "notes": "a un par de millas del trineo, la ventisca envuelve al grupo y dura 2d4 horas. Los Héroes pueden esperar o continuar; Si continúan, pueden desviarse, perder el rumbo o separarse (véanse las reglas de ventiscas, página 10). Si esperan, deben encontrar o improvisar refugio y soportar el frío. La ventisca borra las huellas de Oobok y del yeti, pero no las de los goblins, que son más recientes; El Narrador puede usar esta escena para gastar recursos, crear tensión y obligar a elegir entre la prisa y la seguridad.",
+   "notes": "a unos tres kilómetros del trineo, la ventisca envuelve al grupo y dura 2d4 horas. Los Héroes pueden esperar o continuar; Si continúan, pueden desviarse, perder el rumbo o separarse. Si esperan, deben encontrar o improvisar refugio y soportar el frío. La ventisca borra las huellas de Oobok y del yeti, pero no las de los goblins, que son más recientes; El Narrador puede usar esta escena para gastar recursos, crear tensión y obligar a elegir entre la prisa y la seguridad.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/la-ventisca.webp"
   },
   {
@@ -5065,7 +5065,7 @@
      "label": "Bryn Shander: lugares de referencia"
     }
    ],
-   "notes": "el cadáver es Oobok, el enano que murió cuando el yeti atacó al grupo. El yeti se comió los brazos y la mayor parte de los órganos internos, y se llevó la cabeza; Las huellas de Oobok y del yeti han sido borradas por el viento; las que quedan son de goblins. Con una tirada de Sabiduría (Supervivencia) CD 10, los Héroes determinan que son frescas, de la última hora, y que pertenecen a media docena de pequeños humanoides con raquetas de nieve; Las pistas conducen al sur. Si las siguen durante media hora, alcanzan a los goblins, que avanzan lentamente por el peso del trineo; Si fallan la tirada, el rastro es confuso y la ventisca puede borrarlo; el Narrador puede cobrar tiempo, sumar [perdido-1] o permitir otra tirada tras un esfuerzo; el yeti ya se ha marchado y solo reaparece si el Narrador decide usar el desafío opcional.",
+   "notes": "el cadáver es Oobok, el enano que murió cuando el yeti atacó al grupo. El yeti se comió los brazos y la mayor parte de los órganos internos, y se llevó la cabeza; Las huellas de Oobok y del yeti han sido borradas por el viento; las que quedan son de goblins. Sin necesidad de tirar, los Héroes reconocen que son frescas, de la última hora, y que pertenecen a media docena de pequeños humanoides con raquetas de nieve; Las pistas conducen al sur. Si las siguen durante media hora, alcanzan a los goblins, que avanzan lentamente por el peso del trineo; Solo es necesario tirar si siguen el rastro con prisa o bajo la ventisca; con éxito mantienen el rumbo y con fallo pierden tiempo o sufren [perdido-1]; el yeti ya se ha marchado y solo reaparece si el Narrador decide usar el desafío opcional.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/el-cadaver-de-oobok.webp"
   },
   {
@@ -5187,7 +5187,7 @@
      "label": "Bryn Shander: lugares de referencia"
     }
    ],
-   "notes": "los goblins vienen de la fortaleza de Karkolohk; Su halcón explorador vio el trineo abandonado y la jefa, Izobai, envió a seis goblins a apoderarse de la carga mientras ella y dos más se quedaban a proteger el carro y a los osos; Al empezar el encuentro, los Héroes están a 120 pies del trineo y el carro a otros 120 pies; los goblins que tiran del trineo están demasiado distraídos y el grupo tiene sorpresa; El trineo pesa 300 libras y los lingotes añaden 600 más; un solo goblin puede arrastrar unas 240 libras, así que hacen falta al menos cuatro para moverlo. Si son atacados, los goblins se cubren tras el trineo y responden a distancia; En su primer turno, uno sopla un cuerno para alertar a Izobai, que sube al techo del carro con la antorcha y el halcón y observa la batalla; Si ve enemigos a 60 pies del carro, ordena a los dos goblins que están dentro que disparen flechas por los huecos de las paredes; tienen cobertura de tres cuartos; Si caen cinco o más goblins, o si Izobai muere o es capturada, el resto está dispuesto a negociar una tregua, pero los Héroes deben iniciar la conversación. Los goblins renuncian a los lingotes a cambio de sus vidas y su libertad; el invierno los ha dejado miserables y solo quieren volver a casa; Si los Héroes les ofrecen una manta, comida u otro regalo, abandonan el trineo y los dejan pasar; Izobai solo lucha en defensa propia; si la derrota parece inevitable, prende fuego al carro con la antorcha y huye a la tundra con su halcón, su tesoro y los goblins que pueda llevarse; El carro está lleno de camas de paja y arde con rapidez: al inicio del siguiente turno de Izobai, el vehículo es un infierno. Los osos pueden liberarse: una tirada de Sabiduría (Manejar Animales) CD 12 permite acercarse sin enfurecerlos y usar una acción para soltar a uno del arnés; Si falla, ambos osos se vuelven hostiles contra ese Héroe durante el resto del encuentro; Un oso liberado no ataca a quien lo soltó, pero sí a todas las demás criaturas; prefiere comerse a un goblin y los goblins huyen de él; Izobai lleva dos pociones de amistad animal y una bolsa de piel de foca con 13 piezas de platino, 25 de cobre y un silbato de hueso; los demás goblins llevan 1d6 piezas de cobre cada uno en bolsas de piel de foca.",
+   "notes": "los goblins vienen de la fortaleza de Karkolohk; Su halcón explorador vio el trineo abandonado y la jefa, Izobai, envió a seis goblins a apoderarse de la carga mientras ella y dos más se quedaban a proteger el carro y a los osos; Al empezar el encuentro, los Héroes están a 36 metros del trineo y el carro a otros 36 metros; los goblins que tiran del trineo están demasiado distraídos y los Héroes pueden aprovechar la etiqueta [goblins distraídos]; El trineo pesa 150 kg y los lingotes añaden 300 kg más; un solo goblin puede arrastrar unos 120 kg, así que hacen falta al menos cuatro para moverlo. Si son atacados, los goblins se cubren tras el trineo y responden a distancia; Al comenzar la lucha, uno sopla un cuerno para alertar a Izobai, que sube al techo del carro con la antorcha y el halcón y observa la batalla; Si ve enemigos a 18 metros del carro, ordena a los dos goblins que están dentro que disparen flechas por los huecos de las paredes; cuentan con la etiqueta a favor [protegidos por el carro]; Si caen cinco o más goblins, o si Izobai muere o es capturada, el resto está dispuesto a negociar una tregua, pero los Héroes deben iniciar la conversación. Los goblins renuncian a los lingotes a cambio de sus vidas y su libertad; el invierno los ha dejado miserables y solo quieren volver a casa; Si los Héroes les ofrecen una manta, comida u otro regalo, abandonan el trineo y los dejan pasar; Izobai solo lucha en defensa propia; si la derrota parece inevitable, prende fuego al carro con la antorcha y huye a la tundra con su halcón, su tesoro y los goblins que pueda llevarse; El carro está lleno de camas de paja y arde con rapidez: en unos instantes, el vehículo es un infierno. Los osos pueden liberarse: acercarse y abrir un arnés es una acción arriesgada; con éxito, un oso queda [liberado-2]; Con un fallo, ambos osos se vuelven hostiles contra ese Héroe y este sufre [amenazado-2]; Un oso liberado no ataca a quien lo soltó, pero sí a todas las demás criaturas; prefiere comerse a un goblin y los goblins huyen de él; Izobai lleva dos pociones de amistad animal y una bolsa de piel de foca con un [tesoro de izobai] y un silbato de hueso; los demás goblins llevan [calderilla] en bolsas de piel de foca.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/la-caravana-de-izobai.webp"
   },
   {
@@ -5305,7 +5305,7 @@
      "label": "Bryn Shander: lugares de referencia"
     }
    ],
-   "notes": "los trescientos lingotes van envueltos en sacos de arpillera y sujetos al trineo con correas de cuero. Cada uno pesa dos libras y lleva estampado el símbolo de la taza espumeante del clan Battlehammer; para un herrero, cada lingote vale unas cinco piezas de plata; Los Héroes deben devolverlos a Hruna y luego entregarlos en Filos de Hierro Negro. Si lo hacen, reciben las piedras prometidas y el descuento del diez por ciento en la tienda. Si la carga se ha perdido, se ha quemado o ha quedado en manos de los goblins, Hruna negocia un pago parcial o se marcha decepcionada; el Narrador puede convertir la deuda en una etiqueta de historia; Si los Héroes negociaron con los goblins, pueden conservar la tregua como contacto para el futuro.",
+   "notes": "los trescientos lingotes van envueltos en sacos de arpillera y sujetos al trineo con correas de cuero. Cada uno pesa un kilogramo y lleva estampado el símbolo de la taza espumeante del clan Battlehammer; para un herrero, la carga es una [reserva de hierro valiosa]; Los Héroes deben devolverlos a Hruna y luego entregarlos en Filos de Hierro Negro. Si lo hacen, reciben las piedras prometidas y el favor [descuento de hierro negro] en la tienda. Si la carga se ha perdido, se ha quemado o ha quedado en manos de los goblins, Hruna negocia un pago parcial o se marcha decepcionada; el Narrador puede convertir la deuda en una etiqueta de historia; Si los Héroes negociaron con los goblins, pueden conservar la tregua como contacto para el futuro.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/el-regreso-a-bryn-shander.webp"
   },
   {
@@ -7547,7 +7547,7 @@
      "label": "Carta de Durth"
     }
    ],
-   "notes": "Las tres celdas occidentales están vacías. En cada una de las cinco del sur hay un cadáver humano animado, antes habitante de Diez Ciudades o nómada reghed, secuestrado y asesinado por los duergar mediante esporas de un soberano micónido. Salen y atacan a los intrusos; se resuelven como una sola manada. No hay un soberano micónido presente. Investigar los cuerpos permite establecer [víctimas convertidas en sirvientes], pero la fuente no da nombres ni pistas familiares concretas.",
+   "notes": "Las tres celdas occidentales están vacías. En cada una de las cinco del sur hay un cadáver humano animado, antes habitante de Diez Ciudades o nómada reghed, secuestrado y asesinado por los duergar mediante esporas de un soberano micónido. Salen y atacan a los intrusos; se resuelven como una sola manada. No hay un soberano micónido presente. Investigar los cuerpos permite establecer [víctimas convertidas en sirvientes].",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/o7-sirvientes-de-las-esporas.webp"
   },
   {
@@ -9233,7 +9233,7 @@
      "label": "Respuestas en la escarcha"
     }
    ],
-   "notes": "Dzaan, Mago Rojo de Thay, fue reconocido pese a su disfraz, detenido y condenado por asesinar a aventureros del valle que había contratado para una expedición; Waylen ordenó quemarlo e Imdra presenta la ejecución como disuasión. Imdra explica que cuatro pescadores buscaban aguas menos disputadas en una costa difícil por los témpanos y puede prestar un bote para cuatro personas de talla humana o un esquife de un mástil para ocho, que exige experiencia náutica; hay que arrastrarlos hasta aguas abiertas. No puede ofrecer pago ordinario; por petición promete elegir entre dos objetos confiscados a Dzaan. El grupo puede negociar el encargo con [persuasión], [empatía] o [autoridad]; éxito: [barco prestado] y [recompensa pactada]; fallo: [sospecha de Imdra] y [sin apoyo municipal].",
+   "notes": "Dzaan, Mago Rojo de Thay, fue reconocido pese a su disfraz, detenido y condenado por asesinar a un grupo de exploradores del valle que había contratado para una expedición; Waylen ordenó quemarlo e Imdra presenta la ejecución como disuasión. Imdra explica que cuatro pescadores buscaban aguas menos disputadas en una costa difícil por los témpanos y puede prestar un bote para cuatro personas de talla humana o un esquife de un mástil para ocho, que exige experiencia náutica; hay que arrastrarlos hasta aguas abiertas. No puede ofrecer pago ordinario; por petición promete elegir entre dos objetos confiscados a Dzaan. El grupo puede negociar el encargo con [persuasión], [empatía] o [autoridad]; éxito: [barco prestado] y [recompensa pactada]; fallo: [sospecha de imdra] y [sin apoyo municipal].",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/llegada-y-ejecucion-publica.webp"
   },
   {
@@ -9354,7 +9354,7 @@
      "label": "Respuestas en la escarcha"
     }
    ],
-   "notes": "El servicio a Caer-Dineval y Caer-Konig está suspendido por decreto hasta el deshielo; Scython, propietario, pasa el tiempo en la Trucha Húmeda. Buscar rastros con etiquetas de rastreo revela de uno a cuatro recorridos de botas enanas hechos durante las últimas veinticuatro horas: éxito [rastro duergar identificado]; fallo [pisadas confusas], sin revelar aún cantidad ni antigüedad. La cabina mide aproximadamente tres metros de lado. Durth está solo inicialmente; oye la cubierta y se vuelve invisible en una esquina trasera, atacando si lo descubren o intentan llevarse el mapa. Al quedar seriamente herido, se encoge y sale por un agujero de unos diez centímetros situado a metro y medio sobre el hielo y a igual distancia del muelle; escapa hacia la fortaleza paterna y abandona a los demás. Klaska, Ossyl y Zublorr vuelven media hora después de abordar los Héroes, sin chardalyn nuevo, y atacan a intrusos; si hallan a Durth muerto o ausente, abandonan el ferry definitivamente. Registrar la cabina es una acción con [investigación] o [rastreo]; éxito [rastro duergar identificado] y [mapa recuperado]; fallo [pisadas confusas] y [mapa no hallado]; Interrogar a un duergar capturado exige [intimidación], [coacción] o [influencia mágica]; éxito [planes de Xardorok revelados]; fallo [prisioneros herméticos].",
+   "notes": "El servicio a Caer-Dineval y Caer-Konig está suspendido por decreto hasta el deshielo; Scython, propietario, pasa el tiempo en la Trucha Húmeda. Buscar rastros con etiquetas de rastreo revela de uno a cuatro recorridos de botas enanas hechos durante las últimas veinticuatro horas: éxito [rastro duergar identificado]; fallo [pisadas confusas], sin revelar aún cantidad ni antigüedad. La cabina mide aproximadamente tres metros de lado. Durth está solo inicialmente; oye la cubierta y se vuelve invisible en una esquina trasera, atacando si lo descubren o intentan llevarse el mapa. Al quedar seriamente herido, se encoge y sale por un agujero de unos diez centímetros situado a metro y medio sobre el hielo y a igual distancia del muelle; escapa hacia la fortaleza paterna y abandona a los demás. Klaska, Ossyl y Zublorr vuelven media hora después de abordar los Héroes, sin chardalyn nuevo, y atacan a intrusos; si hallan a Durth muerto o ausente, abandonan el ferry definitivamente. Registrar la cabina es una acción con [investigación] o [rastreo]; éxito [rastro duergar identificado] y [mapa recuperado]; fallo [pisadas confusas] y [mapa no hallado]; Interrogar a un duergar capturado exige [intimidación], [coacción] o [influencia mágica]; éxito [planes de xardorok revelados]; fallo [prisioneros herméticos].",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/el-ferry-y-su-cabina-de-popa.webp"
   },
   {
@@ -9463,7 +9463,7 @@
      "label": "Respuestas en la escarcha"
     }
    ],
-   "notes": "Nymetra Myskyn dirige la taberna más grande y ruidosa de la villa; defiende los sacrificios a Auril y considera el invierno una prueba de temple. Scython conversa con facilidad y conoce tres rumores de la tabla general de Diez Ciudades, que no está incluida en esta fuente: prepararlos con ese material si se dispone de él, sin presentarlos aquí como hechos nuevos. Ignora por completo a los ocupantes de su ferry y no puede identificar el destino del chardalyn robado; su casa está a pocas calles. Obtener rumores es una acción social con [tabernero], [charla] o [pregunta directa]; éxito [rumores de Diez Ciudades] y [contacto local]; fallo [charla vacía] y [sospecha de forasteros]; Provocar a Nymetra es una acción social con [desafío] o [insulto]; éxito [furia de Nymetra]; fallo [expulsión de la taberna].",
+   "notes": "Nymetra Myskyn dirige la taberna más grande y ruidosa de la villa; defiende los sacrificios a Auril y considera el invierno una prueba de temple. Scython conversa con facilidad y conoce tres rumores de la tabla general de Diez Ciudades; elígelos al preparar la sesión. Ignora por completo a los ocupantes de su ferry y no puede identificar el destino del chardalyn robado; su casa está a pocas calles. Obtener rumores es una acción social con [tabernero], [charla] o [pregunta directa]; éxito [rumores de diez ciudades] y [contacto local]; fallo [charla vacía] y [sospecha de forasteros]; Provocar a Nymetra es una acción social con [desafío] o [insulto]; éxito [furia de nymetra]; fallo [expulsión de la taberna].",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/la-trucha-humeda.webp"
   },
   {
@@ -9584,7 +9584,7 @@
      "label": "Respuestas en la escarcha"
     }
    ],
-   "notes": "Bartaban regenta la posada; Rinaldo toca el violín y relata que la Dama vaga sobre el lugar donde se ahogó su marido avaro, sugiriendo que un cofre pesado hundió su barca o que el hombre volcó al ver a su esposa muerta: son versiones de una leyenda, no hechos confirmados. Invita a los Héroes que pernocten junto con otros seis huéspedes; si rehúsan, apela a la necesidad de ayuda en tiempos oscuros. Preguntar a cada Héroe cómo participa. Una acción conjunta de empatía, respeto o persuasión obtiene [espíritu receptivo]; el fallo provoca el poltergeist y la huida de los asistentes. Si colabora, responde sinceramente a tres preguntas con frases de dos a cinco palabras escritas en la escarcha, o susurra a través de Rinaldo. Una pregunta necia o cuya respuesta desconozca rompe una ventana. Conoce el culto diabólico del castillo de Caer-Dineval, los enanos grises invisibles de las tres poblaciones del lago y sus refugios en el ferry y el Descanso de Dinev, y el caldero de Maud en las cuevas. No recuerda su muerte ni el destino de su amado. Tras tres respuestas se marcha y desaparece la escarcha; Rinaldo debe completar un descanso en el campamento antes de intentarlo de nuevo. Mediar la sesión es una acción conjunta con [empatía], [respeto] o [persuasión]; éxito [espíritu receptivo] y [tres respuestas]; fallo [poltergeist] y [huéspedes en fuga]; Romper la maldición del mascarón exige [protección espiritual] o [ritual]; éxito [paranoia eliminada]; fallo [paranoia de Auril-3].",
+   "notes": "Bartaban regenta la posada; Rinaldo toca el violín y relata que la Dama vaga sobre el lugar donde se ahogó su marido avaro, sugiriendo que un cofre pesado hundió su barca o que el hombre volcó al ver a su esposa muerta: son versiones de una leyenda, no hechos confirmados. Invita a los Héroes que pernocten junto con otros seis huéspedes; si rehúsan, apela a la necesidad de ayuda en tiempos oscuros. Preguntar a cada Héroe cómo participa. Una acción conjunta de empatía, respeto o persuasión obtiene [espíritu receptivo]; el fallo provoca el poltergeist y la huida de los asistentes. Si colabora, responde sinceramente a tres preguntas con frases de dos a cinco palabras escritas en la escarcha, o susurra a través de Rinaldo. Una pregunta necia o cuya respuesta desconozca rompe una ventana. Conoce el culto diabólico del castillo de Caer-Dineval, los enanos grises invisibles de las tres poblaciones del lago y sus refugios en el ferry y el Descanso de Dinev, y el caldero de Maud en las cuevas. No recuerda su muerte ni el destino de su amado. Tras tres respuestas se marcha y desaparece la escarcha; Rinaldo debe completar un descanso en el campamento antes de intentarlo de nuevo. Mediar la sesión es una acción conjunta con [empatía], [respeto] o [persuasión]; éxito [espíritu receptivo] y [tres respuestas]; fallo [poltergeist] y [huéspedes en fuga]; Romper la maldición del mascarón exige [protección espiritual] o [ritual]; éxito [paranoia eliminada]; fallo [paranoia de auril-3].",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/posada-dama-blanca-y-sesion.webp"
   },
   {
@@ -9696,7 +9696,7 @@
      "label": "Respuestas en la escarcha"
     }
    ],
-   "notes": "Es el Puñado de Cabezas de Jarrete: contiene cuatro remos, cuatro juegos de pesca y doce botellas vacías. Los cuatro pescadores, ebrios, siguieron un aroma de guiso hasta Maud; murieron por obra del esqueleto y fueron descuartizados para el estofado. Al terminar el registro y dirigirse hacia las cuevas aparecen dos arpías hambrientas; si una muere, la otra huye. El alcohol explica la mala decisión de las víctimas, no protege del frío: puede justificar [juicio nublado]. Navegar, arrastrar el barco y mantener el equilibrio requieren etiquetas adecuadas si existe peligro concreto; el éxito aporta [ruta segura], el fallo puede causar [empapado-2] o activar el desafío del lago. Registrar el bote es una acción con [investigación] o [rastreo]; éxito [Puñado de Cabezas de Jarrete] y [huellas hacia la cueva]; fallo [pistas confusas] y [botellas vacías]; Enfrentarse a las arpías es un desafío con [bandada de arpías]; éxito [arpías ahuyentadas]; fallo [fascinado-2] y [aislado en la orilla].",
+   "notes": "Es el Puñado de Cabezas de Jarrete: contiene cuatro remos, cuatro juegos de pesca y doce botellas vacías. Los cuatro pescadores, ebrios, siguieron un aroma de guiso hasta Maud; murieron por obra del esqueleto y fueron descuartizados para el estofado. Al terminar el registro y dirigirse hacia las cuevas aparecen dos arpías hambrientas; si una muere, la otra huye. El alcohol explica la mala decisión de las víctimas, no protege del frío: puede justificar [juicio nublado]. Navegar, arrastrar el barco y mantener el equilibrio requieren etiquetas adecuadas si existe peligro concreto; el éxito aporta [ruta segura], el fallo puede causar [empapado-2] o activar el desafío del lago. Registrar el bote es una acción con [investigación] o [rastreo]; éxito [puñado de cabezas de jarrete] y [huellas hacia la cueva]; fallo [pistas confusas] y [botellas vacías]; Enfrentarse a las arpías es un desafío con [bandada de arpías]; éxito [arpías ahuyentadas]; fallo [fascinado-2] y [aislado en la orilla].",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/lac-dinneshere-y-bote-abandonado.webp"
   },
   {
@@ -9796,7 +9796,7 @@
      "label": "Respuestas en la escarcha"
     }
    ],
-   "notes": "Las tres entradas septentrionales se alcanzan trepando por abundantes apoyos: no hace falta una acción incierta solo por subir. La entrada meridional sigue el antiguo desagüe, congelado en una capa de varios palmos. Rastrear desde ella con éxito crea [cuatro huellas humanas hasta U7]; el fallo deja [rastro perdido], sin borrar otras pistas. U2 contiene un lobo terrible hambriento: darle carne fresca evita el ataque, pero no lo domestica; puede subir o bajar los seis metros hasta su boca sin dificultad. Interpretar los grabados de U3 con historia o tradición da [rito funerario gigante comprendido]: ancianos gigantes se ahogaban en las aguas termales sagradas; fallar deja [grabados sin interpretar]. U4 no contiene criaturas ni tesoro. Los crampones anulan la dificultad ordinaria del suelo resbaladizo; el viento gime y apaga velas, pero por sí solo no hiere. Los huecos naturales dejan pasar luz lunar tenue en noches despejadas. Rastrear desde la entrada sur es una acción con [rastreo] o [investigación]; éxito [cuatro huellas humanas hasta U7]; fallo [rastro perdido]; Interpretar los grabados es una acción con [historia] o [tradición]; éxito [rito funerario gigante comprendido]; fallo [grabados sin interpretar]; Evitar al lobo es una acción con [carne fresca], [sigilo] o [intimidación]; éxito [lobo saciado]; fallo [herido-2] y [derribado-1].",
+   "notes": "Las tres entradas septentrionales se alcanzan trepando por abundantes apoyos: no hace falta una acción incierta solo por subir. La entrada meridional sigue el antiguo desagüe, congelado en una capa de varios palmos. Rastrear desde ella con éxito crea [cuatro huellas humanas hasta u7]; el fallo deja [rastro perdido], sin borrar otras pistas. U2 contiene un lobo terrible hambriento: darle carne fresca evita el ataque, pero no lo domestica; puede subir o bajar los seis metros hasta su boca sin dificultad. Interpretar los grabados de U3 con historia o tradición da [rito funerario gigante comprendido]: ancianos gigantes se ahogaban en las aguas termales sagradas; fallar deja [grabados sin interpretar]. U4 no contiene criaturas ni tesoro. Los crampones anulan la dificultad ordinaria del suelo resbaladizo; el viento gime y apaga velas, pero por sí solo no hiere. Los huecos naturales dejan pasar luz lunar tenue en noches despejadas. Rastrear desde la entrada sur es una acción con [rastreo] o [investigación]; éxito [cuatro huellas humanas hasta u7]; fallo [rastro perdido]; Interpretar los grabados es una acción con [historia] o [tradición]; éxito [rito funerario gigante comprendido]; fallo [grabados sin interpretar]; Evitar al lobo es una acción con [carne fresca], [sigilo] o [intimidación]; éxito [lobo saciado]; fallo [herido-2] y [derribado-1].",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/u1-u4-entradas-lobo-y-memoria-gigantes.webp"
   },
   {
@@ -9986,7 +9986,7 @@
      "label": "Respuestas en la escarcha"
     }
    ],
-   "notes": "Las huellas dejan de distinguirse en U7. Trepar con fuerza, piolet o cuerda da [cascada escalada]. El primer fallo de alguien de talla humana o mayor rompe la capa fina y libera al extraño de agua dormido; crea [cascada rota] y activa su desafío. Queda una subida posible pero más difícil: sin asegurarla, otro fallo causa [herido-2]. Después de neutralizar al extraño se recuperan con seguridad un equipo de explorador y un equipo de monje, lectura corregida con cautela. U8 era alimentada por un río subterráneo y desaguaba al oeste; tanto río como poza seguirán congelados hasta el fin del Invierno Eterno. Los restos de cuatro gigantes no son enemigos activos. La luna ilumina los minerales en noches claras. Trepar la cascada es una acción con [fuerza], [piolet] o [cuerda]; éxito [cascada escalada] y [equipo recuperado]; primer fallo [cascada rota] y [extraño de agua]; segundo fallo [herido-2].",
+   "notes": "Las huellas dejan de distinguirse en U7. Trepar con fuerza, piolet o cuerda da [cascada escalada]. El primer fallo de alguien de talla humana o mayor rompe la capa fina y libera al extraño de agua dormido; crea [cascada rota] y activa su desafío. Queda una subida posible pero más difícil: sin asegurarla, otro fallo causa [herido-2]. Después de neutralizar al extraño se recuperan con seguridad un equipo de explorador y un equipo de monje. U8 era alimentada por un río subterráneo y desaguaba al oeste; tanto río como poza seguirán congelados hasta el fin del Invierno Eterno. Los restos de cuatro gigantes no son enemigos activos. La luna ilumina los minerales en noches claras. Trepar la cascada es una acción con [fuerza], [piolet] o [cuerda]; éxito [cascada escalada] y [equipo recuperado]; primer fallo [cascada rota] y [extraño de agua]; segundo fallo [herido-2].",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/u7-u8-cascada-y-fuente-sagrada.webp"
   },
   {
@@ -10087,7 +10087,7 @@
      "label": "Respuestas en la escarcha"
     }
    ],
-   "notes": "El esqueleto se activa al entrar un intruso o al recibir daño; ofrece dos oportunidades claras de actuar antes de atacar: primero rompe el hielo y después se incorpora. Los Héroes pueden huir, preparar una defensa o golpearlo. Mató a los pescadores y solo Maud lo controla; persigue por todo el complejo, pero nunca sale de las cuevas. Los huesos de las hermanas de Maud, con quienes rompió su aquelarre, están entre su colección; la fuente no da una identificación automática. La sangre permite establecer una matanza reciente, no reconstruir por sí sola todos los detalles. Enfrentarse al esqueleto es un desafío con [esqueleto-gigante-escarcha]; éxito [gigante desmantelado]; fallo [herido-4], [derribado-2] y [retirada acosada]; Huir antes de que se levante es una acción con [sigilo] o [retirada]; éxito [escape sin combate]; fallo [acorralado-2].",
+   "notes": "El esqueleto se activa al entrar un intruso o al recibir daño; ofrece dos oportunidades claras de actuar antes de atacar: primero rompe el hielo y después se incorpora. Los Héroes pueden huir, preparar una defensa o golpearlo. Mató a los pescadores y solo Maud lo controla; persigue por todo el complejo, pero nunca sale de las cuevas. Los huesos de las hermanas de Maud, con quienes rompió su aquelarre, están entre su colección; identificarlos requiere algo más que observarlos. La sangre permite establecer una matanza reciente, no reconstruir por sí sola todos los detalles. Enfrentarse al esqueleto es un desafío con [esqueleto-gigante-escarcha]; éxito [gigante desmantelado]; fallo [herido-4], [derribado-2] y [retirada acosada]; Huir antes de que se levante es una acción con [sigilo] o [retirada]; éxito [escape sin combate]; fallo [acorralado-2].",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/u9-el-osario.webp"
   },
   {
@@ -10208,7 +10208,7 @@
      "label": "Respuestas en la escarcha"
     }
    ],
-   "notes": "Maud, saga del lago, se disfraza de anciana decrépita. Un fuego fatuo normalmente invisible ilumina su forma real cuando quiere aterrorizar a los intrusos. Si la amenazan o descubren el engaño, llama al esqueleto de U9: tarda dos oportunidades de acción en llegar si aún existe y no está ya presente. Destruido el gigante, Maud muestra su aspecto auténtico y pelea; no entrega guarida ni caldero voluntariamente. Cuando sufre [herido-3], intenta pactar: ofrece el caldero y un cofre del fondo del lago a cambio de dejarla marchar. Si se cumple el trato, cumple la entrega, con trampa: esperar hasta medianoche, recorrer aproximadamente un kilómetro y medio al norte por la costa y recoger un cofre anegado y de cerradura rota. Contiene riqueza y cuatro zarpas reptantes ocultas bajo ella; al removerla, atacan. En el guiso actual flotan órganos y carne de los pescadores: hay que tirarlo antes del transporte. El caldero vacío sigue siendo voluminoso y difícil de cargar. Enfrentarse a Maud es un desafío con [maud-cinceloseo] y [fuego-fatuo-maud]; éxito [Maud derrotada o pactada] y [caldero recuperado]; fallo [aterrorizado-3] y [herido-3]; Registrar el guiso es una acción con [investigación] o [medicina]; éxito [canibalismo confirmado] y [guiso a tirar]; fallo [nausea] y [duda].",
+   "notes": "Maud, saga del lago, se disfraza de anciana decrépita. Un fuego fatuo normalmente invisible ilumina su forma real cuando quiere aterrorizar a los intrusos. Si la amenazan o descubren el engaño, llama al esqueleto de U9: tarda dos oportunidades de acción en llegar si aún existe y no está ya presente. Destruido el gigante, Maud muestra su aspecto auténtico y pelea; no entrega guarida ni caldero voluntariamente. Cuando sufre [herido-3], intenta pactar: ofrece el caldero y un cofre del fondo del lago a cambio de dejarla marchar. Si se cumple el trato, cumple la entrega, con trampa: esperar hasta medianoche, recorrer aproximadamente un kilómetro y medio al norte por la costa y recoger un cofre anegado y de cerradura rota. Contiene riqueza y cuatro zarpas reptantes ocultas bajo ella; al removerla, atacan. En el guiso actual flotan órganos y carne de los pescadores: hay que tirarlo antes del transporte. El caldero vacío sigue siendo voluminoso y difícil de cargar. Enfrentarse a Maud es un desafío con [maud-cinceloseo] y [fuego-fatuo-maud]; éxito [maud derrotada o pactada] y [caldero recuperado]; fallo [aterrorizado-3] y [herido-3]; Registrar el guiso es una acción con [investigación] o [medicina]; éxito [canibalismo confirmado] y [guiso a tirar]; fallo [nausea] y [duda].",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/u10-maud-y-el-caldero.webp"
   },
   {
@@ -10317,7 +10317,7 @@
      "label": "Respuestas en la escarcha"
     }
    ],
-   "notes": "T1 tiene un panorama de la villa al norte y al sur la trucha de metro y medio «El Gran Jarrete», capturada en el verano de 1479 CV. Una pintura vertical de barcas oculta la puerta secreta noreste a T3; desde T3, un tapiz de montaña la tapa al noroeste. Buscar deliberadamente en esas paredes la encuentra sin incertidumbre. T2 tiene escritorios, archivadores y asientos para visitantes. T3 es el lugar de negociación con Waylen y de su captura zhentarim. T4 guarda un equipo completo de abrigo; T5 contiene retrete, lavabo, toallero, cubo y fregona. Las puertas exteriores pueden atrancarse por dentro; las demás de estas plantas no tienen cerradura. El mapa municipal 1.11 sirve también para otras villas. Buscar puertas secretas es una acción con [investigación] o [percepción]; éxito [puerta secreta T1–T3] y [paso oculto]; fallo [pared común]; Negociar con Waylen es una acción social con [persuasión], [negociación] o [argumentos sólidos]; éxito [acuerdo mejorado] y [respaldo material de Puerto Este]; fallo [oferta inicial] y [endeudamiento municipal].",
+   "notes": "T1 tiene un panorama de la villa al norte y al sur la trucha de metro y medio «El Gran Jarrete», capturada en el verano de 1479 CV. Una pintura vertical de barcas oculta la puerta secreta noreste a T3; desde T3, un tapiz de montaña la tapa al noroeste. Buscar deliberadamente en esas paredes la encuentra sin incertidumbre. T2 tiene escritorios, archivadores y asientos para visitantes. T3 es el lugar de negociación con Waylen y de su captura zhentarim. T4 guarda un equipo completo de abrigo; T5 contiene retrete, lavabo, toallero, cubo y fregona. Las puertas exteriores pueden atrancarse por dentro; las demás de estas plantas no tienen cerradura. El mapa municipal 1.11 sirve también para otras villas. Buscar puertas secretas es una acción con [investigación] o [percepción]; éxito [puerta secreta t1–t3] y [paso oculto]; fallo [pared común]; Negociar con Waylen es una acción social con [persuasión], [negociación] o [argumentos sólidos]; éxito [acuerdo mejorado] y [respaldo material de puerto este]; fallo [oferta inicial] y [endeudamiento municipal].",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ayuntamiento-recepcion-administracion-despacho.webp"
   },
   {
@@ -10428,7 +10428,7 @@
      "label": "Respuestas en la escarcha"
     }
    ],
-   "notes": "Aventureros recuperaron el mascarón del lago mediante telequinesis hace unos meses; la recompensa les decepcionó. Waylen lo almacena apartado y prohíbe tocarlo; pesa unos 450 kg. Conocimiento de chardalyn permite reconocer el material; historia especializada, favorecida por haberse criado en el valle, identifica a Errtu, balor que aterrorizó la región hace más de un siglo: éxito [efigie de Errtu identificada]; fallo [origen incierto]. Percepción sagrada revela [objeto profanado]. El contacto puede causar [paranoia de Auril-3]: el afectado cree que casi todos los vecinos pertenecen a un culto secreto de la diosa. Una acción de resistencia espiritual evita el estado; romper maldiciones lo elimina. Prolongar el contacto puede agravarlo, previa advertencia del Narrador. Solo quienes participaron en la sesión de Rinaldo ven además a una mujer escuálida, empapada, de pelo blanco que oculta la cara, aparentemente atada al mascarón; si mantienen distancia, solloza; si salen sin hablarle y vuelven, ya no está. Acercarse a poco más de un brazo revela la calavera sonriente, disuelve las cuerdas e inicia su ataque aterrador. Seriamente herida, intenta poseer a un Héroe para salir por el norte, romper el hielo del lago y ahogarlo, golpeando a quienes lo impidan. Si la derrotan, un grito acompaña su retorno definitivo al lago. No introducir esta aparición si el mascarón ya ha sido destruido. Identificar el material es una acción con [conocimiento de chardalyn] o [historia del valle]; éxito [efigie de Errtu identificada]; fallo [origen incierto]; Resistir la corrupción es una acción con [resistencia espiritual] o [voluntad]; éxito [paranoia evitada]; fallo [paranoia de Auril-3]; Enfrentarse al fantasma es un desafío con [fantasma-dama-blanca]; éxito [fantasma desterrado]; fallo [poseído-4] y [ahogándose-3].",
+   "notes": "Unos exploradores recuperaron el mascarón del lago alzándolo con magia hace unos meses; la recompensa les decepcionó. Waylen lo almacena apartado y prohíbe tocarlo; pesa unos 450 kg. Conocimiento de chardalyn permite reconocer el material; historia especializada, favorecida por haberse criado en el valle, identifica a Errtu, balor que aterrorizó la región hace más de un siglo: éxito [efigie de errtu identificada]; fallo [origen incierto]. Percepción sagrada revela [objeto profanado]. El contacto puede causar [paranoia de auril-3]: el afectado cree que casi todos los vecinos pertenecen a un culto secreto de la diosa. Una acción de resistencia espiritual evita el estado; romper maldiciones lo elimina. Prolongar el contacto puede agravarlo, previa advertencia del Narrador. Solo quienes participaron en la sesión de Rinaldo ven además a una mujer escuálida, empapada, de pelo blanco que oculta la cara, aparentemente atada al mascarón; si mantienen distancia, solloza; si salen sin hablarle y vuelven, ya no está. Acercarse a poco más de un brazo revela la calavera sonriente, disuelve las cuerdas e inicia su ataque aterrador. Seriamente herida, intenta poseer a un Héroe para salir por el norte, romper el hielo del lago y ahogarlo, golpeando a quienes lo impidan. Si la derrotan, un grito acompaña su retorno definitivo al lago. No introducir esta aparición si el mascarón ya ha sido destruido. Identificar el material es una acción con [conocimiento de chardalyn] o [historia del valle]; éxito [efigie de errtu identificada]; fallo [origen incierto]; Resistir la corrupción es una acción con [resistencia espiritual] o [voluntad]; éxito [paranoia evitada]; fallo [paranoia de auril-3]; Enfrentarse al fantasma es un desafío con [fantasma-dama-blanca]; éxito [fantasma desterrado]; fallo [poseído-4] y [ahogándose-3].",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/t6-mascaron-demoniaco-y-dama-blanca.webp"
   },
   {
@@ -10604,7 +10604,7 @@
      "label": "Respuestas en la escarcha"
     }
    ],
-   "notes": "Diez minutos de búsqueda en T14 bastan para hallar el libro de Dzaan; un empleado lo confundió con una antología al guardar sus bienes confiscados. La escritura ilusoria termina cinco días después de su ejecución; disiparla revela antes el grimorio. Su contenido y conversión figuran en objetos. T15 dispone de seis habitaciones de alquiler: cuatro sin uso, una con cajas y barriles que resultan vacíos al examinarlos, y un despacho acogedor con dos sillones y una novela romántica inacabada, Perdida en unos ojos color lavanda, en un cajón sin cerrar. La fuente no atribuye la novela ni identifica al inquilino. Buscar en la biblioteca es una acción con [investigación] o [tiempo]; éxito [grimorio de Dzaan] y [antología aparente]; fallo [estantes polvorientos]; Examinar las habitaciones es una acción con [exploración] o [percepción]; éxito [habitaciones de alquiler] y [novela inacabada]; fallo [puertas cerradas].",
+   "notes": "Diez minutos de búsqueda en T14 bastan para hallar el libro de Dzaan; un empleado lo confundió con una antología al guardar sus bienes confiscados. La escritura ilusoria termina cinco días después de su ejecución; disiparla revela antes el grimorio. Consulta su contenido y usos en objetos. T15 dispone de seis habitaciones de alquiler: cuatro sin uso, una con cajas y barriles que resultan vacíos al examinarlos, y un despacho acogedor con dos sillones y una novela romántica inacabada, Perdida en unos ojos color lavanda, en un cajón sin cerrar. Buscar en la biblioteca es una acción con [investigación] o [tiempo]; éxito [grimorio de dzaan] y [antología aparente]; fallo [estantes polvorientos]; Examinar las habitaciones es una acción con [exploración] o [percepción]; éxito [habitaciones de alquiler] y [novela inacabada]; fallo [puertas cerradas].",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ayuntamiento-biblioteca-habitaciones-alquiladas.webp"
   },
   {
@@ -10704,7 +10704,7 @@
      "label": "Respuestas en la escarcha"
     }
    ],
-   "notes": "T16 comunica con la mazmorra. En T17 suelen estar cuatro guardias jugando a Apuesta de los Tres Dragones; escuchar antes de entrar permite oír quejas por el frío y preocupación por el próximo sorteo de sacrificios. Uno lleva ocho llaves de hierro para todas las celdas. Las puertas tienen mirillas de unos trece centímetros con postigos de hierro. Abrirlas mediante ganzúas desde fuera y etiquetas de cerrajería obtiene [celda abierta]; fallar deja [cerradura intacta] y, si importa el tiempo, [demora peligrosa]. Una persona sola no las derriba por fuerza ordinaria. T20 es la sala donde Waylen interroga. La fuente llama T18 a la cárcel al remitir a ella, pero imprime T19 en su encabezado y T20 para interrogatorios; esta ficha conserva T18/T19: cárcel para evitar inventar una sala omitida. Escuchar antes de entrar es una acción con [sigilo] o [percepción]; éxito [quejas por el frío] y [sorteo de sacrificios]; fallo [guardias alerta]; Abrir una celda es una acción con [cerrajería] o [ganzúas]; éxito [celda abierta]; fallo [cerradura intacta] y [demora peligrosa]; Interrogar con autoridad es una acción social con [autoridad] o [intimidación]; éxito [información útil]; fallo [silencio de la guardia].",
+   "notes": "T16 comunica con la mazmorra. En T17 suelen estar cuatro guardias jugando a Apuesta de los Tres Dragones; escuchar antes de entrar permite oír quejas por el frío y preocupación por el próximo sorteo de sacrificios. Uno lleva ocho llaves de hierro para todas las celdas. Las puertas tienen mirillas de unos trece centímetros con postigos de hierro. Abrirlas mediante ganzúas desde fuera y etiquetas de cerrajería obtiene [celda abierta]; fallar deja [cerradura intacta] y, si importa el tiempo, [demora peligrosa]. Una persona sola no las derriba por fuerza ordinaria. T20 es la sala donde Waylen interroga. T19 es la cárcel. Escuchar antes de entrar es una acción con [sigilo] o [percepción]; éxito [quejas por el frío] y [sorteo de sacrificios]; fallo [guardias alerta]; Abrir una celda es una acción con [cerrajería] o [ganzúas]; éxito [celda abierta]; fallo [cerradura intacta] y [demora peligrosa]; Interrogar con autoridad es una acción social con [autoridad] o [intimidación]; éxito [información útil]; fallo [silencio de la guardia].",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ayuntamiento-carceleros-celdas-interrogatorio.webp"
   },
   {
@@ -10856,7 +10856,7 @@
      "label": "Respuestas en la escarcha"
     }
    ],
-   "notes": "Waylen ofrece una recompensa de gran valor en gemas por el caldero: [respaldo material de Puerto Este]. Regatear con argumentos sólidos da [acuerdo mejorado], que puede duplicar el valor del respaldo; fallar mantiene la oferta inicial. Nadie local puja por encima. Necesita endeudarse y reunirlo en cuarenta y ocho horas; exige entretanto depositar el caldero en T17, vigilado por los cuatro guardias o por los propios Héroes. En un día Prudence informa a Naerth mediante su serpiente voladora. Esa noche llegan tres matones y un pico de hacha domesticado, que atan al poste norte. Sin intervención, Prudence y los matones toman a Waylen como rehén en T3, fuerzan la rendición de los guardias, los encierran con él, atan el caldero al ave y arrojan las llaves a un banco de nieve. Viajan sin detenerse hasta Los Brazos de Luskan, en Targos. Tienen órdenes estrictas de no matar: sus ataques causan incapacitación. Sus huellas desaparecen por el viento entre una y cuatro horas después. Si los Héroes llegan de madrugada, oyen los golpes de los presos; más tarde encuentran a Imdra y guardias tratando de abrir las celdas. Waylen, humillado tras casi tres años de confianza en Prudence, recuerda su supuesta «familia» de Targos. Allí ella ocupa una habitación privada de la posada; Naerth ya tiene el caldero y no lo entrega sin resistencia. Negociar la recompensa es una acción social con [persuasión] o [argumentos sólidos]; éxito [acuerdo mejorado]; fallo [oferta inicial]; Vigilar el caldero es una acción con [vigilancia] o [guardia]; éxito [robo impedido]; fallo [Waylen rehén] y [caldero rumbo a Targos]; Perseguir a la banda es una acción con [rastreo] o [montura]; éxito [rastro seguido]; fallo [rastro borrado] y [conexión con Targos].",
+   "notes": "Waylen ofrece una recompensa de gran valor en gemas por el caldero: [respaldo material de puerto este]. Regatear con argumentos sólidos da [acuerdo mejorado], que puede duplicar el valor del respaldo; fallar mantiene la oferta inicial. Nadie local puja por encima. Necesita endeudarse y reunirlo en cuarenta y ocho horas; exige entretanto depositar el caldero en T17, vigilado por los cuatro guardias o por los propios Héroes. En un día Prudence informa a Naerth mediante su serpiente voladora. Esa noche llegan tres matones y un pico de hacha domesticado, que atan al poste norte. Sin intervención, Prudence y los matones toman a Waylen como rehén en T3, fuerzan la rendición de los guardias, los encierran con él, atan el caldero al ave y arrojan las llaves a un banco de nieve. Viajan sin detenerse hasta Los Brazos de Luskan, en Targos. Tienen órdenes estrictas de no matar: sus ataques causan incapacitación. Sus huellas desaparecen por el viento entre una y cuatro horas después. Si los Héroes llegan de madrugada, oyen los golpes de los presos; más tarde encuentran a Imdra y guardias tratando de abrir las celdas. Waylen, humillado tras casi tres años de confianza en Prudence, recuerda su supuesta «familia» de Targos. Allí ella ocupa una habitación privada de la posada; Naerth ya tiene el caldero y no lo entrega sin resistencia. Negociar la recompensa es una acción social con [persuasión] o [argumentos sólidos]; éxito [acuerdo mejorado]; fallo [oferta inicial]; Vigilar el caldero es una acción con [vigilancia] o [guardia]; éxito [robo impedido]; fallo [waylen rehén] y [caldero rumbo a targos]; Perseguir a la banda es una acción con [rastreo] o [montura]; éxito [rastro seguido]; fallo [rastro borrado] y [conexión con targos].",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/enredo-caldero-trato-vigilancia-robo.webp"
   },
   {
@@ -11008,7 +11008,7 @@
      "label": "Respuestas en la escarcha"
     }
    ],
-   "notes": "Usar esta lectura al sorprender el robo; si ya terminó, omitir los golpes. Si siguen activos, Durth y sus tres compañeros entran de noche por el norte mientras Waylen y casi toda la población duermen en sus casas. Destrozan T6; los cuatro guardias de T17 intervienen y, sin ayuda, mueren. Cada saqueador carga hasta cinco fragmentos de unos nueve kilos por saco y todos parten hacia la fortaleza de Xardorok. Ajustar la composición a supervivientes: no resucitar a Durth ni restituir una banda desmantelada. Las huellas duran entre una y cuatro horas. Si el rastro se borra, el ferry estará vaciado, incluido el mapa, y no ofrece la ruta de escape. Al día siguiente Waylen solicita la recuperación, promete favores por cada fragmento y advierte que no deben tocarse directamente. Una hora de preguntas con persuasión obtiene [contacto: Scython]; fallar no da información útil. Scython aporta otros rumores, pero no conoce a los ladrones ni su destino. No convertir este rodeo en una pista falsa que garantice encontrar la fortaleza. Sorprender el robo es una acción con [sigilo] o [alerta]; éxito [robo interrumpido] y [guardias salvados]; fallo [mascarón hecho fragmentos] y [guardia en peligro]; Seguir el rastro es una acción con [rastreo] o [percepción]; éxito [rastro seguido] y [ruta de escape]; fallo [rastro borrado] y [ferry vaciado]; Interrogar a los duergar capturados es una acción con [intimidación] o [influencia mágica]; éxito [planes de Xardorok revelados]; fallo [prisioneros herméticos].",
+   "notes": "Usar esta lectura al sorprender el robo; si ya terminó, omitir los golpes. Si siguen activos, Durth y sus tres compañeros entran de noche por el norte mientras Waylen y casi toda la población duermen en sus casas. Destrozan T6; los cuatro guardias de T17 intervienen y, sin ayuda, mueren. Cada saqueador carga hasta cinco fragmentos de unos nueve kilos por saco y todos parten hacia la fortaleza de Xardorok. Ajustar la composición a supervivientes: no resucitar a Durth ni restituir una banda desmantelada. Las huellas duran entre una y cuatro horas. Si el rastro se borra, el ferry estará vaciado, incluido el mapa, y no ofrece la ruta de escape. Al día siguiente Waylen solicita la recuperación, promete favores por cada fragmento y advierte que no deben tocarse directamente. Una hora de preguntas con persuasión obtiene [contacto: scython]; fallar no da información útil. Scython aporta otros rumores, pero no conoce a los ladrones ni su destino. No convertir este rodeo en una pista falsa que garantice encontrar la fortaleza. Sorprender el robo es una acción con [sigilo] o [alerta]; éxito [robo interrumpido] y [guardias salvados]; fallo [mascarón hecho fragmentos] y [guardia en peligro]; Seguir el rastro es una acción con [rastreo] o [percepción]; éxito [rastro seguido] y [ruta de escape]; fallo [rastro borrado] y [ferry vaciado]; Interrogar a los duergar capturados es una acción con [intimidación] o [influencia mágica]; éxito [planes de xardorok revelados]; fallo [prisioneros herméticos].",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/enredo-chardalyn-asalto-nocturno-manana.webp"
   },
   {
@@ -12586,7 +12586,7 @@
      "label": "Heráldica de Bosque Solitario"
     }
    ],
-   "notes": "Iriskree vende herramientas de talla, tintas y cera como etiquetas de mochila. Es una asesina retirada; ganarse su confianza requiere discreción y presionarla puede crear [indiscretos ante Iriskree].",
+   "notes": "Iriskree vende herramientas de talla, tintas y cera como etiquetas de mochila. Es una asesina retirada; ganarse su confianza requiere discreción y presionarla puede crear [indiscretos ante iriskree].",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/el-tallista-feliz.webp"
   },
   {
@@ -12705,7 +12705,7 @@
      "label": "Heráldica de Bosque Solitario"
     }
    ],
-   "notes": "Pescadores y leñadores cuentan historias; pueden surgir rumores generales de Diez Ciudades. Escuchar con paciencia puede dar [rumor por contrastar]; contrastar con testigos produce [testimonio fiable]. Una indiscreción puede crear [Danae conoce vuestro secreto]. Danae Xotal reúne información para Szass Tam y no revela su condición por una conversación corriente.",
+   "notes": "Pescadores y leñadores cuentan historias; pueden surgir rumores generales de Diez Ciudades. Escuchar con paciencia puede dar [rumor por contrastar]; contrastar con testigos produce [testimonio fiable]. Una indiscreción puede crear [danae conoce vuestro secreto]. Danae Xotal reúne información para Szass Tam y no revela su condición por una conversación corriente.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/el-mentiroso-con-suerte.webp"
   },
   {
@@ -12825,7 +12825,7 @@
      "label": "Heráldica de Bosque Solitario"
     }
    ],
-   "notes": "DeGrootz apareció ahorcado hace dos años; algunos creen que viejos «amigos» lo asesinaron y fingieron el suicidio, pero es una sospecha. El pueblo usa el edificio como almacén y acepta que alguien lo restaure. Si Nimsy lo entrega, concede [propiedad de La Desvencijada].",
+   "notes": "DeGrootz apareció ahorcado hace dos años; algunos creen que viejos «amigos» lo asesinaron y fingieron el suicidio, pero es una sospecha. El pueblo usa el edificio como almacén y acepta que alguien lo restaure. Si Nimsy lo entrega, concede [propiedad de la desvencijada].",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/la-desvencijada.webp"
   },
   {
@@ -13472,7 +13472,7 @@
      "label": "Heráldica de Bosque Solitario"
     }
    ],
-   "notes": "Activo, funciona como instrumento de visión remota; el alce está vinculado a él y espía a cazadores y leñadores que conoce. La muerte del alce o el vínculo de otro usuario termina su control. El adhesivo soberano impide desmontarlo intacto; romperlo destruye su magia para siempre. El éxito obtiene [visión del objetivo]; los obstáculos de ocultación pueden producir [visión velada].",
+   "notes": "Activo, funciona como instrumento de visión remota; el alce está vinculado a él y espía a cazadores y leñadores que conoce. La muerte del alce o el vínculo de otro usuario termina su control. El adhesivo mágico inseparable impide desmontarlo intacto; romperlo destruye su magia para siempre. El éxito obtiene [visión del objetivo]; los obstáculos de ocultación pueden producir [visión velada].",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/espejo-de-la-luna-llena.webp"
   },
   {
@@ -13957,7 +13957,7 @@
      "label": "Últimas paradas confirmadas por Atenas"
     }
    ],
-   "notes": "Es la casa pública más antigua de Diez Ciudades, fundada cuando Bryn Shander era aún un campamento. Reproduce el Luskan anterior a su decadencia. Owenn vive sumido en la desesperanza. Naerth ocupa la suite mayor: le recuerda su ciudad natal y le permite recibir visitantes. Sus tres serpientes voladoras transportan mensajes a una red de al menos una docena de espías. Investigar con discreción puede descubrir [mensajería clandestina]; actuar sin cuidado genera [vigilados por la Red Negra]. No entregues automáticamente el secreto del portavoz al entrar.",
+   "notes": "Es la posada más antigua de Diez Ciudades, fundada cuando Bryn Shander era aún un campamento. Reproduce el Luskan anterior a su decadencia. Owenn vive sumido en la desesperanza. Naerth ocupa la suite mayor: le recuerda su ciudad natal y le permite recibir visitantes. Sus tres serpientes voladoras transportan mensajes a una red de al menos una docena de espías. Investigar con discreción puede descubrir [mensajería clandestina]; actuar sin cuidado genera [vigilados por la red negra]. No entregues automáticamente el secreto del portavoz al entrar.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/los-brazos-de-luskan.webp"
   },
   {
@@ -14176,7 +14176,7 @@
      "label": "Últimas paradas confirmadas por Atenas"
     }
    ],
-   "notes": "Keegan comparte los datos del gancho. Nació en Diez Ciudades; Garret procede de una familia rica de Neverwinter, pero prefirió guiar viajeros y escalar a vivir en una ciudad. Aceptar el encargo da [promesa a Keegan]. La sidra y el refugio permiten prepararse; no eliminan por sí solos lesiones graves. Chico puede ser una etiqueta de historia aliada y guiar hasta el campamento y Garret, sin convertirlo en un arma obligatoria.",
+   "notes": "Keegan comparte los datos del gancho. Nació en Diez Ciudades; Garret procede de una familia rica de Neverwinter, pero prefirió guiar viajeros y escalar a vivir en una ciudad. Aceptar el encargo da [promesa a keegan]. La sidra y el refugio permiten prepararse; no eliminan por sí solos lesiones graves. Chico puede ser una etiqueta de historia aliada y guiar hasta el campamento y Garret, sin convertirlo en un arma obligatoria.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/chico-y-la-casa-de-los-velryn.webp"
   },
   {
@@ -14285,7 +14285,7 @@
      "label": "Últimas paradas confirmadas por Atenas"
     }
    ],
-   "notes": "Targos–Bryn Shander: unos cinco kilómetros; después, unos treinta y siete hasta Caer-Dineval y otros cinco rodeando Lac Dinneshere hasta Caer-Konig. Total: catorce horas y media a pie o siete con trineos. Es la opción segura indicada por la fuente, sin que desaparezca el clima. Las tres ciudades permiten recoger sus propias misiones. Atenas Veloz, en Expediciones Allendhelor, vio a Garret con un goliat, una mediana piesligeros y una tiflin, bien armados. Compraron equipo de escalada y acampada, fueron a Anzuelo, Sedal y Plomo y pensaban dormir en La Luz del Norte. Ambos establecimientos los recuerdan cansados y poco habladores, sin incidentes. Jarthra Farzassh puede ser contratada como guía si falta capacidad de rastreo; su coste se concreta en recursos o un favor.",
+   "notes": "Targos–Bryn Shander: unos cinco kilómetros; después, unos treinta y siete hasta Caer-Dineval y otros cinco rodeando Lac Dinneshere hasta Caer-Konig. Total: catorce horas y media a pie o siete con trineos. Es la opción segura, aunque el clima sigue siendo un peligro. Las tres ciudades permiten recoger sus propias misiones. Atenas Veloz, en Expediciones Allendhelor, vio a Garret con un goliat, una mediana piesligeros y una tiflin, bien armados. Compraron equipo de escalada y acampada, fueron a Anzuelo, Sedal y Plomo y pensaban dormir en La Luz del Norte. Ambos establecimientos los recuerdan cansados y poco habladores, sin incidentes. Jarthra Farzassh puede ser contratada como guía si falta capacidad de rastreo; su coste se concreta en recursos o un favor.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/ruta-de-caer-konig.webp"
   },
   {
@@ -14363,7 +14363,7 @@
      "label": "Últimas paradas confirmadas por Atenas"
     }
    ],
-   "notes": "La ruta directa cubre unos diecinueve kilómetros en veinticuatro horas a pie o doce en trineo. A mitad de trayecto hay un posible encuentro y se determina si coincide con ventisca. Como alternativa de conversión, usa el desafío ambiental de travesía. Cientos de enanos de escudo viven en minas y salas conectadas; salen poco, para cazar o conseguir comida. Son educados, incluso amistosos, y ofrecen uno o dos días de refugio, pero sus escasas reservas y trabajo impiden alojar indefinidamente. Quienes hayan completado «Jarras Espumeantes» pueden quedarse cuanto quieran.",
+   "notes": "La ruta directa cubre unos diecinueve kilómetros en veinticuatro horas a pie o doce en trineo. A mitad de trayecto hay un posible encuentro y se determina si coincide con ventisca. Usa el desafío ambiental de travesía para resolver los peligros del camino. Cientos de enanos de escudo viven en minas y salas conectadas; salen poco, para cazar o conseguir comida. Son educados, incluso amistosos, y ofrecen uno o dos días de refugio, pero sus escasas reservas y trabajo impiden alojar indefinidamente. Quienes hayan completado «Jarras Espumeantes» pueden quedarse cuanto quieran.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/tundra-y-valle-de-los-enanos.webp"
   },
   {
@@ -14984,7 +14984,7 @@
      "label": "Últimas paradas confirmadas por Atenas"
     }
    ],
-   "notes": "Los restos principales son de Mokingo «Oso Gruñón» Akannathi; su cabeza arrancada ocupa un nicho. Hay además huesos y cráneos de tres cabras. Otros siete nichos contienen cabezas de víctimas humanoides anteriores. Dos pertenecen a Oobok, relacionado con «Jarras Espumeantes», y Barthoom Mazhogar, muerto hace un mes más arriba. Reconocerlos requiere conocimiento previo, testimonios o cotejar pistas; no es información evidente para cualquiera. Examinar con calma obtiene [destino de Mokingo confirmado] y, si procede, [identidad de las víctimas].",
+   "notes": "Los restos principales son de Mokingo «Oso Gruñón» Akannathi; su cabeza arrancada ocupa un nicho. Hay además huesos y cráneos de tres cabras. Otros siete nichos contienen cabezas de víctimas humanoides anteriores. Dos pertenecen a Oobok, relacionado con «Jarras Espumeantes», y Barthoom Mazhogar, muerto hace un mes más arriba. Reconocerlos requiere conocimiento previo, testimonios o cotejar pistas; no es información evidente para cualquiera. Examinar con calma obtiene [destino de mokingo confirmado] y, si procede, [identidad de las víctimas].",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/caverna-gelida-f2-trofeos.webp"
   },
   {
@@ -15095,7 +15095,7 @@
      "label": "Últimas paradas confirmadas por Atenas"
     }
    ],
-   "notes": "La cría maltrata a Perilou como un juguete; ella está [agotada-3], sin otras lesiones relevantes, y lleva parte de su ropa de abrigo. La madre pretende ahuyentar intrusos: no combate ni se expone si los Héroes evitan atacar y comunican que solo quieren llevarse a la mediana. Un éxito al calmar y rescatar da [Perilou liberada]; un fallo puede provocar [madre alarmada] y otra amenaza antes de escalar a violencia. Perilou vio morir a Mokingo, desconoce el destino de Astrix y desea averiguarlo. Bajo el trineo hay utensilios de cocina, una mochila de explorador y ropa ensangrentada suficiente para dos atuendos de abrigo. Al salir vuelve el padre con una cabra muerta bajo el brazo: normalmente ataca. El secreto «El Yeti más Pequeño» puede mejorar su actitud y facilitar comunicación. Si llevan consigo a la cría, pueden devolverla a cambio de paso seguro hacia arriba o abajo; tomarla no es requisito ni una opción sin riesgo.",
+   "notes": "La cría maltrata a Perilou como un juguete; ella está [agotada-3], sin otras lesiones relevantes, y lleva parte de su ropa de abrigo. La madre pretende ahuyentar intrusos: no combate ni se expone si los Héroes evitan atacar y comunican que solo quieren llevarse a la mediana. Un éxito al calmar y rescatar da [perilou liberada]; un fallo puede provocar [madre alarmada] y otra amenaza antes de escalar a violencia. Perilou vio morir a Mokingo, desconoce el destino de Astrix y desea averiguarlo. Bajo el trineo hay utensilios de cocina, una mochila de explorador y ropa ensangrentada suficiente para dos atuendos de abrigo. Al salir vuelve el padre con una cabra muerta bajo el brazo: normalmente ataca. El secreto «El Yeti más Pequeño» puede mejorar su actitud y facilitar comunicación. Si llevan consigo a la cría, pueden devolverla a cambio de paso seguro hacia arriba o abajo; tomarla no es requisito ni una opción sin riesgo.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/caverna-gelida-f3-guarida.webp"
   },
   {
@@ -15705,7 +15705,7 @@
      "label": "Lo que cuenta Marta"
     }
    ],
-   "notes": "Vernon ofrece hospitalidad y [comida caliente]; sus amigos de Bosque Solitario envían ocasionalmente carne de caza. Oarus explica que los kobolds expulsaron a los mineros sin matar a nadie y que antes desapareció un humano, quizá por la chimenea; oculta inicialmente la negativa de la milicia hace tres días y la connivencia de sus oficiales con Naerth. Tras el encargo inspecciona antes de pagar: sin kobolds ni grell vuelve al día siguiente con [favor del portavoz] y [suministros para la Compañía]; si permanece el grell muere, y si sigue Trex poseído puede regresar poseído. No añadas rumores concretos de la tabla externa ausente.",
+   "notes": "Vernon ofrece hospitalidad y [comida caliente]; sus amigos de Bosque Solitario envían ocasionalmente carne de caza. Oarus explica que los kobolds expulsaron a los mineros sin matar a nadie y que antes desapareció un humano, quizá por la chimenea; oculta inicialmente la negativa de la milicia hace tres días y la connivencia de sus oficiales con Naerth. Tras el encargo inspecciona antes de pagar: sin kobolds ni grell vuelve al día siguiente con [favor del portavoz] y [suministros para la compañía]; si permanece el grell muere, y si sigue Trex poseído puede regresar poseído. Consulta la tabla de rumores de Diez Ciudades al preparar las conversaciones.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/almeja-azul.webp"
   },
   {
@@ -16255,7 +16255,7 @@
      "label": "Lo que cuenta Marta"
     }
    ],
-   "notes": "Dos ratas gigantes atacan y persiguen a quienes huyan. Respiraderos térmicos mantienen el agua sin congelar, pero vadear el estrechamiento puede arrastrar hacia M5 y el abismo; no fijes la anchura corrupta de la fuente. Ofrece sujeciones, rescate y retirada antes de una caída irreversible.",
+   "notes": "Dos ratas gigantes atacan y persiguen a quienes huyan. Respiraderos térmicos mantienen el agua sin congelar, pero vadear el estrechamiento puede arrastrar hacia M5 y el abismo. La abertura forma una fisura estrecha y peligrosa. Ofrece sujeciones, rescate y retirada antes de una caída irreversible.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/m3-rio.webp"
   },
   {
@@ -16481,7 +16481,7 @@
      "label": "Lo que cuenta Marta"
     }
    ],
-   "notes": "Scorp y Thwip sierran los puntales desde debajo; el agua los hace inaudibles, pero mirar bajo los tablones los descubre. Necesitan un día más: ahora es seguro, después cederá bajo más peso que dos kobolds; herir a uno mientras cuelga provoca su caída mortal salvo rescate. Haz visible su posición antes de resolver violencia; luz superior a una vela o visión en la oscuridad permite ver las pasarelas nueve metros más abajo.",
+   "notes": "Scorp y Thwip sierran los puntales desde debajo; el agua los hace inaudibles, pero mirar bajo los tablones los descubre. Necesitan un día más: ahora es seguro, después cederá bajo más peso que dos kobolds; herir a uno mientras cuelga provoca su caída mortal salvo rescate. Haz visible su posición antes de resolver violencia; luz superior a una vela o la capacidad de ver sin luz permite ver las pasarelas nueve metros más abajo.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/m5-chimenea-superior.webp"
   },
   {
@@ -16978,7 +16978,7 @@
      "label": "Lo que cuenta Marta"
     }
    ],
-   "notes": "Con luz suficiente o visión en la oscuridad se ve M5 y a los saboteadores si siguen allí. La cesta cruza cuatro metros y medio en instantes, con manivelas a ambos lados o tirando desde dentro; admite un humano o dos pequeños. Fuego, ácido o corte suficiente rompen la cuerda; permite reacción para agarrarse y rescate inmediato según el desafío ambiental.",
+   "notes": "Con luz suficiente o la capacidad de ver sin luz se ve M5 y a los saboteadores si siguen allí. La cesta cruza cuatro metros y medio en instantes, con manivelas a ambos lados o tirando desde dentro; admite un humano o dos pequeños. Fuego, ácido o corte suficiente rompen la cuerda; asirse a tiempo es una acción arriesgada que, con éxito, deja [colgado sobre el abismo-3] y permite un rescate inmediato; con fallo, deja [cayendo-5], salvo que un medio de rescate ya establecido detenga la caída.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/m10-chimenea-inferior.webp"
   },
   {
@@ -17226,7 +17226,7 @@
      "label": "Lo que cuenta Marta"
     }
    ],
-   "notes": "Saber arcano identifica [cráneo de desuellamentes]; fallar deja [anatomía desconocida], investigable después. Llegó de la Infraoscuridad hace miles de años, pero se ignora cómo quedó en la roca; intentar extraerlo lo rompe y revela el cristal, liberable con pico. Vincularse provoca una alteración persistente y una llamada privada rastreable hasta la nave de «Id Ascendente»; solo romper el vínculo bloquea la señal según esta fuente.",
+   "notes": "Saber arcano identifica [cráneo de desuellamentes]; fallar deja [anatomía desconocida], investigable después. Llegó de la Infraoscuridad hace miles de años, pero se ignora cómo quedó en la roca; intentar extraerlo lo rompe y revela el cristal, liberable con pico. Vincularse provoca una alteración persistente y una llamada privada rastreable hasta la nave de «Id Ascendente»; solo romper el vínculo bloquea la señal.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/m12-craneo-cristal.webp"
   },
   {
@@ -17432,7 +17432,7 @@
      "label": "Encargos para viajar por el valle"
     }
    ],
-   "notes": "Los Héroes eligen rumores y encargos; el Narrador sitúa los encuentros según el ritmo, normalmente uno o dos por sesión. Las grandes historias son rumores hasta que se investigan. El capítulo está pensado para nivel 4 o superior; desde nivel 7, la exploración y los encuentros aleatorios dejan de conceder niveles y conviene dirigir al grupo hacia los capítulos 5 a 7.",
+   "notes": "Los Héroes eligen rumores y encargos; el Narrador sitúa los encuentros según el ritmo, normalmente uno o dos por sesión. Las grandes historias son rumores hasta que se investigan. La exploración está pensada para Héroes curtidos; cuando ya sean veteranos con temas de Aventura, conviene dirigirlos hacia la isla de Auril, las cuevas de hielo y los secretos de Ythryn.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/valle-bajo-aurora.webp"
   },
   {
@@ -18272,7 +18272,7 @@
      "label": "Encargos para viajar por el valle"
     }
    ],
-   "notes": "Si se recurre al azar, tira 1d8 en la tabla de número de encuentros, cuya distribución no se reproduce en la ficha; no equivale necesariamente a 1d8 encuentros. Para cada encuentro, tira dos d20: si el dado de ventisca más uno supera el de encuentro, habrá tormenta desde 1d4 horas antes hasta 1d4 horas después; los yetis siempre aparecen en ventisca y los perytones casi nunca. La secuencia d20 es: yeti, goliath hombre oso, gatos de los riscos, caminante, trol, druida, berserkers, gigante sobre mamut, enanos, Arveiaturace, oso lechuza, gnolls, orcos, goliaths, chwinga, bestia despertada, kobolds, humanos, manada y perytones. No se proporciona perfil de yeti en esta ficha.",
+   "notes": "Si se recurre al azar, tira 1d8 en la tabla de número de encuentros y consulta el resultado para determinar cuántos ocurren. Para cada encuentro, tira dos d20: si el dado de ventisca más uno supera el de encuentro, habrá tormenta desde 1d4 horas antes hasta 1d4 horas después; los yetis siempre aparecen en ventisca y los perytones casi nunca. La secuencia d20 es: yeti, goliath hombre oso, gatos de los riscos, caminante, trol, druida, berserkers, gigante sobre mamut, enanos, Arveiaturace, oso lechuza, gnolls, orcos, goliaths, chwinga, bestia despertada, kobolds, humanos, manada y perytones. Prepara las capacidades del yeti antes de jugar ese encuentro.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/encuentro-zonas-salvajes.webp"
   },
   {
@@ -18513,7 +18513,7 @@
     }
    ],
    "handouts": [],
-   "notes": "Tira 1d6: 1–3 aparecen 1d4 yetis; 4–5, un yeti abominable; 6, un yeti inmaduro perdido. Enfrenta percepción a sigilo, con ventaja por el camuflaje de nieve; los yetis detectan presas por el olfato. Los adultos guardan cabezas de humanoides como trofeos, mientras que el pequeño puede calmarse con comida o compasión. Los Héroes pueden huir, esconderse, combatir o ayudar a la cría.",
+   "notes": "Tira 1d6: 1–3 aparecen 1d4 yetis; 4–5, un yeti abominable; 6, un yeti inmaduro perdido. Los yetis se esconden bajo la nieve y detectan presas por el olfato. Al intentar descubrirlos o pasar inadvertidos ante ellos, [camuflaje de nieve] y [olfato agudo] cuentan como etiquetas en contra cuando corresponda. Un fallo puede crear [yeti emboscado] o infligir [asustado-2]. Los adultos guardan cabezas de humanoides como trofeos, mientras que el pequeño puede calmarse con comida o compasión. Los Héroes pueden huir, esconderse, combatir o ayudar a la cría.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/yetis-en-ventisca.webp"
   },
   {
@@ -18580,7 +18580,7 @@
    "ambient": "dim",
    "figures": [],
    "handouts": [],
-   "notes": "El muelle es resbaladizo y una caída al agua impone empapado-2 y helado-2. No hace falta liberar el bote: se puede caminar sobre el hielo hasta la campana de A3.",
+   "notes": "El muelle es resbaladizo y una caída al agua impone [empapado-2] y [helado-2]. No hace falta liberar el bote: se puede caminar sobre el hielo hasta la campana.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/embarcadero-congelado.webp"
   },
   {
@@ -18659,7 +18659,7 @@
     }
    ],
    "handouts": [],
-   "notes": "Anga vivió aquí para visitar a Angajuk, pero la cabaña lleva décadas vacía. La leña infestada de gusanos es segura de quemar: hay seis paquetes de treinta libras, suficientes para tres días. El refugio permite descansar en el campamento y encontrar pistas sobre Anga.",
+   "notes": "Anga vivió aquí para visitar a Angajuk, pero la cabaña lleva décadas vacía. La leña infestada de gusanos es segura de quemar: hay seis paquetes de quince kilogramos, suficientes para tres días. El refugio permite descansar en el campamento y encontrar pistas sobre Anga.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/cabana-de-anga.webp"
   },
   {
@@ -18769,7 +18769,7 @@
     }
    ],
    "handouts": [],
-   "notes": "La campana atrae a tres buitres gigantes que atacan salvo que reciban carne; Angajuk llega treinta minutos después con 1d4 narvales o delfines. Habla común con voz profunda y debe ganarse su confianza mediante un pulpo, la amistad de sus compañeros o su defensa frente a los cazadores. Si acepta el destino, lleva a ocho criaturas medianas con equipo y hasta mil libras de carga a la isla; si rechaza la petición, se sumerge y se aleja.",
+   "notes": "La campana atrae a tres buitres gigantes que atacan salvo que reciban carne; Angajuk llega treinta minutos después con 1d4 narvales o delfines. Habla común con voz profunda; los Héroes deben ganarse su confianza mediante un pulpo, la amistad de sus compañeros o su defensa frente a los cazadores. Si acepta el destino, lleva a ocho pasajeros con equipo y hasta quinientos kilogramos de carga a la isla; si rechaza la petición, se sumerge y se aleja.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/campana-de-angajuk.webp"
   },
   {
@@ -19047,7 +19047,7 @@
      "label": "Letras supervivientes del libro"
     }
    ],
-   "notes": "Parte de la cresta se derrumbó y dejó el extremo oeste suspendido sobre el desfiladero; inspeccionar los pilotes de 20 pies permite advertir el peligro del suelo de B4. Las puertas están cerradas sin llave y las ventanas permiten entrar. El visitante hombre oso puede aparecer si el grupo se atasca; desconoce la historia del lugar y puede guiarles hasta siete días evitando Diez-Ciudades.",
+   "notes": "Parte de la cresta se derrumbó y dejó el extremo oeste suspendido sobre el desfiladero; inspeccionar los pilotes de 6 metros permite advertir el peligro del suelo de B4. Las puertas están cerradas sin llave y las ventanas permiten entrar. El visitante hombre oso puede aparecer si el grupo se atasca; desconoce la historia del lugar y puede guiarles hasta siete días evitando Diez-Ciudades.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/acercamiento-cabana.webp"
   },
   {
@@ -19193,7 +19193,7 @@
      "label": "Letras supervivientes del libro"
     }
    ],
-   "notes": "Ambas entradas están en esta pasarela y la brecha se salta sin prueba. Un tramo occidental de 5 pies colapsa con más de 150 libras: una prueba de Destreza decide entre caer 20 pies a la nieve con herido-1 o deslizarse al desfiladero con herido-4; ambas caídas añaden tumbado-1.",
+   "notes": "Ambas entradas están en esta pasarela y la brecha de 1 metro se salta sin tirada. Un tramo occidental de 1,5 metros cede con más de 75 kg. Al ceder las tablas, dirigirse hacia la nieve es una reacción arriesgada: con éxito se cae 6 metros y se sufre [herido-1] y [tumbado-1]; con fallo se cae al desfiladero y se sufre [herido-4] y [tumbado-1].",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/pasarela-madera.webp"
   },
   {
@@ -19349,7 +19349,7 @@
      "label": "Letras supervivientes del libro"
     }
    ],
-   "notes": "El esqueleto es Macreadus; entre las cenizas hay un amuleto de salud intacto y el libro conserva las letras ÉZHER. Al recoger por primera vez la Estrella su núcleo brilla como una vela: soltarla inmediatamente evita la explosión; después de descargarse puede manipularse con seguridad. El suelo debilitado cede con 150 libras o más. Los muertos en la cabaña quedan como espíritus vinculados al lugar, capaces de ver a Macreadus en la Frontera Etérea.",
+   "notes": "El esqueleto es Macreadus; entre las cenizas hay un amuleto de salud intacto y el libro conserva las letras ÉZHER. Al recoger por primera vez la Estrella su núcleo brilla como una vela: soltarla inmediatamente evita la explosión; después de descargarse puede manipularse con seguridad. El suelo debilitado cede con 75 kg o más. Los muertos en la cabaña quedan como espíritus vinculados al lugar, capaces de ver a Macreadus en la Frontera Etérea.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/habitacion-principal.webp"
   },
   {
@@ -19416,7 +19416,7 @@
      "label": "Letras supervivientes del libro"
     }
    ],
-   "notes": "El vino procede de un viñedo del valle de Dessarin, a cientos de millas al sur. Descongelarlo y beberlo enfada a Macreadus, que puede retirar su ayuda y su favor aunque ya no pueda disfrutar de la reserva.",
+   "notes": "El vino procede de un viñedo del valle de Dessarin, a cientos de kilómetros al sur. Descongelarlo y beberlo enfada a Macreadus, que puede retirar su ayuda y su favor aunque ya no pueda disfrutar de la reserva.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/reserva-vino.webp"
   },
   {
@@ -19494,7 +19494,7 @@
      "label": "Letras supervivientes del libro"
     }
    ],
-   "notes": "Una prueba de Arcanos identifica a Blare como un homúnculo muerto con su amo. Los planos dan ventaja para identificar la Estrella de Verano. La chimenea permite fundir el cuarto de libra de metal necesario para el tercer anillo; las herramientas del taller sirven para inscribirlo y modificarlo.",
+   "notes": "Los conocimientos de magia permiten reconocer a Blare como un homúnculo que murió con su amo. Los planos cuentan como etiqueta a favor para identificar la Estrella de Verano. La chimenea permite fundir los 125 gramos de metal necesario para el tercer anillo; las herramientas del taller sirven para inscribirlo y modificarlo.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/laboratorio-macreadus.webp"
   },
   {
@@ -20260,7 +20260,7 @@
      "label": "Carta de Cobre a Macreadus"
     }
    ],
-   "notes": "La manada ya ha consumido todos los suministros robados a los viajeros. Solo quedan los contenedores y no hay tesoro indicado.",
+   "notes": "La manada ya ha consumido todos los suministros robados a los viajeros. Solo quedan los contenedores y no queda tesoro.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -20428,7 +20428,7 @@
     }
    ],
    "handouts": [],
-   "notes": "Conserva una jabalina y 60 puntos de vida del original; su mangual y otras dos jabalinas cayeron al abismo. Agarra a quien alcance y lo apuñala después; liberado, ataca a la criatura más cercana y no parlamenta. Los gnolls esperan a que se debilite para matarlo y comérselo; demorarse en la Fisura puede traer seis cazadores, con un 20 % de posibilidades de llevar presa para un festín en Z2. Aprovechar su animadversión hacia Chyzka facilita el tránsito, aunque siguen amenazando Diez Ciudades.",
+   "notes": "Conserva una jabalina; su mangual y otras dos jabalinas cayeron al abismo. Agarra a quien alcance y lo apuñala después; liberado, ataca a la criatura más cercana y no parlamenta. Los gnolls esperan a que se debilite para matarlo y comérselo; demorarse en la Fisura puede traer seis cazadores, con un 20 % de posibilidades de llevar presa para un festín en Z2. Aprovechar su animadversión hacia Chyzka facilita el tránsito, aunque siguen amenazando Diez Ciudades.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -20740,7 +20740,7 @@
     }
    ],
    "handouts": [],
-   "notes": "Gelym y Tyzar atacan a cualquier intruso si no han sido atraídos a otra zona. El tobogán mide veinticinco pies y exige trepar con éxito sin magia ni equipo; fallar por cinco o más provoca una caída al barranco sobre nieve blanda. La sangre del matadero y los residuos se vierten por él; el tesoro está al este.",
+   "notes": "Si siguen en la guarida, Gelym y Tyzar están acurrucados juntos en la zona oriental. Gelym y Tyzar atacan a cualquier intruso si no han sido atraídos a otra zona. Recorrer el tobogán de 8 metros sin magia ni equipo es una acción arriesgada: con éxito se cruza; con fallo se cae al barranco y se sufren [herido-2], [tumbado-1] y [empapado-1]. La sangre del matadero y los residuos se vierten por él; el tesoro está al este.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -20808,7 +20808,7 @@
     }
    ],
    "handouts": [],
-   "notes": "El brasero, regalo de Auril, mantiene inmortales a los berserkers de Q3 a Q8 y sus túneles; ninguna otra criatura recibe protección. Detectar magia revela abjuración poderosa: el brasero no puede moverse ni dañarse y el agua no apaga la llama. Disipar magia la extingue una hora y moldear piedra para siempre; los berserkers no perciben automáticamente el apagado.",
+   "notes": "El brasero, regalo de Auril, mantiene inmortales a los berserkers de Q3 a Q8 y sus túneles; ninguna otra criatura recibe protección. Percibir lo sobrenatural revela abjuración poderosa: el brasero no puede moverse ni dañarse y el agua no apaga la llama. Deshacer el encantamiento la extingue una hora y transformar mágicamente la piedra para siempre; los berserkers no perciben automáticamente el apagado.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -20919,7 +20919,7 @@
    "ambient": "dark",
    "figures": [],
    "handouts": [],
-   "notes": "Hay ochenta libras de carne fresca que los berserkers comparten con las crías. Puede cocinarse o cambiarse en Diez Ciudades por favores y provisiones. Su valor de referencia es cinco piezas de plata por libra.",
+   "notes": "Hay 40 kilos de carne fresca que los berserkers comparten con las crías. Puede cocinarse o cambiarse en Diez Ciudades por favores y provisiones.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -21054,7 +21054,7 @@
      "label": "Inscripción de Jax el Tuerto"
     }
    ],
-   "notes": "Tres berserkers regresan con su presa; pueden evitarse con sigilo. En la calzada no reciben el beneficio del fuego de la Doncella de Escarcha e intentan alcanzar la cueva. Si el fuego se ha apagado, solo lo descubrirán cuando uno muera dentro.",
+   "notes": "Tres berserkers regresan con su presa; pueden evitarse con sigilo. En la calzada no reciben el beneficio del fuego de la Doncella de la Escarcha e intentan alcanzar la cueva. Si el fuego se ha apagado, solo lo descubrirán cuando uno muera dentro.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -21164,7 +21164,7 @@
      "label": "Inscripción de Jax el Tuerto"
     }
    ],
-   "notes": "El hielo no se rompe bajo el grupo; escalar exige equipo, magia o afrontar el casco helado. A menos de cuatro metros y medio se oyen golpes y gruñidos del trol. El sigilo permite sorprenderlo; los pasos y crujidos pueden atraerlo.",
+   "notes": "El hielo no se rompe bajo el grupo; escalar exige equipo, magia o afrontar el casco helado. A menos de cinco metros se oyen golpes y gruñidos del trol. El sigilo permite sorprenderlo; los pasos y crujidos pueden atraerlo.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -21497,7 +21497,7 @@
      "label": "Inscripción de Jax el Tuerto"
     }
    ],
-   "notes": "El mapa de la Costa de la Espada mide unos 1,8 metros de lado. El mapa del valle y las herramientas también son recuperables y sirven para futuras rutas.",
+   "notes": "El mapa de la Costa de la Espada mide unos dos metros de lado. El mapa del valle y las herramientas también son recuperables y sirven para futuras rutas.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -21630,7 +21630,7 @@
      "label": "Inscripción de Jax el Tuerto"
     }
    ],
-   "notes": "Lunazul murió de hambre vigilando el botín; Historia difícil identifica su insignia Suljack y sus hazañas, y una historia creíble inventada por un jugador concede inspiración. La llave está en su chaqueta; limpiar el cofre lleva diez minutos con herramientas o calor. Contiene 150 po, 520 pp, brazaletes de 25 y 250 po y una bolsa gris de trucos, además de doce corchos en el compartimento que quedó vacío. El diario termina con el regreso del dragón y los kobolds no entraron aquí.",
+   "notes": "Lunazul murió de hambre vigilando el botín; Recordar su facción y sus hazañas exige una acción con [piratería poco conocida] en contra; una historia creíble aportada por un jugador puede crear [relato del capitán]. La llave está en su chaqueta; limpiar el cofre lleva diez minutos con herramientas o calor. Contiene [monedas del capitán], un brazalete de oro pequeño y otro grande y una bolsa gris de trucos, además de doce corchos en el compartimento que quedó vacío. El diario termina con el regreso del dragón y los kobolds no entraron aquí.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -21934,7 +21934,7 @@
       "flag": [
        "mr-doncella-escarcha",
        "slug",
-       "kobolds-viento"
+       "kobolds-valle"
       ]
      },
      "label": ""
@@ -21962,7 +21962,7 @@
      "label": "Inscripción de Jax el Tuerto"
     }
    ],
-   "notes": "Los kobolds no abren: derribar la puerta exige Fuerza difícil. Tras una sola descarga quedan desarmados y pueden parlamentar si se les ofrece seguridad. Los barriles verticales contienen agua congelada; veneran al dragón, pero no saben cuándo regresará y creen que él siempre lo sabe.",
+   "notes": "Los kobolds no abren: derribar la puerta es una acción arriesgada con [barra interior] en contra; el éxito crea [puerta derribada] y el fallo hace ruido sin abrirla. Tras una sola descarga quedan desarmados y pueden parlamentar si se les ofrece seguridad. Los barriles verticales contienen agua congelada; veneran al dragón, pero no saben cuándo regresará y creen que él siempre lo sabe. Los cuatro kobolds arrojan sus jabalinas contra la primera criatura que entra.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -22065,7 +22065,7 @@
       "flag": [
        "mr-doncella-escarcha",
        "slug",
-       "kobolds-viento"
+       "kobolds-valle"
       ]
      },
      "label": ""
@@ -22083,7 +22083,7 @@
      "label": "Inscripción de Jax el Tuerto"
     }
    ],
-   "notes": "Al final de cada hora hay un 20 % de posibilidades de regreso: Arveiaturace inspecciona la bodega, sigue huellas si falta tesoro y rompe paredes para alcanzar intrusos; si no detecta nada, se marcha a comer una morsa. Solo ve a unos dieciocho metros y el grupo no es rival para ella. La caída de Meltharond interrumpe su ataque: pide ayuda para recolocarlo y promete clemencia falsamente, algo detectable con Perspicacia enfrentada a Engaño. Durante la huida no abandona el cadáver; después recuerda que puede recogerlo y vuela al glaciar Reghed.",
+   "notes": "Al final de cada hora hay un 20 % de posibilidades de regreso: Arveiaturace inspecciona la bodega, sigue huellas si falta tesoro y rompe paredes para alcanzar intrusos; si no detecta nada, se marcha a comer una morsa. Solo ve a unos dieciocho metros y el grupo no es rival para ella. La caída de Meltharond interrumpe su ataque: pide ayuda para recolocarlo y promete clemencia falsamente, algo que pueden descubrir interpretando sus intenciones con [promesa engañosa] en contra. Durante la huida no abandona el cadáver; después recuerda que puede recogerlo y vuela al glaciar Reghed.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -22272,7 +22272,7 @@
      "label": "Señal de socorro del Id Ascendente"
     }
    ],
-   "notes": "La nave se estrelló hace siete días; se llega por el supuesto cometa, la baliza o el secreto del prisionero fugado. Dos carroñeros atacan para paralizar y arrastrar prisioneros; percepción pasiva 11 evita la sorpresa. Dentro hay techos de 20 pies, luz tenue y puertas carnosas que responden a mentes telepáticas. El soporte vital mantiene 10 °C durante 24 horas desde la llegada; después pierde 10 °F por hora hasta alcanzar la temperatura exterior.",
+   "notes": "La nave se estrelló hace siete días; se llega por el supuesto cometa, la baliza o el secreto del prisionero fugado. Dos carroñeros acechan para paralizar y arrastrar prisioneros; advertir su presencia entre la nieve es una acción arriesgada y un fallo deja al grupo [sorprendido-2]. Dentro hay techos de 6 metros, luz tenue y puertas carnosas que responden a mentes telepáticas. El soporte vital mantiene 10 °C durante 24 horas desde la llegada; después la temperatura baja unos 6 °C por hora hasta igualar el exterior.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -22361,7 +22361,7 @@
      "label": "Señal de socorro del Id Ascendente"
     }
    ],
-   "notes": "La puerta está cerrada, pero no bloqueada: abrirla requiere una acción y Fuerza (Atletismo), dificultad 14. El ruido alerta a las criaturas de N2. Las balistas exteriores están inoperables desde el accidente.",
+   "notes": "La puerta está cerrada, pero no bloqueada. Forzarla es una acción arriesgada: con éxito se abre; con fallo sigue cerrada y el ruido alerta a las criaturas de la bodega. Las balistas exteriores están inoperables desde el accidente.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -22461,7 +22461,7 @@
      "label": "Señal de socorro del Id Ascendente"
     }
    ],
-   "notes": "Sin un cerebromorfo al frente del grupo, el gólem ataca hasta dejar inconscientes a los Héroes y los calamardos intentan devorar sus cerebros; Dredavex llega tras dos asaltos. Si ha muerto un calamardo, convoca a Vorryn y combate con intención de matar; de lo contrario, detiene al gólem. Hay tres rifles intactos con 30 disparos cada uno y tres inútiles; aprender a disparar y recargar requiere dos pruebas de Inteligencia. Las cadenas sujetaron a los dos carroñeros y un terrarón liberados tras el choque; los cuatro barriles contienen lubricante y cerebros humanoides licuados.",
+   "notes": "Sin un cerebromorfo al frente del grupo, el gólem ataca hasta dejar inconscientes a los Héroes y los calamardos intentan devorar sus cerebros; Dredavex llega tras dos asaltos. Si ha muerto un calamardo, convoca a Vorryn y combate con intención de matar; de lo contrario, detiene al gólem. Hay tres rifles intactos con 30 disparos cada uno y tres inútiles; Aprender a disparar y recargar requiere experimentar en dos acciones arriesgadas: con éxito se crean, respectivamente, [disparo comprendido] y [recarga comprendida]; con fallo se desperdicia energía de la célula. Las cadenas sujetaron a los dos carroñeros y un terrarón liberados tras el choque; los cuatro barriles contienen lubricante y cerebros humanoides licuados. Rin, Rix y Zglarrd deberían limpiar, pero empujan basura y molestan al gólem. Hay dos barriles de lubricante, dos de lechada rosa de cerebros humanoides, una caja de piezas de máquinas, una de armas y tres cajas que sirven de vivienda a los calamardos.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -22585,7 +22585,7 @@
      "label": "Señal de socorro del Id Ascendente"
     }
    ],
-   "notes": "La balista funciona y puede defender la nave de amenazas exteriores. Sin leer o traducir las instrucciones, dispararla requiere Inteligencia (Arcanos), dificultad 15. Un fallo por 5 o más causa una avería que inflige herido-2 por metralla a un objetivo aleatorio a menos de 10 pies.",
+   "notes": "La balista funciona y puede defender la nave de amenazas exteriores. Disparar sin comprender las instrucciones en Qualith es una acción arriesgada: con éxito alcanza el objetivo; con fallo, una avería lanza metralla e inflige [herido-2] a una criatura al azar a menos de 3 metros.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -22674,7 +22674,7 @@
      "label": "Señal de socorro del Id Ascendente"
     }
    ],
-   "notes": "Dredavex trabaja aquí si nada le ha atraído a otra zona y entrega el detector si los Héroes aceptan buscar un psicocristal. Tras estudiar la tecnología al menos una hora, Inteligencia (Arcanos), dificultad 25, permite prolongar el soporte vital 24 horas y crear soporte vital estabilizado. El detector chasquea cuando hay un psicocristal a menos de 5 millas y acelera al acercarse.",
+   "notes": "Dredavex trabaja aquí si nada le ha atraído a otra zona y entrega el detector si los Héroes aceptan buscar un psicocristal. Tras estudiar la tecnología durante al menos una hora, reparar el soporte vital exige alcanzar [reparación-4] mediante varias acciones o emplear Poderío de Aventura o Grandeza. El éxito prolonga su funcionamiento 24 horas y crea la etiqueta de historia [soporte vital estabilizado]; un fallo acelera el deterioro y crea [sistema inestable]. El detector chasquea cuando hay un psicocristal a menos de 8 kilómetros y acelera al acercarse.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -22810,7 +22810,7 @@
      "label": "Señal de socorro del Id Ascendente"
     }
    ],
-   "notes": "Vorryn suele estar aquí, comunicándose con las conciencias licuadas de desolladores que fluyen por la nave; un no ilícido que toque ambos orbes sufre aturdido-4 durante 10 minutos salvo resistencia. Si ambos capitanes tocan un orbe cada uno, comienza una cuenta irreversible de 60 segundos en Habla Profunda: la explosión desintegra la nave y causa 70 (20d6) de fuerza dentro y a 60 pies, visible desde Diez Ciudades. Un ilícido puede apagar la baliza mediante el timón; cualquiera puede arrancarla con Fuerza 16 o cortarla o destruirla (CA 10, 15 puntos de vida, resistencia psíquica). Las puertas llevan a N8 y N9 y las escaleras a N4.",
+   "notes": "Vorryn suele estar aquí, comunicándose con las conciencias licuadas de desolladores de mentes que fluyen por la nave. Un no ilícido que toque ambos orbes debe reaccionar ante la descarga mental; si no logra protegerse, sufre [aturdido-4] durante diez minutos. Si ambos capitanes tocan un orbe cada uno, comienza una cuenta atrás irreversible de 60 segundos en Habla Profunda. La explosión desintegra la nave y amenaza con [herido-6] a quienes estén dentro o a menos de 18 metros; es visible desde Diez Ciudades. Un ilícido puede apagar la baliza mediante el timón. Arrancarla exige vencer la etiqueta en contra [anclaje resistente]; un fallo causa [herido-2]. También puede cortarse o destruirse: límite destrozado 2; su carne cristalina cuenta como etiqueta en contra de ataques psíquicos. Las puertas llevan a la plataforma de observación y los camarotes; las escaleras, a la cubierta de armas.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -23117,7 +23117,7 @@
      "label": "Runas de los seis braseros"
     }
    ],
-   "notes": "Las apariciones solo son visibles al entrar bajo la luna llena; fuera de ese momento no hay nada con lo que interactuar, y no pueden dañarse ni expulsarse. El aura nigromántica alcanza diez pies más allá del anillo y vuelve vulnerables al frío a quienes no tienen resistencia o inmunidad. Reggaryarva invoca primero al esqueleto y después a dos acechadores: vencerlos hace que los seis jarls canten y eleven su trono treinta pies, revelando la escalera; al ocultarse la luna, el trono sella la entrada. Si acompaña al grupo, Yselm traiciona durante el ascenso junto a un lobo invernal; ambos luchan hasta la muerte.",
+   "notes": "Las apariciones solo son visibles al entrar bajo la luna llena; fuera de ese momento no hay nada con lo que interactuar, y no pueden dañarse ni expulsarse. El aura nigromántica alcanza 3 metros más allá del anillo y vuelve vulnerables al frío a quienes no tienen protección sobrenatural. Reggaryarva invoca primero al esqueleto y después a dos acechadores: vencerlos hace que los seis jarls canten y eleven su trono 9 metros, revelando la escalera; al ocultarse la luna, el trono sella la entrada. Si acompaña al grupo, Yselm traiciona durante el ascenso junto a un lobo invernal; ambos luchan hasta la muerte.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -23195,7 +23195,7 @@
      "label": "Runas de los seis braseros"
     }
    ],
-   "notes": "La puerta desbloqueada hacia J5 se empuja con Fuerza (Atletismo), dificultad 15; los huecos de un pie de la verja no permiten pasar a personajes pequeños ni medianos. Quien entienda enano o gigante lee dod (muerte), fjell (montaña), krig (guerra), liv (vida), vind (viento) y wyrm (dragón). Los ingredientes respectivos son criatura diminuta muerta o tres gotas de sangre de muerto; piedra de montaña; flecha u otra munición; tres gotas de sangre viva; aire soplado; y escama, colmillo o garra de dragón. Cada brasero destruye su contenido no mágico y arde una hora: la verja hacia J3 solo se abre mientras arden los seis, y J5 contiene buena parte de los ingredientes.",
+   "notes": "La puerta hacia la cámara de los cofres está desbloqueada. Empujarla es una acción arriesgada: con éxito se abre; con fallo, el esfuerzo causa [agotado-2]. Los huecos de 30 centímetros de la verja no permiten pasar a personajes pequeños ni medianos. Quien entienda enano o gigante lee dod (muerte), fjell (montaña), krig (guerra), liv (vida), vind (viento) y wyrm (dragón). Los ingredientes respectivos son criatura diminuta muerta o tres gotas de sangre de muerto; piedra de montaña; flecha u otra munición; tres gotas de sangre viva; aire soplado; y escama, colmillo o garra de dragón. Cada brasero destruye su contenido no mágico y arde una hora: la verja hacia J3 solo se abre mientras arden los seis, y J5 contiene buena parte de los ingredientes.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -23262,7 +23262,7 @@
      "label": "Runas de los seis braseros"
     }
    ],
-   "notes": "La galería comunica J2 con J4 y no guarda secretos. Abrir cualquiera de las puertas requiere una acción y una prueba de Fuerza (Atletismo) de dificultad 15.",
+   "notes": "La galería comunica el salón de los braseros con la cámara de la llave dorada y no guarda secretos. Empujar cualquiera de las puertas es una acción arriesgada: con éxito se abre; con fallo, el esfuerzo causa [agotado-2].",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -23341,7 +23341,7 @@
      "label": "Runas de los seis braseros"
     }
    ],
-   "notes": "La llave dorada se retira sin peligro y vale 25 po; no abre el cofre, que admite la llave de plata de J5, herramientas de ladrones con Destreza de dificultad 20 tras retirar la dorada, o un conjuro de apertura. Al levantar la tapa, seis hachas de batalla voladoras atacan (estadísticas de espada voladora); dentro hay un cuerno de explosión sujeto por una abrazadera de madera. Girar la llave dorada crea sobre el cofre, en la pared norte, un portal cuadrado de diez pies hacia un espacio libre de J1: es unidireccional, invisible e inutilizable desde el anillo. Se cierra a los diez minutos, devolviendo la llave a su posición, o inmediatamente al retirarla; los viajeros sufren ataques de cuervos, suficientes para cuatro enjambres.",
+   "notes": "La llave dorada se retira sin peligro y sirve como etiqueta de mochila [llave de oro valiosa]; no abre el cofre, que admite la llave de plata de J5, herramientas de cerrajero tras retirar la dorada: abrirla exige acumular [cerradura forzada-4] o recurrir a Poderío de Aventura o Grandeza adecuado para abrir cerraduras. La magia capaz de abrir cerraduras también sirve. Al levantar la tapa, seis hachas de batalla voladoras atacan; dentro hay un cuerno de explosión sujeto por una abrazadera de madera. Girar la llave dorada crea sobre el cofre, en la pared norte, un portal cuadrado de 3 metros hacia un espacio libre de J1: es unidireccional, invisible e inutilizable desde el anillo. Se cierra a los diez minutos, devolviendo la llave a su posición, o inmediatamente al retirarla; los viajeros sufren ataques de cuervos, suficientes para cuatro enjambres.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -23408,7 +23408,7 @@
      "label": "Runas de los seis braseros"
     }
    ],
-   "notes": "Las llaves se alcanzan trepando, usando magia o apilando cofres; el anillo pesa demasiado para mano de mago, pero desenroscar el gancho permite dejarlo caer. Las cuatro llaves de hierro abren estos cofres y la de plata, valorada en 2 po, abre el de J4. Cada cofre pesa 150 libras, mide diez por cinco por seis pies y admite herramientas de ladrones con Destreza de dificultad 15 o un conjuro de apertura. Contienen, uno por cofre, una flecha élfica, un búho nival muerto y congelado, una escama de dragón blanco joven y una piedra de la Cumbre Kelvin, útiles para los braseros.",
+   "notes": "Las llaves se alcanzan trepando, usando magia o apilando cofres; el anillo pesa demasiado para una manipulación mágica leve, pero desenroscar el gancho permite dejarlo caer. Las cuatro llaves de hierro abren estos cofres y la de plata, útil como etiqueta de mochila [llave de plata valiosa], abre el de J4. Cada cofre pesa 75 kilos, mide 3 metros de largo, 1,5 de ancho y 2 de alto y puede abrirse con magia capaz de abrir cerraduras. Forzarlo con herramientas de cerrajero es una acción arriesgada: con éxito se abre; con fallo, las herramientas resbalan y causan [herido-1]. Contienen, uno por cofre, una flecha élfica, un búho nival muerto y congelado, una escama de dragón blanco joven y una piedra de la Cumbre Kelvin, útiles para los braseros.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -23499,7 +23499,7 @@
      "label": "Runas de los seis braseros"
     }
    ],
-   "notes": "Gromin'gorn llega para superar la prueba de sus antepasados y poder liderar a su tribu; se muestra hostil. Si ve el cuerno de explosión llevado abiertamente, lo reclama como su prueba ancestral y combate con una cadena de diez pies y un yunque, con dos ataques por acción. Derrotarla o satisfacerla entregando el cuerno, a discreción del Narrador, concede un favor de los gigantes y un hito.",
+   "notes": "Gromin'gorn llega para superar la prueba de sus antepasados y poder liderar a su tribu; se muestra hostil. Si ve el cuerno de explosión llevado abiertamente, lo reclama como su prueba ancestral y combate con una cadena de 3 metros y un yunque, con golpes encadenados que pueden alcanzar a dos Héroes cercanos. Derrotarla o satisfacerla entregando el cuerno, a discreción del Narrador, concede un favor de los gigantes y un hito.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -23578,7 +23578,7 @@
      "label": "Nota de Yarb-Gnock al Consejo"
     }
    ],
-   "notes": "Las llaves de hierro abren los cofres; la plateada abre el de J4. Alcanzar el aro requiere escalar o apilar cofres; mano de mago puede desenroscar el gancho, pero no levantar el aro. Forzar una cerradura exige Destreza con herramientas de ladrón CD 15; cada cofre pesa 150 libras y mide 10 × 5 × 6 pies. Abrir el del cuerno activa seis hachas voladoras; los demás guardan las curiosidades descritas en objetos.",
+   "notes": "Las llaves de hierro abren los cofres; la plateada abre el de la cámara contigua del Concilio. Alcanzar el aro requiere escalar o apilar cofres; una manipulación mágica a distancia puede desenroscar el gancho, pero no levantar el aro. Forzar una cerradura exige una acción arriesgada con herramientas o magia que abra cerraduras; con éxito se crea [cerradura abierta] y, con fallo, [cerradura atascada]; cada cofre pesa 75 kg y mide 3 × 1,5 × 2 metros. Abrir el del cuerno activa seis hachas voladoras; los demás guardan las curiosidades descritas en objetos.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -23836,7 +23836,7 @@
      "label": "Nota de Yarb-Gnock al Consejo"
     }
    ],
-   "notes": "Cada torre alberga cuatro goblins y ofrece cobertura media contra ataques exteriores. Acercarse o subir sin ser detectado exige Sigilo CD 9, como prueba de grupo si procede. El cuerno alerta a toda la fortaleza y crea [alerta en Karkolohk]; los guardias disparan a quienes detectan.",
+   "notes": "Cada torre alberga cuatro goblins y ofrece protección de las almenas contra ataques exteriores. Acercarse o subir sin ser detectado exige cautela, sin tirada salvo con prisa o peligro; con fallo se alerta a los centinelas. El cuerno alerta a toda la fortaleza y crea [alerta en karkolohk]; los guardias disparan a quienes detectan.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -23915,7 +23915,7 @@
      "label": "Nota de Yarb-Gnock al Consejo"
     }
    ],
-   "notes": "Hay cuatro goblins en las murallas y seis sobre la puerta; Sigilo CD 9 permite aproximarse sin ser visto. Forzar el candado requiere herramientas de ladrón y Destreza CD 20; una criatura pequeña puede pasar por los huecos con Acrobacias CD 20. Snubsuk lleva la llave; el éxito crea [puerta abierta], mientras que el fallo puede producir [manos entumecidas-1], ruido y alarma.",
+   "notes": "Hay cuatro goblins en las murallas y seis sobre la puerta; Es posible aproximarse con cautela sin tirada salvo con prisa o peligro; si se tira, un fallo alerta a los guardias. Forzar el candado con herramientas exige alcanzar [cerradura vencida-4]; pasar por los huecos, siendo pequeño, exige [paso franqueado-4]. Ambos obstáculos también pueden superarse con Poderío de Aventura o Grandeza adecuado. Snubsuk lleva la llave; el éxito crea [puerta abierta], mientras que el fallo puede producir [manos entumecidas-1], ruido y alarma.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -24026,7 +24026,7 @@
      "label": "Nota de Yarb-Gnock al Consejo"
     }
    ],
-   "notes": "El huargo carga contra los intrusos y desmonta a Snubsuk, que huye hacia K5 con la llave esposada a la muñeca. El puente de treinta pies está intacto y sin vigilancia; el de cincuenta tiene un hueco cuyos escombros se quemaron. Las jaulas de madera alojaban a los osos polares de los carros; la jaula colgante contiene un humano muerto.",
+   "notes": "El huargo carga contra los intrusos y desmonta a Snubsuk, que huye hacia la plataforma de batalla con la llave esposada a la muñeca. El puente de nueve metros está intacto y sin vigilancia; el de cincuenta tiene un hueco cuyos escombros se quemaron. Las jaulas de madera alojaban a los osos polares de los carros; la jaula colgante contiene un humano muerto.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -24195,7 +24195,7 @@
      "label": "Nota de Yarb-Gnock al Consejo"
     }
    ],
-   "notes": "El jefe habla a la tribu desde esta plataforma; las escotillas permiten acceder al aparejo de carga. El guardián procede de Ythryn, tiene casi dos mil años y conserva un máximo de vitalidad reducido a 80. El amuleto de la Aguja Perdida de Netheril permite activarlo y vincularlo; comprender las poleas exige Inteligencia CD 15. Bajarlo puede conceder [guardián vinculado] o un desafío aliado.",
+   "notes": "El jefe habla a la tribu desde esta plataforma; las escotillas permiten acceder al aparejo de carga. El guardián procede de Ythryn, tiene casi dos mil años y presenta [estructura deteriorada]. El amuleto de la Aguja Perdida de Netheril permite activarlo y vincularlo; comprender las poleas exige una acción arriesgada: con éxito se crea [aparejo comprendido]; con fallo, [poleas atascadas]. Bajarlo puede conceder [guardián vinculado] o un desafío aliado.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -24374,7 +24374,7 @@
      "label": "Nota de Yarb-Gnock al Consejo"
     }
    ],
-   "notes": "Los condenados deben saltar o morir a espada de sus parientes. Más de 200 libras sobre la mitad exterior rompen la pasarela; Agilidad CD 16 permite saltar a salvo y quedar tumbado junto a la pendiente. El fallo supone una caída de 150 pies y [herido-6], potencialmente mortal; repartir el peso o usar cuerdas evita el colapso.",
+   "notes": "Los condenados deben saltar o morir a espada de sus parientes. Más de 100 kg sobre la mitad exterior rompen la pasarela. Saltar a terreno firme es una acción arriesgada con [tablones que ceden] como etiqueta en contra; con éxito se queda a salvo y [derribado-1]; con fallo se cae 45 metros y se sufre [herido-6], una consecuencia potencialmente mortal. Las cuerdas pueden evitar la caída. Repartir el peso evital colapso.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -24452,7 +24452,7 @@
      "label": "Nota de Yarb-Gnock al Consejo"
     }
    ],
-   "notes": "Cada cabaña alberga un adulto y 1d6 niños no combatientes. Si el fuerte es atacado, los residentes recogen las escaleras; escalar el acantilado helado exige Atletismo CD 15. Atacar a las familias puede provocar un levantamiento general y consecuencias morales.",
+   "notes": "Cada cabaña alberga un adulto y entre uno y seis niños no combatientes. Si el fuerte es atacado, los residentes recogen las escaleras; escalar el acantilado helado exige una acción arriesgada: con éxito se crea [acceso a la choza]; con fallo se sufre [herido-2]. Atacar a las familias puede provocar un levantamiento general y consecuencias morales.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -24709,7 +24709,7 @@
      "label": "Nota de Yarb-Gnock al Consejo"
     }
    ],
-   "notes": "Los diplomáticos esperan a que Spellix se disfrace y sirven cabra cocida unos diez minutos después. Puede entregar la nota de paz para el Consejo de Bryn Shander o pedir escolta para huir; los goblins interpretan la fuga como secuestro y atacan, mientras él solo se defiende. Cuando no se usa la sala, un goblin guarda la puerta este y abre a conocidos; forzarla desde el otro lado exige Atletismo CD 22. Durante el banquete el guardia se retira a K10.",
+   "notes": "Los diplomáticos esperan a que Spellix se disfrace y sirven cabra cocida unos diez minutos después. Puede entregar la nota de paz paral Consejo de Bryn Shander o pedir escolta para huir; los goblins interpretan la fuga como secuestro y atacan, mientras él solo se defiende. Cuando no se usa la sala, un goblin guarda la puerta este y abre a conocidos; forzarla desdel otro lado exige alcanzar [puerta derribada-4] mediante varias acciones o emplear Poderío de Aventura o Grandeza adecuado; un fallo puede crear [alerta en karkolohk]. Durante el banquete el guardia se retira a los barracones.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -24788,7 +24788,7 @@
      "label": "Nota de Yarb-Gnock al Consejo"
     }
    ],
-   "notes": "Usa la lectura cuando el disfraz esté a la vista; si Spellix ya lo lleva, presenta a un jefe goblin corpulento, desaseado y autoritario. Forzar la puerta exige Fuerza CD 15; Spellix necesita un minuto para vestirse y gana tiempo charlando en goblin. Sorprenderlo a medio disfrazar puede crear [Yarb-Gnock desenmascarado] y provocar un motín.",
+   "notes": "Usa la lectura cuando el disfraz esté a la vista; si Spellix ya lo lleva, presenta a un jefe goblin corpulento, desaseado y autoritario. Forzar la puerta exige una acción arriesgada: con éxito se crea [puerta abierta]; con fallo, [alerta en karkolohk]; Spellix necesita un minuto para vestirse y gana tiempo charlando en goblin. Sorprenderlo a medio disfrazar puede crear [yarb-gnock desenmascarado] y provocar un motín.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -24866,7 +24866,7 @@
      "label": "Mensaje del mago en loross"
     }
    ],
-   "notes": "Historia 15 permite reconocer piedra moldeada con magia; con 20 se identifica la parte superior de una estructura enterrada. La búsqueda descubre un túnel resbaladizo de metro y medio: Atletismo 15 sin cuerdas ni magia evita deslizarse hasta P1, derribado pero sin daño. Volver a subir requiere equipo de escalada o magia; un guía cobra al menos 20 po y regresa tras mostrar la entrada.",
+   "notes": "Examinar la piedra es una acción para descubrir su origen: con éxito se reconoce que fue moldeada con magia; los conocimientos sobre piedra cuentan a favor. Con fallo, su origen sigue siendo incierto. Descubrir que es la punta de una estructura enterrada exige alcanzar [estructura comprendida-4] o Poderío de Aventura. La búsqueda descubre un túnel resbaladizo de metro y medio. Bajar sin cuerdas ni magia es arriesgado: con fallo se llega a la entrada con [derribado-1], sin heridas. También pueden deslizarse deliberadamente. Volver a subir requiere equipo de escalada o magia. El guía exige [pago generoso] y regresa tras mostrar la entrada.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -24922,7 +24922,7 @@
      "label": "Mensaje del mago en loross"
     }
    ],
-   "notes": "Las salas tienen unos 3,6 metros de altura y las puertas invertidas forman obstáculos de 1,2 metros. El guardián del escudo excavó los túneles antes de salir y acabar en Karkolohk; para recorrerlos con seguridad hacen falta cuerdas o magia. La iluminación mágica es constante y no calienta.",
+   "notes": "Las salas tienen unos cuatro metros de altura y las puertas invertidas forman obstáculos de un metro. El guardián del escudo excavó los túneles antes de salir y acabar en Karkolohk; para recorrerlos con seguridad hacen falta cuerdas o magia. La iluminación mágica es constante y no calienta.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -25110,7 +25110,7 @@
      "label": "Mensaje del mago en loross"
     }
    ],
-   "notes": "La expedición contratada por Dzaan retiró lo más valioso, incluidos los libros de conjuros. Una búsqueda paciente recupera Maravillas mágicas de Netheril, Misterios de los Phaerimm y Magos en la hondonada. El túnel norte conduce a P6.",
+   "notes": "La expedición contratada por Dzaan retiró lo más valioso, incluidos los libros de fórmulas arcanas. Una búsqueda paciente recupera Maravillas mágicas de Netheril, Misterios de los Phaerimm y Magos en la hondonada. El túnel norte conduce a P6.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -25220,7 +25220,7 @@
      "label": "Mensaje del mago en loross"
     }
    ],
-   "notes": "La llave de P4 abre el cofre; forzarlo con herramientas de ladrón requiere Destreza 15. Contiene cuatro pociones de resistencia, al ácido, frío, fuego y fuerza, que caen y se rompen si no se toman precauciones. Una mano libre y Destreza 10 permiten atrapar una poción.",
+   "notes": "La llave del taller abre el cofre. Forzarlo con herramientas de ladrón es una acción arriesgada: con éxito se abre; con fallo sigue cerrado y se produce ruido. Contiene cuatro pociones que protegen del ácido, el frío, el fuego y la fuerza. Sin precauciones caen y se rompen. Con una mano libre se puede recoger una sin tirada, salvo con prisa o peligro; en ese caso, el fallo rompe la poción.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -25276,7 +25276,7 @@
      "label": "Mensaje del mago en loross"
     }
    ],
-   "notes": "Las jaulas se desmoronan fácilmente al manipularlas. Naturaleza 20 identifica el caparazón como thri-kreen. Los túneles comunican con P3 arriba y P11 abajo.",
+   "notes": "Las jaulas se desmoronan al manipularlas. Identificar el caparazón como thri-kreen exige conocimientos excepcionales: alcanzar [especie identificada-4] mediante investigación o usar Poderío de Aventura. Los túneles comunican con P3 arriba y P11 abajo.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -25386,7 +25386,7 @@
      "label": "Mensaje del mago en loross"
     }
    ],
-   "notes": "Los aprendices estudiaban bajo un conjuro de silencio permanente que aún rodea la sala. Puede disiparse con dificultad 18. El efecto pasos sirve como referencia de transición y debe silenciarse dentro de esta escena.",
+   "notes": "Una magia permanente impide todo sonido en la sala. Deshacerla exige alcanzar [silencio deshecho-3] mediante acciones mágicas. Los aprendices la usaban para estudiar. Cualquier sonido ambiental debe silenciarse dentro de esta escena.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -25652,7 +25652,7 @@
      "label": "Mensaje del mago en loross"
     }
    ],
-   "notes": "El simulacro admite su naturaleza y ofrece el amuleto si le acompañan a P16 para darle una chispa vital; ignora la muerte y los crímenes de su creador, y asegura equivocadamente que la cámara es inocua. Si le atacan, usa invisibilidad y levitar para huir mientras Krintaas cubre la retirada; si sale, va a Diez Ciudades. Ni él ni Krintaas conocen la función del amuleto; entre los libros quedan cuatro títulos legibles de P12. Quienes vieron la ejecución reconocerán el rostro de Dzaan, pero el simulacro nunca los ha visto.",
+   "notes": "El simulacro admite su naturaleza y ofrece el amuleto si le acompañan a P16 para darle una chispa vital; ignora la muerte y los crímenes de su creador, y asegura equivocadamente que la cámara es inocua. Si le atacan, se vuelve invisible y asciende flotando para huir mientras Krintaas cubre la retirada; si sale, va a Diez Ciudades. Ni él ni Krintaas conocen la función del amuleto; entre los libros quedan cuatro títulos legibles de P12. Quienes vieron la ejecución reconocerán el rostro de Dzaan, pero el simulacro nunca los ha visto.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -25709,7 +25709,7 @@
      "label": "Mensaje del mago en loross"
     }
    ],
-   "notes": "Religión 15 reconoce a Mystryl, primera encarnación de Mystra; 20 revela la rareza de sus santuarios. El altar está a unos 2,7 metros y un aura mágica de Nystul oculta su ilusión: disipar 18 permite detectarla. El primer lanzador que toque la estrella hace aparecer un único frasco que cae; Destreza 10 permite atraparlo y, si varios lo logran, vence el resultado mayor. Tras crearlo el altar pierde su magia; si el frasco se rompe, el líquido se evapora.",
+   "notes": "Reconocer el símbolo de Mystryl, primera encarnación de Mystra, es una acción de investigación: con éxito se identifica; con fallo sigue siendo un misterio. Conocer la rareza de sus santuarios exige alcanzar [culto comprendido-4] o Poderío de Aventura. El altar está a unos tres metros. Una protección oculta su naturaleza mágica; retirarla exige [protección deshecha-3] y permite percibir su magia ilusoria. La primera persona con dones mágicos que toque la estrella hace aparecer un único frasco azul que cae. Puede atraparse con una mano libre sin tirada, salvo con prisa o peligro: el fallo lo rompe y el líquido se evapora. Si varios intentan cogerlo, resolved una sola acción conjunta. Después el altar pierde su magia. Examinar el líquido con medios mágicos revela sus propiedades: beberlo entero concede [bendición de mystryl], que permite crear a voluntad pequeñas imágenes o sonidos ilusorios. Si se comparte o lo bebe alguien que ya posee ese don, se desperdicia.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -25856,7 +25856,7 @@
      "label": "Mensaje del mago en loross"
     }
    ],
-   "notes": "Perturbar al mago muerto despierta un fuego fatuo que no puede apaciguarse ni salir de la aguja; al perder más de media vitalidad se vuelve invisible y acecha a los aislados. El espejo puede desmontarse o romperse para enfrentar al basilisco. Una búsqueda exhaustiva descubre tras la cama un cofre invisible: disipar 18 lo revela, la llave de P11 lo abre y forzarlo requiere Destreza 17, con desventaja sin ver la cerradura. Su libro de conjuros, marcado con la runa del amuleto, se desintegra segundos después de abrirlo.",
+   "notes": "Perturbar los restos del mago despierta un fuego fatuo ligado a la aguja, imposible de apaciguar. Al sufrir [herido-2], se vuelve invisible y acecha a víctimas aisladas. El espejo puede desmontarse o romperse para reflejar la mirada del basilisco. Una búsqueda exhaustiva descubre un cofre invisible tras la cama. Deshacer su ocultación exige [ocultación disipada-3]. La llave del laboratorio abre su cerradura; forzarla requiere herramientas y alcanzar [cerradura forzada-3], con [cerradura invisible] en contra si no se ve. Pesa unos doce kilos, es hermético y mantiene su interior a unos 20 °C; puede cambiarse por [bolsa de monedas]. El libro de fórmulas arcanas de su interior lleva la runa del amuleto y se desintegra segundos después de abrirlo.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -25944,7 +25944,7 @@
      "label": "Mensaje del mago en loross"
     }
    ],
-   "notes": "La sala irradia transmutación; al entrar aparece una ilusión invertida del mago que explica su obra en loross, desaparece tras hablar o ser disipada y no regresa en 24 horas. Un minuto y Arcanos 15 revelan que hace reales las ilusiones; con 20 se conocen los riesgos, la chispa viviente necesaria para criaturas y la imposibilidad de crear objetos mágicos o animados, constructos y muertos vivientes. Bajo el disco se tira una vez por objeto o conjunto, y por criatura cuando la toca un ser vivo: 01–10 destruye la ilusión; 11–50 crea ectoplasma hostil disipable a dificultad 16; 51–90 la hace real durante 2d12 horas y luego desaparece; 91–00 la hace real permanentemente y quema el disco, inutilizando la cámara. Los riesgos no disuaden al simulacro: si se vuelve Dzaan real, agradece la ayuda, pide secreto y viaja con Krintaas a Bryn Shander por un libro de conjuros para luego saquear Ythryn.",
+   "notes": "La sala irradia magia transformadora. Al entrar aparece una imagen invertida del mago que explica su obra en loross; desaparece tras hablar o al deshacerla con magia y no regresa en 24 horas. Tras un minuto de estudio, investigar las runas permite comprender que hacen reales las ilusiones; con fallo, el mecanismo sigue siendo incierto. Alcanzar [runas comprendidas-4] o usar Poderío de Aventura revela sus riesgos: las criaturas necesitan el contacto de un ser vivo como chispa vital, y no pueden crearse objetos mágicos o animados, constructos ni muertos vivientes. Los objetos no necesitan chispa. Bajo el disco, se tira d100 una vez por objeto o conjunto y por criatura cuando la toca un ser vivo: 01–10 destruye la ilusión (el simulacro se derrumba en hielo y nieve); 11–50 crea ectoplasma corrosivo hostil, cuya disipación exige [manifestación deshecha-3]; 51–90 la hace real durante 2d12 horas y después desaparece; 91–00 la hace real permanentemente y quema el disco, inutilizando la cámara. El Narrador adapta los desafíos y etiquetas a la forma resultante. Los riesgos no disuaden al simulacro. Si se hace real, agradece la ayuda y pide secreto; Krintaas sigue a su lado. Ambos viajan a Bryn Shander en busca de un libro de fórmulas arcanas para que Dzaan recupere sus recursos antes de saquear Ythryn.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -26065,7 +26065,7 @@
      "label": "Las historias de los Reghed"
     }
    ],
-   "notes": "El grupo puede presentarse abiertamente o intentar infiltrarse; la ficha propone dificultad 10 para sigilo individual o grupal. Un fallo provoca gritos de alarma y los Reghed intentan capturar a los intrusos para llevarlos ante el caudillo. El campamento cambia de lugar cada uno o dos días y no figura en los mapas.",
+   "notes": "El grupo puede presentarse abiertamente o intentar infiltrarse; sin prisa y fuera de la vista de los guardias no hace falta tirar. Cruzar una zona vigilada o actuar con prisa exige una acción arriesgada: con éxito pasan inadvertidos; con fallo crean [campamento en alerta]. Un fallo provoca gritos de alarma y los Reghed intentan capturar a los intrusos para llevarlos ante el caudillo. El campamento cambia de lugar cada uno o dos días y no figura en los mapas.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -26434,7 +26434,7 @@
      "label": "Las historias de los Reghed"
     }
    ],
-   "notes": "El caudillo recibe audiencias, celebra consejos e interroga a los prisioneros en esta tienda. El respeto, la paciencia o una demostración de fuerza pueden proporcionar refugio, comida, guía o trineo. Humillarlo o amenazar a su familia lo convierte en enemigo; si es rey o reina, usa la conversión del apéndice C.",
+   "notes": "El caudillo recibe audiencias, celebra consejos e interroga a los prisioneros en esta tienda. El respeto, la paciencia o una demostración de fuerza pueden proporcionar refugio, comida, guía o trineo. Humillarlo o amenazar a su familia lo convierte en enemigo; si es rey o reina, aplica Poderío de Grandeza.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -26512,7 +26512,7 @@
      "label": "Las historias de los Reghed"
     }
    ],
-   "notes": "El chamán aconseja al caudillo y dirige los asuntos espirituales; su máscara pública corresponde al animal de su tribu. Guarda 1d4 pociones de curación y un pergamino de restauración menor, sustituible por otro conjuro de druida de primer o segundo nivel. Acepta ofrendas, servicios y favores por remedios o consejo; robar provoca enemistad y puede desencadenar maldición o persecución.",
+   "notes": "El chamán aconseja al caudillo y dirige los asuntos espirituales; su máscara pública corresponde al animal de su tribu. Guarda 1d4 remedios sanadores y un pergamino ritual para aliviar enfermedades y otros males. Acepta ofrendas, servicios y favores por remedios o consejo; robar provoca enemistad y puede desencadenar maldición o persecución.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -26752,7 +26752,7 @@
      "label": "Las historias de los Reghed"
     }
    ],
-   "notes": "Cada partida reúne 1d6 + 4 guerreros y regresa tras 2d4 horas con carne fresca. Ayudar a rastrear, cazar o defender al grupo obtiene favor, carne, información de rutas y quizá un guía. Atacarlos constituye un acto de guerra; usa la banda de guerreros de nivel 1 si hay enfrentamiento.",
+   "notes": "Cada partida reúne 1d6 + 4 guerreros y regresa tras 2d4 horas con carne fresca. Ayudar a rastrear, cazar o defender al grupo obtiene favor, carne, información de rutas y quizá un guía. Atacarlos constituye un acto de guerra; usa el desafío Banda de guerreros Reghed si hay enfrentamiento.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -26862,7 +26862,7 @@
      "label": "Índice de los registros de la prisión"
     }
    ],
-   "notes": "Hay tres guardias por torre; resuelve su detección con una sola comprobación colectiva favorecida por la vigilancia, no una por guardia. Si detectan algo extraño, uno baja a avisar y los demás mantienen sus puestos. La ventisca puede dificultar la llegada si el clima empeora.",
+   "notes": "Hay tres guardias por torre; los intentos de pasar inadvertidos afrontan [vigilancia coordinada] como etiqueta en contra y se resuelven para el grupo en conjunto. Si detectan algo extraño, uno baja a avisar y los demás mantienen sus puestos. La ventisca puede dificultar la llegada si el clima empeora.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -26874,7 +26874,7 @@
     ]
    },
    "order": 273,
-   "name": "Entrada y salas de guardia (R3)",
+   "name": "Entrada y salas de guardia",
    "reading": {
     "sceneFlag": [
      "mr-doncella-escarcha",
@@ -26950,7 +26950,7 @@
      "label": "Índice de los registros de la prisión"
     }
    ],
-   "notes": "Los guardias confiscan las armas y registran a los visitantes; ocultar una daga exige superar el registro. Los animales van a R5 y necesitan comida aportada por sus dueños. Refugio o entrevista son razones legítimas; sin una explicación satisfactoria, Marta devuelve las pertenencias y expulsa al grupo.",
+   "notes": "Los guardias confiscan las armas y registran a los visitantes; ocultar una daga es arriesgado: el éxito crea [arma oculta]; el fallo supone su confiscación y [bajo sospecha-2]. Los animales van a los establos y necesitan comida aportada por sus dueños. Refugio o entrevista son razones legítimas; sin una explicación satisfactoria, Marta devuelve las pertenencias y expulsa al grupo.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -26962,7 +26962,7 @@
     ]
    },
    "order": 274,
-   "name": "Muelle, ascensor y grúa (R1-R2)",
+   "name": "Muelle, ascensor y grúa",
    "reading": {
     "sceneFlag": [
      "mr-doncella-escarcha",
@@ -27025,7 +27025,7 @@
      "label": "Índice de los registros de la prisión"
     }
    ],
-   "notes": "La grúa se maneja mediante una palanca de hierro en la sala de guardia norte de R3. La puerta retráctil de la cabina queda en el lado opuesto a la grúa. Los barcos de abastecimiento pueden ofrecer pasaje a la isla de Auril o fuera del Lejano Norte.",
+   "notes": "La grúa se maneja mediante una palanca de hierro en la sala de guardia norte de la entrada norte. La puerta retráctil de la cabina queda en el lado opuesto a la grúa. Los barcos de abastecimiento pueden ofrecer pasaje a la isla de Auril o fuera del Lejano Norte.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -27037,7 +27037,7 @@
     ]
    },
    "order": 275,
-   "name": "Hospital, establos, comedor y cocina (R4-R8)",
+   "name": "Hospital, establos, comedor y cocina",
    "reading": {
     "sceneFlag": [
      "mr-doncella-escarcha",
@@ -27154,7 +27154,7 @@
      "label": "Índice de los registros de la prisión"
     }
    ],
-   "notes": "El hospital guarda suministros para veinte kits de curandero y seis cocineros se turnan en R8, junto a despensa, cámara fría y dormitorio. De los diez aposentos de R7, tres pertenecen a Voss, Jil y Kriv; los siete libres pueden alojar visitantes. Marta concede refugio hasta dos días y dos noches, con tres comidas diarias; los visitantes alimentan a sus propios animales.",
+   "notes": "El hospital guarda suministros para veinte kits de curandero y seis cocineros se turnan en la cocina, junto a despensa, cámara fría y dormitorio. De los diez aposentos de los aposentos de los consejeros, tres pertenecen a Voss, Jil y Kriv; los siete libres pueden alojar visitantes. Marta concede refugio hasta dos días y dos noches, con tres comidas diarias; los visitantes alimentan a sus propios animales. El personal come por turnos cada cuatro horas.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -27166,7 +27166,7 @@
     ]
    },
    "order": 276,
-   "name": "Torres de vigilancia y armería (R9-R10)",
+   "name": "Torres de vigilancia y armería",
    "reading": {
     "sceneFlag": [
      "mr-doncella-escarcha",
@@ -27265,7 +27265,7 @@
     ]
    },
    "order": 277,
-   "name": "Patios de ejercicio (R11)",
+   "name": "Patios de ejercicio",
    "reading": {
     "sceneFlag": [
      "mr-doncella-escarcha",
@@ -27363,7 +27363,7 @@
     ]
    },
    "order": 278,
-   "name": "Sala de reuniones (R12)",
+   "name": "Sala de reuniones",
    "reading": {
     "sceneFlag": [
      "mr-doncella-escarcha",
@@ -27449,7 +27449,7 @@
      "label": "Índice de los registros de la prisión"
     }
    ],
-   "notes": "Marta permanece presente durante las entrevistas con prisioneros. Todos los reclusos llegan esposados. La escotilla del techo está protegida por una cerradura arcana.",
+   "notes": "Marta permanece presente durante las entrevistas con prisioneros. Todos los reclusos llegan esposados. La escotilla del techo está protegida por una sello mágico.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -27461,7 +27461,7 @@
     ]
    },
    "order": 279,
-   "name": "Almacén y letrinas (R13-R14)",
+   "name": "Almacén y letrinas",
    "reading": {
     "sceneFlag": [
      "mr-doncella-escarcha",
@@ -27557,7 +27557,7 @@
     ]
    },
    "order": 280,
-   "name": "Hexágono, panóptico y celdas (R15-R17)",
+   "name": "Hexágono, panóptico y celdas",
    "reading": {
     "sceneFlag": [
      "mr-doncella-escarcha",
@@ -27664,7 +27664,7 @@
      "label": "Índice de los registros de la prisión"
     }
    ],
-   "notes": "Hay veinticuatro celdas de una o dos plazas; 4d12 determina la población actual. Los números van del 6 al 299 y no se reutilizan; para entrevistar a Gant se solicita al Prisionero 237. Los perfiles posibles incluyen nobles esclavistas o conspiradores, espías, asesinos, aventureros, magos y líderes de ladrones, siempre sin equipo; comen en las celdas.",
+   "notes": "Hay veinticuatro celdas de una o dos plazas; 4d12 determina la población actual. Los números van del 6 al 299 y no se reutilizan; para entrevistar a Gant se solicita al Prisionero 237. Los perfiles posibles incluyen nobles esclavistas o conspiradores, espías, asesinos, buscadores de fortuna, magos y líderes de ladrones, siempre sin equipo; comen en las celdas. Las puertas se abren desde la consola. Cada celda suprime toda magia salvo la de artefactos o deidades.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -27676,7 +27676,7 @@
     ]
    },
    "order": 281,
-   "name": "Centro de vigilancia (R18)",
+   "name": "Centro de vigilancia",
    "reading": {
     "sceneFlag": [
      "mr-doncella-escarcha",
@@ -27762,7 +27762,7 @@
      "label": "Índice de los registros de la prisión"
     }
    ],
-   "notes": "La consola tiene veinticuatro interruptores de celda, uno maestro, dial de luz y altavoz; cada función requiere una acción y ajustar la luz puede ser más rápido. Dañarla hasta inutilizarla desactiva sus propiedades: la ficha la describe como objeto grande, CA 15, 18 puntos de resistencia e inmune a veneno y daño psíquico. Durante la alerta, Marta y los refuerzos convergen aquí.",
+   "notes": "La consola tiene veinticuatro interruptores de celda, uno maestro, un dial de luz y un altavoz. Sus mandos se manipulan al alcance de la mano. Tiene el límite destrozada 4: al alcanzarlo, todas sus funciones se desactivan. Los venenos y los ataques contra la mente no la afectan. Durante la alerta, Marta y los refuerzos convergen aquí.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -27774,7 +27774,7 @@
     ]
    },
    "order": 282,
-   "name": "Barracones de guardias (R19)",
+   "name": "Barracones de guardias",
    "reading": {
     "sceneFlag": [
      "mr-doncella-escarcha",
@@ -27839,7 +27839,7 @@
      "label": "Índice de los registros de la prisión"
     }
    ],
-   "notes": "Dos tercios de los setenta y cinco guardias descansan aquí; veinticinco están de servicio. Necesitan diez minutos para ponerse la armadura antes de dirigirse a R18 durante una alerta. La palabra «luces» regula la iluminación.",
+   "notes": "Dos tercios de los setenta y cinco guardias descansan aquí; veinticinco están de servicio. Necesitan diez minutos para ponerse la armadura antes de dirigirse a el centro de vigilancia durante una alerta. La palabra «luces» regula la iluminación. Fuera de una alerta descansan aquí cincuenta guardias sin armas ni armadura.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -27851,7 +27851,7 @@
     ]
    },
    "order": 283,
-   "name": "Salón de la Absolución (R29)",
+   "name": "Salón de la Absolución",
    "reading": {
     "sceneFlag": [
      "mr-doncella-escarcha",
@@ -27969,7 +27969,7 @@
     ]
    },
    "order": 284,
-   "name": "Aposentos del alcaide (R21)",
+   "name": "Aposentos del alcaide",
    "reading": {
     "sceneFlag": [
      "mr-doncella-escarcha",
@@ -28044,7 +28044,7 @@
      "label": "Índice de los registros de la prisión"
     }
    ],
-   "notes": "«Vaudra» regula la luz; el anillo de Marta lleva siete llaves para cofre, armarios y cajón del despacho. El cofre, difícil de forzar, contiene suministros de calígrafo, un saco de monedas y un alfiler de los Arpistas; una tapa secreta oculta la varita de atadura. Vlax posee a Marta una o dos veces diarias durante una o dos horas: solo habla enano y no usa sus conjuros preparados. Marta rechaza viajar a las criptas de Brawnanvil en Gauntlgrym porque no quiere perderlo; guardias y consejo conocen la posesión.",
+   "notes": "«Vaudra» regula la luz; el anillo de Marta lleva siete llaves para cofre, armarios y cajón del despacho. El cofre, difícil de forzar, contiene suministros de calígrafo, un saco de monedas y un alfiler de los Arpistas; una tapa secreta oculta la varita de atadura. Vlax posee a Marta una o dos veces diarias durante una o dos horas: solo habla enano y no usa sus magia habitual. Marta rechaza viajar a las criptas de Brawnanvil en Gauntlgrym porque no quiere perderlo; guardias y consejo conocen la posesión. Forzar el cofre con herramientas exige alcanzar [cerradura vencida-4] mediante varias acciones o recurrir a Poderío de Aventura o Grandeza.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -28056,7 +28056,7 @@
     ]
    },
    "order": 285,
-   "name": "Despacho del alcaide (R22)",
+   "name": "Despacho del alcaide",
    "reading": {
     "sceneFlag": [
      "mr-doncella-escarcha",
@@ -28133,7 +28133,7 @@
      "label": "Índice de los registros de la prisión"
     }
    ],
-   "notes": "Marta posee las llaves de los armarios y del cajón. Sus cerraduras son más fáciles de forzar que la del cofre de R21. Los registros permiten investigar a Gant y a otros reclusos pasados o presentes, sin añadir datos que la ficha no proporciona.",
+   "notes": "Marta posee las llaves de los armarios y del cajón. Sus cerraduras son más fáciles de forzar que la del cofre de los aposentos del alcaide. Los registros permiten investigar a Gant y a otros reclusos pasados o presentes, según lo que conste en sus expedientes. Con herramientas y tiempo, las cerraduras se abren sin tirada; con prisa o peligro, un fallo hace perder tiempo y puede alertar a los guardias.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -28145,7 +28145,7 @@
     ]
    },
    "order": 286,
-   "name": "Tejado de la torre (R23)",
+   "name": "Tejado de la torre",
    "reading": {
     "sceneFlag": [
      "mr-doncella-escarcha",
@@ -28231,7 +28231,7 @@
      "label": "Índice de los registros de la prisión"
     }
    ],
-   "notes": "Subir o bajar el puente requiere una acción. Si los vigías detectan una aeronave o amenaza aérea, avisan a la guarnición y Marta sale con ropa de clima frío para recibirla o afrontarla. La exposición puede activar el desafío de la ventisca.",
+   "notes": "Subir o bajar el puente exige manejar su mecanismo. Si los vigías detectan una aeronave o amenaza aérea, avisan a la guarnición y Marta sale con ropa de clima frío para recibirla o afrontarla. La exposición puede activar el desafío de la ventisca.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -28371,7 +28371,7 @@
      "label": "Índice de los registros de la prisión"
     }
    ],
-   "notes": "Solo Marta activa la alerta; la justifican revueltas, fugas, barcos desconocidos, dragones o ataques. Los guardias de R19 se arman y marchan a R18, donde Marta dirige la guarnición; el consejo sube a R29. Marta y todos los guardias obtienen visión de lo invisible mientras dura la alerta.",
+   "notes": "Solo Marta activa la alerta; la justifican revueltas, fugas, barcos desconocidos, dragones o ataques. Los guardias de los barracones se arman y marchan a el centro de vigilancia, donde Marta dirige la guarnición; el consejo sube a el salón de la Absolución. Marta y todos los guardias obtienen capacidad de percibir lo invisible mientras dura la alerta.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -28480,7 +28480,7 @@
      "label": "Índice de los registros de la prisión"
     }
    ],
-   "notes": "Puede entrevistarse en R12 con Marta presente, o localizarse en su celda de R17; la imagen corresponde a R12. Entrega la pista de la ciudad netheriliana bajo el glaciar Reghed si ve la carta de Duvessa Shane o si lo liberan; preguntar por la Hermandad despierta sus sospechas. Está sin libro ni componentes y no puede usar magia en su celda. Su recompensa es una promesa; una fuga provoca alerta, persecución y enemistad de la Alianza.",
+   "notes": "Puede entrevistarse en la sala de reuniones con Marta presente, o localizarse en su celda de las celdas; la imagen corresponde a la sala de reuniones. Entrega la pista de la ciudad netheriliana bajo el glaciar Reghed si ve la carta de Duvessa Shane o si lo liberan; preguntar por la Hermandad despierta sus sospechas. Está sin libro ni componentes y no puede usar magia en su celda. Su recompensa es una promesa; una fuga provoca alerta, persecución y enemistad de la Alianza.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -28690,7 +28690,7 @@
      "label": "Croquis del Refugio Torre del Cielo"
     }
    ],
-   "notes": "Arn recibe a los Héroes del clan y sus acompañantes; a los demás exige la capa blanca de Ogolai, aunque deban matarlo o forzarlo a entregarla. Dos barras de madera de quinientas libras sellan la puerta y las cuchillas impiden escalar: entrar sin permiso desencadena un ataque, con nueve guerreros en la tercera ronda y seis grifos en la quinta, o antes si Arn silba. Restaurar la vista de Kaniaka permite que ella lo convenza para reunirse con Ogolai en el refugio o en terreno neutral; Arn relata su versión del juego de pelota de cabra y del grifo muerto en su nido. Ogolai exige curar a sus aarakocra heridos: la mediación debe limitar los séquitos y puede proponer un enemigo común para resolver el feudo.",
+   "notes": "Arn recibe a los Héroes del clan y sus acompañantes; a los demás exige la capa blanca de Ogolai, aunque deban matarlo o forzarlo a entregarla. Dos barras de madera de 250 kg sellan la puerta y las cuchillas impiden escalar: entrar sin permiso desencadena un ataque, con nueve guerreros en la tercer intercambio de acciones y seis grifos en la quinta, o antes si Arn silba. Restaurar la vista de Kaniaka permite que ella lo convenza para reunirse con Ogolai en el refugio o en terreno neutral; Arn relata su versión del juego de pelota de cabra y del grifo muerto en su nido. Ogolai exige curar a sus aarakocra heridos: la mediación debe limitar los séquitos y puede proponer un enemigo común para resolver el feudo.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -28945,7 +28945,7 @@
      "label": "Croquis del Refugio Torre del Cielo"
     }
    ],
-   "notes": "Las runas están en enano y la piedra irradia transmutación. Una hora de oración o meditación concede el dado de piedra rúnica de mente, utilizable durante veinticuatro horas; consulta el objeto para sus condiciones. El conducto desciende a la cueva de los grifos.",
+   "notes": "La piedra tiene runas en enano sobre visión y liderazgo de las grandes aves del Valle. Percibir lo sobrenatural revela su magia transformadora. Un humanoide que rece o medite junto a ella una hora obtiene la etiqueta temporal [claridad de mente y espíritu], que puede usar a favor de una acción de percepción, juicio o trato con otros durante las siguientes veinticuatro horas. La etiqueta se consume al usarla y no puede obtenerse otra de esta piedra durante diez días. El conducto baja a la cueva de los grifos.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -29054,7 +29054,7 @@
      "label": "Croquis del Refugio Torre del Cielo"
     }
    ],
-   "notes": "Rahi permite ayudar a la cría tras una persuasión difícil; calmarla exige manejo de animales, y un fallo provoca un intento de mordisco y la orden de retirarse. La madre defiende a Rahi y a su cría; Rahi puede llamar a dos grifos que llegan en la tercera ronda. Ganarse su confianza abre a un Héroe goliat un año de aprendizaje, terminado con una prueba de doma: el éxito crea un vínculo de por vida y un hito de Gesta, aunque el grifo solo será montable al tercer año.",
+   "notes": "Rahi Soñadora del Cielo Akannathi es guerrera, guía espiritual y cuidadora de los grifos, experta en su cuidado y en curar heridas. La cría tiene menos de un año y teme volar. La madre ataca si ella, su cría o Rahi están amenazadas. Rahi puede llamar con un silbido a dos grifos de las laderas, que llegan tras tres intercambios de acciones. Convencerla de permitir un acercamiento exige vencer la etiqueta en contra [desconfianza de Rahi] y alcanzar [dispuesta a escuchar-3] mediante gestos y argumentos. Calmar a la cría es una acción arriesgada: el éxito crea [confianza de Rahi] y el animal se encariña con el Héroe; el fallo provoca un intento de mordisco, con posible [herido-1], y Rahi exige que se aleje. Ganarse su amistad permite a un Héroe goliat aprender la doma durante un año. Al culminar el aprendizaje, una acción arriesgada afianza el vínculo de por vida y concede un hito de Gesta; con fallo, el vínculo aún no se consolida y necesita más cuidados. El grifo crece durante el adiestramiento y será montable al tercer año.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -29132,7 +29132,7 @@
      "label": "Croquis del Refugio Torre del Cielo"
     }
    ],
-   "notes": "La piedra irradia transmutación y concede su dado de fuerza tras una hora de oración o meditación, con las condiciones descritas en el objeto. El tobogán conduce a S9; si los guerreros siguen allí, llegan sus vítores.",
+   "notes": "Las runas enanas hablan de gloria, honor y rivales dignos. Percibir lo sobrenatural revela la magia transformadora de la piedra. Un humanoide que rece o medite junto a ella una hora obtiene la etiqueta temporal [fuerza y honor], que puede usar a favor de una acción de esfuerzo físico o combate con armas durante las siguientes veinticuatro horas. La etiqueta se consume al usarla y no puede obtenerse otra de esta piedra durante diez días. El conducto asciende a la cueva del festín; si los guerreros siguen allí, se oyen sus vítores.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -29199,7 +29199,7 @@
      "label": "Croquis del Refugio Torre del Cielo"
     }
    ],
-   "notes": "Una prueba de historia permite fechar las primeras tallas hace unos cuatrocientos años y reconocer las últimas como muy recientes. Se pueden copiar o memorizar para apoyar la mediación; muestran el feudo y la amenaza de Oyaminartok.",
+   "notes": "Examinar con calma las tallas y contar con conocimientos de historia permite fechar las primeras hace unos cuatrocientos años y reconocer las últimas como recientes. Con prisa o peligro, interpretarlas exige una acción arriesgada: el éxito crea [historia del clan akannathi]; el fallo deja [cronología confusa]. Copiarlas o memorizarlas aporta [feudo goliat] para la mediación. Representan el feudo y a Oyaminartok.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -29278,7 +29278,7 @@
      "label": "Croquis del Refugio Torre del Cielo"
     }
    ],
-   "notes": "Sin un goliat del clan, los guerreros ordenan marcharse y atacan si los intrusos se niegan; la cueva estará vacía si han acudido a la barricada. Ganar su concurso concede respeto Akannathi y puede llevar a la amistad si no se ha ofendido al clan. Cada minuto se prueba atletismo con dificultad inicialmente baja y creciente; quien falla deja caer las piedras y queda eliminado.",
+   "notes": "Los guerreros ordenan marcharse a quienes no vengan con un goliat del clan y atacan si se niegan. La cueva queda vacía si acuden a la barricada. Un Héroe puede retarlos a sostener una roca pesada en cada mano con los brazos paralelos al suelo. El primer minuto no exige tirada salvo que exista otra presión; después, cada minuto de esfuerzo es una acción arriesgada. Las consecuencias acumulan [fatigado-1], con límite [fatigado-3]: al alcanzarlo, el participante deja caer las rocas y queda eliminado. El Narrador aplica el mismo límite a los rivales y aumenta la presión con [brazos temblorosos]. El último que mantiene las rocas gana [respeto akannathi], que puede convertirse en [amistad goliat] si no ha ofendido al clan.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -29354,7 +29354,7 @@
      "label": "Croquis del Refugio Torre del Cielo"
     }
    ],
-   "notes": "Los tres niños no son combatientes y robar el tesoro enfrenta al clan con los Héroes. Representa su valor como favores, etiquetas de mochila e hitos de Gesta: incluye gemas, una estatuilla de Gruumsh, una jaula ornamental y una poción de forma gaseosa.",
+   "notes": "Tres niños de entre 1,2 y 1,5 metros juegan junto al tesoro y no combaten. El tesoro contiene [bolsa de monedas], [gemas del clan], una estatuilla de hueso de Gruumsh, una jaula de oro con filigrana de electro y un frasco de cristal gris con una poción que permite convertirse en bruma y atravesar grietas durante un tiempo corto. Su valor se representa mediante favores y etiquetas de mochila; robarlo enfrenta al clan con los Héroes.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -29564,7 +29564,7 @@
      "label": "Advertencia del túnel de iniciación"
     }
    ],
-   "notes": "Los restos pertenecen a Stygiarus, un dragón blanco adulto abatido por el clan hace décadas, y sirven para el encargo de Dannika Acerogris. Los cuatro chwingas siguen al grupo mientras permanezca cerca; atender la fascinación de uno una vez al día durante tres días consecutivos concede un don del apéndice C.",
+   "notes": "Los restos pertenecen a Stygiarus, un dragón blanco adulto abatido por el clan hace décadas, y sirven para el encargo de Dannika Acerogris. Los cuatro chwingas siguen al grupo mientras permanezca cerca; atender la fascinación de uno una vez al día durante tres días consecutivos concede la etiqueta de historia [don de chwinga].",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -29674,7 +29674,7 @@
      "label": "Advertencia del túnel de iniciación"
     }
    ],
-   "notes": "Cuatro guerreros de W7 desafían amistosamente al grupo si se gana el cariño del clan; también se puede observar y apostar. Cada jugador elige una prueba de Fuerza (Atletismo) o Destreza (Acrobacias): se suman los resultados por equipo y el mayor gana; los empates requieren otra ronda completa. El túnel superior conduce a W6.",
+   "notes": "Cuatro guerreros de W7 desafían amistosamente al grupo si se gana el cariño del clan; también se puede observar y apostar. El equipo intenta alcanzar [victoria-3] mediante acciones de fuerza, equilibrio y cooperación entre los pilares. Un fallo permite al rival marcar o impone [desequilibrado-1]; las apuestas se representan con [bolsa de monedas]. El túnel superior conduce a W6.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -29869,7 +29869,7 @@
      "label": "Advertencia del túnel de iniciación"
     }
    ],
-   "notes": "Demelok ayuda a Jaagrik, Kaga y Zuri a preparar las muñecas que simbolizan la infancia; la familia espera al iniciado al otro extremo. En el punto medio se requieren salvaciones de Constitución y Carisma CD 15: un fallo obliga a retroceder, dos causan un coma de 4d6 horas y dos éxitos permiten atravesar las visiones. Se puede reintentar; superar la prueba concede pertenencia honoraria solo con consentimiento de Ogolai.",
+   "notes": "Demelok ayuda a Jaagrik, Kaga y Zuri a preparar las muñecas que simbolizan la infancia; la familia espera al iniciado al otro extremo. En el punto medio, resistir el agotamiento y afrontar las visiones son acciones arriesgadas. Un éxito permite seguir; un fallo impone [bloqueado-1] y obliga a volver por la entrada. Si el iniciado insiste pese al bloqueo y vuelve a fallar, queda [inconsciente-6] durante varias horas. Superar las visiones permite salir por el otro extremo. Se puede reintentar; superar la prueba concede pertenencia honoraria solo con consentimiento de Ogolai.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -29989,7 +29989,7 @@
      "label": "Advertencia del túnel de iniciación"
     }
    ],
-   "notes": "Ogolai recibe al grupo junto al fuego y, si le agrada, lo invita a comer en W7; hay ocho guerreros, dos de ellos jóvenes desarmados y sin armadura, y seis niños. Una pelea atrae a nueve guerreros de W7; el pozo se mantiene líquido bajando un cubo de fuego. Ogolai relata el ataque del grifo que originó la enemistad, ocultando que ella era la niña herida; acepta arbitraje solo en su propia cancha, no ofrece gestos y llama a Arn «muerto viviente». Si confía en el grupo, pide estar atentos a Kapanuk, perdido durante una cacería y posiblemente en X28 de la fortaleza de Xardorok.",
+   "notes": "Ogolai recibe al grupo junto al fuego y, si le agrada, lo invita a comer en W7; hay ocho guerreros, dos de ellos jóvenes desarmados y sin armadura, y seis niños. Una pelea atrae a nueve guerreros de W7; el pozo se mantiene líquido bajando un cubo de fuego. Ogolai relata el ataque del grifo que originó la enemistad, ocultando que ella era la niña herida; acepta arbitraje solo en su propia cancha, no ofrece gestos y llama a Arn «muerto viviente». Si confía en el grupo, pide estar atentos a Kapanuk, perdido durante una cacería y posiblemente en la fortaleza de Xardorok.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -30099,7 +30099,7 @@
      "label": "Advertencia del túnel de iniciación"
     }
    ],
-   "notes": "Aruk cuida a Sikki-kree, rescatada tras estrellarse en una tormenta; sus heridas menores han curado, pero reparar el ala exige al menos 10 puntos de curación mágica que el clan no puede proporcionar. Curarla gana gratitud aarakocra, respeto goliat y una deuda de Ogolai suficiente para aceptar una reunión con Arn; Sikki-kree agradece la ayuda y pide permiso para partir. La reserva meridional financia visitas a Diez Ciudades e incluye una gema elemental cuya magia ignoran los goliats; robarla provoca ira, posible expulsión y pérdida de confianza.",
+   "notes": "Aruk cuida a Sikki-kree, rescatada tras estrellarse en una tormenta; sus heridas menores han curado, pero reparar el ala exige una intervención sobrenatural capaz de reparar el hueso que el clan no puede proporcionar. Curarla gana gratitud aarakocra, respeto goliat y una deuda de Ogolai suficiente para aceptar una reunión con Arn; Sikki-kree agradece la ayuda y pide permiso para partir. La reserva meridional financia visitas a Diez Ciudades e incluye una gema elemental cuya magia ignoran los goliats; robarla provoca ira, posible expulsión y pérdida de confianza.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   },
   {
@@ -30209,7 +30209,7 @@
      "label": "Advertencia del túnel de iniciación"
     }
    ],
-   "notes": "Suele haber nueve guerreros y ocho no combatientes, entre niños y ancianos. Los goliats agradecen el interés por la lucha y nunca rechazan un desafío, aunque no suelen buscar oponentes menores o más débiles; ganar exige dos pruebas consecutivas de Fuerza (Atletismo). Si el clan toma cariño al grupo, cuatro guerreros proponen un partido en W2.",
+   "notes": "Suele haber nueve guerreros y ocho no combatientes, entre niños y ancianos. Los goliats agradecen el interés por la lucha y nunca rechazan un desafío, aunque no suelen buscar oponentes menores o más débiles; La lucha se resuelve acumulando [dominado-3] sobre el rival mediante agarres y derribos; un fallo permite al contrincante imponer [dominado-1]. Si el clan toma cariño al grupo, cuatro guerreros proponen un partido en W2.",
    "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
   }
  ]

@@ -119,7 +119,7 @@
       "interior": true,
       "imagen_en": "Wide interior view of a meeting hall in a walled town: wood and stone walls, long table, separated chairs, narrow windows thick with frost. Lamp light on worn surfaces; maps and use marks may be added as ambience. Cold grey and brown palette. No people. Leave the lower third open.",
       "lectura": "Las paredes cortan el viento, pero el salón conserva una frialdad que parece venir de la piedra. Ante vosotros se extiende una mesa larga, rodeada de asientos que no forman un hogar común. Aquí cada lugar representa una villa distinta, con sus necesidades y sus agravios. Tras las ventanas, la escarcha vuelve opaca la noche. Imagináis con facilidad lo que cuesta traer comida, aceite o madera hasta esta colina. También comprendéis por qué sus murallas importan a quienes viven lejos de ellas. Si queréis pedir ayuda para más de una comunidad, tendréis que conseguir que lo que ocurre al otro lado del lago deje de parecer un problema ajeno.",
-      "notas": "Cada villa es independiente y elige a su portavoz; el Consejo se reúne con poca frecuencia en este salón para asuntos comunes y disputas entre asentamientos. Bryn Shander empezó como puesto comercial sobre una colina y se convirtió en refugio amurallado para toda Diez Ciudades. Unir intereses mediante hechos comprobados y vínculos puede crear [acuerdo entre villas]; fallar puede generar [cada villa por su cuenta]. Una sesión concreta del Consejo es una propuesta de escena, no un acontecimiento fechado.",
+      "notas": "Cada villa es independiente y elige a su portavoz; el Consejo se reúne con poca frecuencia en este salón para asuntos comunes y disputas entre asentamientos. Bryn Shander empezó como puesto comercial sobre una colina y se convirtió en refugio amurallado para toda Diez Ciudades. Unir intereses mediante hechos comprobados y vínculos puede crear [acuerdo entre villas]; fallar puede generar [cada villa por su cuenta]. Decide cuándo convocar una sesión del Consejo.",
       "musica": "pueblo",
       "motivos": [
         "tension"
@@ -146,7 +146,7 @@
       "interior": false,
       "imagen_en": "Wide establishing view according to the offering: a snow-covered post at a village edge, wooden fish racks a mile from town, or cold chimneys and black windows. Moonless sky in near-black blues, barely visible white surfaces, no people or animals. Leave the lower third open.",
       "lectura": "Esta noche falta algo más que la luna. El silencio pesa sobre las calles y las puertas parecen cerradas con especial cuidado. Os alcanza el frío incluso al deteneros un momento. Cerca del límite de la villa, la nieve refleja una claridad tan débil que cuesta separar el camino de la tundra. Aquí se ha preparado una ofrenda. Puede ser comida que mañana faltará en las mesas, calor al que nadie se atreve a acercarse o una vida que la comunidad ha decidido entregar. Os encontráis ante una decisión tomada antes de vuestra llegada. Todavía podéis intervenir, pero cualquier gesto tendrá testigos, consecuencias y un precio que alguien intentará cobrar.",
-      "notas": "Hace poco más de un año comenzaron los sacrificios para apaciguar a Auril y recuperar el verano; todos los portavoces los respaldan como un mal necesario. En Bryn Shander, Puerto Este y Targos se sortea una víctima la noche anterior a la luna nueva; otras villas ofrecen la pesca de un día en estantes a unos 1500 metros del poblado; las que no pueden entregar personas ni comida prohíben encender fuego entre ocaso y alba. Rescatar, persuadir, investigar un sorteo o compartir recursos puede crear [víctima a salvo], [ofrenda sustituida] o [refugio compartido]; el fallo puede activar exposición al frío, perder víveres o provocar violencia. No hay prueba aquí de que los sacrificios funcionen.",
+      "notas": "Hace poco más de un año comenzaron los sacrificios para apaciguar a Auril y recuperar el verano; todos los portavoces los respaldan como un mal necesario. En Bryn Shander, Puerto Este y Targos se sortea una víctima la noche anterior a la luna nueva; otras villas ofrecen la pesca de un día en estantes a unos 1500 metros del poblado; las que no pueden entregar personas ni comida prohíben encender fuego entre ocaso y alba. Rescatar, persuadir, investigar un sorteo o compartir recursos puede crear [víctima a salvo], [ofrenda sustituida] o [refugio compartido]; el fallo puede activar exposición al frío, perder víveres o provocar violencia. No presentes los sacrificios como una garantía de que termine el invierno.",
       "musica": "auril",
       "motivos": [
         "horror",
@@ -179,9 +179,9 @@
       "ciudad": "caer-dineval",
       "aspecto_en": "Full body portrait of an indeterminate-age speaker hidden beneath layers of wool and pelts, with no fixed features beyond a vague silhouette. Heavy winter clothing conceals build, face and hands; a thick hood and scarf obscure identity. Neutral posture, subdued grey and brown palette, soft cold light, ambiguous and unassuming presence.",
       "presentacion": "No lo veis en público. Si alguien lo menciona, baja la voz y habla de una enfermedad que nadie ha confirmado. Os describen un portavoz que rara vez sale del castillo y cuyas órdenes llegan a través de otros. Cuando preguntáis por él, las respuestas se vuelven vagas y las miradas se desvían hacia el acantilado.",
-      "caracter": "No descrito; la fuente solo recoge comentarios locales sobre una supuesta enfermedad. Puede interpretarse como distante, enfermizo o ausente; no añadas un temperamento fijo ni inventes motivaciones.",
-      "quiere": "No consta en esta fuente.",
-      "sabe": "No se indica qué conoce de las figuras siniestras que frecuentan el castillo.",
+      "caracter": "Distante y reservado; habla con frases breves y evita alargar las conversaciones.",
+      "quiere": "Conservar su autoridad como portavoz de Caer-Dineval.",
+      "sabe": "Conoce los asuntos del concejo y las necesidades cotidianas de Caer-Dineval.",
       "desafio": null
     },
     {
@@ -190,10 +190,10 @@
       "papel": "Portavoz de Caer-Konig, necesitado de ayuda contra los ladrones invisibles.",
       "ciudad": "caer-konig",
       "aspecto_en": "Full body portrait of a dragonborn speaker in a thick winter coat and hood adapted to his reptilian head, winter boots and gloves. Age, scale colour and build are unspecified; the clothing and adapted hood are the defining visual notes. Practical cold-weather gear, muted brown and grey palette, guarded but practical expression.",
-      "presentacion": "Os recibe un dracónido envuelto en un abrigo grueso, con una capucha adaptada a su cabeza y guantes de invierno. Sus preguntas son prácticas: qué habéis visto, quién ha hablado, cuándo ocurrieron los robos. No añade un temperamento fijo; la conversación se centra en testigos, daños y el modo de atrapar a los responsables.",
-      "caracter": "No constan; propuesta de interpretación: preguntas prácticas sobre robos y testigos, sin añadir un temperamento fijo.",
+      "presentacion": "Os recibe un dracónido envuelto en un abrigo grueso, con una capucha adaptada a su cabeza y guantes de invierno. Sus preguntas son prácticas: qué habéis visto, quién ha hablado, cuándo ocurrieron los robos. La conversación se centra en testigos, daños y el modo de atrapar a los responsables.",
+      "caracter": "Práctico y directo; pregunta por los robos y los testigos.",
       "quiere": "Atrapar a quienes roban y causan daños en los negocios locales.",
-      "sabe": "Su villa sufre incursiones cuyos responsables no se dejan ver; esta fuente no explica el método ni identifica a los culpables.",
+      "sabe": "Su villa sufre incursiones cuyos responsables no se dejan ver; conoce los robos y daños denunciados por los vecinos.",
       "desafio": null
     },
     {
@@ -203,7 +203,7 @@
       "ciudad": "termalaine",
       "aspecto_en": "Full body portrait of an unspecified-age speaker in wool clothing beneath a practical coat, with unfixed features. Simple layered winter garments, sturdy boots and an unremarkable stance convey urgency about miner safety. Muted earth tones, soft cold light, no fixed racial or facial details.",
       "presentacion": "Os habla de la mina como si el tiempo se acabara. No se detiene en su aspecto ni en su origen; lo urgente es la seguridad de los mineros y la necesidad de despejar el lugar. Su voz puede sonar cansada pero firme cuando menciona la recompensa y la banda de kobolds.",
-      "caracter": "No descritos; puede hablar de la seguridad de los mineros como asunto urgente.",
+      "caracter": "Habla con voz cansada pero firme y trata la seguridad de los mineros como un asunto urgente.",
       "quiere": "Según el rumor, que se despeje la mina para poder reanudar su actividad.",
       "sabe": "Se atribuye el cierre a una banda de kobolds que pone en peligro a los mineros; el rumor no detalla sus motivos.",
       "desafio": null
@@ -214,10 +214,10 @@
       "papel": "Figura buscada por una expedición vinculada a Targos.",
       "ciudad": "targos",
       "aspecto_en": "Full body portrait of a goliath lycanthrope able to adopt polar bear form, in humanoid shape: bulky body wrapped in travel furs, without fixed markings or age. Heavy pelts, broad shoulders and a sturdy stance suggest endurance; face and colour remain unspecified. Cold grey and white palette, practical winter gear, no fixed hostile expression.",
-      "presentacion": "No la veis en estas páginas. La conocéis por el rumor: una goliath que se transforma en osa polar, buscada por una expedición en las laderas de la Cima de Kelvin. Os describen un cuerpo corpulento bajo pieles de viaje, sin marcas particulares, y una historia que todavía no tiene final.",
-      "caracter": "No constan.",
-      "quiere": "No consta.",
-      "sabe": "No consta; el rumor solo sitúa su búsqueda en las laderas de la Cima de Kelvin.",
+      "presentacion": "La conocéis por el rumor: una goliath que se transforma en osa polar, buscada por una expedición en las laderas de la Cima de Kelvin. Os describen un cuerpo corpulento bajo pieles de viaje, sin marcas particulares, y una historia que todavía no tiene final.",
+      "caracter": "Reservada y atenta al entorno; habla con calma y pocas palabras.",
+      "quiere": "Recorrer las montañas con libertad y encontrar alimento y refugio.",
+      "sabe": "Conoce los rigores de la vida en las montañas y cómo buscar abrigo durante una tormenta.",
       "desafio": null
     },
     {
@@ -227,7 +227,7 @@
       "ciudad": "otro",
       "aspecto_en": "Full body group portrait of varied northerners in layered wool, furs, hoods and almost hidden faces when outdoors. Mixed ages, builds and origins; immigrant cultures survive in buildings, statues and ornaments. Practical winter clothing, cold grey light, guarded and resilient expressions.",
       "presentacion": "Os encontráis con vecinos y autoridades elegidos por cada villa, con sus abrigos de lana y piel todavía cubiertos de nieve. Fuera, las capas ocultan casi todo; dentro, cada uno defiende su comunidad con un pragmatismo duro. La acogida, el recelo y la rivalidad se mezclan según el asentamiento y el momento, y ninguna conversación es inocente.",
-      "caracter": "La fuente destaca resistencia y pragmatismo, pero cada villa mezcla acogida, recelo y rivalidad.",
+      "caracter": "Resistentes y pragmáticos; cada villa mezcla acogida, recelo y rivalidad.",
       "quiere": "Sobrevivir, conservar recursos y proteger su comunidad; todos los portavoces han consentido los sacrificios.",
       "sabe": "Oficios locales, dificultades de abastecimiento y rumores; no convertir a cualquier habitante en conocedor de todos los secretos regionales.",
       "desafio": null
@@ -235,13 +235,13 @@
     {
       "slug": "otras-figuras-mencionadas",
       "nombre": "Otras figuras mencionadas",
-      "papel": "Enanos de Bryn Shander que buscan un cargamento; portavoz de Buenagamiel asesinado; capitán de la guardia y mago cautivo del rumor de Puerto Oeste; expedicionarios y pescadores desaparecidos, dos adolescentes de Refugio de Dougan y profesionales de la magia.",
+      "papel": "Enanos de Bryn Shander que buscan un cargamento; portavoz de Buenagamiel asesinado; capitán de la guardia y mago cautivo del rumor de Puerto Este; expedicionarios y pescadores desaparecidos, dos adolescentes de Refugio de Dougan y profesionales de la magia.",
       "ciudad": "otro",
       "aspecto_en": "Full body group portrait of unspecified northern figures in practical wool and fur clothing adapted to their trades. Only the dwarf contractors are specified; ages, builds and individual garments remain unfixed. Muted winter palette, cold light, practical poses, no invented distinguishing details.",
-      "presentacion": "Escucháis hablar de enanos contratantes, de un portavoz asesinado, de un capitán de guardia y un mago cautivo, de pescadores y expedicionarios desaparecidos, de dos adolescentes y de profesionales de la magia. Solo sabéis lo que cada rumor recoge; sus nombres y rostros quedan abiertos hasta consultar la sección correspondiente.",
-      "caracter": "No especificados.",
-      "quiere": "Los enanos, recuperar la carga; el capitán, ayuda para otra tarea de relación incierta con el mago. Los deseos de los demás no se detallan.",
-      "sabe": "Únicamente lo recogido en sus respectivos rumores o servicios.",
+      "presentacion": "Escucháis hablar de enanos contratantes, de un portavoz asesinado, de un capitán de guardia y un mago cautivo, de pescadores y expedicionarios desaparecidos, de dos adolescentes y de profesionales de la magia. Cada relato os llega entre conversaciones sobre el frío, los oficios y las necesidades de las villas.",
+      "caracter": "Voces marcadas por el frío y la preocupación; van al grano al pedir ayuda.",
+      "quiere": "Los enanos, recuperar la carga; el capitán, ayuda para otra tarea de relación incierta con el mago. Los desaparecidos buscan regresar a salvo; los profesionales de la magia, ejercer su oficio y mantener su sustento.",
+      "sabe": "Conocen su oficio, sus necesidades y las circunstancias que cuentan en sus respectivos rumores.",
       "desafio": null
     }
   ],
@@ -327,7 +327,7 @@
         "Peligro"
       ],
       "aspecto_en": "Wide environmental study of a dangerous frozen lake: jagged ice floes, black open channels, wind-rippled water, frost-rimed dock pilings and a fragile wooden boat. Low fog and drifting snow. Pewter, slate and deep blue palette, dim winter light, no people. Treacherous and cold.",
-      "descripcion": "Pesca sobre hielo, aguas abiertas y embarcaciones de las villas. El hielo fino y sus efectos son una aplicación ambiental de la conversión.",
+      "descripcion": "Pesca sobre hielo, aguas abiertas y embarcaciones de las villas. Aplica las amenazas del hielo fino cuando la superficie ceda.",
       "limites": [
         {
           "nombre": "travesía resuelta",
@@ -542,7 +542,7 @@
       "slug": "servicio-magico-pactado",
       "nombre": "Servicio druídico, sacerdotal o arcano",
       "etiqueta": "servicio mágico pactado",
-      "descripcion": "Etiqueta de historia con un efecto concreto acordado antes de usarlo. Favores menores cubren ayuda sencilla; efectos más exigentes requieren compromisos mayores y cualquier ingrediente raro debe conseguirse aparte. Esta ficha no inventa un catálogo ni garantiza un efecto específico.",
+      "descripcion": "Etiqueta de historia con un efecto concreto acordado antes de usarlo. Favores menores cubren ayuda sencilla; efectos más exigentes requieren compromisos mayores y cualquier ingrediente raro debe conseguirse aparte. Acuerda con el proveedor el efecto concreto antes de comprometer recursos.",
       "imagen_en": "A symbolic still life of a small offering bowl, bundled herbs and a simple ritual candle on a neutral background. Muted natural materials, soft cold light, no text, no fixed religious icon."
     }
   ],
@@ -551,14 +551,14 @@
       "slug": "rumores-de-diez-ciudades",
       "titulo": "Rumores de Diez Ciudades",
       "tipo": "nota",
-      "texto": "Rumores para entregar a los jugadores\n\n1. Bremen: una criatura de Maer Dualdon aterroriza a los pescadores de Bremen. Resulta llamativo que no se hable de ataques a las otras villas del mismo lago.\n2. Bryn Shander: unos enanos ofrecen una recompensa importante por localizar un cargamento perdido. El encargo local identifica la carga como lingotes de hierro.\n3. Caer-Dineval: hace tiempo que no se ve a Crannoc. Se dice que está enfermo, mientras figuras inquietantes entran y salen del castillo a horas extrañas.\n4. Caer-Konig: los negocios sufren robos y destrozos sin que se vea a los responsables. Trovus, el portavoz dracónido, necesita ayuda.\n5. Refugio de Dougan: merodean lobos invernales del tamaño de caballos y más inteligentes que los lobos corrientes. La misión local implica a dos de ellos y a dos adolescentes desaparecidos.\n6. Puerto Oeste, según el texto: han capturado a un mago acusado de matar a varios Héroes. La milicia pretende quemarlo; el capitán de la guardia busca ayuda para otra tarea que quizá guarde relación con él.\n7. Buenagamiel: un gigante de unos dos metros setenta mató al portavoz y robó un cargamento de hidromiel. Varias tabernas podrían quedarse sin suministro.\n8. Bosque Solitario: el Alce Blanco ataca a leñadores y tramperos en cuanto los ve. Ni los mejores cazadores han logrado atraparlo o matarlo.\n9. Targos: una banda prepara una expedición a la Cima de Kelvin para buscar a Oyaminartok, una goliath que se transforma en osa polar. Todavía podría ser posible unirse.\n10. Termalaine: Masthew ha cerrado una mina de gemas porque una banda de kobolds amenaza a los mineros. Se promete una recompensa a quien despeje el lugar.\n\nDiscrepancia de topónimos: la lista inicial sitúa «Esfuerzos y Problemas» en Puerto Este, pero el sexto rumor dice Puerto Oeste. Conserva ambas referencias al contrastar las secciones posteriores.\nDiscrepancia temporal: el rumor de Targos invita a incorporarse a una expedición, mientras el encargo trata de buscarla cuando ya ha desaparecido. El Narrador debe ajustar el momento en que circula la noticia.",
+      "texto": "Rumores para entregar a los jugadores\n\n1. Bremen: una criatura de Maer Dualdon aterroriza a los pescadores de Bremen. Resulta llamativo que no se hable de ataques a las otras villas del mismo lago.\n2. Bryn Shander: unos enanos ofrecen una recompensa importante por localizar un cargamento perdido. El encargo local identifica la carga como lingotes de hierro.\n3. Caer-Dineval: hace tiempo que no se ve a Crannoc. Se dice que está enfermo, mientras figuras inquietantes entran y salen del castillo a horas extrañas.\n4. Caer-Konig: los negocios sufren robos y destrozos sin que se vea a los responsables. Trovus, el portavoz dracónido, necesita ayuda.\n5. Refugio de Dougan: merodean lobos invernales del tamaño de caballos y más inteligentes que los lobos corrientes. La misión local implica a dos de ellos y a dos adolescentes desaparecidos.\n6. Puerto Este: han capturado a un mago acusado de matar a varios Héroes. La milicia pretende quemarlo; el capitán de la guardia busca ayuda para otra tarea que quizá guarde relación con él.\n7. Buenagamiel: un gigante de unos dos metros setenta mató al portavoz y robó un cargamento de hidromiel. Varias tabernas podrían quedarse sin suministro.\n8. Bosque Solitario: el Alce Blanco ataca a leñadores y tramperos en cuanto los ve. Ni los mejores cazadores han logrado atraparlo o matarlo.\n9. Targos: una banda prepara una expedición a la Cima de Kelvin para buscar a Oyaminartok, una goliath que se transforma en osa polar. Todavía podría ser posible unirse.\n10. Termalaine: Masthew ha cerrado una mina de gemas porque una banda de kobolds amenaza a los mineros. Se promete una recompensa a quien despeje el lugar.\n\nAjusta el momento en que circula el rumor de Targos: si la expedición ya ha desaparecido, presenta la invitación como una noticia desfasada.",
       "fondo_en": "A blank sheet of rough parchment with worn edges and faint folds, resting flat under soft neutral light. Empty writing area, no text, no symbols, no illustrations."
     },
     {
       "slug": "codigo-de-los-copos",
       "titulo": "Código de los copos",
       "tipo": "cartel",
-      "texto": "Código de los copos\n\nLos copos valoran servicios y trato, no el nivel del desafío. Las puntuaciones concretas de cada villa no aparecen en estas páginas.\n\nAmabilidad\n- Un copo: predominan la reserva y el rechazo a colaborar.\n- Dos copos: conviven personas acogedoras y recelosas.\n- Tres copos: predomina la disposición amistosa a ayudar.\n\nServicios\n- Un copo: resulta difícil encontrar casi cualquier servicio.\n- Dos copos: la oferta es reducida.\n- Tres copos: hay más probabilidades de encontrar lo necesario.\n\nComodidad\n- Un copo: apenas un ático o cobertizo helado para dormir.\n- Dos copos: puede haber taberna y posada con habitaciones llenas de corrientes.\n- Tres copos: comida y bebida decentes, cama cálida.\n\nPuede entregarse como ayuda una hoja con este código, el equipo de viaje y los rumores conocidos.",
+      "texto": "Código de los copos\n\nLos copos valoran servicios y trato, no el nivel del desafío. Consulta las puntuaciones en la descripción de cada villa.\n\nAmabilidad\n- Un copo: predominan la reserva y el rechazo a colaborar.\n- Dos copos: conviven personas acogedoras y recelosas.\n- Tres copos: predomina la disposición amistosa a ayudar.\n\nServicios\n- Un copo: resulta difícil encontrar casi cualquier servicio.\n- Dos copos: la oferta es reducida.\n- Tres copos: hay más probabilidades de encontrar lo necesario.\n\nComodidad\n- Un copo: apenas un ático o cobertizo helado para dormir.\n- Dos copos: puede haber taberna y posada con habitaciones llenas de corrientes.\n- Tres copos: comida y bebida decentes, cama cálida.\n\nPuede entregarse como ayuda una hoja con este código, el equipo de viaje y los rumores conocidos.",
       "fondo_en": "An empty weathered wooden board with a simple carved border and a pale prepared surface. Isolated frontal view, frost on the edges, no lettering, no symbols or painted design."
     }
   ],

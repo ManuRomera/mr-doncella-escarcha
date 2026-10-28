@@ -15,7 +15,7 @@ La ruta alcanza una cumbre secundaria, no el pico más alto de Kelvin. El regres
 - **Petición de Keegan:** ofrece sidra caliente y explica que Garret salió hace unos días para guiar una expedición. Viajaba con seis perros y un trineo; Chico, criado por Keegan desde cachorro, nunca lo abandonaría sin una razón grave. Keegan no conoció a sus clientes ni sabe cuántos eran.
 - **Primer destino recomendado:** Expediciones Allendhelor, en Caer-Konig, donde Garret debía comprar material de escalada antes de subir. Keegan confía sinceramente en que su marido siga vivo y permite que Chico acompañe a la Compañía.
 - **Recompensa prometida:** alojamiento gratuito en Los Brazos de Luskan, gracias a la amistad de Keegan con Owenn, y tallas de su taller. Keegan carece de dinero para contratar un rescate.
-- **Contexto urbano:** unos mil habitantes; trato reservado, servicios relativamente completos y comodidad modesta. La heráldica muestra un barco negro de una vela, orientado a la derecha sobre azul claro. Bremen, Bosque Solitario y Termalaine son rivales comerciales. Targos ofrece sacrificios de humanoides a Auril; los procedimientos concretos remiten a otra sección del libro.
+- **Contexto urbano:** unos mil habitantes; trato reservado, servicios relativamente completos y comodidad modesta. La heráldica muestra un barco negro de una vela, orientado a la derecha sobre azul claro. Bremen, Bosque Solitario y Termalaine son rivales comerciales. Targos ofrece sacrificios de humanoides a Auril; decide los procedimientos concretos antes de llevarlos a escena.
 - **Distancias locales a pie:** Bremen, tres horas sin sendero practicable; Bryn Shander, dos horas; Termalaine, cuatro horas. Los senderos de Bryn Shander y Termalaine están cubiertos de nieve; el de Bremen ha desaparecido bajo ella. Monturas o trineos pueden reducir estos tiempos hasta la mitad.
 
 ## Escenas
@@ -30,35 +30,35 @@ La ruta alcanza una cumbre secundaria, no el pico más alto de Kelvin. El regres
 ### Los Brazos de Luskan
 - **Lugar e imagen**: Posada antigua de muros sólidos y decoración naval de hace casi dos siglos; suelo combado y podrido, rendijas oscuras, mobiliario gastado y una sala común iluminada por un fuego insuficiente. La mejor suite contiene tres jaulas pequeñas.
 - **Lectura**: Al entrar, os recibe una decoración que parece pertenecer a otra ciudad y a otro siglo. Las formas de barcos, la madera envejecida y los adornos marineros evocan un puerto más rico que este. Las paredes son gruesas, pero bajo vuestros pies las tablas ceden con un quejido húmedo. Una corriente os enfría los tobillos y trae olor a sótano. Entre los tabiques se oyen carreras breves, demasiado ligeras para unas botas. El fuego de la sala común ilumina unos muebles que han sobrevivido a muchas generaciones, aunque ninguno parece preparado para un invierno que no termina.
-- **Qué ocurre**: Es la casa pública más antigua de Diez Ciudades, fundada cuando Bryn Shander era aún un campamento. Reproduce el Luskan anterior a su decadencia. Owenn vive sumido en la desesperanza. Naerth ocupa la suite mayor: le recuerda su ciudad natal y le permite recibir visitantes. Sus tres serpientes voladoras transportan mensajes a una red de al menos una docena de espías. Investigar con discreción puede descubrir [mensajería clandestina]; actuar sin cuidado genera [vigilados por la Red Negra]. No entregues automáticamente el secreto del portavoz al entrar.
+- **Qué ocurre**: Es la posada más antigua de Diez Ciudades, fundada cuando Bryn Shander era aún un campamento. Reproduce el Luskan anterior a su decadencia. Owenn vive sumido en la desesperanza. Naerth ocupa la suite mayor: le recuerda su ciudad natal y le permite recibir visitantes. Sus tres serpientes voladoras transportan mensajes a una red de al menos una docena de espías. Investigar con discreción puede descubrir [mensajería clandestina]; actuar sin cuidado genera [vigilados por la red negra]. No entregues automáticamente el secreto del portavoz al entrar.
 - **Etiquetas de escena**: [esplendor naval marchito], [corrientes del sótano], [ratas entre las paredes], [residencia del portavoz].
 - **Ambiente sonoro**: Tablas que crujen, roedores, conversaciones bajas y viento en las rendijas.
 
 ### Tres Banderas Navegando y Triglio
 - **Lugar e imagen**: Taberna de mesas sencillas, cuencos de estofado y luz tenue; cerca, tienda general con estantes abarrotados, cañas y raquetas de nieve. Madera gris, vaho en cristales y mercancías reparadas con cuidado.
 - **Lectura**: En la taberna, el vapor del estofado empaña las ventanas y difumina el resplandor de las lámparas. Las mesas ofrecen poco adorno y mucho desgaste: marcas de cuencos, arañazos y manchas que ninguna limpieza logra borrar. El calor basta para recordaros el frío que habéis dejado fuera. En la tienda cercana, las raquetas de nieve cuelgan sobre estantes de herramientas y provisiones. Entre tantos objetos útiles, todo parece tener un lugar preciso. El viento llega amortiguado a ambos locales, pero continúa silbando al otro lado de cada puerta.
-- **Qué ocurre**: Ethen «Ma» Yarbroul sirve a pescadores cansados, fríos e inseguros sobre el futuro. Aquí pueden circular uno o dos rumores de otras ciudades; la tabla citada por la fuente no está incluida y no aporta rumores específicos. Jestin Hunrae regenta Triglio, nombre tomado de un canto de faena sobre tirar del sedal y llenar el cubo. Perdió el uso de la mano izquierda en una colisión con un barco de Termalaine. Vende equipo común, cañas y raquetas; los suministros profesionales de pesca y navegación corresponden a comerciantes especializados. Obtener equipo con recursos o favores adecuados concede etiquetas de mochila, no una compra automática sin coste narrativo.
+- **Qué ocurre**: Ethen «Ma» Yarbroul sirve a pescadores cansados, fríos e inseguros sobre el futuro. Aquí pueden circular uno o dos rumores de otras ciudades. Jestin Hunrae regenta Triglio, nombre tomado de un canto de faena sobre tirar del sedal y llenar el cubo. Perdió el uso de la mano izquierda en una colisión con un barco de Termalaine. Vende equipo común, cañas y raquetas; los suministros profesionales de pesca y navegación corresponden a comerciantes especializados. Obtener equipo con recursos o favores adecuados concede etiquetas de mochila, no una compra automática sin coste narrativo.
 - **Etiquetas de escena**: [estofado caliente], [ánimos sombríos], [equipo cotidiano], [rivalidades del lago].
 - **Ambiente sonoro**: Cuencos y jarras, murmullos agotados, un canto de pesca apenas tarareado, campanilla de tienda.
 
 ### Chico y la casa de los Velryn
 - **Lugar e imagen**: Calle de nieve apisonada entre viviendas modestas; puerta baja con arañazos y un interior pequeño de tonos cálidos, tazas de sidra y herramientas de talla junto a virutas claras.
 - **Lectura**: Un ladrido corta el silbido del viento. Hacia vosotros corre un perro gris claro, casi del tamaño de un lobo, con un trozo de arnés de cuero arrastrándose por la nieve. Se acerca sin enseñar los dientes, gime y busca vuestras manos. Después retrocede unos pasos, vuelve a acercarse y tira de una bota con una insistencia desesperada. Si lo seguís, os lleva hasta una casa modesta y araña la puerta. Cuando esta se abre, la sonrisa del hombre que aparece dura apenas un instante: mira al perro, os mira a vosotros y deja espacio para que entréis.
-- **Qué ocurre**: Keegan comparte los datos del gancho. Nació en Diez Ciudades; Garret procede de una familia rica de Neverwinter, pero prefirió guiar viajeros y escalar a vivir en una ciudad. Aceptar el encargo da [promesa a Keegan]. La sidra y el refugio permiten prepararse; no eliminan por sí solos lesiones graves. Chico puede ser una etiqueta de historia aliada y guiar hasta el campamento y Garret, sin convertirlo en un arma obligatoria.
-- **Etiquetas de escena**: [sidra caliente], [hogar de un tallista], [Chico pide ayuda], [promesa a Keegan].
+- **Qué ocurre**: Keegan comparte los datos del gancho. Nació en Diez Ciudades; Garret procede de una familia rica de Neverwinter, pero prefirió guiar viajeros y escalar a vivir en una ciudad. Aceptar el encargo da [promesa a keegan]. La sidra y el refugio permiten prepararse; no eliminan por sí solos lesiones graves. Chico puede ser una etiqueta de historia aliada y guiar hasta el campamento y Garret, sin convertirlo en un arma obligatoria.
+- **Etiquetas de escena**: [sidra caliente], [hogar de un tallista], [chico pide ayuda], [promesa a keegan].
 - **Ambiente sonoro**: Ladridos y gemidos, uñas en madera, fuego doméstico y un silencio tras la noticia.
 
 ### La ruta de Caer-Konig
 - **Lugar e imagen**: Senderos blancos entre poblaciones aisladas, lomas barridas por el viento y ribera oscura de Lac Dinneshere; en Caer-Konig, escaparate de equipo de montaña y luces bajas de taberna y posada.
 - **Lectura**: El camino se pierde por momentos bajo una película de nieve nueva, pero vuelve a aparecer entre los postes y las huellas antiguas. Cada población ofrece unas pocas luces antes de que el paisaje vuelva a cerrarse sobre vosotros. Al bordear el lago, el viento encuentra espacio para golpearos de costado y el hielo forma un borde irregular contra el agua oscura. En Caer-Konig veis material de montaña tras un escaparate y, más allá, ventanas encendidas donde podríais conseguir una comida y unas horas de descanso antes de abandonar los caminos.
-- **Qué ocurre**: Targos–Bryn Shander: unos cinco kilómetros; después, unos treinta y siete hasta Caer-Dineval y otros cinco rodeando Lac Dinneshere hasta Caer-Konig. Total: catorce horas y media a pie o siete con trineos. Es la opción segura indicada por la fuente, sin que desaparezca el clima. Las tres ciudades permiten recoger sus propias misiones. Atenas Veloz, en Expediciones Allendhelor, vio a Garret con un goliat, una mediana piesligeros y una tiflin, bien armados. Compraron equipo de escalada y acampada, fueron a Anzuelo, Sedal y Plomo y pensaban dormir en La Luz del Norte. Ambos establecimientos los recuerdan cansados y poco habladores, sin incidentes. Jarthra Farzassh puede ser contratada como guía si falta capacidad de rastreo; su coste se concreta en recursos o un favor, pues la fuente no lo detalla.
+- **Qué ocurre**: Targos–Bryn Shander: unos cinco kilómetros; después, unos treinta y siete hasta Caer-Dineval y otros cinco rodeando Lac Dinneshere hasta Caer-Konig. Total: catorce horas y media a pie o siete con trineos. Es la opción segura, aunque el clima sigue siendo un peligro. Las tres ciudades permiten recoger sus propias misiones. Atenas Veloz, en Expediciones Allendhelor, vio a Garret con un goliat, una mediana piesligeros y una tiflin, bien armados. Compraron equipo de escalada y acampada, fueron a Anzuelo, Sedal y Plomo y pensaban dormir en La Luz del Norte. Ambos establecimientos los recuerdan cansados y poco habladores, sin incidentes. Jarthra Farzassh puede ser contratada como guía si falta capacidad de rastreo; su coste se concreta en recursos o un favor.
 - **Etiquetas de escena**: [camino entre ciudades], [últimos testigos de la expedición], [equipo de escalada], [refugios separados por largas marchas].
 - **Ambiente sonoro**: Pasos sobre nieve, patines de trineo, viento del lago y puertas de posada.
 
 ### Tundra abierta y Valle de los Enanos
 - **Lugar e imagen**: Llanura sin senderos, perfiles de montaña difuminados y un valle con bocas de mina talladas en las laderas; rastros dispersos en nieve intacta y piedra oscura junto a accesos subterráneos.
 - **Lectura**: Al apartaros de los caminos, las distancias dejan de parecerse a las que conocéis. Una elevación cercana tarda horas en alcanzarse y las ráfagas borran cualquier referencia baja. Más adelante, el terreno se hunde entre laderas de piedra. Si la nieve os permite verlas, distinguís huellas que conducen hacia aberturas talladas, demasiado regulares para ser cuevas naturales. Desde fuera no llega casi ninguna luz. Sobre esos accesos, la montaña conserva su silencio, mientras el viento arrastra la nieve como humo blanco por el fondo del valle.
-- **Qué ocurre**: La ruta directa cubre unos diecinueve kilómetros en veinticuatro horas a pie o doce en trineo. A mitad de trayecto hay un posible encuentro y se determina si coincide con ventisca; la tabla externa no figura en esta fuente. Como alternativa de conversión, usa el desafío ambiental de travesía. Cientos de enanos de escudo viven en minas y salas conectadas; salen poco, para cazar o conseguir comida. Son educados, incluso amistosos, y ofrecen uno o dos días de refugio, pero sus escasas reservas y trabajo impiden alojar indefinidamente. Quienes hayan completado «Jarras Espumeantes» pueden quedarse cuanto quieran. Un descanso en el campamento bajo techo es posible si la ficción permite tiempo, calor y suministros.
+- **Qué ocurre**: La ruta directa cubre unos diecinueve kilómetros en veinticuatro horas a pie o doce en trineo. A mitad de trayecto, decide si hay un encuentro y si coincide con ventisca. Usa el desafío ambiental de travesía para resolver los peligros del camino. Cientos de enanos de escudo viven en minas y salas conectadas; salen poco, para cazar o conseguir comida. Son educados, incluso amistosos, y ofrecen uno o dos días de refugio, pero sus escasas reservas y trabajo impiden alojar indefinidamente. Quienes hayan completado «Jarras Espumeantes» pueden quedarse cuanto quieran. Un descanso en el campamento bajo techo es posible si la ficción permite tiempo, calor y suministros.
 - **Etiquetas de escena**: [tundra sin referencias], [accesos a minas], [hospitalidad limitada], [favor de los enanos] si procede.
 - **Ambiente sonoro**: Viento abierto, nieve raspando la ropa, ecos de labores bajo la piedra.
 
@@ -100,22 +100,22 @@ La ruta alcanza una cumbre secundaria, no el pico más alto de Kelvin. El regres
 ### Caverna gélida: trofeos F2
 - **Lugar e imagen**: Túnel de tres metros de altura, suelo cubierto de huesos, cuero desgarrado y un hacha grande; ocho nichos toscos con cabezas heladas, restos oscuros y escarcha sobre piedra.
 - **Lectura**: El túnel estrecha vuestra vista y concentra un olor pesado bajo el frío. En el suelo aparecen huesos grandes mezclados con tiras de cuero y restos de carne. Un hacha yace entre ellos. Al alzar la luz descubrís un nicho con una cabeza roída y, después, otros huecos excavados en las paredes. Las caras congeladas conservan rasgos que el hielo no ha logrado borrar. No parece un lugar donde hayan caído viajeros por accidente. Al avanzar, vuestros pasos remueven fragmentos pequeños que resuenan demasiado fuerte en el pasadizo.
-- **Qué ocurre**: Los restos principales son de Mokingo «Oso Gruñón» Akannathi; su cabeza arrancada ocupa un nicho. Hay además huesos y cráneos de tres cabras. Otros siete nichos contienen cabezas de víctimas humanoides anteriores. Dos pertenecen a Oobok, relacionado con «Jarras Espumeantes», y Barthoom Mazhogar, muerto hace un mes más arriba. Reconocerlos requiere conocimiento previo, testimonios o cotejar pistas; no es información evidente para cualquiera. Examinar con calma obtiene [destino de Mokingo confirmado] y, si procede, [identidad de las víctimas].
-- **Etiquetas de escena**: [trofeos congelados], [restos de Mokingo], [horror de la depredación], [pistas de otras muertes].
+- **Qué ocurre**: Los restos principales son de Mokingo «Oso Gruñón» Akannathi; su cabeza arrancada ocupa un nicho. Hay además huesos y cráneos de tres cabras. Otros siete nichos contienen cabezas de víctimas humanoides anteriores. Dos pertenecen a Oobok, relacionado con «Jarras Espumeantes», y Barthoom Mazhogar, muerto hace un mes más arriba. Reconocerlos requiere conocimiento previo, testimonios o cotejar pistas; no es información evidente para cualquiera. Examinar con calma obtiene [destino de mokingo confirmado] y, si procede, [identidad de las víctimas].
+- **Etiquetas de escena**: [trofeos congelados], [restos de mokingo], [horror de la depredación], [pistas de otras muertes].
 - **Ambiente sonoro**: Huesos bajo las botas, eco corto y rumores de la cámara contigua; silencio musical.
 
 ### Caverna gélida: guarida F3 y regreso del padre
 - **Lugar e imagen**: Cámara elevada metro y medio respecto al túnel anterior, techo irregular entre tres y seis metros; desnivel meridional de tres metros hacia un pasaje con escalones ascendentes. Restos de trineo junto a ropa manchada, utensilios y una mochila.
 - **Lectura**: El pasadizo desemboca en una cámara más alta. Veis una yeti adulta junto a su cría, que empuja de un lado a otro un bulto acurrucado. Un grito os revela que se trata de una mediana, todavía viva y apenas protegida del frío. Cuando reparan en vosotros, la cría trepa a la espalda de su madre. El rugido de la adulta llena el recinto y parece hacer vibrar el hielo. Entre los restos de un trineo distinguís prendas gruesas y equipo abandonado. Al fondo, el suelo termina en un escalón alto sobre otro túnel.
-- **Qué ocurre**: La cría maltrata a Perilou como un juguete; ella está [agotada-3], sin otras lesiones relevantes, y lleva parte de su ropa de abrigo. La madre pretende ahuyentar intrusos: no combate ni se expone si los Héroes evitan atacar y comunican que solo quieren llevarse a la mediana. Un éxito al calmar y rescatar da [Perilou liberada]; un fallo puede provocar [madre alarmada] y otra amenaza antes de escalar a violencia. Perilou vio morir a Mokingo, desconoce el destino de Astrix y desea averiguarlo. Bajo el trineo hay utensilios de cocina, una mochila de explorador y ropa ensangrentada suficiente para dos atuendos de abrigo. Al salir vuelve el padre con una cabra muerta bajo el brazo: normalmente ataca. El secreto «El Yeti más Pequeño» puede mejorar su actitud y facilitar comunicación. Si llevan consigo a la cría, pueden devolverla a cambio de paso seguro hacia arriba o abajo; tomarla no es requisito ni una opción sin riesgo.
+- **Qué ocurre**: La cría maltrata a Perilou como un juguete; ella está [agotada-3], sin otras lesiones relevantes, y lleva parte de su ropa de abrigo. La madre pretende ahuyentar intrusos: no combate ni se expone si los Héroes evitan atacar y comunican que solo quieren llevarse a la mediana. Un éxito al calmar y rescatar da [perilou liberada]; un fallo puede provocar [madre alarmada] y otra amenaza antes de escalar a violencia. Perilou vio morir a Mokingo, desconoce el destino de Astrix y desea averiguarlo. Bajo el trineo hay utensilios de cocina, una mochila de explorador y ropa ensangrentada suficiente para dos atuendos de abrigo. Al salir vuelve el padre con una cabra muerta bajo el brazo: normalmente ataca. El secreto «El Yeti más Pequeño» puede mejorar su actitud y facilitar comunicación. Si llevan consigo a la cría, pueden devolverla a cambio de paso seguro hacia arriba o abajo; tomarla no es requisito ni una opción sin riesgo.
 - **Etiquetas de escena**: [cría protegida], [rescate sin combate posible], [agotada-3] en Perilou, [equipo entre los restos].
 - **Ambiente sonoro**: Gritos, gruñidos, rugido de advertencia, pasos pesados y respiración contenida.
 
 ### Campamento en ruinas
 - **Lugar e imagen**: Tienda semienterrada en una ladera expuesta; nieve acumulada, lona hundida, botas de cuero azul sobresaliendo de un banco blanco y equipo congelado. Luz pálida sin fuente de calor.
 - **Lectura**: Más arriba encontráis una tienda casi sepultada. La lona apenas rompe la superficie de la nieve y no sale humo ni luz de su interior. Una tiflin permanece sentada e inmóvil, con los dientes apretados y la mirada fija en unas botas azules que sobresalen de un montón cercano. El hielo ha endurecido su ropa y la nieve comienza a cubrirle las piernas. No percibís respiración alguna. El lugar ofrece una protección miserable contra el viento; aun así, alguien debió creer que podría pasar aquí la noche, lejos de lo que había dejado más abajo.
-- **Qué ocurre**: Astrix murió congelada. Escapó del yeti, subió presa del pánico y no se atrevió a volver junto a la cueva. Las botas que vio contribuyeron a hundirla en la desesperación. Pertenecen a Barthoom Mazhogar, explorador enano de escudo: su tienda lleva aquí un mes. Tirar de las botas descubre un cadáver decapitado; su cabeza está en F2. Lleva un odre vacío, queso de cabra a medio comer y equipo de minero. Astrix conserva una poción de invisibilidad y un grimorio de cuero; registra su contenido en la sección de objetos. La cabecera descriptiva de esta escena en la fuente repite por error la entrada de la caverna: aquí corresponde el campamento y sus dos muertos.
-- **Etiquetas de escena**: [tienda semienterrada], [destino de Astrix confirmado], [botas azules], [sin calor ni refugio suficiente].
+- **Qué ocurre**: Astrix murió congelada. Escapó del yeti, subió presa del pánico y no se atrevió a volver junto a la cueva. Las botas que vio contribuyeron a hundirla en la desesperación. Pertenecen a Barthoom Mazhogar, explorador enano de escudo: su tienda lleva aquí un mes. Tirar de las botas descubre un cadáver decapitado; su cabeza está en F2. Lleva un odre vacío, queso de cabra a medio comer y equipo de minero. Astrix conserva una poción de invisibilidad y un grimorio de cuero; registra su contenido en la sección de objetos.
+- **Etiquetas de escena**: [tienda semienterrada], [destino de astrix confirmado], [botas azules], [sin calor ni refugio suficiente].
 - **Ambiente sonoro**: Lona golpeando, nieve arrastrada y largos silencios; música lenta y escasa.
 
 ### Regreso a Targos
@@ -127,19 +127,19 @@ La ruta alcanza una cumbre secundaria, no el pico más alto de Kelvin. El regres
 
 ## Personajes no jugadores
 
-Los rasgos visuales que la fuente no determina se proponen como orientación artística, sin añadir información secreta. Los perfiles hostiles se desarrollan en «Desafíos».
+Los perfiles hostiles se desarrollan en «Desafíos».
 
 ### Naerth Maxildanarr
 - **Papel**: Portavoz y principal agente Zhentarim de Diez Ciudades. · **Aspecto**: Humano adulto de Luskan; propuesta visual: complexión ágil, abrigo de buen paño y guantes cuidados. · **Carácter y voz**: Afable, cercano y llano; oculta su cálculo tras una cordialidad accesible. · **Quiere**: Convertir el valle en un centro comercial de la Red Negra y controlar su comercio. · **Sabe**: Movimientos de su red de espías, sospechas sobre agentes Arpistas y presiones sobre comerciantes. Llegó hace un par de años y repartió recursos entre pescadores; sustituyó a un portavoz querido que ya no deseaba el cargo. · **Si se convierte en desafío**: Véase «Naerth y su influencia».
 
 ### Skath
-- **Papel**: Capitán de la milicia, mercenario Zhentarim fiel a Naerth. · **Aspecto**: Tiflin adulto; propuesta visual: cuerpo robusto, cuernos visibles y equipo militar bajo pieles gruesas. · **Carácter y voz**: Disciplinado, autoritario y leal a su patrón. · **Quiere**: Mantener el control y ejecutar las decisiones de Naerth. · **Sabe**: Organización de la milicia y órdenes que recibe; la fuente no precisa cuánto conoce de cada intriga. · **Si se convierte en desafío**: Véase «Skath»; sus tropas se resuelven como bandas separadas cuando intervengan.
+- **Papel**: Capitán de la milicia, mercenario Zhentarim fiel a Naerth. · **Aspecto**: Tiflin adulto; propuesta visual: cuerpo robusto, cuernos visibles y equipo militar bajo pieles gruesas. · **Carácter y voz**: Disciplinado, autoritario y leal a su patrón. · **Quiere**: Mantener el control y ejecutar las decisiones de Naerth. · **Sabe**: Organización de la milicia y órdenes que recibe. · **Si se convierte en desafío**: Véase «Skath»; sus tropas se resuelven como bandas separadas cuando intervengan.
 
 ### Owenn Tarsenel
-- **Papel**: Posadero de Los Brazos de Luskan y amigo de Keegan. · **Aspecto**: Humano calvo; propuesta visual: mediana edad, hombros caídos y ropa de lana gastada. · **Carácter y voz**: Tranquilo, apagado y profundamente deprimido. · **Quiere**: Sostener su posada, aunque teme que el verano jamás regrese. · **Sabe**: Naerth vive en la suite mayor; no se establece que conozca su afiliación secreta. · **Si se convierte en desafío**: No combate.
+- **Papel**: Posadero de Los Brazos de Luskan y amigo de Keegan. · **Aspecto**: Humano calvo; propuesta visual: mediana edad, hombros caídos y ropa de lana gastada. · **Carácter y voz**: Tranquilo, apagado y profundamente deprimido. · **Quiere**: Sostener su posada, aunque teme que el verano jamás regrese. · **Sabe**: Naerth vive en la suite mayor. · **Si se convierte en desafío**: No combate.
 
 ### Ethen «Ma» Yarbroul
-- **Papel**: Tabernera de Tres Banderas Navegando. · **Aspecto**: Humana viuda, regordeta y de pelo gris; propuesta visual: delantal sobre capas de lana. · **Carácter y voz**: Protectora, directa y maternal. · **Quiere**: Cuidar a los pescadores como a sus propios hijos. · **Sabe**: Conversaciones y rumores que pasan por su taberna; ninguno concreto viene fijado en esta sección. · **Si se convierte en desafío**: No combate.
+- **Papel**: Tabernera de Tres Banderas Navegando. · **Aspecto**: Humana viuda, regordeta y de pelo gris; propuesta visual: delantal sobre capas de lana. · **Carácter y voz**: Protectora, directa y maternal. · **Quiere**: Cuidar a los pescadores como a sus propios hijos. · **Sabe**: Conversaciones y rumores que pasan por su taberna. · **Si se convierte en desafío**: No combate.
 
 ### Jestin Hunrae
 - **Papel**: Dueño de Triglio y antiguo pescador. · **Aspecto**: Humano muy delgado, semejante a un espantapájaros, con la mano izquierda aplastada; propuesta visual: abrigo holgado y mitón adaptado. · **Carácter y voz**: Trato práctico y bondadoso. · **Quiere**: Mantener su negocio y abastecer al pueblo. · **Sabe**: Equipo común y trabajo del lago; sufrió su lesión al chocar con una embarcación de Termalaine. · **Si se convierte en desafío**: No combate.
@@ -151,32 +151,31 @@ Los rasgos visuales que la fuente no determina se proponen como orientación art
 - **Papel**: Guía desaparecido y superviviente del ataque. · **Aspecto**: Humano joven adulto, curtido y barbudo, procedente de Neverwinter; ropa de frío ensangrentada y equipo de escalada. · **Carácter y voz**: Resistente, amante del aire libre y responsable de sus clientes; habla con esfuerzo al encontrarlo. · **Quiere**: Hallar a sus tres compañeros antes de ponerse a salvo. · **Sabe**: Lugar aproximado del ataque y nombres del grupo. Mokingo buscaba a Oyaminartok para medir su temple; Perilou era su compañera fiel; Astrix murmuraba y maldecía, pero Garret desconoce su historia. · **Si se convierte en desafío**: No combate en su estado de rescate; [herido-3], [agotado-1]. La promesa de buscar a los demás y la recuperación de sus heridas resuelven su resistencia a marcharse sin un enfrentamiento social obligatorio.
 
 ### Chico y los otros perros
-- **Papel**: Chico trae la petición de auxilio; otros cinco perros esperan en el campamento. · **Aspecto**: Chico tiene pelaje gris claro y tamaño de lobo, con arnés roto; los demás muestran hambre y frío. · **Carácter y voz**: Amistosos, de gemidos y ladridos insistentes. · **Quiere**: Chico busca ayuda y volver con Garret; los otros necesitan refugio y alimento. · **Sabe**: Chico reconoce el camino al campamento y hasta Garret. · **Si se convierte en desafío**: No combate en estas escenas; usa [Chico, guía fiel] como ayuda de historia y atiende sus necesidades.
+- **Papel**: Chico trae la petición de auxilio; otros cinco perros esperan en el campamento. · **Aspecto**: Chico tiene pelaje gris claro y tamaño de lobo, con arnés roto; los demás muestran hambre y frío. · **Carácter y voz**: Amistosos, de gemidos y ladridos insistentes. · **Quiere**: Chico busca ayuda y volver con Garret; los otros necesitan refugio y alimento. · **Sabe**: Chico reconoce el camino al campamento y hasta Garret. · **Si se convierte en desafío**: No combate en estas escenas; usa [chico, guía fiel] como ayuda de historia y atiende sus necesidades.
 
 ### Atenas Veloz
-- **Papel**: Dueño de Expediciones Allendhelor, testigo en Caer-Konig. · **Aspecto**: Pueblo, edad y rasgos no especificados aquí; propuesta visual: tendero adulto con ropa práctica de montaña. · **Carácter y voz**: Informativo y profesional. · **Quiere**: Atender su establecimiento. · **Sabe**: Composición de la expedición, compras y establecimientos a los que se dirigió. · **Si se convierte en desafío**: No combate. La fuente no aporta un perfil de combate en este fragmento.
+- **Papel**: Dueño de Expediciones Allendhelor, testigo en Caer-Konig. · **Aspecto**: Tendero adulto con ropa práctica de montaña. · **Carácter y voz**: Informativo y profesional. · **Quiere**: Atender su establecimiento. · **Sabe**: Composición de la expedición, compras y establecimientos a los que se dirigió. · **Si se convierte en desafío**: No combate.
 
 ### Jarthra Farzassh
-- **Papel**: Guía que se puede contratar en Caer-Konig. · **Aspecto**: Pueblo y edad no precisados aquí; propuesta visual: guía adulta de complexión recia, abrigo de expedición y equipo de orientación. · **Carácter y voz**: Práctica y conocedora del terreno. · **Quiere**: Cumplir el trabajo de guía acordado. · **Sabe**: Ubicación exacta del campamento que recomendó a Garret. · **Si se convierte en desafío**: No combate en esta adaptación; su perfil completo pertenece a la sección de Caer-Konig.
+- **Papel**: Guía que se puede contratar en Caer-Konig. · **Aspecto**: Guía adulta de complexión recia, abrigo de expedición y equipo de orientación. · **Carácter y voz**: Práctica y conocedora del terreno. · **Quiere**: Cumplir el trabajo de guía acordado. · **Sabe**: Ubicación exacta del campamento que recomendó a Garret. · **Si se convierte en desafío**: No combate; consulta la sección de Caer-Konig para ampliar su perfil.
 
 ### Mokingo «Oso Gruñón» Akannathi
-- **Papel**: Guerrero muerto al defender a Garret. · **Aspecto**: Goliat; edad y atuendo no detallados; restos de armadura de cuero, huesos y cabeza separada en F2, junto a un hacha grande. · **Carácter y voz**: Su búsqueda revela afán de probar su valor; no tiene diálogo presente. · **Quiere**: Quería encontrar a Oyaminartok y ponerse a prueba frente a ella. · **Sabe**: Su cadáver demuestra el destino de uno de los clientes. · **Si se convierte en desafío**: No combate; está muerto.
+- **Papel**: Guerrero muerto al defender a Garret. · **Aspecto**: Goliat; restos de armadura de cuero, huesos y cabeza separada en F2, junto a un hacha grande. · **Carácter y voz**: Su búsqueda revela afán de probar su valor; no tiene diálogo presente. · **Quiere**: Quería encontrar a Oyaminartok y ponerse a prueba frente a ella. · **Sabe**: Su cadáver demuestra el destino de uno de los clientes. · **Si se convierte en desafío**: No combate; está muerto.
 
 ### Perilou Dedopez
-- **Papel**: Superviviente cautiva y acólita de Yondalla, diosa mediana de la fertilidad y la protección. · **Aspecto**: Mediana piesligeros, edad no indicada; acurrucada, con parte de sus prendas de frío; propuesta visual: ropa devocional sencilla bajo capas de lana. · **Carácter y voz**: Leal a Mokingo, agradecida y traumatizada. · **Quiere**: Salir de la guarida, conocer el destino de Astrix y regresar a Diez Ciudades para dejar de aventurarse. · **Sabe**: Vio morir a Mokingo; ignora qué ocurrió con Astrix. · **Si se convierte en desafío**: No combate; [agotada-3]. Necesita abrigo y ayuda para bajar.
+- **Papel**: Superviviente cautiva y acólita de Yondalla, diosa mediana de la fertilidad y la protección. · **Aspecto**: Mediana piesligeros; acurrucada, con parte de sus prendas de frío; propuesta visual: ropa devocional sencilla bajo capas de lana. · **Carácter y voz**: Leal a Mokingo, agradecida y traumatizada. · **Quiere**: Salir de la guarida, conocer el destino de Astrix y regresar a Diez Ciudades para dejar de aventurarse. · **Sabe**: Vio morir a Mokingo; ignora qué ocurrió con Astrix. · **Si se convierte en desafío**: No combate; [agotada-3]. Necesita abrigo y ayuda para bajar.
 
 ### Astrix
-- **Papel**: Maga muerta por exposición en el campamento superior. · **Aspecto**: Tiflin de edad no indicada, congelada sentada, dientes apretados y ojos dirigidos a las botas azules; propuesta visual: abrigo de viaje endurecido por hielo. · **Carácter y voz**: En vida, murmuraba y decía muchas palabrotas; el pánico y la desesperación sellaron su huida. · **Quiere**: Quería evitar el regreso a la cueva. · **Sabe**: Sus pertenencias y posición permiten reconstruir su último refugio, sin que los Héroes conozcan automáticamente sus pensamientos. · **Si se convierte en desafío**: No combate; está muerta.
+- **Papel**: Maga muerta por exposición en el campamento superior. · **Aspecto**: Tiflin, congelada sentada, dientes apretados y ojos dirigidos a las botas azules; propuesta visual: abrigo de viaje endurecido por hielo. · **Carácter y voz**: En vida, murmuraba y decía muchas palabrotas; el pánico y la desesperación sellaron su huida. · **Quiere**: Quería evitar el regreso a la cueva. · **Sabe**: Sus pertenencias y posición permiten reconstruir su último refugio, sin que los Héroes conozcan automáticamente sus pensamientos. · **Si se convierte en desafío**: No combate; está muerta.
 
 ### Barthoom Mazhogar y Oobok
-- **Papel**: Víctimas anteriores que enlazan pistas de la montaña. · **Aspecto**: Barthoom era un enano de escudo explorador; su cuerpo decapitado conserva botas de cuero azul y equipo de minero. La cabeza de Oobok, también enano, está en F2; los demás rasgos no se describen. · **Carácter y voz**: No determinados aquí. · **Quiere**: No tienen una voluntad activa en esta sección. · **Sabe**: Barthoom murió hace un mes; Oobok conecta con «Jarras Espumeantes». · **Si se convierte en desafío**: No combate; ambos están muertos.
+- **Papel**: Víctimas anteriores que enlazan pistas de la montaña. · **Aspecto**: Barthoom era un enano de escudo explorador; su cuerpo decapitado conserva botas de cuero azul y equipo de minero. La cabeza de Oobok, también enano, está en F2. · **Carácter y voz**: En vida, acostumbrados a los rigores del valle y al trabajo al aire libre. · **Quiere**: En vida, buscaban ganarse el sustento y regresar a salvo de sus viajes. · **Sabe**: Barthoom murió hace un mes; Oobok conecta con «Jarras Espumeantes». · **Si se convierte en desafío**: No combate; ambos están muertos.
 
 ## Desafíos
 
-Los niveles de los peligros ambientales son propuestas de adaptación. Cada amenaza anuncia lo que está a punto de ocurrir; aplica sus consecuencias cuando nadie lo impida o cuando la acción lo justifique. Las etiquetas no implican que todos los estados iniciales afecten a todos los Héroes.
+Cada amenaza anuncia lo que está a punto de ocurrir; aplica sus consecuencias cuando nadie lo impida o cuando la acción lo justifique. Las etiquetas no implican que todos los estados iniciales afecten a todos los Héroes.
 
 ### Travesía invernal y ascenso (nivel 2)
-- **Origen 5e**: Viaje por tundra, búsqueda del campamento y tres tramos de escalada; sin criatura de origen.
 - **Límites**: ruta resuelta 4, paso de escalada asegurado 3. Usa cada límite en su contexto; los tres tramos de la escena siguen requiriendo su resolución.
 - **Etiquetas y estados**: [frío persistente], [referencias borradas], [hielo traicionero], [viento lateral], [agotado-1], [helado-1].
 - **Amenazas y consecuencias**:
@@ -187,17 +186,15 @@ Los niveles de los peligros ambientales son propuestas de adaptación. Cada amen
 - **Debilidades / secretos**: Chico y Jarthra evitan la búsqueda del campamento. Abrigo, refugio, raquetas, cuerdas y cooperación cambian las acciones posibles. El favor de los enanos permite descansar sin la limitación habitual de estancia.
 
 ### Avalancha (nivel 3, Poderío Aventura)
-- **Origen 5e**: Una avalancha de unos sesenta metros de ancho y nueve de profundidad, descrita en la escena.
 - **Límites**: fuera de trayectoria 3, sepultado 5 para cada víctima; el segundo es un límite de peligro, no una forma de derrotar la nieve.
 - **Etiquetas y estados**: [masa arrolladora], [avance fulminante], [nieve compacta], [visibilidad blanca], [desorientado-2].
 - **Amenazas y consecuencias**:
-  - El frente alcanza la posición del grupo: inflige [golpeado-3]; arrastra pendiente abajo; crea [Compañía separada].
+  - El frente alcanza la posición del grupo: inflige [golpeado-3]; arrastra pendiente abajo; crea [compañía separada].
   - La nieve se cierra sobre una víctima: inflige [sepultado-3]; crea [sin acceso al aire].
   - La víctima permanece bajo la nieve: aumenta [sepultado] hacia su límite; inflige [helado-2].
 - **Debilidades / secretos**: Huir de lado, aprovechar abrigo real y actuar antes del siguiente embate. Cuerdas y señales facilitan encontrar a los enterrados. Alcanzar sepultado 5 supone quedar completamente atrapado, con asfixia inminente: exige rescate urgente y consecuencias acordes al tiempo transcurrido.
 
 ### Manada de cabras montesas (nivel 1)
-- **Origen 5e**: Cuatro cabras montesas del apéndice C, agrupadas en un desafío.
 - **Límites**: herida 3, ahuyentada 2.
 - **Etiquetas y estados**: [pezuñas seguras], [cuernos], [defensa del roquedo], [equilibrio de montaña].
 - **Amenazas y consecuencias**:
@@ -206,7 +203,6 @@ Los niveles de los peligros ambientales son propuestas de adaptación. Cada amen
 - **Debilidades / secretos**: Son indiferentes mientras no las ataquen; dejarlas tranquilas resuelve la escena sin combate.
 
 ### Pareja de gatos de los riscos (nivel 1)
-- **Origen 5e**: Dos gatos de los riscos, reunidos como un solo desafío de manada.
 - **Límites**: herida 3, ahuyentada 3.
 - **Etiquetas y estados**: [cazadores de hombres], [acecho entre rocas], [salto depredador], [olfato para la sangre], [ataque oportunista].
 - **Amenazas y consecuencias**:
@@ -215,7 +211,6 @@ Los niveles de los peligros ambientales son propuestas de adaptación. Cada amen
 - **Debilidades / secretos**: La vigilancia evita la sorpresa. Cuando cae uno de los dos, el otro abandona el combate e intenta huir.
 
 ### Familia de yetis (nivel 2, Poderío Aventura)
-- **Origen 5e**: Dos yetis adultos y una cría de yeti; la madre y la cría están dentro, el padre llega al salir. Un solo desafío familiar con presencia escalonada, no tres atacantes iniciales.
 - **Límites**: herida 5, apaciguada 3, retirada 4.
 - **Etiquetas y estados**: [fuerza brutal], [pelaje de nieve], [garras heladas], [mirada aterradora], [protección de la cría], [cazadores de montaña].
 - **Amenazas y consecuencias**:
@@ -226,37 +221,33 @@ Los niveles de los peligros ambientales son propuestas de adaptación. Cada amen
 - **Debilidades / secretos**: La madre acepta un rescate sin agresiones si entiende la intención. El secreto «El Yeti más Pequeño» facilita entenderse, especialmente con el padre. Devolver la cría permite negociar paso seguro. La cría no tiene por qué luchar para que la familia actúe.
 
 ### Placa de hielo sobre F1 (nivel 2)
-- **Origen 5e**: Una placa de hielo de unos treinta centímetros sobre un abismo de veinticuatro metros; obstáculo sin criatura.
 - **Límites**: rota 3, cruce asegurado 2.
-- **Etiquetas y estados**: [hielo grueso], [vacío debajo], [atajo hacia F3], [vulnerable a impactos].
+- **Etiquetas y estados**: [hielo grueso], [vacío debajo], [atajo hacia f3], [vulnerable a impactos].
 - **Amenazas y consecuencias**:
   - Las fracturas se propagan tras los golpes: crea [suelo a punto de ceder]; deja a quienes estén encima ante un salto urgente.
   - La placa cae sin que nadie alcance el borde: inflige [herido-5] y [postrado-2]; crea [atrapado en el fondo].
-- **Debilidades / secretos**: El puente natural evita el riesgo. Golpes y herramientas sirven para romperla; frío, veneno y ataques mentales no. No la hagas colapsar por mero tránsito sin una causa añadida: la fuente permite cruzarla y describe su destrucción deliberada.
+- **Debilidades / secretos**: El puente natural evita el riesgo. Golpes y herramientas sirven para romperla; frío, veneno y ataques mentales no. Permite cruzarla sin que colapse por el mero tránsito; su destrucción requiere golpes, herramientas u otra causa añadida.
 
 ### Naerth y su influencia (nivel 2)
-- **Origen 5e**: Un humano espía; su red es contexto y recurso, no una banda presente en todo encuentro.
 - **Límites**: herido 3, desenmascarado 4, obligado a ceder 4.
-- **Etiquetas y estados**: [cordialidad calculada], [apoyo de los pescadores], [agente Zhentarim], [red de espías], [mensajería con serpientes], [recursos comerciales].
+- **Etiquetas y estados**: [cordialidad calculada], [apoyo de los pescadores], [agente zhentarim], [red de espías], [mensajería con serpientes], [recursos comerciales].
 - **Amenazas y consecuencias**:
-  - Sus agentes siguen a los curiosos: crea [vigilados por la Red Negra]; expone un contacto de los Héroes.
+  - Sus agentes siguen a los curiosos: crea [vigilados por la red negra]; expone un contacto de los Héroes.
   - Presiona al comercio local: crea [proveedores intimidados]; retira un favor comercial.
   - Usa su popularidad para desacreditar acusaciones: inflige [desacreditado-2]; crea [testigo reticente].
   - Se defiende con recursos de espía al verse acorralado: inflige [herido-2]; crea [huida entre dependencias].
 - **Debilidades / secretos**: Los mensajes, agentes y presiones pueden aportar pruebas. Persigue a supuestos Arpistas y fuerza a negocios a comprar pescado de Targos. No todo vecino favorecido conoce su afiliación.
 
 ### Skath (nivel 2)
-- **Origen 5e**: Un tiflin veterano.
 - **Límites**: herido 4, desarmado 3, forzado a retirarse 4.
-- **Etiquetas y estados**: [mercenario experimentado], [autoridad militar], [lealtad a Naerth], [equipo de veterano].
+- **Etiquetas y estados**: [mercenario experimentado], [autoridad militar], [lealtad a naerth], [equipo de veterano].
 - **Amenazas y consecuencias**:
   - Ordena cerrar el paso: crea [salida custodiada]; separa a la Compañía de un contacto.
   - Descarga una ofensiva disciplinada: inflige [herido-2]; inflige [acorralado-2].
-  - Llama a los guardias: introduce una banda de milicia; crea [buscados en Targos] si hay motivos públicos para ello.
+  - Llama a los guardias: introduce una banda de milicia; crea [buscados en targos] si hay motivos públicos para ello.
 - **Debilidades / secretos**: Su lealtad política condiciona sus decisiones; pruebas y testigos pueden limitar su margen de actuación, sin garantizar que traicione a Naerth.
 
 ### Banda de milicianos de Targos (nivel 1)
-- **Origen 5e**: Soldados con perfil de guerrero tribal; hasta doscientos movilizables en toda la ciudad. Este perfil representa una banda local, no a los doscientos juntos.
 - **Límites**: herida 3, dispersada 3, convencida 3.
 - **Etiquetas y estados**: [conocimiento de las calles], [armas de asta], [defensa comunal], [órdenes del capitán].
 - **Amenazas y consecuencias**:
@@ -265,7 +256,6 @@ Los niveles de los peligros ambientales son propuestas de adaptación. Cada amen
 - **Debilidades / secretos**: Su función es proteger la ciudad. Vecinos reconocidos, instrucciones legítimas y pruebas pueden abrir una salida social.
 
 ### Banda de veteranos de Targos (nivel 2)
-- **Origen 5e**: Hasta dieciséis veteranos disponibles; reúne a los presentes en un desafío y ajusta la escala a su número real.
 - **Límites**: herida 4, retirada 4, convencida 4.
 - **Etiquetas y estados**: [disciplina], [equipo militar], [maniobras coordinadas], [experiencia de combate].
 - **Amenazas y consecuencias**:
@@ -274,7 +264,6 @@ Los niveles de los peligros ambientales son propuestas de adaptación. Cada amen
 - **Debilidades / secretos**: Cumplen una cadena de mando y necesitan una razón para intervenir. Toda la fuerza reunida supone una escala muy superior a una pelea de taberna; establece ese alcance en la ficción.
 
 ### Serpientes voladoras mensajeras (nivel 1)
-- **Origen 5e**: Tres serpientes voladoras enjauladas en la suite de Naerth, agrupadas si actúan juntas.
 - **Límites**: heridas 2, capturadas 2, ahuyentadas 2.
 - **Etiquetas y estados**: [vuelo veloz], [tamaño diminuto], [mordedura venenosa], [mensajeras entrenadas].
 - **Amenazas y consecuencias**:
@@ -284,24 +273,24 @@ Los niveles de los peligros ambientales son propuestas de adaptación. Cada amen
 
 ## Objetos, pistas y documentos
 
-- **[Chico, guía fiel]**, etiqueta de historia aliada: conoce campamento y ubicación de Garret, comunica urgencia y necesita cuidados. Los cinco perros restantes no deben confundirse con nuevos animales sin dueño para la mochila.
+- **[chico, guía fiel]**, etiqueta de historia aliada: conoce campamento y ubicación de Garret, comunica urgencia y necesita cuidados. Los cinco perros restantes no deben confundirse con nuevos animales sin dueño para la mochila.
 - **[equipo de escalada]**, mochila: cuerdas y herramientas hacen posibles ascensos asegurados; Garret conserva el suyo. **[raquetas de nieve]**, **[equipo de acampada]** y **[ropa de frío]** pueden obtenerse en los comercios pertinentes mediante recursos o favores.
 - **[reserva de raciones]**, mochila: caja del campamento con comida para cuatro personas durante tres días; reduce o agota la etiqueta según consumo. La otra caja está vacía.
 - **[utensilios de cocina]**, **[mochila de explorador]**, **[dos atuendos de abrigo ensangrentados]**, mochila: bajo el trineo roto de F3. La ropa puede cubrir a Perilou y otro rescatado, previa adecuación y limpieza si procede.
-- **[hacha grande de Mokingo]**, mochila si se recupera: arma y recuerdo de su defensa. **[restos de Mokingo]**, pista de historia: huesos, cuero desgarrado y cabeza en F2; permiten comunicar su destino o recuperar restos para honras.
-- **[botas azules de Barthoom]**, pista y posible mochila: identifican el cuerpo decapitado del campamento superior. **[equipo de minero]**, mochila; **[odre vacío]** y **[queso de cabra a medio comer]**, hallazgos modestos que no equivalen a una nueva reserva de viaje. Su cabeza en F2 enlaza ambos escenarios.
-- **[cabeza de Oobok]**, pista de historia: posible identificación relacionada con «Jarras Espumeantes»; requiere información que permita reconocerlo.
-- **[poción de invisibilidad]**, mochila, consumible de Astrix: rutina «beber y desaparecer de la vista». Crea [invisible] para una maniobra o secuencia breve coherente; se consume al usarla. La fuente no fija duración en este fragmento; acuerda su alcance antes de resolverla. No elimina ruido, huellas ni presencia física.
-- **[grimorio de Astrix]**, mochila: libro de cuero con nueve rutinas. Su posesión no concede de inmediato dominio de toda la magia: requiere un tema, etiqueta o aprendizaje que lo permita. Rutinas de conversión: «alterar el propio aspecto» crea [apariencia alterada]; «nube de dagas» crea [zona de hojas cortantes] y amenaza [cortado-2]; «comprensión idiomática» aporta [lengua comprendida]; «detectar magia» revela [presencia mágica localizada]; «retirada expeditiva» aporta [huida acelerada]; «rayo abrasador» puede infligir [quemado-2]; «sugestión» puede causar [sugestionado-2] con una propuesta comprensible y adecuada; «escudo» crea [barrera arcana momentánea]; «disco flotante de Tenser» crea [plataforma de carga flotante]. Los efectos y su intensidad se resuelven con el Poder de la acción, no como resultados garantizados del objeto.
-- **[tallas de marfil de Keegan]**, mochila o regalo de valor: caja de madera con cuatro piezas, una ballena emergiendo, un zorro sonriente, dos liebres danzantes y una morsa con la inscripción «GRAN AMOR». Pueden servir como recuerdo, obsequio o recurso de trueque significativo, sin valor monetario exacto.
-- **[habitaciones ofrecidas por Owenn]**, favor de historia: recompensa de alojamiento en Los Brazos de Luskan, acordada por Keegan. No implica manutención ilimitada ni inmunidad frente a las intrigas de la posada.
-- **Ayudas para entregar a los jugadores:** la fuente no contiene cartas ni diarios. Pueden prepararse una ficha con el testimonio de Keegan, otra con las últimas paradas confirmadas por Atenas y un esquema del itinerario con tiempos. Son resúmenes de testimonios, no documentos encontrados. Los mapas 1.16 y 1.17 se citan, pero el texto facilitado no reproduce su trazado completo; usa solo las conexiones descritas. Mensajes Zhentarim solo se entregan si se interceptan y el Narrador redacta su contenido como material añadido.
+- **[hacha grande de mokingo]**, mochila si se recupera: arma y recuerdo de su defensa. **[restos de mokingo]**, pista de historia: huesos, cuero desgarrado y cabeza en F2; permiten comunicar su destino o recuperar restos para honras.
+- **[botas azules de barthoom]**, pista y posible mochila: identifican el cuerpo decapitado del campamento superior. **[equipo de minero]**, mochila; **[odre vacío]** y **[queso de cabra a medio comer]**, hallazgos modestos que no equivalen a una nueva reserva de viaje. Su cabeza en F2 enlaza ambos escenarios.
+- **[cabeza de oobok]**, pista de historia: posible identificación relacionada con «Jarras Espumeantes»; requiere información que permita reconocerlo.
+- **[poción de invisibilidad]**, mochila, consumible de Astrix: rutina «beber y desaparecer de la vista». Crea [invisible] para una maniobra o secuencia breve coherente; se consume al usarla. Acuerda su alcance antes de resolverla. No elimina ruido, huellas ni presencia física.
+- **[grimorio de astrix]**, mochila: libro de cuero con nueve rutinas. Su posesión no concede de inmediato dominio de toda la magia: requiere un tema, etiqueta o aprendizaje que lo permita. Rutinas: «alterar el propio aspecto» crea [apariencia alterada]; «hacer girar hojas cortantes en el aire» crea [zona de hojas cortantes] y amenaza [cortado-2]; «entender una lengua desconocida» aporta [lengua comprendida]; «percibir rastros de magia» revela [presencia mágica localizada]; «acelerar la huida con magia» aporta [huida acelerada]; «proyectar fuego contra un objetivo» puede infligir [quemado-2]; «influir en alguien mediante palabras mágicas» puede causar [sugestionado-2] con una propuesta comprensible y adecuada; «alzar una barrera arcana» crea [barrera arcana momentánea]; «sostener una carga sobre una plataforma flotante» crea [plataforma de carga flotante]. Los efectos y su intensidad se resuelven con el Poder de la acción, no como resultados garantizados del objeto.
+- **[tallas de marfil de keegan]**, mochila o regalo de valor: caja de madera con cuatro piezas, una ballena emergiendo, un zorro sonriente, dos liebres danzantes y una morsa con la inscripción «GRAN AMOR». Pueden servir como recuerdo, obsequio o recurso de trueque significativo, sin valor monetario exacto.
+- **[habitaciones ofrecidas por owenn]**, favor de historia: recompensa de alojamiento en Los Brazos de Luskan, acordada por Keegan. No implica manutención ilimitada ni inmunidad frente a las intrigas de la posada.
+- **Ayudas para entregar a los jugadores:** Prepara una ficha con el testimonio de Keegan, otra con las últimas paradas confirmadas por Atenas y un esquema del itinerario con tiempos. Son resúmenes de testimonios, no documentos encontrados. Para el esquema del itinerario, usa solo las conexiones descritas. Mensajes Zhentarim solo se entregan si se interceptan y el Narrador redacta su contenido.
 
 ## Desenlaces y recompensas
 
-- **Garret vuelve vivo:** reencuentro con Keegan, recompensa prometida y [gratitud de los Velryn]. Cumplir la promesa de buscar a todos puede ser un hito de una Gesta de protección, lealtad o responsabilidad.
+- **Garret vuelve vivo:** reencuentro con Keegan, recompensa prometida y [gratitud de los velryn]. Cumplir la promesa de buscar a todos puede ser un hito de una Gesta de protección, lealtad o responsabilidad.
 - **Garret muere y se devuelve su cuerpo:** Keegan entrega igualmente alojamiento y tallas para agradecer un entierro digno; [duelo compartido] sustituye al reencuentro. La gratitud no borra la pérdida.
-- **No se devuelve a Garret ni su cadáver:** no se cumple la condición de recompensa indicada por la fuente. Queda una familia sin respuestas; el Narrador puede conservar [promesa pendiente] según lo que hayan hecho y comunicado los Héroes.
+- **No se devuelve a Garret ni su cadáver:** no se cumple la condición de recompensa prometida. Queda una familia sin respuestas; el Narrador puede conservar [promesa pendiente] según lo que hayan hecho y comunicado los Héroes.
 - **Perilou rescatada:** necesita abrigo y una bajada protegida; al llegar a Diez Ciudades se separa y abandona las aventuras. Conocer el destino de Astrix y Mokingo permite cerrar su búsqueda, sin reparar su trauma de inmediato.
 - **Astrix y Mokingo:** ya están muertos cuando llegan los Héroes; las acciones de esta sección permiten averiguar su final y recuperar pertenencias o restos. No conviertas sus muertes previas en fallos evitables del grupo.
 - **Rescate pacífico en la cueva:** [paso seguro entre los yetis] si se negocia de manera efectiva; posible hito de una Gesta de compasión o entendimiento. Si se agrede a la familia, la madre protege a la cría y el padre vuelve normalmente hostil.
@@ -315,19 +304,19 @@ Los niveles de los peligros ambientales son propuestas de adaptación. Cada amen
 - **Zhentarim y Arpistas:** Naerth usa al menos una docena de espías para identificar supuestos Arpistas y orientar compras hacia el pescado de Targos. Skath aporta fuerza militar; las serpientes, una vía material de investigación.
 - **Bremen, Bosque Solitario y Termalaine:** rivales de Targos; el accidente de Jestin añade una herida personal a la rivalidad con Termalaine, sin demostrar sabotaje.
 - **Bryn Shander, Caer-Dineval y Caer-Konig:** la ruta por caminos permite activar sus misiones iniciales. Expediciones Allendhelor, Anzuelo, Sedal y Plomo y La Luz del Norte confirman las últimas etapas de la expedición.
-- **Valle de los Enanos y «Jarras Espumeantes»:** el favor previo elimina el límite de uno o dos días de hospitalidad. La fuente alterna «Jarras», «Tazas» y «Jarras Espumeantes»; se normaliza aquí como «Jarras Espumeantes». Oobok es el vínculo personal con esa misión.
-- **Oyaminartok:** Mokingo vino para encontrarla y medir su valor contra ella. Su nombre abre una búsqueda futura, sin indicar aquí ubicación ni detalles adicionales.
-- **Secreto «El Yeti más Pequeño»:** permite que un Héroe tenga una oportunidad especial de entendimiento con la familia, especialmente al regreso del padre. La fuente remite al apéndice B y no reproduce el secreto completo.
+- **Valle de los Enanos y «Jarras Espumeantes»:** el favor previo elimina el límite de uno o dos días de hospitalidad. Oobok es el vínculo personal con esa misión.
+- **Oyaminartok:** Mokingo vino para encontrarla y medir su valor contra ella. Su nombre abre una búsqueda futura; decide dónde situarla si los Héroes siguen ese interés.
+- **Secreto «El Yeti más Pequeño»:** permite que un Héroe tenga una oportunidad especial de entendimiento con la familia, especialmente al regreso del padre.
 - **Poderío y tono:** las relaciones locales y la hospitalidad se juegan en Origen; la expedición y sus grandes peligros alcanzan Aventura. Nada en esta sección requiere Grandeza. Las Gestas y los hitos deben responder a las motivaciones reales de los temas de los Héroes.
-- **Material externo no incluido:** reglas generales de avalanchas y frío, sacrificios a Auril, rumores de Diez Ciudades, encuentros de tierras salvajes y perfiles completos de los apéndices. Esta ficha ofrece resoluciones LitM utilizables, pero no inventa entradas de esas tablas como si pertenecieran a la fuente.
+- **Preparación adicional:** prepara los rumores, encuentros de tierras salvajes y procedimientos de los sacrificios a Auril que vayas a utilizar. Consulta las reglas generales de avalanchas y frío y los perfiles completos de criaturas cuando necesites ampliar los peligros.
 
-## Páginas de la fuente
+## Referencias de consulta
 
-- **87:** presentación de Targos, población, gobierno, milicia, heráldica, sacrificios, rivales, caminos y Los Brazos de Luskan.
-- **88:** Tres Banderas Navegando, Triglio, inicio del rescate y encuentro con Chico; ilustración de Naerth, serpientes y Skath.
-- **89:** mapa 1.16 de Targos, Keegan, encargo y rutas hacia Caer-Konig o la montaña.
-- **90:** Valle de los Enanos, aproximación, mapa 1.17 de la Cumbre de Kelvin y campamento base.
-- **91:** cabras, avalancha, Garret, gatos de los riscos, escalada y entrada de la caverna; comienzo de F1.
-- **92:** continuación de F1, trofeos F2, guarida F3 y rescate de Perilou.
-- **93:** retorno del padre yeti, campamento en ruinas, Astrix, Barthoom y recompensa final.
-- **Referencias externas citadas:** avalanchas, p. 10; rumores, p. 18; sacrificios, p. 21; Expediciones Allendhelor y Jarthra, p. 46; encuentros de tierras salvajes, p. 105 y capítulo 2; secretos, apéndice B; criaturas, apéndice C. Las referencias internas al escalador caído y al campamento en ruinas están desplazadas en la extracción; aquí se usa la paginación de los bloques facilitados.
+- **Targos:** presentación, población, gobierno, milicia, heráldica, sacrificios, rivales, caminos y Los Brazos de Luskan.
+- **Comercios e inicio del rescate:** Tres Banderas Navegando, Triglio y encuentro con Chico; Naerth, serpientes y Skath.
+- **Encargo y rutas:** Keegan y caminos hacia Caer-Konig o la montaña.
+- **Aproximación:** Valle de los Enanos, Cumbre de Kelvin y campamento base.
+- **Ascenso:** cabras, avalancha, Garret, gatos de los riscos, escalada y entrada de la caverna.
+- **Caverna:** abismo, trofeos, guarida y rescate de Perilou.
+- **Desenlace:** retorno del padre yeti, campamento en ruinas, Astrix, Barthoom y recompensa final.
+- **Material de consulta:** peligros de avalanchas y frío, rumores, sacrificios, Expediciones Allendhelor, Jarthra, encuentros de tierras salvajes, secretos y criaturas. Las resoluciones necesarias para esta expedición se recogen en las escenas y desafíos anteriores.

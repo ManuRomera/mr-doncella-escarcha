@@ -719,7 +719,7 @@
     "Peligro"
    ],
    "aspecto_en": "A wide view of a featureless snowy tundra under heavy snowfall, with no landmarks and low visibility. Cold blue-grey light, blowing snow. No people or creatures.",
-   "descripcion": "Desafío ambiental de frío, nieve y posible ventisca durante la travesía. Conversión propuesta, sin criatura ni dificultad de criatura asignada.",
+   "descripcion": "Desafío ambiental de frío, nieve y posible ventisca durante la travesía.",
    "limites": [
     {
      "nombre": "ruta superada",
@@ -783,7 +783,7 @@
     "Peligro"
    ],
    "aspecto_en": "A full-body view of a monumental throne carved from a single ice block on a circular platform, with a deep rune on its back. Translucent ice, cold blue light, stone chamber.",
-   "descripcion": "Objeto mágico fijo de L5, sin criatura ni dificultad de criatura asignada; nivel ambiental propuesto.",
+   "descripcion": "Objeto mágico fijo de L5 que permite invocar una ventisca desde su asiento.",
    "limites": [
     {
      "nombre": "destruido",
@@ -940,7 +940,7 @@
    "secretos": [
     {
      "nombre": "Debilidades y secretos",
-     "descripcion": "No son hostiles de partida y no reciben orden de acompañar el rescate. Pruebas de ayuda a la comunidad y razones relacionadas con la supervivencia favorecen el acuerdo. No inventar un conflicto con ellos para usar esta ficha."
+     "descripcion": "No son hostiles de partida y no reciben orden de acompañar el rescate. Pruebas de ayuda a la comunidad y razones relacionadas con la supervivencia favorecen el acuerdo."
     }
    ]
   }
@@ -992,7 +992,7 @@
    "slug": "chwinga-petrificado",
    "nombre": "Chwinga convertido en piedra",
    "etiqueta": "restos pétreos de un chwinga",
-   "descripcion": "Mide unos treinta centímetros y puede transportarse si se recoge. No es un talismán mágico descrito ni una criatura petrificada que siga viva.",
+   "descripcion": "Mide unos treinta centímetros y puede transportarse si se recoge. Son restos inertes, sin poderes de talismán.",
    "imagen_en": "An isolated small spiky stone figure about thirty centimetres tall, covered in protrusions. Grey stone, neutral background."
   },
   {

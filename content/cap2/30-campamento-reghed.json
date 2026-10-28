@@ -8,14 +8,36 @@
       "ciudad": "tundra",
       "interior": false,
       "imagen_en": "Wide establishing view of an empty nomadic camp on a flat white tundra beneath a dim grey twilight sky. Over a dozen hide and bark tents form two concentric rings, larger tents near the centre. Low campfires glow between shelters, empty sledges stand outside the perimeter, and boot prints and paw tracks mark the snow. Muted ivory, charcoal and amber palette. Keep the lower third open. No people or animals.",
-      "lectura": "A lo largo de la tundra frente a vosotros se extiende un campamento con más de una docena de tiendas dispuestas en dos anillos concéntricos. Las mayores se agrupan cerca del centro. Entre ellas arden varias fogatas y el aire huele a carne cocida. Se escuchan ladridos y aullidos de perros. Fuera del perímetro se agrupan varios trineos vacíos. Seis guerreros jóvenes, enormes bajo sus gruesas pieles y armados con lanzas, patrullan mirando hacia la tundra. Otras figuras se reúnen alrededor de las hogueras o se mueven entre las tiendas.",
-      "notas": "El grupo puede presentarse abiertamente o intentar infiltrarse; la ficha propone dificultad 10 para sigilo individual o grupal. Un fallo provoca gritos de alarma y los Reghed intentan capturar a los intrusos para llevarlos ante el caudillo. El campamento cambia de lugar cada uno o dos días y no figura en los mapas.",
+      "lectura": "Ante vosotros, las tiendas de piel y corteza dibujan dos círculos sobre la blancura. Distinguís las mayores en el centro y varias fogatas entre los refugios. El viento os trae olor a carne cocida, mezclado con humo, y los ladridos atraviesan la llanura. A un lado veis trineos vacíos. Unas figuras enormes bajo sus pieles recorren el borde del campamento con lanzas en las manos; otras se apiñan junto al fuego. Bajo vuestros pies, las huellas de botas y perros rompen la costra de nieve.",
+      "notas": "El grupo puede presentarse abiertamente o intentar infiltrarse; sin prisa y fuera de la vista de los guardias no hace falta tirar. Cruzar una zona vigilada o actuar con prisa exige una acción arriesgada: con éxito pasan inadvertidos; con fallo crean [campamento en alerta]. Un fallo provoca gritos de alarma y los Reghed intentan capturar a los intrusos para llevarlos ante el caudillo. El campamento cambia de lugar cada uno o dos días y no figura en los mapas.",
       "musica": "camino",
-      "motivos": ["sigilo", "tension"],
-      "efectos": ["viento", "perros", "pasos", "hogar"],
+      "motivos": [
+        "sigilo",
+        "tension"
+      ],
+      "efectos": [
+        "viento",
+        "perros",
+        "pasos",
+        "hogar"
+      ],
       "ambiente": "dim",
-      "etiquetas": ["campamento reghed", "dos anillos de tiendas", "fogatas", "olor a carne", "trineos vacíos", "guardias con lanza", "tundra", "crepúsculo", "helado-1"],
-      "figuras": ["guerreros-reghed", "perros-de-trineo", "frio-de-la-tundra"]
+      "etiquetas": [
+        "campamento reghed",
+        "dos anillos de tiendas",
+        "fogatas",
+        "olor a carne",
+        "trineos vacíos",
+        "guardias con lanza",
+        "tundra",
+        "crepúsculo",
+        "helado-1"
+      ],
+      "figuras": [
+        "guerreros-reghed",
+        "perros-de-trineo",
+        "frio-de-la-tundra"
+      ]
     },
     {
       "slug": "campamento-en-alerta",
@@ -23,14 +45,36 @@
       "ciudad": "tundra",
       "interior": false,
       "imagen_en": "Wide view across an empty hide tent encampment during an alarm, with open tent flaps, blazing campfires and abandoned shields beside churned snow. A large central tent dominates the background. Torchlight casts long angular shadows across the two rings of shelters. Cold grey twilight contrasts with fierce orange flames and dark brown leather. Leave clear snow in the lower third. No people or animals.",
-      "lectura": "El grito de los guardias rompe el silencio del campamento. En segundos, las fogatas se avivan, los perros ladran sin parar y las figuras cubiertas de pieles surgen de las tiendas con lanzas y escudos. El caudillo aparece en la entrada de la tienda central, alto y rígido, mientras las pisadas revuelven la nieve por todas partes. Nadie os mira como a enemigos a batir: os miran como a presas que hay que atrapar vivas.",
+      "lectura": "Un grito os detiene. A vuestro alrededor se abren las tiendas y brotan figuras envueltas en pieles, con escudos y lanzas. Los perros ladran hasta ahogar las voces; las pisadas remueven la nieve bajo el resplandor de las hogueras. Veis al caudillo erguirse en la entrada de la tienda central. Las puntas de las lanzas siguen vuestros movimientos y sus portadores buscan rodearos. El viento os enfría el rostro mientras el cerco se estrecha.",
       "notas": "Los Héroes pueden rendirse, huir o luchar; los capturados son desarmados e interrogados ante el caudillo. Cooperar, aportar información o demostrar valor puede convertirlos en invitados, mientras que dañar a niños o ancianos acarrea ejecución o exilio. La mitad del campamento duerme en un momento dado, por lo que los despiertos responden primero.",
       "musica": "noche",
-      "motivos": ["persecucion", "amenaza", "batalla"],
-      "efectos": ["multitud", "perros", "pasos", "viento"],
+      "motivos": [
+        "persecucion",
+        "amenaza",
+        "batalla"
+      ],
+      "efectos": [
+        "multitud",
+        "perros",
+        "pasos",
+        "viento"
+      ],
       "ambiente": "dim",
-      "etiquetas": ["alerta", "campamento en armas", "perros ladrando", "antorcha", "prisioneros", "desarme", "frío"],
-      "figuras": ["caudillo-del-clan", "gran-guerrero", "guerreros-reghed", "perros-de-trineo"]
+      "etiquetas": [
+        "alerta",
+        "campamento en armas",
+        "perros ladrando",
+        "antorcha",
+        "prisioneros",
+        "desarme",
+        "frío"
+      ],
+      "figuras": [
+        "caudillo-del-clan",
+        "gran-guerrero",
+        "guerreros-reghed",
+        "perros-de-trineo"
+      ]
     },
     {
       "slug": "circulos-del-campamento",
@@ -38,14 +82,35 @@
       "ciudad": "tundra",
       "interior": false,
       "imagen_en": "Wide ground level view inside an empty Reghed camp, showing two concentric rows of sturdy timber framed tents layered with bark and animal hides. Larger shelters stand within the inner ring. Low fires illuminate hanging pelts, drying game, sledges and bundled fur bedding. Smoke drifts across compacted snow beneath a cold dim sky. Warm ochre and weathered brown against blue white snow. Keep the lower third clear. No people or animals.",
-      "lectura": "Dentro del campamento, el orden se vuelve claro. Un anillo interior de tiendas grandes rodea el corazón del clan, mientras un segundo anillo, más humilde, cierra el círculo por fuera. Entre ambas filas arden fogatas bajas, y a su alrededor se agrupan pieles, armas, trineos y perros. El suelo está pisoteado y oscuro; el humo se arremolina contra las paredes de corteza y piel. Cada tienda parece una bestia dormida, robusta y preparada para resistir el viento.",
+      "lectura": "Al avanzar entre las tiendas, distinguís dos círculos de refugios: los mayores ocupan el interior y los más pequeños cierran el campamento. Os llega el calor de fogatas bajas entre montones de pieles y armas apoyadas. Los perros descansan junto a los trineos y la carne cuelga para secarse. Pisáis nieve oscura y compactada. El humo os escuece en los ojos al arremolinarse contra las paredes de corteza; por encima oís crujir los armazones de madera bajo las ráfagas.",
       "notas": "El círculo interior aloja al caudillo, al chamán, al cazador más honorable, al mayor guerrero y a los hijos de la tribu; el exterior alberga a artesanos, armeros, conductores y perros. Algunos cazadores y guerreros duermen al raso junto al fuego y la mitad de los ocupantes descansa en todo momento. Hay de dos a cuatro partidas de caza ausentes, de 1d6 + 4 guerreros cada una, que regresan tras 2d4 horas.",
       "musica": "pueblo",
       "motivos": [],
-      "efectos": ["viento", "hogar", "perros", "pasos"],
+      "efectos": [
+        "viento",
+        "hogar",
+        "perros",
+        "pasos"
+      ],
       "ambiente": "dim",
-      "etiquetas": ["círculo del jefe", "círculo de los guerreros", "tiendas de pieles", "fogatas", "perros", "caza colgada", "humo", "frío"],
-      "figuras": ["caudillo-del-clan", "gran-guerrero", "chaman-reghed", "guerreros-reghed", "no-combatientes", "perros-de-trineo"]
+      "etiquetas": [
+        "círculo del jefe",
+        "círculo de los guerreros",
+        "tiendas de pieles",
+        "fogatas",
+        "perros",
+        "caza colgada",
+        "humo",
+        "frío"
+      ],
+      "figuras": [
+        "caudillo-del-clan",
+        "gran-guerrero",
+        "chaman-reghed",
+        "guerreros-reghed",
+        "no-combatientes",
+        "perros-de-trineo"
+      ]
     },
     {
       "slug": "tienda-del-caudillo",
@@ -53,14 +118,31 @@
       "ciudad": "tundra",
       "interior": true,
       "imagen_en": "Wide interior of an empty large nomadic chieftain tent, low timber framework supporting heavy layers of hide and bark. A spare fur bedroll lies near the entrance. Whale oil lamps light a low table bearing antlers, tusks and claws; hunting pelts cover the walls and floor, with spears and shields leaning nearby. Amber light, brown leather and deep shadows. Leave the lower third uncluttered. No people.",
-      "lectura": "La tienda del caudillo es baja y pesada, pero cálida. Cerca de la entrada, un saco de cama delata al guardia personal. En el centro, las lámparas de aceite de ballena iluminan una mesa baja cubierta de trofeos de caza: cuernos, colmillos, garras y pieles. Las paredes desprenden olor a grasa y cuero curtido. Las armas descansan al alcance de la mano, entre las sombras. Aquí se decide quién come, quién marcha y quién muere.",
-      "notas": "El caudillo recibe audiencias, celebra consejos e interroga a los prisioneros en esta tienda. El respeto, la paciencia o una demostración de fuerza pueden proporcionar refugio, comida, guía o trineo. Humillarlo o amenazar a su familia lo convierte en enemigo; si es rey o reina, usa la conversión del apéndice C.",
+      "lectura": "Al entrar, sentís cómo el calor os devuelve la sensibilidad a la cara. Las lámparas de aceite de ballena iluminan una mesa baja; sus llamas arrancan destellos de cuernos, colmillos y garras. Veis pieles sobre el suelo y las paredes, y armas apoyadas cerca de las manos de sus dueños. Junto a la entrada distinguís otro saco de cama. El olor a grasa y cuero curtido llena el espacio; tras vosotros, el viento sacude la cubierta de la tienda.",
+      "notas": "El caudillo recibe audiencias, celebra consejos e interroga a los prisioneros en esta tienda. El respeto, la paciencia o una demostración de fuerza pueden proporcionar refugio, comida, guía o trineo. Humillarlo o amenazar a su familia lo convierte en enemigo; si es rey o reina, aplica Poderío de Grandeza.",
       "musica": "pueblo",
-      "motivos": ["tension", "duelo"],
-      "efectos": ["hogar", "viento"],
+      "motivos": [
+        "tension",
+        "duelo"
+      ],
+      "efectos": [
+        "hogar",
+        "viento"
+      ],
       "ambiente": "dim",
-      "etiquetas": ["tienda del caudillo", "mesa baja", "lámparas de aceite de ballena", "trofeos de caza", "guardia personal", "calor", "autoridad"],
-      "figuras": ["caudillo-del-clan", "gran-guerrero"]
+      "etiquetas": [
+        "tienda del caudillo",
+        "mesa baja",
+        "lámparas de aceite de ballena",
+        "trofeos de caza",
+        "guardia personal",
+        "calor",
+        "autoridad"
+      ],
+      "figuras": [
+        "caudillo-del-clan",
+        "gran-guerrero"
+      ]
     },
     {
       "slug": "tienda-del-chaman",
@@ -68,14 +150,29 @@
       "ciudad": "tundra",
       "interior": true,
       "imagen_en": "Wide interior of an empty shaman tent built from timber, bark and layered hides. Bundles of dried medicinal herbs hang overhead, and carved wooden animal masks rest against the walls. Smooth wooden potion bottles sealed with animal fat stoppers sit beside a rolled parchment. Thin smoke softens dim greenish light, earthy browns and muted moss tones. Leave open floor space in the lower third. No people.",
-      "lectura": "La tienda del chamán huele a hierbas secas y a humo. Máscaras de madera talladas —oso, alce, tigre, lobo— cuelgan de las paredes como rostros dormidos. De las vigas penden manojos de plantas medicinales y, en un rincón, frascos de madera sellados con corchos de grasa guardan pociones. Un pergamino descansa junto a los remedios. El chamán, con su máscara puesta, os observa sin moverse, mientras los amuletos apenas suenan entre las ráfagas del exterior.",
-      "notas": "El chamán aconseja al caudillo y dirige los asuntos espirituales; su máscara pública corresponde al animal de su tribu. Guarda 1d4 pociones de curación y un pergamino de restauración menor, sustituible por otro conjuro de druida de primer o segundo nivel. Acepta ofrendas, servicios y favores por remedios o consejo; robar provoca enemistad y puede desencadenar maldición o persecución.",
+      "lectura": "Os recibe una mezcla de humo y hierbas secas. Sobre vuestras cabezas cuelgan manojos de plantas; en las paredes distinguís máscaras de oso, alce, tigre y lobo. Los frascos de madera se agrupan en un rincón, cerrados con tapones sellados con grasa animal. Veis un pergamino junto a los remedios. El chamán os observa a través de su máscara, inmóvil entre las pieles. Oís el leve golpeteo de sus amuletos cuando el viento sacude la tienda.",
+      "notas": "El chamán aconseja al caudillo y dirige los asuntos espirituales; su máscara pública corresponde al animal de su tribu. Guarda 1d4 remedios sanadores y un pergamino ritual para aliviar enfermedades y otros males. Acepta ofrendas, servicios y favores por remedios o consejo; robar provoca enemistad y puede desencadenar maldición o persecución.",
       "musica": "culto",
-      "motivos": ["misterio"],
-      "efectos": ["viento", "hogar"],
+      "motivos": [
+        "misterio"
+      ],
+      "efectos": [
+        "viento",
+        "hogar"
+      ],
       "ambiente": "dim",
-      "etiquetas": ["tienda del chamán", "hierbas medicinales", "máscaras rituales", "frascos de madera", "pergamino", "humo", "espíritu"],
-      "figuras": ["chaman-reghed"]
+      "etiquetas": [
+        "tienda del chamán",
+        "hierbas medicinales",
+        "máscaras rituales",
+        "frascos de madera",
+        "pergamino",
+        "humo",
+        "espíritu"
+      ],
+      "figuras": [
+        "chaman-reghed"
+      ]
     },
     {
       "slug": "vida-en-el-campamento",
@@ -83,14 +180,36 @@
       "ciudad": "tundra",
       "interior": false,
       "imagen_en": "Wide view of an empty communal cooking area among hide tents on packed snow. Low campfires illuminate sharpening stones, spears, fur blankets and hanging game. Fish and seal meat lie on preparation boards, while reindeer meat cooks over a fire. Bones, sinews and worked hides show careful use of every resource. Smoke and dim twilight mingle in an amber, grey and brown palette. Keep the lower third open. No people or animals.",
-      "lectura": "El campamento es sombrío y tenue, salvo por los ladridos de los perros y el ruido de los niños jugando en la nieve. Los guerreros y cazadores conservan sus fuerzas, afilan armas o cuentan historias junto al fuego. La comida es fundamental: truchas de cabeza de nudillo y focas se preparan cerca del lugar de la matanza, fileteadas o picadas, y a menudo se comen crudas; la carne de reno debe cocinarse. De los renos se aprovechan tendones, huesos y pieles para armas y armaduras. Aquí no se desperdicia nada.",
+      "lectura": "Camináis entre fogatas y tiendas mientras los niños juegan en la nieve y los perros responden con ladridos. A vuestro lado, un cazador afila su arma; más allá, unas voces desgranan un relato junto al fuego. Os llega el olor del reno que se cocina. Veis pescado y carne de foca preparados junto al lugar de la matanza, y montones de huesos, tendones y pieles aprovechables. El humo se os prende a la ropa y el frío vuelve en cuanto os alejáis de las brasas.",
       "notas": "El invierno de Auril dificulta la caza y los viajes, pero el clan raciona sus recursos, sigue a los rebaños y evita depender de las Diez Ciudades. Escuchar o compartir sus historias, o demostrar fuerza, generosidad y lealtad, puede otorgar favor y una etiqueta de historia. Las tribus del Oso, Alce, Tigre y Lobo evitan el contacto entre sí, por lo que cualquier diplomacia entre ellas es excepcional.",
       "musica": "pueblo",
-      "motivos": ["esperanza"],
-      "efectos": ["multitud", "perros", "hogar", "viento"],
+      "motivos": [
+        "esperanza"
+      ],
+      "efectos": [
+        "multitud",
+        "perros",
+        "hogar",
+        "viento"
+      ],
       "ambiente": "dim",
-      "etiquetas": ["vida nómada", "historias reghed", "comida", "fogatas", "niños", "perros", "afilado de armas", "frío", "helado-1"],
-      "figuras": ["guerreros-reghed", "no-combatientes", "perros-de-trineo", "frio-de-la-tundra"]
+      "etiquetas": [
+        "vida nómada",
+        "historias reghed",
+        "comida",
+        "fogatas",
+        "niños",
+        "perros",
+        "afilado de armas",
+        "frío",
+        "helado-1"
+      ],
+      "figuras": [
+        "guerreros-reghed",
+        "no-combatientes",
+        "perros-de-trineo",
+        "frio-de-la-tundra"
+      ]
     },
     {
       "slug": "partidas-de-caza",
@@ -98,14 +217,33 @@
       "ciudad": "tundra",
       "interior": false,
       "imagen_en": "Wide view of a hunting camp perimeter on a frozen plain, with sled tracks and boot prints fading into windblown snow. A wooden sledge bearing a freshly killed reindeer rests near the outer hide tents, leather harnesses lying beside it. Small bloodstains mark the snow beneath a grey twilight sky. Muted blue, bone white, brown and dark crimson palette. Leave the lower third clear. No people or living animals.",
-      "lectura": "Dos, tres o cuatro partidas de caza han partido ya por la tundra. Sus huellas se pierden entre la nieve y el viento borra poco a poco los surcos de los trineos. Cuando regresan, tras unas horas, lo hacen con trineos cargados y un cadáver de reno aún caliente. Los perros jadean, los cazadores están manchados de sangre y el campamento se llena de olor a carne fresca. Los ladridos anuncian su llegada entre los murmullos de quienes salen a recibirlos.",
-      "notas": "Cada partida reúne 1d6 + 4 guerreros y regresa tras 2d4 horas con carne fresca. Ayudar a rastrear, cazar o defender al grupo obtiene favor, carne, información de rutas y quizá un guía. Atacarlos constituye un acto de guerra; usa la banda de guerreros de nivel 1 si hay enfrentamiento.",
+      "lectura": "Desde el borde del campamento veis huellas que se alejan hasta perderse bajo la nieve arrastrada por el viento. Unos ladridos os hacen volver la cabeza: una partida de cazadores se acerca con los trineos cargados. Distinguís el cuerpo de un reno sobre la madera y manchas oscuras en las pieles de quienes lo arrastran. Los perros jadean, levantando pequeñas nubes de vaho. Os llega olor a carne fresca mientras las voces de bienvenida se mezclan con el crujido de los patines.",
+      "notas": "Cada partida reúne 1d6 + 4 guerreros y regresa tras 2d4 horas con carne fresca. Ayudar a rastrear, cazar o defender al grupo obtiene favor, carne, información de rutas y quizá un guía. Atacarlos constituye un acto de guerra; usa el desafío Banda de guerreros Reghed si hay enfrentamiento.",
       "musica": "camino",
-      "motivos": ["bestia", "esperanza"],
-      "efectos": ["perros", "pasos", "viento"],
+      "motivos": [
+        "bestia",
+        "esperanza"
+      ],
+      "efectos": [
+        "perros",
+        "pasos",
+        "viento"
+      ],
       "ambiente": "dim",
-      "etiquetas": ["partida de caza", "reno", "carne fresca", "guerreros", "regreso", "sangre", "frío"],
-      "figuras": ["guerreros-reghed", "perros-de-trineo", "frio-de-la-tundra"]
+      "etiquetas": [
+        "partida de caza",
+        "reno",
+        "carne fresca",
+        "guerreros",
+        "regreso",
+        "sangre",
+        "frío"
+      ],
+      "figuras": [
+        "guerreros-reghed",
+        "perros-de-trineo",
+        "frio-de-la-tundra"
+      ]
     }
   ],
   "pnj": [
@@ -118,7 +256,7 @@
       "presentacion": "Ante vosotros se alza una figura poderosa, envuelta en pieles de reno y lobo. Los huesos y colmillos de sus trenzas chocan suavemente cuando vuelve la cabeza. Sus cicatrices cuentan inviernos y cacerías; la lanza y el escudo permanecen cerca. Os observa de arriba abajo, como si calculara cuánto alimento consumiríais y qué podríais aportar al clan. Cuando habla, su voz grave deja poco espacio para adornos.",
       "caracter": "Seco y directo, de voz grave; juzga por la fuerza, la utilidad y la lealtad.",
       "quiere": "Mantener vivo al clan, asegurar comida y territorio de caza y ganar respeto; si es monarca, dominar su tribu.",
-      "sabe": "Rutas de rebaños, costumbres del clan, noticias de otras tribus, rumores de las Diez Ciudades y pruebas de Auril del capítulo 5. Habla común y tiene supervivencia +5 en la referencia original.",
+      "sabe": "Rutas de rebaños, costumbres del clan, noticias de otras tribus, rumores de las Diez Ciudades y pruebas de Auril. Habla común y conoce bien la supervivencia en la tundra.",
       "desafio": "caudillo-reghed"
     },
     {
@@ -130,7 +268,7 @@
       "presentacion": "Junto al caudillo distinguís una figura fornida, cubierta de cuero y pieles. Los trofeos que lleva en cuello y muñecas apenas se mueven: permanece quieta, con una mano cerca del arma pesada. Su mirada sigue vuestros gestos antes que vuestras palabras. Las cicatrices asoman entre las prendas de abrigo. Cuando os acercáis demasiado, basta un paso suyo para recordaros quién protege la tienda y ejecuta las órdenes de su dueño.",
       "caracter": "Leal, silencioso y amenazante; habla para ordenar o intimidar.",
       "quiere": "Proteger al caudillo, cumplir sus órdenes y ganar honor en combate.",
-      "sabe": "Disposición del campamento, puntos débiles de los guardias, historias de caza y rivalidades del clan. Habla común y tiene supervivencia +5 en la referencia original.",
+      "sabe": "Disposición del campamento, puntos débiles de los guardias, historias de caza y rivalidades del clan. Habla común y conoce bien la supervivencia en la tundra.",
       "desafio": "gran-guerrero-reghed"
     },
     {
@@ -142,7 +280,7 @@
       "presentacion": "Entre el humo y el olor a hierbas distinguís unos ojos intensos tras una máscara de madera. El animal tallado parece observaros antes de que su portador se mueva. Amuletos de hueso y dientes rozan las pieles; del cinturón cuelgan manojos secos. Os llegan palabras bajas y medidas, separadas por silencios largos. Habla de animales y tormentas como si siguieran presentes dentro de la tienda.",
       "caracter": "Ritual, lento y enigmático; voz baja y metáforas de animales y tormentas. Adapta el animal de su máscara a la tribu: oso, alce, tigre o lobo.",
       "quiere": "Interpretar a los espíritus de la tundra, mantener la cohesión espiritual y reunir remedios y conocimiento.",
-      "sabe": "Conjuros de druida, remedios herbales, rituales de Auril y los espíritus, historias antiguas y a veces rutas seguras. Habla común y druídico; supervivencia +4 en la referencia original.",
+      "sabe": "Rituales de la naturaleza, remedios herbales, rituales de Auril y los espíritus, historias antiguas y a veces rutas seguras. Habla común y druídico; conoce bien la supervivencia en la tundra.",
       "desafio": "chaman-reghed-desafio"
     },
     {
@@ -188,135 +326,541 @@
       "nombre": "Banda de guerreros Reghed",
       "nivel": 1,
       "poderio": [],
-      "roles": ["Adversario", "Merodeador"],
-      "aspecto_en": "Full body group portrait of human Reghed warriors, young and adult hunters with athletic builds beneath heavy reindeer and wolf pelts. Spears, javelins and bone shields form a rough defensive line. Ash and grease paint mark weathered faces, with hunting scars visible above fur collars. Their stances favour surrounding and restraining an intruder, expressions stern and competitive.",
-      "descripcion": "Banda de cazadores y guerreros tribales que intenta capturar antes que matar. La ficha cuenta 36 cazadores y guerreros, la mitad durmiendo, además de seis guardias y partidas de caza de 1d6 + 4 integrantes.",
-      "limites": [{"nombre": "herido", "valor": 4, "consecuencia": "La banda queda fuera de combate."}, {"nombre": "rendido", "valor": 3, "consecuencia": "La banda deja de combatir y se rinde."}],
-      "etiquetas": ["guerrero reghed", "lanza y escudo", "pieles", "cazador", "duro", "campamento"],
-      "rasgos": [{"nombre": "Respuesta escalonada", "descripcion": "La mitad de los guerreros duerme en un momento dado; la alarma llama al resto."}],
-      "amenazas": [
-        {"nombre": "Lanzar jabalinas", "descripcion": "Arrojan sus armas contra el objetivo.", "consecuencias": ["Inflige [herido-2] o [empalado-1]."]},
-        {"nombre": "Carga con lanzas", "descripcion": "Avanzan juntos para derribar y herir.", "consecuencias": ["Inflige [derribado-1] y [herido-2]."]},
-        {"nombre": "Capturar a un intruso", "descripcion": "Reducen al intruso para llevarlo ante el caudillo.", "consecuencias": ["Crea [atado], [desarmado] y [prisionero]."]},
-        {"nombre": "Dar la alarma", "descripcion": "Gritan y movilizan al resto de la banda.", "consecuencias": ["Crea la etiqueta de historia [campamento en alerta]."]}
+      "roles": [
+        "Adversario",
+        "Merodeador"
       ],
-      "secretos": [{"nombre": "Captura y respeto", "descripcion": "Capturan antes que matan y respetan la fuerza y la generosidad."}, {"nombre": "Caída del caudillo", "descripcion": "Se desmoralizan si el caudillo cae."}]
+      "aspecto_en": "Full body group portrait of human Reghed warriors, young and adult hunters with athletic builds beneath heavy reindeer and wolf pelts. Spears, javelins and bone shields form a rough defensive line. Ash and grease paint mark weathered faces, with hunting scars visible above fur collars. Their stances favour surrounding and restraining an intruder, expressions stern and competitive.",
+      "descripcion": "Banda de cazadores y guerreros tribales que intenta capturar antes que matar. El campamento cuenta con 36 cazadores y guerreros, la mitad durmiendo, además de seis guardias y partidas de caza de 1d6 + 4 integrantes.",
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 4,
+          "consecuencia": "La banda queda fuera de combate."
+        },
+        {
+          "nombre": "rendido",
+          "valor": 3,
+          "consecuencia": "La banda deja de combatir y se rinde."
+        }
+      ],
+      "etiquetas": [
+        "guerrero reghed",
+        "lanza y escudo",
+        "pieles",
+        "cazador",
+        "duro",
+        "campamento"
+      ],
+      "rasgos": [
+        {
+          "nombre": "Respuesta escalonada",
+          "descripcion": "La mitad de los guerreros duerme en un momento dado; la alarma llama al resto."
+        }
+      ],
+      "amenazas": [
+        {
+          "nombre": "Lanzar jabalinas",
+          "descripcion": "Arrojan sus armas contra el objetivo.",
+          "consecuencias": [
+            "Inflige [herido-2] o [empalado-1]."
+          ]
+        },
+        {
+          "nombre": "Carga con lanzas",
+          "descripcion": "Avanzan juntos para derribar y herir.",
+          "consecuencias": [
+            "Inflige [derribado-1] y [herido-2]."
+          ]
+        },
+        {
+          "nombre": "Capturar a un intruso",
+          "descripcion": "Reducen al intruso para llevarlo ante el caudillo.",
+          "consecuencias": [
+            "Crea [atado], [desarmado] y [prisionero]."
+          ]
+        },
+        {
+          "nombre": "Dar la alarma",
+          "descripcion": "Gritan y movilizan al resto de la banda.",
+          "consecuencias": [
+            "Crea la etiqueta de historia [campamento en alerta]."
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Captura y respeto",
+          "descripcion": "Capturan antes que matan y respetan la fuerza y la generosidad."
+        },
+        {
+          "nombre": "Caída del caudillo",
+          "descripcion": "Se desmoralizan si el caudillo cae."
+        }
+      ]
     },
     {
       "slug": "manada-perros-trineo",
       "nombre": "Manada de perros de trineo",
       "nivel": 1,
       "poderio": [],
-      "roles": ["Adversario", "Merodeador"],
-      "aspecto_en": "Full body group portrait of large sled dogs with thick grey and white coats, pale eyes and broad snow covered paws. Worn leather and bone harnesses cross their powerful shoulders. They cluster tightly around loose traces, some baring teeth and others lifting their muzzles to howl. Cold breath hangs in the air, conveying vigilance, loyalty and working strength.",
-      "descripcion": "Hay 36 perros de trineo en el campamento, representados como una manada. Utilizan como referencia las estadísticas del lobo y obedecen a sus conductores.",
-      "limites": [{"nombre": "herido", "valor": 5, "consecuencia": "La manada queda fuera de combate."}, {"nombre": "dispersa", "valor": 3, "consecuencia": "Los perros se separan y dejan de actuar como manada."}],
-      "etiquetas": ["perro de trineo", "manada", "olfato", "colmillos", "leal al trineo"],
-      "rasgos": [{"nombre": "Olfato", "descripcion": "Reconocen rastros de presas y el olor de extraños."}],
-      "amenazas": [
-        {"nombre": "Morder", "descripcion": "La manada acosa a un objetivo con sus colmillos.", "consecuencias": ["Inflige [herido-2]."]},
-        {"nombre": "Derribar", "descripcion": "Los perros se abalanzan sobre el intruso.", "consecuencias": ["Inflige [caído-1]."]},
-        {"nombre": "Aullar la alarma", "descripcion": "Sus aullidos alertan a los ocupantes.", "consecuencias": ["Crea [campamento en alerta]."]},
-        {"nombre": "Arrastrar un trineo", "descripcion": "El tiro arrastra a quien queda enganchado.", "consecuencias": ["Inflige [arrastrado-2]."]}
+      "roles": [
+        "Adversario",
+        "Merodeador"
       ],
-      "secretos": [{"nombre": "Conductores y fuego", "descripcion": "Obedecen al conductor del trineo y temen el fuego."}, {"nombre": "Trineo volcado", "descripcion": "Se dispersan si el trineo vuelca."}]
+      "aspecto_en": "Full body group portrait of large sled dogs with thick grey and white coats, pale eyes and broad snow covered paws. Worn leather and bone harnesses cross their powerful shoulders. They cluster tightly around loose traces, some baring teeth and others lifting their muzzles to howl. Cold breath hangs in the air, conveying vigilance, loyalty and working strength.",
+      "descripcion": "Hay 36 perros de trineo en el campamento, representados como una manada. Obedecen a sus conductores y actúan en manada.",
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 5,
+          "consecuencia": "La manada queda fuera de combate."
+        },
+        {
+          "nombre": "dispersa",
+          "valor": 3,
+          "consecuencia": "Los perros se separan y dejan de actuar como manada."
+        }
+      ],
+      "etiquetas": [
+        "perro de trineo",
+        "manada",
+        "olfato",
+        "colmillos",
+        "leal al trineo"
+      ],
+      "rasgos": [
+        {
+          "nombre": "Olfato",
+          "descripcion": "Reconocen rastros de presas y el olor de extraños."
+        }
+      ],
+      "amenazas": [
+        {
+          "nombre": "Morder",
+          "descripcion": "La manada acosa a un objetivo con sus colmillos.",
+          "consecuencias": [
+            "Inflige [herido-2]."
+          ]
+        },
+        {
+          "nombre": "Derribar",
+          "descripcion": "Los perros se abalanzan sobre el intruso.",
+          "consecuencias": [
+            "Inflige [caído-1]."
+          ]
+        },
+        {
+          "nombre": "Aullar la alarma",
+          "descripcion": "Sus aullidos alertan a los ocupantes.",
+          "consecuencias": [
+            "Crea [campamento en alerta]."
+          ]
+        },
+        {
+          "nombre": "Arrastrar un trineo",
+          "descripcion": "El tiro arrastra a quien queda enganchado.",
+          "consecuencias": [
+            "Inflige [arrastrado-2]."
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Conductores y fuego",
+          "descripcion": "Obedecen al conductor del trineo y temen el fuego."
+        },
+        {
+          "nombre": "Trineo volcado",
+          "descripcion": "Se dispersan si el trineo vuelca."
+        }
+      ]
     },
     {
       "slug": "caudillo-reghed",
       "nombre": "Caudillo Reghed",
       "nivel": 3,
       "poderio": [],
-      "roles": ["Adversario", "Bruto", "Apoyo"],
-      "aspecto_en": "Full body portrait of a tall, powerful human Reghed chieftain in leather armour beneath heavy reindeer and wolf pelts. A trophy decorated helmet frames a frost scarred face and bone bound braids. Spear and shield are held with a veteran gladiator's assurance. The stance conveys command and survival experience, with a stern expression weighing an opponent's strength.",
-      "descripcion": "Jefe de clan con capacidad de gladiador y autoridad sobre el campamento. Si ocupa su lugar el rey o la reina, debe convertirse con el apéndice C a nivel 4–5 y Poderío de Grandeza; esta ficha representa al caudillo ordinario.",
-      "limites": [{"nombre": "herido", "valor": 5, "consecuencia": "El caudillo cae fuera de combate."}, {"nombre": "convencido", "valor": 3, "consecuencia": "Acepta los argumentos o la propuesta de los Héroes."}],
-      "etiquetas": ["caudillo reghed", "gladiador", "lanza y escudo", "cazador", "superviviente", "autoridad"],
-      "rasgos": [{"nombre": "Autoridad del clan", "descripcion": "Decide castigo o misericordia para los prisioneros y dirige a la banda."}],
-      "amenazas": [
-        {"nombre": "Golpe de lanza", "descripcion": "Ataca con la precisión de un veterano.", "consecuencias": ["Inflige [herido-3]."]},
-        {"nombre": "Carga", "descripcion": "Embiste con lanza y escudo.", "consecuencias": ["Inflige [derribado-2] y [herido-2]."]},
-        {"nombre": "Ordenar a la banda", "descripcion": "Convoca a sus guerreros.", "consecuencias": ["Crea [campamento en armas]."]},
-        {"nombre": "Exigir rendición", "descripcion": "Impone su autoridad al adversario.", "consecuencias": ["Inflige [humillado-1]."]},
-        {"nombre": "Ejecutar a un prisionero", "descripcion": "Hace cumplir una sentencia ante los presentes.", "consecuencias": ["Inflige [terror-2]."]}
+      "roles": [
+        "Adversario",
+        "Bruto",
+        "Apoyo"
       ],
-      "secretos": [{"nombre": "Respeto y captura", "descripcion": "Respeta la fuerza y la generosidad, y prefiere capturar a los intrusos."}, {"nombre": "Combate singular", "descripcion": "Vencerlo en combate singular puede ganar el respeto del clan; matarlo dispersa el campamento, crea [marca de la tribu] y provoca venganza y hostilidad futura."}]
+      "aspecto_en": "Full body portrait of a tall, powerful human Reghed chieftain in leather armour beneath heavy reindeer and wolf pelts. A trophy decorated helmet frames a frost scarred face and bone bound braids. Spear and shield are held with a veteran gladiator's assurance. The stance conveys command and survival experience, with a stern expression weighing an opponent's strength.",
+      "descripcion": "Jefe de clan, combatiente experimentado con autoridad sobre el campamento. Si el rey o la reina ocupa el lugar del caudillo ordinario, aplica Poderío de Grandeza.",
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 5,
+          "consecuencia": "El caudillo cae fuera de combate."
+        },
+        {
+          "nombre": "convencido",
+          "valor": 3,
+          "consecuencia": "Acepta los argumentos o la propuesta de los Héroes."
+        }
+      ],
+      "etiquetas": [
+        "caudillo reghed",
+        "gladiador",
+        "lanza y escudo",
+        "cazador",
+        "superviviente",
+        "autoridad"
+      ],
+      "rasgos": [
+        {
+          "nombre": "Autoridad del clan",
+          "descripcion": "Decide castigo o misericordia para los prisioneros y dirige a la banda."
+        }
+      ],
+      "amenazas": [
+        {
+          "nombre": "Golpe de lanza",
+          "descripcion": "Ataca con la precisión de un veterano.",
+          "consecuencias": [
+            "Inflige [herido-3]."
+          ]
+        },
+        {
+          "nombre": "Carga",
+          "descripcion": "Embiste con lanza y escudo.",
+          "consecuencias": [
+            "Inflige [derribado-2] y [herido-2]."
+          ]
+        },
+        {
+          "nombre": "Ordenar a la banda",
+          "descripcion": "Convoca a sus guerreros.",
+          "consecuencias": [
+            "Crea [campamento en armas]."
+          ]
+        },
+        {
+          "nombre": "Exigir rendición",
+          "descripcion": "Impone su autoridad al adversario.",
+          "consecuencias": [
+            "Inflige [humillado-1]."
+          ]
+        },
+        {
+          "nombre": "Ejecutar a un prisionero",
+          "descripcion": "Hace cumplir una sentencia ante los presentes.",
+          "consecuencias": [
+            "Inflige [terror-2]."
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Respeto y captura",
+          "descripcion": "Respeta la fuerza y la generosidad, y prefiere capturar a los intrusos."
+        },
+        {
+          "nombre": "Combate singular",
+          "descripcion": "Vencerlo en combate singular puede ganar el respeto del clan; matarlo dispersa el campamento, crea [marca de la tribu] y provoca venganza y hostilidad futura."
+        }
+      ]
     },
     {
       "slug": "gran-guerrero-reghed",
       "nombre": "Gran Guerrero Reghed",
       "nivel": 3,
       "poderio": [],
-      "roles": ["Adversario", "Bruto", "Apoyo"],
+      "roles": [
+        "Adversario",
+        "Bruto",
+        "Apoyo"
+      ],
       "aspecto_en": "Full body portrait of a heavily built human Reghed champion, scarred and wrapped in thick winter pelts over leather armour. Hunting trophies hang from the neck and wrists. A heavy weapon is gripped with practised ease, while the other arm guards the space beside the body. A fixed stare and rigid protective stance communicate fierce loyalty and readiness to execute orders.",
       "descripcion": "Gladiador con armadura de cuero que sirve de guardaespaldas y verdugo del caudillo. Suele ser su cónyuge, hermano, vástago o amigo de infancia.",
-      "limites": [{"nombre": "herido", "valor": 5, "consecuencia": "Queda fuera de combate y deja de proteger al caudillo."}, {"nombre": "convencido", "valor": 2, "consecuencia": "Acepta ceder cuando las circunstancias permiten negociar."}],
-      "etiquetas": ["gran guerrero", "guardaespaldas", "verdugo", "leal", "fuerza"],
-      "rasgos": [{"nombre": "Lealtad absoluta", "descripcion": "No negocia mientras el caudillo viva."}],
-      "amenazas": [
-        {"nombre": "Ejecutar", "descripcion": "Descarga un golpe devastador.", "consecuencias": ["Inflige [herido-4]."]},
-        {"nombre": "Interceptar", "descripcion": "Se interpone ante un ataque contra su señor.", "consecuencias": ["Crea [caudillo protegido]."]},
-        {"nombre": "Carga", "descripcion": "Arrolla a su adversario.", "consecuencias": ["Inflige [derribado-2]."]},
-        {"nombre": "Intimidar", "descripcion": "Amenaza con cumplir la sentencia del caudillo.", "consecuencias": ["Inflige [aterrado-2]."]}
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 5,
+          "consecuencia": "Queda fuera de combate y deja de proteger al caudillo."
+        },
+        {
+          "nombre": "convencido",
+          "valor": 2,
+          "consecuencia": "Acepta ceder cuando las circunstancias permiten negociar."
+        }
       ],
-      "secretos": [{"nombre": "Caudillo caído", "descripcion": "Si el caudillo cae, puede rendirse o buscar venganza."}]
+      "etiquetas": [
+        "gran guerrero",
+        "guardaespaldas",
+        "verdugo",
+        "leal",
+        "fuerza"
+      ],
+      "rasgos": [
+        {
+          "nombre": "Lealtad absoluta",
+          "descripcion": "No negocia mientras el caudillo viva."
+        }
+      ],
+      "amenazas": [
+        {
+          "nombre": "Ejecutar",
+          "descripcion": "Descarga un golpe devastador.",
+          "consecuencias": [
+            "Inflige [herido-4]."
+          ]
+        },
+        {
+          "nombre": "Interceptar",
+          "descripcion": "Se interpone ante un ataque contra su señor.",
+          "consecuencias": [
+            "Crea [caudillo protegido]."
+          ]
+        },
+        {
+          "nombre": "Carga",
+          "descripcion": "Arrolla a su adversario.",
+          "consecuencias": [
+            "Inflige [derribado-2]."
+          ]
+        },
+        {
+          "nombre": "Intimidar",
+          "descripcion": "Amenaza con cumplir la sentencia del caudillo.",
+          "consecuencias": [
+            "Inflige [aterrado-2]."
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Caudillo caído",
+          "descripcion": "Si el caudillo cae, puede rendirse o buscar venganza."
+        }
+      ]
     },
     {
       "slug": "chaman-reghed-desafio",
       "nombre": "Chamán Reghed",
       "nivel": 2,
       "poderio": [],
-      "roles": ["Adversario", "Controlador", "Apoyo"],
+      "roles": [
+        "Adversario",
+        "Controlador",
+        "Apoyo"
+      ],
       "aspecto_en": "Full body portrait of a slender human tundra shaman wrapped in layered winter furs. A carved wooden animal mask conceals most of the face, leaving intense eyes visible. Bone and tooth amulets hang among dried herbs at the neck and belt. One hand holds a wooden medicine bottle. The posture is composed and ritualistic, suggesting spiritual authority rather than physical aggression.",
       "descripcion": "Druida y guía espiritual que aconseja al caudillo, cura aliados y recurre a los espíritus. Lleva en público una máscara de oso, alce, tigre o lobo según su tribu.",
-      "limites": [{"nombre": "herido", "valor": 4, "consecuencia": "Queda fuera de combate."}, {"nombre": "convencido", "valor": 3, "consecuencia": "Acepta el trato o las razones del grupo."}],
-      "etiquetas": ["chamán reghed", "druida", "máscara ritual", "hierbas", "espíritu de la tribu"],
-      "rasgos": [{"nombre": "Consejero espiritual", "descripcion": "Evita el combate directo y utiliza remedios, rituales y conocimiento de la tundra."}],
-      "amenazas": [
-        {"nombre": "Conjuro de escarcha", "descripcion": "Invoca el frío contra sus enemigos.", "consecuencias": ["Inflige [helado-2] o [congelado-1]."]},
-        {"nombre": "Maldecir", "descripcion": "Pronuncia una maldición.", "consecuencias": ["Inflige [maldito-2]."]},
-        {"nombre": "Llamar a los espíritus", "descripcion": "Una niebla desorientadora envuelve la zona.", "consecuencias": ["Crea [niebla] e inflige [perdido-2]."]},
-        {"nombre": "Curar a un aliado", "descripcion": "Aplica su poder sanador.", "consecuencias": ["Crea [recuperado] y elimina [herido-2]."]},
-        {"nombre": "Revelar secretos", "descripcion": "Expone una verdad difícil de escuchar.", "consecuencias": ["Crea [verdad incómoda]."]}
+      "limites": [
+        {
+          "nombre": "herido",
+          "valor": 4,
+          "consecuencia": "Queda fuera de combate."
+        },
+        {
+          "nombre": "convencido",
+          "valor": 3,
+          "consecuencia": "Acepta el trato o las razones del grupo."
+        }
       ],
-      "secretos": [{"nombre": "Sin máscara", "descripcion": "Arrebatarle la máscara debilita su autoridad: crea [sin máscara] e inflige [humillado-2]."}, {"nombre": "Ofrendas", "descripcion": "Acepta ofrendas y favores a cambio de remedios o consejo."}]
+      "etiquetas": [
+        "chamán reghed",
+        "druida",
+        "máscara ritual",
+        "hierbas",
+        "espíritu de la tribu"
+      ],
+      "rasgos": [
+        {
+          "nombre": "Consejero espiritual",
+          "descripcion": "Evita el combate directo y utiliza remedios, rituales y conocimiento de la tundra."
+        }
+      ],
+      "amenazas": [
+        {
+          "nombre": "Desatar la escarcha",
+          "descripcion": "Invoca el frío contra sus enemigos.",
+          "consecuencias": [
+            "Inflige [helado-2] o [congelado-1]."
+          ]
+        },
+        {
+          "nombre": "Maldecir",
+          "descripcion": "Pronuncia una maldición.",
+          "consecuencias": [
+            "Inflige [maldito-2]."
+          ]
+        },
+        {
+          "nombre": "Llamar a los espíritus",
+          "descripcion": "Una niebla desorientadora envuelve la zona.",
+          "consecuencias": [
+            "Crea [niebla] e inflige [perdido-2]."
+          ]
+        },
+        {
+          "nombre": "Curar a un aliado",
+          "descripcion": "Aplica su poder sanador.",
+          "consecuencias": [
+            "Crea [recuperado] y elimina [herido-2]."
+          ]
+        },
+        {
+          "nombre": "Revelar secretos",
+          "descripcion": "Expone una verdad difícil de escuchar.",
+          "consecuencias": [
+            "Crea [verdad incómoda]."
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Sin máscara",
+          "descripcion": "Arrebatarle la máscara debilita su autoridad: crea [sin máscara] e inflige [humillado-2]."
+        },
+        {
+          "nombre": "Ofrendas",
+          "descripcion": "Acepta ofrendas y favores a cambio de remedios o consejo."
+        }
+      ]
     },
     {
       "slug": "frio-de-la-tundra",
       "nombre": "Frío extremo de la tundra",
       "nivel": 1,
       "poderio": [],
-      "roles": ["Peligro", "Obstáculo"],
+      "roles": [
+        "Peligro",
+        "Obstáculo"
+      ],
       "aspecto_en": "Environmental illustration of an empty frozen tundra under oppressive darkness, with relentless wind driving fine snow across hard ice. A dark patch of freezing water interrupts the white ground, while distant hide tents offer a faint amber suggestion of shelter. Blue grey shadows, frost textures and stark white drifts convey extreme cold and disorientation. No people or animals.",
       "descripcion": "El frío extremo del Valle alcanza una temperatura media de −45 °C, con sensación térmica aún menor. El abrigo y el calor del campamento pueden separar la supervivencia del agotamiento.",
-      "limites": [{"nombre": "agotado", "valor": 6, "consecuencia": "Quien alcanza el límite queda incapacitado por el agotamiento."}],
-      "etiquetas": ["frío extremo", "viento", "nieve", "oscuridad", "tundra"],
-      "rasgos": [{"nombre": "Exposición continuada", "descripcion": "Aplica la amenaza de frío cada hora sin abrigo adecuado; helado-1 de las escenas corresponde a quienes van mal abrigados."}],
-      "amenazas": [
-        {"nombre": "Hora sin abrigo", "descripcion": "La exposición roba calor al cuerpo.", "consecuencias": ["Inflige [helado-1]."]},
-        {"nombre": "Ventisca", "descripcion": "El viento y la nieve borran las referencias.", "consecuencias": ["Inflige [perdido-2] y [cegado-1]."]},
-        {"nombre": "Agua helada", "descripcion": "Caer al agua empapa y enfría de inmediato.", "consecuencias": ["Inflige [empapado-2] y [helado-3]."]}
+      "limites": [
+        {
+          "nombre": "agotado",
+          "valor": 6,
+          "consecuencia": "Quien alcanza el límite queda incapacitado por el agotamiento."
+        }
       ],
-      "secretos": [{"nombre": "Calor y protección", "descripcion": "Ropa de abrigo, refugio, fuego, resistencia o inmunidad al frío y el calor de un campamento Reghed protegen frente a este peligro."}]
+      "etiquetas": [
+        "frío extremo",
+        "viento",
+        "nieve",
+        "oscuridad",
+        "tundra"
+      ],
+      "rasgos": [
+        {
+          "nombre": "Exposición continuada",
+          "descripcion": "Aplica la amenaza de frío cada hora sin abrigo adecuado; [helado-1] de las escenas corresponde a quienes van mal abrigados."
+        }
+      ],
+      "amenazas": [
+        {
+          "nombre": "Hora sin abrigo",
+          "descripcion": "La exposición roba calor al cuerpo.",
+          "consecuencias": [
+            "Inflige [helado-1]."
+          ]
+        },
+        {
+          "nombre": "Ventisca",
+          "descripcion": "El viento y la nieve borran las referencias.",
+          "consecuencias": [
+            "Inflige [perdido-2] y [cegado-1]."
+          ]
+        },
+        {
+          "nombre": "Agua helada",
+          "descripcion": "Caer al agua empapa y enfría de inmediato.",
+          "consecuencias": [
+            "Inflige [empapado-2] y [helado-3]."
+          ]
+        }
+      ],
+      "secretos": [
+        {
+          "nombre": "Calor y protección",
+          "descripcion": "Ropa de abrigo, refugio, fuego, resistencia o inmunidad al frío y el calor de un campamento Reghed protegen frente a este peligro."
+        }
+      ]
     }
   ],
   "objetos": [
-    {"slug": "pocion-de-curacion", "nombre": "Poción de curación", "etiqueta": "poción de curación", "descripcion": "El chamán guarda 1d4 pociones en frascos de madera lisos, sellados con corchos de grasa animal.", "imagen_en": "Isolated smooth wooden healing potion bottle with a stopper sealed in animal fat, simple practical tundra craftsmanship, subtle wood grain, soft neutral lighting, no label or lettering."},
-    {"slug": "pergamino-restauracion-menor", "nombre": "Pergamino de restauración menor", "etiqueta": "pergamino de restauración menor", "descripcion": "Guardado en la tienda del chamán; puede sustituirse por otro conjuro de druida de primer o segundo nivel.", "imagen_en": "Isolated rolled parchment spell scroll beside a small exposed section of aged hide paper, rough edges and restrained natural texture, soft neutral lighting, no readable writing."},
-    {"slug": "hierbas-medicinales", "nombre": "Hierbas medicinales", "etiqueta": "hierbas medicinales", "descripcion": "Remedios del chamán útiles para curar estados como enfermo o herido.", "imagen_en": "Isolated bundles of dried medicinal herbs tied with plain fibre cords, brittle leaves and slender stems in muted green and brown tones, simple tundra healer supplies, neutral background."},
-    {"slug": "mascara-ritual", "nombre": "Máscara ritual de madera", "etiqueta": "máscara ritual", "descripcion": "Tallada como oso, alce, tigre o lobo según la tribu; símbolo de autoridad espiritual y etiqueta de mochila o historia.", "imagen_en": "Isolated carved wooden wolf mask representing one Reghed tribe, rough hand worked grain, deep eye openings and a simple leather fastening, weathered brown surface, neutral studio lighting, no lettering."},
-    {"slug": "trofeos-de-caza", "nombre": "Trofeos de caza", "etiqueta": "trofeo de caza", "descripcion": "Cuernos, colmillos, garras y pieles de la tienda del caudillo; prueban hazañas y pueden abrir puertas en el campamento.", "imagen_en": "Isolated arrangement of hunting trophies: antlers, tusks, claws and a folded animal pelt, worn natural surfaces and practical leather bindings, earthy neutral palette, soft studio lighting."},
-    {"slug": "armas-de-hueso", "nombre": "Armas de hueso y tendón", "etiqueta": "armas de hueso", "descripcion": "Armas fabricadas aprovechando huesos y tendones de reno.", "imagen_en": "Isolated nomadic weapon crafted from reindeer bone, a wooden shaft bound tightly with sinew and fitted with a sharpened bone point, visible handmade textures, neutral background."},
-    {"slug": "armadura-de-pieles", "nombre": "Armadura de pieles", "etiqueta": "armadura de pieles", "descripcion": "Protección fabricada con pieles de reno y ligaduras de tendón, con resistencia al frío.", "imagen_en": "Isolated heavy reindeer hide armour with layered fur panels, sinew stitching and simple bone fastenings, practical protection against tundra cold, weathered brown and cream textures, neutral background."},
-    {"slug": "trineo-reghed", "nombre": "Trineo y perros", "etiqueta": "trineo reghed", "descripcion": "Medio de viaje rápido y transporte de carga por la tundra, utilizable como etiqueta de historia o mochila.", "imagen_en": "Isolated wooden Reghed cargo sledge with curved runners, hide lashings, fur covered load platform and leather dog traces laid alongside, sturdy nomadic workmanship, neutral background, no people."},
-    {"slug": "raciones-del-campamento", "nombre": "Raciones del campamento", "etiqueta": "raciones", "descripcion": "Carne de reno y trucha de cabeza de nudillo; el reno debe cocinarse, mientras la trucha y la foca pueden comerse crudas.", "imagen_en": "Isolated camp provisions on a plain wooden preparation board, portions of cooked reindeer meat and raw knucklehead trout fillets beside a folded hide wrapping, natural colours, neutral lighting."},
-    {"slug": "aceite-de-ballena", "nombre": "Aceite de ballena", "etiqueta": "aceite de ballena", "descripcion": "Combustible para las lámparas y los hornillos del campamento.", "imagen_en": "Isolated small practical vessel of whale oil beside a low oil lamp with a modest amber flame, worn handmade surfaces and warm reflections, neutral background, no lettering."}
+    {
+      "slug": "pocion-de-curacion",
+      "nombre": "Poción de curación",
+      "etiqueta": "poción de curación",
+      "descripcion": "El chamán guarda 1d4 pociones en frascos de madera lisos, sellados con corchos de grasa animal.",
+      "imagen_en": "Isolated smooth wooden healing potion bottle with a stopper sealed in animal fat, simple practical tundra craftsmanship, subtle wood grain, soft neutral lighting, no label or lettering."
+    },
+    {
+      "slug": "pergamino-restauracion-menor",
+      "nombre": "Pergamino de alivio",
+      "etiqueta": "pergamino de alivio",
+      "descripcion": "Guardado en la tienda del chamán; permite realizar un ritual para aliviar enfermedades y otros males. Se usa como etiqueta de mochila [pergamino de alivio].",
+      "imagen_en": "Isolated rolled parchment spell scroll beside a small exposed section of aged hide paper, rough edges and restrained natural texture, soft neutral lighting, no readable writing."
+    },
+    {
+      "slug": "hierbas-medicinales",
+      "nombre": "Hierbas medicinales",
+      "etiqueta": "hierbas medicinales",
+      "descripcion": "Remedios del chamán útiles para reducir estados de enfermedad o heridas.",
+      "imagen_en": "Isolated bundles of dried medicinal herbs tied with plain fibre cords, brittle leaves and slender stems in muted green and brown tones, simple tundra healer supplies, neutral background."
+    },
+    {
+      "slug": "mascara-ritual",
+      "nombre": "Máscara ritual de madera",
+      "etiqueta": "máscara ritual",
+      "descripcion": "Tallada como oso, alce, tigre o lobo según la tribu; símbolo de autoridad espiritual y etiqueta de mochila o historia.",
+      "imagen_en": "Isolated carved wooden wolf mask representing one Reghed tribe, rough hand worked grain, deep eye openings and a simple leather fastening, weathered brown surface, neutral studio lighting, no lettering."
+    },
+    {
+      "slug": "trofeos-de-caza",
+      "nombre": "Trofeos de caza",
+      "etiqueta": "trofeo de caza",
+      "descripcion": "Cuernos, colmillos, garras y pieles de la tienda del caudillo; prueban hazañas y pueden abrir puertas en el campamento.",
+      "imagen_en": "Isolated arrangement of hunting trophies: antlers, tusks, claws and a folded animal pelt, worn natural surfaces and practical leather bindings, earthy neutral palette, soft studio lighting."
+    },
+    {
+      "slug": "armas-de-hueso",
+      "nombre": "Armas de hueso y tendón",
+      "etiqueta": "armas de hueso",
+      "descripcion": "Armas fabricadas aprovechando huesos y tendones de reno.",
+      "imagen_en": "Isolated nomadic weapon crafted from reindeer bone, a wooden shaft bound tightly with sinew and fitted with a sharpened bone point, visible handmade textures, neutral background."
+    },
+    {
+      "slug": "armadura-de-pieles",
+      "nombre": "Armadura de pieles",
+      "etiqueta": "armadura de pieles",
+      "descripcion": "Protección fabricada con pieles de reno y ligaduras de tendón, con resistencia al frío.",
+      "imagen_en": "Isolated heavy reindeer hide armour with layered fur panels, sinew stitching and simple bone fastenings, practical protection against tundra cold, weathered brown and cream textures, neutral background."
+    },
+    {
+      "slug": "trineo-reghed",
+      "nombre": "Trineo y perros",
+      "etiqueta": "trineo reghed",
+      "descripcion": "Medio de viaje rápido y transporte de carga por la tundra, utilizable como etiqueta de historia o mochila.",
+      "imagen_en": "Isolated wooden Reghed cargo sledge with curved runners, hide lashings, fur covered load platform and leather dog traces laid alongside, sturdy nomadic workmanship, neutral background, no people."
+    },
+    {
+      "slug": "raciones-del-campamento",
+      "nombre": "Raciones del campamento",
+      "etiqueta": "raciones",
+      "descripcion": "Carne de reno y trucha de cabeza de nudillo; el reno debe cocinarse, mientras la trucha y la foca pueden comerse crudas.",
+      "imagen_en": "Isolated camp provisions on a plain wooden preparation board, portions of cooked reindeer meat and raw knucklehead trout fillets beside a folded hide wrapping, natural colours, neutral lighting."
+    },
+    {
+      "slug": "aceite-de-ballena",
+      "nombre": "Aceite de ballena",
+      "etiqueta": "aceite de ballena",
+      "descripcion": "Combustible para las lámparas y los hornillos del campamento.",
+      "imagen_en": "Isolated small practical vessel of whale oil beside a low oil lamp with a modest amber flame, worn handmade surfaces and warm reflections, neutral background, no lettering."
+    }
   ],
   "ayudas": [
     {
       "slug": "historias-de-los-reghed",
       "titulo": "Las historias de los Reghed",
       "tipo": "nota",
-      "texto": "La tribu es un solo espíritu siempre en movimiento.\n\nTodos sus miembros deben trabajar juntos y nadie se queda atrás.\n\nLa tierra respeta solo la fuerza: los fuertes florecen y los débiles perecen.",
+      "texto": "Nuestros pasos mantienen vivo al clan: compartimos un mismo aliento aunque sigamos huellas distintas.\n\nCada cual sostiene a los demás con su trabajo. Si alguien se rezaga, el resto debe ayudarle a continuar.\n\nLa tundra no concede favores. Para perdurar hay que demostrar fortaleza; quien carece de ella acaba sucumbiendo.",
       "fondo_en": "Blank sheet of rough parchment with slightly irregular edges, faint natural fibres and a few smoke stains, laid flat under soft warm light, empty writing area, no symbols or text."
     }
   ],
