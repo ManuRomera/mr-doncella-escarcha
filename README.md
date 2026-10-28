@@ -1,5 +1,13 @@
 # MR- La Rima de la Doncella de la Escarcha
 
+<p align="center">
+  <a href="https://github.com/ManuRomera"><img alt="Manu Romera · Digital RPG Design" src="https://raw.githubusercontent.com/ManuRomera/ManuRomera/main/badges/mr-firma.svg" height="28"></a>
+  <a href="https://github.com/ManuRomera/mr-doncella-escarcha/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/ManuRomera/mr-doncella-escarcha?include_prereleases&style=for-the-badge&color=4f8fbf&label=release"></a>
+  <a href="https://foundryvtt.com"><img alt="Foundry VTT V13" src="https://img.shields.io/badge/Foundry%20VTT-V13-57d8c8?style=for-the-badge"></a>
+  <a href="https://github.com/ManuRomera/mr-doncella-escarcha/releases"><img alt="Downloads" src="https://raw.githubusercontent.com/ManuRomera/ManuRomera/main/badges/descargas/mr-doncella-escarcha.svg"></a>
+  <img alt="Legend in the Mist" src="https://img.shields.io/badge/system-Legend%20in%20the%20Mist-2b3245?style=for-the-badge">
+</p>
+
 Conversión **privada** de la campaña *Icewind Dale: Rime of the Frostmaiden* (D&D 5e) a **Legend in the Mist** para Foundry VTT, siguiendo la *Herramienta de conversión 5e* de Son of Oak. Uso personal: el texto de la aventura es de Wizards of the Coast y los efectos de sonido del archivo BBC solo permiten uso personal. **No publicar.**
 
 ## Qué trae (fase 1 · Cap. 1, Diez Ciudades)
