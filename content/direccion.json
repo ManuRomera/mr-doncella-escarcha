@@ -2,7 +2,7 @@
  "schema": 1,
  "id": "mr-doncella-escarcha",
  "title": "MR- La Rima de la Doncella de la Escarcha",
- "version": "0.2.1",
+ "version": "0.2.2",
  "author": "Manu Romera",
  "license": "Uso privado",
  "settings": {
@@ -19652,7 +19652,7 @@
     }
    ],
    "notes": "Se activa al usar la Estrella de Verano para domar el tiempo: un caminante y tres mefits llegan desde el este para matar a todos en la Cabaña Negra. Si los Héroes ya son veteranos (temas de Aventura), añade otro caminante; con un goliat hombre oso aliado, añade un tercer caminante y dos mefits más. Los mefits oscurecen el campo para cubrir a los caminantes o cegar a los lanzadores; todos luchan hasta ser destruidos y persiguen a quienes huyen.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/venganza-de-auril.webp"
   },
   {
    "ref": {
@@ -19720,7 +19720,7 @@
     }
    ],
    "notes": "La primera cornisa está a nueve metros y otra más ancha a treinta, probablemente fuera del alcance de la luz y de quienes ven en la oscuridad. Explorar los alrededores descubre Z1 al sur, cuyos escalones llevan a Z2 y a la cornisa superior; también puede bajarse con magia o equipo. Los ruidos fuertes se transmiten entre todas las cuevas y los gnolls se delatan con sus risas.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/acercandose-a-la-fisura.webp"
   },
   {
    "ref": {
@@ -19788,7 +19788,7 @@
     }
    ],
    "notes": "Los escalones conducen a Z2. Con erudición religiosa o conocimiento demoníaco se identifica el emblema de Yeenoghu; sin ella, queda la duda.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/boca-de-la-cueva.webp"
   },
   {
    "ref": {
@@ -19867,7 +19867,7 @@
     }
    ],
    "notes": "Los restos incluyen animales, humanoides y gnolls víctimas de canibalismo. Un ruido fuerte atrae a los cuatro gnolls de Z3, que solo atacan en defensa propia. Buscar revela una bolsa de un peletero asesinado con monedas menores y una baratija aleatoria del Valle.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/cueva-del-festin.webp"
   },
   {
    "ref": {
@@ -19946,7 +19946,7 @@
     }
    ],
    "notes": "Los cuatro gnolls solo atacan en defensa propia y pueden acudir a Z2 si oyen ruido. Con empatía o perspicacia se percibe que han perdido la fe en Chyzka y desean verla caer. Pueden convertirse en aliados pasivos o testigos; la cabeza es una ofrenda a Yeenoghu.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/santuario-de-yeenoghu.webp"
   },
   {
    "ref": {
@@ -20036,7 +20036,7 @@
     }
    ],
    "notes": "Avanzar con cautela evita caídas; un fallo puede causar caído-2 o herido-2, y los ruidos fuertes alcanzan las cuevas. Chyzka ladra órdenes al ver intrusos, pero los subordinados observan expectantes y abren una oportunidad de negociación. Hay cuatro gnolls en Z3, Chyzka en Z5 y en Z6 doce de noche o seis de día.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/sima-congelada.webp"
   },
   {
    "ref": {
@@ -20115,7 +20115,7 @@
     }
    ],
    "notes": "Chyzka permanece aquí salvo que la atraiga un disturbio y prefiere luchar con garras y dientes. Las pinturas muestran a Yeenoghu y su prole; junto al fuego hay una tela ensangrentada con monedas. La lanza tiene punta plateada y no es mágica; la caña ordinaria lleva el anzuelo mágico robado a Nabira Moarskull tras asesinarla.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/cueva-de-chyzka.webp"
   },
   {
    "ref": {
@@ -20194,7 +20194,7 @@
     }
    ],
    "notes": "Por la noche descansan doce gnolls; de día quedan seis porque la otra mitad sale a buscar comida. Están demacrados y se apiñan para calentarse; adapta la lectura a la hora de llegada.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/cueva-dormitorio.webp"
   },
   {
    "ref": {
@@ -20261,7 +20261,7 @@
     }
    ],
    "notes": "La manada ya ha consumido todos los suministros robados a los viajeros. Solo quedan los contenedores y no queda tesoro.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/almacen-vacio.webp"
   },
   {
    "ref": {
@@ -20351,7 +20351,7 @@
     }
    ],
    "notes": "Los gnolls capturaron casi por accidente a este berserker después de que atacara a todos cuantos encontraba en el abismo. Conserva resistencia suficiente para seguir luchando y lleva una jabalina de chardalyn; sus estadísticas y desarrollo se encuentran en la sección 24, Cueva de los Berserkers. La puerta está atornillada con herrajes de hierro y abrirla sin preparación expone al grupo a su violencia.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/berserker-enjaulado.webp"
   },
   {
    "ref": {
@@ -20429,7 +20429,7 @@
    ],
    "handouts": [],
    "notes": "Conserva una jabalina; su mangual y otras dos jabalinas cayeron al abismo. Agarra a quien alcance y lo apuñala después; liberado, ataca a la criatura más cercana y no parlamenta. Los gnolls esperan a que se debilite para matarlo y comérselo; demorarse en la Fisura puede traer seis cazadores, con un 20 % de posibilidades de llevar presa para un festín en Z2. Aprovechar su animadversión hacia Chyzka facilita el tránsito, aunque siguen amenazando Diez Ciudades.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/berserker-enjaulado.webp"
   },
   {
    "ref": {
@@ -20517,7 +20517,7 @@
    ],
    "handouts": [],
    "notes": "Dañar el pórtico alerta a las dos crías: una llega por Q3 y otra rodea por el tobogán de Q4. No persiguen fuera de la cueva; vigilan varias horas desde afloramientos sobre la entrada. Los berserkers llevan antorchas; quienes no vean en la oscuridad necesitan luz propia.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portico-cabeza-oso.webp"
   },
   {
    "ref": {
@@ -20595,7 +20595,7 @@
    ],
    "handouts": [],
    "notes": "Un rumor, el encargo de un goliat hombre oso o del rey Gunvald Halraggson pueden conducir hasta aquí; el anillo de un berserker muerto teletransporta al grupo a Q1. Examinar con éxito el acantilado permite descubrir una abertura al este, cerca del fondo del barranco. Es el extremo del tobogán que asciende hasta Q4.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/camino-congelado.webp"
   },
   {
    "ref": {
@@ -20663,7 +20663,7 @@
    ],
    "handouts": [],
    "notes": "Examinar las cáscaras con conocimientos de naturaleza revela que son de dragón blanco y eclosionaron hace unos tres años. Un ruido fuerte, incluidas puertas y cadenas, alerta a Gelym y Tyzar. Una cría ataca de frente y la otra llega por detrás mediante el tobogán.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/cascarones-celdas.webp"
   },
   {
    "ref": {
@@ -20741,7 +20741,7 @@
    ],
    "handouts": [],
    "notes": "Si siguen en la guarida, Gelym y Tyzar están acurrucados juntos en la zona oriental. Gelym y Tyzar atacan a cualquier intruso si no han sido atraídos a otra zona. Recorrer el tobogán de 8 metros sin magia ni equipo es una acción arriesgada: con éxito se cruza; con fallo se cae al barranco y se sufren [herido-2], [tumbado-1] y [empapado-1]. La sangre del matadero y los residuos se vierten por él; el tesoro está al este.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/guarida-crias.webp"
   },
   {
    "ref": {
@@ -20809,7 +20809,7 @@
    ],
    "handouts": [],
    "notes": "El brasero, regalo de Auril, mantiene inmortales a los berserkers de Q3 a Q8 y sus túneles; ninguna otra criatura recibe protección. Percibir lo sobrenatural revela abjuración poderosa: el brasero no puede moverse ni dañarse y el agua no apaga la llama. Deshacer el encantamiento la extingue una hora y transformar mágicamente la piedra para siempre; los berserkers no perciben automáticamente el apagado.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/brasero-llama-fria.webp"
   },
   {
    "ref": {
@@ -20877,7 +20877,7 @@
    ],
    "handouts": [],
    "notes": "El berserker acaba de descuartizar un oso lechuza nival atraído a la cueva. Sus armas están al alcance y ataca en cuanto ve intrusos. Mientras arda Q5, solo puede ser derrotado si se le atrae fuera de la zona protegida.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/matadero-helado.webp"
   },
   {
    "ref": {
@@ -20920,7 +20920,7 @@
    "figures": [],
    "handouts": [],
    "notes": "Hay 40 kilos de carne fresca que los berserkers comparten con las crías. Puede cocinarse o cambiarse en Diez Ciudades por favores y provisiones.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/almacen-carne.webp"
   },
   {
    "ref": {
@@ -20976,7 +20976,7 @@
    "figures": [],
    "handouts": [],
    "notes": "Los cuatro camastros sugieren hasta cuatro ocupantes. El tablón sirve de puente sobre la fisura y puede recuperarse. No hay más objetos valiosos a simple vista; la cámara ofrece un refugio precario frente al frío.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/dormitorio-fisura.webp"
   },
   {
    "ref": {
@@ -21055,7 +21055,7 @@
     }
    ],
    "notes": "Tres berserkers regresan con su presa; pueden evitarse con sigilo. En la calzada no reciben el beneficio del fuego de la Doncella de la Escarcha e intentan alcanzar la cueva. Si el fuego se ha apagado, solo lo descubrirán cuando uno muera dentro.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/calzada-nevada.webp"
   },
   {
    "ref": {
@@ -21165,7 +21165,7 @@
     }
    ],
    "notes": "El hielo no se rompe bajo el grupo; escalar exige equipo, magia o afrontar el casco helado. A menos de cinco metros se oyen golpes y gruñidos del trol. El sigilo permite sorprenderlo; los pasos y crujidos pueden atraerlo.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/aproximacion-duquesa.webp"
   },
   {
    "ref": {
@@ -21254,7 +21254,7 @@
     }
    ],
    "notes": "Examinar los surcos revela una criatura enorme; un éxito elevado confirma garras de dragón. Picar la puerta requiere una hora y atrae al trol; varias personas aceleran el trabajo. Derretir el hielo tarda dos horas y no lo atrae.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/cubierta-principal.webp"
   },
   {
    "ref": {
@@ -21321,7 +21321,7 @@
     }
    ],
    "notes": "Arveiaturace utiliza este punto para subir a bordo. Los tablones hundidos y las ranuras son pistas claras del peso y las garras del dragón.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/castillo-proa.webp"
   },
   {
    "ref": {
@@ -21375,7 +21375,7 @@
     }
    ],
    "notes": "Aquí solo está el timón helado. No hay tesoro ni pistas adicionales.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/castillo-popa.webp"
   },
   {
    "ref": {
@@ -21431,7 +21431,7 @@
     }
    ],
    "notes": "Los kobolds registraron el camarote y pasaron por alto el espacio bajo la cama. Allí quedan tres frascos de antitoxina, un botiquín de curandero y un frasco de agua bendita.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/camarote-cirujano.webp"
   },
   {
    "ref": {
@@ -21498,7 +21498,7 @@
     }
    ],
    "notes": "El mapa de la Costa de la Espada mide unos dos metros de lado. El mapa del valle y las herramientas también son recuperables y sirven para futuras rutas.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/sala-mapas.webp"
   },
   {
    "ref": {
@@ -21552,7 +21552,7 @@
     }
    ],
    "notes": "Las cuerdas y redes son salvables; los barriles requieren una palanca o herramienta similar. Uno guarda una linterna sorda, tres frascos de aceite, cinco jabones de cal y tres juegos de esposas; el otro, diez antorchas.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/almacen-proa.webp"
   },
   {
    "ref": {
@@ -21631,7 +21631,7 @@
     }
    ],
    "notes": "Lunazul murió de hambre vigilando el botín; Recordar su facción y sus hazañas exige una acción con [piratería poco conocida] en contra; una historia creíble aportada por un jugador puede crear [relato del capitán]. La llave está en su chaqueta; limpiar el cofre lleva diez minutos con herramientas o calor. Contiene [monedas del capitán], un brazalete de oro pequeño y otro grande y una bolsa gris de trucos, además de doce corchos en el compartimento que quedó vacío. El diario termina con el regreso del dragón y los kobolds no entraron aquí.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/camarote-capitan.webp"
   },
   {
    "ref": {
@@ -21741,7 +21741,7 @@
     }
    ],
    "notes": "Si no fue atraído fuera, el trol araña la puerta del almacén de agua al pie de las escaleras y no atiende a razones. El gato de los riscos es un trofeo del aliento de Arveiaturace. Cada una de las cuatro capas libera su tesoro tras una hora de pico o dos de fuego; comprueba el regreso del dragón al final de cada hora.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/bodega-carga.webp"
   },
   {
    "ref": {
@@ -21808,7 +21808,7 @@
     }
    ],
    "notes": "La tripulación se llevó la comida y los kobolds consumieron las sobras, compartiendo lo poco que encuentran con la cabra de carga. La esconden aquí del dragón y el trol aún no la ha detectado. Puede liberarse, llevar carga o intercambiarse por favores.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/cocina-saqueada.webp"
   },
   {
    "ref": {
@@ -21875,7 +21875,7 @@
     }
    ],
    "notes": "La tripulación se llevó el ron antes de abandonar el barco. Reunir los tablones revela el rostro sonriente de Jax el Tuerto y su anuncio en élfico, una pista para Ron Cero y los taberneros de Bremen.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/almacen-ron.webp"
   },
   {
    "ref": {
@@ -21963,7 +21963,7 @@
     }
    ],
    "notes": "Los kobolds no abren: derribar la puerta es una acción arriesgada con [barra interior] en contra; el éxito crea [puerta derribada] y el fallo hace ruido sin abrirla. Tras una sola descarga quedan desarmados y pueden parlamentar si se les ofrece seguridad. Los barriles verticales contienen agua congelada; veneran al dragón, pero no saben cuándo regresará y creen que él siempre lo sabe. Los cuatro kobolds arrojan sus jabalinas contra la primera criatura que entra.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/almacen-agua.webp"
   },
   {
    "ref": {
@@ -22084,7 +22084,7 @@
     }
    ],
    "notes": "Al final de cada hora hay un 20 % de posibilidades de regreso: Arveiaturace inspecciona la bodega, sigue huellas si falta tesoro y rompe paredes para alcanzar intrusos; si no detecta nada, se marcha a comer una morsa. Solo ve a unos dieciocho metros y el grupo no es rival para ella. La caída de Meltharond interrumpe su ataque: pide ayuda para recolocarlo y promete clemencia falsamente, algo que pueden descubrir interpretando sus intenciones con [promesa engañosa] en contra. Durante la huida no abandona el cadáver; después recuerda que puede recogerlo y vuela al glaciar Reghed.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/llegada-arveiaturace.webp"
   },
   {
    "ref": {
@@ -22183,7 +22183,7 @@
     }
    ],
    "notes": "Tinjong puede rescatar al grupo con una nube de oscurecimiento y llevarlo más allá de la vista del dragón. Adora a Silvanus, ayuda sin condiciones y puede acompañarles a la isla de Auril para terminar el invierno. El chwinga sale de una roca para saludarlo y concede un encanto al primer personaje que le toque música durante una hora.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/cueva-tinjong.webp"
   },
   {
    "ref": {
@@ -22273,7 +22273,7 @@
     }
    ],
    "notes": "La nave se estrelló hace siete días; se llega por el supuesto cometa, la baliza o el secreto del prisionero fugado. Dos carroñeros acechan para paralizar y arrastrar prisioneros; advertir su presencia entre la nieve es una acción arriesgada y un fallo deja al grupo [sorprendido-2]. Dentro hay techos de 6 metros, luz tenue y puertas carnosas que responden a mentes telepáticas. El soporte vital mantiene 10 °C durante 24 horas desde la llegada; después la temperatura baja unos 6 °C por hora hasta igualar el exterior.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/acercamiento-nautiloide.webp"
   },
   {
    "ref": {
@@ -22362,7 +22362,7 @@
     }
    ],
    "notes": "La puerta está cerrada, pero no bloqueada. Forzarla es una acción arriesgada: con éxito se abre; con fallo sigue cerrada y el ruido alerta a las criaturas de la bodega. Las balistas exteriores están inoperables desde el accidente.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/n1-castillo-proa.webp"
   },
   {
    "ref": {
@@ -22462,7 +22462,7 @@
     }
    ],
    "notes": "Sin un cerebromorfo al frente del grupo, el gólem ataca hasta dejar inconscientes a los Héroes y los calamardos intentan devorar sus cerebros; Dredavex llega tras dos asaltos. Si ha muerto un calamardo, convoca a Vorryn y combate con intención de matar; de lo contrario, detiene al gólem. Hay tres rifles intactos con 30 disparos cada uno y tres inútiles; Aprender a disparar y recargar requiere experimentar en dos acciones arriesgadas: con éxito se crean, respectivamente, [disparo comprendido] y [recarga comprendida]; con fallo se desperdicia energía de la célula. Las cadenas sujetaron a los dos carroñeros y un terrarón liberados tras el choque; los cuatro barriles contienen lubricante y cerebros humanoides licuados. Rin, Rix y Zglarrd deberían limpiar, pero empujan basura y molestan al gólem. Hay dos barriles de lubricante, dos de lechada rosa de cerebros humanoides, una caja de piezas de máquinas, una de armas y tres cajas que sirven de vivienda a los calamardos.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/n2-bodega.webp"
   },
   {
    "ref": {
@@ -22518,7 +22518,7 @@
     }
    ],
    "notes": "Las cápsulas mantienen vivos a cerebromorfos o calamardos durante viajes prolongados. Ahora son inútiles porque carecen de núcleo de energía. Repararlas queda fuera de la capacidad de los cocapitanes.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/n3-capsulas-estasis.webp"
   },
   {
    "ref": {
@@ -22586,7 +22586,7 @@
     }
    ],
    "notes": "La balista funciona y puede defender la nave de amenazas exteriores. Disparar sin comprender las instrucciones en Qualith es una acción arriesgada: con éxito alcanza el objetivo; con fallo, una avería lanza metralla e inflige [herido-2] a una criatura al azar a menos de 3 metros.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/n4-cubierta-armas.webp"
   },
   {
    "ref": {
@@ -22675,7 +22675,7 @@
     }
    ],
    "notes": "Dredavex trabaja aquí si nada le ha atraído a otra zona y entrega el detector si los Héroes aceptan buscar un psicocristal. Tras estudiar la tecnología durante al menos una hora, reparar el soporte vital exige alcanzar [reparación-4] mediante varias acciones o emplear Poderío de Aventura o Grandeza. El éxito prolonga su funcionamiento 24 horas y crea la etiqueta de historia [soporte vital estabilizado]; un fallo acelera el deterioro y crea [sistema inestable]. El detector chasquea cuando hay un psicocristal a menos de 8 kilómetros y acelera al acercarse.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/n5-mantenimiento.webp"
   },
   {
    "ref": {
@@ -22731,7 +22731,7 @@
     }
    ],
    "notes": "El cristal de propulsión se agrietó e implosionó durante el choque. La nave no puede despegar sin reemplazarlo. Los cocapitanes creen que un psicocristal servirá temporalmente, pero desconocen dónde encontrarlo.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/n6-sala-propulsion.webp"
   },
   {
    "ref": {
@@ -22811,7 +22811,7 @@
     }
    ],
    "notes": "Vorryn suele estar aquí, comunicándose con las conciencias licuadas de desolladores de mentes que fluyen por la nave. Un no ilícido que toque ambos orbes debe reaccionar ante la descarga mental; si no logra protegerse, sufre [aturdido-4] durante diez minutos. Si ambos capitanes tocan un orbe cada uno, comienza una cuenta atrás irreversible de 60 segundos en Habla Profunda. La explosión desintegra la nave y amenaza con [herido-6] a quienes estén dentro o a menos de 18 metros; es visible desde Diez Ciudades. Un ilícido puede apagar la baliza mediante el timón. Arrancarla exige vencer la etiqueta en contra [anclaje resistente]; un fallo causa [herido-2]. También puede cortarse o destruirse: límite destrozado 2; su carne cristalina cuenta como etiqueta en contra de ataques psíquicos. Las puertas llevan a la plataforma de observación y los camarotes; las escaleras, a la cubierta de armas.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/n7-puente-mando.webp"
   },
   {
    "ref": {
@@ -22889,7 +22889,7 @@
     }
    ],
    "notes": "No hay encuentros fijos en esta plataforma. El telescopio permite vigilar amenazas o estudiar una ruta de salida. Los personajes vuelven a quedar expuestos al frío del valle.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/n8-plataforma-observacion.webp"
   },
   {
    "ref": {
@@ -22957,7 +22957,7 @@
     }
    ],
    "notes": "Los capitanes ofrecen sus pistolas y los objetos mágicos de esta estancia a cambio de ayuda para obtener el psicocristal o infiltrarse en Diez Ciudades. Los efectos de los cinco artilugios quedan a decisión del Narrador. La negociación permite obtener recompensas sin provocar un combate letal.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/n9-camarotes-capitanes.webp"
   },
   {
    "ref": {
@@ -23118,7 +23118,7 @@
     }
    ],
    "notes": "Las apariciones solo son visibles al entrar bajo la luna llena; fuera de ese momento no hay nada con lo que interactuar, y no pueden dañarse ni expulsarse. El aura nigromántica alcanza 3 metros más allá del anillo y vuelve vulnerables al frío a quienes no tienen protección sobrenatural. Reggaryarva invoca primero al esqueleto y después a dos acechadores: vencerlos hace que los seis jarls canten y eleven su trono 9 metros, revelando la escalera; al ocultarse la luna, el trono sella la entrada. Si acompaña al grupo, Yselm traiciona durante el ascenso junto a un lobo invernal; ambos luchan hasta la muerte.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/anillo-tronos.webp"
   },
   {
    "ref": {
@@ -23196,7 +23196,7 @@
     }
    ],
    "notes": "La puerta hacia la cámara de los cofres está desbloqueada. Empujarla es una acción arriesgada: con éxito se abre; con fallo, el esfuerzo causa [agotado-2]. Los huecos de 30 centímetros de la verja no permiten pasar a personajes pequeños ni medianos. Quien entienda enano o gigante lee dod (muerte), fjell (montaña), krig (guerra), liv (vida), vind (viento) y wyrm (dragón). Los ingredientes respectivos son criatura diminuta muerta o tres gotas de sangre de muerto; piedra de montaña; flecha u otra munición; tres gotas de sangre viva; aire soplado; y escama, colmillo o garra de dragón. Cada brasero destruye su contenido no mágico y arde una hora: la verja hacia J3 solo se abre mientras arden los seis, y J5 contiene buena parte de los ingredientes.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/salon-braseros.webp"
   },
   {
    "ref": {
@@ -23263,7 +23263,7 @@
     }
    ],
    "notes": "La galería comunica el salón de los braseros con la cámara de la llave dorada y no guarda secretos. Empujar cualquiera de las puertas es una acción arriesgada: con éxito se abre; con fallo, el esfuerzo causa [agotado-2].",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/tunel-curvo.webp"
   },
   {
    "ref": {
@@ -23342,7 +23342,7 @@
     }
    ],
    "notes": "La llave dorada se retira sin peligro y sirve como etiqueta de mochila [llave de oro valiosa]; no abre el cofre, que admite la llave de plata de J5, herramientas de cerrajero tras retirar la dorada: abrirla exige acumular [cerradura forzada-4] o recurrir a Poderío de Aventura o Grandeza adecuado para abrir cerraduras. La magia capaz de abrir cerraduras también sirve. Al levantar la tapa, seis hachas de batalla voladoras atacan; dentro hay un cuerno de explosión sujeto por una abrazadera de madera. Girar la llave dorada crea sobre el cofre, en la pared norte, un portal cuadrado de 3 metros hacia un espacio libre de J1: es unidireccional, invisible e inutilizable desde el anillo. Se cierra a los diez minutos, devolviendo la llave a su posición, o inmediatamente al retirarla; los viajeros sufren ataques de cuervos, suficientes para cuatro enjambres.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/camara-llave-dorada.webp"
   },
   {
    "ref": {
@@ -23409,7 +23409,7 @@
     }
    ],
    "notes": "Las llaves se alcanzan trepando, usando magia o apilando cofres; el anillo pesa demasiado para una manipulación mágica leve, pero desenroscar el gancho permite dejarlo caer. Las cuatro llaves de hierro abren estos cofres y la de plata, útil como etiqueta de mochila [llave de plata valiosa], abre el de J4. Cada cofre pesa 75 kilos, mide 3 metros de largo, 1,5 de ancho y 2 de alto y puede abrirse con magia capaz de abrir cerraduras. Forzarlo con herramientas de cerrajero es una acción arriesgada: con éxito se abre; con fallo, las herramientas resbalan y causan [herido-1]. Contienen, uno por cofre, una flecha élfica, un búho nival muerto y congelado, una escama de dragón blanco joven y una piedra de la Cumbre Kelvin, útiles para los braseros.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/camara-cofres.webp"
   },
   {
    "ref": {
@@ -23500,7 +23500,7 @@
     }
    ],
    "notes": "Gromin'gorn llega para superar la prueba de sus antepasados y poder liderar a su tribu; se muestra hostil. Si ve el cuerno de explosión llevado abiertamente, lo reclama como su prueba ancestral y combate con una cadena de 3 metros y un yunque, con golpes encadenados que pueden alcanzar a dos Héroes cercanos. Derrotarla o satisfacerla entregando el cuerno, a discreción del Narrador, concede un favor de los gigantes y un hito.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/salida-concilio.webp"
   },
   {
    "ref": {
@@ -23579,7 +23579,7 @@
     }
    ],
    "notes": "Las llaves de hierro abren los cofres; la plateada abre el de la cámara contigua del Concilio. Alcanzar el aro requiere escalar o apilar cofres; una manipulación mágica a distancia puede desenroscar el gancho, pero no levantar el aro. Forzar una cerradura exige una acción arriesgada con herramientas o magia que abra cerraduras; con éxito se crea [cerradura abierta] y, con fallo, [cerradura atascada]; cada cofre pesa 75 kg y mide 3 × 1,5 × 2 metros. Abrir el del cuerno activa seis hachas voladoras; los demás guardan las curiosidades descritas en objetos.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/tesoro-de-los-jarls.webp"
   },
   {
    "ref": {
@@ -23658,7 +23658,7 @@
     }
    ],
    "notes": "Gromin'gorn busca una prueba de sus antepasados para aspirar al liderazgo de su tribu. Si ve el cuerno de explosión, lo reclama como su prueba ancestral. Entregárselo puede apaciguarla y conceder [prueba superada], convirtiéndola en aliada ocasional.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/encuentro-con-gromingorn.webp"
   },
   {
    "ref": {
@@ -23747,7 +23747,7 @@
     }
    ],
    "notes": "Las huellas profundas permiten encontrar el fuerte incluso con ventisca, pero los miradores dominan la aproximación. El clima arranca estructuras de la ladera y los experimentos químicos provocan incendios; las reparaciones son constantes. Los habitantes rechazan a los visitantes, especialmente a los gnomos.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/aproximacion-a-karkolohk.webp"
   },
   {
    "ref": {
@@ -23837,7 +23837,7 @@
     }
    ],
    "notes": "Cada torre alberga cuatro goblins y ofrece protección de las almenas contra ataques exteriores. Acercarse o subir sin ser detectado exige cautela, sin tirada salvo con prisa o peligro; con fallo se alerta a los centinelas. El cuerno alerta a toda la fortaleza y crea [alerta en karkolohk]; los guardias disparan a quienes detectan.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/atalayas.webp"
   },
   {
    "ref": {
@@ -23916,7 +23916,7 @@
     }
    ],
    "notes": "Hay cuatro goblins en las murallas y seis sobre la puerta; Es posible aproximarse con cautela sin tirada salvo con prisa o peligro; si se tira, un fallo alerta a los guardias. Forzar el candado con herramientas exige alcanzar [cerradura vencida-4]; pasar por los huecos, siendo pequeño, exige [paso franqueado-4]. Ambos obstáculos también pueden superarse con Poderío de Aventura o Grandeza adecuado. Snubsuk lleva la llave; el éxito crea [puerta abierta], mientras que el fallo puede producir [manos entumecidas-1], ruido y alarma.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/puerta-principal.webp"
   },
   {
    "ref": {
@@ -24027,7 +24027,7 @@
     }
    ],
    "notes": "El huargo carga contra los intrusos y desmonta a Snubsuk, que huye hacia la plataforma de batalla con la llave esposada a la muñeca. El puente de nueve metros está intacto y sin vigilancia; el de cincuenta tiene un hueco cuyos escombros se quemaron. Las jaulas de madera alojaban a los osos polares de los carros; la jaula colgante contiene un humano muerto.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/patio-de-armas.webp"
   },
   {
    "ref": {
@@ -24117,7 +24117,7 @@
     }
    ],
    "notes": "Cada plataforma tiene dos goblins y dos lobos. Con la alarma activa, disparan sobre los objetivos del suelo; si los pierden de vista, montan a los lobos y cambian de plataforma. Úsalos como parte de la banda o como refuerzos de la alerta.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/plataformas-de-arqueros.webp"
   },
   {
    "ref": {
@@ -24196,7 +24196,7 @@
     }
    ],
    "notes": "El jefe habla a la tribu desde esta plataforma; las escotillas permiten acceder al aparejo de carga. El guardián procede de Ythryn, tiene casi dos mil años y presenta [estructura deteriorada]. El amuleto de la Aguja Perdida de Netheril permite activarlo y vincularlo; comprender las poleas exige una acción arriesgada: con éxito se crea [aparejo comprendido]; con fallo, [poleas atascadas]. Bajarlo puede conceder [guardián vinculado] o un desafío aliado.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/plataforma-y-guardian.webp"
   },
   {
    "ref": {
@@ -24296,7 +24296,7 @@
     }
    ],
    "notes": "Cada choza aloja a un curandero con ropa de invierno, kit y cabra montesa como mascota y montura. Manafek vive en la más oriental, adivina con sangre de cuervo y conoce el disfraz del jefe; prefiere chantajearlo a arriesgarse a disputar el liderazgo. Los curanderos evitan combatir, pero un gnomo o la revelación del secreto pueden provocar hostilidad.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/chozas-de-curanderos.webp"
   },
   {
    "ref": {
@@ -24375,7 +24375,7 @@
     }
    ],
    "notes": "Los condenados deben saltar o morir a espada de sus parientes. Más de 100 kg sobre la mitad exterior rompen la pasarela. Saltar a terreno firme es una acción arriesgada con [tablones que ceden] como etiqueta en contra; con éxito se queda a salvo y [derribado-1]; con fallo se cae 45 metros y se sufre [herido-6], una consecuencia potencialmente mortal. Las cuerdas pueden evitar la caída. Repartir el peso evital colapso.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/paseo-de-perdicion.webp"
   },
   {
    "ref": {
@@ -24453,7 +24453,7 @@
     }
    ],
    "notes": "Cada cabaña alberga un adulto y entre uno y seis niños no combatientes. Si el fuerte es atacado, los residentes recogen las escaleras; escalar el acantilado helado exige una acción arriesgada: con éxito se crea [acceso a la choza]; con fallo se sufre [herido-2]. Atacar a las familias puede provocar un levantamiento general y consecuencias morales.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/chozas-de-goblins.webp"
   },
   {
    "ref": {
@@ -24543,7 +24543,7 @@
     }
    ],
    "notes": "Con la alarma, los guardias atrancan la puerta sur hasta que el jefe ordene abrirla. Derribarla una vez asegurada requiere un ariete u otra arma de asedio. Es un punto de estrangulamiento para defender el fuerte.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/vestibulo-del-homenaje.webp"
   },
   {
    "ref": {
@@ -24610,7 +24610,7 @@
     }
    ],
    "notes": "Los barracones están vacíos al llegar. Si el comedor se usa, su guardia solitario se retira aquí. No hay tesoro reseñable, pero la estancia sirve como escondite o lugar de emboscada.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/barracones-de-guardia.webp"
   },
   {
    "ref": {
@@ -24710,7 +24710,7 @@
     }
    ],
    "notes": "Los diplomáticos esperan a que Spellix se disfrace y sirven cabra cocida unos diez minutos después. Puede entregar la nota de paz paral Consejo de Bryn Shander o pedir escolta para huir; los goblins interpretan la fuga como secuestro y atacan, mientras él solo se defiende. Cuando no se usa la sala, un goblin guarda la puerta este y abre a conocidos; forzarla desdel otro lado exige alcanzar [puerta derribada-4] mediante varias acciones o emplear Poderío de Aventura o Grandeza adecuado; un fallo puede crear [alerta en karkolohk]. Durante el banquete el guardia se retira a los barracones.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/comedor.webp"
   },
   {
    "ref": {
@@ -24789,7 +24789,7 @@
     }
    ],
    "notes": "Usa la lectura cuando el disfraz esté a la vista; si Spellix ya lo lleva, presenta a un jefe goblin corpulento, desaseado y autoritario. Forzar la puerta exige una acción arriesgada: con éxito se crea [puerta abierta]; con fallo, [alerta en karkolohk]; Spellix necesita un minuto para vestirse y gana tiempo charlando en goblin. Sorprenderlo a medio disfrazar puede crear [yarb-gnock desenmascarado] y provocar un motín.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/aposentos-del-jefe.webp"
   },
   {
    "ref": {
@@ -24867,7 +24867,7 @@
     }
    ],
    "notes": "Examinar la piedra es una acción para descubrir su origen: con éxito se reconoce que fue moldeada con magia; los conocimientos sobre piedra cuentan a favor. Con fallo, su origen sigue siendo incierto. Descubrir que es la punta de una estructura enterrada exige alcanzar [estructura comprendida-4] o Poderío de Aventura. La búsqueda descubre un túnel resbaladizo de metro y medio. Bajar sin cuerdas ni magia es arriesgado: con fallo se llega a la entrada con [derribado-1], sin heridas. También pueden deslizarse deliberadamente. Volver a subir requiere equipo de escalada o magia. El guía exige [pago generoso] y regresa tras mostrar la entrada.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/acercamiento-aguja.webp"
   },
   {
    "ref": {
@@ -24923,7 +24923,7 @@
     }
    ],
    "notes": "Las salas tienen unos cuatro metros de altura y las puertas invertidas forman obstáculos de un metro. El guardián del escudo excavó los túneles antes de salir y acabar en Karkolohk; para recorrerlos con seguridad hacen falta cuerdas o magia. La iluminación mágica es constante y no calienta.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/interior-invertido.webp"
   },
   {
    "ref": {
@@ -24990,7 +24990,7 @@
     }
    ],
    "notes": "Es el punto de llegada del túnel exterior. Las antiguas protecciones mágicas de las estatuas se desvanecieron y ya no entrañan peligro; la puerta permite explorar el nivel.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/p1-entrada-invertida.webp"
   },
   {
    "ref": {
@@ -25044,7 +25044,7 @@
     }
    ],
    "notes": "La escalera que conectaba con P9 es intransitable. Los Héroes deben buscar los túneles del guardián para cambiar de nivel.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/p2-pasillo-invertido.webp"
   },
   {
    "ref": {
@@ -25111,7 +25111,7 @@
     }
    ],
    "notes": "La expedición contratada por Dzaan retiró lo más valioso, incluidos los libros de fórmulas arcanas. Una búsqueda paciente recupera Maravillas mágicas de Netheril, Misterios de los Phaerimm y Magos en la hondonada. El túnel norte conduce a P6.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/p3-biblioteca-invertida.webp"
   },
   {
    "ref": {
@@ -25165,7 +25165,7 @@
     }
    ],
    "notes": "Rebuscar entre los escombros permite encontrar una llave de hierro. Abre el cofre metálico de P5.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/p4-taller-invertido.webp"
   },
   {
    "ref": {
@@ -25221,7 +25221,7 @@
     }
    ],
    "notes": "La llave del taller abre el cofre. Forzarlo con herramientas de ladrón es una acción arriesgada: con éxito se abre; con fallo sigue cerrado y se produce ruido. Contiene cuatro pociones que protegen del ácido, el frío, el fuego y la fuerza. Sin precauciones caen y se rompen. Con una mano libre se puede recoger una sin tirada, salvo con prisa o peligro; en ese caso, el fallo rompe la poción.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/p5-almacen-pociones.webp"
   },
   {
    "ref": {
@@ -25277,7 +25277,7 @@
     }
    ],
    "notes": "Las jaulas se desmoronan al manipularlas. Identificar el caparazón como thri-kreen exige conocimientos excepcionales: alcanzar [especie identificada-4] mediante investigación o usar Poderío de Aventura. Los túneles comunican con P3 arriba y P11 abajo.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/p6-laboratorio-jaulas.webp"
   },
   {
    "ref": {
@@ -25333,7 +25333,7 @@
     }
    ],
    "notes": "Una expedición anterior se llevó los mejores volúmenes. Una búsqueda a fondo permite recuperar Guía de Ajamar para lo Fantástico y La mente sin trabas.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/p7-estudio-aprendices.webp"
   },
   {
    "ref": {
@@ -25387,7 +25387,7 @@
     }
    ],
    "notes": "Una magia permanente impide todo sonido en la sala. Deshacerla exige alcanzar [silencio deshecho-3] mediante acciones mágicas. Los aprendices la usaban para estudiar. Cualquier sonido ambiental debe silenciarse dentro de esta escena.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/p8-sala-lectura.webp"
   },
   {
    "ref": {
@@ -25443,7 +25443,7 @@
     }
    ],
    "notes": "La escalera conectaba con P2 y es intransitable. El esqueleto perteneció a un aprendiz muerto en el accidente. Un explorador anterior rompió el dedo para llevarse un anillo que no pudo extraer.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/p9-escalera-colapsada.webp"
   },
   {
    "ref": {
@@ -25497,7 +25497,7 @@
     }
    ],
    "notes": "La escalera comunicaba los niveles 2 a 4, pero ahora es intransitable. Es necesario utilizar los túneles del guardián u otra ruta disponible.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/p10-escalera-caracol.webp"
   },
   {
    "ref": {
@@ -25575,7 +25575,7 @@
     }
    ],
    "notes": "Cualquier disturbio ruidoso atrae al simulacro y a Krintaas desde P12. Unos minutos de búsqueda descubren la llave de latón de P15 y un tubo seguro de chardalyn con un pergamino de invisibilidad sobre pan de oro. La brecha oeste, abierta por una expedición al no poder abrir una puerta secreta, conduce a P13; el túnel superior lleva a P6.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/p11-laboratorio-alquimico.webp"
   },
   {
    "ref": {
@@ -25653,7 +25653,7 @@
     }
    ],
    "notes": "El simulacro admite su naturaleza y ofrece el amuleto si le acompañan a P16 para darle una chispa vital; ignora la muerte y los crímenes de su creador, y asegura equivocadamente que la cámara es inocua. Si le atacan, se vuelve invisible y asciende flotando para huir mientras Krintaas cubre la retirada; si sale, va a Diez Ciudades. Ni él ni Krintaas conocen la función del amuleto; entre los libros quedan cuatro títulos legibles de P12. Quienes vieron la ejecución reconocerán el rostro de Dzaan, pero el simulacro nunca los ha visto.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/p12-nieve-sombra.webp"
   },
   {
    "ref": {
@@ -25710,7 +25710,7 @@
     }
    ],
    "notes": "Reconocer el símbolo de Mystryl, primera encarnación de Mystra, es una acción de investigación: con éxito se identifica; con fallo sigue siendo un misterio. Conocer la rareza de sus santuarios exige alcanzar [culto comprendido-4] o Poderío de Aventura. El altar está a unos tres metros. Una protección oculta su naturaleza mágica; retirarla exige [protección deshecha-3] y permite percibir su magia ilusoria. La primera persona con dones mágicos que toque la estrella hace aparecer un único frasco azul que cae. Puede atraparse con una mano libre sin tirada, salvo con prisa o peligro: el fallo lo rompe y el líquido se evapora. Si varios intentan cogerlo, resolved una sola acción conjunta. Después el altar pierde su magia. Examinar el líquido con medios mágicos revela sus propiedades: beberlo entero concede [bendición de mystryl], que permite crear a voluntad pequeñas imágenes o sonidos ilusorios. Si se comparte o lo bebe alguien que ya posee ese don, se desperdicia.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/p13-santuario-mystryl.webp"
   },
   {
    "ref": {
@@ -25778,7 +25778,7 @@
     }
    ],
    "notes": "Un basilisco hostil entró en la aguja hace unas semanas y se esconde tras la mesa. El simulacro advierte de su presencia a quienes se hayan ganado su amistad. El espejo desmontable de P15 permite reflejar su mirada.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/p14-refectorio-invertido.webp"
   },
   {
    "ref": {
@@ -25857,7 +25857,7 @@
     }
    ],
    "notes": "Perturbar los restos del mago despierta un fuego fatuo ligado a la aguja, imposible de apaciguar. Al sufrir [herido-2], se vuelve invisible y acecha a víctimas aisladas. El espejo puede desmontarse o romperse para reflejar la mirada del basilisco. Una búsqueda exhaustiva descubre un cofre invisible tras la cama. Deshacer su ocultación exige [ocultación disipada-3]. La llave del laboratorio abre su cerradura; forzarla requiere herramientas y alcanzar [cerradura forzada-3], con [cerradura invisible] en contra si no se ve. Pesa unos doce kilos, es hermético y mantiene su interior a unos 20 °C; puede cambiarse por [bolsa de monedas]. El libro de fórmulas arcanas de su interior lleva la runa del amuleto y se desintegra segundos después de abrirlo.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/p15-dormitorio-mago.webp"
   },
   {
    "ref": {
@@ -25945,7 +25945,7 @@
     }
    ],
    "notes": "La sala irradia magia transformadora. Al entrar aparece una imagen invertida del mago que explica su obra en loross; desaparece tras hablar o al deshacerla con magia y no regresa en 24 horas. Tras un minuto de estudio, investigar las runas permite comprender que hacen reales las ilusiones; con fallo, el mecanismo sigue siendo incierto. Alcanzar [runas comprendidas-4] o usar Poderío de Aventura revela sus riesgos: las criaturas necesitan el contacto de un ser vivo como chispa vital, y no pueden crearse objetos mágicos o animados, constructos ni muertos vivientes. Los objetos no necesitan chispa. Bajo el disco, se tira d100 una vez por objeto o conjunto y por criatura cuando la toca un ser vivo: 01–10 destruye la ilusión (el simulacro se derrumba en hielo y nieve); 11–50 crea ectoplasma corrosivo hostil, cuya disipación exige [manifestación deshecha-3]; 51–90 la hace real durante 2d12 horas y después desaparece; 91–00 la hace real permanentemente y quema el disco, inutilizando la cámara. El Narrador adapta los desafíos y etiquetas a la forma resultante. Los riesgos no disuaden al simulacro. Si se hace real, agradece la ayuda y pide secreto; Krintaas sigue a su lado. Ambos viajan a Bryn Shander en busca de un libro de fórmulas arcanas para que Dzaan recupere sus recursos antes de saquear Ythryn.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/p16-camara-runas.webp"
   },
   {
    "ref": {
@@ -26066,7 +26066,7 @@
     }
    ],
    "notes": "El grupo puede presentarse abiertamente o intentar infiltrarse; sin prisa y fuera de la vista de los guardias no hace falta tirar. Cruzar una zona vigilada o actuar con prisa exige una acción arriesgada: con éxito pasan inadvertidos; con fallo crean [campamento en alerta]. Un fallo provoca gritos de alarma y los Reghed intentan capturar a los intrusos para llevarlos ante el caudillo. El campamento cambia de lugar cada uno o dos días y no figura en los mapas.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/acercamiento-al-campamento.webp"
   },
   {
    "ref": {
@@ -26198,7 +26198,7 @@
     }
    ],
    "notes": "Los Héroes pueden rendirse, huir o luchar; los capturados son desarmados e interrogados ante el caudillo. Cooperar, aportar información o demostrar valor puede convertirlos en invitados, mientras que dañar a niños o ancianos acarrea ejecución o exilio. La mitad del campamento duerme en un momento dado, por lo que los despiertos responden primero.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/campamento-en-alerta.webp"
   },
   {
    "ref": {
@@ -26346,7 +26346,7 @@
     }
    ],
    "notes": "El círculo interior aloja al caudillo, al chamán, al cazador más honorable, al mayor guerrero y a los hijos de la tribu; el exterior alberga a artesanos, armeros, conductores y perros. Algunos cazadores y guerreros duermen al raso junto al fuego y la mitad de los ocupantes descansa en todo momento. Hay de dos a cuatro partidas de caza ausentes, de 1d6 + 4 guerreros cada una, que regresan tras 2d4 horas.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/circulos-del-campamento.webp"
   },
   {
    "ref": {
@@ -26435,7 +26435,7 @@
     }
    ],
    "notes": "El caudillo recibe audiencias, celebra consejos e interroga a los prisioneros en esta tienda. El respeto, la paciencia o una demostración de fuerza pueden proporcionar refugio, comida, guía o trineo. Humillarlo o amenazar a su familia lo convierte en enemigo; si es rey o reina, aplica Poderío de Grandeza.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/tienda-del-caudillo.webp"
   },
   {
    "ref": {
@@ -26513,7 +26513,7 @@
     }
    ],
    "notes": "El chamán aconseja al caudillo y dirige los asuntos espirituales; su máscara pública corresponde al animal de su tribu. Guarda 1d4 remedios sanadores y un pergamino ritual para aliviar enfermedades y otros males. Acepta ofrendas, servicios y favores por remedios o consejo; robar provoca enemistad y puede desencadenar maldición o persecución.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/tienda-del-chaman.webp"
   },
   {
    "ref": {
@@ -26643,7 +26643,7 @@
     }
    ],
    "notes": "El invierno de Auril dificulta la caza y los viajes, pero el clan raciona sus recursos, sigue a los rebaños y evita depender de las Diez Ciudades. Escuchar o compartir sus historias, o demostrar fuerza, generosidad y lealtad, puede otorgar favor y una etiqueta de historia. Las tribus del Oso, Alce, Tigre y Lobo evitan el contacto entre sí, por lo que cualquier diplomacia entre ellas es excepcional.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/vida-en-el-campamento.webp"
   },
   {
    "ref": {
@@ -26753,7 +26753,7 @@
     }
    ],
    "notes": "Cada partida reúne 1d6 + 4 guerreros y regresa tras 2d4 horas con carne fresca. Ayudar a rastrear, cazar o defender al grupo obtiene favor, carne, información de rutas y quizá un guía. Atacarlos constituye un acto de guerra; usa el desafío Banda de guerreros Reghed si hay enfrentamiento.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/partidas-de-caza.webp"
   },
   {
    "ref": {
@@ -26863,7 +26863,7 @@
     }
    ],
    "notes": "Hay tres guardias por torre; los intentos de pasar inadvertidos afrontan [vigilancia coordinada] como etiqueta en contra y se resuelven para el grupo en conjunto. Si detectan algo extraño, uno baja a avisar y los demás mantienen sus puestos. La ventisca puede dificultar la llegada si el clima empeora.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/acercamiento-cortavientos.webp"
   },
   {
    "ref": {
@@ -26951,7 +26951,7 @@
     }
    ],
    "notes": "Los guardias confiscan las armas y registran a los visitantes; ocultar una daga es arriesgado: el éxito crea [arma oculta]; el fallo supone su confiscación y [bajo sospecha-2]. Los animales van a los establos y necesitan comida aportada por sus dueños. Refugio o entrevista son razones legítimas; sin una explicación satisfactoria, Marta devuelve las pertenencias y expulsa al grupo.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/entrada-guardia.webp"
   },
   {
    "ref": {
@@ -27026,7 +27026,7 @@
     }
    ],
    "notes": "La grúa se maneja mediante una palanca de hierro en la sala de guardia norte de la entrada norte. La puerta retráctil de la cabina queda en el lado opuesto a la grúa. Los barcos de abastecimiento pueden ofrecer pasaje a la isla de Auril o fuera del Lejano Norte.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/muelle-ascensor.webp"
   },
   {
    "ref": {
@@ -27155,7 +27155,7 @@
     }
    ],
    "notes": "El hospital guarda suministros para veinte kits de curandero y seis cocineros se turnan en la cocina, junto a despensa, cámara fría y dormitorio. De los diez aposentos de los aposentos de los consejeros, tres pertenecen a Voss, Jil y Kriv; los siete libres pueden alojar visitantes. Marta concede refugio hasta dos días y dos noches, con tres comidas diarias; los visitantes alimentan a sus propios animales. El personal come por turnos cada cuatro horas.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/servicios-aposentos.webp"
   },
   {
    "ref": {
@@ -27254,7 +27254,7 @@
     }
    ],
    "notes": "Cada torre tiene tres guardias preparados para el frío. La armería contiene veinte alabardas, quince espadas largas, quince cortas, diez picas, diez ballestas pesadas, cinco ligeras y cientos de virotes. El espectador reconoce al personal, ataca a desconocidos y nunca abandona la sala; otra escotilla lleva al techo.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/torres-armeria.webp"
   },
   {
    "ref": {
@@ -27352,7 +27352,7 @@
     }
    ],
    "notes": "El acceso está controlado y depende del clima. Los guardias vigilan desde el suelo y desde la torre de la esquina; cualquier interacción con los reclusos ocurre bajo su mirada.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/patios-ejercicio.webp"
   },
   {
    "ref": {
@@ -27450,7 +27450,7 @@
     }
    ],
    "notes": "Marta permanece presente durante las entrevistas con prisioneros. Todos los reclusos llegan esposados. La escotilla del techo está protegida por una sello mágico.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/sala-reuniones.webp"
   },
   {
    "ref": {
@@ -27546,7 +27546,7 @@
     }
    ],
    "notes": "El almacén sostiene seis meses de actividad de la prisión. Los guardias organizan el vaciado diario de las letrinas por los reclusos; esta rutina permite situar encuentros de servicio sin alterar los protocolos de custodia.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/almacen-letrinas.webp"
   },
   {
    "ref": {
@@ -27665,7 +27665,7 @@
     }
    ],
    "notes": "Hay veinticuatro celdas de una o dos plazas; 4d12 determina la población actual. Los números van del 6 al 299 y no se reutilizan; para entrevistar a Gant se solicita al Prisionero 237. Los perfiles posibles incluyen nobles esclavistas o conspiradores, espías, asesinos, buscadores de fortuna, magos y líderes de ladrones, siempre sin equipo; comen en las celdas. Las puertas se abren desde la consola. Cada celda suprime toda magia salvo la de artefactos o deidades.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/panoptico-celdas.webp"
   },
   {
    "ref": {
@@ -27763,7 +27763,7 @@
     }
    ],
    "notes": "La consola tiene veinticuatro interruptores de celda, uno maestro, un dial de luz y un altavoz. Sus mandos se manipulan al alcance de la mano. Tiene el límite destrozada 4: al alcanzarlo, todas sus funciones se desactivan. Los venenos y los ataques contra la mente no la afectan. Durante la alerta, Marta y los refuerzos convergen aquí.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/centro-vigilancia.webp"
   },
   {
    "ref": {
@@ -27840,7 +27840,7 @@
     }
    ],
    "notes": "Dos tercios de los setenta y cinco guardias descansan aquí; veinticinco están de servicio. Necesitan diez minutos para ponerse la armadura antes de dirigirse a el centro de vigilancia durante una alerta. La palabra «luces» regula la iluminación. Fuera de una alerta descansan aquí cincuenta guardias sin armas ni armadura.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/barracones-guardias.webp"
   },
   {
    "ref": {
@@ -27958,7 +27958,7 @@
     }
    ],
    "notes": "Uno o más consejeros deben recomendar una conmutación y cada recluso solo puede ser considerado una vez al año. Los candidatos comparecen esposados y pueden influir en los miembros antes de votar. Voss sopesa las consecuencias, Jil suele votar a favor y Kriv siempre en contra; en alerta máxima el consejo se refugia aquí.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/salon-absolucion.webp"
   },
   {
    "ref": {
@@ -28045,7 +28045,7 @@
     }
    ],
    "notes": "«Vaudra» regula la luz; el anillo de Marta lleva siete llaves para cofre, armarios y cajón del despacho. El cofre, difícil de forzar, contiene suministros de calígrafo, un saco de monedas y un alfiler de los Arpistas; una tapa secreta oculta la varita de atadura. Vlax posee a Marta una o dos veces diarias durante una o dos horas: solo habla enano y no usa sus magia habitual. Marta rechaza viajar a las criptas de Brawnanvil en Gauntlgrym porque no quiere perderlo; guardias y consejo conocen la posesión. Forzar el cofre con herramientas exige alcanzar [cerradura vencida-4] mediante varias acciones o recurrir a Poderío de Aventura o Grandeza.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/aposentos-alcaide.webp"
   },
   {
    "ref": {
@@ -28134,7 +28134,7 @@
     }
    ],
    "notes": "Marta posee las llaves de los armarios y del cajón. Sus cerraduras son más fáciles de forzar que la del cofre de los aposentos del alcaide. Los registros permiten investigar a Gant y a otros reclusos pasados o presentes, según lo que conste en sus expedientes. Con herramientas y tiempo, las cerraduras se abren sin tirada; con prisa o peligro, un fallo hace perder tiempo y puede alertar a los guardias.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/despacho-alcaide.webp"
   },
   {
    "ref": {
@@ -28232,7 +28232,7 @@
     }
    ],
    "notes": "Subir o bajar el puente exige manejar su mecanismo. Si los vigías detectan una aeronave o amenaza aérea, avisan a la guarnición y Marta sale con ropa de clima frío para recibirla o afrontarla. La exposición puede activar el desafío de la ventisca.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/tejado-torre.webp"
   },
   {
    "ref": {
@@ -28372,7 +28372,7 @@
     }
    ],
    "notes": "Solo Marta activa la alerta; la justifican revueltas, fugas, barcos desconocidos, dragones o ataques. Los guardias de los barracones se arman y marchan a el centro de vigilancia, donde Marta dirige la guarnición; el consejo sube a el salón de la Absolución. Marta y todos los guardias obtienen capacidad de percibir lo invisible mientras dura la alerta.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/alerta-maxima.webp"
   },
   {
    "ref": {
@@ -28481,7 +28481,7 @@
     }
    ],
    "notes": "Puede entrevistarse en la sala de reuniones con Marta presente, o localizarse en su celda de las celdas; la imagen corresponde a la sala de reuniones. Entrega la pista de la ciudad netheriliana bajo el glaciar Reghed si ve la carta de Duvessa Shane o si lo liberan; preguntar por la Hermandad despierta sus sospechas. Está sin libro ni componentes y no puede usar magia en su celda. Su recompensa es una promesa; una fuga provoca alerta, persecución y enemistad de la Alianza.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/encuentro-prisionero-237.webp"
   },
   {
    "ref": {
@@ -28581,7 +28581,7 @@
     }
    ],
    "notes": "Los seis grifos chillan al descubrir desconocidos y los goliats se arman; un Héroe del clan puede evitar la alarma presentándose. Los grifos combatirán si atacan el refugio. Para el viaje por los pasos aplica la tormenta de montaña, con helado-1, perdido-2 y empapado-2 según corresponda.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/calzada-de-piedra.webp"
   },
   {
    "ref": {
@@ -28691,7 +28691,7 @@
     }
    ],
    "notes": "Arn recibe a los Héroes del clan y sus acompañantes; a los demás exige la capa blanca de Ogolai, aunque deban matarlo o forzarlo a entregarla. Dos barras de madera de 250 kg sellan la puerta y las cuchillas impiden escalar: entrar sin permiso desencadena un ataque, con nueve guerreros en la tercer intercambio de acciones y seis grifos en la quinta, o antes si Arn silba. Restaurar la vista de Kaniaka permite que ella lo convenza para reunirse con Ogolai en el refugio o en terreno neutral; Arn relata su versión del juego de pelota de cabra y del grifo muerto en su nido. Ogolai exige curar a sus aarakocra heridos: la mediación debe limitar los séquitos y puede proponer un enemigo común para resolver el feudo.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/barricada-y-caudillo.webp"
   },
   {
    "ref": {
@@ -28769,7 +28769,7 @@
     }
    ],
    "notes": "Los cinco guardianes son guerreros goliats y defienden el acceso. El nido solo contiene huesos de cabras montesas sin valor; los dos túneles conducen al interior.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/pasarela-elevada.webp"
   },
   {
    "ref": {
@@ -28879,7 +28879,7 @@
     }
    ],
    "notes": "Kaniaka, madre de Harad, es ciega, escucha con atención y desea el fin del feudo; curarla concede deuda de Kaniaka y su mediación ante Arn. Harad, esposo de Arn, duerme hasta que habláis con ella: ataca si habéis matado a sus familiares, pero ante otras ofensas intenta provocar el primer golpe por honor. El gato solo combate para proteger a Kaniaka.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/cueva-del-caudillo.webp"
   },
   {
    "ref": {
@@ -28946,7 +28946,7 @@
     }
    ],
    "notes": "La piedra tiene runas en enano sobre visión y liderazgo de las grandes aves del Valle. Percibir lo sobrenatural revela su magia transformadora. Un humanoide que rece o medite junto a ella una hora obtiene la etiqueta temporal [claridad de mente y espíritu], que puede usar a favor de una acción de percepción, juicio o trato con otros durante las siguientes veinticuatro horas. La etiqueta se consume al usarla y no puede obtenerse otra de esta piedra durante diez días. El conducto baja a la cueva de los grifos.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/santuario-mente-espiritu.webp"
   },
   {
    "ref": {
@@ -29055,7 +29055,7 @@
     }
    ],
    "notes": "Rahi Soñadora del Cielo Akannathi es guerrera, guía espiritual y cuidadora de los grifos, experta en su cuidado y en curar heridas. La cría tiene menos de un año y teme volar. La madre ataca si ella, su cría o Rahi están amenazadas. Rahi puede llamar con un silbido a dos grifos de las laderas, que llegan tras tres intercambios de acciones. Convencerla de permitir un acercamiento exige vencer la etiqueta en contra [desconfianza de Rahi] y alcanzar [dispuesta a escuchar-3] mediante gestos y argumentos. Calmar a la cría es una acción arriesgada: el éxito crea [confianza de Rahi] y el animal se encariña con el Héroe; el fallo provoca un intento de mordisco, con posible [herido-1], y Rahi exige que se aleje. Ganarse su amistad permite a un Héroe goliat aprender la doma durante un año. Al culminar el aprendizaje, una acción arriesgada afianza el vínculo de por vida y concede un hito de Gesta; con fallo, el vínculo aún no se consolida y necesita más cuidados. El grifo crece durante el adiestramiento y será montable al tercer año.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/cueva-de-grifos.webp"
   },
   {
    "ref": {
@@ -29133,7 +29133,7 @@
     }
    ],
    "notes": "Las runas enanas hablan de gloria, honor y rivales dignos. Percibir lo sobrenatural revela la magia transformadora de la piedra. Un humanoide que rece o medite junto a ella una hora obtiene la etiqueta temporal [fuerza y honor], que puede usar a favor de una acción de esfuerzo físico o combate con armas durante las siguientes veinticuatro horas. La etiqueta se consume al usarla y no puede obtenerse otra de esta piedra durante diez días. El conducto asciende a la cueva del festín; si los guerreros siguen allí, se oyen sus vítores.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/santuario-fuerza-honor.webp"
   },
   {
    "ref": {
@@ -29200,7 +29200,7 @@
     }
    ],
    "notes": "Examinar con calma las tallas y contar con conocimientos de historia permite fechar las primeras hace unos cuatrocientos años y reconocer las últimas como recientes. Con prisa o peligro, interpretarlas exige una acción arriesgada: el éxito crea [historia del clan akannathi]; el fallo deja [cronología confusa]. Copiarlas o memorizarlas aporta [feudo goliat] para la mediación. Representan el feudo y a Oyaminartok.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/pasadizo-de-tallas.webp"
   },
   {
    "ref": {
@@ -29279,7 +29279,7 @@
     }
    ],
    "notes": "Los guerreros ordenan marcharse a quienes no vengan con un goliat del clan y atacan si se niegan. La cueva queda vacía si acuden a la barricada. Un Héroe puede retarlos a sostener una roca pesada en cada mano con los brazos paralelos al suelo. El primer minuto no exige tirada salvo que exista otra presión; después, cada minuto de esfuerzo es una acción arriesgada. Las consecuencias acumulan [fatigado-1], con límite [fatigado-3]: al alcanzarlo, el participante deja caer las rocas y queda eliminado. El Narrador aplica el mismo límite a los rivales y aumenta la presión con [brazos temblorosos]. El último que mantiene las rocas gana [respeto akannathi], que puede convertirse en [amistad goliat] si no ha ofendido al clan.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/cueva-del-festin.webp"
   },
   {
    "ref": {
@@ -29355,7 +29355,7 @@
     }
    ],
    "notes": "Tres niños de entre 1,2 y 1,5 metros juegan junto al tesoro y no combaten. El tesoro contiene [bolsa de monedas], [gemas del clan], una estatuilla de hueso de Gruumsh, una jaula de oro con filigrana de electro y un frasco de cristal gris con una poción que permite convertirse en bruma y atravesar grietas durante un tiempo corto. Su valor se representa mediante favores y etiquetas de mochila; robarlo enfrenta al clan con los Héroes.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/cueva-comunal.webp"
   },
   {
    "ref": {
@@ -29465,7 +29465,7 @@
     }
    ],
    "notes": "Las huellas de dos cazadores facilitan encontrar el asentamiento; aplica las reglas de viaje por montaña. El clan ofrece comida y refugio a cambio de historias y noticias, rechaza a los goliats de Torre del Cielo y expulsa a los visitantes problemáticos.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/vista-y-aproximacion.webp"
   },
   {
    "ref": {
@@ -29565,7 +29565,7 @@
     }
    ],
    "notes": "Los restos pertenecen a Stygiarus, un dragón blanco adulto abatido por el clan hace décadas, y sirven para el encargo de Dannika Acerogris. Los cuatro chwingas siguen al grupo mientras permanezca cerca; atender la fascinación de uno una vez al día durante tres días consecutivos concede la etiqueta de historia [don de chwinga].",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/huesos-y-chwingas.webp"
   },
   {
    "ref": {
@@ -29675,7 +29675,7 @@
     }
    ],
    "notes": "Cuatro guerreros de W7 desafían amistosamente al grupo si se gana el cariño del clan; también se puede observar y apostar. El equipo intenta alcanzar [victoria-3] mediante acciones de fuerza, equilibrio y cooperación entre los pilares. Un fallo permite al rival marcar o impone [desequilibrado-1]; las apuestas se representan con [bolsa de monedas]. El túnel superior conduce a W6.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/cancha-pelota-cabra.webp"
   },
   {
    "ref": {
@@ -29761,7 +29761,7 @@
     }
    ],
    "notes": "Wayani trabaja con técnicas aprendidas de un herrero enano y disfruta explicando su oficio. Si el grupo parece amistoso, lo conduce ante Ogolai en W5; la forja contiene trece jabalinas y tres grandes hachas pesadas, todas no mágicas.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/armeria.webp"
   },
   {
    "ref": {
@@ -29870,7 +29870,7 @@
     }
    ],
    "notes": "Demelok ayuda a Jaagrik, Kaga y Zuri a preparar las muñecas que simbolizan la infancia; la familia espera al iniciado al otro extremo. En el punto medio, resistir el agotamiento y afrontar las visiones son acciones arriesgadas. Un éxito permite seguir; un fallo impone [bloqueado-1] y obliga a volver por la entrada. Si el iniciado insiste pese al bloqueo y vuelve a fallar, queda [inconsciente-6] durante varias horas. Superar las visiones permite salir por el otro extremo. Se puede reintentar; superar la prueba concede pertenencia honoraria solo con consentimiento de Ogolai.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/tunel-iniciacion.webp"
   },
   {
    "ref": {
@@ -29990,7 +29990,7 @@
     }
    ],
    "notes": "Ogolai recibe al grupo junto al fuego y, si le agrada, lo invita a comer en W7; hay ocho guerreros, dos de ellos jóvenes desarmados y sin armadura, y seis niños. Una pelea atrae a nueve guerreros de W7; el pozo se mantiene líquido bajando un cubo de fuego. Ogolai relata el ataque del grifo que originó la enemistad, ocultando que ella era la niña herida; acepta arbitraje solo en su propia cancha, no ofrece gestos y llama a Arn «muerto viviente». Si confía en el grupo, pide estar atentos a Kapanuk, perdido durante una cacería y posiblemente en la fortaleza de Xardorok.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/salon-principal.webp"
   },
   {
    "ref": {
@@ -30100,7 +30100,7 @@
     }
    ],
    "notes": "Aruk cuida a Sikki-kree, rescatada tras estrellarse en una tormenta; sus heridas menores han curado, pero reparar el ala exige una intervención sobrenatural capaz de reparar el hueso que el clan no puede proporcionar. Curarla gana gratitud aarakocra, respeto goliat y una deuda de Ogolai suficiente para aceptar una reunión con Arn; Sikki-kree agradece la ayuda y pide permiso para partir. La reserva meridional financia visitas a Diez Ciudades e incluye una gema elemental cuya magia ignoran los goliats; robarla provoca ira, posible expulsión y pérdida de confianza.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/cuevas-privadas.webp"
   },
   {
    "ref": {
@@ -30210,7 +30210,7 @@
     }
    ],
    "notes": "Suele haber nueve guerreros y ocho no combatientes, entre niños y ancianos. Los goliats agradecen el interés por la lucha y nunca rechazan un desafío, aunque no suelen buscar oponentes menores o más débiles; La lucha se resuelve acumulando [dominado-3] sobre el rival mediante agarres y derribos; un fallo permite al contrincante imponer [dominado-1]. Si el clan toma cariño al grupo, cuatro guerreros proponen un partido en W2.",
-   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/portada.webp"
+   "thumb": "modules/mr-doncella-escarcha/assets/thumbs/cueva-del-festin.webp"
   }
  ]
 }
