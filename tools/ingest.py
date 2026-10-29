@@ -1,10 +1,11 @@
-"""art/new/*.png → assets/*.webp. Escenas 1920×1080 + miniatura 400 px; tokens recortados al canal alfa;
+"""art/new/*.png → assets/*.webp. Escenas 1920×1080 + miniatura 400 px; tokens recortados al canal alfa (alto máx. TOK);
 retrato 512 sacado de la cabeza del token; hoja de héroe 1200×800. Reanudable; empaqueta art/arte.zip."""
 from pathlib import Path
 from PIL import Image,ImageOps,ImageFilter,ImageDraw
 import sys,zipfile
 ROOT=Path(__file__).resolve().parents[1];NEW=ROOT/'art/new';A=ROOT/'assets'
-def save(im,p,q=84):
+TOK=760  # alto máx. de las fichas: en el tablero rara vez se ven a más de 300 px
+def save(im,p,q=72):
  p.parent.mkdir(parents=True,exist_ok=True);im.save(p,'WEBP',quality=q,method=6)
 def scene(src,dest):
  im=Image.open(src).convert('RGB');w,h=im.size;nh=round(w*9/16);top=max(0,(h-nh)//2)
@@ -14,8 +15,8 @@ def token(src,folder,slug):
  im=Image.open(src).convert('RGBA');a=im.split()[-1].point(lambda v:255 if v>24 else 0);box=a.getbbox()
  if not box:raise SystemExit(f'{src}: sin alfa')
  fig=im.crop(box);pad=round(fig.height*.04);c=Image.new('RGBA',(fig.width+2*pad,fig.height+2*pad));c.paste(fig,(pad,pad))
- if c.height>1400:c=c.resize((round(c.width*1400/c.height),1400),Image.LANCZOS)
- save(c,A/folder/(slug+'-token.webp'),88)
+ if c.height>TOK:c=c.resize((round(c.width*TOK/c.height),TOK),Image.LANCZOS)
+ save(c,A/folder/(slug+'-token.webp'),78)
  s=round(fig.width*.62);cx=fig.width//2;head=fig.crop((max(0,cx-s//2),0,max(0,cx-s//2)+s,s))
  bg=Image.new('RGBA',head.size,(30,38,54,255));bg.alpha_composite(head);save(bg.convert('RGB').resize((512,512),Image.LANCZOS),A/folder/(slug+'-portrait.webp'))
 def sheet(slug):

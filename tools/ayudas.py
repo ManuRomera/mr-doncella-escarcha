@@ -28,7 +28,7 @@ def compose(a):
  y+=size*.8
  for l in lines:m.text((x0,y),l,font=f,fill=235);y+=size*1.32
  mask=mask.filter(ImageFilter.GaussianBlur(.6));bg.paste(Image.new('RGB',bg.size,(38,30,24)),mask=mask)
- out=ROOT/f"assets/handouts/{a['slug']}.webp";out.parent.mkdir(parents=True,exist_ok=True);bg.save(out,'WEBP',quality=86);return True
+ out=ROOT/f"assets/handouts/{a['slug']}.webp";out.parent.mkdir(parents=True,exist_ok=True);bg.save(out,'WEBP',quality=80,method=6);return True
 n=0
 O=json.loads((ROOT/'content/oficial.json').read_text());NOAYUDA=set(O['descartar'])|set(O['ayudas'])
 for f in sorted(ROOT.glob('content/cap*/*.json')):
